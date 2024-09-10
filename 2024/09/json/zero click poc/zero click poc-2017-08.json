@@ -1,0 +1,52 @@
+{
+    "commits_count": 1,
+    "date_started": "2017-08-31",
+    "date_updated": "2017-08-31",
+    "description": "Introduction In this project, you will develop a simulator and multiple strategies for the dice game Hog. You will need to use control statements and higher-order functions together, as described in Sections 1.2 through 1.6 of Composing Programs.  In Hog, two players alternate turns trying to be the first to end a turn with at least 100 total points. On each turn, the current player chooses some number of dice to roll, up to 10. That player's score for the turn is the sum of the dice outcomes.  To spice up the game, we will play with some special rules:  Pig Out. If any of the dice outcomes is a 1, the current player's score for the turn is 1. Example 1: The current player rolls 7 dice, 5 of which are 1's. They score 1 point for the turn. Example 2: The current player rolls 4 dice, all of which are 3's. Since Pig Out did not occur, they score 12 points for the turn. Free Bacon. A player who chooses to roll zero dice scores one more than the largest digit in the opponent's total score. ...",
+    "forks_count": 4,
+    "html_url": "https://github.com/flybunctious/The-Game-of-Hog",
+    "keywords": [
+        "Windows use after free",
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "The-Game-of-Hog",
+    "repo_owner": "flybunctious",
+    "repotime": "2017-08-31, 16:35:06",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 10,
+    "date_started": "2017-08-13",
+    "date_updated": "2017-08-13",
+    "description": "XXE POC",
+    "forks_count": 1,
+    "html_url": "https://github.com/cyberintruder/XXE-POC",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "PHP",
+    "repo_name": "XXE-POC",
+    "repo_owner": "cyberintruder",
+    "repotime": "2017-08-13, 15:57:35",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-08-11",
+    "date_updated": "2017-08-09",
+    "description": "PoC - UAC bypass technique by James Forshaw",
+    "forks_count": 12,
+    "html_url": "https://github.com/SecurityResearchStaff/uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "uac",
+    "repo_owner": "SecurityResearchStaff",
+    "repotime": "2017-08-09, 07:58:42",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}

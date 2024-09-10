@@ -1,0 +1,89 @@
+{
+    "commits_count": 1777,
+    "date_started": "2019-09-10",
+    "date_updated": "2024-03-18",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 258,
+    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "TongchengOpenSource",
+    "repotime": "2024-03-18, 11:15:20",
+    "stargazers_count": 1294,
+    "watchers_count": 1294
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-09-04",
+    "date_updated": "2024-03-17",
+    "description": "A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder.  To get started, simply fork this repo.  CONTRIBUTING See ways of contributing to this repo. You can contribute solutions (will be published in this repo) to existing problems, add new projects, or remove existing ones. Make sure you follow all instructions properly.  Solutions You can find implementations of these projects in many other languages by other users in this repo.  Credits  Problems are motivated by the ones shared at:  Martyr2’s Mega Project List Rosetta Code Table of Contents Numbers Classic Algorithms Graph Data Structures Text Networking Classes Threading Web Files Databases Graphics and Multimedia Security Numbers Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.  Find e to the Nth Dig...",
+    "forks_count": 18,
+    "html_url": "https://github.com/ManojKumarPatnaik/Major-project-list",
+    "keywords": [
+        "Windows zero-day analysis",
+        "zero-day analysis",
+        "path traversal attack",
+        "Windows zero-day",
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Major-project-list",
+    "repo_owner": "ManojKumarPatnaik",
+    "repotime": "2024-03-17, 22:10:46",
+    "stargazers_count": 73,
+    "watchers_count": 73
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-03-07",
+    "date_updated": "2024-03-07",
+    "description": "CVE-2024-21338 Windows Kernel Elevation of Privilege Vulnerability Zero-day",
+    "forks_count": 0,
+    "html_url": "https://github.com/crackmapEZec/CVE-2024-21338-POC",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-21338-POC",
+    "repo_owner": "crackmapEZec",
+    "repotime": "2024-03-07, 23:12:55",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 27,
+    "date_started": "2023-12-18",
+    "date_updated": "2024-03-03",
+    "description": "Expert analyses and high-quality write-ups on current one-day and zero-day vulnerabilities, detailing CVEs for the cybersecurity community. Maintained by the Fire-Null security research collective.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Fire-Null/Write-Ups",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Write-Ups",
+    "repo_owner": "Fire-Null",
+    "repotime": "2024-03-03, 14:41:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2017-09-13",
+    "date_updated": "2024-03-01",
+    "description": "The dangers of Bluetooth implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth stacks.",
+    "forks_count": 14,
+    "html_url": "https://github.com/metaver5o/blueborne",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "blueborne",
+    "repo_owner": "metaver5o",
+    "repotime": "2024-03-01, 09:45:57",
+    "stargazers_count": 35,
+    "watchers_count": 35
+}

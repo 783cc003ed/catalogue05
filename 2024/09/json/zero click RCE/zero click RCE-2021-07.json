@@ -1,0 +1,93 @@
+{
+    "commits_count": 4,
+    "date_started": "2021-07-24",
+    "date_updated": "2021-07-28",
+    "description": "Recently, it was discovered that Microsoft client operating systems released in the past 2.5 years are susceptible to a zero-day flaw in how permissions are implemented on a critical system folder.  The code in the repository implements the steps documented by Microsoft as the remediation for the vulnerability, including setting permissions and deleting Shadow Copies.",
+    "forks_count": 1,
+    "html_url": "https://github.com/brandonleegit/RemediateSeriousSAM",
+    "keywords": [
+        "zero-day vulnerability",
+        "Microsoft zero-day vulnerability",
+        "Microsoft zero-day"
+    ],
+    "language": "PowerShell",
+    "repo_name": "RemediateSeriousSAM",
+    "repo_owner": "brandonleegit",
+    "repotime": "2021-07-28, 14:56:58",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-07-28",
+    "date_updated": "2021-07-28",
+    "description": "This is a reference implementation of paper Bringing Old Photos Back to Life, CVPR2020 (Oral) by Ziyu Wan1, Bo Zhang2, Dongdong Chen3, Pan Zhang4, Dong Chen2, Jing Liao1, Fang Wen2 City University of Hong Kong, Microsoft Research Asia, Microsoft Cloud AI, 4 USTC   After placing an old photo restore example in this group I got several requests for doing the work for their personal image or some important historic image they have. Doing it individually is a time taken job hence I have created this colab notebook for the same.  Through this colab notebook we have tried to make a simple free web based old photo editor so that this can be easily used by any person with limited technical knowledge. And this appears like a web page for restoring their personal photos. Click on the play button at the corner of each code block. There are two code blocks. The first one is to download pre trained models, hence it takes some time. This first block needs to be executed only once for a session. The ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/shatadal88/Simple-Old-photo-restore-",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Simple-Old-photo-restore-",
+    "repo_owner": "shatadal88",
+    "repotime": "2021-07-28, 15:14:41",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-07-02",
+    "date_updated": "2021-07-02",
+    "description": "CVE-2021-1675: ZERO-DAY VULNERABILITY IN WINDOWS PRINTER SERVICE WITH AN EXPLOIT AVAILABLE IN ALL OPERATING SYSTEM VERSIONS",
+    "forks_count": 1,
+    "html_url": "https://github.com/ptter23/CVE-2021-1675",
+    "keywords": [
+        "zero-day vulnerability",
+        "Windows zero-day exploitation",
+        "Windows zero-day",
+        "zero-day exploitation",
+        "Windows zero-day exploit",
+        "zero-day exploit",
+        "Windows zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-1675",
+    "repo_owner": "ptter23",
+    "repotime": "2021-07-02, 13:07:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-07-01",
+    "date_updated": "2021-07-01",
+    "description": "Scripts to temporarily fuck the permissions (and unfuck when the patch is released) to reduce the impact of the printer spooler zero day vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/alextannenbaum/printer-zeroday",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "printer-zeroday",
+    "repo_owner": "alextannenbaum",
+    "repotime": "2021-07-01, 17:46:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-07-01",
+    "date_updated": "2021-07-01",
+    "description": "Hey Folks, in this repo we are going to demonstrate a method through which we can remotely access any windows machine by sending a link. Originally we would use the HTA attack feature provided by the setoolkit tool, by which we could broadcast our payload via a direct link and we would have a meterpreter session when the victim would double click on that payload. If you want to know about HTA attack, you can read from below.",
+    "forks_count": 0,
+    "html_url": "https://github.com/QMRonline/HackWindows10PC",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "HackWindows10PC",
+    "repo_owner": "QMRonline",
+    "repotime": "2021-07-01, 01:44:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

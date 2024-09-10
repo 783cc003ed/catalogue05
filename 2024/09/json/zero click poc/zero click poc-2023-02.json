@@ -1,0 +1,244 @@
+{
+    "commits_count": 2,
+    "date_started": "2023-02-27",
+    "date_updated": "2023-02-27",
+    "description": "A small ncat-like server wrtten in 2 versions, one with a buffer overflow exploit and the later version without. It was written to be used in an end-to-end zero-day workflow, including identification and banner grabbing by nmap/Nessus and ending with a Metasploit exploit.",
+    "forks_count": 0,
+    "html_url": "https://github.com/damiengolding/Victim-Lab-Server",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Victim-Lab-Server",
+    "repo_owner": "damiengolding",
+    "repotime": "2023-02-27, 15:09:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2022-05-30",
+    "date_updated": "2023-02-24",
+    "description": "POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes",
+    "forks_count": 255,
+    "html_url": "https://github.com/chvancooten/follina.py",
+    "keywords": [
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Smarty",
+    "repo_name": "follina.py",
+    "repo_owner": "chvancooten",
+    "repotime": "2023-02-24, 17:08:08",
+    "stargazers_count": 1124,
+    "watchers_count": 1124
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-02-24",
+    "date_updated": "2023-02-24",
+    "description": "Latest Chrome PoC for RCE code execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/jermainlaforce/Chrome-CVE-PoC",
+    "keywords": [
+        "Chrome rce poc",
+        "Chrome rce"
+    ],
+    "language": null,
+    "repo_name": "Chrome-CVE-PoC",
+    "repo_owner": "jermainlaforce",
+    "repotime": "2023-02-24, 00:29:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 843,
+    "date_started": "2019-06-10",
+    "date_updated": "2023-02-23",
+    "description": "一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档",
+    "forks_count": 1636,
+    "html_url": "https://github.com/chaitin/xray",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Vue",
+    "repo_name": "xray",
+    "repo_owner": "chaitin",
+    "repotime": "2023-02-23, 15:36:27",
+    "stargazers_count": 7939,
+    "watchers_count": 7939
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-09-11",
+    "date_updated": "2023-02-21",
+    "description": "Zero-Day Vulnerability in File Manager Plugin 6.7 ( CVE 2020-25213 )",
+    "forks_count": 10,
+    "html_url": "https://github.com/Aron-Tn/0day-elFinder-2020",
+    "keywords": [
+        "zero-day vulnerability",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "0day-elFinder-2020",
+    "repo_owner": "Aron-Tn",
+    "repotime": "2023-02-21, 22:28:26",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-20",
+    "date_updated": "2023-02-21",
+    "description": "Malwarebytes Anti-Exploit Premium Crack  Is a strong and complete security product that protects you from zero-day exploits that target applications and browsers. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/SoftCrackPro1/https-softcrackpro.com-malwarebytes-anti-exploit-softcrackpro-",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "https-softcrackpro.com-malwarebytes-anti-exploit-softcrackpro-",
+    "repo_owner": "SoftCrackPro1",
+    "repotime": "2023-02-21, 03:01:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-02-20",
+    "date_updated": "2023-02-20",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/DeveloperAvik/zero-day-exploit",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "zero-day-exploit",
+    "repo_owner": "DeveloperAvik",
+    "repotime": "2023-02-20, 14:04:28",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-16",
+    "description": "Arris Router Firmware 9.1.103 - Remote Code Execution (RCE) (Authenticated) POC Exploit (CVE-2022-45701)",
+    "forks_count": 0,
+    "html_url": "https://github.com/yerodin/CVE-2022-45701",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-45701",
+    "repo_owner": "yerodin",
+    "repotime": "2023-02-16, 13:15:55",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 21,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-02-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/brancobruyneel/jest-memory-leak-poc",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "TypeScript",
+    "repo_name": "jest-memory-leak-poc",
+    "repo_owner": "brancobruyneel",
+    "repotime": "2023-02-09, 10:26:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-06",
+    "date_updated": "2023-02-06",
+    "description": "The Repository is for using virtual Linux environment on win 10",
+    "forks_count": 0,
+    "html_url": "https://github.com/ShehabNegm/zero_day",
+    "keywords": [
+        "Win zero-day"
+    ],
+    "language": null,
+    "repo_name": "zero_day",
+    "repo_owner": "ShehabNegm",
+    "repotime": "2023-02-06, 23:18:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-01-27",
+    "date_updated": "2023-02-04",
+    "description": "LPE PoC of a user-after-free vulnerability in the Linux netfilter subsystem.",
+    "forks_count": 1,
+    "html_url": "https://github.com/ysanatomic/CVE-2022-32250-LPE",
+    "keywords": [
+        "lpe poc",
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-32250-LPE",
+    "repo_owner": "ysanatomic",
+    "repotime": "2023-02-04, 18:27:19",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "A stored cross-site scripting (XSS) vulnerability exists in Tenable.sc due to improper validation of user-supplied input before returning it to users. An authenticated, remote attacker can exploit this by convincing a user to click a specially crafted URL, to execute arbitrary script code in a user's browser session. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-24494",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-24494",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 19:23:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "This is a crash for Brave Browser I found in New Years Eve, used to be a 0day when I found it",
+    "forks_count": 3,
+    "html_url": "https://github.com/trickster0/Brave_Browser_1Day_POC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "HTML",
+    "repo_name": "Brave_Browser_1Day_POC",
+    "repo_owner": "trickster0",
+    "repotime": "2023-02-02, 14:34:13",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-01",
+    "date_updated": "2023-02-02",
+    "description": "CVE-2023-23924 (Dompdf - RCE) PoC",
+    "forks_count": 3,
+    "html_url": "https://github.com/motikan2010/CVE-2023-23924",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "PHP",
+    "repo_name": "CVE-2023-23924",
+    "repo_owner": "motikan2010",
+    "repotime": "2023-02-02, 11:05:12",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}

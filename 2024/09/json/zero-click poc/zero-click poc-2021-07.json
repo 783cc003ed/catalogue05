@@ -1,0 +1,108 @@
+{
+    "commits_count": 3,
+    "date_started": "2021-07-29",
+    "date_updated": "2021-07-29",
+    "description": "Google Chrome Use After Free vulnerability reported by S4E Team",
+    "forks_count": 3,
+    "html_url": "https://github.com/s4e-lab/CVE-2021-30573-PoC-Google-Chrome",
+    "keywords": [
+        "Chrome use after free vulnerability",
+        "use after free poc",
+        "Chrome use after free",
+        "use after free vulnerability",
+        "Chrome use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2021-30573-PoC-Google-Chrome",
+    "repo_owner": "s4e-lab",
+    "repotime": "2021-07-29, 16:18:37",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-07-06",
+    "date_updated": "2021-07-25",
+    "description": "A POC Remote Desktop (RDP) session hijack utility for disconnected sessions",
+    "forks_count": 71,
+    "html_url": "https://github.com/bohops/SharpRDPHijack",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C#",
+    "repo_name": "SharpRDPHijack",
+    "repo_owner": "bohops",
+    "repotime": "2021-07-25, 13:36:01",
+    "stargazers_count": 403,
+    "watchers_count": 403
+}
+{
+    "commits_count": 28,
+    "date_started": "2018-03-15",
+    "date_updated": "2021-07-12",
+    "description": "Some PoC (Proof-of-Concept) about vulnerability of java deserialization of untrusted data ",
+    "forks_count": 5,
+    "html_url": "https://github.com/EdoardoVignati/java-deserialization-of-untrusted-data-poc",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": "FreeMarker",
+    "repo_name": "java-deserialization-of-untrusted-data-poc",
+    "repo_owner": "EdoardoVignati",
+    "repotime": "2021-07-12, 10:09:27",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-06-19",
+    "date_updated": "2021-07-10",
+    "description": "PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 &amp;lt; 6.6.1 Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/f4T1H21/CVE-2020-7247",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-7247",
+    "repo_owner": "f4T1H21",
+    "repotime": "2021-07-10, 14:26:06",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-05-25",
+    "date_updated": "2021-07-09",
+    "description": "POC for CVE-2021-21974 VMWare ESXi RCE Exploit",
+    "forks_count": 47,
+    "html_url": "https://github.com/Shadow0ps/CVE-2021-21974",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-21974",
+    "repo_owner": "Shadow0ps",
+    "repotime": "2021-07-09, 15:38:41",
+    "stargazers_count": 169,
+    "watchers_count": 169
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-08-22",
+    "date_updated": "2021-07-02",
+    "description": "定制界面版POC/EXP脚本仓库",
+    "forks_count": 8,
+    "html_url": "https://github.com/Coldwave96/PocLibrary",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "PocLibrary",
+    "repo_owner": "Coldwave96",
+    "repotime": "2021-07-02, 18:00:44",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}

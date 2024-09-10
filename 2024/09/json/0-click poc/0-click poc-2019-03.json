@@ -1,0 +1,35 @@
+{
+    "commits_count": 1,
+    "date_started": "2019-03-27",
+    "date_updated": "2019-03-27",
+    "description": "Zimbra XXE+SSRF+UPLOAD Poc",
+    "forks_count": 32,
+    "html_url": "https://github.com/fnmsd/zimbra_poc",
+    "keywords": [
+        "ssrf",
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "zimbra_poc",
+    "repo_owner": "fnmsd",
+    "repotime": "2019-03-27, 21:48:06",
+    "stargazers_count": 59,
+    "watchers_count": 59
+}
+{
+    "commits_count": 12,
+    "date_started": "2019-02-25",
+    "date_updated": "2019-03-18",
+    "description": "A simple PoC for WordPress RCE (author priviledge), refer to CVE-2019-8942 and CVE-2019-8943.",
+    "forks_count": 21,
+    "html_url": "https://github.com/brianwrf/WordPress_4.9.8_RCE_POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "WordPress_4.9.8_RCE_POC",
+    "repo_owner": "brianwrf",
+    "repotime": "2019-03-18, 09:20:52",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}

@@ -1,0 +1,57 @@
+{
+    "commits_count": 3,
+    "date_started": "2022-11-19",
+    "date_updated": "2022-11-19",
+    "description": "A Command Line based python tool for exploit Zero-Day vulnerability in MSDT (Microsoft Support Diagnostic Tool) also know as 'Follina' CVE-2022-30190.",
+    "forks_count": 3,
+    "html_url": "https://github.com/0xAbbarhSF/FollinaXploit",
+    "keywords": [
+        "Microsoft zero-day exploit",
+        "Microsoft zero-day exploitation",
+        "Microsoft zero-day",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "Microsoft zero-day vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "FollinaXploit",
+    "repo_owner": "0xAbbarhSF",
+    "repotime": "2022-11-19, 19:41:57",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-05-17",
+    "date_updated": "2022-11-11",
+    "description": "Code for the IJCAI'19 paper  &amp;quot;Deep Session Interest Network for Click-Through Rate Prediction&amp;quot;",
+    "forks_count": 130,
+    "html_url": "https://github.com/shenweichen/DSIN",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "DSIN",
+    "repo_owner": "shenweichen",
+    "repotime": "2022-11-11, 13:11:13",
+    "stargazers_count": 423,
+    "watchers_count": 423
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-06-09",
+    "date_updated": "2022-11-06",
+    "description": "Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190)",
+    "forks_count": 11,
+    "html_url": "https://github.com/Hrishikesh7665/Follina_Exploiter_CLI",
+    "keywords": [
+        "Microsoft rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Follina_Exploiter_CLI",
+    "repo_owner": "Hrishikesh7665",
+    "repotime": "2022-11-06, 15:54:23",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}

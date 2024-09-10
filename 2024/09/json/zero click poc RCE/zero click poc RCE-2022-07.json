@@ -1,0 +1,74 @@
+{
+    "commits_count": 82,
+    "date_started": "2022-05-30",
+    "date_updated": "2022-07-14",
+    "description": "This repo is the product of a 10 day project which was carried out at the end of a Data Science bootcamp at Le Wagon - Data Source: https://github.com/auspicious3000/autovc - Type of analysis: Zero shot voice conversion - (result : the model still needs to be trained on voices to work) ",
+    "forks_count": 1,
+    "html_url": "https://github.com/Eleonoremmsc/tovoice",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "tovoice",
+    "repo_owner": "Eleonoremmsc",
+    "repotime": "2022-07-14, 17:52:17",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "PoC's for the Wavlink D4G SOHO Router",
+    "forks_count": 0,
+    "html_url": "https://github.com/Xenios91/Wavlink-DG4-ZeroDays",
+    "keywords": [
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Wavlink-DG4-ZeroDays",
+    "repo_owner": "Xenios91",
+    "repotime": "2022-07-10, 00:48:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "Information disclosure exploit in Fortknox Firewall 9.0.305. This appears to be a zero day?",
+    "forks_count": 1,
+    "html_url": "https://github.com/expFlash/Fortknox-Firewall-DoS",
+    "keywords": [
+        "zero-day disclosure",
+        "zero-day dos",
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": "C",
+    "repo_name": "Fortknox-Firewall-DoS",
+    "repo_owner": "expFlash",
+    "repotime": "2022-07-10, 00:34:42",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "Information disclosure exploit in Fortknox Firewall 9.0.305. This appears to be a zero day?",
+    "forks_count": 0,
+    "html_url": "https://github.com/fengjixuchui/Fortknox-Firewall-DoS",
+    "keywords": [
+        "zero-day exploitation",
+        "zero-day dos",
+        "zero-day disclosure",
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "Fortknox-Firewall-DoS",
+    "repo_owner": "fengjixuchui",
+    "repotime": "2022-07-10, 00:34:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

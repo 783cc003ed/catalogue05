@@ -1,0 +1,53 @@
+{
+    "commits_count": 6,
+    "date_started": "2021-02-13",
+    "date_updated": "2021-02-17",
+    "description": "OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit",
+    "forks_count": 2,
+    "html_url": "https://github.com/QTranspose/CVE-2020-7247-exploit",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-7247-exploit",
+    "repo_owner": "QTranspose",
+    "repotime": "2021-02-17, 20:23:57",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-02-09",
+    "date_updated": "2021-02-09",
+    "description": "Proof Of Concept of RCE exploit in EJS web app",
+    "forks_count": 2,
+    "html_url": "https://github.com/mahsunon/Web-App-RCE-POC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Web-App-RCE-POC",
+    "repo_owner": "mahsunon",
+    "repotime": "2021-02-09, 11:24:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-12-24",
+    "date_updated": "2021-02-09",
+    "description": "POC for GitLabs Authenticated RCE in version 11.4.7 community edition",
+    "forks_count": 12,
+    "html_url": "https://github.com/ctrlsam/GitLab-11.4.7-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "GitLab-11.4.7-RCE",
+    "repo_owner": "ctrlsam",
+    "repotime": "2021-02-09, 10:35:21",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}

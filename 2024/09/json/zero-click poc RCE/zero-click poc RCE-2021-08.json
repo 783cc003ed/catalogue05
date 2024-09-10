@@ -1,0 +1,34 @@
+{
+    "commits_count": 58,
+    "date_started": "2020-09-07",
+    "date_updated": "2021-08-15",
+    "description": "Linux shellcode code memory injection library .so .dll injection without ptrace example PoC",
+    "forks_count": 8,
+    "html_url": "https://github.com/v-a-c-u-u-m/mem_inject",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "mem_inject",
+    "repo_owner": "v-a-c-u-u-m",
+    "repotime": "2021-08-15, 05:04:37",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-08-02",
+    "date_updated": "2021-08-04",
+    "description": "This is a PoC for bypassing UAC using DLL hijacking and abusing the &amp;quot;Trusted Directories&amp;quot; verification. ",
+    "forks_count": 53,
+    "html_url": "https://github.com/SecuProject/DLLHijackingScanner",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "DLLHijackingScanner",
+    "repo_owner": "SecuProject",
+    "repotime": "2021-08-04, 12:49:45",
+    "stargazers_count": 265,
+    "watchers_count": 265
+}

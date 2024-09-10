@@ -1,0 +1,56 @@
+{
+    "commits_count": 7,
+    "date_started": "2018-10-23",
+    "date_updated": "2020-08-31",
+    "description": "CVE-2018-7600 POC (Drupal RCE)",
+    "forks_count": 7,
+    "html_url": "https://github.com/r3dxpl0it/CVE-2018-7600",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-7600",
+    "repo_owner": "r3dxpl0it",
+    "repotime": "2020-08-31, 16:52:13",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-08-11",
+    "date_updated": "2020-08-11",
+    "description": "CVE-2020-1337 a bypass of (PrintDemon) CVE-2020-1048’s patch",
+    "forks_count": 2,
+    "html_url": "https://github.com/VoidSec/CVE-2020-1337",
+    "keywords": [
+        "0day exploit",
+        "Windows 0day poc",
+        "0day poc",
+        "Windows 0day exploit",
+        "Windows 0day"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-1337",
+    "repo_owner": "VoidSec",
+    "repotime": "2020-08-11, 19:23:03",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-08-05",
+    "date_updated": "2020-08-06",
+    "description": "POC Selenium grid RCE using chrome webdriver.",
+    "forks_count": 1,
+    "html_url": "https://github.com/grines/selenium-grid-rce",
+    "keywords": [
+        "Chrome rce",
+        "Chrome rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "selenium-grid-rce",
+    "repo_owner": "grines",
+    "repotime": "2020-08-06, 23:00:39",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

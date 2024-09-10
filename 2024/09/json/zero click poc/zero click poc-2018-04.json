@@ -1,0 +1,35 @@
+{
+    "commits_count": 17,
+    "date_started": "2018-04-24",
+    "date_updated": "2018-04-25",
+    "description": "CVE-2018-6574 POC : golang 'go get' remote command execution during source code build",
+    "forks_count": 13,
+    "html_url": "https://github.com/neargle/Go-Get-RCE-CVE-2018-6574-POC",
+    "keywords": [
+        "rce poc",
+        "remote code execution poc"
+    ],
+    "language": "C",
+    "repo_name": "Go-Get-RCE-CVE-2018-6574-POC",
+    "repo_owner": "neargle",
+    "repotime": "2018-04-25, 00:32:22",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-04-09",
+    "date_updated": "2018-04-10",
+    "description": "Android Blueborne vuln. to remote code execution with android 6.0.1 offsets",
+    "forks_count": 0,
+    "html_url": "https://github.com/helloitu/blueborne-poc-android6",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "blueborne-poc-android6",
+    "repo_owner": "helloitu",
+    "repotime": "2018-04-10, 02:11:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

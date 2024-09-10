@@ -1,0 +1,182 @@
+{
+    "commits_count": 309,
+    "date_started": "2016-05-10",
+    "date_updated": "2022-10-29",
+    "description": "WarBerryPi - Tactical Exploitation",
+    "forks_count": 310,
+    "html_url": "https://github.com/secgroundzero/warberry",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "warberry",
+    "repo_owner": "secgroundzero",
+    "repotime": "2022-10-29, 22:02:59",
+    "stargazers_count": 2196,
+    "watchers_count": 2196
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-10-25",
+    "date_updated": "2022-10-25",
+    "description": "RCE exploit for the Aukey WR-R01 router. This backdoors the router and enables telnet access by creating another root user. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/rejections/Aukey-WR-R01-0day-RCE",
+    "keywords": [
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Aukey-WR-R01-0day-RCE",
+    "repo_owner": "rejections",
+    "repotime": "2022-10-25, 14:43:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-04-11",
+    "date_updated": "2022-10-23",
+    "description": " &amp;&#35;35;EXTM3U  &amp;&#35;35;EXTINF:-1 tvg-logo=&amp;quot;http://127.0.0.1/&amp;quot; group-title=&amp;quot;LOKAL&amp;quot;, JITV http://188.40.76.108:25461/live/mytv01/uSIRzmks51/132.ts  &amp;&#35;35;EXTINF:-1 tvg-logo=&amp;quot;http://127.0.0.1/&amp;quot; group-title=&amp;quot;LOKAL&amp;quot;, CNN INDONESIA http://188.40.76.108:25461/live/mytv01/uSIRzmks51/135.ts  &amp;&#35;35;EXTINF:-1 tvg-logo=&amp;quot;http://127.0.0.1/&amp;quot; group-title=&amp;quot;LOKAL&amp;quot;, JAKARTA GLOBE NEWS http://188.40.76.108:25461/live/mytv01/uSIRzmks51/136.ts  &amp;&#35;35;EXTINF:-1 tvg-logo=&amp;quot;http://127.0.0.1/&amp;quot; group-title=&amp;quot;LOKAL&amp;quot;, BERITA SATU http://188.40.76.108:25461/live/mytv01/uSIRzmks51/137.ts  &amp;&#35;35;EXTINF:-1 tvg-logo=&amp;quot;http://127.0.0.1/&amp;quot; group-title=&amp;quot;LOKAL&amp;quot;, iNews http://188.40.76.108:25461/live/mytv01/uSIRzmks51/138.ts  &amp;&#35;35;EXTINF:-1 tvg-logo=&amp;quot;http://127.0.0.1/&amp;quot; group-title=&amp;quot;LOKAL&amp;quot;, METRO TV http://188.40.76.108:25461/live/mytv01/uSIRzmks51/142.ts  &amp;&#35;35;EXTINF:-1 tvg-logo=&amp;quot;http://127.0.0.1/&amp;quot; group-tit...",
+    "forks_count": 0,
+    "html_url": "https://github.com/sugeth/xxx",
+    "keywords": [
+        "session hijacking attack",
+        "Chrome zero-day",
+        "Windows zero-day"
+    ],
+    "language": null,
+    "repo_name": "xxx",
+    "repo_owner": "sugeth",
+    "repotime": "2022-10-23, 17:18:41",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-10-16",
+    "date_updated": "2022-10-16",
+    "description": "[CVE-2022-39802] File path traversal vulnerability in SAP Manufacturing Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/redrays-io/CVE-2022-39802",
+    "keywords": [
+        "zero-day vulnerability",
+        "path traversal vulnerability",
+        "0day vulnerability",
+        "zero-day exploit",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39802",
+    "repo_owner": "redrays-io",
+    "repotime": "2022-10-16, 22:48:25",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-10-12",
+    "date_updated": "2022-10-15",
+    "description": "RCE Exploit and Research ",
+    "forks_count": 1,
+    "html_url": "https://github.com/RashidKhanPathan/CVE-2022-40471",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-40471",
+    "repo_owner": "RashidKhanPathan",
+    "repotime": "2022-10-15, 12:12:44",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-09-02",
+    "date_updated": "2022-10-12",
+    "description": "A flask website that is used to demonstrate certain web vulnerabilities. DO NOT USE THIS FOR A LEGITIMATE WEBSITE.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Helpfullinx/DayZeroWebDemo",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "DayZeroWebDemo",
+    "repo_owner": "Helpfullinx",
+    "repotime": "2022-10-12, 15:02:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-10-10",
+    "date_updated": "2022-10-11",
+    "description": "Exploit a Vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/miasantana87/zero_day_attacks",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "zero_day_attacks",
+    "repo_owner": "miasantana87",
+    "repotime": "2022-10-11, 11:59:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-01-03",
+    "date_updated": "2022-10-05",
+    "description": "Welcome to Hyper Bot ! Create your own permanent Hyper Bot ( runs on Heroku, no Lc0 ) If you want to create your own permanent bot, do the following:  Sign up to GitHub https://github.com/join , if you have not already.  With your GitHub account visit https://github.com/hyperchessbot/hyperbot , then click on Fork.  Create a BOT account if you do not already have one. To create one use an account that has not played any games yet, log into this account, then visit https://hypereasy.herokuapp.com/auth/lichess/bot , approve oauth and then on the page you are taken to click on 'Request upgrade to bot'.  Create an API access token with your BOT account at https://lichess.org/account/oauth/token ( should have scopes Read incoming challenges / Create, accept, decline challenges / Play games with the bot API )  Sign up to Heroku https://signup.heroku.com/ , if you have not already.  At Heroku create a new app using New / Create new app. Choose Europe for region.  In the app's dashboard go to t...",
+    "forks_count": 0,
+    "html_url": "https://github.com/armankarimpour/HyperChessArman",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "HyperChessArman",
+    "repo_owner": "armankarimpour",
+    "repotime": "2022-10-05, 18:25:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-10-04",
+    "date_updated": "2022-10-04",
+    "description": "Zero-day vulnerabilities affecting Microsoft Exchange Server ",
+    "forks_count": 3,
+    "html_url": "https://github.com/NitinYadav00/Exploit-Microsoft-Exchange-Server-",
+    "keywords": [
+        "Microsoft zero-day exploit",
+        "Microsoft zero-day",
+        "zero-day vulnerability",
+        "Microsoft zero-day vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Exploit-Microsoft-Exchange-Server-",
+    "repo_owner": "NitinYadav00",
+    "repotime": "2022-10-04, 17:51:00",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 26,
+    "date_started": "2022-09-26",
+    "date_updated": "2022-10-04",
+    "description": "Vulnerabilities found in OpenCats applicant tracking system",
+    "forks_count": 0,
+    "html_url": "https://github.com/hansmach1ne/opencats_zero-days",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "opencats_zero-days",
+    "repo_owner": "hansmach1ne",
+    "repotime": "2022-10-04, 12:39:18",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

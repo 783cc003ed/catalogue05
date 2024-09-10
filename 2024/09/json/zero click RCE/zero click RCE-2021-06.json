@@ -1,0 +1,70 @@
+{
+    "commits_count": 2,
+    "date_started": "2021-06-22",
+    "date_updated": "2021-06-22",
+    "description": "&amp;&#35;35; SHAPEAI Python and Cybersecurity BOOTCAMP Hi I made this project during the 7 Days Free Bootcamp, conducted by &amp;lt;b&amp;gt; SHAPEAI &amp;lt;/b&amp;gt;. The instructor during the session was Mr. Harsh Akshit (Student Lead at Google). I got to learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Here's the link for you to watch the sessions as well&amp;lt;br&amp;gt; &amp;lt;a href=&amp;quot;https://www.youtube.com/playlist?list=PL7zl8TDRnbulLetcbkthT0p_IzwgRAYbu&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://github.com/ShapeAI/PYTHON-AND-CYBERSECURITY/blob/main/YOUTUBE%20THUMBNAIL-4.png&amp;quot;&amp;gt; &amp;lt;/a&amp;gt; &amp;lt;br&amp;gt;I got to have hands on experience on: &amp;lt;li&amp;gt;Python &amp;lt;li&amp;gt;Selenium for web automation &amp;lt;li&amp;gt;SQL Injection &amp;lt;li&amp;gt;Solving Capture the flag on hacker101 &amp;lt;li&amp;gt;Vulnerability Assessment and Penetration testing[VAPT] &amp;lt;br&amp;gt;during these 7 days, and everything was explained from the very basics so that anyone with zero experience on prog...",
+    "forks_count": 0,
+    "html_url": "https://github.com/SafiaImtiaz/Python_And_Cybersecurity",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Python_And_Cybersecurity",
+    "repo_owner": "SafiaImtiaz",
+    "repotime": "2021-06-22, 01:07:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-06-06",
+    "date_updated": "2021-06-06",
+    "description": "Use afl to fuzz libpurple (this is part of the Zerodium contest for a zero-day vulnerability on pidgin)",
+    "forks_count": 0,
+    "html_url": "https://github.com/wh1t3h47/purple-dbus-fuzz",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "purple-dbus-fuzz",
+    "repo_owner": "wh1t3h47",
+    "repotime": "2021-06-06, 10:45:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-06-04",
+    "date_updated": "2021-06-04",
+    "description": "RCE Exploit for Gitlab &amp;lt; 13.10.3",
+    "forks_count": 18,
+    "html_url": "https://github.com/CsEnox/Gitlab-Exiftool-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Gitlab-Exiftool-RCE",
+    "repo_owner": "CsEnox",
+    "repotime": "2021-06-04, 15:41:31",
+    "stargazers_count": 61,
+    "watchers_count": 61
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-06-02",
+    "date_updated": "2021-06-04",
+    "description": "RCE Exploit for Gitlab &amp;lt; 13.9.4",
+    "forks_count": 12,
+    "html_url": "https://github.com/CsEnox/GitLab-Wiki-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "GitLab-Wiki-RCE",
+    "repo_owner": "CsEnox",
+    "repotime": "2021-06-04, 05:53:29",
+    "stargazers_count": 52,
+    "watchers_count": 52
+}

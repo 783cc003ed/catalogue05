@@ -1,0 +1,56 @@
+{
+    "commits_count": 3,
+    "date_started": "2021-08-25",
+    "date_updated": "2021-08-25",
+    "description": "&amp;quot;Otax&amp;quot;, a popularized shitty discord zero-day exploit. A bullshit writeup on it was released by a larper called HellSec.",
+    "forks_count": 8,
+    "html_url": "https://github.com/0x44F/otax",
+    "keywords": [
+        "0day exploitation",
+        "zero-day exploit",
+        "zero-day exploitation",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "otax",
+    "repo_owner": "0x44F",
+    "repotime": "2021-08-25, 15:47:45",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-08-23",
+    "date_updated": "2021-08-24",
+    "description": "Discord client zero-click RCE",
+    "forks_count": 5,
+    "html_url": "https://github.com/0x44F/discord-zeroclick-exploit",
+    "keywords": [
+        "zero-day exploit",
+        "0day exploit",
+        "rce exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "discord-zeroclick-exploit",
+    "repo_owner": "0x44F",
+    "repotime": "2021-08-24, 06:03:45",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-08-11",
+    "date_updated": "2021-08-12",
+    "description": "利用paddle复现  Deep Session Interest Network for Click-Through Rate Prediction 论文",
+    "forks_count": 0,
+    "html_url": "https://github.com/xcs633018/DSIN_paddle",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": null,
+    "repo_name": "DSIN_paddle",
+    "repo_owner": "xcs633018",
+    "repotime": "2021-08-12, 06:19:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

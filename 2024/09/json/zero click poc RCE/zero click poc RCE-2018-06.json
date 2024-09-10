@@ -1,0 +1,37 @@
+{
+    "commits_count": 35,
+    "date_started": "2018-03-25",
+    "date_updated": "2018-06-22",
+    "description": "Chrome extension to alert and possibly block IDN/Unicode websites and zero-day phishing websites using AI and Computer Vision.",
+    "forks_count": 10,
+    "html_url": "https://github.com/phishai/phish-protect",
+    "keywords": [
+        "Chrome zero-day"
+    ],
+    "language": "JavaScript",
+    "repo_name": "phish-protect",
+    "repo_owner": "phishai",
+    "repotime": "2018-06-22, 09:50:00",
+    "stargazers_count": 117,
+    "watchers_count": 117
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-06-09",
+    "date_updated": "2018-06-10",
+    "description": "&amp;quot;Zero Click&amp;quot; Remote Code Execution in Mycroft AI vocal assistant",
+    "forks_count": 23,
+    "html_url": "https://github.com/Nhoya/MycroftAI-RCE",
+    "keywords": [
+        "rce exploit",
+        "remote code execution vulnerability",
+        "remote code execution exploit",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "MycroftAI-RCE",
+    "repo_owner": "Nhoya",
+    "repotime": "2018-06-10, 17:49:33",
+    "stargazers_count": 49,
+    "watchers_count": 49
+}

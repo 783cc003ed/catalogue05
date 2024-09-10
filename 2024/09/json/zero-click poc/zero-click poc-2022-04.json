@@ -1,0 +1,228 @@
+{
+    "commits_count": 0,
+    "date_started": "2022-04-27",
+    "date_updated": "2022-04-27",
+    "description": "OS X 10.11.6 LPE PoC for CVE-2016-4655 / CVE-2016-4656",
+    "forks_count": 0,
+    "html_url": "https://github.com/liangle1986126z/jndok",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": null,
+    "repo_name": "jndok",
+    "repo_owner": "liangle1986126z",
+    "repotime": "2022-04-27, 09:11:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-04-20",
+    "date_updated": "2022-04-25",
+    "description": "This repository contains a PoC for  remote code execution CVE-2022-26809",
+    "forks_count": 9,
+    "html_url": "https://github.com/UNDESC0N0CID0/CVE-2022-26809-RCE",
+    "keywords": [
+        "rce poc",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26809-RCE",
+    "repo_owner": "UNDESC0N0CID0",
+    "repotime": "2022-04-25, 16:38:57",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-04-22",
+    "date_updated": "2022-04-22",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/hx1997/sandboxie-classic-5.55.13-escape-poc",
+    "keywords": [
+        "sandbox escape poc"
+    ],
+    "language": "C++",
+    "repo_name": "sandboxie-classic-5.55.13-escape-poc",
+    "repo_owner": "hx1997",
+    "repotime": "2022-04-22, 21:53:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-04-18",
+    "description": "The poc for CVE-2022-26809 RCE via RPC will be updated here. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/sherlocksecurity/Microsoft-CVE-2022-26809-The-Little-Boy",
+    "keywords": [
+        "Microsoft rce poc",
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "Microsoft-CVE-2022-26809-The-Little-Boy",
+    "repo_owner": "sherlocksecurity",
+    "repotime": "2022-04-18, 08:58:10",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-17",
+    "date_updated": "2022-04-18",
+    "description": "PoC for CVE-2021-28476 a guest-to-host &amp;quot;Hyper-V Remote Code Execution Vulnerability&amp;quot; in vmswitch.sys.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dengyang123x/0vercl0k",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "0vercl0k",
+    "repo_owner": "dengyang123x",
+    "repotime": "2022-04-18, 02:00:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-17",
+    "date_updated": "2022-04-16",
+    "description": "WordPress Elementor 3.6.0 3.6.1 3.6.2 RCE POC",
+    "forks_count": 8,
+    "html_url": "https://github.com/mcdulltii/CVE-2022-1329",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-1329",
+    "repo_owner": "mcdulltii",
+    "repotime": "2022-04-16, 22:53:49",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 729,
+    "date_started": "2017-06-09",
+    "date_updated": "2022-04-16",
+    "description": "https://51pwn.com,Awesome Penetration Testing，hacker tools collection, metasploit exploit, meterpreter....struts2、weblogic, 0day,poc,apt,backdoor,VulApps,vuln,pentest-script",
+    "forks_count": 11,
+    "html_url": "https://github.com/hktalent/myhktools",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Java",
+    "repo_name": "myhktools",
+    "repo_owner": "hktalent",
+    "repotime": "2022-04-16, 00:32:21",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-06",
+    "date_updated": "2022-04-06",
+    "description": "Development of a proof of concept to simulate an API with performance problems.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lucasnsants/poc-memory-leak",
+    "keywords": [
+        "memory leak proof of concept",
+        "memory leak poc"
+    ],
+    "language": null,
+    "repo_name": "poc-memory-leak",
+    "repo_owner": "lucasnsants",
+    "repotime": "2022-04-06, 09:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-04-06",
+    "date_updated": "2022-04-06",
+    "description": "👻 [PoC] WordPress Theme THE THOR 2.2.1 - Cross Site Scripting (0day) ",
+    "forks_count": 0,
+    "html_url": "https://github.com/satoki/the-thor_vulnerability",
+    "keywords": [
+        "0day poc",
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "the-thor_vulnerability",
+    "repo_owner": "satoki",
+    "repotime": "2022-04-06, 15:21:22",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-03-31",
+    "date_updated": "2022-04-06",
+    "description": "Spring Framework RCE (Quick pentest notes)",
+    "forks_count": 7,
+    "html_url": "https://github.com/alt3kx/CVE-2022-22965_PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-22965_PoC",
+    "repo_owner": "alt3kx",
+    "repotime": "2022-04-06, 03:02:17",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-23",
+    "date_updated": "2022-04-04",
+    "description": "Includes analysis environment, poc for analyzing vulnerabilities found in clickhouse lz4 implementation",
+    "forks_count": 0,
+    "html_url": "https://github.com/s3nt3/clickhouse-lz4-rce",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Shell",
+    "repo_name": "clickhouse-lz4-rce",
+    "repo_owner": "s3nt3",
+    "repotime": "2022-04-04, 10:57:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-04-01",
+    "date_updated": "2022-04-02",
+    "description": "collection poc use pocsuite framework",
+    "forks_count": 1,
+    "html_url": "https://github.com/n11dc0la/PocSuite_POC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "PocSuite_POC",
+    "repo_owner": "n11dc0la",
+    "repotime": "2022-04-02, 15:09:42",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-03-29",
+    "date_updated": "2022-04-01",
+    "description": "golang RCE 0day POC",
+    "forks_count": 15,
+    "html_url": "https://github.com/hktalent/golang-RCE-0day-POC",
+    "keywords": [
+        "rce poc",
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "golang-RCE-0day-POC",
+    "repo_owner": "hktalent",
+    "repotime": "2022-04-01, 21:48:05",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}

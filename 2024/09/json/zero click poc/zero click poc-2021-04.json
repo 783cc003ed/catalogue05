@@ -1,0 +1,93 @@
+{
+    "commits_count": 3,
+    "date_started": "2021-04-19",
+    "date_updated": "2021-04-19",
+    "description": "針對近期微軟公布修補遭駭客攻擊的Exchange Server漏洞問題，台灣DEVCORE表示早在1月5日便已發現安全漏洞後，並且向微軟通報此項編號命名為「CVE-2021-26855 」，以及「CVE-2021-27065」的零日漏洞，同時也將此項漏洞稱為「ProxyLogon」。  此次揭露的「ProxyLogon」漏洞，是以無需驗證即可使用的遠端程式碼執行 (Pre-Auth Remote Code Execution；Pre-Auth RCE)零日漏洞(Zero-day exploit)，可讓攻擊者得以繞過身份驗證步驟，驅使系統管理員協助執行惡意文件或執行指令，進而觸發更廣泛的攻擊。  「ProxyLogon」是微軟近期被揭露最重大的RCE漏洞之一，DEVCORE團隊遵循責任揭露 (Responsible Disclosure)原則，在發現後便第一時間立即於今年1月5日通報微軟進行修補，避免該漏洞遭有心人士利用，造成全球用戶重大損失。而微軟遂於3月2日針對相關漏洞釋出安全更新，避免用戶機敏資訊遭受惡意攻擊。個人想法:遭駭客攻擊的Exchange Server漏洞問題，台灣DEVCORE表示早在1月5日便已發現，並且向微軟通報此項編號命名為「CVE-2021-26855 」，以及「CVE-2021-27065」的零日漏洞，同時也將此項漏洞稱為「ProxyLogon」。  此次揭露的「ProxyLogon」漏洞，是以無需驗證即可使用的遠端程式碼執行 (Pre-Auth Remote Code Execution；Pre-Auth RCE)零日漏洞(Zero-day exploit)，可讓攻擊者得以繞過身份驗證步驟，驅使系統管理員協助執行惡意文件或執行指令，進而觸發更廣泛的攻擊。  「ProxyLogon」是微軟近期被揭露最重大的RCE漏洞之一，DEVCORE團隊遵循責任揭露 (Responsible Disclosure)原則，在發現後便第一時間立即於今年1月5日通報微軟進行修補，避免該漏洞遭有心人士利用，造成全球用戶重大損失。而微軟遂於3月2日針對相關漏洞釋出安全更新，避免用戶機敏資訊遭受惡意攻擊。個人想法:微軟是大眾常用的軟體之一，駭客只要察覺漏洞就會進行惡意的攻擊，微軟公布4個Exchange Server的安全漏洞後，就遭受駭客的惡意攻擊，這件事的發生，...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nick-Yin12/106362522",
+    "keywords": [
+        "zero-day disclosure",
+        "remote code execution disclosure",
+        "rce disclosure",
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "106362522",
+    "repo_owner": "Nick-Yin12",
+    "repotime": "2021-04-19, 17:35:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-04-17",
+    "date_updated": "2021-04-17",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/lgfrbcsgo/sandbox-escape-poc",
+    "keywords": [
+        "sandbox escape poc"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sandbox-escape-poc",
+    "repo_owner": "lgfrbcsgo",
+    "repotime": "2021-04-17, 11:18:00",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-04-11",
+    "date_updated": "2021-04-11",
+    "description": "Coremail任意文件上传漏洞POC",
+    "forks_count": 56,
+    "html_url": "https://github.com/jimoyong/CoreMailUploadRce",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CoreMailUploadRce",
+    "repo_owner": "jimoyong",
+    "repotime": "2021-04-11, 13:31:00",
+    "stargazers_count": 158,
+    "watchers_count": 158
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-04-07",
+    "date_updated": "2021-04-07",
+    "description": "CVE-2016-2098 - POC of RCE Ruby on Rails: Improper Input Validation (CVE-2016-2098) in bash. Remote attackers can execute arbitrary Ruby code by leveraging an application's unrestricted use of the render method.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Debalinax64/CVE-2016-2098",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2016-2098",
+    "repo_owner": "Debalinax64",
+    "repotime": "2021-04-07, 14:18:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-11-17",
+    "date_updated": "2021-04-01",
+    "description": "A Remote Code Execution (RCE) exploit for Huawei HG532d based on CVE-2017-17215 vulnerability. Modded from original PoC code from exploit-db.com",
+    "forks_count": 6,
+    "html_url": "https://github.com/wilfred-wulbou/HG532d-RCE-Exploit",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution exploitation",
+        "remote code execution vulnerability",
+        "remote code execution exploit",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "HG532d-RCE-Exploit",
+    "repo_owner": "wilfred-wulbou",
+    "repotime": "2021-04-01, 09:21:07",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
