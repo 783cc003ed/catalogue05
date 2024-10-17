@@ -1,0 +1,55 @@
+{
+    "commits_count": 3,
+    "date_started": "2022-08-25",
+    "date_updated": "2022-08-25",
+    "description": "Android Hacking   Windows Hacking    Zero Day Exploits",
+    "forks_count": 0,
+    "html_url": "https://github.com/hexdev00/hexdev00",
+    "keywords": [
+        "Windows zero-day exploit",
+        "Windows zero-day exploitation",
+        "Windows zero-day",
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "hexdev00",
+    "repo_owner": "hexdev00",
+    "repotime": "2022-08-25, 01:30:09",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-12-27",
+    "date_updated": "2022-08-23",
+    "description": "Log4Shell (CVE-2021-44228) is a zero-day vulnerability in Log4j",
+    "forks_count": 0,
+    "html_url": "https://github.com/mazhar-hassan/log4j-vulnerability",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "log4j-vulnerability",
+    "repo_owner": "mazhar-hassan",
+    "repotime": "2022-08-23, 18:47:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2018-08-22",
+    "date_updated": "2022-08-10",
+    "description": "A Bochs-based instrumentation performing kernel memory taint tracking to detect disclosure of uninitialized memory to ring 3",
+    "forks_count": 58,
+    "html_url": "https://github.com/googleprojectzero/bochspwn-reloaded",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "bochspwn-reloaded",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2022-08-10, 02:24:36",
+    "stargazers_count": 267,
+    "watchers_count": 267
+}

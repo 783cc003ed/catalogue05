@@ -1,0 +1,118 @@
+{
+    "commits_count": 1,
+    "date_started": "2019-08-20",
+    "date_updated": "2019-08-20",
+    "description": "Basically Just ported the bash shell scanner into a mass like python module poc",
+    "forks_count": 2,
+    "html_url": "https://github.com/devcoinfet/Webmin-1.920-Unauthenticated-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Webmin-1.920-Unauthenticated-RCE",
+    "repo_owner": "devcoinfet",
+    "repotime": "2019-08-20, 12:05:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-08-17",
+    "date_updated": "2019-08-19",
+    "description": "rce exploit , made to work with pocsuite3",
+    "forks_count": 60,
+    "html_url": "https://github.com/dorkerdevil/Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-",
+    "repo_owner": "dorkerdevil",
+    "repotime": "2019-08-19, 08:22:11",
+    "stargazers_count": 121,
+    "watchers_count": 121
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-08-17",
+    "date_updated": "2019-08-16",
+    "description": "HACKING BITCOIN AND OTHER DIGITAL ASSETS FOR INFLATION USING SOFTWARE BUGS IN THE CODE",
+    "forks_count": 1,
+    "html_url": "https://github.com/ramiroborja/CRYPTO-ZERO-DAY-EXPLOITS",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "CRYPTO-ZERO-DAY-EXPLOITS",
+    "repo_owner": "ramiroborja",
+    "repotime": "2019-08-16, 21:32:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-08-16",
+    "date_updated": "2019-08-16",
+    "description": "Zimbra RCE PoC - CVE-2019-9670 XXE/SSRF",
+    "forks_count": 14,
+    "html_url": "https://github.com/rek7/Zimbra-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Zimbra-RCE",
+    "repo_owner": "rek7",
+    "repotime": "2019-08-16, 01:54:15",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-08-15",
+    "date_updated": "2019-08-15",
+    "description": "Latest working elevation of privilege exploit by Tavis Ormandy from Google's Project Zero Team",
+    "forks_count": 4,
+    "html_url": "https://github.com/TinToSer/Windows-EOP-Exploit",
+    "keywords": [
+        "Win zero-day exploit",
+        "Windows zero-day exploitation",
+        "Win zero-day exploitation",
+        "Windows zero-day",
+        "zero-day exploitation",
+        "Win zero-day",
+        "Windows zero-day exploit",
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "Windows-EOP-Exploit",
+    "repo_owner": "TinToSer",
+    "repotime": "2019-08-15, 14:29:21",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-08-07",
+    "date_updated": "2019-08-07",
+    "description": "This proof of concept is based on the reflected and stored XSS vulnerability on the Indian Ecommerce website 'ShopClues.com'. This vulnerability can cause session hijacking and stealing of customer's credentials via cookie hijacking. The issue was reported in the year 2018 and it took them more than 4 months to fix the bug. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/devanshot/Reflected-Stored-XSS-POC",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Reflected-Stored-XSS-POC",
+    "repo_owner": "devanshot",
+    "repotime": "2019-08-07, 21:06:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

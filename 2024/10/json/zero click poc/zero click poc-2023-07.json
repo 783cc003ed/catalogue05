@@ -1,0 +1,236 @@
+{
+    "commits_count": 7,
+    "date_started": "2023-05-10",
+    "date_updated": "2023-07-22",
+    "description": "A PoC exploit for CVE-2008-5862 - Directory traversal vulnerability in webcamXP 5.3.2.375 and 5.3.2.410",
+    "forks_count": 0,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2008-5862-EXPLOIT",
+    "keywords": [
+        "directory traversal attack",
+        "directory traversal vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2008-5862-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2023-07-22, 15:55:03",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-07-20",
+    "date_updated": "2023-07-22",
+    "description": "A PoC exploit for CVE-2010-4231 - Directory Traversal Vulnerability in Camtron and TecVoz IP Cameras.",
+    "forks_count": 2,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2010-4231-EXPLOIT",
+    "keywords": [
+        "directory traversal attack",
+        "directory traversal vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2010-4231-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2023-07-22, 15:51:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-05-03",
+    "date_updated": "2023-07-18",
+    "description": "Lesson plan with demo application detailing exploitation of server-side template injection to achieve remote-code execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/limsammy/flask-rce-ssti-poc-lesson",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "flask-rce-ssti-poc-lesson",
+    "repo_owner": "limsammy",
+    "repotime": "2023-07-18, 17:30:30",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-04-22",
+    "date_updated": "2023-07-19",
+    "description": "Umbraco CMS 7.12.4 - (Authenticated) Remote Code Execution",
+    "forks_count": 2,
+    "html_url": "https://github.com/Jonoans/Umbraco-RCE",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Umbraco-RCE",
+    "repo_owner": "Jonoans",
+    "repotime": "2023-07-19, 02:11:58",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-07-18",
+    "date_updated": "2023-07-19",
+    "description": "🪲 A vulnerability that is unknown to the developers and the public. It is exploited by hackers before the developers become aware of it and fix it.",
+    "forks_count": 0,
+    "html_url": "https://github.com/PunGrumpy/zero-day-exploit-hands-on",
+    "keywords": [
+        "zero-day exploitation",
+        "zero-day exploit",
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "zero-day-exploit-hands-on",
+    "repo_owner": "PunGrumpy",
+    "repotime": "2023-07-19, 00:37:05",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1761,
+    "date_started": "2019-07-24",
+    "date_updated": "2023-07-15",
+    "description": "渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
+    "forks_count": 1858,
+    "html_url": "https://github.com/Mr-xn/Penetration_Testing_POC",
+    "keywords": [
+        "rce poc",
+        "rce exploit"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Penetration_Testing_POC",
+    "repo_owner": "Mr-xn",
+    "repotime": "2023-07-15, 04:09:14",
+    "stargazers_count": 5809,
+    "watchers_count": 5809
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-07-12",
+    "date_updated": "2023-07-13",
+    "description": "POC for CVE-2023-28252",
+    "forks_count": 1,
+    "html_url": "https://github.com/Malwareman007/CVE-2023-28252",
+    "keywords": [
+        "Windows 0day vulnerability",
+        "Windows 0day poc",
+        "Windows 0day",
+        "Microsoft 0day poc",
+        "0day poc",
+        "Microsoft 0day vulnerability",
+        "Microsoft 0day",
+        "Microsoft 0day exploit",
+        "0day vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2023-28252",
+    "repo_owner": "Malwareman007",
+    "repotime": "2023-07-13, 00:18:52",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-02-27",
+    "date_updated": "2023-07-10",
+    "description": "<no description>",
+    "forks_count": 62,
+    "html_url": "https://github.com/chompie1337/SIGRed_RCE_PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "SIGRed_RCE_PoC",
+    "repo_owner": "chompie1337",
+    "repotime": "2023-07-10, 12:18:54",
+    "stargazers_count": 259,
+    "watchers_count": 259
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-04-06",
+    "date_updated": "2023-07-07",
+    "description": "GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept)",
+    "forks_count": 3,
+    "html_url": "https://github.com/Avento/CVE-2023-0669",
+    "keywords": [
+        "rce proof of concept",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-0669",
+    "repo_owner": "Avento",
+    "repotime": "2023-07-07, 18:42:46",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-07-07",
+    "date_updated": "2023-07-07",
+    "description": "HIKVISION iSecure Center RCE 海康威视综合安防管理平台任意文件上传 POC&amp;amp;EXP（一键getshell）",
+    "forks_count": 13,
+    "html_url": "https://github.com/Sweelg/HIKVISION_iSecure_Center-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "HIKVISION_iSecure_Center-RCE",
+    "repo_owner": "Sweelg",
+    "repotime": "2023-07-07, 10:29:19",
+    "stargazers_count": 103,
+    "watchers_count": 103
+}
+{
+    "commits_count": 22,
+    "date_started": "2023-06-25",
+    "date_updated": "2023-07-06",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/arademm/Responding_to_a_Zero-Day_Vulnerability",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Responding_to_a_Zero-Day_Vulnerability",
+    "repo_owner": "arademm",
+    "repotime": "2023-07-06, 23:30:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-06-22",
+    "date_updated": "2023-07-03",
+    "description": "CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c. ",
+    "forks_count": 14,
+    "html_url": "https://github.com/ChriSanders22/CVE-2023-35829-poc",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2023-35829-poc",
+    "repo_owner": "ChriSanders22",
+    "repotime": "2023-07-03, 15:16:04",
+    "stargazers_count": 96,
+    "watchers_count": 96
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-07-03",
+    "date_updated": "2023-07-03",
+    "description": "CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c. ",
+    "forks_count": 18,
+    "html_url": "https://github.com/apkc/CVE-2023-35829-poc",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-35829-poc",
+    "repo_owner": "apkc",
+    "repotime": "2023-07-03, 15:16:04",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

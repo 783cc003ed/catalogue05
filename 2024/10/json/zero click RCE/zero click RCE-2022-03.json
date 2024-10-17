@@ -1,0 +1,113 @@
+{
+    "commits_count": 4,
+    "date_started": "2022-03-31",
+    "date_updated": "2022-03-31",
+    "description": "This repo is mainly for Zero Day Vulnerablities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/netwrkspider/PoC-Vault",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day poc"
+    ],
+    "language": "YARA",
+    "repo_name": "PoC-Vault",
+    "repo_owner": "netwrkspider",
+    "repotime": "2022-03-31, 11:51:52",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-11-02",
+    "date_updated": "2022-03-20",
+    "description": "Zero-day and N-day security vulnerability notes, analysis, and proof-of-concepts",
+    "forks_count": 84,
+    "html_url": "https://github.com/badd1e/Disclosures",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day analysis",
+        "zero-day disclosure",
+        "zero-day proof of concept"
+    ],
+    "language": "HTML",
+    "repo_name": "Disclosures",
+    "repo_owner": "badd1e",
+    "repotime": "2022-03-20, 23:58:26",
+    "stargazers_count": 398,
+    "watchers_count": 398
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-03-16",
+    "date_updated": "2022-03-18",
+    "description": "Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs but to cause real-world physical effects. Specifically, it targets centrifuges used to produce the enriched uranium that powers nuclear weapons and reactors.",
+    "forks_count": 18,
+    "html_url": "https://github.com/uraninite/stuxnet",
+    "keywords": [
+        "zero-day vulnerability",
+        "Windows zero-day exploitation",
+        "Windows zero-day",
+        "zero-day exploitation",
+        "Windows zero-day exploit",
+        "zero-day exploit",
+        "Windows zero-day vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "stuxnet",
+    "repo_owner": "uraninite",
+    "repotime": "2022-03-18, 00:09:06",
+    "stargazers_count": 39,
+    "watchers_count": 39
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-01-17",
+    "date_updated": "2022-03-15",
+    "description": "Skeleton (but pronounced like Peloton): A Zero-Click RCE exploit for CVE-2021-0326",
+    "forks_count": 6,
+    "html_url": "https://github.com/aemmitt-ns/skeleton",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "skeleton",
+    "repo_owner": "aemmitt-ns",
+    "repotime": "2022-03-15, 22:58:27",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-03-14",
+    "date_updated": "2022-03-15",
+    "description": "RCE exploit for dompdf",
+    "forks_count": 69,
+    "html_url": "https://github.com/positive-security/dompdf-rce",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "PHP",
+    "repo_name": "dompdf-rce",
+    "repo_owner": "positive-security",
+    "repotime": "2022-03-15, 11:55:55",
+    "stargazers_count": 174,
+    "watchers_count": 174
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-03-03",
+    "date_updated": "2022-03-02",
+    "description": "Zero-day-scanning is a Domain Controller vulnerability scanner, that currently includes checks for Zero-day-scanning (CVE-2020-1472), MS-PAR/MS-RPRN and SMBv2 Signing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Anonymous-Family/Zero-day-scanning",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Zero-day-scanning",
+    "repo_owner": "Anonymous-Family",
+    "repotime": "2022-03-02, 23:50:52",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

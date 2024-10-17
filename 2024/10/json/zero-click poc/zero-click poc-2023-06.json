@@ -1,0 +1,313 @@
+{
+    "commits_count": 1,
+    "date_started": "2023-06-30",
+    "date_updated": "2023-06-30",
+    "description": "wof.sys race condition uaf read poc",
+    "forks_count": 2,
+    "html_url": "https://github.com/Y3A/cve-2023-21766",
+    "keywords": [
+        "uaf poc"
+    ],
+    "language": "C",
+    "repo_name": "cve-2023-21766",
+    "repo_owner": "Y3A",
+    "repotime": "2023-06-30, 11:44:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-06-25",
+    "date_updated": "2023-06-25",
+    "description": "金蝶云星空 Kingdee-erp-Unserialize-RCE POC&amp;amp;&amp;amp;EXP",
+    "forks_count": 7,
+    "html_url": "https://github.com/Sweelg/Kingdee-erp-Unserialize-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "Kingdee-erp-Unserialize-RCE",
+    "repo_owner": "Sweelg",
+    "repotime": "2023-06-25, 22:47:41",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 76,
+    "date_started": "2019-04-11",
+    "date_updated": "2023-06-22",
+    "description": "Exploit Development - Weaponized Exploit and Proof of Concepts (PoC) ",
+    "forks_count": 48,
+    "html_url": "https://github.com/VoidSec/Exploit-Development",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce poc",
+        "Windows lpe poc",
+        "Windows lpe exploit",
+        "Windows rce poc",
+        "rce exploit",
+        "0day poc",
+        "Windows rce",
+        "Windows lpe",
+        "0day proof of concept",
+        "lpe poc",
+        "Windows 0day exploit",
+        "rce exploitation",
+        "0day exploitation",
+        "Windows rce proof of concept",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Windows 0day proof of concept",
+        "Windows 0day exploitation",
+        "Windows 0day poc",
+        "Windows 0day",
+        "lpe proof of concept",
+        "0day exploit",
+        "rce proof of concept",
+        "Windows lpe proof of concept",
+        "Windows rce exploit",
+        "lpe exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Exploit-Development",
+    "repo_owner": "VoidSec",
+    "repotime": "2023-06-22, 22:49:44",
+    "stargazers_count": 200,
+    "watchers_count": 200
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-09-09",
+    "date_updated": "2023-06-22",
+    "description": "APT38 Tactic PoC for Stealing 0days from security professionals",
+    "forks_count": 41,
+    "html_url": "https://github.com/ZeroMemoryEx/APT38-0day-Stealer",
+    "keywords": [
+        "rce poc",
+        "0day poc"
+    ],
+    "language": "C++",
+    "repo_name": "APT38-0day-Stealer",
+    "repo_owner": "ZeroMemoryEx",
+    "repotime": "2023-06-22, 14:15:37",
+    "stargazers_count": 249,
+    "watchers_count": 249
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-05-16",
+    "date_updated": "2023-06-20",
+    "description": "Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233",
+    "forks_count": 7,
+    "html_url": "https://github.com/oferchen/POC-CVE-2023-32233",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "C",
+    "repo_name": "POC-CVE-2023-32233",
+    "repo_owner": "oferchen",
+    "repotime": "2023-06-20, 08:58:04",
+    "stargazers_count": 44,
+    "watchers_count": 44
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-06-19",
+    "date_updated": "2023-06-19",
+    "description": "PoC for remote code execution when VSCode/VSCodium opens a project in &amp;quot;trusted&amp;quot; mode.",
+    "forks_count": 0,
+    "html_url": "https://github.com/raj3shp/vscode_trusted_rce",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "vscode_trusted_rce",
+    "repo_owner": "raj3shp",
+    "repotime": "2023-06-19, 16:28:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-06-15",
+    "date_updated": "2023-06-15",
+    "description": "e-signature &amp;lt; 1.5.6.8 - Unauthenticated Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/RandomRobbieBF/e-signature-poc",
+    "keywords": [
+        "remote code execution poc",
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "e-signature-poc",
+    "repo_owner": "RandomRobbieBF",
+    "repotime": "2023-06-15, 13:36:51",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-06-09",
+    "date_updated": "2023-06-12",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/luelueking/nacos_hessian_rce_poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "nacos_hessian_rce_poc",
+    "repo_owner": "luelueking",
+    "repotime": "2023-06-12, 21:23:49",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 391,
+    "date_started": "2021-11-26",
+    "date_updated": "2023-06-09",
+    "description": "利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点",
+    "forks_count": 344,
+    "html_url": "https://github.com/tr0uble-mAker/POC-bomber",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "POC-bomber",
+    "repo_owner": "tr0uble-mAker",
+    "repotime": "2023-06-09, 21:20:09",
+    "stargazers_count": 1893,
+    "watchers_count": 1893
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-06-08",
+    "date_updated": "2023-06-09",
+    "description": "Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows",
+    "forks_count": 4,
+    "html_url": "https://github.com/86x/CVE-2023-32353-PoC",
+    "keywords": [
+        "escalation of privileges proof of concept",
+        "escalation of privileges poc",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges proof of concept",
+        "Windows escalation of privileges poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2023-32353-PoC",
+    "repo_owner": "86x",
+    "repotime": "2023-06-09, 09:33:36",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-06-06",
+    "date_updated": "2023-06-08",
+    "description": "CVE-2023-25157 - GeoServer SQL Injection - PoC",
+    "forks_count": 35,
+    "html_url": "https://github.com/win3zz/CVE-2023-25157",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-25157",
+    "repo_owner": "win3zz",
+    "repotime": "2023-06-08, 14:35:21",
+    "stargazers_count": 141,
+    "watchers_count": 141
+}
+{
+    "commits_count": 32,
+    "date_started": "2023-05-30",
+    "date_updated": "2023-06-05",
+    "description": "Ruby package dependency confusion vulnerability POC. Impact this vulnerability is Remote code execution (RCE) ",
+    "forks_count": 1,
+    "html_url": "https://github.com/techghoshal/ruby_dependency_confusion_attacks",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "ruby_dependency_confusion_attacks",
+    "repo_owner": "techghoshal",
+    "repotime": "2023-06-05, 13:12:56",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 24,
+    "date_started": "2023-05-24",
+    "date_updated": "2023-06-03",
+    "description": "Python package dependency confusion  vulnerability POC. Impact this vulnerability is Remote code execution (RCE)",
+    "forks_count": 1,
+    "html_url": "https://github.com/techghoshal/Python_dependency_confusion_attacks",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Python_dependency_confusion_attacks",
+    "repo_owner": "techghoshal",
+    "repotime": "2023-06-03, 18:07:27",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-05-31",
+    "date_updated": "2023-06-02",
+    "description": "Chrome 0-day fix",
+    "forks_count": 0,
+    "html_url": "https://github.com/MHadzicHSCS/Chrome-0-day",
+    "keywords": [
+        "Chrome rce",
+        "Chrome rce poc",
+        "Chrome rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Chrome-0-day",
+    "repo_owner": "MHadzicHSCS",
+    "repotime": "2023-06-02, 11:02:57",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-06-02",
+    "date_updated": "2023-06-02",
+    "description": "Chromium 0-Day ",
+    "forks_count": 0,
+    "html_url": "https://github.com/SSankkarHSCS/Chromium-0-Day",
+    "keywords": [
+        "Chromium rce poc",
+        "Chrome rce",
+        "Chromium rce",
+        "Chrome rce poc",
+        "Chromium rce exploit",
+        "Chrome rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Chromium-0-Day",
+    "repo_owner": "SSankkarHSCS",
+    "repotime": "2023-06-02, 10:57:04",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2023-05-25",
+    "date_updated": "2023-06-02",
+    "description": "GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.",
+    "forks_count": 34,
+    "html_url": "https://github.com/Occamsec/CVE-2023-2825",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-2825",
+    "repo_owner": "Occamsec",
+    "repotime": "2023-06-02, 13:10:06",
+    "stargazers_count": 142,
+    "watchers_count": 142
+}

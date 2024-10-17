@@ -1,0 +1,105 @@
+{
+    "commits_count": 2,
+    "date_started": "2023-02-27",
+    "date_updated": "2023-02-27",
+    "description": "A small ncat-like server wrtten in 2 versions, one with a buffer overflow exploit and the later version without. It was written to be used in an end-to-end zero-day workflow, including identification and banner grabbing by nmap/Nessus and ending with a Metasploit exploit.",
+    "forks_count": 0,
+    "html_url": "https://github.com/damiengolding/Victim-Lab-Server",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Victim-Lab-Server",
+    "repo_owner": "damiengolding",
+    "repotime": "2023-02-27, 15:09:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-09-11",
+    "date_updated": "2023-02-21",
+    "description": "Zero-Day Vulnerability in File Manager Plugin 6.7 ( CVE 2020-25213 )",
+    "forks_count": 10,
+    "html_url": "https://github.com/Aron-Tn/0day-elFinder-2020",
+    "keywords": [
+        "zero-day vulnerability",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "0day-elFinder-2020",
+    "repo_owner": "Aron-Tn",
+    "repotime": "2023-02-21, 22:28:26",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-20",
+    "date_updated": "2023-02-21",
+    "description": "Malwarebytes Anti-Exploit Premium Crack  Is a strong and complete security product that protects you from zero-day exploits that target applications and browsers. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/SoftCrackPro1/https-softcrackpro.com-malwarebytes-anti-exploit-softcrackpro-",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "https-softcrackpro.com-malwarebytes-anti-exploit-softcrackpro-",
+    "repo_owner": "SoftCrackPro1",
+    "repotime": "2023-02-21, 03:01:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-02-20",
+    "date_updated": "2023-02-20",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/DeveloperAvik/zero-day-exploit",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "zero-day-exploit",
+    "repo_owner": "DeveloperAvik",
+    "repotime": "2023-02-20, 14:04:28",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-06",
+    "date_updated": "2023-02-06",
+    "description": "The Repository is for using virtual Linux environment on win 10",
+    "forks_count": 0,
+    "html_url": "https://github.com/ShehabNegm/zero_day",
+    "keywords": [
+        "Win zero-day"
+    ],
+    "language": null,
+    "repo_name": "zero_day",
+    "repo_owner": "ShehabNegm",
+    "repotime": "2023-02-06, 23:18:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "A stored cross-site scripting (XSS) vulnerability exists in Tenable.sc due to improper validation of user-supplied input before returning it to users. An authenticated, remote attacker can exploit this by convincing a user to click a specially crafted URL, to execute arbitrary script code in a user's browser session. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-24494",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-24494",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 19:23:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

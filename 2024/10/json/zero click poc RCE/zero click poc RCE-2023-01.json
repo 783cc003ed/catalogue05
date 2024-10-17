@@ -1,0 +1,73 @@
+{
+    "commits_count": 22,
+    "date_started": "2022-11-25",
+    "date_updated": "2023-01-12",
+    "description": "An ongoing &amp;amp; curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Zero-day attack and exploits in Cybersecurity",
+    "forks_count": 2,
+    "html_url": "https://github.com/paulveillard/cybersecurity-zero-day",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "cybersecurity-zero-day",
+    "repo_owner": "paulveillard",
+    "repotime": "2023-01-12, 15:53:55",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-11",
+    "date_updated": "2023-01-11",
+    "description": "A vulnerability in the HTTP/HTTPS service used by J-Web, Web Authentication, Dynamic-VPN (DVPN), Firewall Authentication Pass-Through with Web-Redirect, and Zero Touch Provisioning (ZTP) allows an unauthenticated attacker to perform local file inclusion (LFI) or path traversal. Using this vulnerability, an attacker may CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-1631",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-1631",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-11, 21:00:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-01-04",
+    "description": "adds robux to roblox with easy extension",
+    "forks_count": 1,
+    "html_url": "https://github.com/Jack55216/roblox-zero-day-exploit",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "roblox-zero-day-exploit",
+    "repo_owner": "Jack55216",
+    "repotime": "2023-01-04, 16:47:55",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-01-04",
+    "description": "A Zero-day exploit that affects Windows, and potentially linux machines with powershell installed.",
+    "forks_count": 0,
+    "html_url": "https://github.com/r3dg0d/Powershell-0-day",
+    "keywords": [
+        "Windows zero-day exploit",
+        "Windows zero-day",
+        "zero-day exploit",
+        "Windows zero-day exploitation",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Powershell-0-day",
+    "repo_owner": "r3dg0d",
+    "repotime": "2023-01-04, 13:23:02",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

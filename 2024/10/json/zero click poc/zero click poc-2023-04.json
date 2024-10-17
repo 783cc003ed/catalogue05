@@ -1,0 +1,303 @@
+{
+    "commits_count": 1,
+    "date_started": "2023-04-27",
+    "date_updated": "2023-04-27",
+    "description": "POC Exploit for CVE-2022-26488 - Python for Windows (CPython) escalation of privilege vulnerability, discovered by the Lockheed Martin Red Team.",
+    "forks_count": 0,
+    "html_url": "https://github.com/techspence/PyPATHPwner",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges poc",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges poc",
+        "Windows escalation of privileges exploit",
+        "Windows escalation of privileges exploitation",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "PyPATHPwner",
+    "repo_owner": "techspence",
+    "repotime": "2023-04-27, 00:35:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-04-25",
+    "date_updated": "2023-04-25",
+    "description": "I am somewhat new to GitHub.  I came home with GitHub open saying that I hadn't paid my bill.  It turned out to be a Microsoft Zero Day Virus.  ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Tmalo7310/miniature-octo-disco",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "miniature-octo-disco",
+    "repo_owner": "Tmalo7310",
+    "repotime": "2023-04-25, 00:00:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-04-24",
+    "date_updated": "2023-04-24",
+    "description": "Zero day POC for MS Office Word 2023",
+    "forks_count": 2,
+    "html_url": "https://github.com/octosec45/ms-word-rce-0day-poc-2023",
+    "keywords": [
+        "zero-day exploit",
+        "0day poc",
+        "0day exploit",
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "ms-word-rce-0day-poc-2023",
+    "repo_owner": "octosec45",
+    "repotime": "2023-04-24, 17:07:37",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-04-24",
+    "date_updated": "2023-04-24",
+    "description": "IP Address Information Disclosure via RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/ilovekittens99/discord-exploit-poc-0day-2023",
+    "keywords": [
+        "0day poc",
+        "rce disclosure",
+        "0day disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "discord-exploit-poc-0day-2023",
+    "repo_owner": "ilovekittens99",
+    "repotime": "2023-04-24, 07:38:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2023-04-24",
+    "date_updated": "2023-04-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/surfingdan55/ms-word-0day-poc",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "ms-word-0day-poc",
+    "repo_owner": "surfingdan55",
+    "repotime": "2023-04-24, 06:59:52",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-04-22",
+    "date_updated": "2023-04-22",
+    "description": "This Python script reinforces firewall security by analyzing incoming traffic and detecting zero-day attacks. It captures packets, extracts their information, and filters them based on predefined rules. The script should be added to your existing firewall system to enhance its security capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/shezmic/Reinforce-Firewall-Security-with-Traffic-Analysis-and-Zero-Day-Attack-Protection",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "Reinforce-Firewall-Security-with-Traffic-Analysis-and-Zero-Day-Attack-Protection",
+    "repo_owner": "shezmic",
+    "repotime": "2023-04-22, 16:03:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-28",
+    "date_updated": "2023-04-21",
+    "description": "Part 1: Research Question  This section of the assessment covers unsupervised learning with R.   We will revisit our last week's case study and using the learnings and the given datasets. We will be tasked to create a supervised learning model to help identify which individuals are most likely to click on the ads in the blog.   Note that you will be required to include your last week's IP insights thus you can add a modeling section to your last week's submission submit it.    Part 2: Research Question  This section of the assessment covers unsupervised learning with R.   Kira Plastinina is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia. The brand’s Sales and Marketing team would like to understand their customer’s behavior from data that they have collected over the past year. More specifically, they would like to learn the characteristics of customer groups.  Perform clustering stating ins...",
+    "forks_count": 0,
+    "html_url": "https://github.com/stacykeago/Predicting-customer-ad-clicks-on-a-blog-page",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": null,
+    "repo_name": "Predicting-customer-ad-clicks-on-a-blog-page",
+    "repo_owner": "stacykeago",
+    "repotime": "2023-04-21, 00:25:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 22,
+    "date_started": "2022-03-31",
+    "date_updated": "2023-04-18",
+    "description": "CVE-2022-22965 - CVE-2010-1622 redux",
+    "forks_count": 11,
+    "html_url": "https://github.com/DDuarte/springshell-rce-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "springshell-rce-poc",
+    "repo_owner": "DDuarte",
+    "repotime": "2023-04-18, 13:54:56",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-04-10",
+    "date_updated": "2023-04-12",
+    "description": "Analysis of vulnerabilities I discover during my security audit. Including my zero-day exploits and vulnerability analysis without public PoC(N-day).",
+    "forks_count": 0,
+    "html_url": "https://github.com/dipa96/my-days-and-not",
+    "keywords": [
+        "zero-day exploit",
+        "0day analysis",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "zero-day analysis",
+        "0day poc",
+        "0day vulnerability",
+        "zero-day poc"
+    ],
+    "language": null,
+    "repo_name": "my-days-and-not",
+    "repo_owner": "dipa96",
+    "repotime": "2023-04-12, 12:14:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-04-11",
+    "date_updated": "2023-04-11",
+    "description": "The X-Pack Disabled Elasticsearch Testing Tool is a Python script for ethical security assessments of Elasticsearch instances. It does not use software vulnerabilities or zero-day exploits. With this tool, cybersecurity professionals can comprehensively assess security posture when X-Pack is disabled. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/azarnman/X-Pack-Disabled-Elasticsearch-Testing-Tool",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation",
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "X-Pack-Disabled-Elasticsearch-Testing-Tool",
+    "repo_owner": "azarnman",
+    "repotime": "2023-04-11, 11:48:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 29,
+    "date_started": "2022-07-09",
+    "date_updated": "2023-04-09",
+    "description": "Local File Inclusion To Remote Command Execution (PoC)",
+    "forks_count": 1,
+    "html_url": "https://github.com/0bfxgh0st/lfi2rce",
+    "keywords": [
+        "local file inclusion",
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi2rce",
+    "repo_owner": "0bfxgh0st",
+    "repotime": "2023-04-09, 21:28:24",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-04-07",
+    "date_updated": "2023-04-07",
+    "description": "Exploit and report for CVE-2022-43293",
+    "forks_count": 1,
+    "html_url": "https://github.com/LucaBarile/CVE-2022-43293",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "zero-day poc",
+        "zero-day disclosure"
+    ],
+    "language": "Batchfile",
+    "repo_name": "CVE-2022-43293",
+    "repo_owner": "LucaBarile",
+    "repotime": "2023-04-07, 17:12:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-04-07",
+    "date_updated": "2023-04-07",
+    "description": "its a simple crud we can add books for authenticated users only and unauthenticated users can only read. we can edit the book details for book author only others users restricts the permission to edit. ina user list we can see the books for that user then we can click that book url.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sabah4366/book-trial",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "book-trial",
+    "repo_owner": "sabah4366",
+    "repotime": "2023-04-07, 11:44:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-04-04",
+    "date_updated": "2023-04-05",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/rafael-piovesan/poc-memory-leak",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "TypeScript",
+    "repo_name": "poc-memory-leak",
+    "repo_owner": "rafael-piovesan",
+    "repotime": "2023-04-05, 15:32:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 36,
+    "date_started": "2022-08-02",
+    "date_updated": "2023-04-05",
+    "description": "Exploits and reports for CVE-2022-38604",
+    "forks_count": 1,
+    "html_url": "https://github.com/LucaBarile/CVE-2022-38604",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "zero-day poc",
+        "zero-day disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2022-38604",
+    "repo_owner": "LucaBarile",
+    "repotime": "2023-04-05, 15:35:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-04-03",
+    "date_updated": "2023-04-03",
+    "description": "zero-day vulnerabilities' hackerthorn",
+    "forks_count": 0,
+    "html_url": "https://github.com/novice-fmm/Stuxnet",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Stuxnet",
+    "repo_owner": "novice-fmm",
+    "repotime": "2023-04-03, 12:09:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

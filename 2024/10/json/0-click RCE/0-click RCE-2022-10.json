@@ -1,0 +1,36 @@
+{
+    "commits_count": 1,
+    "date_started": "2022-10-25",
+    "date_updated": "2022-10-25",
+    "description": "RCE exploit for the Aukey WR-R01 router. This backdoors the router and enables telnet access by creating another root user. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/rejections/Aukey-WR-R01-0day-RCE",
+    "keywords": [
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Aukey-WR-R01-0day-RCE",
+    "repo_owner": "rejections",
+    "repotime": "2022-10-25, 14:43:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-10-12",
+    "date_updated": "2022-10-15",
+    "description": "RCE Exploit and Research ",
+    "forks_count": 1,
+    "html_url": "https://github.com/RashidKhanPathan/CVE-2022-40471",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-40471",
+    "repo_owner": "RashidKhanPathan",
+    "repotime": "2022-10-15, 12:12:44",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}

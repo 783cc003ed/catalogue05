@@ -1,0 +1,160 @@
+{
+    "commits_count": 8,
+    "date_started": "2019-05-23",
+    "date_updated": "2019-05-29",
+    "description": "A social experiment",
+    "forks_count": 13,
+    "html_url": "https://github.com/adalenv/CVE-2019-0708-Tool",
+    "keywords": [
+        "0day exploit",
+        "Windows rce poc",
+        "0day poc",
+        "Windows rce",
+        "Windows 0day exploit",
+        "Windows rce exploit",
+        "Windows 0day poc",
+        "Windows 0day"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2019-0708-Tool",
+    "repo_owner": "adalenv",
+    "repotime": "2019-05-29, 19:12:32",
+    "stargazers_count": 87,
+    "watchers_count": 87
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-05-22",
+    "date_updated": "2019-05-22",
+    "description": "WD My Cloud PoC exploit",
+    "forks_count": 13,
+    "html_url": "https://github.com/bnbdr/wd-rce",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "wd-rce",
+    "repo_owner": "bnbdr",
+    "repotime": "2019-05-22, 22:10:41",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 15,
+    "date_started": "2019-05-22",
+    "date_updated": "2019-05-21",
+    "description": "Scanner PoC for CVE-2019-0708 RDP RCE vuln",
+    "forks_count": 403,
+    "html_url": "https://github.com/victor0013/CVE-2019-0708",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2019-0708",
+    "repo_owner": "victor0013",
+    "repotime": "2019-05-21, 20:13:24",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 13,
+    "date_started": "2019-05-21",
+    "date_updated": "2019-05-21",
+    "description": "Cisco Exploit  (CVE-2019-1821 Cisco Prime Infrastructure Remote Code Execution/CVE-2019-1653/Cisco SNMP RCE/Dump Cisco RV320 Password)",
+    "forks_count": 66,
+    "html_url": "https://github.com/k8gege/CiscoExploit",
+    "keywords": [
+        "0day exploit",
+        "rce poc",
+        "remote code execution exploit",
+        "remote code execution exploitation",
+        "rce exploit",
+        "0day poc",
+        "remote code execution poc",
+        "rce exploitation",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CiscoExploit",
+    "repo_owner": "k8gege",
+    "repotime": "2019-05-21, 22:52:35",
+    "stargazers_count": 128,
+    "watchers_count": 128
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-05-16",
+    "date_updated": "2019-05-16",
+    "description": "mstsc.exe Path Traversal to RCE POC",
+    "forks_count": 15,
+    "html_url": "https://github.com/0xedh/mstsc-path-traversal",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "mstsc-path-traversal",
+    "repo_owner": "0xedh",
+    "repotime": "2019-05-16, 14:21:29",
+    "stargazers_count": 91,
+    "watchers_count": 91
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-05-06",
+    "date_updated": "2019-05-09",
+    "description": "Zimbra邮件系统漏洞 XXE/RCE/SSRF/Upload GetShell Exploit  1. (CVE-2019-9621 Zimbra&amp;lt;8.8.11  XXE GetShell Exploit)",
+    "forks_count": 44,
+    "html_url": "https://github.com/k8gege/ZimbraExploit",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "rce exploit",
+        "0day poc",
+        "xxe",
+        "rce exploitation",
+        "rce poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "ZimbraExploit",
+    "repo_owner": "k8gege",
+    "repotime": "2019-05-09, 00:22:58",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-05-03",
+    "date_updated": "2019-05-03",
+    "description": "CVE-2019-9978 - (PoC) RCE in Social WarFare Plugin (&amp;lt;=3.5.2)",
+    "forks_count": 8,
+    "html_url": "https://github.com/hash3liZer/CVE-2019-9978",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-9978",
+    "repo_owner": "hash3liZer",
+    "repotime": "2019-05-03, 11:18:02",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-04-30",
+    "date_updated": "2019-05-01",
+    "description": "<no description>",
+    "forks_count": 49,
+    "html_url": "https://github.com/D4stiny/Dell-Support-Assist-RCE-PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "Dell-Support-Assist-RCE-PoC",
+    "repo_owner": "D4stiny",
+    "repotime": "2019-05-01, 18:32:48",
+    "stargazers_count": 167,
+    "watchers_count": 167
+}

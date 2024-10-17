@@ -1,0 +1,100 @@
+{
+    "commits_count": 15,
+    "date_started": "2020-07-28",
+    "date_updated": "2022-02-22",
+    "description": "Hello Zero helps you extract information about all hardware and software installed on your system and automatically crawl the dark web every day to find zero-day exploits which target hardware/software you have on your system. In version 1.0, it only works on the Windows platform.",
+    "forks_count": 4,
+    "html_url": "https://github.com/snippray/Hell0",
+    "keywords": [
+        "0day exploit",
+        "Windows 0day exploitation",
+        "Windows zero-day exploitation",
+        "Windows zero-day",
+        "Windows 0day exploit",
+        "0day exploitation",
+        "zero-day exploitation",
+        "Windows 0day",
+        "zero-day exploit",
+        "Windows zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Hell0",
+    "repo_owner": "snippray",
+    "repotime": "2022-02-22, 20:33:47",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-11-28",
+    "date_updated": "2022-02-21",
+    "description": "CVE-2021-24084 Windows Local Privilege Escalation Left officially unpatched since 2020. Hence, its still a zero day",
+    "forks_count": 13,
+    "html_url": "https://github.com/exploitblizzard/WindowsMDM-LPE-0Day",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe",
+        "Windows zero-day",
+        "Win 0day",
+        "Windows 0day",
+        "Win zero-day"
+    ],
+    "language": "C++",
+    "repo_name": "WindowsMDM-LPE-0Day",
+    "repo_owner": "exploitblizzard",
+    "repotime": "2022-02-21, 14:00:22",
+    "stargazers_count": 47,
+    "watchers_count": 47
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-02-18",
+    "date_updated": "2022-02-19",
+    "description": "CVE-2021-1965 WiFi Zero Click RCE Trigger PoC",
+    "forks_count": 30,
+    "html_url": "https://github.com/parsdefense/CVE-2021-1965",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2021-1965",
+    "repo_owner": "parsdefense",
+    "repotime": "2022-02-19, 16:52:32",
+    "stargazers_count": 168,
+    "watchers_count": 168
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-12",
+    "date_updated": "2022-02-15",
+    "description": "Is there a Chrome Zero-day update available? (humour)",
+    "forks_count": 0,
+    "html_url": "https://github.com/michaelsanford/is-there-a-chrome-zero-day-update-available",
+    "keywords": [
+        "Chrome zero-day"
+    ],
+    "language": "HTML",
+    "repo_name": "is-there-a-chrome-zero-day-update-available",
+    "repo_owner": "michaelsanford",
+    "repotime": "2022-02-15, 14:58:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-04",
+    "date_updated": "2022-02-04",
+    "description": "Hands-on Zero Day Exploit, by EC-Council",
+    "forks_count": 0,
+    "html_url": "https://github.com/ec-council-learning/Hands-on-Zero-Day-Exploit",
+    "keywords": [
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Hands-on-Zero-Day-Exploit",
+    "repo_owner": "ec-council-learning",
+    "repotime": "2022-02-04, 13:55:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

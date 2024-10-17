@@ -1,0 +1,261 @@
+{
+    "commits_count": 41,
+    "date_started": "2022-12-12",
+    "date_updated": "2022-12-30",
+    "description": "This repository contains proof of concept for zero days and CVEs that were found by Omar Hashem through Security Research",
+    "forks_count": 21,
+    "html_url": "https://github.com/omarhashem123/Security-Research",
+    "keywords": [
+        "0day proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Security-Research",
+    "repo_owner": "omarhashem123",
+    "repotime": "2022-12-30, 19:26:22",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Linux disk/nic frontends data leaks T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] Linux Block and Network PV device frontends don't zero memory regions before sharing them with the backend (CVE-2022-26365, CVE-2022-33740). Additionally t CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-26365",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-26365",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 18:02:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Linux disk/nic frontends data leaks T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] Linux Block and Network PV device frontends don't zero memory regions before sharing them with the backend (CVE-2022-26365, CVE-2022-33740). Additionally t CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-33740",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-33740",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 18:02:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Linux disk/nic frontends data leaks T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] Linux Block and Network PV device frontends don't zero memory regions before sharing them with the backend (CVE-2022-26365, CVE-2022-33740). Additionally t CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-33742",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-33742",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 18:02:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Cscape, 9.80 SP4 and prior. An improper input validation vulnerability may be exploited by processing specially crafted POC files. This may allow an attacker to read confidential information and remotely execute arbitrary code. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-6555",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-6555",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 03:33:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-10-06",
+    "date_updated": "2022-12-27",
+    "description": "<no description>",
+    "forks_count": 6,
+    "html_url": "https://github.com/akincibor/Dependency-Confusion-RCE-POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Shell",
+    "repo_name": "Dependency-Confusion-RCE-POC",
+    "repo_owner": "akincibor",
+    "repotime": "2022-12-27, 22:31:44",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-12-18",
+    "date_updated": "2022-12-21",
+    "description": "zero-day",
+    "forks_count": 0,
+    "html_url": "https://github.com/kinderscsaa/CVE-Test-POC",
+    "keywords": [
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-Test-POC",
+    "repo_owner": "kinderscsaa",
+    "repotime": "2022-12-21, 23:05:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 21,
+    "date_started": "2022-12-09",
+    "date_updated": "2022-12-11",
+    "description": "[PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom)",
+    "forks_count": 20,
+    "html_url": "https://github.com/yuriisanin/CVE-2022-45025",
+    "keywords": [
+        "rce poc",
+        "rce exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-45025",
+    "repo_owner": "yuriisanin",
+    "repotime": "2022-12-11, 14:37:22",
+    "stargazers_count": 89,
+    "watchers_count": 89
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-10-29",
+    "date_updated": "2022-12-09",
+    "description": "POC for CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability.",
+    "forks_count": 4,
+    "html_url": "https://github.com/Malwareman007/CVE-2022-21907",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-21907",
+    "repo_owner": "Malwareman007",
+    "repotime": "2022-12-09, 19:13:48",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-24",
+    "date_updated": "2022-12-08",
+    "description": "A POC for the new injection technique, abusing windows fork API to evade EDRs. https://www.blackhat.com/eu-22/briefings/schedule/index.html&amp;&#35;35;dirty-vanity-a-new-approach-to-code-injection--edr-bypass-28417",
+    "forks_count": 78,
+    "html_url": "https://github.com/deepinstinct/Dirty-Vanity",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "Dirty-Vanity",
+    "repo_owner": "deepinstinct",
+    "repotime": "2022-12-08, 02:18:38",
+    "stargazers_count": 576,
+    "watchers_count": 576
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-10-17",
+    "date_updated": "2022-12-06",
+    "description": "CVE-2014-8731 - PHPMemcachedAdmin RCE - Proof of Concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/sbani/CVE-2014-8731-PoC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2014-8731-PoC",
+    "repo_owner": "sbani",
+    "repotime": "2022-12-06, 10:02:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-12-05",
+    "date_updated": "2022-12-05",
+    "description": "windows 下redis的RCE验证插件",
+    "forks_count": 0,
+    "html_url": "https://github.com/wrysunny/redis-for-windows-RCE-poc",
+    "keywords": [
+        "Win rce poc",
+        "Win rce",
+        "Windows rce",
+        "Windows rce poc"
+    ],
+    "language": null,
+    "repo_name": "redis-for-windows-RCE-poc",
+    "repo_owner": "wrysunny",
+    "repotime": "2022-12-05, 19:38:07",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 20,
+    "date_started": "2022-12-03",
+    "date_updated": "2022-12-04",
+    "description": "For educational purposes only!",
+    "forks_count": 1,
+    "html_url": "https://github.com/Wiggle-woggle/ZERO-DAY-DISCORD-EXPLOITS",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "C#",
+    "repo_name": "ZERO-DAY-DISCORD-EXPLOITS",
+    "repo_owner": "Wiggle-woggle",
+    "repotime": "2022-12-04, 12:31:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 20,
+    "date_started": "2022-12-04",
+    "date_updated": "2022-12-04",
+    "description": "For educational purposes only!",
+    "forks_count": 0,
+    "html_url": "https://github.com/lethal2/ZERO-DAY-DISCORD-EXPLOITS",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZERO-DAY-DISCORD-EXPLOITS",
+    "repo_owner": "lethal2",
+    "repotime": "2022-12-04, 12:31:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-12-02",
+    "date_updated": "2022-12-02",
+    "description": "This is my first repository using git on windows as a full-stack engineer",
+    "forks_count": 0,
+    "html_url": "https://github.com/Stariano/zero_day",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": null,
+    "repo_name": "zero_day",
+    "repo_owner": "Stariano",
+    "repotime": "2022-12-02, 16:10:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

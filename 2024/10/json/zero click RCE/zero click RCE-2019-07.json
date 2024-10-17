@@ -1,0 +1,52 @@
+{
+    "commits_count": 4,
+    "date_started": "2019-07-30",
+    "date_updated": "2019-07-30",
+    "description": "Latest ios RCE Vulnerability disclosed by Google Security Researcher",
+    "forks_count": 14,
+    "html_url": "https://github.com/TinToSer/ios-RCE-Vulnerability",
+    "keywords": [
+        "zero-day vulnerability",
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "ios-RCE-Vulnerability",
+    "repo_owner": "TinToSer",
+    "repotime": "2019-07-30, 20:57:43",
+    "stargazers_count": 39,
+    "watchers_count": 39
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-11-23",
+    "date_updated": "2019-07-10",
+    "description": "Phishing website detection system provides strong security mechanism to detect and prevent phishing domains from reaching user. This project presents a simple and portable approach to detect spoofed webpages and solve security vulnerabilities using Machine Learning.  It can be easily operated by anyone since all the major tasks are happening in the backend. The user is required to provide URL as input to the GUI and click on submit button. The output is shown as “YES” for phishing URL and “NO” for not phished URL.  PYTHON DEPENDENCIES:  • NumPy, Pandas, Scikit-learn: For Data cleaning, Data analysis and Data modelling. • Pickle: For exporting the model to local machine  • Tkinter, Pyqt, QtDesigner: For building up the Graphical User Interface (GUI) of the software.    To avoid the pain of installing independent packages and libraries of python, install Anaconda from www.anaconda.com. It is a Python data science platform which has all the ML libraries, Data analysis libraries, Jupyter N...",
+    "forks_count": 20,
+    "html_url": "https://github.com/Komal01/phishing-URL-detection",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "phishing-URL-detection",
+    "repo_owner": "Komal01",
+    "repotime": "2019-07-10, 23:53:31",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-06-30",
+    "date_updated": "2019-07-04",
+    "description": "This is a fun app or game, mainly developed for the fun in passive guessing, active analysis and the beauty of randomness which occurs in nature. Also, this will help gather data on random guessing of numbers given time and other factors. There is this little understanding/ knowledge which is by intuition that individuals guessing of numbers at a certain time of the day in the presence of some factors could be predicted given data of previous guessing. That is, individual have favorite numbers even if they are just guessing at a point in time. Guess king is a proposed interactive application or game that will engage uses in guessing and predicting numbers. It will have single player and multiplayer mode. Single player mode will feature the application generating a random number, and three other random numbers to form a set of number and ask the user / player to predict the first number generated with 3 options. Should the user/ player get the first guess write, he / she scores 5 point ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/penbosso/guess_king",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Java",
+    "repo_name": "guess_king",
+    "repo_owner": "penbosso",
+    "repotime": "2019-07-04, 07:39:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

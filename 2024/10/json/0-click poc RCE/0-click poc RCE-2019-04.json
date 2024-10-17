@@ -1,0 +1,128 @@
+{
+    "commits_count": 7,
+    "date_started": "2019-05-17",
+    "date_updated": "2019-04-23",
+    "description": "Awesome Penetration Testing，hacker tools collection, metasploit exploit, meterpreter....struts2、weblogic, 0day,poc,apt,backdoor,VulApps,vuln,pentest-script,online to https://51pwn.com, or https://exploit-poc.com",
+    "forks_count": 1,
+    "html_url": "https://github.com/iqrok/myhktools",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "myhktools",
+    "repo_owner": "iqrok",
+    "repotime": "2019-04-23, 20:50:08",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-04-18",
+    "date_updated": "2019-04-18",
+    "description": "PoC for CVE-2018-18500 - Firefox Use-After-Free",
+    "forks_count": 17,
+    "html_url": "https://github.com/sophoslabs/CVE-2018-18500",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2018-18500",
+    "repo_owner": "sophoslabs",
+    "repotime": "2019-04-18, 13:32:46",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-04-10",
+    "date_updated": "2019-04-11",
+    "description": "CVE-2019-11076 - Cribl UI 1.5.0 allows remote attackers to run arbitrary commands via an unauthenticated web request",
+    "forks_count": 1,
+    "html_url": "https://github.com/livehybrid/poc-cribl-rce",
+    "keywords": [
+        "unauthenticated attacker",
+        "unauthenticated rce"
+    ],
+    "language": "JavaScript",
+    "repo_name": "poc-cribl-rce",
+    "repo_owner": "livehybrid",
+    "repotime": "2019-04-11, 13:50:11",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 17,
+    "date_started": "2018-03-26",
+    "date_updated": "2019-04-10",
+    "description": "a POC for the libc address leak using __libc_csu_init from the paper https://i.blackhat.com/briefings/asia/2018/asia-18-Marco-return-to-csu-a-new-method-to-bypass-the-64-bit-Linux-ASLR-wp.pdf",
+    "forks_count": 1,
+    "html_url": "https://github.com/andreafioraldi/leakyleak",
+    "keywords": [
+        "aslr bypass poc",
+        "address leak poc",
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "leakyleak",
+    "repo_owner": "andreafioraldi",
+    "repotime": "2019-04-10, 08:53:18",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-02-28",
+    "date_updated": "2019-04-04",
+    "description": "MSF moudle jboss invoke deploy getshell Exploit  &amp;amp; Jboss jmx-console getshell exploit",
+    "forks_count": 21,
+    "html_url": "https://github.com/k8gege/JbossExploit",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "JbossExploit",
+    "repo_owner": "k8gege",
+    "repotime": "2019-04-04, 20:19:42",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-02-28",
+    "date_updated": "2019-04-04",
+    "description": "MSF moudle DotNetNuke GetShell &amp;amp; execute exploit",
+    "forks_count": 15,
+    "html_url": "https://github.com/k8gege/DotNetNukeEXPLOIT",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "DotNetNukeEXPLOIT",
+    "repo_owner": "k8gege",
+    "repotime": "2019-04-04, 20:14:55",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-04-03",
+    "date_updated": "2019-04-03",
+    "description": "It is a simple PoC of Improper Input Validation in python-gnupg 0.4.3 (CVE-2019-6690).",
+    "forks_count": 1,
+    "html_url": "https://github.com/brianwrf/CVE-2019-6690",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "Perl",
+    "repo_name": "CVE-2019-6690",
+    "repo_owner": "brianwrf",
+    "repotime": "2019-04-03, 15:57:21",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}

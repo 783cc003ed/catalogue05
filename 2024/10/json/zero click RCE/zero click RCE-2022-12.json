@@ -1,0 +1,154 @@
+{
+    "commits_count": 41,
+    "date_started": "2022-12-12",
+    "date_updated": "2022-12-30",
+    "description": "This repository contains proof of concept for zero days and CVEs that were found by Omar Hashem through Security Research",
+    "forks_count": 21,
+    "html_url": "https://github.com/omarhashem123/Security-Research",
+    "keywords": [
+        "0day proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Security-Research",
+    "repo_owner": "omarhashem123",
+    "repotime": "2022-12-30, 19:26:22",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Linux disk/nic frontends data leaks T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] Linux Block and Network PV device frontends don't zero memory regions before sharing them with the backend (CVE-2022-26365, CVE-2022-33740). Additionally t CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-26365",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-26365",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 18:02:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Linux disk/nic frontends data leaks T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] Linux Block and Network PV device frontends don't zero memory regions before sharing them with the backend (CVE-2022-26365, CVE-2022-33740). Additionally t CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-33740",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-33740",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 18:02:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Linux disk/nic frontends data leaks T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] Linux Block and Network PV device frontends don't zero memory regions before sharing them with the backend (CVE-2022-26365, CVE-2022-33740). Additionally t CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-33742",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-33742",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 18:02:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-12-18",
+    "date_updated": "2022-12-21",
+    "description": "zero-day",
+    "forks_count": 0,
+    "html_url": "https://github.com/kinderscsaa/CVE-Test-POC",
+    "keywords": [
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-Test-POC",
+    "repo_owner": "kinderscsaa",
+    "repotime": "2022-12-21, 23:05:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-12-20",
+    "date_updated": "2022-12-20",
+    "description": "The vulnerability is in the SPNEGO Extended Negotiation (NEGOEX) Security Mechanism, which allows a client and server to negotiate the choice of security mechanism to use. This vulnerability is a pre-authentication remote code execution vulnerability impacting a wide range of protocols. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-37958-Windows-Server-RCE",
+    "repo_owner": "RCEman01",
+    "repotime": "2022-12-20, 12:51:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2022-12-03",
+    "date_updated": "2022-12-04",
+    "description": "For educational purposes only!",
+    "forks_count": 1,
+    "html_url": "https://github.com/Wiggle-woggle/ZERO-DAY-DISCORD-EXPLOITS",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "C#",
+    "repo_name": "ZERO-DAY-DISCORD-EXPLOITS",
+    "repo_owner": "Wiggle-woggle",
+    "repotime": "2022-12-04, 12:31:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 20,
+    "date_started": "2022-12-04",
+    "date_updated": "2022-12-04",
+    "description": "For educational purposes only!",
+    "forks_count": 0,
+    "html_url": "https://github.com/lethal2/ZERO-DAY-DISCORD-EXPLOITS",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZERO-DAY-DISCORD-EXPLOITS",
+    "repo_owner": "lethal2",
+    "repotime": "2022-12-04, 12:31:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-12-02",
+    "date_updated": "2022-12-02",
+    "description": "This is my first repository using git on windows as a full-stack engineer",
+    "forks_count": 0,
+    "html_url": "https://github.com/Stariano/zero_day",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": null,
+    "repo_name": "zero_day",
+    "repo_owner": "Stariano",
+    "repotime": "2022-12-02, 16:10:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

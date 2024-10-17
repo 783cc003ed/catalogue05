@@ -1,0 +1,200 @@
+{
+    "commits_count": 29,
+    "date_started": "2015-10-18",
+    "date_updated": "2022-05-31",
+    "description": "Wordpress XMLRPC System Multicall Brute Force Exploit (0day)  by 1N3 @ CrowdShield",
+    "forks_count": 212,
+    "html_url": "https://github.com/1N3/Wordpress-XMLRPC-Brute-Force-Exploit",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Wordpress-XMLRPC-Brute-Force-Exploit",
+    "repo_owner": "1N3",
+    "repotime": "2022-05-31, 12:09:08",
+    "stargazers_count": 437,
+    "watchers_count": 437
+}
+{
+    "commits_count": 13,
+    "date_started": "2010-01-12",
+    "date_updated": "2022-05-31",
+    "description": "Demonstration of Tesseract OCR on the iPhone. Video: http://www.youtube.com/v/MICew5-nZp4?hl=en_US&amp;amp;fs=1",
+    "forks_count": 111,
+    "html_url": "https://github.com/rcarlsen/Pocket-OCR",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Objective-C",
+    "repo_name": "Pocket-OCR",
+    "repo_owner": "rcarlsen",
+    "repotime": "2022-05-31, 17:34:00",
+    "stargazers_count": 523,
+    "watchers_count": 523
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-03-29",
+    "date_updated": "2022-05-26",
+    "description": "CVE-2019–9193 - PostgreSQL 9.3-12.3 Authenticated Remote Code Execution",
+    "forks_count": 4,
+    "html_url": "https://github.com/b4keSn4ke/CVE-2019-9193",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-9193",
+    "repo_owner": "b4keSn4ke",
+    "repotime": "2022-05-26, 19:00:20",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-05-25",
+    "date_updated": "2022-05-25",
+    "description": "CVE-2022-29221 Proof of Concept Code - Smarty RCE",
+    "forks_count": 3,
+    "html_url": "https://github.com/sbani/CVE-2022-29221-PoC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "PHP",
+    "repo_name": "CVE-2022-29221-PoC",
+    "repo_owner": "sbani",
+    "repotime": "2022-05-25, 09:11:59",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 12,
+    "date_started": "2017-01-23",
+    "date_updated": "2022-05-20",
+    "description": "整合多个软件外包平台项目信息，替你筛选优质项目。MVP + RxJava + Retrofit + Material Design",
+    "forks_count": 80,
+    "html_url": "https://github.com/ittianyu/POCenter",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Java",
+    "repo_name": "POCenter",
+    "repo_owner": "ittianyu",
+    "repotime": "2022-05-20, 17:01:26",
+    "stargazers_count": 304,
+    "watchers_count": 304
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-05-09",
+    "date_updated": "2022-05-16",
+    "description": "F5 BIG-IP RCE exploitation (CVE-2022-1388)",
+    "forks_count": 20,
+    "html_url": "https://github.com/alt3kx/CVE-2022-1388_PoC",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-1388_PoC",
+    "repo_owner": "alt3kx",
+    "repotime": "2022-05-16, 14:40:51",
+    "stargazers_count": 89,
+    "watchers_count": 89
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-05-12",
+    "date_updated": "2022-05-13",
+    "description": "Essay (and PoCs) about CVE-2021-41773, a remote code execution vulnerability in Apache 2.4.49 🕸️",
+    "forks_count": 0,
+    "html_url": "https://github.com/iosifache/ApacheRCEEssay",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution vulnerability"
+    ],
+    "language": "TeX",
+    "repo_name": "ApacheRCEEssay",
+    "repo_owner": "iosifache",
+    "repotime": "2022-05-13, 09:08:46",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 78,
+    "date_started": "2019-08-21",
+    "date_updated": "2022-05-12",
+    "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
+    "forks_count": 254,
+    "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+    "keywords": [
+        "xml external entity",
+        "session attack",
+        "zero-day dos",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "session vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Nginx-Lua-Anti-DDoS",
+    "repo_owner": "C0nw0nk",
+    "repotime": "2022-05-12, 15:35:01",
+    "stargazers_count": 995,
+    "watchers_count": 995
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-05-12",
+    "date_updated": "2022-05-12",
+    "description": "Software testing will save your life and makes for a delicious seven layer dip Picture this: you’ve just written thousands of lines of code, you’ve gotten your application running smoothly, and you’ve fulfilled all the requirements you set out to complete. You’ve even effectively communicated what your code is doing with comments so detailed even your parents could understand them. C’est magnifique!   Time to ship it, right? Wouldn’t that be nice? Alas, just let me crush your dreams real quick.  The Importance of Software Testing Now, imagine this scenario: you’ve shipped your code and it’s being used daily by thousands, nay millions, of delighted customers. These new features you built? They love them! Just look at them froth at the mouth with excitement as they scroll, click, consume. But, wait! Something goes awry. Every time a customer accesses a file of a certain size the application freezes — only for a moment, only for long enough to be slightly annoyed. “Practically imperceptib...",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArvindSabina/refactored-guacamole",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": null,
+    "repo_name": "refactored-guacamole",
+    "repo_owner": "ArvindSabina",
+    "repotime": "2022-05-12, 08:11:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-03-31",
+    "date_updated": "2022-05-06",
+    "description": "Analysis and PoC for D-Link DIR-890L RCE (CVE-2022-29778)",
+    "forks_count": 0,
+    "html_url": "https://github.com/TyeYeah/DIR-890L-1.20-RCE",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "HTML",
+    "repo_name": "DIR-890L-1.20-RCE",
+    "repo_owner": "TyeYeah",
+    "repotime": "2022-05-06, 17:13:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-05-05",
+    "date_updated": "2022-05-05",
+    "description": "EASY SOUTHERN SUMMER SUCCOTASH (+ VIDEO) July 28, 2019 By Kathryn Doherty  This post may contain affiliate links. As an Amazon Associate I earn from qualifying purchases. Please read my disclosure policy  Share Pin Tweet Email Share Easy Southern summer succotash features lima beans, corn and tomatoes — plus crumbled bacon — for a delicious classic side dish that’s great for BBQs, picnics, potlucks and summer dinners!Easy succotash recipe with corn, lime beans, tomatoes and bacon in a large white serving bowl    Guys.  I am struggling getting back into life after our seriously fabulous family vacation last week. It has been ROUGH!  Southern Summer Succotash Play Video I just don’t want to do it.  You know, the job. The stuff. The day-to-day life. A big ole BLAH!  Also I know, a big ole kick in my own pants cause woe is me, right? I was fortunate enough to have an amazing opportunity to get away with my family for an incredible week of fun so there should be zero complaints.  And I am g...",
+    "forks_count": 0,
+    "html_url": "https://github.com/ShwetaCharandeep/sturdy-succotash",
+    "keywords": [
+        "zero-day disclosure"
+    ],
+    "language": null,
+    "repo_name": "sturdy-succotash",
+    "repo_owner": "ShwetaCharandeep",
+    "repotime": "2022-05-05, 11:50:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

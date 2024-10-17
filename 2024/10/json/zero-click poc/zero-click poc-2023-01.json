@@ -1,0 +1,172 @@
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-31",
+    "description": "POC for RCE using vulnerabilities described in VMSA-2023-0001",
+    "forks_count": 24,
+    "html_url": "https://github.com/horizon3ai/vRealizeLogInsightRCE",
+    "keywords": [
+        "rce vulnerability",
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "vRealizeLogInsightRCE",
+    "repo_owner": "horizon3ai",
+    "repotime": "2023-01-31, 06:41:08",
+    "stargazers_count": 149,
+    "watchers_count": 149
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-01-17",
+    "date_updated": "2023-01-31",
+    "description": "<no description>",
+    "forks_count": 10,
+    "html_url": "https://github.com/dbgsymbol/windows_lpe_pocs",
+    "keywords": [
+        "Windows lpe",
+        "Windows lpe poc",
+        "lpe poc",
+        "Win lpe",
+        "Win lpe poc"
+    ],
+    "language": "C++",
+    "repo_name": "windows_lpe_pocs",
+    "repo_owner": "dbgsymbol",
+    "repotime": "2023-01-31, 01:09:00",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-01-23",
+    "date_updated": "2023-01-24",
+    "description": "I found a vulnerability in supbrocess module, this vulnerability can be exploited to exploit a RCE (Remote Code Execution)",
+    "forks_count": 0,
+    "html_url": "https://github.com/mauricelambert/PythonSubprocessVulnerabilityPOC",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution exploit",
+        "Windows rce poc",
+        "Windows rce exploitation",
+        "Windows rce",
+        "Windows remote code execution",
+        "Windows remote code execution exploitation",
+        "Windows rce vulnerability",
+        "remote code execution poc",
+        "Windows remote code execution poc",
+        "remote code execution vulnerability",
+        "Windows rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "PythonSubprocessVulnerabilityPOC",
+    "repo_owner": "mauricelambert",
+    "repotime": "2023-01-24, 11:24:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-09-21",
+    "date_updated": "2023-01-21",
+    "description": "Bitbucket CVE-2022-36804 unauthenticated remote command execution",
+    "forks_count": 3,
+    "html_url": "https://github.com/kljunowsky/CVE-2022-36804-POC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-36804-POC",
+    "repo_owner": "kljunowsky",
+    "repotime": "2023-01-21, 03:14:15",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-09",
+    "date_updated": "2023-01-21",
+    "description": "CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server",
+    "forks_count": 12,
+    "html_url": "https://github.com/kljunowsky/CVE-2022-41040-POC",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-41040-POC",
+    "repo_owner": "kljunowsky",
+    "repotime": "2023-01-21, 02:57:59",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-01-13",
+    "date_updated": "2023-01-17",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/filipenanclarez/poc_custom_tabs_memory_leak",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "C++",
+    "repo_name": "poc_custom_tabs_memory_leak",
+    "repo_owner": "filipenanclarez",
+    "repotime": "2023-01-17, 02:27:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-05-15",
+    "date_updated": "2023-01-06",
+    "description": "POC Script for CVE-2020-12800: RCE through Unrestricted File Type Upload ",
+    "forks_count": 13,
+    "html_url": "https://github.com/amartinsec/CVE-2020-12800",
+    "keywords": [
+        "unrestricted file upload",
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-12800",
+    "repo_owner": "amartinsec",
+    "repotime": "2023-01-06, 18:08:57",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-06-25",
+    "date_updated": "2023-01-03",
+    "description": "A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution.",
+    "forks_count": 2,
+    "html_url": "https://github.com/kahla-sec/CVE-2021-27850_POC",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2021-27850_POC",
+    "repo_owner": "kahla-sec",
+    "repotime": "2023-01-03, 14:46:34",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-09-29",
+    "date_updated": "2023-01-01",
+    "description": "File dropper for remote second stage payloads (C++ DLL Code).",
+    "forks_count": 2,
+    "html_url": "https://github.com/A-poc/DLLDropper",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "C++",
+    "repo_name": "DLLDropper",
+    "repo_owner": "A-poc",
+    "repotime": "2023-01-01, 21:55:14",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}

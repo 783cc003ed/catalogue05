@@ -1,0 +1,307 @@
+{
+    "commits_count": 0,
+    "date_started": "2022-04-27",
+    "date_updated": "2022-04-27",
+    "description": "OS X 10.11.6 LPE PoC for CVE-2016-4655 / CVE-2016-4656",
+    "forks_count": 0,
+    "html_url": "https://github.com/liangle1986126z/jndok",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": null,
+    "repo_name": "jndok",
+    "repo_owner": "liangle1986126z",
+    "repotime": "2022-04-27, 09:11:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-04-20",
+    "date_updated": "2022-04-25",
+    "description": "This repository contains a PoC for  remote code execution CVE-2022-26809",
+    "forks_count": 9,
+    "html_url": "https://github.com/UNDESC0N0CID0/CVE-2022-26809-RCE",
+    "keywords": [
+        "rce poc",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26809-RCE",
+    "repo_owner": "UNDESC0N0CID0",
+    "repotime": "2022-04-25, 16:38:57",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-04-22",
+    "date_updated": "2022-04-22",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/hx1997/sandboxie-classic-5.55.13-escape-poc",
+    "keywords": [
+        "sandbox escape poc"
+    ],
+    "language": "C++",
+    "repo_name": "sandboxie-classic-5.55.13-escape-poc",
+    "repo_owner": "hx1997",
+    "repotime": "2022-04-22, 21:53:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-04-22",
+    "date_updated": "2022-04-22",
+    "description": "&amp;&#35;35; Liberty House Club **A Parallel Binance Chain to Enable Smart Contracts**  _NOTE: This document is under development. Please check regularly for updates!_  &amp;&#35;35;&amp;&#35;35; Table of Contents - [Motivation](&amp;&#35;35;motivation) - [Design Principles](&amp;&#35;35;design-principles) - [Consensus and Validator Quorum](&amp;&#35;35;consensus-and-validator-quorum)   * [Proof of Staked Authority](&amp;&#35;35;proof-of-staked-authority)   * [Validator Quorum](&amp;&#35;35;validator-quorum)   * [Security and Finality](&amp;&#35;35;security-and-finality)   * [Reward](&amp;&#35;35;reward) - [Token Economy](&amp;&#35;35;token-economy)   * [Native Token](&amp;&#35;35;native-token)   * [Other Tokens](&amp;&#35;35;other-tokens) - [Cross-Chain Transfer and Communication](&amp;&#35;35;cross-chain-transfer-and-communication)   * [Cross-Chain Transfer](&amp;&#35;35;cross-chain-transfer)   * [BC to BSC Architecture](&amp;&#35;35;bc-to-bsc-architecture)   * [BSC to BC Architecture](&amp;&#35;35;bsc-to-bc-architecture)   * [Timeout and Error Handling](&amp;&#35;35;timeout-and-error-handling)   * [Cross-Chain User Experie...",
+    "forks_count": 4,
+    "html_url": "https://github.com/realbeeed/Liberty-House-Club-Whitepaper",
+    "keywords": [
+        "Win use after free",
+        "Win use after free proof of concept",
+        "zero-day proof of concept",
+        "use after free proof of concept",
+        "Win zero-day",
+        "Win zero-day proof of concept"
+    ],
+    "language": null,
+    "repo_name": "Liberty-House-Club-Whitepaper",
+    "repo_owner": "realbeeed",
+    "repotime": "2022-04-22, 09:27:24",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-07-12",
+    "date_updated": "2022-04-22",
+    "description": "&amp;&#35;35; Liberty House Club **A Parallel Binance Chain to Enable Smart Contracts**  _NOTE: This document is under development. Please check regularly for updates!_  &amp;&#35;35;&amp;&#35;35; Table of Contents - [Motivation](&amp;&#35;35;motivation) - [Design Principles](&amp;&#35;35;design-principles) - [Consensus and Validator Quorum](&amp;&#35;35;consensus-and-validator-quorum)   * [Proof of Staked Authority](&amp;&#35;35;proof-of-staked-authority)   * [Validator Quorum](&amp;&#35;35;validator-quorum)   * [Security and Finality](&amp;&#35;35;security-and-finality)   * [Reward](&amp;&#35;35;reward) - [Token Economy](&amp;&#35;35;token-economy)   * [Native Token](&amp;&#35;35;native-token)   * [Other Tokens](&amp;&#35;35;other-tokens) - [Cross-Chain Transfer and Communication](&amp;&#35;35;cross-chain-transfer-and-communication)   * [Cross-Chain Transfer](&amp;&#35;35;cross-chain-transfer)   * [BC to BSC Architecture](&amp;&#35;35;bc-to-bsc-architecture)   * [BSC to BC Architecture](&amp;&#35;35;bsc-to-bc-architecture)   * [Timeout and Error Handling](&amp;&#35;35;timeout-and-error-handling)   * [Cross-Chain User Experie...",
+    "forks_count": 4,
+    "html_url": "https://github.com/Mdshobu/Liberty-House-Club-Whitepaper",
+    "keywords": [
+        "Win use after free proof of concept",
+        "zero-day proof of concept",
+        "Win zero-day proof of concept",
+        "use after free proof of concept",
+        "Win use after free",
+        "Win zero-day"
+    ],
+    "language": null,
+    "repo_name": "Liberty-House-Club-Whitepaper",
+    "repo_owner": "Mdshobu",
+    "repotime": "2022-04-22, 09:27:24",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-04-18",
+    "description": "The poc for CVE-2022-26809 RCE via RPC will be updated here. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/sherlocksecurity/Microsoft-CVE-2022-26809-The-Little-Boy",
+    "keywords": [
+        "Microsoft rce poc",
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "Microsoft-CVE-2022-26809-The-Little-Boy",
+    "repo_owner": "sherlocksecurity",
+    "repotime": "2022-04-18, 08:58:10",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-17",
+    "date_updated": "2022-04-18",
+    "description": "PoC for CVE-2021-28476 a guest-to-host &amp;quot;Hyper-V Remote Code Execution Vulnerability&amp;quot; in vmswitch.sys.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dengyang123x/0vercl0k",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "0vercl0k",
+    "repo_owner": "dengyang123x",
+    "repotime": "2022-04-18, 02:00:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-17",
+    "date_updated": "2022-04-16",
+    "description": "WordPress Elementor 3.6.0 3.6.1 3.6.2 RCE POC",
+    "forks_count": 8,
+    "html_url": "https://github.com/mcdulltii/CVE-2022-1329",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-1329",
+    "repo_owner": "mcdulltii",
+    "repotime": "2022-04-16, 22:53:49",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 729,
+    "date_started": "2017-06-09",
+    "date_updated": "2022-04-16",
+    "description": "https://51pwn.com,Awesome Penetration Testing，hacker tools collection, metasploit exploit, meterpreter....struts2、weblogic, 0day,poc,apt,backdoor,VulApps,vuln,pentest-script",
+    "forks_count": 11,
+    "html_url": "https://github.com/hktalent/myhktools",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Java",
+    "repo_name": "myhktools",
+    "repo_owner": "hktalent",
+    "repotime": "2022-04-16, 00:32:21",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-04-09",
+    "date_updated": "2022-04-12",
+    "description": "Nginx 18.1 04/09/22 zero-day repo",
+    "forks_count": 33,
+    "html_url": "https://github.com/AgainstTheWest/NginxDay",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "NginxDay",
+    "repo_owner": "AgainstTheWest",
+    "repotime": "2022-04-12, 11:16:00",
+    "stargazers_count": 369,
+    "watchers_count": 369
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-04-11",
+    "date_updated": "2022-04-11",
+    "description": "C2Break database management exploit 04/11/2022",
+    "forks_count": 0,
+    "html_url": "https://github.com/AgainstTheWest/C2Break",
+    "keywords": [
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "C2Break",
+    "repo_owner": "AgainstTheWest",
+    "repotime": "2022-04-11, 09:11:36",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-06",
+    "date_updated": "2022-04-06",
+    "description": "Development of a proof of concept to simulate an API with performance problems.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lucasnsants/poc-memory-leak",
+    "keywords": [
+        "memory leak proof of concept",
+        "memory leak poc"
+    ],
+    "language": null,
+    "repo_name": "poc-memory-leak",
+    "repo_owner": "lucasnsants",
+    "repotime": "2022-04-06, 09:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-04-06",
+    "date_updated": "2022-04-06",
+    "description": "👻 [PoC] WordPress Theme THE THOR 2.2.1 - Cross Site Scripting (0day) ",
+    "forks_count": 0,
+    "html_url": "https://github.com/satoki/the-thor_vulnerability",
+    "keywords": [
+        "0day poc",
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "the-thor_vulnerability",
+    "repo_owner": "satoki",
+    "repotime": "2022-04-06, 15:21:22",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-03-31",
+    "date_updated": "2022-04-06",
+    "description": "Spring Framework RCE (Quick pentest notes)",
+    "forks_count": 7,
+    "html_url": "https://github.com/alt3kx/CVE-2022-22965_PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-22965_PoC",
+    "repo_owner": "alt3kx",
+    "repotime": "2022-04-06, 03:02:17",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-23",
+    "date_updated": "2022-04-04",
+    "description": "Includes analysis environment, poc for analyzing vulnerabilities found in clickhouse lz4 implementation",
+    "forks_count": 0,
+    "html_url": "https://github.com/s3nt3/clickhouse-lz4-rce",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Shell",
+    "repo_name": "clickhouse-lz4-rce",
+    "repo_owner": "s3nt3",
+    "repotime": "2022-04-04, 10:57:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-04-01",
+    "date_updated": "2022-04-02",
+    "description": "collection poc use pocsuite framework",
+    "forks_count": 1,
+    "html_url": "https://github.com/n11dc0la/PocSuite_POC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "PocSuite_POC",
+    "repo_owner": "n11dc0la",
+    "repotime": "2022-04-02, 15:09:42",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-03-29",
+    "date_updated": "2022-04-01",
+    "description": "golang RCE 0day POC",
+    "forks_count": 15,
+    "html_url": "https://github.com/hktalent/golang-RCE-0day-POC",
+    "keywords": [
+        "rce poc",
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "golang-RCE-0day-POC",
+    "repo_owner": "hktalent",
+    "repotime": "2022-04-01, 21:48:05",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}

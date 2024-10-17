@@ -1,0 +1,75 @@
+{
+    "commits_count": 4,
+    "date_started": "2021-10-21",
+    "date_updated": "2021-12-20",
+    "description": "anonfiles.com XSS 0day exploit",
+    "forks_count": 3,
+    "html_url": "https://github.com/BoofSec/anonfiles-xss-0day",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "zero-day poc",
+        "0day poc",
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "anonfiles-xss-0day",
+    "repo_owner": "BoofSec",
+    "repotime": "2021-12-20, 23:40:05",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-12-15",
+    "date_updated": "2021-12-15",
+    "description": "Apache Log4j Zero Day Vulnerability aka Log4Shell aka CVE-2021-44228",
+    "forks_count": 4,
+    "html_url": "https://github.com/kubearmor/log4j-CVE-2021-44228",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "log4j-CVE-2021-44228",
+    "repo_owner": "kubearmor",
+    "repotime": "2021-12-15, 21:59:14",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-03-23",
+    "date_updated": "2021-12-13",
+    "description": "Scripts and tools to detect various vulnerabilites. Usually pulled together in the immediate aftermath of a zero day becoming public or POC/exploit code becoming available.",
+    "forks_count": 1,
+    "html_url": "https://github.com/tomquinn8/Detection",
+    "keywords": [
+        "zero-day poc",
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Detection",
+    "repo_owner": "tomquinn8",
+    "repotime": "2021-12-13, 10:58:58",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-12-12",
+    "date_updated": "2021-12-12",
+    "description": "A zero-day arbitrary code execution vulnerability in Log4j",
+    "forks_count": 0,
+    "html_url": "https://github.com/CyberControlNess/Log4j",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Log4j",
+    "repo_owner": "CyberControlNess",
+    "repotime": "2021-12-12, 02:38:23",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

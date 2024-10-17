@@ -1,0 +1,104 @@
+{
+    "commits_count": 3,
+    "date_started": "2023-12-28",
+    "date_updated": "2023-12-30",
+    "description": "Vulnerability of Critical Zero-Day in Barracuda Email Security",
+    "forks_count": 0,
+    "html_url": "https://github.com/vinzel-ops/vuln-barracuda",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vuln-barracuda",
+    "repo_owner": "vinzel-ops",
+    "repotime": "2023-12-30, 20:33:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2023-12-19",
+    "date_updated": "2023-12-27",
+    "description": "Cyber-Security project on “Forecasting Zero-Day vulnerabilities using ML” (Prep, Samp, GA)",
+    "forks_count": 0,
+    "html_url": "https://github.com/JonPilarte/Zero-day-vulnerabilities-ML",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Zero-day-vulnerabilities-ML",
+    "repo_owner": "JonPilarte",
+    "repotime": "2023-12-27, 11:56:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-12-13",
+    "date_updated": "2023-12-12",
+    "description": "GUARD is a system designed to detect zero-day cyber-attacks using a combination of autoencoders and graph theory. It aims to identify threats that exploit unknown vulnerabilities by translating data relationships into a graph format.",
+    "forks_count": 0,
+    "html_url": "https://github.com/shanedirksen/GUARD",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "GUARD",
+    "repo_owner": "shanedirksen",
+    "repotime": "2023-12-12, 21:47:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 42,
+    "date_started": "2023-09-26",
+    "date_updated": "2023-12-11",
+    "description": "KnowThyEnemy is a data analysis project that determines the most common origin country of sophisticated attacks (Zero-Day, Ransomware, IoT) and ranks them. Industries may utilize this ranking to better understand their attack surface. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/clayshubert/KnowThyEnemy",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "KnowThyEnemy",
+    "repo_owner": "clayshubert",
+    "repotime": "2023-12-11, 20:29:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 121,
+    "date_started": "2021-02-23",
+    "date_updated": "2023-12-04",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 78,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2023-12-04, 11:04:36",
+    "stargazers_count": 671,
+    "watchers_count": 671
+}
+{
+    "commits_count": 49,
+    "date_started": "2023-10-16",
+    "date_updated": "2023-12-02",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/owenhiggins/Zero-Day-Exploit-Prediction-through-Anomaly-Detection-for-Network-Intrusion-Detection-Systems",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Zero-Day-Exploit-Prediction-through-Anomaly-Detection-for-Network-Intrusion-Detection-Systems",
+    "repo_owner": "owenhiggins",
+    "repotime": "2023-12-02, 20:44:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

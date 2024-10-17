@@ -1,0 +1,110 @@
+{
+    "commits_count": 20,
+    "date_started": "2023-08-02",
+    "date_updated": "2023-10-31",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/SH4D3M3/FYP-ZeroDayAnalysis",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "FYP-ZeroDayAnalysis",
+    "repo_owner": "SH4D3M3",
+    "repotime": "2023-10-31, 22:14:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-07-19",
+    "date_updated": "2023-10-29",
+    "description": "RCE Exploit For Maltrail-v0.53",
+    "forks_count": 5,
+    "html_url": "https://github.com/spookier/Maltrail-v0.53-Exploit",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Maltrail-v0.53-Exploit",
+    "repo_owner": "spookier",
+    "repotime": "2023-10-29, 10:22:55",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-10-26",
+    "date_updated": "2023-10-26",
+    "description": "This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Pushkarup/CVE-2023-23397",
+    "keywords": [
+        "zero-day exploit",
+        "Microsoft zero-day",
+        "Microsoft zero-day exploit",
+        "Microsoft zero-day vulnerability",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "Microsoft zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-23397",
+    "repo_owner": "Pushkarup",
+    "repotime": "2023-10-26, 15:41:19",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-10-18",
+    "date_updated": "2023-10-20",
+    "description": "Exploring Zero-Days Vulnerabilities",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/0-day-vulnerabilities",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "0-day-vulnerabilities",
+    "repo_owner": "rxerium",
+    "repotime": "2023-10-20, 07:41:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 101,
+    "date_started": "2023-06-06",
+    "date_updated": "2023-10-18",
+    "description": "Our objective is to update the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups",
+    "forks_count": 0,
+    "html_url": "https://github.com/IRB0T/IOC",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "IOC",
+    "repo_owner": "IRB0T",
+    "repotime": "2023-10-18, 10:37:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-10-16",
+    "date_updated": "2023-10-16",
+    "description": "A python based exploit to test out rapid reset attack (CVE-2023-44487)",
+    "forks_count": 3,
+    "html_url": "https://github.com/studiogangster/CVE-2023-44487",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-44487",
+    "repo_owner": "studiogangster",
+    "repotime": "2023-10-16, 18:02:50",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}

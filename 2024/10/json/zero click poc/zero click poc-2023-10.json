@@ -1,0 +1,345 @@
+{
+    "commits_count": 20,
+    "date_started": "2023-08-02",
+    "date_updated": "2023-10-31",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/SH4D3M3/FYP-ZeroDayAnalysis",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "FYP-ZeroDayAnalysis",
+    "repo_owner": "SH4D3M3",
+    "repotime": "2023-10-31, 22:14:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-10-30",
+    "date_updated": "2023-10-30",
+    "description": "F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!",
+    "forks_count": 4,
+    "html_url": "https://github.com/AliBrTab/CVE-2023-46747-POC",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "unauthenticated rce",
+        "remote code execution vulnerability",
+        "rce vulnerability",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46747-POC",
+    "repo_owner": "AliBrTab",
+    "repotime": "2023-10-30, 19:26:14",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-10-27",
+    "date_updated": "2023-10-27",
+    "description": "F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!",
+    "forks_count": 1,
+    "html_url": "https://github.com/r4pG0r/CVE-2023-46747-POC",
+    "keywords": [
+        "unauthenticated rce",
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-46747-POC",
+    "repo_owner": "r4pG0r",
+    "repotime": "2023-10-27, 11:21:03",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-10-26",
+    "date_updated": "2023-10-26",
+    "description": "This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Pushkarup/CVE-2023-23397",
+    "keywords": [
+        "zero-day exploit",
+        "Microsoft zero-day",
+        "Microsoft zero-day exploit",
+        "Microsoft zero-day vulnerability",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "Microsoft zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-23397",
+    "repo_owner": "Pushkarup",
+    "repotime": "2023-10-26, 15:41:19",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-10-20",
+    "date_updated": "2023-10-24",
+    "description": "PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy",
+    "forks_count": 10,
+    "html_url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
+    "keywords": [
+        "lpe poc",
+        "Microsoft lpe",
+        "Microsoft lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2023-36802-MSKSSRV-LPE",
+    "repo_owner": "x0rb3l",
+    "repotime": "2023-10-24, 11:56:46",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-10-23",
+    "date_updated": "2023-10-23",
+    "description": "LPE PoC Windows Local Privilege Escelation",
+    "forks_count": 0,
+    "html_url": "https://github.com/ilviborici/unfiltered",
+    "keywords": [
+        "lpe poc",
+        "Windows lpe",
+        "Windows lpe poc"
+    ],
+    "language": "C++",
+    "repo_name": "unfiltered",
+    "repo_owner": "ilviborici",
+    "repotime": "2023-10-23, 17:37:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-06-19",
+    "date_updated": "2023-10-20",
+    "description": "SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.",
+    "forks_count": 5,
+    "html_url": "https://github.com/nuts7/CVE-2023-27372",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-27372",
+    "repo_owner": "nuts7",
+    "repotime": "2023-10-20, 13:23:30",
+    "stargazers_count": 53,
+    "watchers_count": 53
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-10-18",
+    "date_updated": "2023-10-20",
+    "description": "Exploring Zero-Days Vulnerabilities",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/0-day-vulnerabilities",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "0-day-vulnerabilities",
+    "repo_owner": "rxerium",
+    "repotime": "2023-10-20, 07:41:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-10-19",
+    "date_updated": "2023-10-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-5601-PoC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-5601-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-10-19, 03:49:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 101,
+    "date_started": "2023-06-06",
+    "date_updated": "2023-10-18",
+    "description": "Our objective is to update the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups",
+    "forks_count": 0,
+    "html_url": "https://github.com/IRB0T/IOC",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "IOC",
+    "repo_owner": "IRB0T",
+    "repotime": "2023-10-18, 10:37:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-10-16",
+    "date_updated": "2023-10-16",
+    "description": "Fortinet unauthenticated RCE POC and writeup...",
+    "forks_count": 0,
+    "html_url": "https://github.com/m474r5/CVE-2023-27997-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-27997-RCE",
+    "repo_owner": "m474r5",
+    "repotime": "2023-10-16, 16:38:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-10-16",
+    "date_updated": "2023-10-16",
+    "description": "A python based exploit to test out rapid reset attack (CVE-2023-44487)",
+    "forks_count": 3,
+    "html_url": "https://github.com/studiogangster/CVE-2023-44487",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-44487",
+    "repo_owner": "studiogangster",
+    "repotime": "2023-10-16, 18:02:50",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-10-15",
+    "date_updated": "2023-10-15",
+    "description": "Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts &amp;lt; Unauthenticated Arbitrary File Upload/Exploit ",
+    "forks_count": 1,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-45603-PoC",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-45603-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-10-15, 05:16:29",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-10-12",
+    "date_updated": "2023-10-12",
+    "description": "thinkphp vulnerability analysis and pocs",
+    "forks_count": 0,
+    "html_url": "https://github.com/XiaoMMing9/Thinkphp-RCE",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Python",
+    "repo_name": "Thinkphp-RCE",
+    "repo_owner": "XiaoMMing9",
+    "repotime": "2023-10-12, 11:59:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-10-11",
+    "date_updated": "2023-10-12",
+    "description": "Remote Code Execution POC in Raspberry Camera Surveillance ",
+    "forks_count": 0,
+    "html_url": "https://github.com/akamaiheat/Raspberry-PI-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Shell",
+    "repo_name": "Raspberry-PI-Remote-Code-Execution",
+    "repo_owner": "akamaiheat",
+    "repotime": "2023-10-12, 00:19:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-10-09",
+    "date_updated": "2023-10-11",
+    "description": "This is a script written in Python that allows the exploitation of the Metabase's software security flaw in the described in CVE 2023-38646.",
+    "forks_count": 4,
+    "html_url": "https://github.com/m3m0o/metabase-pre-auth-rce-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "metabase-pre-auth-rce-poc",
+    "repo_owner": "m3m0o",
+    "repotime": "2023-10-11, 17:54:14",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-02-26",
+    "date_updated": "2023-10-10",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/raimana/NLogTargetsSyslog-MemoryLeak-PoC",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "C#",
+    "repo_name": "NLogTargetsSyslog-MemoryLeak-PoC",
+    "repo_owner": "raimana",
+    "repotime": "2023-10-10, 18:22:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-10-04",
+    "date_updated": "2023-10-04",
+    "description": "CVE-2023-33831 - FUXA &amp;lt; Unauthenticated Remote Code Execution [RCE]",
+    "forks_count": 1,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-33831-PoC",
+    "keywords": [
+        "0day poc",
+        "unauthenticated rce",
+        "unauthenticated remote code execution",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-33831-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-10-04, 04:15:12",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-10-02",
+    "date_updated": "2023-10-02",
+    "description": "CVE-2023-36845 PoC script automates the PoC for CVE-2023-36845 targeting Juniper Networks Junos OS's J-Web component on EX and SRX Series devices. It exploits a PHP flaw, allowing remote modification of the PHPRC variable. Successful exploitation can lead to code injection and execution.",
+    "forks_count": 1,
+    "html_url": "https://github.com/cyberh3als/CVE-2023-36845-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-36845-POC",
+    "repo_owner": "cyberh3als",
+    "repotime": "2023-10-02, 14:31:32",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

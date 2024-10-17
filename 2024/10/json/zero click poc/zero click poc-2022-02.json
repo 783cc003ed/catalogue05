@@ -1,0 +1,250 @@
+{
+    "commits_count": 2,
+    "date_started": "2022-02-26",
+    "date_updated": "2022-02-26",
+    "description": "PoC for CVE-2022-21971 &amp;quot;Windows Runtime Remote Code Execution Vulnerability&amp;quot;",
+    "forks_count": 63,
+    "html_url": "https://github.com/0vercl0k/CVE-2022-21971",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "Windows remote code execution poc"
+    ],
+    "language": "Rich Text Format",
+    "repo_name": "CVE-2022-21971",
+    "repo_owner": "0vercl0k",
+    "repotime": "2022-02-26, 12:45:07",
+    "stargazers_count": 302,
+    "watchers_count": 302
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-26",
+    "date_updated": "2022-02-26",
+    "description": "PoC for CVE-2022-21974 &amp;quot;Roaming Security Rights Management Services Remote Code Execution Vulnerability&amp;quot;",
+    "forks_count": 12,
+    "html_url": "https://github.com/0vercl0k/CVE-2022-21974",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc"
+    ],
+    "language": "Rich Text Format",
+    "repo_name": "CVE-2022-21974",
+    "repo_owner": "0vercl0k",
+    "repotime": "2022-02-26, 11:11:56",
+    "stargazers_count": 58,
+    "watchers_count": 58
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-02-25",
+    "date_updated": "2022-02-25",
+    "description": "Clash_for_Windows远程代码执行漏洞:漏洞利用poc,远程rce ,打开即用,开箱即用",
+    "forks_count": 2,
+    "html_url": "https://github.com/wjl110/Clash_for_Windows-poc-rce-",
+    "keywords": [
+        "Win rce poc",
+        "Windows rce poc",
+        "Win rce",
+        "Windows rce"
+    ],
+    "language": null,
+    "repo_name": "Clash_for_Windows-poc-rce-",
+    "repo_owner": "wjl110",
+    "repotime": "2022-02-25, 23:43:02",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 15,
+    "date_started": "2020-07-28",
+    "date_updated": "2022-02-22",
+    "description": "Hello Zero helps you extract information about all hardware and software installed on your system and automatically crawl the dark web every day to find zero-day exploits which target hardware/software you have on your system. In version 1.0, it only works on the Windows platform.",
+    "forks_count": 4,
+    "html_url": "https://github.com/snippray/Hell0",
+    "keywords": [
+        "0day exploit",
+        "Windows 0day exploitation",
+        "Windows zero-day exploitation",
+        "Windows zero-day",
+        "Windows 0day exploit",
+        "0day exploitation",
+        "zero-day exploitation",
+        "Windows 0day",
+        "zero-day exploit",
+        "Windows zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Hell0",
+    "repo_owner": "snippray",
+    "repotime": "2022-02-22, 20:33:47",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-11-28",
+    "date_updated": "2022-02-21",
+    "description": "CVE-2021-24084 Windows Local Privilege Escalation Left officially unpatched since 2020. Hence, its still a zero day",
+    "forks_count": 13,
+    "html_url": "https://github.com/exploitblizzard/WindowsMDM-LPE-0Day",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe",
+        "Windows zero-day",
+        "Win 0day",
+        "Windows 0day",
+        "Win zero-day"
+    ],
+    "language": "C++",
+    "repo_name": "WindowsMDM-LPE-0Day",
+    "repo_owner": "exploitblizzard",
+    "repotime": "2022-02-21, 14:00:22",
+    "stargazers_count": 47,
+    "watchers_count": 47
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-02-18",
+    "date_updated": "2022-02-19",
+    "description": "CVE-2021-1965 WiFi Zero Click RCE Trigger PoC",
+    "forks_count": 30,
+    "html_url": "https://github.com/parsdefense/CVE-2021-1965",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2021-1965",
+    "repo_owner": "parsdefense",
+    "repotime": "2022-02-19, 16:52:32",
+    "stargazers_count": 168,
+    "watchers_count": 168
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-12",
+    "date_updated": "2022-02-15",
+    "description": "Is there a Chrome Zero-day update available? (humour)",
+    "forks_count": 0,
+    "html_url": "https://github.com/michaelsanford/is-there-a-chrome-zero-day-update-available",
+    "keywords": [
+        "Chrome zero-day"
+    ],
+    "language": "HTML",
+    "repo_name": "is-there-a-chrome-zero-day-update-available",
+    "repo_owner": "michaelsanford",
+    "repotime": "2022-02-15, 14:58:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-02-12",
+    "date_updated": "2022-02-12",
+    "description": "This is a PoC written in Go for Wordpress Privilege Escalation. It was based on exploit´s logic of https://www.exploit-db.com/exploits/41006",
+    "forks_count": 0,
+    "html_url": "https://github.com/VP4triot/WP-SupportPlusTicketSystemPE",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges poc",
+        "escalation of privileges exploit"
+    ],
+    "language": "Go",
+    "repo_name": "WP-SupportPlusTicketSystemPE",
+    "repo_owner": "VP4triot",
+    "repotime": "2022-02-12, 01:54:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-01-28",
+    "date_updated": "2022-02-09",
+    "description": "PoC script that shows RCE vulnerability over Intellian Satellite controller",
+    "forks_count": 10,
+    "html_url": "https://github.com/Xh4H/Satellian-CVE-2020-7980",
+    "keywords": [
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Satellian-CVE-2020-7980",
+    "repo_owner": "Xh4H",
+    "repotime": "2022-02-09, 22:23:29",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-07",
+    "date_updated": "2022-02-08",
+    "description": "a demonstration PoC for CVE-2022-21877 (storage spaces controller memory leak)",
+    "forks_count": 2,
+    "html_url": "https://github.com/Big5-sec/cve-2022-21877",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "C++",
+    "repo_name": "cve-2022-21877",
+    "repo_owner": "Big5-sec",
+    "repotime": "2022-02-08, 23:53:21",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-02-07",
+    "date_updated": "2022-02-07",
+    "description": "lpe poc for cve-2022-21882 ",
+    "forks_count": 22,
+    "html_url": "https://github.com/sailay1996/cve-2022-21882-poc",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C++",
+    "repo_name": "cve-2022-21882-poc",
+    "repo_owner": "sailay1996",
+    "repotime": "2022-02-07, 10:19:37",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-04",
+    "date_updated": "2022-02-04",
+    "description": "Hands-on Zero Day Exploit, by EC-Council",
+    "forks_count": 0,
+    "html_url": "https://github.com/ec-council-learning/Hands-on-Zero-Day-Exploit",
+    "keywords": [
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Hands-on-Zero-Day-Exploit",
+    "repo_owner": "ec-council-learning",
+    "repotime": "2022-02-04, 13:55:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-01-28",
+    "date_updated": "2022-02-01",
+    "description": "Exploiting TOCTOU vulnerability using OpLock and Junctions",
+    "forks_count": 3,
+    "html_url": "https://github.com/LucaBarile/TOCTOU",
+    "keywords": [
+        "lpe poc",
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C#",
+    "repo_name": "TOCTOU",
+    "repo_owner": "LucaBarile",
+    "repotime": "2022-02-01, 22:37:18",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
