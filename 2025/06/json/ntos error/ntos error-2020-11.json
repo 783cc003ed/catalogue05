@@ -1,0 +1,119 @@
+{
+    "commits_count": 73,
+    "date_started": "2019-10-29",
+    "date_updated": "2020-11-27",
+    "description": "Faster xss scanner,support  reflected-xss and dom-xss",
+    "forks_count": 71,
+    "html_url": "https://github.com/lwzSoviet/NoXss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "NoXss",
+    "repo_owner": "lwzSoviet",
+    "repotime": "2020-11-27, 16:01:11",
+    "stargazers_count": 446,
+    "watchers_count": 446
+}
+{
+    "commits_count": 12,
+    "date_started": "2019-02-28",
+    "date_updated": "2020-11-27",
+    "description": "PHP auto indexer: the tool against directory traversal security vulnerability. It recursively adds a index.php file in all given directories.",
+    "forks_count": 2,
+    "html_url": "https://github.com/zapalm/auto-indexer",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "auto-indexer",
+    "repo_owner": "zapalm",
+    "repotime": "2020-11-27, 16:37:45",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-01-27",
+    "date_updated": "2020-11-23",
+    "description": "<no description>",
+    "forks_count": 6,
+    "html_url": "https://github.com/sensepost/dual-pod-shock",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "C",
+    "repo_name": "dual-pod-shock",
+    "repo_owner": "sensepost",
+    "repotime": "2020-11-23, 09:43:27",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 18,
+    "date_started": "2020-11-10",
+    "date_updated": "2020-11-17",
+    "description": "A docker credential helper for plaintext storage of passwords. Use with caution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dougrday/docker-credential-plaintext",
+    "keywords": [
+        "password plaintext storage"
+    ],
+    "language": "JavaScript",
+    "repo_name": "docker-credential-plaintext",
+    "repo_owner": "dougrday",
+    "repotime": "2020-11-17, 09:04:59",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-11-13",
+    "date_updated": "2020-11-13",
+    "description": "Vulnerability Description of CVE-2020-15349",
+    "forks_count": 1,
+    "html_url": "https://github.com/Traxes/Forklift_LPE",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "Objective-C",
+    "repo_name": "Forklift_LPE",
+    "repo_owner": "Traxes",
+    "repotime": "2020-11-13, 14:41:37",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-10-05",
+    "date_updated": "2020-11-13",
+    "description": "This Lab contain the sample codes Basic Labs related to Server-Side Request Forgery attack",
+    "forks_count": 0,
+    "html_url": "https://github.com/Captain-K-101/Ssrf-labs",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Hack",
+    "repo_name": "Ssrf-labs",
+    "repo_owner": "Captain-K-101",
+    "repotime": "2020-11-13, 18:41:14",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-03-01",
+    "date_updated": "2020-11-09",
+    "description": "A proof of concept to exploit the reflected XSS vulnerability in the oVirt web interface (RedHat). In this PoC a VM in the oVirt IaaS environment is to be started via the victim's browser session. JS code has been kept simple due to the rush.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xEmanuel/CVE-2016-3113",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2016-3113",
+    "repo_owner": "0xEmanuel",
+    "repotime": "2020-11-09, 21:00:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

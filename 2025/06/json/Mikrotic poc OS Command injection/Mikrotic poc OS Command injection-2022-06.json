@@ -1,0 +1,277 @@
+{
+    "commits_count": 5,
+    "date_started": "2022-06-24",
+    "date_updated": "2022-06-24",
+    "description": "Atlassian Confluence OGNL Injection Remote Code Execution (RCE) Vulnerability (CVE-2022-26134)",
+    "forks_count": 2,
+    "html_url": "https://github.com/ColdFusionX/CVE-2022-26134",
+    "keywords": [
+        "0day vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "ColdFusionX",
+    "repotime": "2022-06-24, 16:27:03",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 21,
+    "date_started": "2016-02-09",
+    "date_updated": "2022-06-23",
+    "description": "Sample code for DI Why?",
+    "forks_count": 11,
+    "html_url": "https://github.com/jeremybytes/learning-dependency-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "learning-dependency-injection",
+    "repo_owner": "jeremybytes",
+    "repotime": "2022-06-23, 12:17:45",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-06-22",
+    "date_updated": "2022-06-22",
+    "description": "XML eXternal Entities demonstration app and documentation",
+    "forks_count": 0,
+    "html_url": "https://github.com/louisgregg/xxe-example-app",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "xxe-example-app",
+    "repo_owner": "louisgregg",
+    "repotime": "2022-06-22, 17:20:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-06-21",
+    "date_updated": "2022-06-21",
+    "description": "[PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE)",
+    "forks_count": 0,
+    "html_url": "https://github.com/kh4sh3i/CVE-2022-26134",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "kh4sh3i",
+    "repotime": "2022-06-21, 16:35:25",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-03-09",
+    "date_updated": "2022-06-20",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell, conducted network forensic analysis with Wireshark.",
+    "forks_count": 0,
+    "html_url": "https://github.com/JHKLing/Final-Project---Offensive-Defensive-and-Network-Analysis",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Final-Project---Offensive-Defensive-and-Network-Analysis",
+    "repo_owner": "JHKLing",
+    "repotime": "2022-06-20, 15:49:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2022-06-19",
+    "date_updated": "2022-06-18",
+    "description": "Dll injection through code page id modification in registry. Based on jonas lykk research",
+    "forks_count": 25,
+    "html_url": "https://github.com/zzhsec/NlsCodeInjectionThroughRegistry",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "NlsCodeInjectionThroughRegistry",
+    "repo_owner": "zzhsec",
+    "repotime": "2022-06-18, 18:55:59",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 56,
+    "date_started": "2014-11-08",
+    "date_updated": "2022-06-11",
+    "description": "Small tool to package javascript into a valid image file.",
+    "forks_count": 118,
+    "html_url": "https://github.com/jklmnn/imagejs",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C",
+    "repo_name": "imagejs",
+    "repo_owner": "jklmnn",
+    "repotime": "2022-06-11, 21:18:44",
+    "stargazers_count": 903,
+    "watchers_count": 903
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-06-10",
+    "date_updated": "2022-06-10",
+    "description": "CVE-2022-26134, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. This is CVE-2022-26134 expoitation script",
+    "forks_count": 0,
+    "html_url": "https://github.com/sunny-kathuria/exploit_CVE-2022-26134",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "exploit_CVE-2022-26134",
+    "repo_owner": "sunny-kathuria",
+    "repotime": "2022-06-10, 14:46:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-06-06",
+    "date_updated": "2022-06-10",
+    "description": "This repository talks about Zero-Day Exploitation of Atlassian Confluence, it's defense and analysis point of view from a SecOps or Blue Team perspective",
+    "forks_count": 0,
+    "html_url": "https://github.com/archanchoudhury/Confluence-CVE-2022-26134",
+    "keywords": [
+        "zero-day exploitation",
+        "zero-day analysis",
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "Confluence-CVE-2022-26134",
+    "repo_owner": "archanchoudhury",
+    "repotime": "2022-06-10, 08:42:07",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-06-07",
+    "date_updated": "2022-06-08",
+    "description": "Atlassian Confluence- Unauthenticated OGNL injection vulnerability (RCE) ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Habib0x0/CVE-2022-26134",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "Habib0x0",
+    "repotime": "2022-06-08, 02:19:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-06-06",
+    "date_updated": "2022-06-06",
+    "description": "Badminton Center Management System allows SQL Injection via parameter 'id' in /tss/admin/categories/manage_category.php. Exploiting this issue could allow an attacker to compromise the application, access or modify data, or exploit latent vulnerabilities in the underlying database.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ykosan1/Simple-Task-Scheduling-System-id-SQL-Injection-Unauthenticated",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "Simple-Task-Scheduling-System-id-SQL-Injection-Unauthenticated",
+    "repo_owner": "ykosan1",
+    "repotime": "2022-06-06, 20:22:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 41,
+    "date_started": "2020-12-12",
+    "date_updated": "2022-06-06",
+    "description": "GUI SQL Injection scannig tool",
+    "forks_count": 12,
+    "html_url": "https://github.com/tariqhawis/injectbot",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "injectbot",
+    "repo_owner": "tariqhawis",
+    "repotime": "2022-06-06, 06:46:45",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 15,
+    "date_started": "2022-06-06",
+    "date_updated": "2022-06-06",
+    "description": "Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134)",
+    "forks_count": 13,
+    "html_url": "https://github.com/hev0x/CVE-2022-26134",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "hev0x",
+    "repotime": "2022-06-06, 00:37:25",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-06-04",
+    "date_updated": "2022-06-05",
+    "description": "（CVE-2022-26134）an unauthenticated and remote OGNL injection vulnerability resulting in code execution in the context of the Confluence server",
+    "forks_count": 1,
+    "html_url": "https://github.com/Brucetg/CVE-2022-26134",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "Brucetg",
+    "repotime": "2022-06-05, 23:43:38",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-07-28",
+    "date_updated": "2022-06-04",
+    "description": "Collection of own exploits and PoCs",
+    "forks_count": 0,
+    "html_url": "https://github.com/luca-regne/public-exploits",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "public-exploits",
+    "repo_owner": "luca-regne",
+    "repotime": "2022-06-04, 14:26:03",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 104,
+    "date_started": "2020-08-24",
+    "date_updated": "2022-06-01",
+    "description": "XSScope is one of the most powerful and advanced GUI Framework for Modern Browser exploitation via XSS.",
+    "forks_count": 79,
+    "html_url": "https://github.com/kleiton0x00/XSScope",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "XSScope",
+    "repo_owner": "kleiton0x00",
+    "repotime": "2022-06-01, 19:24:08",
+    "stargazers_count": 315,
+    "watchers_count": 315
+}

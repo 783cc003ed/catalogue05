@@ -1,0 +1,716 @@
+{
+    "commits_count": 40,
+    "date_started": "2024-12-23",
+    "date_updated": "2024-12-28",
+    "description": "An educational project featuring a vulnerable and patched Turkish financial news website to learn about web security, demonstrating XSS, SQL Injection, CWE-863, SSRF, Path Traversal, and Unrestricted File Upload vulnerabilities with fixes",
+    "forks_count": 0,
+    "html_url": "https://github.com/mbatinefe/TurkishFinancialNews",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "PHP",
+    "repo_name": "TurkishFinancialNews",
+    "repo_owner": "mbatinefe",
+    "repotime": "2024-12-28, 23:44:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-12-24",
+    "date_updated": "2024-12-24",
+    "description": "OminousOverflow is a demo of a buffer overflow privilege escalation vulnerability",
+    "forks_count": 1,
+    "html_url": "https://github.com/chaintuts/ominousoverflow",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "ominousoverflow",
+    "repo_owner": "chaintuts",
+    "repotime": "2024-12-24, 16:42:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-24",
+    "date_updated": "2024-12-24",
+    "description": "Assembly code contains a potential buffer overflow vulnerability. The instruction `mov eax, [ebx+ecx*4]` accesses memory at an address calculated based on `ebx`, `ecx`, and a 4-byte offset. If `ecx` is manipulated to be a very large value, the access may go beyond the allocated buffer causing a crash or data corruption.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Potential-Buffer-Overflow-in-Assembly-Code-6fk5g",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "Potential-Buffer-Overflow-in-Assembly-Code-6fk5g",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-24, 10:24:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 51,
+    "date_started": "2023-11-24",
+    "date_updated": "2024-12-23",
+    "description": "Binary Exploitation Skill. Gain RCE from arbitrary write.",
+    "forks_count": 16,
+    "html_url": "https://github.com/n132/Libc-GOT-Hijacking",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Libc-GOT-Hijacking",
+    "repo_owner": "n132",
+    "repotime": "2024-12-23, 15:54:52",
+    "stargazers_count": 226,
+    "watchers_count": 226
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-21",
+    "date_updated": "2024-12-21",
+    "description": "This COBOL program intends to calculate the sum of numbers entered by a user, but there's a potential for an overflow error if the sum exceeds the capacity of the WS-TOTAL field.  The program lacks error handling.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/COBOL-Program-Overflow-Error-and-Missing-Input-Validation-oy7ty",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "COBOL",
+    "repo_name": "COBOL-Program-Overflow-Error-and-Missing-Input-Validation-oy7ty",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-21, 18:04:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4657,
+    "date_started": "2023-07-05",
+    "date_updated": "2024-12-19",
+    "description": "The Common Vulnerabilities Exposures (CVE) Database",
+    "forks_count": 12,
+    "html_url": "https://github.com/justakazh/CVE_Database",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE_Database",
+    "repo_owner": "justakazh",
+    "repotime": "2024-12-19, 10:15:20",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-17",
+    "date_updated": "2024-12-17",
+    "description": "This code snippet demonstrates a potential buffer overflow vulnerability. If the values at [ebp+8] and [ebp+12] are not properly validated, their sum may exceed the allocated space at [ebp-4], leading to data corruption or program crashes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Potential-Buffer-Overflow-in-Assembly-Code-bvglf",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "Potential-Buffer-Overflow-in-Assembly-Code-bvglf",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-17, 08:26:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 29,
+    "date_started": "2021-02-04",
+    "date_updated": "2024-12-17",
+    "description": "Sweetuu is a Advance Shell which can be used to achieve RCE easily through LFI &amp;amp; RFI. For easy wins in bug bounty, upload sweetuu instead of any other php code.",
+    "forks_count": 1,
+    "html_url": "https://github.com/cspshivam/sweetuu",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "PHP",
+    "repo_name": "sweetuu",
+    "repo_owner": "cspshivam",
+    "repotime": "2024-12-17, 02:02:11",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-14",
+    "date_updated": "2024-12-14",
+    "description": "Stack Overflow Error in Hack recursive function due to lack of input validation and exceeding recursion depth.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Hack-Function-y6u18",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-in-Recursive-Hack-Function-y6u18",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-14, 20:02:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-14",
+    "date_updated": "2024-12-14",
+    "description": "Buffer overflow vulnerability in assembly code due to unchecked array index.  The code attempts to access an array element using an unchecked index, leading to potential memory corruption.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Assembly-Buffer-Overflow-Vulnerability-4evd8",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "Assembly-Buffer-Overflow-Vulnerability-4evd8",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-14, 15:22:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-14",
+    "date_updated": "2024-12-14",
+    "description": "Assembly code contains potential buffer overflow and arbitrary memory write vulnerabilities.  Improper bounds checking and lack of input validation are the root cause.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Assembly-Buffer-Overflow-and-Arbitrary-Memory-Write-eonca",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "Assembly",
+    "repo_name": "Assembly-Buffer-Overflow-and-Arbitrary-Memory-Write-eonca",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-14, 01:40:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-13",
+    "date_updated": "2024-12-13",
+    "description": "Stack overflow error in recursive function due to missing base case and lack of input validation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Factorial-Function-uzwbs",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-in-Recursive-Factorial-Function-uzwbs",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-13, 11:04:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-12",
+    "date_updated": "2024-12-12",
+    "description": "PHP infinite recursion in data processing function due to improper input validation and handling of edge cases in recursive function calls.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/PHP-Infinite-Recursion-in-Data-Processing-Function-fr2at",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "PHP",
+    "repo_name": "PHP-Infinite-Recursion-in-Data-Processing-Function-fr2at",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-12, 12:46:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 241,
+    "date_started": "2024-08-14",
+    "date_updated": "2024-12-10",
+    "description": "Webpage for Bueler's course in numerical analysis (MATH 426) at UAF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bueler/numerical",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "numerical",
+    "repo_owner": "bueler",
+    "repotime": "2024-12-10, 17:42:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-09",
+    "date_updated": "2024-12-09",
+    "description": "Stack overflow error in recursive function due to lack of input validation and a missing base case for negative numbers. The program crashes when a large number or a negative number is passed as input.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Factorial-Function-10o1r",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "C++",
+    "repo_name": "Stack-Overflow-in-Recursive-Factorial-Function-10o1r",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-09, 18:24:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-12-09",
+    "date_updated": "2024-12-08",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-",
+    "repo_owner": "Danyw24",
+    "repotime": "2024-12-08, 19:17:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-08",
+    "date_updated": "2024-12-08",
+    "description": "Hack recursive factorial function with a stack overflow vulnerability due to lack of input validation for negative numbers.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Factorial-Function-ddyiv",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-in-Recursive-Factorial-Function-ddyiv",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-08, 03:06:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-12-07",
+    "date_updated": "2024-12-07",
+    "description": "This project is a basic vulnerability scanner written in C++ designed for beginners. It scans binary files for predefined patterns (signatures) to detect potential vulnerabilities like Buffer Overflow or Use After Free. The program uses pattern matching with regular expressions (std::regex) to identify known issues in the file's binary content.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ashir-codes/Vulnerability-Scanner",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Vulnerability-Scanner",
+    "repo_owner": "Ashir-codes",
+    "repotime": "2024-12-07, 09:41:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-05",
+    "date_updated": "2024-12-05",
+    "description": "This assembly code calculates the sum of elements in a word array. A common error is incorrect handling of array indexing or loop counters, potentially leading to buffer overflows or incorrect sums.  The code might also lack proper error handling or input validation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/AssemblyWordArraySummationBugFix-8sqxw",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Assembly",
+    "repo_name": "AssemblyWordArraySummationBugFix-8sqxw",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-05, 18:40:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-05",
+    "date_updated": "2024-12-05",
+    "description": "Uncommon Assembly Code Errors: Memory Access Violations.  This example demonstrates potential buffer overflows and memory corruption vulnerabilities in x86 assembly code due to missing bounds checks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/UncommonAssemblyBug_MemoryViolation-2dz6r",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "UncommonAssemblyBug_MemoryViolation-2dz6r",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-05, 15:24:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-04",
+    "date_updated": "2024-12-04",
+    "description": "Assembly code memory access violation due to incorrect address calculation.  The code attempts to access memory beyond allowed limits, resulting in a segmentation fault. The issue stems from using unvalidated values in the address calculation, making it vulnerable to buffer overflows or other memory corruption issues.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/AssemblyMemoryAccessViolation-qltz5",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "AssemblyMemoryAccessViolation-qltz5",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-04, 23:59:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 40,
+    "date_started": "2024-12-23",
+    "date_updated": "2024-12-28",
+    "description": "An educational project featuring a vulnerable and patched Turkish financial news website to learn about web security, demonstrating XSS, SQL Injection, CWE-863, SSRF, Path Traversal, and Unrestricted File Upload vulnerabilities with fixes",
+    "forks_count": 0,
+    "html_url": "https://github.com/mbatinefe/TurkishFinancialNews",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "PHP",
+    "repo_name": "TurkishFinancialNews",
+    "repo_owner": "mbatinefe",
+    "repotime": "2024-12-28, 23:44:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-12-24",
+    "date_updated": "2024-12-24",
+    "description": "OminousOverflow is a demo of a buffer overflow privilege escalation vulnerability",
+    "forks_count": 1,
+    "html_url": "https://github.com/chaintuts/ominousoverflow",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "ominousoverflow",
+    "repo_owner": "chaintuts",
+    "repotime": "2024-12-24, 16:42:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-24",
+    "date_updated": "2024-12-24",
+    "description": "Assembly code contains a potential buffer overflow vulnerability. The instruction `mov eax, [ebx+ecx*4]` accesses memory at an address calculated based on `ebx`, `ecx`, and a 4-byte offset. If `ecx` is manipulated to be a very large value, the access may go beyond the allocated buffer causing a crash or data corruption.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Potential-Buffer-Overflow-in-Assembly-Code-6fk5g",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "Potential-Buffer-Overflow-in-Assembly-Code-6fk5g",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-24, 10:24:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 51,
+    "date_started": "2023-11-24",
+    "date_updated": "2024-12-23",
+    "description": "Binary Exploitation Skill. Gain RCE from arbitrary write.",
+    "forks_count": 16,
+    "html_url": "https://github.com/n132/Libc-GOT-Hijacking",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Libc-GOT-Hijacking",
+    "repo_owner": "n132",
+    "repotime": "2024-12-23, 15:54:52",
+    "stargazers_count": 226,
+    "watchers_count": 226
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-21",
+    "date_updated": "2024-12-21",
+    "description": "This COBOL program intends to calculate the sum of numbers entered by a user, but there's a potential for an overflow error if the sum exceeds the capacity of the WS-TOTAL field.  The program lacks error handling.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/COBOL-Program-Overflow-Error-and-Missing-Input-Validation-oy7ty",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "COBOL",
+    "repo_name": "COBOL-Program-Overflow-Error-and-Missing-Input-Validation-oy7ty",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-21, 18:04:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4657,
+    "date_started": "2023-07-05",
+    "date_updated": "2024-12-19",
+    "description": "The Common Vulnerabilities Exposures (CVE) Database",
+    "forks_count": 12,
+    "html_url": "https://github.com/justakazh/CVE_Database",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE_Database",
+    "repo_owner": "justakazh",
+    "repotime": "2024-12-19, 10:15:20",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-17",
+    "date_updated": "2024-12-17",
+    "description": "This code snippet demonstrates a potential buffer overflow vulnerability. If the values at [ebp+8] and [ebp+12] are not properly validated, their sum may exceed the allocated space at [ebp-4], leading to data corruption or program crashes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Potential-Buffer-Overflow-in-Assembly-Code-bvglf",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "Potential-Buffer-Overflow-in-Assembly-Code-bvglf",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-17, 08:26:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 29,
+    "date_started": "2021-02-04",
+    "date_updated": "2024-12-17",
+    "description": "Sweetuu is a Advance Shell which can be used to achieve RCE easily through LFI &amp;amp; RFI. For easy wins in bug bounty, upload sweetuu instead of any other php code.",
+    "forks_count": 1,
+    "html_url": "https://github.com/cspshivam/sweetuu",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "PHP",
+    "repo_name": "sweetuu",
+    "repo_owner": "cspshivam",
+    "repotime": "2024-12-17, 02:02:11",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-14",
+    "date_updated": "2024-12-14",
+    "description": "Stack Overflow Error in Hack recursive function due to lack of input validation and exceeding recursion depth.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Hack-Function-y6u18",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-in-Recursive-Hack-Function-y6u18",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-14, 20:02:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-14",
+    "date_updated": "2024-12-14",
+    "description": "Buffer overflow vulnerability in assembly code due to unchecked array index.  The code attempts to access an array element using an unchecked index, leading to potential memory corruption.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Assembly-Buffer-Overflow-Vulnerability-4evd8",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "Assembly-Buffer-Overflow-Vulnerability-4evd8",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-14, 15:22:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-14",
+    "date_updated": "2024-12-14",
+    "description": "Assembly code contains potential buffer overflow and arbitrary memory write vulnerabilities.  Improper bounds checking and lack of input validation are the root cause.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Assembly-Buffer-Overflow-and-Arbitrary-Memory-Write-eonca",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "Assembly",
+    "repo_name": "Assembly-Buffer-Overflow-and-Arbitrary-Memory-Write-eonca",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-14, 01:40:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-13",
+    "date_updated": "2024-12-13",
+    "description": "Stack overflow error in recursive function due to missing base case and lack of input validation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Factorial-Function-uzwbs",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-in-Recursive-Factorial-Function-uzwbs",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-13, 11:04:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-12",
+    "date_updated": "2024-12-12",
+    "description": "PHP infinite recursion in data processing function due to improper input validation and handling of edge cases in recursive function calls.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/PHP-Infinite-Recursion-in-Data-Processing-Function-fr2at",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "PHP",
+    "repo_name": "PHP-Infinite-Recursion-in-Data-Processing-Function-fr2at",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-12, 12:46:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 241,
+    "date_started": "2024-08-14",
+    "date_updated": "2024-12-10",
+    "description": "Webpage for Bueler's course in numerical analysis (MATH 426) at UAF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bueler/numerical",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "numerical",
+    "repo_owner": "bueler",
+    "repotime": "2024-12-10, 17:42:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-09",
+    "date_updated": "2024-12-09",
+    "description": "Stack overflow error in recursive function due to lack of input validation and a missing base case for negative numbers. The program crashes when a large number or a negative number is passed as input.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Factorial-Function-10o1r",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "C++",
+    "repo_name": "Stack-Overflow-in-Recursive-Factorial-Function-10o1r",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-09, 18:24:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-12-09",
+    "date_updated": "2024-12-08",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-",
+    "repo_owner": "Danyw24",
+    "repotime": "2024-12-08, 19:17:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-08",
+    "date_updated": "2024-12-08",
+    "description": "Hack recursive factorial function with a stack overflow vulnerability due to lack of input validation for negative numbers.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Factorial-Function-ddyiv",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-in-Recursive-Factorial-Function-ddyiv",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-08, 03:06:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-12-07",
+    "date_updated": "2024-12-07",
+    "description": "This project is a basic vulnerability scanner written in C++ designed for beginners. It scans binary files for predefined patterns (signatures) to detect potential vulnerabilities like Buffer Overflow or Use After Free. The program uses pattern matching with regular expressions (std::regex) to identify known issues in the file's binary content.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ashir-codes/Vulnerability-Scanner",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Vulnerability-Scanner",
+    "repo_owner": "Ashir-codes",
+    "repotime": "2024-12-07, 09:41:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-05",
+    "date_updated": "2024-12-05",
+    "description": "This assembly code calculates the sum of elements in a word array. A common error is incorrect handling of array indexing or loop counters, potentially leading to buffer overflows or incorrect sums.  The code might also lack proper error handling or input validation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/AssemblyWordArraySummationBugFix-8sqxw",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Assembly",
+    "repo_name": "AssemblyWordArraySummationBugFix-8sqxw",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-05, 18:40:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-05",
+    "date_updated": "2024-12-05",
+    "description": "Uncommon Assembly Code Errors: Memory Access Violations.  This example demonstrates potential buffer overflows and memory corruption vulnerabilities in x86 assembly code due to missing bounds checks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/UncommonAssemblyBug_MemoryViolation-2dz6r",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "UncommonAssemblyBug_MemoryViolation-2dz6r",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-05, 15:24:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-04",
+    "date_updated": "2024-12-04",
+    "description": "Assembly code memory access violation due to incorrect address calculation.  The code attempts to access memory beyond allowed limits, resulting in a segmentation fault. The issue stems from using unvalidated values in the address calculation, making it vulnerable to buffer overflows or other memory corruption issues.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/AssemblyMemoryAccessViolation-qltz5",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "AssemblyMemoryAccessViolation-qltz5",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-04, 23:59:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

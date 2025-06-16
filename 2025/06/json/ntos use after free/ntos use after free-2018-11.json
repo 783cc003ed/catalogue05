@@ -1,0 +1,154 @@
+{
+    "commits_count": 4,
+    "date_started": "2018-11-18",
+    "date_updated": "2018-11-19",
+    "description": "HackSys Use After Free Windows 7 x32 Bit",
+    "forks_count": 0,
+    "html_url": "https://github.com/l3x4overflow/HEVD-UseAfterFree-x86",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "C++",
+    "repo_name": "HEVD-UseAfterFree-x86",
+    "repo_owner": "l3x4overflow",
+    "repotime": "2018-11-19, 17:13:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2014-09-11",
+    "date_updated": "2018-11-17",
+    "description": "A simple javascript LIB to analyze (debug) memory leak.",
+    "forks_count": 0,
+    "html_url": "https://github.com/brcontainer/analysis-memory-leak.js",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "JavaScript",
+    "repo_name": "analysis-memory-leak.js",
+    "repo_owner": "brcontainer",
+    "repotime": "2018-11-17, 22:03:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 236,
+    "date_started": "2015-03-27",
+    "date_updated": "2018-11-14",
+    "description": "fimap is a little python tool which can find, prepare, audit, exploit and even google automatically for local and remote file inclusion bugs in webapps.",
+    "forks_count": 101,
+    "html_url": "https://github.com/kurobeats/fimap",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "fimap",
+    "repo_owner": "kurobeats",
+    "repotime": "2018-11-14, 20:27:58",
+    "stargazers_count": 550,
+    "watchers_count": 550
+}
+{
+    "commits_count": 28,
+    "date_started": "2018-02-23",
+    "date_updated": "2018-11-12",
+    "description": "CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6 leading to sandbox escape, privilege escalation, and codesigning bypass.",
+    "forks_count": 44,
+    "html_url": "https://github.com/bazad/blanket",
+    "keywords": [
+        "sandbox escape vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "blanket",
+    "repo_owner": "bazad",
+    "repotime": "2018-11-12, 16:25:17",
+    "stargazers_count": 255,
+    "watchers_count": 255
+}
+{
+    "commits_count": 9,
+    "date_started": "2018-10-08",
+    "date_updated": "2018-11-12",
+    "description": "A tool for supporting memory leak analysis with dtrace",
+    "forks_count": 0,
+    "html_url": "https://github.com/ppissias/DTLeakAnalyzer",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Java",
+    "repo_name": "DTLeakAnalyzer",
+    "repo_owner": "ppissias",
+    "repotime": "2018-11-12, 15:48:47",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-11-09",
+    "date_updated": "2018-11-09",
+    "description": "                    GNU GENERAL PUBLIC LICENSE                        Version 3, 29 June 2007   Copyright (C) 2007 Free Software Foundation, Inc. &amp;lt;https://fsf.org/&amp;gt;  Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.                              Preamble    The GNU General Public License is a free, copyleft license for software and other kinds of works.    The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.  We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors.  You can apply it to your programs, too.    When we speak of free software, we are refer...",
+    "forks_count": 1,
+    "html_url": "https://github.com/dulanaDias/login-screen",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "login-screen",
+    "repo_owner": "dulanaDias",
+    "repotime": "2018-11-09, 17:09:31",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-11-07",
+    "date_updated": "2018-11-06",
+    "description": "API and Code hook library built for 32 bits Windows. Contains DLL and code injection, remote process code execution, inter process communication and mini code disassembler techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/brunostuani/bms-api-hook",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Pascal",
+    "repo_name": "bms-api-hook",
+    "repo_owner": "brunostuani",
+    "repotime": "2018-11-06, 20:53:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 36,
+    "date_started": "2018-09-12",
+    "date_updated": "2018-11-04",
+    "description": "Crascan is a simple LFI, RFI, RCE, and Joomla Components vulnerability scanner.",
+    "forks_count": 11,
+    "html_url": "https://github.com/aryanrtm/Crascan",
+    "keywords": [
+        "lfi",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "Crascan",
+    "repo_owner": "aryanrtm",
+    "repotime": "2018-11-04, 17:03:12",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-10-27",
+    "date_updated": "2018-11-03",
+    "description": "CVE-2018-20377; 20575; 20576; 20577 Multiple security vulnerabilities affecting latest firmware release on ORANGE Livebox modems.",
+    "forks_count": 12,
+    "html_url": "https://github.com/zadewg/LIVEBOX-0DAY",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "LIVEBOX-0DAY",
+    "repo_owner": "zadewg",
+    "repotime": "2018-11-03, 00:14:52",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}

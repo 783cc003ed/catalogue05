@@ -1,0 +1,245 @@
+{
+    "commits_count": 84,
+    "date_started": "2016-09-01",
+    "date_updated": "2023-11-30",
+    "description": "OWASP Joomla Vulnerability Scanner Project https://www.secologist.com/",
+    "forks_count": 244,
+    "html_url": "https://github.com/OWASP/joomscan",
+    "keywords": [
+        "0day exploit",
+        "0day vulnerability"
+    ],
+    "language": "Raku",
+    "repo_name": "joomscan",
+    "repo_owner": "OWASP",
+    "repotime": "2023-11-30, 08:32:25",
+    "stargazers_count": 1126,
+    "watchers_count": 1126
+}
+{
+    "commits_count": 30,
+    "date_started": "2023-11-05",
+    "date_updated": "2023-11-24",
+    "description": "Wordpress Plugin Canto &amp;lt; 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE)",
+    "forks_count": 1,
+    "html_url": "https://github.com/leoanggal1/CVE-2023-3452-PoC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-3452-PoC",
+    "repo_owner": "leoanggal1",
+    "repotime": "2023-11-24, 13:55:00",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-11-16",
+    "date_updated": "2023-11-23",
+    "description": "LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
+    "forks_count": 12,
+    "html_url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
+    "keywords": [
+        "lpe vulnerability",
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "io_uring_LPE-CVE-2023-2598",
+    "repo_owner": "ysanatomic",
+    "repotime": "2023-11-23, 20:36:52",
+    "stargazers_count": 91,
+    "watchers_count": 91
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-10-20",
+    "date_updated": "2023-11-22",
+    "description": "The Proof of concept for abusing SeDebugPrivilege (Privilege Escalation in Windows)",
+    "forks_count": 4,
+    "html_url": "https://github.com/joaoviictorti/SeDebugAbuse-rs",
+    "keywords": [
+        "escalation of privileges proof of concept",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges proof of concept"
+    ],
+    "language": "Rust",
+    "repo_name": "SeDebugAbuse-rs",
+    "repo_owner": "joaoviictorti",
+    "repotime": "2023-11-22, 18:30:49",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-11-18",
+    "date_updated": "2023-11-19",
+    "description": "<no description>",
+    "forks_count": 25,
+    "html_url": "https://github.com/nathan31337/Splunk-RCE-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "Splunk-RCE-poc",
+    "repo_owner": "nathan31337",
+    "repotime": "2023-11-19, 13:09:06",
+    "stargazers_count": 113,
+    "watchers_count": 113
+}
+{
+    "commits_count": 22,
+    "date_started": "2022-12-04",
+    "date_updated": "2023-11-14",
+    "description": "A web application for a game store featuring a shopping cart, a game review system and the ability for unauthenticated users to place orders.",
+    "forks_count": 0,
+    "html_url": "https://github.com/TheMethier/WSAD",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "HTML",
+    "repo_name": "WSAD",
+    "repo_owner": "TheMethier",
+    "repotime": "2023-11-14, 21:52:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-11-13",
+    "date_updated": "2023-11-13",
+    "description": "This is a simple Python script for checking directory traversal vulnerabilities in URLs. The script attempts to access the &amp;quot;/etc/passwd&amp;quot; file by using a specified number of &amp;quot;../&amp;quot; iterations. For your max bounty",
+    "forks_count": 0,
+    "html_url": "https://github.com/shopsaver/etc-passwd-finder",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "etc-passwd-finder",
+    "repo_owner": "shopsaver",
+    "repotime": "2023-11-13, 11:04:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-11-10",
+    "date_updated": "2023-11-10",
+    "description": "Weaponized Exploit for Maltrail v0.53 Unauthenticated OS Command Injection (RCE)",
+    "forks_count": 0,
+    "html_url": "https://github.com/AnonymUZ-1/RCE1",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "RCE1",
+    "repo_owner": "AnonymUZ-1",
+    "repotime": "2023-11-10, 08:12:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-11-10",
+    "date_updated": "2023-11-09",
+    "description": "This repository is a tool to create a .suo that when run by visual studio's will achieve code execution",
+    "forks_count": 29,
+    "html_url": "https://github.com/moom825/visualstudio-suo-exploit",
+    "keywords": [
+        "rce poc",
+        "rce exploit"
+    ],
+    "language": "C#",
+    "repo_name": "visualstudio-suo-exploit",
+    "repo_owner": "moom825",
+    "repotime": "2023-11-09, 19:42:05",
+    "stargazers_count": 110,
+    "watchers_count": 110
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-11-03",
+    "date_updated": "2023-11-09",
+    "description": "! Proceed with caution! proudly maintainer tmcyb3r",
+    "forks_count": 0,
+    "html_url": "https://github.com/tmcybers/awesome-cve-poc",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "awesome-cve-poc",
+    "repo_owner": "tmcybers",
+    "repotime": "2023-11-09, 09:55:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 97,
+    "date_started": "2021-03-06",
+    "date_updated": "2023-11-08",
+    "description": "ProxyLogon Pre-Auth SSRF To Arbitrary File Write",
+    "forks_count": 38,
+    "html_url": "https://github.com/Udyz/Proxylogon",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Proxylogon",
+    "repo_owner": "Udyz",
+    "repotime": "2023-11-08, 12:31:59",
+    "stargazers_count": 124,
+    "watchers_count": 124
+}
+{
+    "commits_count": 59,
+    "date_started": "2023-02-14",
+    "date_updated": "2023-11-07",
+    "description": "A simple tutorial on how to do reverse engineer and code injection on AMI BIOSes (Legacy)",
+    "forks_count": 11,
+    "html_url": "https://github.com/Theldus/AMI_BIOS_CodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "AMI_BIOS_CodeInjection",
+    "repo_owner": "Theldus",
+    "repotime": "2023-11-07, 17:29:05",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-11-03",
+    "date_updated": "2023-11-04",
+    "description": " Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) ",
+    "forks_count": 38,
+    "html_url": "https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ",
+    "repo_owner": "SaumyajeetDas",
+    "repotime": "2023-11-04, 04:07:16",
+    "stargazers_count": 115,
+    "watchers_count": 115
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-10-23",
+    "date_updated": "2023-11-02",
+    "description": "A general cybersecurity challenge that introduces privilege escalation, exploitation of bad programming practices and more.",
+    "forks_count": 0,
+    "html_url": "https://github.com/neosizzle/snow-crash",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "snow-crash",
+    "repo_owner": "neosizzle",
+    "repotime": "2023-11-02, 10:35:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

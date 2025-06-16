@@ -1,0 +1,74 @@
+{
+    "commits_count": 46,
+    "date_started": "2015-10-12",
+    "date_updated": "2022-05-24",
+    "description": "<no description>",
+    "forks_count": 988,
+    "html_url": "https://github.com/firesunCN/BlueLotus_XSSReceiver",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "BlueLotus_XSSReceiver",
+    "repo_owner": "firesunCN",
+    "repotime": "2022-05-24, 00:13:20",
+    "stargazers_count": 1570,
+    "watchers_count": 1570
+}
+{
+    "commits_count": 78,
+    "date_started": "2019-08-21",
+    "date_updated": "2022-05-12",
+    "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
+    "forks_count": 285,
+    "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+    "keywords": [
+        "xml external entity",
+        "session attack",
+        "zero-day dos",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "session vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Nginx-Lua-Anti-DDoS",
+    "repo_owner": "C0nw0nk",
+    "repotime": "2022-05-12, 15:35:01",
+    "stargazers_count": 1291,
+    "watchers_count": 1291
+}
+{
+    "commits_count": 182,
+    "date_started": "2022-05-12",
+    "date_updated": "2022-05-11",
+    "description": "backend endpoint: https://transferwise-apitest.herokuapp.com/api/v1 Coding Project   Hints: Be smart, don’t repeat yourself or reinvent the wheel. Use as many packages/libraries as you can do. Use up-to-date software and bundles. Read the entire document here before jumping into action. Think twice. Model the application before you jump into coding.   Why? This coding challenge should give us a good understanding of  How well you can go from text to code, from requirements to product. How well you can execute on predefined requirements. How well you pay attention to detail so we can rely on you executing the work end to end. How creatively you execute on loose requirements (not defined in great detail). How well you can hack, organize, document, test, structure, and write your code. How well you can leverage existing things to build this app fast.   What (Objective):  The challenge is to create a web app where users can send virtual money in the currencies of (USD, EUR, NGN) to each ot...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Edwardy221133/Fullstack-Transferwise-Task",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Fullstack-Transferwise-Task",
+    "repo_owner": "Edwardy221133",
+    "repotime": "2022-05-11, 19:50:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-05-03",
+    "date_updated": "2022-05-02",
+    "description": "SMEP bypass of HEVD buffer overflow exercise",
+    "forks_count": 0,
+    "html_url": "https://github.com/swesty/HEVD_BufOF_SMEP",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C++",
+    "repo_name": "HEVD_BufOF_SMEP",
+    "repo_owner": "swesty",
+    "repotime": "2022-05-02, 22:04:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

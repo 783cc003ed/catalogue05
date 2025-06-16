@@ -1,0 +1,1086 @@
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-6921, CVE-2016-6923, CVE-2016-6925, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4279",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4279",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-31, 20:57:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6929",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6929",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-31, 20:57:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6930",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6930",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-31, 20:57:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6923, CVE-2016-6925, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6921",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6921",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-31, 20:57:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6932",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6932",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-31, 20:57:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/adrien-aubert-drovio/vertx-statichandler-windows-traversal-path-vulnerability",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "vertx-statichandler-windows-traversal-path-vulnerability",
+    "repo_owner": "adrien-aubert-drovio",
+    "repotime": "2023-01-31, 10:33:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "A use after free vulnerability exists in the ALSA PCM package in the Linux Kernel. SNDRV_CTL_IOCTL_ELEM_{READ|WRITE}32 is missing locks that can be used in a use-after-free that can result in a priviledge escalation to gain ring0 access from the system user. We recommend upgrading past commit 56b88b50565cd8b946a2d00b0c CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0266",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0266",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 16:20:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "There is a logic error in io_uring's implementation which can be used to trigger a use-after-free vulnerability leading to privilege escalation. In the io_prep_async_work function the assumption that the last io_grab_identity call cannot return false is not true, and in this case the function will use the init_cred or  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0240",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0240",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 16:20:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "Use after free in GuestView in Google Chrome prior to 109.0.5414.119 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a Chrome web app. (Chromium security severity: Medium) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0474",
+    "keywords": [
+        "Chromium use after free",
+        "Chromium use after free exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0474",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 13:03:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "Use after free in WebRTC in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0472",
+    "keywords": [
+        "Chrome use after free exploit",
+        "Chromium use after free",
+        "Chrome use after free",
+        "use after free exploit",
+        "Chrome use after free exploitation",
+        "Chromium use after free exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0472",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 13:03:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "Use after free in WebTransport in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0471",
+    "keywords": [
+        "Chrome use after free exploit",
+        "Chromium use after free",
+        "Chrome use after free",
+        "Chrome use after free exploitation",
+        "Chromium use after free exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0471",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 13:03:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-27",
+    "date_updated": "2023-01-27",
+    "description": "A use after free vulnerability in ip_reass() in ip_input.c of libslirp 4.2.0 and prior releases allows crafted packets to cause a denial of service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-1983",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-1983",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-27, 20:29:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-27",
+    "date_updated": "2023-01-27",
+    "description": "Use After Free in Remote logging (which is disabled by default) in McAfee McAfee Agent (MA) 5.x prior to 5.6.0 allows remote unauthenticated attackers to cause a Denial of Service and potentially a remote code execution via a specially crafted HTTP header sent to the logging service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-6703",
+    "keywords": [
+        "remote code execution denial of service",
+        "use after free denial of service",
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-6703",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-27, 20:28:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-01-20",
+    "date_updated": "2023-01-26",
+    "description": "A PHP tool to spoof email with TLS certificate",
+    "forks_count": 0,
+    "html_url": "https://github.com/n4zgu1/email-spoofer",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "PHP",
+    "repo_name": "email-spoofer",
+    "repo_owner": "n4zgu1",
+    "repotime": "2023-01-26, 20:37:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in the Transform object implementation in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via a flash.geom.Matrix callback, a different vulnerability than CVE-2016-10 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-1016",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-1016",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 19:05:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in the LoadVars.decode function in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1011, CVE-2016-101 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-1017",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-1017",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 16:54:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1011, CVE-2016-1013, CVE-2016-1016, and CVE-2016-1 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-1031",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-1031",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 16:54:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4227, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4226",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4226",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 16:54:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1013, CVE-2016-1016, CVE-2016-1017, and CVE-2016-1 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-1011",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-1011",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 16:54:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1011, CVE-2016-1016, CVE-2016-1017, and CVE-2016-1 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-1013",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-1013",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 16:54:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4227",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4227",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:22:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4228",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4228",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:22:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4229",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4229",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:22:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4230",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4230",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:22:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4248",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4248",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:22:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4231",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4231",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:21:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4226, CVE-2016-4227, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4222",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4222",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:21:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-7020",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-7020",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:21:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-24",
+    "date_updated": "2023-01-24",
+    "description": "Use after free in Chrome OS Shell in Google Chrome on Chrome OS prior to 99.0.4844.51 allowed a remote attacker who convinced a user to engage in a series of user interaction to potentially exploit heap corruption via user interactions. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-0808",
+    "keywords": [
+        "Chrome use after free",
+        "Chrome use after free exploit",
+        "Chrome use after free exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-0808",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-24, 18:40:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-24",
+    "date_updated": "2023-01-24",
+    "description": "Use-after-free vulnerability in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors involving a URL. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2013-0898",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free denial of service",
+        "Chrome use after free vulnerability",
+        "Windows use after free vulnerability",
+        "use after free denial of service",
+        "Chrome use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2013-0898",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-24, 07:41:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-24",
+    "date_updated": "2023-01-24",
+    "description": "Use-after-free vulnerability in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors related to databases. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2013-0880",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free denial of service",
+        "Chrome use after free vulnerability",
+        "Windows use after free vulnerability",
+        "use after free denial of service",
+        "Chrome use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2013-0880",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-24, 07:40:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-24",
+    "date_updated": "2023-01-24",
+    "description": "An issue was discovered in InspIRCd 2 before 2.0.29 and 3 before 3.6.0. The pgsql module contains a use after free vulnerability. When combined with the sqlauth or sqloper modules, this vulnerability can be used for remote crashing of an InspIRCd server by any user able to connect to a server. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-25269",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-25269",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-24, 07:40:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-20",
+    "date_updated": "2023-01-20",
+    "description": "Use after free in extensions in Google Chrome prior to 83.0.4103.116 allowed an attacker who convinced a user to install a malicious extension to potentially perform a sandbox escape via a crafted Chrome Extension. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-6509",
+    "keywords": [
+        "Chrome sandbox escape"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-6509",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-20, 23:18:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "The tcpmss_mangle_packet function in net/netfilter/xt_TCPMSS.c in the Linux kernel before 4.11, and 4.9.x before 4.9.36, allows remote attackers to cause a denial of service (use-after-free and memory corruption) or possibly have unspecified other impact by leveraging the presence of xt_TCPMSS in an iptables action. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-18017",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-18017",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 18:40:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in ext/spl/spl_array.c in the SPL component in PHP through 5.5.14 allows context-dependent attackers to cause a denial of service or possibly have unspecified other impact via crafted ArrayIterator usage within applications in certain web-hosting environments. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2014-4698",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2014-4698",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 18:39:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.333 and 19.x through 21.x before 21.0.0.182 on Windows and OS X and before 11.2.202.577 on Linux, Adobe AIR before 21.0.0.176, Adobe AIR SDK before 21.0.0.176, and Adobe AIR SDK &amp;amp; Compiler before 21.0.0.176 allows attackers to execute arbitrary code via u CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-0991",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-0991",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:38:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.333 and 19.x through 21.x before 21.0.0.182 on Windows and OS X and before 11.2.202.577 on Linux, Adobe AIR before 21.0.0.176, Adobe AIR SDK before 21.0.0.176, and Adobe AIR SDK &amp;amp; Compiler before 21.0.0.176 allows attackers to execute arbitrary code via u CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-0988",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-0988",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:38:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE-2016-6925, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4272",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4272",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:38:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6925, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6923",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6923",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:38:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6925",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6925",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:38:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6926",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6926",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:38:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6927",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6927",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:37:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Adobe Dimension version 3.4.6 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21601",
+    "keywords": [
+        "aslr bypass",
+        "aslr bypass disclosure",
+        "use after free vulnerability",
+        "aslr bypass exploitation",
+        "use after free disclosure",
+        "aslr bypass exploit",
+        "aslr bypass vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21601",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 20:34:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 170,
+    "date_started": "2017-12-13",
+    "date_updated": "2023-01-17",
+    "description": "bXSS is a utility which can be used by bug hunters and organizations to identify Blind Cross-Site Scripting.",
+    "forks_count": 65,
+    "html_url": "https://github.com/LewisArdern/bXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "bXSS",
+    "repo_owner": "LewisArdern",
+    "repotime": "2023-01-17, 16:45:07",
+    "stargazers_count": 539,
+    "watchers_count": 539
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-17",
+    "date_updated": "2023-01-18",
+    "description": "The replace_map_fd_with_map_ptr function in kernel/bpf/verifier.c in the Linux kernel before 4.5.5 does not properly maintain an fd data structure, which allows local users to gain privileges or cause a denial of service (use-after-free) via crafted BPF instructions that reference an incorrect file descriptor. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4557",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4557",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 00:40:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-17",
+    "date_updated": "2023-01-18",
+    "description": "Race condition in the ip4_datagram_release_cb function in net/ipv4/datagram.c in the Linux kernel before 3.15.2 allows local users to gain privileges or cause a denial of service (use-after-free) by leveraging incorrect expectations about locking during multithreaded access to internal data structures for IPv4 UDP sock CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2014-9914",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2014-9914",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 00:40:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-13",
+    "date_updated": "2023-01-14",
+    "description": "Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21598",
+    "keywords": [
+        "aslr bypass",
+        "use after free vulnerability",
+        "aslr bypass disclosure",
+        "aslr bypass exploitation",
+        "use after free disclosure",
+        "aslr bypass exploit",
+        "aslr bypass vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21598",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-14, 00:48:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-13",
+    "date_updated": "2023-01-13",
+    "description": "A Use After Free vulnerability in the kernel of Juniper Networks Junos OS Evolved allows an unauthenticated, network-based attacker to cause a Denial of Service (DoS). In a Non Stop Routing (NSR) scenario, an unexpected kernel restart might be observed if &amp;quot;bgp auto-discovery&amp;quot; is enabled and if there is a BGP neighbor f CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-22402",
+    "keywords": [
+        "use after free dos",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-22402",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-13, 02:45:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 22,
+    "date_started": "2022-11-25",
+    "date_updated": "2023-01-12",
+    "description": "An ongoing &amp;amp; curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Zero-day attack and exploits in Cybersecurity",
+    "forks_count": 4,
+    "html_url": "https://github.com/paulveillard/cybersecurity-zero-day",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "cybersecurity-zero-day",
+    "repo_owner": "paulveillard",
+    "repotime": "2023-01-12, 15:53:55",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-11",
+    "date_updated": "2023-01-11",
+    "description": "There exists a use-after-free vulnerability in the Linux kernel through io_uring and the IORING_OP_SPLICE operation. If IORING_OP_SPLICE is missing the IO_WQ_WORK_FILES flag, which signals that the operation won't use current-&amp;gt;nsproxy, so its reference counter is not increased. This assumption is not always true as cal CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-4696",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-4696",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-11, 16:37:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-11",
+    "date_updated": "2023-01-11",
+    "description": "A use-after-free vulnerability was found in __nfs42_ssc_open() in fs/nfs/nfs4file.c in the Linux kernel. This flaw allows an attacker to conduct a remote denial CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-4379",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-4379",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-11, 01:10:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-10",
+    "date_updated": "2023-01-10",
+    "description": "Use after free in Overview Mode in Google Chrome on Chrome OS prior to 109.0.5414.74 allowed a remote attacker who convinced a user to engage in specific UI interactions to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0128",
+    "keywords": [
+        "Chromium use after free",
+        "Chromium use after free exploitation",
+        "Chromium use after free exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0128",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-10, 22:58:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-10",
+    "date_updated": "2023-01-10",
+    "description": "Use after free in Cart in Google Chrome prior to 109.0.5414.74 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via database corruption and a crafted HTML page. (Chromium security severity: Medium) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0135",
+    "keywords": [
+        "Chromium use after free",
+        "Chromium use after free exploitation",
+        "Chromium use after free exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0135",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-10, 22:58:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-10",
+    "date_updated": "2023-01-10",
+    "description": "Use after free in Cart in Google Chrome prior to 109.0.5414.74 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via database corruption and a crafted HTML page. (Chromium security severity: Medium) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0134",
+    "keywords": [
+        "Chromium use after free",
+        "Chromium use after free exploitation",
+        "Chromium use after free exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0134",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-10, 22:58:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-10",
+    "date_updated": "2023-01-10",
+    "description": "A vulnerability has been identified in JT Open (All versions &amp;lt; V11.1.1.0), JT Utilities (All versions &amp;lt; V13.1.1.0), Solid Edge (All versions &amp;lt; V2023). The Jt1001.dll contains a use-after-free vulnerability that could be triggered while parsing specially crafted JT files. An attacker could leverage this vulnerability to CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-44014",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-44014",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-10, 15:18:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-03",
+    "date_updated": "2023-01-03",
+    "description": "Use after free in Browser History in Google Chrome prior to 100.0.4896.75 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chrome security severity: High) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3863",
+    "keywords": [
+        "Chrome use after free exploitation",
+        "use after free exploitation",
+        "use after free exploit",
+        "Chrome use after free",
+        "Chrome use after free exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3863",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-03, 02:12:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-03",
+    "date_updated": "2023-01-03",
+    "description": "Use after free in Passwords in Google Chrome prior to 105.0.5195.125 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3842",
+    "keywords": [
+        "Chromium use after free",
+        "Chromium use after free exploitation",
+        "Chromium use after free exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3842",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-03, 02:12:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-03",
+    "date_updated": "2023-01-03",
+    "description": "Use after free in Exosphere in Google Chrome on Chrome OS and Lacros prior to 104.0.5112.79 allowed a remote attacker who convinced a user to engage in specific UI interactions to potentially exploit heap corruption via crafted UI interactions. (Chrome security severity: High) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-2742",
+    "keywords": [
+        "Chrome use after free exploitation",
+        "Chrome use after free",
+        "Chrome use after free exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-2742",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-03, 02:12:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-03",
+    "date_updated": "2023-01-03",
+    "description": "Use after free in FileAPI in Google Chrome prior to 72.0.3626.81 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page. (Chrome security severity: High) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-13768",
+    "keywords": [
+        "Chrome use after free",
+        "Chrome sandbox escape"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-13768",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-03, 02:11:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

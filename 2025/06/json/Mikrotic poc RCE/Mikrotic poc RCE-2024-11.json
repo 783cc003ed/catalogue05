@@ -1,0 +1,330 @@
+{
+    "commits_count": 43,
+    "date_started": "2020-07-09",
+    "date_updated": "2024-11-29",
+    "description": "A collection of tiny XSS Payloads that can be used in different contexts. https://tinyxss.terjanq.me",
+    "forks_count": 207,
+    "html_url": "https://github.com/terjanq/Tiny-XSS-Payloads",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Tiny-XSS-Payloads",
+    "repo_owner": "terjanq",
+    "repotime": "2024-11-29, 23:58:22",
+    "stargazers_count": 2113,
+    "watchers_count": 2113
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-11-27",
+    "date_updated": "2024-11-29",
+    "description": "This PoC script exploits CVE-2024-39090, a CSRF to Stored XSS vulnerability in PHPGurukul Online Shopping Portal v2.0. It automates CSRF attacks to inject persistent JavaScript payloads, which execute when a privileged user accesses the affected page, enabling actions such as session hijacking or credential theft.",
+    "forks_count": 1,
+    "html_url": "https://github.com/ghostwirez/CVE-2024-39090-PoC",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-39090-PoC",
+    "repo_owner": "ghostwirez",
+    "repotime": "2024-11-29, 09:02:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-11-28",
+    "date_updated": "2024-11-28",
+    "description": "POC - CVE-2024-21534 Jsonpath-plus vulnerable to Remote Code Execution (RCE) due to improper input sanitization",
+    "forks_count": 0,
+    "html_url": "https://github.com/verylazytech/cve-2024-21534",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Shell",
+    "repo_name": "cve-2024-21534",
+    "repo_owner": "verylazytech",
+    "repotime": "2024-11-28, 20:07:14",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 19,
+    "date_started": "2020-07-06",
+    "date_updated": "2024-11-28",
+    "description": " A proof-of-concept Remote Desktop (RDP) session hijack utility",
+    "forks_count": 81,
+    "html_url": "https://github.com/bohops/SharpRDPHijack",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C#",
+    "repo_name": "SharpRDPHijack",
+    "repo_owner": "bohops",
+    "repotime": "2024-11-28, 01:08:58",
+    "stargazers_count": 483,
+    "watchers_count": 483
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-11-27",
+    "date_updated": "2024-11-27",
+    "description": "A PoC exploit for CVE-2024-10914 - D-Link Remote Code Execution (RCE)",
+    "forks_count": 2,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2024-10914-EXPLOIT",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-10914-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-11-27, 18:31:07",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-11-27",
+    "date_updated": "2024-11-27",
+    "description": "GuppY 6.00.10 CMS is vulnerable to Unrestricted File Upload allows remote attackers to execute arbitrary code by uploading a php file.",
+    "forks_count": 1,
+    "html_url": "https://github.com/NketiahGodfred/Guppy-6.0-RCE",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Shell",
+    "repo_name": "Guppy-6.0-RCE",
+    "repo_owner": "NketiahGodfred",
+    "repotime": "2024-11-27, 19:21:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-11-02",
+    "date_updated": "2024-11-20",
+    "description": "This repo contains found vulnerabilities from open-source projects. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/EmilGallajov/zero-day",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "zero-day",
+    "repo_owner": "EmilGallajov",
+    "repotime": "2024-11-20, 17:45:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-11-19",
+    "date_updated": "2024-11-19",
+    "description": "Python POC for CVE-2023-3722 Avaya Aura Device Services Unrestricted File Upload RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/pizza-power/CVE-2023-3722",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-3722",
+    "repo_owner": "pizza-power",
+    "repotime": "2024-11-19, 13:44:35",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 40,
+    "date_started": "2021-04-22",
+    "date_updated": "2024-11-19",
+    "description": "Collection of Windows Privilege Escalation (Analyse/PoC/Exploit)",
+    "forks_count": 77,
+    "html_url": "https://github.com/ycdxsb/WindowsPrivilegeEscalation",
+    "keywords": [
+        "Win escalation of privileges poc",
+        "escalation of privileges poc",
+        "Win escalation of privileges",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges poc",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "WindowsPrivilegeEscalation",
+    "repo_owner": "ycdxsb",
+    "repotime": "2024-11-19, 21:39:12",
+    "stargazers_count": 407,
+    "watchers_count": 407
+}
+{
+    "commits_count": 21,
+    "date_started": "2024-10-27",
+    "date_updated": "2024-11-18",
+    "description": "CVE-2024-52940 - A zero-day vulnerability in AnyDesk's &amp;quot;Allow Direct Connections&amp;quot; feature, discovered and registered by Ebrahim Shafiei (EbraSha), exposing public and private IP addresses. For details, visit the NVD, Tenable, or MITRE pages.",
+    "forks_count": 8,
+    "html_url": "https://github.com/ebrasha/abdal-anydesk-remote-ip-detector",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "C#",
+    "repo_name": "abdal-anydesk-remote-ip-detector",
+    "repo_owner": "ebrasha",
+    "repotime": "2024-11-18, 18:39:29",
+    "stargazers_count": 35,
+    "watchers_count": 35
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-11-12",
+    "date_updated": "2024-11-13",
+    "description": "A central repository for managing CVE requests and publishing security advisories on vulnerabilities found in various projects.",
+    "forks_count": 0,
+    "html_url": "https://github.com/4l1y3vsul3ym4n/0day",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "0day",
+    "repo_owner": "4l1y3vsul3ym4n",
+    "repotime": "2024-11-13, 16:55:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-11-11",
+    "date_updated": "2024-11-12",
+    "description": "Citrix Virtual Apps and Desktops (XEN) Unauthenticated RCE",
+    "forks_count": 25,
+    "html_url": "https://github.com/watchtowrlabs/Citrix-Virtual-Apps-XEN-Exploit",
+    "keywords": [
+        "unauthenticated rce",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Citrix-Virtual-Apps-XEN-Exploit",
+    "repo_owner": "watchtowrlabs",
+    "repotime": "2024-11-12, 14:29:32",
+    "stargazers_count": 194,
+    "watchers_count": 194
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-11-04",
+    "date_updated": "2024-11-11",
+    "description": "Unrestricted Upload of File with Dangerous Type",
+    "forks_count": 0,
+    "html_url": "https://github.com/hatvix1/CVE-2024-50526-Private-POC",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-50526-Private-POC",
+    "repo_owner": "hatvix1",
+    "repotime": "2024-11-11, 14:11:22",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-11-10",
+    "date_updated": "2024-11-10",
+    "description": "Magical Addons For Elementor &amp;lt;= 1.2.1 - Authenticated (Subscriber+) Server-Side Request Forgery",
+    "forks_count": 0,
+    "html_url": "https://github.com/RandomRobbieBF/CVE-2024-51665",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-51665",
+    "repo_owner": "RandomRobbieBF",
+    "repotime": "2024-11-10, 12:02:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-11-27",
+    "date_updated": "2024-11-10",
+    "description": "git-rce poc on windows",
+    "forks_count": 1,
+    "html_url": "https://github.com/irsl/lfswin",
+    "keywords": [
+        "Windows rce poc"
+    ],
+    "language": null,
+    "repo_name": "lfswin",
+    "repo_owner": "irsl",
+    "repotime": "2024-11-10, 12:02:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-11-05",
+    "date_updated": "2024-11-05",
+    "description": "Rockwell Automation ThinManager ThinServer Unrestricted File Upload Remote Code Execution Vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/HatvixSupport/CVE-2024-7988-Private-POC",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-7988-Private-POC",
+    "repo_owner": "HatvixSupport",
+    "repotime": "2024-11-05, 19:07:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-11-04",
+    "date_updated": "2024-11-04",
+    "description": "WP Query Console &amp;lt;= 1.0 - Unauthenticated Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/RandomRobbieBF/CVE-2024-50498",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-50498",
+    "repo_owner": "RandomRobbieBF",
+    "repotime": "2024-11-04, 22:15:03",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-10-08",
+    "date_updated": "2024-11-02",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/websec/Vision-Helpdesk-Exploit",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Vision-Helpdesk-Exploit",
+    "repo_owner": "websec",
+    "repotime": "2024-11-02, 23:43:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-10-31",
+    "date_updated": "2024-11-01",
+    "description": "If the %PATH% variable on a windows system contains a path with write permissions, this leads to an LPE",
+    "forks_count": 0,
+    "html_url": "https://github.com/JonathanLauener/WritePathLPE",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "C",
+    "repo_name": "WritePathLPE",
+    "repo_owner": "JonathanLauener",
+    "repotime": "2024-11-01, 15:29:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

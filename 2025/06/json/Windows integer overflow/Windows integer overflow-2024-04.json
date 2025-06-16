@@ -1,0 +1,140 @@
+{
+    "commits_count": 38,
+    "date_started": "2023-11-11",
+    "date_updated": "2024-04-22",
+    "description": "Tool collection (intranet penetration/privilege escalation tools/remote overflow/vulnerability exploitation/scanning tools/password cracking/evasion tools/Exploit/APT/0day/Shellcode/Payload/privilege/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit ( Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
+    "forks_count": 1,
+    "html_url": "https://github.com/pushkkk/pushkkk.github.io",
+    "keywords": [
+        "0day vulnerability",
+        "0day exploitation"
+    ],
+    "language": null,
+    "repo_name": "pushkkk.github.io",
+    "repo_owner": "pushkkk",
+    "repotime": "2024-04-22, 00:17:41",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 79,
+    "date_started": "2015-06-29",
+    "date_updated": "2024-04-21",
+    "description": "a nice code injection engine for Wii games",
+    "forks_count": 13,
+    "html_url": "https://github.com/Treeki/Kamek",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "Kamek",
+    "repo_owner": "Treeki",
+    "repotime": "2024-04-21, 04:47:29",
+    "stargazers_count": 81,
+    "watchers_count": 81
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-04-15",
+    "date_updated": "2024-04-15",
+    "description": "CVE-2024-1642470 is a critical vulnerability discovered in the Windows USB Generic Parent Driver. The vulnerability arises due to improper input validation within the driver's IOCTL handling mechanism. As a result, remote attackers can execute arbitrary code via crafted IOCTL requests, potentially leading to system compromise.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Symbolexe/CVE-2024-1642470",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2024-1642470",
+    "repo_owner": "Symbolexe",
+    "repotime": "2024-04-15, 21:24:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-04-11",
+    "date_updated": "2024-04-11",
+    "description": "Memory Leakage Analysis Tool by go language",
+    "forks_count": 0,
+    "html_url": "https://github.com/tanmay1155/Memory-Leakage-Analysis-Tool",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Go",
+    "repo_name": "Memory-Leakage-Analysis-Tool",
+    "repo_owner": "tanmay1155",
+    "repotime": "2024-04-11, 21:54:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-02-14",
+    "date_updated": "2024-04-10",
+    "description": "A simple Heap-based Buffer Overflow(with RCE) POC for Windows.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Und3rTh3bu5/heapOverflow-win32-no-cfg",
+    "keywords": [
+        "Windows rce",
+        "Windows rce poc",
+        "Win rce"
+    ],
+    "language": "C++",
+    "repo_name": "heapOverflow-win32-no-cfg",
+    "repo_owner": "Und3rTh3bu5",
+    "repotime": "2024-04-10, 17:49:05",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-04-10",
+    "date_updated": "2024-04-10",
+    "description": "Covers essential topics in cybersecurity, including buffer overflow vulnerabilities, zero-day exploits, and tools like Kali Linux for testing and training. It includes a Bash script for password strength checking using regex and another for managing users, adding/removing them from the system by reading from a text file with encrypted passwords.",
+    "forks_count": 0,
+    "html_url": "https://github.com/TryingToBeSmart/CST-321-Security",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "CST-321-Security",
+    "repo_owner": "TryingToBeSmart",
+    "repotime": "2024-04-10, 11:23:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-05-11",
+    "date_updated": "2024-04-10",
+    "description": "Baron SameEdit Heap Overflow LPE 1-Day Exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/mutur4/CVE-2021-3156",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2021-3156",
+    "repo_owner": "mutur4",
+    "repotime": "2024-04-10, 17:50:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2023-04-17",
+    "date_updated": "2024-04-01",
+    "description": "Trophy list of zero-day vulnerabilities discovered by Skinny R&amp;amp;D members",
+    "forks_count": 0,
+    "html_url": "https://github.com/skinnyrad/Trophies",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Trophies",
+    "repo_owner": "skinnyrad",
+    "repotime": "2024-04-01, 13:33:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

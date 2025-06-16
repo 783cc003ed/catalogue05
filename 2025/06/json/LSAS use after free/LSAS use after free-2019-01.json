@@ -1,0 +1,119 @@
+{
+    "commits_count": 1,
+    "date_started": "2019-01-30",
+    "date_updated": "2019-01-30",
+    "description": "iOS/macOS: task_swap_mach_voucher() does not respect MIG semantics leading to use-after-free",
+    "forks_count": 1,
+    "html_url": "https://github.com/S0rryMyBad/poc.voucherSwap",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "Objective-C",
+    "repo_name": "poc.voucherSwap",
+    "repo_owner": "S0rryMyBad",
+    "repotime": "2019-01-30, 18:55:12",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-01-23",
+    "date_updated": "2019-01-24",
+    "description": "Privacy Policy  Sander Schulhoff built the Heart Heist app as a Free app. This SERVICE is provided by Sander Schulhoff at no cost and is intended for use as is.  This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.  If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.  The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Heart Heist unless otherwise defined in this Privacy Policy.  Information Collection and Use  For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request...",
+    "forks_count": 0,
+    "html_url": "https://github.com/art-hack/Privacy-Policy",
+    "keywords": [
+        "use after free disclosure"
+    ],
+    "language": null,
+    "repo_name": "Privacy-Policy",
+    "repo_owner": "art-hack",
+    "repotime": "2019-01-24, 03:33:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-10-11",
+    "date_updated": "2019-01-19",
+    "description": "These two methods are very helpful to compact PST file of Microsoft Outlook. But if you’re looking for a professional solution to avoid all these manual steps and achieve best results, you should try the PST Compress tool provided by SysInfoTools Software. It’s a safe and easy-to-use application that requires no prior technical expertise. Via this software, you can safely compact PST file of any size without causing any damage or data loss. It can reduce PST file size by removing all the extra and unused space. The PST Compress tool is available with the demo version for free evaluation. By using the demo version, you can save first 5 emails of every PST file you select after compression. Corrupt PST File But if you have a corrupt PST file, then you can neither compress PST file nor can you split PST it. In such a critical situation, you must repair PST file with the help of scanpst.exe or any third-party PST Repair application.  Microsoft Outlook client has a wide range of smart featu...",
+    "forks_count": 0,
+    "html_url": "https://github.com/deanamb/Professional-Way-to-Compact-PST-File",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": null,
+    "repo_name": "Professional-Way-to-Compact-PST-File",
+    "repo_owner": "deanamb",
+    "repotime": "2019-01-19, 07:07:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 14,
+    "date_started": "2014-02-04",
+    "date_updated": "2019-01-17",
+    "description": "Injection of managed code into non-managed Windows applications",
+    "forks_count": 9,
+    "html_url": "https://github.com/sunsided/native-dotnet-code-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "native-dotnet-code-injection",
+    "repo_owner": "sunsided",
+    "repotime": "2019-01-17, 20:28:39",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 13,
+    "date_started": "2018-02-23",
+    "date_updated": "2019-01-15",
+    "description": "Windows / Linux Local Privilege Escalation Workshop",
+    "forks_count": 246,
+    "html_url": "https://github.com/sagishahar-zz/lpeworkshop",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "Batchfile",
+    "repo_name": "lpeworkshop",
+    "repo_owner": "sagishahar-zz",
+    "repotime": "2019-01-15, 23:05:43",
+    "stargazers_count": 1007,
+    "watchers_count": 1007
+}
+{
+    "commits_count": 22,
+    "date_started": "2016-08-24",
+    "date_updated": "2019-01-10",
+    "description": "A complete banking application with &amp;quot;Session Password using Grids and Colors&amp;quot;, a secured mechanism to keep banking application safe from MIM (Man in Middle) attack, solder sniffing and  eavesdropping in.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kevindsouza2306/iskonsbank",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "iskonsbank",
+    "repo_owner": "kevindsouza2306",
+    "repotime": "2019-01-10, 23:34:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 261,
+    "date_started": "2012-01-10",
+    "date_updated": "2019-01-04",
+    "description": "SQL Injection Exploitation Tool",
+    "forks_count": 192,
+    "html_url": "https://github.com/CiscoCXSecurity/bbqsql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "bbqsql",
+    "repo_owner": "CiscoCXSecurity",
+    "repotime": "2019-01-04, 14:23:19",
+    "stargazers_count": 759,
+    "watchers_count": 759
+}

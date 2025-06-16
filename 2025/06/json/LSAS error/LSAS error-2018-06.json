@@ -1,0 +1,68 @@
+{
+    "commits_count": 35,
+    "date_started": "2018-03-25",
+    "date_updated": "2018-06-22",
+    "description": "Chrome extension to alert and possibly block IDN/Unicode websites and zero-day phishing websites using AI and Computer Vision.",
+    "forks_count": 9,
+    "html_url": "https://github.com/phishai/phish-protect",
+    "keywords": [
+        "Chrome zero-day"
+    ],
+    "language": "JavaScript",
+    "repo_name": "phish-protect",
+    "repo_owner": "phishai",
+    "repotime": "2018-06-22, 09:50:00",
+    "stargazers_count": 118,
+    "watchers_count": 118
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-06-22",
+    "date_updated": "2018-06-22",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/nguyenthanhluan6c/session_hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Ruby",
+    "repo_name": "session_hijacking",
+    "repo_owner": "nguyenthanhluan6c",
+    "repotime": "2018-06-22, 10:30:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2018-04-02",
+    "date_updated": "2018-06-10",
+    "description": "This is a simple, framework-agnostic library inspired by WordPress that helps you protect your PHP web apps from CSRF attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/programarivm/nonce-shield",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "nonce-shield",
+    "repo_owner": "programarivm",
+    "repotime": "2018-06-10, 13:12:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-06-02",
+    "date_updated": "2018-06-02",
+    "description": "A simple framework for validation rules on the Salesforce platform, to bypass the 100 rule-per-object limit.",
+    "forks_count": 1,
+    "html_url": "https://github.com/renatoliveira/field-dependency-analyzer",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Apex",
+    "repo_name": "field-dependency-analyzer",
+    "repo_owner": "renatoliveira",
+    "repotime": "2018-06-02, 11:54:10",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

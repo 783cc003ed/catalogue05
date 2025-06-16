@@ -1,0 +1,19 @@
+{
+    "commits_count": 9,
+    "date_started": "2019-08-19",
+    "date_updated": "2019-08-17",
+    "description": "Exploiting stored XSS vulnerability to hijack sessions",
+    "forks_count": 1,
+    "html_url": "https://github.com/zenzue/XSS-Session-Hijacking-Simulator",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking vulnerability",
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "XSS-Session-Hijacking-Simulator",
+    "repo_owner": "zenzue",
+    "repotime": "2019-08-17, 19:17:35",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

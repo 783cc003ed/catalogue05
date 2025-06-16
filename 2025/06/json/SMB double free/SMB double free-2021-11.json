@@ -1,0 +1,218 @@
+{
+    "commits_count": 14,
+    "date_started": "2021-09-08",
+    "date_updated": "2021-11-25",
+    "description": "Template Cloudflare Worker Script for bypass the missing CORS headers from the Cloudflare API.",
+    "forks_count": 0,
+    "html_url": "https://github.com/estallio/cloudflare-pages-deployments-api-proxy",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "JavaScript",
+    "repo_name": "cloudflare-pages-deployments-api-proxy",
+    "repo_owner": "estallio",
+    "repotime": "2021-11-25, 00:04:11",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 24,
+    "date_started": "2021-10-05",
+    "date_updated": "2021-11-24",
+    "description": "<no description>",
+    "forks_count": 38,
+    "html_url": "https://github.com/iilegacyyii/PoC-CVE-2021-41773",
+    "keywords": [
+        "rce poc",
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "PoC-CVE-2021-41773",
+    "repo_owner": "iilegacyyii",
+    "repotime": "2021-11-24, 12:57:46",
+    "stargazers_count": 47,
+    "watchers_count": 47
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-11-10",
+    "date_updated": "2021-11-22",
+    "description": "&amp;&#35;35;&amp;&#35;35; Instructions  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Data Modeling  Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Data Engineering  * Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.    * For the primary keys check to see if the column is unique, otherwise create a [composite key](https://en.wikipedia.org/wiki/Compound_key). Which takes to primary keys in order to uniquely identify a row.   * Be sure to create tables in the correct order to handle foreign keys.  * Import each CSV file into the corresponding SQL table. **Note** be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Data Analysis  Once you have a complete database, do the follo...",
+    "forks_count": 0,
+    "html_url": "https://github.com/jlira5418/sql-challenge",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "sql-challenge",
+    "repo_owner": "jlira5418",
+    "repotime": "2021-11-22, 22:12:58",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-11-19",
+    "date_updated": "2021-11-19",
+    "description": "Before you post! 1. It is important that you have the right expectations for free technical support for free open source software. For an average business day you should expect about 24 hours before your first response. For the weekend (any post after 3PM PST Friday to 11AM PST Monday) expect about 48 hours before your first response.  We totally love you, but we also have loved ones, pets, and stuffed animals we like to spend time with when we’re not making free software.  2. Did you check out our Common Issues? https://community.brave.com/c/common-issues Clicking on that Lion in the upper-right corner and fiddling with settings is going to solve like 99% of your problems.  3. Keep It Tidy Rather than posting “+1” or “Agreed”, use the Like button. Rather than taking an existing topic in a radically different direction, use Reply as a Linked Topic.  4. On the Internet nobody knows if you are being funny/sarcastic/rude. Smileys go a long way, but it’s better if you stick to the facts an...",
+    "forks_count": 0,
+    "html_url": "https://github.com/SidownLit/I-already-send-DM-To-Steeven-about-creator-payment",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "I-already-send-DM-To-Steeven-about-creator-payment",
+    "repo_owner": "SidownLit",
+    "repotime": "2021-11-19, 05:14:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-11-18",
+    "date_updated": "2021-11-18",
+    "description": "Python script send Windows DLL PostreSQL UDF  SMB RCE ",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xm4ud/PostgreSQL_Windows_sendUDF_SMB",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "PostgreSQL_Windows_sendUDF_SMB",
+    "repo_owner": "0xm4ud",
+    "repotime": "2021-11-18, 16:06:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-11-01",
+    "date_updated": "2021-11-17",
+    "description": "Cross-site scripting is a type of web application security vulnerability typically found in web applications. XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users.It can be easily use for phishing attack.",
+    "forks_count": 0,
+    "html_url": "https://github.com/akashranjanpatel/Payload.XSS",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "Payload.XSS",
+    "repo_owner": "akashranjanpatel",
+    "repotime": "2021-11-17, 01:24:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-16",
+    "date_updated": "2021-11-11",
+    "description": "Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE)",
+    "forks_count": 95,
+    "html_url": "https://github.com/ly4k/CallbackHell",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CallbackHell",
+    "repo_owner": "ly4k",
+    "repotime": "2021-11-11, 18:09:56",
+    "stargazers_count": 470,
+    "watchers_count": 470
+}
+{
+    "commits_count": 6,
+    "date_started": "2016-01-27",
+    "date_updated": "2021-11-10",
+    "description": "A simple web app with a XXE vulnerability.",
+    "forks_count": 64,
+    "html_url": "https://github.com/jbarone/xxelab",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "xxelab",
+    "repo_owner": "jbarone",
+    "repotime": "2021-11-10, 06:01:04",
+    "stargazers_count": 228,
+    "watchers_count": 228
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-11-09",
+    "date_updated": "2021-11-09",
+    "description": "                    GNU GENERAL PUBLIC LICENSE                        Version 3, 29 June 2007   Copyright (C) 2007 Free Software Foundation, Inc. &amp;lt;https://fsf.org/&amp;gt;  Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.                              Preamble    The GNU General Public License is a free, copyleft license for software and other kinds of works.    The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.  We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors.  You can apply it to your programs, too.    When we speak of free software, we are refer...",
+    "forks_count": 2,
+    "html_url": "https://github.com/Mr033/-1123",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "-1123",
+    "repo_owner": "Mr033",
+    "repotime": "2021-11-09, 07:05:11",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 16,
+    "date_started": "2021-04-26",
+    "date_updated": "2021-11-08",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/0wa1s/BoF_MemLeak_ASLR_DEP_Bypass",
+    "keywords": [
+        "dep bypass",
+        "aslr bypass"
+    ],
+    "language": "C++",
+    "repo_name": "BoF_MemLeak_ASLR_DEP_Bypass",
+    "repo_owner": "0wa1s",
+    "repotime": "2021-11-08, 19:48:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-10-25",
+    "date_updated": "2021-11-05",
+    "description": "LPE exploit for a UAF in Windows (CVE-2021-40449).",
+    "forks_count": 15,
+    "html_url": "https://github.com/hakivvi/CVE-2021-40449",
+    "keywords": [
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows uaf exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Windows uaf exploit",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-40449",
+    "repo_owner": "hakivvi",
+    "repotime": "2021-11-05, 07:54:09",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-10-27",
+    "date_updated": "2021-11-02",
+    "description": "ASLR bypass without infoleak",
+    "forks_count": 17,
+    "html_url": "https://github.com/nick0ve/how-to-bypass-aslr-on-linux-x86_64",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "how-to-bypass-aslr-on-linux-x86_64",
+    "repo_owner": "nick0ve",
+    "repotime": "2021-11-02, 20:56:24",
+    "stargazers_count": 161,
+    "watchers_count": 161
+}

@@ -1,0 +1,140 @@
+{
+    "commits_count": 5,
+    "date_started": "2021-12-20",
+    "date_updated": "2021-12-27",
+    "description": "Proof of Concept for CVE-2021-43891",
+    "forks_count": 1,
+    "html_url": "https://github.com/parsiya/code-wsl-rce",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "code-wsl-rce",
+    "repo_owner": "parsiya",
+    "repotime": "2021-12-27, 09:00:25",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-12-22",
+    "date_updated": "2021-12-23",
+    "description": "A simple buffer overflow vulnerability in a babykernel.ko driver. The exploit is written in a way to bypass SMEP protection and the technique used is ret2usr.",
+    "forks_count": 0,
+    "html_url": "https://github.com/badb33f/Babykernel-ctf-ret2usr",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": null,
+    "repo_name": "Babykernel-ctf-ret2usr",
+    "repo_owner": "badb33f",
+    "repotime": "2021-12-23, 03:58:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-08-12",
+    "date_updated": "2021-12-22",
+    "description": "Usefull escalation of privilege Windows",
+    "forks_count": 0,
+    "html_url": "https://github.com/0x727/usefull-elevation-of-privilege",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "usefull-elevation-of-privilege",
+    "repo_owner": "0x727",
+    "repotime": "2021-12-22, 17:23:31",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-11-22",
+    "date_updated": "2021-12-21",
+    "description": "Пример уязвимости SSRF (Server-side request forgery)",
+    "forks_count": 0,
+    "html_url": "https://github.com/NikitaPetaichuk/web_security_ssrf_example",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "JavaScript",
+    "repo_name": "web_security_ssrf_example",
+    "repo_owner": "NikitaPetaichuk",
+    "repotime": "2021-12-21, 02:07:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-12",
+    "description": "Deploys an agent to fix  CVE-2021-44228 (Log4j RCE vulnerability) in a running JVM process",
+    "forks_count": 13,
+    "html_url": "https://github.com/simonis/Log4jPatch",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "Log4jPatch",
+    "repo_owner": "simonis",
+    "repotime": "2021-12-12, 11:32:57",
+    "stargazers_count": 108,
+    "watchers_count": 108
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-11",
+    "description": "log4j2 remote code execution or IP leakage exploit (with examples)",
+    "forks_count": 26,
+    "html_url": "https://github.com/ilsubyeega/log4j2-rce-exploit",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "rce exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "log4j2-rce-exploit",
+    "repo_owner": "ilsubyeega",
+    "repotime": "2021-12-11, 12:20:01",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-10-26",
+    "date_updated": "2021-12-04",
+    "description": "A reverse shell is a shell session established on a connection that is initiated from a remote machine, not from the local host. Attackers who successfully exploit a remote command execution vulnerability can use a reverse shell to obtain an interactive shell session on the target machine and continue their execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/punyaslokdutta/Reverse-Shell-scripts",
+    "keywords": [
+        "session vulnerability",
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Reverse-Shell-scripts",
+    "repo_owner": "punyaslokdutta",
+    "repotime": "2021-12-04, 23:39:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3311,
+    "date_started": "2021-11-28",
+    "date_updated": "2021-12-03",
+    "description": "Fork of amazon-ssm-agent that can run as any user in parallel with the official service.",
+    "forks_count": 2,
+    "html_url": "https://github.com/RhinoSecurityLabs/amazon-ssm-agent",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Go",
+    "repo_name": "amazon-ssm-agent",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2021-12-03, 10:18:49",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}

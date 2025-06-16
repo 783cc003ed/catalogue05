@@ -1,0 +1,68 @@
+{
+    "commits_count": 73,
+    "date_started": "2015-02-26",
+    "date_updated": "2017-01-11",
+    "description": "Handles authentication and login functionality via social login for your docpad application. Protects pages from unauthenticated users. Uses the node module social-login (https://github.com/26medias/social-login) to standardise the configuration interface to the various login strategies and handle routing and redirection.",
+    "forks_count": 1,
+    "html_url": "https://github.com/SteveMcArthur/docpad-plugin-authentication",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "docpad-plugin-authentication",
+    "repo_owner": "SteveMcArthur",
+    "repotime": "2017-01-11, 14:06:14",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 3,
+    "date_started": "2017-01-04",
+    "date_updated": "2017-01-10",
+    "description": "A tool for communicating with FingerTec access control devices, as well as other ZKTeco based devices",
+    "forks_count": 12,
+    "html_url": "https://github.com/FSecureLABS/fingertec-tool",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "fingertec-tool",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2017-01-10, 15:07:34",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 8,
+    "date_started": "2017-01-09",
+    "date_updated": "2017-01-09",
+    "description": "HackSys Extreme Vulnerable Driver - StackOverflow with Stack Cookie Bypass Exploit",
+    "forks_count": 10,
+    "html_url": "https://github.com/Cn33liz/HSEVD-StackCookieBypass",
+    "keywords": [
+        "stack cookies bypass"
+    ],
+    "language": "C",
+    "repo_name": "HSEVD-StackCookieBypass",
+    "repo_owner": "Cn33liz",
+    "repotime": "2017-01-09, 23:04:19",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 8,
+    "date_started": "2016-12-08",
+    "date_updated": "2017-01-04",
+    "description": "A chef cookbook which can be used to quickly deploy a high interaction honeypot, using the sysdig and falco tools",
+    "forks_count": 13,
+    "html_url": "https://github.com/FSecureLABS/honeypot_recipes",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Ruby",
+    "repo_name": "honeypot_recipes",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2017-01-04, 09:54:37",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}

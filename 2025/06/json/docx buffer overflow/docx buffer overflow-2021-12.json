@@ -1,0 +1,89 @@
+{
+    "commits_count": 2,
+    "date_started": "2021-12-22",
+    "date_updated": "2021-12-23",
+    "description": "A simple buffer overflow vulnerability in a babykernel.ko driver. The exploit is written in a way to bypass SMEP protection and the technique used is ret2usr.",
+    "forks_count": 0,
+    "html_url": "https://github.com/badb33f/Babykernel-ctf-ret2usr",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": null,
+    "repo_name": "Babykernel-ctf-ret2usr",
+    "repo_owner": "badb33f",
+    "repotime": "2021-12-23, 03:58:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-11-22",
+    "date_updated": "2021-12-21",
+    "description": "Пример уязвимости SSRF (Server-side request forgery)",
+    "forks_count": 0,
+    "html_url": "https://github.com/NikitaPetaichuk/web_security_ssrf_example",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "JavaScript",
+    "repo_name": "web_security_ssrf_example",
+    "repo_owner": "NikitaPetaichuk",
+    "repotime": "2021-12-21, 02:07:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-12-13",
+    "date_updated": "2021-12-15",
+    "description": "Log4Shell RCE Exploit - fully independent exploit does not require any 3rd party binaries.",
+    "forks_count": 64,
+    "html_url": "https://github.com/cyberstruggle/L4sh",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "L4sh",
+    "repo_owner": "cyberstruggle",
+    "repotime": "2021-12-15, 12:51:51",
+    "stargazers_count": 257,
+    "watchers_count": 257
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-11",
+    "description": "log4j2 remote code execution or IP leakage exploit (with examples)",
+    "forks_count": 26,
+    "html_url": "https://github.com/ilsubyeega/log4j2-rce-exploit",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "rce exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "log4j2-rce-exploit",
+    "repo_owner": "ilsubyeega",
+    "repotime": "2021-12-11, 12:20:01",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 3311,
+    "date_started": "2021-11-28",
+    "date_updated": "2021-12-03",
+    "description": "Fork of amazon-ssm-agent that can run as any user in parallel with the official service.",
+    "forks_count": 2,
+    "html_url": "https://github.com/RhinoSecurityLabs/amazon-ssm-agent",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Go",
+    "repo_name": "amazon-ssm-agent",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2021-12-03, 10:18:49",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}

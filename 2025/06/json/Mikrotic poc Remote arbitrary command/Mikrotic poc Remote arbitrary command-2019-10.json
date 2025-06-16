@@ -1,0 +1,91 @@
+{
+    "commits_count": 2,
+    "date_started": "2019-10-29",
+    "date_updated": "2019-10-29",
+    "description": "✓ Using scapy and nmap tools, find out ip/port, ARP SPOOFING &amp;amp; TCP SESSION HIJACKING ✓ Using snort tool provided Intrusion Detection System (IDS). Also, how to bypass this security.",
+    "forks_count": 1,
+    "html_url": "https://github.com/chhaiyashrey/Attack-on-MODBUS-communication-to-get-Root-access-of-victim-PC-Provide-possible-solution-with-snort",
+    "keywords": [
+        "spoofing session",
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "Attack-on-MODBUS-communication-to-get-Root-access-of-victim-PC-Provide-possible-solution-with-snort",
+    "repo_owner": "chhaiyashrey",
+    "repotime": "2019-10-29, 14:26:36",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 18,
+    "date_started": "2019-09-08",
+    "date_updated": "2019-10-27",
+    "description": "Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a browser. It allow to use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser.",
+    "forks_count": 0,
+    "html_url": "https://github.com/khachornchit/Node.js-Web-App",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Node.js-Web-App",
+    "repo_owner": "khachornchit",
+    "repotime": "2019-10-27, 04:46:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 109,
+    "date_started": "2016-12-26",
+    "date_updated": "2019-10-13",
+    "description": "PHPMailer &amp;lt; 5.2.18 Remote Code Execution exploit and vulnerable container",
+    "forks_count": 146,
+    "html_url": "https://github.com/opsxcq/exploit-CVE-2016-10033",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "exploit-CVE-2016-10033",
+    "repo_owner": "opsxcq",
+    "repotime": "2019-10-13, 14:23:02",
+    "stargazers_count": 404,
+    "watchers_count": 404
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-10-06",
+    "date_updated": "2019-10-07",
+    "description": "Hosting proof of concept exploit code of the remote code execution vulnerabilities in the IcedTea-Web Java webstart implementation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/irsl/icedtea-web-vulnerabilities",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "icedtea-web-vulnerabilities",
+    "repo_owner": "irsl",
+    "repotime": "2019-10-07, 09:00:52",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 9,
+    "date_started": "2018-10-29",
+    "date_updated": "2019-10-01",
+    "description": "A small game engine built on the Windows Command Prompt.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rhysboer/RCEngine",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C++",
+    "repo_name": "RCEngine",
+    "repo_owner": "rhysboer",
+    "repotime": "2019-10-01, 16:45:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

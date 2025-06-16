@@ -1,0 +1,26 @@
+{
+    "commits_count": 10,
+    "date_started": "2021-10-25",
+    "date_updated": "2021-11-05",
+    "description": "LPE exploit for a UAF in Windows (CVE-2021-40449).",
+    "forks_count": 15,
+    "html_url": "https://github.com/hakivvi/CVE-2021-40449",
+    "keywords": [
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows uaf exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Windows uaf exploit",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-40449",
+    "repo_owner": "hakivvi",
+    "repotime": "2021-11-05, 07:54:09",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}

@@ -1,0 +1,51 @@
+{
+    "commits_count": 2,
+    "date_started": "2025-03-25",
+    "date_updated": "2025-03-25",
+    "description": "RCE ofuscada para sistema Operacional Windows. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/sidiyo/Windows-RCE-Obfuscated",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "PHP",
+    "repo_name": "Windows-RCE-Obfuscated",
+    "repo_owner": "sidiyo",
+    "repotime": "2025-03-25, 10:15:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-03-19",
+    "date_updated": "2025-03-19",
+    "description": "Windows File Explorer Spoofing Vulnerability (CVE-2025-24071)",
+    "forks_count": 0,
+    "html_url": "https://github.com/aleongx/CVE-2025-24071",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-24071",
+    "repo_owner": "aleongx",
+    "repotime": "2025-03-19, 12:56:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 110,
+    "date_started": "2021-02-02",
+    "date_updated": "2025-03-17",
+    "description": "Utility for downloading and mounting EBS snapshots using the EBS Direct API's",
+    "forks_count": 9,
+    "html_url": "https://github.com/RhinoSecurityLabs/dsnap",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "dsnap",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2025-03-17, 11:06:23",
+    "stargazers_count": 84,
+    "watchers_count": 84
+}

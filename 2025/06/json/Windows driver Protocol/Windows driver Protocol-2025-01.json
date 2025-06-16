@@ -1,0 +1,35 @@
+{
+    "commits_count": 5,
+    "date_started": "2025-01-24",
+    "date_updated": "2025-01-26",
+    "description": "This repository contains C++ code to load custom drivers by exploiting a vulnerable driver in Windows. This project demonstrates a technique to bypass DSE (Driver Signature Enforcement) and PatchGuard using a vulnerable driver, and to load a custom driver. It serves as a proof of concept for security research purposes.",
+    "forks_count": 3,
+    "html_url": "https://github.com/Leksa667/Vulnerable-Driver-Manual-Mapper",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Vulnerable-Driver-Manual-Mapper",
+    "repo_owner": "Leksa667",
+    "repotime": "2025-01-26, 01:24:04",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-05-09",
+    "date_updated": "2025-01-18",
+    "description": "This is a simple repository of the tools that I use for Windows privilege escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jsimsynack/windows-privesc-tools",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Win escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "windows-privesc-tools",
+    "repo_owner": "Jsimsynack",
+    "repotime": "2025-01-18, 21:20:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

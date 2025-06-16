@@ -1,0 +1,145 @@
+{
+    "commits_count": 19,
+    "date_started": "2020-07-27",
+    "date_updated": "2020-07-29",
+    "description": "Code samples discussed during DEFCON Red Team Village Talk -- &amp;quot;Yippee-Ki-Yay MFA'er - Bypassing Multi-Factor Authentication with Real-Time Replay Session Instantiation Attacks&amp;quot; by Hutch",
+    "forks_count": 2,
+    "html_url": "https://github.com/pan0pt1c0n/Yippee-Ki-Yay-MFA-er",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Yippee-Ki-Yay-MFA-er",
+    "repo_owner": "pan0pt1c0n",
+    "repotime": "2020-07-29, 16:07:35",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-07-16",
+    "date_updated": "2020-07-16",
+    "description": "From 0 to Remote Code Execution - exploit development files for Online Course Registration Web Application RCE",
+    "forks_count": 2,
+    "html_url": "https://github.com/boku7/onlineCourseReg-RCE",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "onlineCourseReg-RCE",
+    "repo_owner": "boku7",
+    "repotime": "2020-07-16, 10:21:37",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-07-13",
+    "date_updated": "2020-07-13",
+    "description": "quick and dirty PHP RCE proof of concept",
+    "forks_count": 1,
+    "html_url": "https://github.com/corifeo/CVE-2019-11043",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-11043",
+    "repo_owner": "corifeo",
+    "repotime": "2020-07-13, 17:33:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-07-07",
+    "date_updated": "2020-07-07",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/arthurmgo/poc_memory_leak_fractal",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "C#",
+    "repo_name": "poc_memory_leak_fractal",
+    "repo_owner": "arthurmgo",
+    "repotime": "2020-07-07, 10:15:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2017-03-20",
+    "date_updated": "2020-07-06",
+    "description": "The DGS-1510 Websmart switch series firmware has been found to have security vulneratiblies. The vulnerabilities include unauthenticated command bypass and unauthenticated information disclosure.",
+    "forks_count": 1,
+    "html_url": "https://github.com/varangamin/CVE-2017-6206",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-6206",
+    "repo_owner": "varangamin",
+    "repotime": "2020-07-06, 16:58:29",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-06-30",
+    "date_updated": "2020-07-06",
+    "description": "A PoC of a privilege escalation vulnerability in the Realtek rtkio64 Windows driver.",
+    "forks_count": 1,
+    "html_url": "https://github.com/blogresponder/Realtek-rtkio64-Windows-driver-privilege-escalation",
+    "keywords": [
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges poc",
+        "Win escalation of privileges",
+        "escalation of privileges vulnerability",
+        "Win escalation of privileges poc",
+        "Windows escalation of privileges",
+        "Win escalation of privileges vulnerability",
+        "Windows escalation of privileges poc"
+    ],
+    "language": "C",
+    "repo_name": "Realtek-rtkio64-Windows-driver-privilege-escalation",
+    "repo_owner": "blogresponder",
+    "repotime": "2020-07-06, 10:34:10",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-10-24",
+    "date_updated": "2020-07-06",
+    "description": "PHP-FPM Remote Code Execution Vulnerability (CVE-2019-11043) POC in Python",
+    "forks_count": 4,
+    "html_url": "https://github.com/AleWong/PHP-FPM-Remote-Code-Execution-Vulnerability-CVE-2019-11043-",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "PHP-FPM-Remote-Code-Execution-Vulnerability-CVE-2019-11043-",
+    "repo_owner": "AleWong",
+    "repotime": "2020-07-06, 10:47:11",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-06-02",
+    "date_updated": "2020-07-02",
+    "description": "<no description>",
+    "forks_count": 349,
+    "html_url": "https://github.com/chompie1337/SMBGhost_RCE_PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "SMBGhost_RCE_PoC",
+    "repo_owner": "chompie1337",
+    "repotime": "2020-07-02, 13:49:21",
+    "stargazers_count": 1344,
+    "watchers_count": 1344
+}

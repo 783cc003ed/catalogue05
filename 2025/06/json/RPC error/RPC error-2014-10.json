@@ -1,0 +1,69 @@
+{
+    "commits_count": 232,
+    "date_started": "2013-02-08",
+    "date_updated": "2014-10-24",
+    "description": "Static heap reachability analysis for Java bytecode and Android memory leak finder.",
+    "forks_count": 15,
+    "html_url": "https://github.com/cuplv/thresher",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Java",
+    "repo_name": "thresher",
+    "repo_owner": "cuplv",
+    "repotime": "2014-10-24, 21:22:19",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 1259,
+    "date_started": "2012-09-02",
+    "date_updated": "2014-10-21",
+    "description": "smali patcher for Android code injection",
+    "forks_count": 42,
+    "html_url": "https://github.com/mateor/auto-patcher",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Shell",
+    "repo_name": "auto-patcher",
+    "repo_owner": "mateor",
+    "repotime": "2014-10-21, 00:31:13",
+    "stargazers_count": 75,
+    "watchers_count": 75
+}
+{
+    "commits_count": 4,
+    "date_started": "2014-05-15",
+    "date_updated": "2014-10-14",
+    "description": "A tool to exploit .NET DCOM for EoP and RCE. Is fixed in latest versions of the .NET.",
+    "forks_count": 31,
+    "html_url": "https://github.com/tyranid/ExploitDotNetDCOM",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "ExploitDotNetDCOM",
+    "repo_owner": "tyranid",
+    "repotime": "2014-10-14, 23:44:26",
+    "stargazers_count": 91,
+    "watchers_count": 91
+}
+{
+    "commits_count": 1,
+    "date_started": "2014-10-02",
+    "date_updated": "2014-10-02",
+    "description": "Helo people! first of all I'm new in laravel :p. Well, I'm getting this error &amp;quot;Symfony \\ Component \\ HttpKernel \\ Exception \\ NotFoundHttpException&amp;quot; I have a login view with a form, I validate the form with ajax, no problem there. The thing is when I try to return a view once I've successfuly logged in: if ($validation-&amp;gt;fails()){ return Response::json(array( 'success' =&amp;gt; false, 'errors' =&amp;gt; $validation-&amp;gt;getMessageBag()-&amp;gt;toArray() )); }else if(Auth::attempt($loginData)){ $usuario=Usuario::find(Input::get('rut')); return Response::view('logged',array('nombre' =&amp;gt; $usuario-&amp;gt;primer_nombre));//Here is the problem I guess. }else{ return Response::json(array( 'exists' =&amp;gt; false, 'message' =&amp;gt; 'El usuario no existe o la contraseña es inválida.' )); } I get that 404. Idk what's wrong :/ thanks in advance.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ovaj/Trouble-with-laravel-",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": null,
+    "repo_name": "Trouble-with-laravel-",
+    "repo_owner": "ovaj",
+    "repotime": "2014-10-02, 18:52:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -1,0 +1,70 @@
+{
+    "commits_count": 5,
+    "date_started": "2020-02-27",
+    "date_updated": "2020-02-29",
+    "description": "Linux kernel XFRM UAF poc (3.x - 5.x kernels)",
+    "forks_count": 37,
+    "html_url": "https://github.com/duasynt/xfrm_poc",
+    "keywords": [
+        "uaf poc"
+    ],
+    "language": null,
+    "repo_name": "xfrm_poc",
+    "repo_owner": "duasynt",
+    "repotime": "2020-02-29, 05:06:36",
+    "stargazers_count": 134,
+    "watchers_count": 134
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-02-26",
+    "date_updated": "2020-02-26",
+    "description": " It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files. In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:   Data Modeling   Data Engineering   Data Analysis    Before You Begin   Create a new folder in your homework repository called sql-challenge.   Inside your local git repository, create a directory for the SQL challenge. Use a folder name to correspond to the challenge: EmployeeSQL.   Add your files to this folder.   Push the above changes to GitHub.    Instructions  Data Modeling Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.  Data Engin...",
+    "forks_count": 1,
+    "html_url": "https://github.com/presidentmanny/SQL-Challenge-",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": null,
+    "repo_name": "SQL-Challenge-",
+    "repo_owner": "presidentmanny",
+    "repotime": "2020-02-26, 18:24:01",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-02-22",
+    "date_updated": "2020-02-22",
+    "description": "The official exploit for Cacti v1.2.8 Remote Code Execution CVE-2020-8813",
+    "forks_count": 20,
+    "html_url": "https://github.com/mhaskar/CVE-2020-8813",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-8813",
+    "repo_owner": "mhaskar",
+    "repotime": "2020-02-22, 18:33:31",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-08-03",
+    "date_updated": "2020-02-10",
+    "description": "Here I have implemented DHCP Spoofing attack for our Network security course sessional.",
+    "forks_count": 0,
+    "html_url": "https://github.com/shamiul94/DHCP-Spoofing-Attack-Network-Security",
+    "keywords": [
+        "spoofing session",
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "DHCP-Spoofing-Attack-Network-Security",
+    "repo_owner": "shamiul94",
+    "repotime": "2020-02-10, 09:14:15",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

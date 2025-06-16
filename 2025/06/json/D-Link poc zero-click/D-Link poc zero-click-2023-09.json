@@ -1,0 +1,233 @@
+{
+    "commits_count": 25,
+    "date_started": "2023-09-19",
+    "date_updated": "2023-09-27",
+    "description": "A repository containing zero-day vulnerabilities and proof-of-concepts (PoCs) of undisclosed CVEs discovered during penetration testing or my security research",
+    "forks_count": 8,
+    "html_url": "https://github.com/j4k0m/godkiller",
+    "keywords": [
+        "zero-day proof of concept",
+        "zero-day vulnerability",
+        "zero-day poc"
+    ],
+    "language": null,
+    "repo_name": "godkiller",
+    "repo_owner": "j4k0m",
+    "repotime": "2023-09-27, 18:45:00",
+    "stargazers_count": 78,
+    "watchers_count": 78
+}
+{
+    "commits_count": 19,
+    "date_started": "2022-03-13",
+    "date_updated": "2023-09-25",
+    "description": "Automated privilege escalation of the world's most popular Docker images.",
+    "forks_count": 6,
+    "html_url": "https://github.com/trickest/containers",
+    "keywords": [
+        "escalation of privileges poc",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "containers",
+    "repo_owner": "trickest",
+    "repotime": "2023-09-25, 15:39:20",
+    "stargazers_count": 66,
+    "watchers_count": 66
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-09-23",
+    "date_updated": "2023-09-23",
+    "description": "TotalCMS is affected by Arbitrary File Upload - XSS vulnerability which allows Cross-Site Scriting (XSS) Stored and also stealing session cookies",
+    "forks_count": 0,
+    "html_url": "https://github.com/sromanhu/TotalCMS-Arbitrary_File-Upload--XSS_Steal_Cookies---TotalDepot",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "TotalCMS-Arbitrary_File-Upload--XSS_Steal_Cookies---TotalDepot",
+    "repo_owner": "sromanhu",
+    "repotime": "2023-09-23, 04:34:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-09-21",
+    "date_updated": "2023-09-21",
+    "description": "Proof-of-Concept (POC) of CVE-2023-38831 Zero-Day vulnerability in WinRAR",
+    "forks_count": 1,
+    "html_url": "https://github.com/malvika-thakur/CVE-2023-38831",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day proof of concept",
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831",
+    "repo_owner": "malvika-thakur",
+    "repotime": "2023-09-21, 15:00:59",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-08-13",
+    "date_updated": "2023-09-19",
+    "description": "IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463)",
+    "forks_count": 17,
+    "html_url": "https://github.com/Ibonok/CVE-2020-4463",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-4463",
+    "repo_owner": "Ibonok",
+    "repotime": "2023-09-19, 12:38:28",
+    "stargazers_count": 53,
+    "watchers_count": 53
+}
+{
+    "commits_count": 378,
+    "date_started": "2022-04-07",
+    "date_updated": "2023-09-12",
+    "description": "各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新",
+    "forks_count": 857,
+    "html_url": "https://github.com/helloexp/0day",
+    "keywords": [
+        "0day exploit",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day",
+    "repo_owner": "helloexp",
+    "repotime": "2023-09-12, 08:57:05",
+    "stargazers_count": 2173,
+    "watchers_count": 2173
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-09-11",
+    "date_updated": "2023-09-12",
+    "description": "Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php",
+    "forks_count": 0,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-4238-PoC",
+    "keywords": [
+        "0day poc",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-4238-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-12, 03:04:56",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-09-10",
+    "date_updated": "2023-09-10",
+    "description": "Mass Exploit - CVE-2023-1698 &amp;lt;  Unauthenticated Remote Command Execution",
+    "forks_count": 3,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-1698-PoC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-1698-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-10, 04:36:35",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-09-05",
+    "date_updated": "2023-09-05",
+    "description": "EDUCATIONAL PURPOSES ONLY! Linux/x64 reverse TCP shell exploit via ELF memory processing",
+    "forks_count": 0,
+    "html_url": "https://github.com/Qyfashae/memfd_create_2023_Exploit",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "memfd_create_2023_Exploit",
+    "repo_owner": "Qyfashae",
+    "repotime": "2023-09-05, 14:33:37",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-09-05",
+    "date_updated": "2023-09-05",
+    "description": "Mass Exploit - CVE-2023-34747 - Ujcms - Arbitrary File Upload",
+    "forks_count": 0,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-34747-PoC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-34747-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-05, 07:39:19",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-09-05",
+    "date_updated": "2023-09-05",
+    "description": "Mass exploit - CVE-2023-41538 &amp;lt; phpjabbers PHP Forum &amp;lt; Cross Site Scripting (XSS)",
+    "forks_count": 0,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-41538-PoC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-41538-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-05, 07:32:35",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 587,
+    "date_started": "2015-03-12",
+    "date_updated": "2023-09-04",
+    "description": "㊙️ AntiXSS | Protection against Cross-site scripting (XSS) via PHP",
+    "forks_count": 106,
+    "html_url": "https://github.com/voku/anti-xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "anti-xss",
+    "repo_owner": "voku",
+    "repotime": "2023-09-04, 17:36:40",
+    "stargazers_count": 692,
+    "watchers_count": 692
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-08-30",
+    "date_updated": "2023-09-01",
+    "description": "Proof-of-Concept for CVE-2023-38831 Zero-Day vulnerability in WinRAR",
+    "forks_count": 0,
+    "html_url": "https://github.com/z3r0sw0rd/CVE-2023-38831-PoC",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day poc",
+        "zero-day proof of concept",
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831-PoC",
+    "repo_owner": "z3r0sw0rd",
+    "repotime": "2023-09-01, 15:37:20",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}

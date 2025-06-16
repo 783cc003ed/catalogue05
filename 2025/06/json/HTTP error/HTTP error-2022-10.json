@@ -1,0 +1,260 @@
+{
+    "commits_count": 9,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-10-31",
+    "description": "A project intended for the Coventry University Talent Showcase event where we hack into IoT (Internet of Things) e.g. the whiteboard. We managed to get full RCE without admintstrator priveladge for the kramer Go (debain) and the same for the windows version but pre-exisitng user needed with password.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ballo-02/Via-Kramer-Whiteboard-",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "Via-Kramer-Whiteboard-",
+    "repo_owner": "Ballo-02",
+    "repotime": "2022-10-31, 10:47:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-01-02",
+    "date_updated": "2022-10-29",
+    "description": "Swift code to programmatically perform dylib injection",
+    "forks_count": 9,
+    "html_url": "https://github.com/cedowens/Inject_Dylib",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "Inject_Dylib",
+    "repo_owner": "cedowens",
+    "repotime": "2022-10-29, 16:13:52",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 14,
+    "date_started": "2018-10-25",
+    "date_updated": "2022-10-27",
+    "description": "A tool geared towards pentesting APIs using OpenAPI definitions.",
+    "forks_count": 41,
+    "html_url": "https://github.com/RhinoSecurityLabs/Swagger-EZ",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Swagger-EZ",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2022-10-27, 08:33:37",
+    "stargazers_count": 176,
+    "watchers_count": 176
+}
+{
+    "commits_count": 34,
+    "date_started": "2021-05-07",
+    "date_updated": "2022-10-27",
+    "description": "Advanced phishing tool:boom: used for session &amp;amp; credential grabbing and bypassing 2FA using man-in-the-middle attack :skull_and_crossbones: with standalone reverse proxy server.",
+    "forks_count": 26,
+    "html_url": "https://github.com/cipheras/cipherginx",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "cipherginx",
+    "repo_owner": "cipheras",
+    "repotime": "2022-10-27, 14:10:34",
+    "stargazers_count": 85,
+    "watchers_count": 85
+}
+{
+    "commits_count": 29,
+    "date_started": "2021-10-15",
+    "date_updated": "2022-10-26",
+    "description": "The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49.",
+    "forks_count": 2,
+    "html_url": "https://github.com/LudovicPatho/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "LudovicPatho",
+    "repotime": "2022-10-26, 20:01:44",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-10-26",
+    "date_updated": "2022-10-25",
+    "description": "Roblox Studio Remote Code Execution (RCE) Vulnerability",
+    "forks_count": 5,
+    "html_url": "https://github.com/strawbberrys/0x1D",
+    "keywords": [
+        "rce vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "0x1D",
+    "repo_owner": "strawbberrys",
+    "repotime": "2022-10-25, 19:19:07",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-24",
+    "date_updated": "2022-10-24",
+    "description": "Performed RCE through LFI and log poisoning against vulnerable web servers and performed privilege escalation by manipulating process UIDs of binaries with SETUID capabilities.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Meowmycks/OSCPprep-Durian",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "OSCPprep-Durian",
+    "repo_owner": "Meowmycks",
+    "repotime": "2022-10-24, 21:20:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-10-20",
+    "date_updated": "2022-10-20",
+    "description": "the metasploit script(POC) about CVE-2022-41040. Microsoft Exchange are vulnerable to a server-side request forgery (SSRF) attack. An authenticated attacker can use the vulnerability to elevate privileges.",
+    "forks_count": 15,
+    "html_url": "https://github.com/TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-41040-metasploit-ProxyNotShell",
+    "repo_owner": "TaroballzChen",
+    "repotime": "2022-10-20, 14:36:42",
+    "stargazers_count": 34,
+    "watchers_count": 34
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-10-19",
+    "date_updated": "2022-10-19",
+    "description": "An Evil OIDC Server",
+    "forks_count": 5,
+    "html_url": "https://github.com/doyensec/oidc-ssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "oidc-ssrf",
+    "repo_owner": "doyensec",
+    "repotime": "2022-10-19, 17:25:50",
+    "stargazers_count": 53,
+    "watchers_count": 53
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-12-30",
+    "date_updated": "2022-10-13",
+    "description": "Jan 3, 2022 - lecture on code coverage, unit tests, and dependency injection",
+    "forks_count": 87,
+    "html_url": "https://github.com/oregon-state-innovation-lab/cs561-swift",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "cs561-swift",
+    "repo_owner": "oregon-state-innovation-lab",
+    "repotime": "2022-10-13, 17:03:28",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-06",
+    "date_updated": "2022-10-09",
+    "description": "Cobalt Strike Beacon Object File for bypassing UAC via the CMSTPLUA COM interface.",
+    "forks_count": 27,
+    "html_url": "https://github.com/tijme/cmstplua-uac-bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "cmstplua-uac-bypass",
+    "repo_owner": "tijme",
+    "repotime": "2022-10-09, 17:14:03",
+    "stargazers_count": 185,
+    "watchers_count": 185
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-10-03",
+    "date_updated": "2022-10-04",
+    "description": "Local File Inclusion hunting tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/winteri3coming/Luffy",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Luffy",
+    "repo_owner": "winteri3coming",
+    "repotime": "2022-10-04, 22:26:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-10-04",
+    "date_updated": "2022-10-04",
+    "description": "Zero-day vulnerabilities affecting Microsoft Exchange Server ",
+    "forks_count": 4,
+    "html_url": "https://github.com/NitinYadav00/Exploit-Microsoft-Exchange-Server-",
+    "keywords": [
+        "Microsoft zero-day exploit",
+        "Microsoft zero-day",
+        "zero-day vulnerability",
+        "Microsoft zero-day vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Exploit-Microsoft-Exchange-Server-",
+    "repo_owner": "NitinYadav00",
+    "repotime": "2022-10-04, 17:51:00",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-11-02",
+    "date_updated": "2022-10-03",
+    "description": "Path Traversal Attack",
+    "forks_count": 1,
+    "html_url": "https://github.com/HowProgrammingWorks/PathTraversal",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "JavaScript",
+    "repo_name": "PathTraversal",
+    "repo_owner": "HowProgrammingWorks",
+    "repotime": "2022-10-03, 23:07:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-09-30",
+    "date_updated": "2022-10-01",
+    "description": "Zeroday Microsoft Exchange Server checker (Virtual Patching checker)",
+    "forks_count": 17,
+    "html_url": "https://github.com/VNCERT-CC/0dayex-checker",
+    "keywords": [
+        "Microsoft 0day"
+    ],
+    "language": "Go",
+    "repo_name": "0dayex-checker",
+    "repo_owner": "VNCERT-CC",
+    "repotime": "2022-10-01, 09:47:07",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}

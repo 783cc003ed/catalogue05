@@ -1,0 +1,280 @@
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/adrien-aubert-drovio/vertx-statichandler-windows-traversal-path-vulnerability",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "vertx-statichandler-windows-traversal-path-vulnerability",
+    "repo_owner": "adrien-aubert-drovio",
+    "repotime": "2023-01-31, 10:33:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-27",
+    "date_updated": "2023-01-27",
+    "description": "Advantech WebAccess HMI Designer, Versions 2.1.9.31 and prior. Multiple heap-based buffer overflow vulnerabilities may be exploited by opening specially crafted project files that may overflow the heap, which may allow remote code execution, disclosure/modification of information, or cause the application to crash. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-16207",
+    "keywords": [
+        "remote code execution disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-16207",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-27, 22:40:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-01-17",
+    "date_updated": "2023-01-27",
+    "description": "Portable Exploit for VUPlayer 2.49 Stack Based Buffer Overflow Vulnerability, leveraging ROP chains to bypass DEP",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xWindyBug/VUPlayer-2.49-Exploit",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": null,
+    "repo_name": "VUPlayer-2.49-Exploit",
+    "repo_owner": "0xWindyBug",
+    "repotime": "2023-01-27, 21:03:03",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-19",
+    "description": "Improper input validation and bounds checking in SEV firmware may leak scratch buffer bytes leading to potential information disclosure. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-26404",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-26404",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 00:58:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-08-28",
+    "date_updated": "2023-01-19",
+    "description": "A path traversal in smbserver.py allows an attacker to read/write arbitrary files on the server.",
+    "forks_count": 0,
+    "html_url": "https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write",
+    "repo_owner": "p0dalirius",
+    "repotime": "2023-01-19, 00:05:55",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 170,
+    "date_started": "2017-12-13",
+    "date_updated": "2023-01-17",
+    "description": "bXSS is a utility which can be used by bug hunters and organizations to identify Blind Cross-Site Scripting.",
+    "forks_count": 65,
+    "html_url": "https://github.com/LewisArdern/bXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "bXSS",
+    "repo_owner": "LewisArdern",
+    "repotime": "2023-01-17, 16:45:07",
+    "stargazers_count": 539,
+    "watchers_count": 539
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-17",
+    "date_updated": "2023-01-18",
+    "description": "Integer overflow in the xt_alloc_table_info function in net/netfilter/x_tables.c in the Linux kernel through 4.5.2 on 32-bit platforms allows local users to gain privileges or cause a denial of service (heap memory corruption) via an IPT_SO_SET_REPLACE setsockopt call. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-3135",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-3135",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 00:40:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-17",
+    "date_updated": "2023-01-18",
+    "description": "Buffer overflow in net/ceph/auth_x.c in Ceph, as used in the Linux kernel before 3.16.3, allows remote attackers to cause a denial of service (memory corruption and panic) or possibly have unspecified other impact via a long unencrypted auth ticket. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2014-6416",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2014-6416",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 00:40:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 53,
+    "date_started": "2017-10-14",
+    "date_updated": "2023-01-12",
+    "description": "Linux ELF x32/x64 ASLR DEP/NX bypass exploit with stack-spraying",
+    "forks_count": 81,
+    "html_url": "https://github.com/cryptolok/ASLRay",
+    "keywords": [
+        "dep bypass",
+        "aslr bypass exploit",
+        "aslr bypass exploitation",
+        "aslr bypass"
+    ],
+    "language": "Shell",
+    "repo_name": "ASLRay",
+    "repo_owner": "cryptolok",
+    "repotime": "2023-01-12, 17:34:21",
+    "stargazers_count": 300,
+    "watchers_count": 300
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-10",
+    "date_updated": "2023-01-10",
+    "description": "Heap buffer overflow in libphonenumber in Google Chrome prior to 109.0.5414.74 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Low) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0138",
+    "keywords": [
+        "Chromium corruption overflow exploit",
+        "Chromium corruption overflow",
+        "Chrome corruption overflow",
+        "Chrome corruption overflow exploitation",
+        "Chromium corruption overflow exploitation",
+        "corruption overflow exploit",
+        "corruption overflow exploitation",
+        "Chrome corruption overflow exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0138",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-10, 22:59:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-10",
+    "date_updated": "2023-01-10",
+    "description": "Heap buffer overflow in Network Service in Google Chrome prior to 109.0.5414.74 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page and specific interactions. (Chromium security severity: High) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0129",
+    "keywords": [
+        "Chromium corruption overflow exploit",
+        "Chromium corruption overflow",
+        "Chrome corruption overflow",
+        "Chrome corruption overflow exploitation",
+        "Chromium corruption overflow exploitation",
+        "corruption overflow exploit",
+        "corruption overflow exploitation",
+        "Chrome corruption overflow exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0129",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-10, 22:59:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-10",
+    "date_updated": "2023-01-10",
+    "description": "Heap buffer overflow in Platform Apps in Google Chrome on Chrome OS prior to 109.0.5414.74 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0137",
+    "keywords": [
+        "Chromium corruption overflow exploit",
+        "Chromium corruption overflow",
+        "Chrome corruption overflow",
+        "Chrome corruption overflow exploitation",
+        "Chromium corruption overflow exploitation",
+        "corruption overflow exploit",
+        "corruption overflow exploitation",
+        "Chrome corruption overflow exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0137",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-10, 22:59:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-09",
+    "date_updated": "2023-01-09",
+    "description": "NVIDIA distributions of Linux contain a vulnerability in nvdla_emu_task_submit, where unvalidated input may allow a local attacker to cause stack-based buffer overflow in kernel code, which may lead to escalation of privileges, compromised integrity and confidentiality, and denial of service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42270",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42270",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-09, 22:43:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-01-04",
+    "description": "In gpu drm, there is a possible stack overflow due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07363501; Issue ID: ALPS07363501. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32646",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32646",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-04, 01:08:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-01-04",
+    "description": "In keyinstall, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07510064; Issue ID: ALPS07510064. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32636",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32636",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-04, 01:07:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

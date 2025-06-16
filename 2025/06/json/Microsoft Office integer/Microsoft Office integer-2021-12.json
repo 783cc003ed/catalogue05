@@ -1,0 +1,68 @@
+{
+    "commits_count": 13,
+    "date_started": "2020-03-14",
+    "date_updated": "2021-12-18",
+    "description": "Twitch downloader using cookies via Chrome session hijacking",
+    "forks_count": 0,
+    "html_url": "https://github.com/david-wm-sanders/twitchget",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "twitchget",
+    "repo_owner": "david-wm-sanders",
+    "repotime": "2021-12-18, 17:35:35",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-12",
+    "description": "Deploys an agent to fix  CVE-2021-44228 (Log4j RCE vulnerability) in a running JVM process",
+    "forks_count": 13,
+    "html_url": "https://github.com/simonis/Log4jPatch",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "Log4jPatch",
+    "repo_owner": "simonis",
+    "repotime": "2021-12-12, 11:32:57",
+    "stargazers_count": 108,
+    "watchers_count": 108
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-06-04",
+    "date_updated": "2021-12-12",
+    "description": "Demo code for post &amp;lt;Restrictions of JNDI Manipulation RCE &amp;amp; Bypass&amp;gt;",
+    "forks_count": 44,
+    "html_url": "https://github.com/kxcode/JNDI-Exploit-Bypass-Demo",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "JNDI-Exploit-Bypass-Demo",
+    "repo_owner": "kxcode",
+    "repotime": "2021-12-12, 11:29:21",
+    "stargazers_count": 261,
+    "watchers_count": 261
+}
+{
+    "commits_count": 3311,
+    "date_started": "2021-11-28",
+    "date_updated": "2021-12-03",
+    "description": "Fork of amazon-ssm-agent that can run as any user in parallel with the official service.",
+    "forks_count": 2,
+    "html_url": "https://github.com/RhinoSecurityLabs/amazon-ssm-agent",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Go",
+    "repo_name": "amazon-ssm-agent",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2021-12-03, 10:18:49",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}

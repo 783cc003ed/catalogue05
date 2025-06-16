@@ -1,0 +1,85 @@
+{
+    "commits_count": 180,
+    "date_started": "2020-09-29",
+    "date_updated": "2024-05-27",
+    "description": "✨ Purpose only! The dangers of Bluetooth Low Energy（BLE）implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth LE stacks.",
+    "forks_count": 42,
+    "html_url": "https://github.com/Charmve/BLE-Security-Attack-Defence",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "BLE-Security-Attack-Defence",
+    "repo_owner": "Charmve",
+    "repotime": "2024-05-27, 02:43:30",
+    "stargazers_count": 322,
+    "watchers_count": 322
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-04-28",
+    "date_updated": "2024-05-23",
+    "description": "Analysis of 0day and N-day security vulnerabilities, along with PoCs",
+    "forks_count": 0,
+    "html_url": "https://github.com/realbugdigger/Vuln-Analysis",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "Vuln-Analysis",
+    "repo_owner": "realbugdigger",
+    "repotime": "2024-05-23, 19:31:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-11-28",
+    "date_updated": "2024-05-16",
+    "description": "A heapdump leaks Shiro key causing RCE vulnerability environment.",
+    "forks_count": 5,
+    "html_url": "https://github.com/P4r4d1se/heapdump_shiro_vuln",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "heapdump_shiro_vuln",
+    "repo_owner": "P4r4d1se",
+    "repotime": "2024-05-16, 08:17:02",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-05-13",
+    "date_updated": "2024-05-12",
+    "description": "A Windows front-end desktop program based on PPPwn that aims to reduce the environmental dependencies needed to run PPPwn, and implement one-click RCE in the simplest way possible.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nazar-Hordii/PPwn-Loader",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C#",
+    "repo_name": "PPwn-Loader",
+    "repo_owner": "Nazar-Hordii",
+    "repotime": "2024-05-12, 02:59:12",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 35,
+    "date_started": "2023-03-22",
+    "date_updated": "2024-05-03",
+    "description": "A linux exploitation skill facilitates heap address leaking or performs overflow from BSS to heap",
+    "forks_count": 1,
+    "html_url": "https://github.com/n132/BeapOverflow",
+    "keywords": [
+        "address leak exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "BeapOverflow",
+    "repo_owner": "n132",
+    "repotime": "2024-05-03, 14:26:00",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}

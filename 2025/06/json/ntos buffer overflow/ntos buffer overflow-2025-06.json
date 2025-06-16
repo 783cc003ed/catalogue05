@@ -1,0 +1,284 @@
+{
+    "commits_count": 1209,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-06-09",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 121,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-06-09, 01:19:21",
+    "stargazers_count": 699,
+    "watchers_count": 699
+}
+{
+    "commits_count": 2707,
+    "date_started": "2009-12-19",
+    "date_updated": "2025-06-07",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2238,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2025-06-07, 11:01:19",
+    "stargazers_count": 11181,
+    "watchers_count": 11181
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-19",
+    "date_updated": "2025-06-06",
+    "description": "Second security project of the reverse engineering branch of the 42 post common core. This project is meant to exploit 32 bit ELF binaries in order to escalate privilege.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vicente118/Rainfall",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "Rainfall",
+    "repo_owner": "Vicente118",
+    "repotime": "2025-06-06, 17:46:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 990,
+    "date_started": "2023-05-31",
+    "date_updated": "2025-06-05",
+    "description": "LFI: Practical, Efficient, and Secure Software-based Sandboxing",
+    "forks_count": 8,
+    "html_url": "https://github.com/zyedidia/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "C",
+    "repo_name": "lfi",
+    "repo_owner": "zyedidia",
+    "repotime": "2025-06-05, 16:04:57",
+    "stargazers_count": 77,
+    "watchers_count": 77
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-04",
+    "date_updated": "2025-06-04",
+    "description": "Full RCE and LPE exploit chain for HackTheBox machine &amp;quot;Rope&amp;quot;.",
+    "forks_count": 0,
+    "html_url": "https://github.com/negligble/Rope_Full_Chain",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Rope_Full_Chain",
+    "repo_owner": "negligble",
+    "repotime": "2025-06-04, 19:27:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 46,
+    "date_started": "2024-08-31",
+    "date_updated": "2025-06-04",
+    "description": "CVE-2024-38063 is a critical security vulnerability in the Windows TCP/IP stack that allows for remote code execution (RCE)",
+    "forks_count": 5,
+    "html_url": "https://github.com/ThemeHackers/CVE-2024-38063",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Windows rce",
+        "Windows rce vulnerability",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-38063",
+    "repo_owner": "ThemeHackers",
+    "repotime": "2025-06-04, 23:38:41",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 1795,
+    "date_started": "2019-07-24",
+    "date_updated": "2025-06-04",
+    "description": "渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
+    "forks_count": 1997,
+    "html_url": "https://github.com/Mr-xn/Penetration_Testing_POC",
+    "keywords": [
+        "rce poc",
+        "rce exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "Penetration_Testing_POC",
+    "repo_owner": "Mr-xn",
+    "repotime": "2025-06-04, 20:38:51",
+    "stargazers_count": 6893,
+    "watchers_count": 6893
+}
+{
+    "commits_count": 704,
+    "date_started": "2022-04-19",
+    "date_updated": "2025-06-03",
+    "description": "Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.",
+    "forks_count": 39,
+    "html_url": "https://github.com/Ostorlab/KEV",
+    "keywords": [
+        "0day vulnerability",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "KEV",
+    "repo_owner": "Ostorlab",
+    "repotime": "2025-06-03, 18:30:06",
+    "stargazers_count": 572,
+    "watchers_count": 572
+}
+{
+    "commits_count": 739,
+    "date_started": "2015-09-06",
+    "date_updated": "2025-06-03",
+    "description": "Detects buffer overruns and memory leaks.",
+    "forks_count": 26,
+    "html_url": "https://github.com/ssbssa/heob",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C",
+    "repo_name": "heob",
+    "repo_owner": "ssbssa",
+    "repotime": "2025-06-03, 19:11:12",
+    "stargazers_count": 184,
+    "watchers_count": 184
+}
+{
+    "commits_count": 31,
+    "date_started": "2024-08-31",
+    "date_updated": "2025-06-03",
+    "description": "CVE-2024-21413 | Microsoft Outlook Remote Code Execution Vulnerability PoC",
+    "forks_count": 5,
+    "html_url": "https://github.com/ThemeHackers/CVE-2024-21413",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Microsoft remote code execution poc",
+        "Microsoft remote code execution",
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2024-21413",
+    "repo_owner": "ThemeHackers",
+    "repotime": "2025-06-03, 22:39:16",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 160,
+    "date_started": "2019-10-02",
+    "date_updated": "2025-06-03",
+    "description": "This repository contains all the XSS cheatsheet data to allow contributions from the community.",
+    "forks_count": 85,
+    "html_url": "https://github.com/PortSwigger/xss-cheatsheet-data",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "xss-cheatsheet-data",
+    "repo_owner": "PortSwigger",
+    "repotime": "2025-06-03, 13:49:05",
+    "stargazers_count": 421,
+    "watchers_count": 421
+}
+{
+    "commits_count": 2145,
+    "date_started": "2019-09-10",
+    "date_updated": "2025-06-03",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 289,
+    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "TongchengOpenSource",
+    "repotime": "2025-06-03, 11:34:00",
+    "stargazers_count": 1484,
+    "watchers_count": 1484
+}
+{
+    "commits_count": 1342,
+    "date_started": "2020-06-02",
+    "date_updated": "2025-06-03",
+    "description": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
+    "forks_count": 205,
+    "html_url": "https://github.com/hadashiA/VContainer",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "VContainer",
+    "repo_owner": "hadashiA",
+    "repotime": "2025-06-03, 12:19:08",
+    "stargazers_count": 2324,
+    "watchers_count": 2324
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-02",
+    "date_updated": "2025-06-02",
+    "description": "Demonstrate exploitation of a format string vulnerability in a C program, despite developer attempts to &amp;quot;patch&amp;quot; the bug. This project highlights how improper use of printf() can still allow attackers to leak sensitive memory content, such as flags, directly from the stack.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArtemCyberLab/Project-FlagVault-v2.1-Reopened-Secrets",
+    "keywords": [
+        "memory leak exploit"
+    ],
+    "language": null,
+    "repo_name": "Project-FlagVault-v2.1-Reopened-Secrets",
+    "repo_owner": "ArtemCyberLab",
+    "repotime": "2025-06-02, 21:02:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 668,
+    "date_started": "2017-03-06",
+    "date_updated": "2025-06-02",
+    "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
+    "forks_count": 354,
+    "html_url": "https://github.com/ssl/ezXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "ezXSS",
+    "repo_owner": "ssl",
+    "repotime": "2025-06-02, 12:28:37",
+    "stargazers_count": 2037,
+    "watchers_count": 2037
+}
+{
+    "commits_count": 21,
+    "date_started": "2025-04-15",
+    "date_updated": "2025-06-01",
+    "description": "Respostas dos exercícios da disciplina de LPED",
+    "forks_count": 0,
+    "html_url": "https://github.com/cabarros3/respostas-lped",
+    "keywords": [
+        "lpe dos"
+    ],
+    "language": "TypeScript",
+    "repo_name": "respostas-lped",
+    "repo_owner": "cabarros3",
+    "repotime": "2025-06-01, 09:25:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

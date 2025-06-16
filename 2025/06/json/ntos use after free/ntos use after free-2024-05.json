@@ -1,0 +1,309 @@
+{
+    "commits_count": 5,
+    "date_started": "2024-05-25",
+    "date_updated": "2024-05-31",
+    "description": "WordPress Hash Form – Drag &amp;amp; Drop Form Builder &amp;lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/KTN1990/CVE-2024-5084",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-5084",
+    "repo_owner": "KTN1990",
+    "repotime": "2024-05-31, 20:51:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-05-27",
+    "date_updated": "2024-05-30",
+    "description": "A Long Short-Term Memory(LSTM) model to predict Nifty 50 Index closing price for next trading session.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bhuvaneshprasad/nifty50_prediction_using_LSTM_and_keras",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "nifty50_prediction_using_LSTM_and_keras",
+    "repo_owner": "bhuvaneshprasad",
+    "repotime": "2024-05-30, 16:36:03",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 22,
+    "date_started": "2019-10-09",
+    "date_updated": "2024-05-29",
+    "description": "Extract Useful info from SSL VPN Directory Traversal Vulnerability (FG-IR-18-384)",
+    "forks_count": 30,
+    "html_url": "https://github.com/RedcentricCyber/Fortigate",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Fortigate",
+    "repo_owner": "RedcentricCyber",
+    "repotime": "2024-05-29, 17:01:18",
+    "stargazers_count": 76,
+    "watchers_count": 76
+}
+{
+    "commits_count": 180,
+    "date_started": "2020-09-29",
+    "date_updated": "2024-05-27",
+    "description": "✨ Purpose only! The dangers of Bluetooth Low Energy（BLE）implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth LE stacks.",
+    "forks_count": 42,
+    "html_url": "https://github.com/Charmve/BLE-Security-Attack-Defence",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "BLE-Security-Attack-Defence",
+    "repo_owner": "Charmve",
+    "repotime": "2024-05-27, 02:43:30",
+    "stargazers_count": 322,
+    "watchers_count": 322
+}
+{
+    "commits_count": 76,
+    "date_started": "2022-12-01",
+    "date_updated": "2024-05-24",
+    "description": "FIshShell is a multi-session handler and Windows &amp;amp; Linux backdoor payload generator. It allows users\\targets to connect to the server (other machines running the multi-handler)  after which the server admin/attacker can join sessions and also get a non-interactive reverse shell.",
+    "forks_count": 1,
+    "html_url": "https://github.com/TriDEntApollO/FishShell",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "FishShell",
+    "repo_owner": "TriDEntApollO",
+    "repotime": "2024-05-24, 12:35:29",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-05-23",
+    "date_updated": "2024-05-23",
+    "description": "This is a mock-IOS login page that looks like the ios homescreen login. Its purpose is to help incoming young students (Kindergarten, 1st grade) practice logging into a computer. The username and password are hard-coded into the javascript (fake of course). Feel free to change them to help your littles :)",
+    "forks_count": 0,
+    "html_url": "https://github.com/wilcraig/ios-login-pracice",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "ios-login-pracice",
+    "repo_owner": "wilcraig",
+    "repotime": "2024-05-23, 12:53:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2023-06-17",
+    "date_updated": "2024-05-21",
+    "description": "This repository contains random Nuclei templates I've created. Most of them based on recent security issues and exploits.",
+    "forks_count": 6,
+    "html_url": "https://github.com/topscoder/nuclei-zero-day",
+    "keywords": [
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "nuclei-zero-day",
+    "repo_owner": "topscoder",
+    "repotime": "2024-05-21, 11:31:56",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-05-18",
+    "date_updated": "2024-05-18",
+    "description": "CVE-2024-32002 RCE PoC",
+    "forks_count": 26,
+    "html_url": "https://github.com/safebuffer/CVE-2024-32002",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2024-32002",
+    "repo_owner": "safebuffer",
+    "repotime": "2024-05-18, 18:12:59",
+    "stargazers_count": 108,
+    "watchers_count": 108
+}
+{
+    "commits_count": 36,
+    "date_started": "2018-07-27",
+    "date_updated": "2024-05-17",
+    "description": "Decorate the ruby CSV library to sanitize output CSV against CSV injection attacks.",
+    "forks_count": 13,
+    "html_url": "https://github.com/zvory/csv-safe",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Ruby",
+    "repo_name": "csv-safe",
+    "repo_owner": "zvory",
+    "repotime": "2024-05-17, 21:54:25",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-02-26",
+    "date_updated": "2024-05-16",
+    "description": "Web App that contains endpoints for IDOR, XSS, and session handling attacks",
+    "forks_count": 1,
+    "html_url": "https://github.com/saligrama/catshare-serverless",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "catshare-serverless",
+    "repo_owner": "saligrama",
+    "repotime": "2024-05-16, 20:04:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-05-05",
+    "date_updated": "2024-05-15",
+    "description": "Classification - Machine Learning This is ‘Classification’ tutorial which is a part of the Machine Learning course offered by Simplilearn. We will learn Classification algorithms, types of classification algorithms, support vector machines(SVM), Naive Bayes, Decision Tree and Random Forest Classifier in this tutorial.  Objectives Let us look at some of the objectives covered under this section of Machine Learning tutorial.  Define Classification and list its algorithms Describe Logistic Regression and Sigmoid Probability Explain K-Nearest Neighbors and KNN classification Understand Support Vector Machines, Polynomial Kernel, and Kernel Trick Analyze Kernel Support Vector Machines with an example Implement the Naïve Bayes Classifier Demonstrate Decision Tree Classifier Describe Random Forest Classifier Classification: Meaning Classification is a type of supervised learning. It specifies the class to which data elements belong to and is best used when the output has finite and discrete v...",
+    "forks_count": 51,
+    "html_url": "https://github.com/sayantann11/all-classification-templetes-for-ML",
+    "keywords": [
+        "Win use after free",
+        "use after free analysis",
+        "Win use after free analysis"
+    ],
+    "language": "Python",
+    "repo_name": "all-classification-templetes-for-ML",
+    "repo_owner": "sayantann11",
+    "repotime": "2024-05-15, 04:46:23",
+    "stargazers_count": 251,
+    "watchers_count": 251
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-05-10",
+    "date_updated": "2024-05-11",
+    "description": "ROPDump is a command-line tool designed to analyze binary executables for potential Return-Oriented Programming (ROP) gadgets, buffer overflow vulnerabilities, and memory leaks.",
+    "forks_count": 11,
+    "html_url": "https://github.com/Rizer0/Ropdump",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Ropdump",
+    "repo_owner": "Rizer0",
+    "repotime": "2024-05-11, 11:07:15",
+    "stargazers_count": 86,
+    "watchers_count": 86
+}
+{
+    "commits_count": 18,
+    "date_started": "2024-03-20",
+    "date_updated": "2024-05-08",
+    "description": "Proof of concept tests for candidate format for national / regional catch estimation",
+    "forks_count": 0,
+    "html_url": "https://github.com/edvinf/RCEF_tests",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "HTML",
+    "repo_name": "RCEF_tests",
+    "repo_owner": "edvinf",
+    "repotime": "2024-05-08, 23:19:11",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 133,
+    "date_started": "2017-12-18",
+    "date_updated": "2024-05-08",
+    "description": "A wiki focusing on aggregating and documenting various SQL injection methods",
+    "forks_count": 149,
+    "html_url": "https://github.com/NetSPI/SQLInjectionWiki",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "HTML",
+    "repo_name": "SQLInjectionWiki",
+    "repo_owner": "NetSPI",
+    "repotime": "2024-05-08, 15:34:27",
+    "stargazers_count": 780,
+    "watchers_count": 780
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-05-07",
+    "date_updated": "2024-05-07",
+    "description": "This is a simplified Node.js application with intentional vulnerabilities related to session fixation and CSRF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/UCN-LANY-PWU/vulnerable-sample-application",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "vulnerable-sample-application",
+    "repo_owner": "UCN-LANY-PWU",
+    "repotime": "2024-05-07, 14:58:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-05-07",
+    "date_updated": "2024-05-07",
+    "description": "Critical use-after-free vulnerability discovered in Tinyproxy",
+    "forks_count": 0,
+    "html_url": "https://github.com/d0rb/CVE-2023-49606",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2023-49606",
+    "repo_owner": "d0rb",
+    "repotime": "2024-05-07, 13:11:53",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 141,
+    "date_started": "2022-07-01",
+    "date_updated": "2024-05-06",
+    "description": "Trophy list of zero-day vulnerabilities that I discovered",
+    "forks_count": 1,
+    "html_url": "https://github.com/Halcy0nic/Trophies",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Trophies",
+    "repo_owner": "Halcy0nic",
+    "repotime": "2024-05-06, 07:39:20",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-05-01",
+    "date_updated": "2024-05-01",
+    "description": "An assignment from our CSC427 computer Security, in this assignment we Broke ASLR using egghunter, buffer overflows, prefetch and a return oriented programming attack.",
+    "forks_count": 0,
+    "html_url": "https://github.com/itzsaad2/ASLR-BYPASS",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "C",
+    "repo_name": "ASLR-BYPASS",
+    "repo_owner": "itzsaad2",
+    "repotime": "2024-05-01, 19:52:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

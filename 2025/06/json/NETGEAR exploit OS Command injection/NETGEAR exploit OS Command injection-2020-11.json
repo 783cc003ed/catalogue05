@@ -1,0 +1,122 @@
+{
+    "commits_count": 73,
+    "date_started": "2019-10-29",
+    "date_updated": "2020-11-27",
+    "description": "Faster xss scanner,support  reflected-xss and dom-xss",
+    "forks_count": 71,
+    "html_url": "https://github.com/lwzSoviet/NoXss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "NoXss",
+    "repo_owner": "lwzSoviet",
+    "repotime": "2020-11-27, 16:01:11",
+    "stargazers_count": 446,
+    "watchers_count": 446
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-11-21",
+    "date_updated": "2020-11-22",
+    "description": "CSV Injection Demo",
+    "forks_count": 0,
+    "html_url": "https://github.com/fredX4/csv-injection-demo",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "HTML",
+    "repo_name": "csv-injection-demo",
+    "repo_owner": "fredX4",
+    "repotime": "2020-11-22, 16:59:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-11-21",
+    "date_updated": "2020-11-20",
+    "description": "Return to Libc exploit with format string vulnerability, bypass ASLR, NX, and Stack Canary",
+    "forks_count": 0,
+    "html_url": "https://github.com/teleplayer123/ROP-Format-Exploit",
+    "keywords": [
+        "aslr bypass",
+        "aslr bypass vulnerability",
+        "aslr bypass exploitation",
+        "aslr bypass exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ROP-Format-Exploit",
+    "repo_owner": "teleplayer123",
+    "repotime": "2020-11-20, 19:51:44",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-11-28",
+    "date_updated": "2020-11-19",
+    "description": "Automatically Preventing Code Injection Attacks on Node.js",
+    "forks_count": 8,
+    "html_url": "https://github.com/sola-da/Synode",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "Synode",
+    "repo_owner": "sola-da",
+    "repotime": "2020-11-19, 18:14:16",
+    "stargazers_count": 78,
+    "watchers_count": 78
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-11-13",
+    "date_updated": "2020-11-13",
+    "description": "Vulnerability Description of CVE-2020-15349",
+    "forks_count": 1,
+    "html_url": "https://github.com/Traxes/Forklift_LPE",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "Objective-C",
+    "repo_name": "Forklift_LPE",
+    "repo_owner": "Traxes",
+    "repotime": "2020-11-13, 14:41:37",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 61,
+    "date_started": "2016-08-14",
+    "date_updated": "2020-11-11",
+    "description": "Provide some tips to handle Injection into application code (OWASP TOP 10 - A1).",
+    "forks_count": 8,
+    "html_url": "https://github.com/righettod/injection-cheat-sheets",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "injection-cheat-sheets",
+    "repo_owner": "righettod",
+    "repotime": "2020-11-11, 03:42:41",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-07-13",
+    "date_updated": "2020-11-05",
+    "description": "CSV Injection exists in InterMind iMind Server through 3.13.65 via the csv export functionality.",
+    "forks_count": 0,
+    "html_url": "https://github.com/h3llraiser/CVE-2020-25398",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-25398",
+    "repo_owner": "h3llraiser",
+    "repotime": "2020-11-05, 13:17:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

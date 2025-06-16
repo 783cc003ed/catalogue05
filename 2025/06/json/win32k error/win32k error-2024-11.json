@@ -1,0 +1,672 @@
+{
+    "commits_count": 67,
+    "date_started": "2024-10-07",
+    "date_updated": "2024-11-30",
+    "description": "A blind SQL injection brute forcer",
+    "forks_count": 9,
+    "html_url": "https://github.com/c3llkn1ght/BlindBrute",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "BlindBrute",
+    "repo_owner": "c3llkn1ght",
+    "repotime": "2024-11-30, 18:12:58",
+    "stargazers_count": 108,
+    "watchers_count": 108
+}
+{
+    "commits_count": 23,
+    "date_started": "2024-11-11",
+    "date_updated": "2024-11-30",
+    "description": "AI-Powered Session Hijacking Prevention",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kaustubh73/CS_AI_Proj",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "CS_AI_Proj",
+    "repo_owner": "Kaustubh73",
+    "repotime": "2024-11-30, 13:54:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-11-20",
+    "date_updated": "2024-11-29",
+    "description": "DNS Spoofing is a technique that manipulates DNS responses to redirect a victim's internet traffic. Instead of resolving a domain to its legitimate IP address, it points to a fake IP, leading users to malicious sites. It’s used in phishing, malware distribution, or penetration testing to expose DNS vulnerabilities.",
+    "forks_count": 1,
+    "html_url": "https://github.com/spider863644/DNS-Spoofer",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "DNS-Spoofer",
+    "repo_owner": "spider863644",
+    "repotime": "2024-11-29, 18:19:50",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-11-24",
+    "date_updated": "2024-11-29",
+    "description": "Proof of concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/SleepTheGod/ChromeSandboxEscape",
+    "keywords": [
+        "Chrome sandbox escape"
+    ],
+    "language": "HTML",
+    "repo_name": "ChromeSandboxEscape",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2024-11-29, 03:12:26",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-11-13",
+    "date_updated": "2024-11-29",
+    "description": "Citrix Virtual Apps and Desktops (XEN) Unauthenticated RCE",
+    "forks_count": 3,
+    "html_url": "https://github.com/XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2024-8069-exp-Citrix-Virtual-Apps-XEN",
+    "repo_owner": "XiaomingX",
+    "repotime": "2024-11-29, 11:02:09",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-11-27",
+    "date_updated": "2024-11-29",
+    "description": "This PoC script exploits CVE-2024-39090, a CSRF to Stored XSS vulnerability in PHPGurukul Online Shopping Portal v2.0. It automates CSRF attacks to inject persistent JavaScript payloads, which execute when a privileged user accesses the affected page, enabling actions such as session hijacking or credential theft.",
+    "forks_count": 1,
+    "html_url": "https://github.com/ghostwirez/CVE-2024-39090-PoC",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-39090-PoC",
+    "repo_owner": "ghostwirez",
+    "repotime": "2024-11-29, 09:02:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 35,
+    "date_started": "2023-02-16",
+    "date_updated": "2024-11-28",
+    "description": "SQLMutant is a powerful SQL injection testing tool that includes both passive and active reconnaissance processes for any given domain. It filters URLs to identify those with parameters susceptible to SQL injection formats and then performs injection attacks. These attacks include pattern matching, error analysis, and timing attacks.",
+    "forks_count": 34,
+    "html_url": "https://github.com/blackhatethicalhacking/SQLMutant",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Shell",
+    "repo_name": "SQLMutant",
+    "repo_owner": "blackhatethicalhacking",
+    "repotime": "2024-11-28, 22:06:35",
+    "stargazers_count": 149,
+    "watchers_count": 149
+}
+{
+    "commits_count": 19,
+    "date_started": "2020-07-06",
+    "date_updated": "2024-11-28",
+    "description": " A proof-of-concept Remote Desktop (RDP) session hijack utility",
+    "forks_count": 81,
+    "html_url": "https://github.com/bohops/SharpRDPHijack",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C#",
+    "repo_name": "SharpRDPHijack",
+    "repo_owner": "bohops",
+    "repotime": "2024-11-28, 01:08:58",
+    "stargazers_count": 483,
+    "watchers_count": 483
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-11-27",
+    "date_updated": "2024-11-27",
+    "description": "A PoC exploit for CVE-2024-10914 - D-Link Remote Code Execution (RCE)",
+    "forks_count": 2,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2024-10914-EXPLOIT",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-10914-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-11-27, 18:31:07",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-11-20",
+    "date_updated": "2024-11-26",
+    "description": "How to convert SQL files to csv files to implement injection of brine waters",
+    "forks_count": 0,
+    "html_url": "https://github.com/BehroozEtebari-DWR/O-G-data-retrieval",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "O-G-data-retrieval",
+    "repo_owner": "BehroozEtebari-DWR",
+    "repotime": "2024-11-26, 12:47:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-11-25",
+    "date_updated": "2024-11-25",
+    "description": "A python tool that resemble a vulnerability scanner. It looks for SQL injection, XSS and Directory Traversal vulnerabilities and introduce the suitable remediation for each vulnerability. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/ammarsoliman/Security_scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Security_scanner",
+    "repo_owner": "ammarsoliman",
+    "repotime": "2024-11-25, 21:43:25",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 34,
+    "date_started": "2019-02-11",
+    "date_updated": "2024-11-25",
+    "description": "Sample code accompanying blog article",
+    "forks_count": 12,
+    "html_url": "https://github.com/ploeh/asynchronous-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "asynchronous-injection",
+    "repo_owner": "ploeh",
+    "repotime": "2024-11-25, 08:37:41",
+    "stargazers_count": 44,
+    "watchers_count": 44
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-12-13",
+    "date_updated": "2024-11-24",
+    "description": "GUARD is a system designed to detect zero-day cyber-attacks using a combination of autoencoders and graph theory. It aims to identify threats that exploit unknown vulnerabilities by translating data relationships into a graph format.",
+    "forks_count": 0,
+    "html_url": "https://github.com/shanedirksen/GUARD",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "GUARD",
+    "repo_owner": "shanedirksen",
+    "repotime": "2024-11-24, 15:30:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 64,
+    "date_started": "2018-01-06",
+    "date_updated": "2024-11-24",
+    "description": "A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.",
+    "forks_count": 364,
+    "html_url": "https://github.com/1N3/BlackWidow",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "BlackWidow",
+    "repo_owner": "1N3",
+    "repotime": "2024-11-24, 15:18:21",
+    "stargazers_count": 1626,
+    "watchers_count": 1626
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-10-11",
+    "date_updated": "2024-11-23",
+    "description": "ASL Model which detects letters from A-Z and sends message over session to client establishing two-way communication.",
+    "forks_count": 0,
+    "html_url": "https://github.com/NEELKALYANI/American-Sign-Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "American-Sign-Prediction",
+    "repo_owner": "NEELKALYANI",
+    "repotime": "2024-11-23, 21:19:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-11-22",
+    "date_updated": "2024-11-22",
+    "description": "simple authentication system made with nextjs for session hijacking attack simulation",
+    "forks_count": 0,
+    "html_url": "https://github.com/AgungSukaAFK/simple-dvwa-auth-",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "TypeScript",
+    "repo_name": "simple-dvwa-auth-",
+    "repo_owner": "AgungSukaAFK",
+    "repotime": "2024-11-22, 21:07:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2024-11-19",
+    "date_updated": "2024-11-21",
+    "description": "SQL Injection is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It typically occurs when user input is improperly sanitized or validated, enabling malicious SQL statements to be executed.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ahmadam37/SQL-INJECTION",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "SQL-INJECTION",
+    "repo_owner": "Ahmadam37",
+    "repotime": "2024-11-21, 19:54:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-11-19",
+    "date_updated": "2024-11-20",
+    "description": "Unauthenticated Remote Code Execution via Angular-Base64-Upload Library (npm:bower)",
+    "forks_count": 1,
+    "html_url": "https://github.com/KTN1990/CVE-2024-42640",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-42640",
+    "repo_owner": "KTN1990",
+    "repotime": "2024-11-20, 23:15:11",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-11-02",
+    "date_updated": "2024-11-20",
+    "description": "This repo contains found vulnerabilities from open-source projects. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/EmilGallajov/zero-day",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "zero-day",
+    "repo_owner": "EmilGallajov",
+    "repotime": "2024-11-20, 17:45:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 40,
+    "date_started": "2021-04-22",
+    "date_updated": "2024-11-19",
+    "description": "Collection of Windows Privilege Escalation (Analyse/PoC/Exploit)",
+    "forks_count": 77,
+    "html_url": "https://github.com/ycdxsb/WindowsPrivilegeEscalation",
+    "keywords": [
+        "Win escalation of privileges poc",
+        "escalation of privileges poc",
+        "Win escalation of privileges",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges poc",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "WindowsPrivilegeEscalation",
+    "repo_owner": "ycdxsb",
+    "repotime": "2024-11-19, 21:39:12",
+    "stargazers_count": 407,
+    "watchers_count": 407
+}
+{
+    "commits_count": 21,
+    "date_started": "2024-10-27",
+    "date_updated": "2024-11-18",
+    "description": "CVE-2024-52940 - A zero-day vulnerability in AnyDesk's &amp;quot;Allow Direct Connections&amp;quot; feature, discovered and registered by Ebrahim Shafiei (EbraSha), exposing public and private IP addresses. For details, visit the NVD, Tenable, or MITRE pages.",
+    "forks_count": 8,
+    "html_url": "https://github.com/ebrasha/abdal-anydesk-remote-ip-detector",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "C#",
+    "repo_name": "abdal-anydesk-remote-ip-detector",
+    "repo_owner": "ebrasha",
+    "repotime": "2024-11-18, 18:39:29",
+    "stargazers_count": 35,
+    "watchers_count": 35
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-11-15",
+    "date_updated": "2024-11-15",
+    "description": "The porte_plume plugin used by SPIP before 4.30-alpha2, 4.2.13, and 4.1.16 is vulnerable to an arbitrary code execution vulnerability. A remote and unauthenticated attacker can execute arbitrary PHP as the SPIP user by sending a crafted HTTP request.",
+    "forks_count": 0,
+    "html_url": "https://github.com/issamjr/CVE-2024-7954",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-7954",
+    "repo_owner": "issamjr",
+    "repotime": "2024-11-15, 22:10:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 24,
+    "date_started": "2023-06-23",
+    "date_updated": "2024-11-15",
+    "description": "An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE",
+    "forks_count": 3,
+    "html_url": "https://github.com/MikeTheHash/CVE-2018-5955",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-5955",
+    "repo_owner": "MikeTheHash",
+    "repotime": "2024-11-15, 17:36:27",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-11-07",
+    "date_updated": "2024-11-14",
+    "description": "Fortinet Fortimanager Unauthenticated Remote Code Execution AKA FortiJump CVE-2024-47575",
+    "forks_count": 28,
+    "html_url": "https://github.com/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575",
+    "keywords": [
+        "remote code execution exploit",
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Fortijump-Exploit-CVE-2024-47575",
+    "repo_owner": "watchtowrlabs",
+    "repotime": "2024-11-14, 16:25:52",
+    "stargazers_count": 86,
+    "watchers_count": 86
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-10-19",
+    "date_updated": "2024-11-14",
+    "description": "<no description>",
+    "forks_count": 24,
+    "html_url": "https://github.com/FSecureLABS/GWTMap",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "GWTMap",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2024-11-14, 12:23:05",
+    "stargazers_count": 98,
+    "watchers_count": 98
+}
+{
+    "commits_count": 28,
+    "date_started": "2024-11-11",
+    "date_updated": "2024-11-14",
+    "description": "SQLMap Command Generator: A web-based tool to easily generate customizable SQLMap commands for testing SQL injection vulnerabilities. Features include target configuration, connection options, detection levels, and various SQL injection techniques. Perfect for penetration testers and security enthusiasts.",
+    "forks_count": 17,
+    "html_url": "https://github.com/Acorzo1983/SQLMapCG",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "HTML",
+    "repo_name": "SQLMapCG",
+    "repo_owner": "Acorzo1983",
+    "repotime": "2024-11-14, 12:52:11",
+    "stargazers_count": 66,
+    "watchers_count": 66
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-11-13",
+    "date_updated": "2024-11-13",
+    "description": "Symbolic link path traversal vulnerability in Gogs",
+    "forks_count": 0,
+    "html_url": "https://github.com/Fysac/CVE-2024-44625",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-44625",
+    "repo_owner": "Fysac",
+    "repotime": "2024-11-13, 21:54:11",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 145,
+    "date_started": "2021-10-28",
+    "date_updated": "2024-11-13",
+    "description": "Unauthenticated enumeration of AWS, Azure, and GCP Principals",
+    "forks_count": 31,
+    "html_url": "https://github.com/righteousgambit/quiet-riot",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "quiet-riot",
+    "repo_owner": "righteousgambit",
+    "repotime": "2024-11-13, 13:41:26",
+    "stargazers_count": 231,
+    "watchers_count": 231
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-11-12",
+    "date_updated": "2024-11-13",
+    "description": "A central repository for managing CVE requests and publishing security advisories on vulnerabilities found in various projects.",
+    "forks_count": 0,
+    "html_url": "https://github.com/4l1y3vsul3ym4n/0day",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "0day",
+    "repo_owner": "4l1y3vsul3ym4n",
+    "repotime": "2024-11-13, 16:55:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 29,
+    "date_started": "2024-10-30",
+    "date_updated": "2024-11-12",
+    "description": "Repo containing modified WRF code and analysis code for conducting convection-permitting idealized RCE simulations",
+    "forks_count": 0,
+    "html_url": "https://github.com/jhruppert/wrf-ideal-crf",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Fortran",
+    "repo_name": "wrf-ideal-crf",
+    "repo_owner": "jhruppert",
+    "repotime": "2024-11-12, 19:20:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-11-11",
+    "date_updated": "2024-11-12",
+    "description": "Citrix Virtual Apps and Desktops (XEN) Unauthenticated RCE",
+    "forks_count": 25,
+    "html_url": "https://github.com/watchtowrlabs/Citrix-Virtual-Apps-XEN-Exploit",
+    "keywords": [
+        "unauthenticated rce",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Citrix-Virtual-Apps-XEN-Exploit",
+    "repo_owner": "watchtowrlabs",
+    "repotime": "2024-11-12, 14:29:32",
+    "stargazers_count": 194,
+    "watchers_count": 194
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-11-03",
+    "date_updated": "2024-11-12",
+    "description": "Basic PHP website for HTTP session hijacking demo.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lewpar/SessionHijackDemo",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "SessionHijackDemo",
+    "repo_owner": "lewpar",
+    "repotime": "2024-11-12, 15:57:02",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-11-12",
+    "date_updated": "2024-11-12",
+    "description": "This repository contains an exploit for CVE-2019-16278 in Nostromo Web Server 1.9.6, allowing remote code execution via a directory traversal vulnerability. The script uses pwntools to establish a reverse shell. For educational and authorized testing use only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/cancela24/CVE-2019-16278-Nostromo-1.9.6-RCE",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-16278-Nostromo-1.9.6-RCE",
+    "repo_owner": "cancela24",
+    "repotime": "2024-11-12, 01:15:57",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 16,
+    "date_started": "2024-10-18",
+    "date_updated": "2024-11-10",
+    "description": "Repository for software that controls Lil' Nook. Lil' Nook is a fun device that tracks the UAF Hockey team score and lets out an alarm when the either the school team or opponent team scores a point. Lil' Nook also lets people know when the hockey team gets a penalty, and whether the school team wins or loses. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/CalvinVHarvey/Lil-_Nook",
+    "keywords": [
+        "Win uaf"
+    ],
+    "language": null,
+    "repo_name": "Lil-_Nook",
+    "repo_owner": "CalvinVHarvey",
+    "repotime": "2024-11-10, 22:19:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 228,
+    "date_started": "2018-12-19",
+    "date_updated": "2024-11-10",
+    "description": "TypeScript clients for databases that prevent SQL Injection",
+    "forks_count": 46,
+    "html_url": "https://github.com/ForbesLindesay/atdatabases",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "TypeScript",
+    "repo_name": "atdatabases",
+    "repo_owner": "ForbesLindesay",
+    "repotime": "2024-11-10, 20:35:31",
+    "stargazers_count": 617,
+    "watchers_count": 617
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-11-07",
+    "date_updated": "2024-11-07",
+    "description": "The project is developed by using python with libraries opencv, tenserflow, torch. It is a real time project to analyse accidents through CCTV footage , it can predicts the accidents and after prediction it can alerts the government official toll free numbers like 108,100 's numbers personal emails.",
+    "forks_count": 0,
+    "html_url": "https://github.com/hindukaturi/Accident-Prediction-Analysis-Through-Uv_cam",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Python",
+    "repo_name": "Accident-Prediction-Analysis-Through-Uv_cam",
+    "repo_owner": "hindukaturi",
+    "repotime": "2024-11-07, 16:36:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2024-11-05",
+    "date_updated": "2024-11-05",
+    "description": "Ce projet utilise l'outil SQLMap pour identifier et exploiter des vulnérabilités d'injection SQL sur une application web locale. L'objectif est de récupérer des informations critiques depuis la base de données, en particulier sur les utilisateurs et les privilèges, et de les exporter en fichiers .csv.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nyx-Off/SQL-Injection-Training-App-Rapport",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "SQL-Injection-Training-App-Rapport",
+    "repo_owner": "Nyx-Off",
+    "repotime": "2024-11-05, 14:27:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 269,
+    "date_started": "2021-09-08",
+    "date_updated": "2024-11-05",
+    "description": "Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022",
+    "forks_count": 75,
+    "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Automated-MUlti-UAC-Bypass",
+    "repo_owner": "x0xr00t",
+    "repotime": "2024-11-05, 13:45:21",
+    "stargazers_count": 444,
+    "watchers_count": 444
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-10-08",
+    "date_updated": "2024-11-02",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/websec/Vision-Helpdesk-Exploit",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Vision-Helpdesk-Exploit",
+    "repo_owner": "websec",
+    "repotime": "2024-11-02, 23:43:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

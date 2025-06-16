@@ -1,0 +1,88 @@
+{
+    "commits_count": 5,
+    "date_started": "2025-01-24",
+    "date_updated": "2025-01-26",
+    "description": "This repository contains C++ code to load custom drivers by exploiting a vulnerable driver in Windows. This project demonstrates a technique to bypass DSE (Driver Signature Enforcement) and PatchGuard using a vulnerable driver, and to load a custom driver. It serves as a proof of concept for security research purposes.",
+    "forks_count": 3,
+    "html_url": "https://github.com/Leksa667/Vulnerable-Driver-Manual-Mapper",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Vulnerable-Driver-Manual-Mapper",
+    "repo_owner": "Leksa667",
+    "repotime": "2025-01-26, 01:24:04",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 672,
+    "date_started": "2020-08-12",
+    "date_updated": "2025-01-19",
+    "description": "Windows Local Privilege Escalation Cookbook",
+    "forks_count": 174,
+    "html_url": "https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook",
+    "keywords": [
+        "Microsoft lpe",
+        "Windows lpe",
+        "Win lpe"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Windows-Local-Privilege-Escalation-Cookbook",
+    "repo_owner": "nickvourd",
+    "repotime": "2025-01-19, 19:31:58",
+    "stargazers_count": 1124,
+    "watchers_count": 1124
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-05-09",
+    "date_updated": "2025-01-18",
+    "description": "This is a simple repository of the tools that I use for Windows privilege escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jsimsynack/windows-privesc-tools",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Win escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "windows-privesc-tools",
+    "repo_owner": "Jsimsynack",
+    "repotime": "2025-01-18, 21:20:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2025-01-05",
+    "date_updated": "2025-01-06",
+    "description": "Oprlet is a powerful and flexible tool designed to perform automated vulnerability checks on websites, helping you identify potential security weaknesses. The scanner supports SQL Injection, XSS, and Directory Traversal vulnerabilities, utilizing comprehensive payloads for thorough scanning.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fathiashik/oprlet",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "oprlet",
+    "repo_owner": "fathiashik",
+    "repotime": "2025-01-06, 17:12:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 244,
+    "date_started": "2020-08-01",
+    "date_updated": "2025-01-04",
+    "description": "Remote command shell application written in C&amp;&#35;35; targeting the .NET 9.0 runtime.",
+    "forks_count": 6,
+    "html_url": "https://github.com/vandavey/DotnetCat",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C#",
+    "repo_name": "DotnetCat",
+    "repo_owner": "vandavey",
+    "repotime": "2025-01-04, 15:30:03",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}

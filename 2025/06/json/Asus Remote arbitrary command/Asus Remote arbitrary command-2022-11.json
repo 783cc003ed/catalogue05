@@ -1,0 +1,125 @@
+{
+    "commits_count": 24,
+    "date_started": "2022-11-04",
+    "date_updated": "2022-11-21",
+    "description": "Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability) ",
+    "forks_count": 2,
+    "html_url": "https://github.com/cryxnet/CVE-2022-42889-RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-42889-RCE",
+    "repo_owner": "cryxnet",
+    "repotime": "2022-11-21, 11:16:57",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-11-20",
+    "date_updated": "2022-11-21",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/bPapan/TCP-Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "TCP-Session-Hijacking",
+    "repo_owner": "bPapan",
+    "repotime": "2022-11-21, 01:32:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-04",
+    "date_updated": "2022-11-20",
+    "description": "Looking up pwned passwords the hard way - my first rust project so the code will be bad :)",
+    "forks_count": 0,
+    "html_url": "https://github.com/jordangomes/ispwned-rust",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Rust",
+    "repo_name": "ispwned-rust",
+    "repo_owner": "jordangomes",
+    "repotime": "2022-11-20, 13:45:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-19",
+    "date_updated": "2022-11-19",
+    "description": "A Command Line based python tool for exploit Zero-Day vulnerability in MSDT (Microsoft Support Diagnostic Tool) also know as 'Follina' CVE-2022-30190.",
+    "forks_count": 3,
+    "html_url": "https://github.com/0xAbbarhSF/FollinaXploit",
+    "keywords": [
+        "Microsoft zero-day exploit",
+        "Microsoft zero-day exploitation",
+        "Microsoft zero-day",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "Microsoft zero-day vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "FollinaXploit",
+    "repo_owner": "0xAbbarhSF",
+    "repotime": "2022-11-19, 19:41:57",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-10-24",
+    "date_updated": "2022-11-04",
+    "description": "Tool for helping in the exploitation of path traversal vulnerabilities in Java web applications",
+    "forks_count": 5,
+    "html_url": "https://github.com/Invicti-Security/web-inf-path-trav",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "web-inf-path-trav",
+    "repo_owner": "Invicti-Security",
+    "repotime": "2022-11-04, 13:30:27",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 1877,
+    "date_started": "2015-03-20",
+    "date_updated": "2022-11-03",
+    "description": "Automated All-in-One OS Command Injection Exploitation Tool.",
+    "forks_count": 734,
+    "html_url": "https://github.com/commixproject/commix",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "commix",
+    "repo_owner": "commixproject",
+    "repotime": "2022-11-03, 02:23:19",
+    "stargazers_count": 3524,
+    "watchers_count": 3524
+}
+{
+    "commits_count": 697,
+    "date_started": "2017-01-06",
+    "date_updated": "2022-11-02",
+    "description": "Merlin is a cross-platform post-exploitation HTTP/2 Command &amp;amp; Control  server and agent written in golang.",
+    "forks_count": 701,
+    "html_url": "https://github.com/Ne0nd0g/merlin",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Go",
+    "repo_name": "merlin",
+    "repo_owner": "Ne0nd0g",
+    "repotime": "2022-11-02, 06:28:20",
+    "stargazers_count": 4067,
+    "watchers_count": 4067
+}

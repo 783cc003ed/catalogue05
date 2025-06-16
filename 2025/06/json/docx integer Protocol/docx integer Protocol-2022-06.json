@@ -1,0 +1,83 @@
+{
+    "commits_count": 62,
+    "date_started": "2022-06-27",
+    "date_updated": "2022-06-27",
+    "description": "Unicode visual spoofing demo program showcasing the vulnerability and a patch.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rohankhayech/UnicodeVisualSpoofing",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "UnicodeVisualSpoofing",
+    "repo_owner": "rohankhayech",
+    "repotime": "2022-06-27, 23:33:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-06-17",
+    "date_updated": "2022-06-26",
+    "description": "Integer overflow in KmxSbx.sys 6.2.0.22 in CA Internet Security Suite Plus 2010 allows local users to cause a denial of service (pool corruption) and execute arbitrary code via crafted arguments to the 0x88000080 IOCTL, which triggers a buffer overflow.",
+    "forks_count": 1,
+    "html_url": "https://github.com/expFlash/CVE-2010-4502",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2010-4502",
+    "repo_owner": "expFlash",
+    "repotime": "2022-06-26, 07:38:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-01-09",
+    "date_updated": "2022-06-16",
+    "description": "Proof of concept about a path traversal vulnerability in Microsoft's Diagcab technology that could lead to remote code execution",
+    "forks_count": 24,
+    "html_url": "https://github.com/irsl/microsoft-diagcab-rce-poc",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft rce",
+        "Microsoft rce poc",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution poc",
+        "remote code execution proof of concept",
+        "remote code execution poc",
+        "Microsoft rce proof of concept",
+        "Microsoft remote code execution",
+        "rce poc",
+        "rce proof of concept",
+        "path traversal vulnerability",
+        "rce vulnerability",
+        "Microsoft rce vulnerability",
+        "Microsoft remote code execution proof of concept"
+    ],
+    "language": "Perl",
+    "repo_name": "microsoft-diagcab-rce-poc",
+    "repo_owner": "irsl",
+    "repotime": "2022-06-16, 15:36:12",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-05-30",
+    "date_updated": "2022-06-05",
+    "description": "POC CVE-2022-30190 : CVE 0-day MS Offic RCE aka msdt follina",
+    "forks_count": 55,
+    "html_url": "https://github.com/JMousqueton/PoC-CVE-2022-30190",
+    "keywords": [
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PoC-CVE-2022-30190",
+    "repo_owner": "JMousqueton",
+    "repotime": "2022-06-05, 23:06:11",
+    "stargazers_count": 158,
+    "watchers_count": 158
+}

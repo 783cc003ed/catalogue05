@@ -1,0 +1,51 @@
+{
+    "commits_count": 3,
+    "date_started": "2024-04-17",
+    "date_updated": "2024-04-17",
+    "description": "Telegram PyZW RCE Exploit - Windows Reverse Shell",
+    "forks_count": 0,
+    "html_url": "https://github.com/hackintoanetwork/Telegram-RCE",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Telegram-RCE",
+    "repo_owner": "hackintoanetwork",
+    "repotime": "2024-04-17, 15:51:43",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-04-15",
+    "date_updated": "2024-04-15",
+    "description": "CVE-2024-1642470 is a critical vulnerability discovered in the Windows USB Generic Parent Driver. The vulnerability arises due to improper input validation within the driver's IOCTL handling mechanism. As a result, remote attackers can execute arbitrary code via crafted IOCTL requests, potentially leading to system compromise.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Symbolexe/CVE-2024-1642470",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2024-1642470",
+    "repo_owner": "Symbolexe",
+    "repotime": "2024-04-15, 21:24:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-04-05",
+    "date_updated": "2024-04-05",
+    "description": "DSE &amp;amp; PG bypass via BYOVD attack",
+    "forks_count": 11,
+    "html_url": "https://github.com/4l3x777/dse_pg_bypass",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "dse_pg_bypass",
+    "repo_owner": "4l3x777",
+    "repotime": "2024-04-05, 18:09:38",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}

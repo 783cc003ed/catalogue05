@@ -1,0 +1,413 @@
+{
+    "commits_count": 67,
+    "date_started": "2024-10-07",
+    "date_updated": "2024-11-30",
+    "description": "A blind SQL injection brute forcer",
+    "forks_count": 9,
+    "html_url": "https://github.com/c3llkn1ght/BlindBrute",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "BlindBrute",
+    "repo_owner": "c3llkn1ght",
+    "repotime": "2024-11-30, 18:12:58",
+    "stargazers_count": 108,
+    "watchers_count": 108
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-11-24",
+    "date_updated": "2024-11-29",
+    "description": "Proof of concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/SleepTheGod/ChromeSandboxEscape",
+    "keywords": [
+        "Chrome sandbox escape"
+    ],
+    "language": "HTML",
+    "repo_name": "ChromeSandboxEscape",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2024-11-29, 03:12:26",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 35,
+    "date_started": "2023-02-16",
+    "date_updated": "2024-11-28",
+    "description": "SQLMutant is a powerful SQL injection testing tool that includes both passive and active reconnaissance processes for any given domain. It filters URLs to identify those with parameters susceptible to SQL injection formats and then performs injection attacks. These attacks include pattern matching, error analysis, and timing attacks.",
+    "forks_count": 34,
+    "html_url": "https://github.com/blackhatethicalhacking/SQLMutant",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Shell",
+    "repo_name": "SQLMutant",
+    "repo_owner": "blackhatethicalhacking",
+    "repotime": "2024-11-28, 22:06:35",
+    "stargazers_count": 149,
+    "watchers_count": 149
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-11-20",
+    "date_updated": "2024-11-26",
+    "description": "How to convert SQL files to csv files to implement injection of brine waters",
+    "forks_count": 0,
+    "html_url": "https://github.com/BehroozEtebari-DWR/O-G-data-retrieval",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "O-G-data-retrieval",
+    "repo_owner": "BehroozEtebari-DWR",
+    "repotime": "2024-11-26, 12:47:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 34,
+    "date_started": "2019-02-11",
+    "date_updated": "2024-11-25",
+    "description": "Sample code accompanying blog article",
+    "forks_count": 12,
+    "html_url": "https://github.com/ploeh/asynchronous-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "asynchronous-injection",
+    "repo_owner": "ploeh",
+    "repotime": "2024-11-25, 08:37:41",
+    "stargazers_count": 44,
+    "watchers_count": 44
+}
+{
+    "commits_count": 64,
+    "date_started": "2018-01-06",
+    "date_updated": "2024-11-24",
+    "description": "A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.",
+    "forks_count": 364,
+    "html_url": "https://github.com/1N3/BlackWidow",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "BlackWidow",
+    "repo_owner": "1N3",
+    "repotime": "2024-11-24, 15:18:21",
+    "stargazers_count": 1626,
+    "watchers_count": 1626
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-04-06",
+    "date_updated": "2024-11-23",
+    "description": "root me XML External Entity ",
+    "forks_count": 1,
+    "html_url": "https://github.com/baduf47/root-me-XML-External-Entity",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "root-me-XML-External-Entity",
+    "repo_owner": "baduf47",
+    "repotime": "2024-11-23, 14:48:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1612,
+    "date_started": "2024-04-02",
+    "date_updated": "2024-11-23",
+    "description": "A .NET Framework 4.0 Windows Agent for Credential Tracking and Manipulation, also Remote code Execution.",
+    "forks_count": 1,
+    "html_url": "https://github.com/byt3n33dl3/ApolloExec",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "ApolloExec",
+    "repo_owner": "byt3n33dl3",
+    "repotime": "2024-11-23, 00:54:04",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-11-19",
+    "date_updated": "2024-11-20",
+    "description": "Unauthenticated Remote Code Execution via Angular-Base64-Upload Library (npm:bower)",
+    "forks_count": 1,
+    "html_url": "https://github.com/KTN1990/CVE-2024-42640",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-42640",
+    "repo_owner": "KTN1990",
+    "repotime": "2024-11-20, 23:15:11",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 40,
+    "date_started": "2021-04-22",
+    "date_updated": "2024-11-19",
+    "description": "Collection of Windows Privilege Escalation (Analyse/PoC/Exploit)",
+    "forks_count": 77,
+    "html_url": "https://github.com/ycdxsb/WindowsPrivilegeEscalation",
+    "keywords": [
+        "Win escalation of privileges poc",
+        "escalation of privileges poc",
+        "Win escalation of privileges",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges poc",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "WindowsPrivilegeEscalation",
+    "repo_owner": "ycdxsb",
+    "repotime": "2024-11-19, 21:39:12",
+    "stargazers_count": 407,
+    "watchers_count": 407
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-11-19",
+    "date_updated": "2024-11-19",
+    "description": "Python-based password cracker identifies plaintext passwords from SHA-1 hashes, using top 10,000 common passwords dictionary. Supports salted hash cracking, demonstrating secure storage and hashing. Test cases and development script included.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Azaam86msn/passwordCracker",
+    "keywords": [
+        "password plaintext storage"
+    ],
+    "language": "Python",
+    "repo_name": "passwordCracker",
+    "repo_owner": "Azaam86msn",
+    "repotime": "2024-11-19, 11:45:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-11-16",
+    "date_updated": "2024-11-16",
+    "description": "This script was modified to run correctly in python 2 for the TryHackMe lesson called “Exploit Vulnerabilities”. The exercise where the script will be performed is : Task 5 Partical:Manual Exploitation",
+    "forks_count": 0,
+    "html_url": "https://github.com/Gh0xPwn/Correction-Online-Book-Store-1.0---Unauthenticated-Remote-Code-Execution-",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Correction-Online-Book-Store-1.0---Unauthenticated-Remote-Code-Execution-",
+    "repo_owner": "Gh0xPwn",
+    "repotime": "2024-11-16, 13:59:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 28,
+    "date_started": "2024-11-11",
+    "date_updated": "2024-11-14",
+    "description": "SQLMap Command Generator: A web-based tool to easily generate customizable SQLMap commands for testing SQL injection vulnerabilities. Features include target configuration, connection options, detection levels, and various SQL injection techniques. Perfect for penetration testers and security enthusiasts.",
+    "forks_count": 17,
+    "html_url": "https://github.com/Acorzo1983/SQLMapCG",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "HTML",
+    "repo_name": "SQLMapCG",
+    "repo_owner": "Acorzo1983",
+    "repotime": "2024-11-14, 12:52:11",
+    "stargazers_count": 66,
+    "watchers_count": 66
+}
+{
+    "commits_count": 145,
+    "date_started": "2021-10-28",
+    "date_updated": "2024-11-13",
+    "description": "Unauthenticated enumeration of AWS, Azure, and GCP Principals",
+    "forks_count": 31,
+    "html_url": "https://github.com/righteousgambit/quiet-riot",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "quiet-riot",
+    "repo_owner": "righteousgambit",
+    "repotime": "2024-11-13, 13:41:26",
+    "stargazers_count": 231,
+    "watchers_count": 231
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-11-03",
+    "date_updated": "2024-11-12",
+    "description": "Basic PHP website for HTTP session hijacking demo.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lewpar/SessionHijackDemo",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "SessionHijackDemo",
+    "repo_owner": "lewpar",
+    "repotime": "2024-11-12, 15:57:02",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 16,
+    "date_started": "2024-10-18",
+    "date_updated": "2024-11-10",
+    "description": "Repository for software that controls Lil' Nook. Lil' Nook is a fun device that tracks the UAF Hockey team score and lets out an alarm when the either the school team or opponent team scores a point. Lil' Nook also lets people know when the hockey team gets a penalty, and whether the school team wins or loses. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/CalvinVHarvey/Lil-_Nook",
+    "keywords": [
+        "Win uaf"
+    ],
+    "language": null,
+    "repo_name": "Lil-_Nook",
+    "repo_owner": "CalvinVHarvey",
+    "repotime": "2024-11-10, 22:19:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 228,
+    "date_started": "2018-12-19",
+    "date_updated": "2024-11-10",
+    "description": "TypeScript clients for databases that prevent SQL Injection",
+    "forks_count": 46,
+    "html_url": "https://github.com/ForbesLindesay/atdatabases",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "TypeScript",
+    "repo_name": "atdatabases",
+    "repo_owner": "ForbesLindesay",
+    "repotime": "2024-11-10, 20:35:31",
+    "stargazers_count": 617,
+    "watchers_count": 617
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-11-10",
+    "date_updated": "2024-11-10",
+    "description": "Magical Addons For Elementor &amp;lt;= 1.2.1 - Authenticated (Subscriber+) Server-Side Request Forgery",
+    "forks_count": 0,
+    "html_url": "https://github.com/RandomRobbieBF/CVE-2024-51665",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-51665",
+    "repo_owner": "RandomRobbieBF",
+    "repotime": "2024-11-10, 12:02:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-11-27",
+    "date_updated": "2024-11-10",
+    "description": "git-rce poc on windows",
+    "forks_count": 1,
+    "html_url": "https://github.com/irsl/lfswin",
+    "keywords": [
+        "Windows rce poc"
+    ],
+    "language": null,
+    "repo_name": "lfswin",
+    "repo_owner": "irsl",
+    "repotime": "2024-11-10, 12:02:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-11-07",
+    "date_updated": "2024-11-07",
+    "description": "The project is developed by using python with libraries opencv, tenserflow, torch. It is a real time project to analyse accidents through CCTV footage , it can predicts the accidents and after prediction it can alerts the government official toll free numbers like 108,100 's numbers personal emails.",
+    "forks_count": 0,
+    "html_url": "https://github.com/hindukaturi/Accident-Prediction-Analysis-Through-Uv_cam",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Python",
+    "repo_name": "Accident-Prediction-Analysis-Through-Uv_cam",
+    "repo_owner": "hindukaturi",
+    "repotime": "2024-11-07, 16:36:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-10-08",
+    "date_updated": "2024-11-06",
+    "description": "A Python tool for automated web application security testing. Detects common vulnerabilities like SQL Injection, XSS, brute force, and directory traversal, and checks for missing HTTP security headers. Ideal for developers and security professionals to generate detailed vulnerability reports.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Wang-Ying-Yi/web_app_testing_tool",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "web_app_testing_tool",
+    "repo_owner": "Wang-Ying-Yi",
+    "repotime": "2024-11-06, 00:44:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 269,
+    "date_started": "2021-09-08",
+    "date_updated": "2024-11-05",
+    "description": "Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022",
+    "forks_count": 75,
+    "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Automated-MUlti-UAC-Bypass",
+    "repo_owner": "x0xr00t",
+    "repotime": "2024-11-05, 13:45:21",
+    "stargazers_count": 444,
+    "watchers_count": 444
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-10-08",
+    "date_updated": "2024-11-02",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/websec/Vision-Helpdesk-Exploit",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Vision-Helpdesk-Exploit",
+    "repo_owner": "websec",
+    "repotime": "2024-11-02, 23:43:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-06-13",
+    "date_updated": "2024-11-02",
+    "description": "This project simulates the effects of a buffer overflow and privilege escalation attack on a Windows system. The objective is to demonstrate the importance of vigilance and good practices in computer security, particularly when executing .exe files of unknown or suspicious origin.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lyamss/Hakai",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C#",
+    "repo_name": "Hakai",
+    "repo_owner": "lyamss",
+    "repotime": "2024-11-02, 19:16:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

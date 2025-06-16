@@ -1,0 +1,120 @@
+{
+    "commits_count": 52,
+    "date_started": "2019-11-04",
+    "date_updated": "2019-06-29",
+    "description": "Path Traversal to Traversal Brute with 35,000 ( 35K ) payloads",
+    "forks_count": 0,
+    "html_url": "https://github.com/marciopocebon/Attackpath",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Attackpath",
+    "repo_owner": "marciopocebon",
+    "repotime": "2019-06-29, 16:08:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-10-01",
+    "date_updated": "2019-06-22",
+    "description": "WinPools is an example of how Windows kernel big pool addresses can be leaking using NtQuerySystemInformation",
+    "forks_count": 2,
+    "html_url": "https://github.com/DownWithUp/WinPools",
+    "keywords": [
+        "Win address leak",
+        "Windows address leak"
+    ],
+    "language": "C",
+    "repo_name": "WinPools",
+    "repo_owner": "DownWithUp",
+    "repotime": "2019-06-22, 21:04:50",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-06-13",
+    "date_updated": "2019-06-17",
+    "description": "&amp;&#35;35; Node.js &amp;amp; MySQL  &amp;&#35;35;&amp;&#35;35; Overview  In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this unit. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.  Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.  &amp;&#35;35;&amp;&#35;35; Submission Guide  Make sure you use the normal GitHub. Because this is a CLI App, there will be no need to deploy it to Heroku. This time, though, you need to include screenshots, a gif, and/or a video showing us that you got the app working with no bugs. You can include these screenshots or a link to a video in a `README.md` file.  * Include screenshots (or a video) of typical user flows through your application (for the...",
+    "forks_count": 0,
+    "html_url": "https://github.com/CaptainEFFF/bamazon",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "bamazon",
+    "repo_owner": "CaptainEFFF",
+    "repotime": "2019-06-17, 19:44:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 84,
+    "date_started": "2018-02-17",
+    "date_updated": "2019-06-05",
+    "description": "Keeping Twitter for macOS alive with code injection",
+    "forks_count": 5,
+    "html_url": "https://github.com/nakiostudio/TwitterX",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "TwitterX",
+    "repo_owner": "nakiostudio",
+    "repotime": "2019-06-05, 08:57:43",
+    "stargazers_count": 187,
+    "watchers_count": 187
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-06-04",
+    "date_updated": "2019-06-04",
+    "description": "&amp;&#35;35; All the News That's Fit to Scrape  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Overview  In this assignment, you'll create a web app that lets users view and leave comments on the latest news. But you're not going to actually write any articles; instead, you'll flex your Mongoose and Cheerio muscles to scrape news from another site.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Before You Begin  1. Create a GitHub repo for this assignment and clone it to your computer. Any name will do -- just make sure it's related to this project in some fashion.  2. Run `npm init`. When that's finished, install and save these npm packages:     1. express     2. express-handlebars     3. mongoose     4. cheerio     5. axios  3. **NOTE**: If you want to earn complete credit for your work, you must use all five of these packages in your assignment.  4. In order to deploy your project to Heroku, you must set up an mLab provision. mLab is remote MongoDB database that Heroku supports natively. Follow these steps to get it running:  5. Create a Heroku app ...",
+    "forks_count": 4,
+    "html_url": "https://github.com/Fitzpa/mongooseNewsScraping",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "mongooseNewsScraping",
+    "repo_owner": "Fitzpa",
+    "repotime": "2019-06-04, 16:29:36",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-05-30",
+    "date_updated": "2019-06-04",
+    "description": "&amp;&#35;35; LIRI Bot  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Overview  In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Before You Begin  1. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.  2. Make a new GitHub repository called liri-node-app and clone it to your computer.  3. To retrieve the data that will power this app, you'll need to send requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. You'll find these Node packages crucial for your assignment.     * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)     * [Axios](https://www.npmjs.com/package/axios)       * You'll use Axios to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.a...",
+    "forks_count": 2,
+    "html_url": "https://github.com/CaptainEFFF/liri-node-app",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "liri-node-app",
+    "repo_owner": "CaptainEFFF",
+    "repotime": "2019-06-04, 15:50:11",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-05-12",
+    "date_updated": "2019-06-04",
+    "description": "A simple PHP application to learn SQL Injection detection and exploitation techniques.",
+    "forks_count": 57,
+    "html_url": "https://github.com/appsecco/sqlinjection-training-app",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "sqlinjection-training-app",
+    "repo_owner": "appsecco",
+    "repotime": "2019-06-04, 15:50:57",
+    "stargazers_count": 117,
+    "watchers_count": 117
+}

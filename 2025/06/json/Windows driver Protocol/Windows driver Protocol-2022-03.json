@@ -1,0 +1,57 @@
+{
+    "commits_count": 30,
+    "date_started": "2020-03-15",
+    "date_updated": "2022-03-25",
+    "description": "CVE-2019-0708 (BlueKeep) proof of concept allowing pre-auth RCE on Windows7",
+    "forks_count": 21,
+    "html_url": "https://github.com/RICSecLab/CVE-2019-0708",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-0708",
+    "repo_owner": "RICSecLab",
+    "repotime": "2022-03-25, 15:46:40",
+    "stargazers_count": 138,
+    "watchers_count": 138
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-03-16",
+    "date_updated": "2022-03-18",
+    "description": "Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs but to cause real-world physical effects. Specifically, it targets centrifuges used to produce the enriched uranium that powers nuclear weapons and reactors.",
+    "forks_count": 24,
+    "html_url": "https://github.com/uraninite/stuxnet",
+    "keywords": [
+        "zero-day vulnerability",
+        "Windows zero-day exploitation",
+        "Windows zero-day",
+        "zero-day exploitation",
+        "Windows zero-day exploit",
+        "zero-day exploit",
+        "Windows zero-day vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "stuxnet",
+    "repo_owner": "uraninite",
+    "repotime": "2022-03-18, 00:09:06",
+    "stargazers_count": 63,
+    "watchers_count": 63
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-03-17",
+    "date_updated": "2022-03-17",
+    "description": "HackSys Extreme Vulnerable Driver - Windows 10 x64 StackOverflow Exploit with SMEP Bypass",
+    "forks_count": 0,
+    "html_url": "https://github.com/kjy428ch/Cn33lizw",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": null,
+    "repo_name": "Cn33lizw",
+    "repo_owner": "kjy428ch",
+    "repotime": "2022-03-17, 16:43:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

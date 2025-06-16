@@ -1,0 +1,153 @@
+{
+    "commits_count": 4657,
+    "date_started": "2023-07-05",
+    "date_updated": "2024-12-19",
+    "description": "The Common Vulnerabilities Exposures (CVE) Database",
+    "forks_count": 12,
+    "html_url": "https://github.com/justakazh/CVE_Database",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE_Database",
+    "repo_owner": "justakazh",
+    "repotime": "2024-12-19, 10:15:20",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-17",
+    "date_updated": "2024-12-17",
+    "description": "Ada exception handling and input validation. The original code lacks robust input validation, potentially leading to Constraint_Error exceptions if the user provides input outside the range of Integer.  The improved version adds explicit exception handling to gracefully manage such errors.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Robust-Input-Handling-in-Ada-vo0g8",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Ada",
+    "repo_name": "Robust-Input-Handling-in-Ada-vo0g8",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-17, 07:44:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-14",
+    "date_updated": "2024-12-14",
+    "description": "Stack Overflow Error in Hack recursive function due to lack of input validation and exceeding recursion depth.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Hack-Function-y6u18",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-in-Recursive-Hack-Function-y6u18",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-14, 20:02:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 255,
+    "date_started": "2020-12-17",
+    "date_updated": "2024-12-13",
+    "description": "🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration.",
+    "forks_count": 2,
+    "html_url": "https://github.com/TomerAberbach/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "TypeScript",
+    "repo_name": "lfi",
+    "repo_owner": "TomerAberbach",
+    "repotime": "2024-12-13, 00:12:02",
+    "stargazers_count": 341,
+    "watchers_count": 341
+}
+{
+    "commits_count": 241,
+    "date_started": "2024-08-14",
+    "date_updated": "2024-12-10",
+    "description": "Webpage for Bueler's course in numerical analysis (MATH 426) at UAF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bueler/numerical",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "numerical",
+    "repo_owner": "bueler",
+    "repotime": "2024-12-10, 17:42:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-09",
+    "date_updated": "2024-12-09",
+    "description": "Stack overflow error in recursive function due to lack of input validation and a missing base case for negative numbers. The program crashes when a large number or a negative number is passed as input.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Factorial-Function-10o1r",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "C++",
+    "repo_name": "Stack-Overflow-in-Recursive-Factorial-Function-10o1r",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-09, 18:24:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2024-11-11",
+    "date_updated": "2024-12-02",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/rcmcphee/RCE_Static_Analysis_Tool",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Python",
+    "repo_name": "RCE_Static_Analysis_Tool",
+    "repo_owner": "rcmcphee",
+    "repotime": "2024-12-02, 10:03:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2015-12-20",
+    "date_updated": "2024-12-01",
+    "description": "Blind SQL injection exploitation tool written in ruby.",
+    "forks_count": 27,
+    "html_url": "https://github.com/enjoiz/BSQLinjector",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Ruby",
+    "repo_name": "BSQLinjector",
+    "repo_owner": "enjoiz",
+    "repotime": "2024-12-01, 16:26:21",
+    "stargazers_count": 99,
+    "watchers_count": 99
+}
+{
+    "commits_count": 56,
+    "date_started": "2015-05-16",
+    "date_updated": "2024-12-01",
+    "description": "Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods.",
+    "forks_count": 318,
+    "html_url": "https://github.com/enjoiz/XXEinjector",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Ruby",
+    "repo_name": "XXEinjector",
+    "repo_owner": "enjoiz",
+    "repotime": "2024-12-01, 16:25:27",
+    "stargazers_count": 1639,
+    "watchers_count": 1639
+}
