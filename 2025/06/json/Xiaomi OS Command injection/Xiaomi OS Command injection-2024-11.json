@@ -304,3 +304,309 @@
     "stargazers_count": 2,
     "watchers_count": 2
 }
+{
+    "commits_count": 67,
+    "date_started": "2024-10-07",
+    "date_updated": "2024-11-30",
+    "description": "A blind SQL injection brute forcer",
+    "forks_count": 9,
+    "html_url": "https://github.com/c3llkn1ght/BlindBrute",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "BlindBrute",
+    "repo_owner": "c3llkn1ght",
+    "repotime": "2024-11-30, 18:12:58",
+    "stargazers_count": 108,
+    "watchers_count": 108
+}
+{
+    "commits_count": 25,
+    "date_started": "2024-11-30",
+    "date_updated": "2024-11-30",
+    "description": "offers a treasure trove of learning opportunities for aspiring hackers. This intriguing machine showcases various real-world vulnerabilities, ranging from web application weaknesses to privilege escalation techniques. By exploring and exploiting these vulnerabilities,.",
+    "forks_count": 0,
+    "html_url": "https://github.com/C9b3rD3vi1/loockup_room",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "loockup_room",
+    "repo_owner": "C9b3rD3vi1",
+    "repotime": "2024-11-30, 21:01:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 43,
+    "date_started": "2020-07-09",
+    "date_updated": "2024-11-29",
+    "description": "A collection of tiny XSS Payloads that can be used in different contexts. https://tinyxss.terjanq.me",
+    "forks_count": 207,
+    "html_url": "https://github.com/terjanq/Tiny-XSS-Payloads",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Tiny-XSS-Payloads",
+    "repo_owner": "terjanq",
+    "repotime": "2024-11-29, 23:58:22",
+    "stargazers_count": 2113,
+    "watchers_count": 2113
+}
+{
+    "commits_count": 35,
+    "date_started": "2023-02-16",
+    "date_updated": "2024-11-28",
+    "description": "SQLMutant is a powerful SQL injection testing tool that includes both passive and active reconnaissance processes for any given domain. It filters URLs to identify those with parameters susceptible to SQL injection formats and then performs injection attacks. These attacks include pattern matching, error analysis, and timing attacks.",
+    "forks_count": 34,
+    "html_url": "https://github.com/blackhatethicalhacking/SQLMutant",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Shell",
+    "repo_name": "SQLMutant",
+    "repo_owner": "blackhatethicalhacking",
+    "repotime": "2024-11-28, 22:06:35",
+    "stargazers_count": 149,
+    "watchers_count": 149
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-11-20",
+    "date_updated": "2024-11-26",
+    "description": "How to convert SQL files to csv files to implement injection of brine waters",
+    "forks_count": 0,
+    "html_url": "https://github.com/BehroozEtebari-DWR/O-G-data-retrieval",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "O-G-data-retrieval",
+    "repo_owner": "BehroozEtebari-DWR",
+    "repotime": "2024-11-26, 12:47:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-11-25",
+    "date_updated": "2024-11-25",
+    "description": "A python tool that resemble a vulnerability scanner. It looks for SQL injection, XSS and Directory Traversal vulnerabilities and introduce the suitable remediation for each vulnerability. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/ammarsoliman/Security_scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Security_scanner",
+    "repo_owner": "ammarsoliman",
+    "repotime": "2024-11-25, 21:43:25",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 34,
+    "date_started": "2019-02-11",
+    "date_updated": "2024-11-25",
+    "description": "Sample code accompanying blog article",
+    "forks_count": 12,
+    "html_url": "https://github.com/ploeh/asynchronous-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "asynchronous-injection",
+    "repo_owner": "ploeh",
+    "repotime": "2024-11-25, 08:37:41",
+    "stargazers_count": 44,
+    "watchers_count": 44
+}
+{
+    "commits_count": 1612,
+    "date_started": "2024-04-02",
+    "date_updated": "2024-11-23",
+    "description": "A .NET Framework 4.0 Windows Agent for Credential Tracking and Manipulation, also Remote code Execution.",
+    "forks_count": 1,
+    "html_url": "https://github.com/byt3n33dl3/ApolloExec",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "ApolloExec",
+    "repo_owner": "byt3n33dl3",
+    "repotime": "2024-11-23, 00:54:04",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 26,
+    "date_started": "2024-11-19",
+    "date_updated": "2024-11-21",
+    "description": "SQL Injection is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It typically occurs when user input is improperly sanitized or validated, enabling malicious SQL statements to be executed.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ahmadam37/SQL-INJECTION",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "SQL-INJECTION",
+    "repo_owner": "Ahmadam37",
+    "repotime": "2024-11-21, 19:54:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-11-21",
+    "date_updated": "2024-11-21",
+    "description": "A fast, reliable and lightweight  PHP code scanner for detecting XSS, SQLi, Path Traversal, and RCE vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/j4k0m/PHPTickler",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PHPTickler",
+    "repo_owner": "j4k0m",
+    "repotime": "2024-11-21, 14:16:08",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-11-20",
+    "date_updated": "2024-11-20",
+    "description": "This PowerShell script enumerates writable directories from the PATH environment variable for the current user. It is specifically designed to identify paths that may be exploited for DLL injection to achieve privilege escalation, particularly by targeting the SvcRebootToFlashingMode method of the StorSvc service.",
+    "forks_count": 0,
+    "html_url": "https://github.com/KeyStrOke95/StorSvcPrivescPathFinder",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "PowerShell",
+    "repo_name": "StorSvcPrivescPathFinder",
+    "repo_owner": "KeyStrOke95",
+    "repotime": "2024-11-20, 17:04:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-11-02",
+    "date_updated": "2024-11-20",
+    "description": "This repo contains found vulnerabilities from open-source projects. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/EmilGallajov/zero-day",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "zero-day",
+    "repo_owner": "EmilGallajov",
+    "repotime": "2024-11-20, 17:45:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 28,
+    "date_started": "2024-11-11",
+    "date_updated": "2024-11-14",
+    "description": "SQLMap Command Generator: A web-based tool to easily generate customizable SQLMap commands for testing SQL injection vulnerabilities. Features include target configuration, connection options, detection levels, and various SQL injection techniques. Perfect for penetration testers and security enthusiasts.",
+    "forks_count": 17,
+    "html_url": "https://github.com/Acorzo1983/SQLMapCG",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "HTML",
+    "repo_name": "SQLMapCG",
+    "repo_owner": "Acorzo1983",
+    "repotime": "2024-11-14, 12:52:11",
+    "stargazers_count": 66,
+    "watchers_count": 66
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-11-12",
+    "date_updated": "2024-11-13",
+    "description": "A central repository for managing CVE requests and publishing security advisories on vulnerabilities found in various projects.",
+    "forks_count": 0,
+    "html_url": "https://github.com/4l1y3vsul3ym4n/0day",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "0day",
+    "repo_owner": "4l1y3vsul3ym4n",
+    "repotime": "2024-11-13, 16:55:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-04-23",
+    "date_updated": "2024-11-12",
+    "description": "NLP-based approach to detect some web attacks: xss, sqli, command injection, path traversal",
+    "forks_count": 0,
+    "html_url": "https://github.com/chadha-sridi/NLP-based_Web_Application_Firewall",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "NLP-based_Web_Application_Firewall",
+    "repo_owner": "chadha-sridi",
+    "repotime": "2024-11-12, 18:51:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 228,
+    "date_started": "2018-12-19",
+    "date_updated": "2024-11-10",
+    "description": "TypeScript clients for databases that prevent SQL Injection",
+    "forks_count": 46,
+    "html_url": "https://github.com/ForbesLindesay/atdatabases",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "TypeScript",
+    "repo_name": "atdatabases",
+    "repo_owner": "ForbesLindesay",
+    "repotime": "2024-11-10, 20:35:31",
+    "stargazers_count": 617,
+    "watchers_count": 617
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-10-08",
+    "date_updated": "2024-11-06",
+    "description": "A Python tool for automated web application security testing. Detects common vulnerabilities like SQL Injection, XSS, brute force, and directory traversal, and checks for missing HTTP security headers. Ideal for developers and security professionals to generate detailed vulnerability reports.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Wang-Ying-Yi/web_app_testing_tool",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "web_app_testing_tool",
+    "repo_owner": "Wang-Ying-Yi",
+    "repotime": "2024-11-06, 00:44:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2024-11-05",
+    "date_updated": "2024-11-05",
+    "description": "Ce projet utilise l'outil SQLMap pour identifier et exploiter des vulnérabilités d'injection SQL sur une application web locale. L'objectif est de récupérer des informations critiques depuis la base de données, en particulier sur les utilisateurs et les privilèges, et de les exporter en fichiers .csv.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nyx-Off/SQL-Injection-Training-App-Rapport",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "SQL-Injection-Training-App-Rapport",
+    "repo_owner": "Nyx-Off",
+    "repotime": "2024-11-05, 14:27:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

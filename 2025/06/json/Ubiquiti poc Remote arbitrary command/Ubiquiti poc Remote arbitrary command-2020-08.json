@@ -224,3 +224,229 @@
     "stargazers_count": 7,
     "watchers_count": 7
 }
+{
+    "commits_count": 13,
+    "date_started": "2020-01-11",
+    "date_updated": "2020-08-28",
+    "description": "CVE-2019-19781 - Remote Code Execution on Citrix ADC Netscaler exploit",
+    "forks_count": 34,
+    "html_url": "https://github.com/mpgn/CVE-2019-19781",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-19781",
+    "repo_owner": "mpgn",
+    "repotime": "2020-08-28, 16:09:18",
+    "stargazers_count": 156,
+    "watchers_count": 156
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-08-23",
+    "date_updated": "2020-08-23",
+    "description": "通达OA&amp;lt;v11.5&amp;amp;v11.6版本RCE Exploit",
+    "forks_count": 14,
+    "html_url": "https://github.com/admintony/TongdaRCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "TongdaRCE",
+    "repo_owner": "admintony",
+    "repotime": "2020-08-23, 16:44:48",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 25,
+    "date_started": "2020-08-07",
+    "date_updated": "2020-08-21",
+    "description": "House Rental v1.0 suffers from an unauthenticated SQL Injection vulnerability allowing remote attackers to execute arbitrary code on the hosting webserver via sending a malicious POST request.",
+    "forks_count": 1,
+    "html_url": "https://github.com/boku7/homeRent-SQLi-RCE",
+    "keywords": [
+        "unauthenticated attacker",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "homeRent-SQLi-RCE",
+    "repo_owner": "boku7",
+    "repotime": "2020-08-21, 14:20:05",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 40,
+    "date_started": "2017-06-25",
+    "date_updated": "2020-08-19",
+    "description": "XSS'OR - Hack with JavaScript.",
+    "forks_count": 381,
+    "html_url": "https://github.com/evilcos/xssor2",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xssor2",
+    "repo_owner": "evilcos",
+    "repotime": "2020-08-19, 10:27:51",
+    "stargazers_count": 2173,
+    "watchers_count": 2173
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-08-17",
+    "date_updated": "2020-08-18",
+    "description": "A small project to bypass UAC in windows 10/8/7 using dll injection technique",
+    "forks_count": 21,
+    "html_url": "https://github.com/shubham0d/UAC-bypass-using-dll-injection",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "UAC-bypass-using-dll-injection",
+    "repo_owner": "shubham0d",
+    "repotime": "2020-08-18, 01:35:11",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
+    "commits_count": 368,
+    "date_started": "2012-05-28",
+    "date_updated": "2020-08-11",
+    "description": "Runtime Code Injection for Objective-C &amp;amp; Swift",
+    "forks_count": 566,
+    "html_url": "https://github.com/johnno1962/injectionforxcode",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "injectionforxcode",
+    "repo_owner": "johnno1962",
+    "repotime": "2020-08-11, 06:26:28",
+    "stargazers_count": 6556,
+    "watchers_count": 6556
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-08-10",
+    "date_updated": "2020-08-10",
+    "description": "Travel Management System v1.0 Unauthenticated RCE Exploit",
+    "forks_count": 4,
+    "html_url": "https://github.com/hyd3sec/TravelManagementSystem_Unauth_RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "TravelManagementSystem_Unauth_RCE",
+    "repo_owner": "hyd3sec",
+    "repotime": "2020-08-10, 21:49:23",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-08-07",
+    "date_updated": "2020-08-07",
+    "description": "public 0day exploit dev",
+    "forks_count": 0,
+    "html_url": "https://github.com/kernelzeroday/0day-dev",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "C",
+    "repo_name": "0day-dev",
+    "repo_owner": "kernelzeroday",
+    "repotime": "2020-08-07, 21:19:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 34,
+    "date_started": "2013-07-19",
+    "date_updated": "2020-08-07",
+    "description": "The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.",
+    "forks_count": 158,
+    "html_url": "https://github.com/SpiderLabs/MCIR",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PHP",
+    "repo_name": "MCIR",
+    "repo_owner": "SpiderLabs",
+    "repotime": "2020-08-07, 14:44:09",
+    "stargazers_count": 442,
+    "watchers_count": 442
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-08-05",
+    "date_updated": "2020-08-06",
+    "description": "POC Selenium grid RCE using chrome webdriver.",
+    "forks_count": 1,
+    "html_url": "https://github.com/grines/selenium-grid-rce",
+    "keywords": [
+        "Chrome rce",
+        "Chrome rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "selenium-grid-rce",
+    "repo_owner": "grines",
+    "repotime": "2020-08-06, 23:00:39",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 23,
+    "date_started": "2018-08-06",
+    "date_updated": "2020-08-05",
+    "description": "Recursively exploit path traversal vulnerability",
+    "forks_count": 5,
+    "html_url": "https://github.com/Sjord/protravel",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "protravel",
+    "repo_owner": "Sjord",
+    "repotime": "2020-08-05, 09:33:49",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 99,
+    "date_started": "2016-05-19",
+    "date_updated": "2020-08-05",
+    "description": "NoSQLAttack is an open source Python tool to automate exploit MongoDB server IP on Internet and disclose the database data by MongoDB default configuration weaknesses and injection attacks.",
+    "forks_count": 88,
+    "html_url": "https://github.com/youngyangyang04/NoSQLAttack",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "NoSQLAttack",
+    "repo_owner": "youngyangyang04",
+    "repotime": "2020-08-05, 09:29:07",
+    "stargazers_count": 310,
+    "watchers_count": 310
+}
+{
+    "commits_count": 24,
+    "date_started": "2020-07-29",
+    "date_updated": "2020-08-03",
+    "description": "Ingress GCE with WAF Cloud Armor: SQL injection,Cross-Site Scripting (XSS),Local file inclusion (LFI),Remote Code Execution (RCE),Remote File Inclusion (RFI)",
+    "forks_count": 1,
+    "html_url": "https://github.com/abdidarmawan007/k8s-ingress-gce-cloud-armor",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "k8s-ingress-gce-cloud-armor",
+    "repo_owner": "abdidarmawan007",
+    "repotime": "2020-08-03, 14:25:15",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}

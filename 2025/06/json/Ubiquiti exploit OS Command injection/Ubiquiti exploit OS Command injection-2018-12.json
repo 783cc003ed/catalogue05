@@ -83,3 +83,88 @@
     "stargazers_count": 64,
     "watchers_count": 64
 }
+{
+    "commits_count": 3,
+    "date_started": "2018-12-05",
+    "date_updated": "2018-12-20",
+    "description": "SMEP protection bypass project &amp;amp; others",
+    "forks_count": 0,
+    "html_url": "https://github.com/SEFI2/ComputerSecurity",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C",
+    "repo_name": "ComputerSecurity",
+    "repo_owner": "SEFI2",
+    "repotime": "2018-12-20, 08:28:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 94,
+    "date_started": "2014-10-27",
+    "date_updated": "2018-12-19",
+    "description": "DDoS attacks via other sites execution tool (DAVOSET) - it is command line tool for conducting DDoS attacks on the sites via Abuse of Functionality and XML External Entities vulnerabilities at other sites.",
+    "forks_count": 78,
+    "html_url": "https://github.com/MustLive/DAVOSET",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Perl",
+    "repo_name": "DAVOSET",
+    "repo_owner": "MustLive",
+    "repotime": "2018-12-19, 21:26:07",
+    "stargazers_count": 128,
+    "watchers_count": 128
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-04-01",
+    "date_updated": "2018-12-13",
+    "description": "This provides sample codes for Azure Functions V2, with regards to dependency injections",
+    "forks_count": 7,
+    "html_url": "https://github.com/devkimchi/Azure-Functions-V2-Dependency-Injection-Sample",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "Azure-Functions-V2-Dependency-Injection-Sample",
+    "repo_owner": "devkimchi",
+    "repotime": "2018-12-13, 01:01:41",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 9,
+    "date_started": "2018-12-08",
+    "date_updated": "2018-12-10",
+    "description": "Word 2016 vulnerability allows injecting HTML/JS code into a docx file's embeddedHTML=&amp;quot;&amp;quot; tags.",
+    "forks_count": 16,
+    "html_url": "https://github.com/thom-s/docx-embeddedhtml-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PowerShell",
+    "repo_name": "docx-embeddedhtml-injection",
+    "repo_owner": "thom-s",
+    "repotime": "2018-12-10, 11:19:49",
+    "stargazers_count": 95,
+    "watchers_count": 95
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-04-17",
+    "date_updated": "2018-12-09",
+    "description": "机器学习检测SQL注入",
+    "forks_count": 23,
+    "html_url": "https://github.com/flywangfang258/ML-for-SQL-Injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "ML-for-SQL-Injection",
+    "repo_owner": "flywangfang258",
+    "repotime": "2018-12-09, 17:48:02",
+    "stargazers_count": 64,
+    "watchers_count": 64
+}

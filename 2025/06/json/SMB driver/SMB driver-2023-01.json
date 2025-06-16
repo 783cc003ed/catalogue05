@@ -69,3 +69,74 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 2,
+    "date_started": "2023-01-20",
+    "date_updated": "2023-01-20",
+    "description": "A memory leak in the dwc3_pci_probe() function in drivers/usb/dwc3/dwc3-pci.c in the Linux kernel through 5.3.9 allows attackers to cause a denial of service (memory consumption) by triggering platform_device_add_properties() failures, aka CID-9bbfceea12a8. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-18813",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-18813",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-20, 16:42:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21732",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21732",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 17:16:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-11",
+    "date_updated": "2023-01-11",
+    "description": "NVIDIA vGPU Display Driver for Linux guest contains a vulnerability in a D-Bus configuration file, where an unauthorized user in the guest VM can impact protected D-Bus endpoints, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42260",
+    "keywords": [
+        "escalation of privileges disclosure",
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42260",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-11, 23:12:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-06",
+    "date_updated": "2023-01-07",
+    "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys) handler, where improper input validation of a display-related data structure may lead to denial of service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34681",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34681",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-07, 00:41:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

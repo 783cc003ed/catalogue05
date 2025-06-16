@@ -84,3 +84,89 @@
     "stargazers_count": 15,
     "watchers_count": 15
 }
+{
+    "commits_count": 10,
+    "date_started": "2017-09-17",
+    "date_updated": "2020-03-23",
+    "description": "A proof of concept for Joomla's CVE-2015-8562 vulnerability (Object Injection RCE)",
+    "forks_count": 8,
+    "html_url": "https://github.com/VoidSec/Joomla_CVE-2015-8562",
+    "keywords": [
+        "rce proof of concept",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Joomla_CVE-2015-8562",
+    "repo_owner": "VoidSec",
+    "repotime": "2020-03-23, 16:55:55",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-03-17",
+    "date_updated": "2020-03-17",
+    "description": "example on using metadata injection with CSV files and row normaliser",
+    "forks_count": 0,
+    "html_url": "https://github.com/jfneis/pdi-metadata-injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "pdi-metadata-injection",
+    "repo_owner": "jfneis",
+    "repotime": "2020-03-17, 17:16:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 65,
+    "date_started": "2020-02-20",
+    "date_updated": "2020-03-15",
+    "description": "Cookie spoofing tool and session example website",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ronny011/spookie",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "CSS",
+    "repo_name": "spookie",
+    "repo_owner": "Ronny011",
+    "repotime": "2020-03-15, 01:41:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 74,
+    "date_started": "2017-04-06",
+    "date_updated": "2020-03-11",
+    "description": "Windows 8.1 and 10 UAC bypass abusing WinSxS in &amp;quot;dccw.exe&amp;quot;.",
+    "forks_count": 91,
+    "html_url": "https://github.com/L3cr0f/DccwBypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "DccwBypassUAC",
+    "repo_owner": "L3cr0f",
+    "repotime": "2020-03-11, 16:23:11",
+    "stargazers_count": 391,
+    "watchers_count": 391
+}
+{
+    "commits_count": 89,
+    "date_started": "2015-04-02",
+    "date_updated": "2020-03-02",
+    "description": "Not Another Code Injection Toolkit",
+    "forks_count": 5,
+    "html_url": "https://github.com/msmania/procjack",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "procjack",
+    "repo_owner": "msmania",
+    "repotime": "2020-03-02, 21:17:24",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}

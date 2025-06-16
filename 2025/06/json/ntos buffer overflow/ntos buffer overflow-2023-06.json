@@ -115,3 +115,120 @@
     "stargazers_count": 540,
     "watchers_count": 540
 }
+{
+    "commits_count": 76,
+    "date_started": "2019-04-11",
+    "date_updated": "2023-06-22",
+    "description": "Exploit Development - Weaponized Exploit and Proof of Concepts (PoC) ",
+    "forks_count": 51,
+    "html_url": "https://github.com/VoidSec/Exploit-Development",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce poc",
+        "Windows lpe poc",
+        "Windows lpe exploit",
+        "Windows rce poc",
+        "rce exploit",
+        "0day poc",
+        "Windows rce",
+        "Windows lpe",
+        "0day proof of concept",
+        "lpe poc",
+        "Windows 0day exploit",
+        "rce exploitation",
+        "0day exploitation",
+        "Windows rce proof of concept",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Windows 0day proof of concept",
+        "Windows 0day exploitation",
+        "Windows 0day poc",
+        "Windows 0day",
+        "lpe proof of concept",
+        "0day exploit",
+        "rce proof of concept",
+        "Windows lpe proof of concept",
+        "Windows rce exploit",
+        "lpe exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Exploit-Development",
+    "repo_owner": "VoidSec",
+    "repotime": "2023-06-22, 22:49:44",
+    "stargazers_count": 222,
+    "watchers_count": 222
+}
+{
+    "commits_count": 15,
+    "date_started": "2020-11-05",
+    "date_updated": "2023-06-21",
+    "description": "Analysis and exploitation of an use-after-free in ProFTPd",
+    "forks_count": 4,
+    "html_url": "https://github.com/ptef/CVE-2020-9273",
+    "keywords": [
+        "use after free analysis",
+        "use after free exploitation",
+        "use after free exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2020-9273",
+    "repo_owner": "ptef",
+    "repotime": "2023-06-21, 12:55:30",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-06-15",
+    "date_updated": "2023-06-15",
+    "description": "Used problem solving and reverse engineering to find the exploits for 10 binaries with ASLR turned on. Exploited the vulnerabilities in ASLR using Heap Buffer Overflows and Return Oriented Programming. Created the shellcode and deduced the NOP Slide required to overwrite the return address to point to the heap, text, data or bss regions.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ratangupta/Bypassing-ASLR",
+    "keywords": [
+        "aslr bypass exploitation",
+        "aslr bypass",
+        "aslr bypass exploit",
+        "aslr bypass vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Bypassing-ASLR",
+    "repo_owner": "ratangupta",
+    "repotime": "2023-06-15, 01:03:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-06-09",
+    "date_updated": "2023-06-09",
+    "description": "Thruk Monitoring Web Interface &amp;lt;= 3.06 vulnerable to CVE-2023-34096 (Path Traversal).",
+    "forks_count": 1,
+    "html_url": "https://github.com/galoget/Thruk-CVE-2023-34096",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Thruk-CVE-2023-34096",
+    "repo_owner": "galoget",
+    "repotime": "2023-06-09, 13:26:32",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 102,
+    "date_started": "2021-04-21",
+    "date_updated": "2023-06-02",
+    "description": "RevSuit is a flexible and powerful reverse connection platform designed for receiving connection from target host in penetration. ",
+    "forks_count": 67,
+    "html_url": "https://github.com/Li4n0/revsuit",
+    "keywords": [
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "revsuit",
+    "repo_owner": "Li4n0",
+    "repotime": "2023-06-02, 00:36:44",
+    "stargazers_count": 540,
+    "watchers_count": 540
+}

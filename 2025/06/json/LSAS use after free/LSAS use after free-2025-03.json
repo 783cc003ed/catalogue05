@@ -452,7 +452,7 @@
     "date_started": "2019-07-31",
     "date_updated": "2025-03-05",
     "description": "Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.",
-    "forks_count": 148,
+    "forks_count": 149,
     "html_url": "https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension",
     "keywords": [
         "by_owner"
@@ -461,8 +461,525 @@
     "repo_name": "IPRotate_Burp_Extension",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2025-03-05, 10:02:53",
-    "stargazers_count": 852,
-    "watchers_count": 852
+    "stargazers_count": 853,
+    "watchers_count": 853
+}
+{
+    "commits_count": 25,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-03-05",
+    "description": "fud uac-bypass for win 10-11, from user to system",
+    "forks_count": 2,
+    "html_url": "https://github.com/SilentDev33/uac-bypass-win11",
+    "keywords": [
+        "Win 0day"
+    ],
+    "language": "Roff",
+    "repo_name": "uac-bypass-win11",
+    "repo_owner": "SilentDev33",
+    "repotime": "2025-03-05, 21:01:38",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 166,
+    "date_started": "2024-10-09",
+    "date_updated": "2025-03-03",
+    "description": "Auto Recon tool for finding SQLi,XSS,LFi,OpenRedirect",
+    "forks_count": 17,
+    "html_url": "https://github.com/aungsanoo-usa/aungrecon",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Shell",
+    "repo_name": "aungrecon",
+    "repo_owner": "aungsanoo-usa",
+    "repotime": "2025-03-03, 20:30:17",
+    "stargazers_count": 35,
+    "watchers_count": 35
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-03-03",
+    "description": "Práctica de la vulnerabilidad CWE-918: Server-Side Request Forgery (SSRF).",
+    "forks_count": 0,
+    "html_url": "https://github.com/MaxSJimenez04/CWE-918",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "C++",
+    "repo_name": "CWE-918",
+    "repo_owner": "MaxSJimenez04",
+    "repotime": "2025-03-03, 17:16:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 38,
+    "date_started": "2025-03-14",
+    "date_updated": "2025-03-31",
+    "description": "LPEAssessor is a comprehensive Linux privilege escalation assessment tool designed for security professionals, system administrators, and penetration testers. It systematically identifies potential privilege escalation vectors, verifies their exploitability, and provides detailed reports with actionable remediation recommendations.",
+    "forks_count": 1,
+    "html_url": "https://github.com/ParzivalHack/LPEAssessor",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "LPEAssessor",
+    "repo_owner": "ParzivalHack",
+    "repotime": "2025-03-31, 16:47:26",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-23",
+    "date_updated": "2025-03-30",
+    "description": "Powerful static analysis tool for .NET, quickly identifies potential memory leaks related to incorrect implementations of the IDisposable interface.",
+    "forks_count": 0,
+    "html_url": "https://github.com/gcarlossuarez/IDisposableLeakAnalyzer",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C#",
+    "repo_name": "IDisposableLeakAnalyzer",
+    "repo_owner": "gcarlossuarez",
+    "repotime": "2025-03-30, 16:41:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-03-30",
+    "date_updated": "2025-03-30",
+    "description": "Lightweight C-based POC of the CIA's &amp;quot;Stinger&amp;quot; exploit (Vault 7) — Escalate privileges to SYSTEM on Windows by duplicating a UAC-elevated token and using COM to launch a scheduled task.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Aur3ns/Simply_Stinger",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Simply_Stinger",
+    "repo_owner": "Aur3ns",
+    "repotime": "2025-03-30, 12:58:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-03-26",
+    "date_updated": "2025-03-29",
+    "description": "ScottCart &amp;lt;= 1.1 - Unauthenticated Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nxploited/CVE-2024-50492",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-50492",
+    "repo_owner": "Nxploited",
+    "repotime": "2025-03-29, 23:25:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-03-27",
+    "date_updated": "2025-03-29",
+    "description": "Kubio AI Page Builder &amp;lt;= 2.5.1 - Unauthenticated Local File Inclusion",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nxploited/CVE-2025-2294",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-2294",
+    "repo_owner": "Nxploited",
+    "repotime": "2025-03-29, 23:24:58",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 23,
+    "date_started": "2024-11-28",
+    "date_updated": "2025-03-27",
+    "description": "Detect SSRF within Caido",
+    "forks_count": 4,
+    "html_url": "https://github.com/caido-community/quickssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "TypeScript",
+    "repo_name": "quickssrf",
+    "repo_owner": "caido-community",
+    "repotime": "2025-03-27, 12:28:22",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 16,
+    "date_started": "2024-09-15",
+    "date_updated": "2025-03-24",
+    "description": "POC - Unauthenticated RCE Flaw in Rejetto HTTP File Server - CVE-2024-23692 ",
+    "forks_count": 15,
+    "html_url": "https://github.com/verylazytech/CVE-2024-23692",
+    "keywords": [
+        "unauthenticated rce",
+        "rce poc"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2024-23692",
+    "repo_owner": "verylazytech",
+    "repotime": "2025-03-24, 12:08:18",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 14,
+    "date_started": "2025-03-22",
+    "date_updated": "2025-03-22",
+    "description": "This project utilizes a Long Short-Term Memory (LSTM) model, a type of recurrent neural network (RNN) well-suited for sequence prediction tasks. LSTMs have been widely used for natural language processing (NLP) tasks, including text generation and sequence classification. The model is trained on leaked password datasets.",
+    "forks_count": 0,
+    "html_url": "https://github.com/armandaristide/AI-For-Password-Strength-Analysis",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "AI-For-Password-Strength-Analysis",
+    "repo_owner": "armandaristide",
+    "repotime": "2025-03-22, 22:20:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-03-19",
+    "date_updated": "2025-03-22",
+    "description": "PathSeeker is a Python-based tool designed to identify path traversal vulnerabilities in web applications. It uses a combination of multi-threading, random user agents, and a robust wordlist to efficiently test endpoints for potential security weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/praveenkavi5/PathSeeker",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PathSeeker",
+    "repo_owner": "praveenkavi5",
+    "repotime": "2025-03-22, 01:30:38",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 28,
+    "date_started": "2024-10-07",
+    "date_updated": "2025-03-21",
+    "description": "(ICRA'25) &amp;quot;SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis&amp;quot;",
+    "forks_count": 2,
+    "html_url": "https://github.com/Keio-CSG/slamspoof",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "slamspoof",
+    "repo_owner": "Keio-CSG",
+    "repotime": "2025-03-21, 08:12:31",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 1663,
+    "date_started": "2018-06-13",
+    "date_updated": "2025-03-20",
+    "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+    "forks_count": 735,
+    "html_url": "https://github.com/RhinoSecurityLabs/pacu",
+    "keywords": [
+        "exploitation",
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "pacu",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2025-03-20, 14:08:56",
+    "stargazers_count": 4703,
+    "watchers_count": 4703
+}
+{
+    "commits_count": 47,
+    "date_started": "2024-03-04",
+    "date_updated": "2025-03-20",
+    "description": "A  web application built using the MERN stack that allows authenticated users to send and view messages along with sender details and timestamps, while unauthenticated users can only view messages without sender details.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AtmaniChouaib22/Members-Only",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "Members-Only",
+    "repo_owner": "AtmaniChouaib22",
+    "repotime": "2025-03-20, 12:38:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 52,
+    "date_started": "2015-06-30",
+    "date_updated": "2025-03-19",
+    "description": "My collection of exploit development skeletons for fuzzing, overwriting the stack, remote code execution, etc.",
+    "forks_count": 7,
+    "html_url": "https://github.com/shipcod3/sploitchits",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Classic ASP",
+    "repo_name": "sploitchits",
+    "repo_owner": "shipcod3",
+    "repotime": "2025-03-19, 18:15:10",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-17",
+    "date_updated": "2025-03-18",
+    "description": "【Hello-CTF labs】一个ssrf的综合靶场，包含RCE，SQL注入，Tomcat，Redis，MySQL提权等ssrf攻击场景",
+    "forks_count": 3,
+    "html_url": "https://github.com/ProbiusOfficial/ssrf-labs",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "ssrf-labs",
+    "repo_owner": "ProbiusOfficial",
+    "repotime": "2025-03-18, 11:25:21",
+    "stargazers_count": 65,
+    "watchers_count": 65
+}
+{
+    "commits_count": 135,
+    "date_started": "2024-08-05",
+    "date_updated": "2025-03-16",
+    "description": "VFGadget locator to facilitate Counterfeit Object-Oriented Programming (COOP) and Loop-Oriented Programming (LOP) attacks to bypass advanced security protections like Intel CET and Control-Flow Guard (CFG) to achieve Remote Code Execution.",
+    "forks_count": 1,
+    "html_url": "https://github.com/mar-ket-vector/VXpp",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "Python",
+    "repo_name": "VXpp",
+    "repo_owner": "mar-ket-vector",
+    "repotime": "2025-03-16, 16:34:27",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 53,
+    "date_started": "2024-10-17",
+    "date_updated": "2025-03-16",
+    "description": "A woking proof of concept for detecting session hijacking using browser fingerprinting.",
+    "forks_count": 0,
+    "html_url": "https://github.com/1Mike3/sessionHijackingPrevention",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Java",
+    "repo_name": "sessionHijackingPrevention",
+    "repo_owner": "1Mike3",
+    "repotime": "2025-03-16, 15:40:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2025-02-25",
+    "date_updated": "2025-03-11",
+    "description": "SAPLAR - LFI &amp;amp; Path Traversal Scanner",
+    "forks_count": 4,
+    "html_url": "https://github.com/murat-exp/SAPLAR",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "SAPLAR",
+    "repo_owner": "murat-exp",
+    "repotime": "2025-03-11, 11:21:22",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 178,
+    "date_started": "2024-04-11",
+    "date_updated": "2025-03-10",
+    "description": "Advance Python Keylogger &amp;amp; Remote Payload Executor for windows",
+    "forks_count": 0,
+    "html_url": "https://github.com/3rr0r-505/KeySpy",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "KeySpy",
+    "repo_owner": "3rr0r-505",
+    "repotime": "2025-03-10, 10:53:14",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 14,
+    "date_started": "2025-03-05",
+    "date_updated": "2025-03-09",
+    "description": "MatrixScan: A Linux privilege escalation checker for security professionals and CTF enjoyers. Comprehensive system analysis with over 200 security checks. Identifies kernel exploits, SUID binaries, sudo misconfigurations, and other privilege escalation vectors. MatrixScan creates a useful report of its findings. Please use responsibly!",
+    "forks_count": 0,
+    "html_url": "https://github.com/JeffAllen714/MatrixScan",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "MatrixScan",
+    "repo_owner": "JeffAllen714",
+    "repotime": "2025-03-09, 16:26:33",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-03-09",
+    "date_updated": "2025-03-09",
+    "description": "you can scan the files found during a directory traversal for vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/stryk3rsince1994/Directory_Traversal_file_vulnScann3r",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Directory_Traversal_file_vulnScann3r",
+    "repo_owner": "stryk3rsince1994",
+    "repotime": "2025-03-09, 09:44:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-15",
+    "date_updated": "2025-03-08",
+    "description": "This project analyzes the differences in customer retention between free and premium users, using a dataset that includes both in-store and mobile orders. It visualizes the retention rates of users after making a specific number of purchases (X orders) and would be valuable for presenting to potential stakeholders.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dafydd-rhys/customer-retention-analysis",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "HTML",
+    "repo_name": "customer-retention-analysis",
+    "repo_owner": "dafydd-rhys",
+    "repotime": "2025-03-08, 13:10:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-03-07",
+    "date_updated": "2025-03-07",
+    "description": "Untested The script assumes a kernel exploit exists to bypass NX, SMAP, SMEP, and UMIP. Without it, boot_linux won’t run. Check PS5 homebrew communities for updates.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SleepTheGod/PS5_Linux_Boot",
+    "keywords": [
+        "smap bypass"
+    ],
+    "language": "Shell",
+    "repo_name": "PS5_Linux_Boot",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2025-03-07, 10:16:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 33,
+    "date_started": "2022-08-26",
+    "date_updated": "2025-03-07",
+    "description": "This repository contains a sample Java application vulnerable to command injection and server-side request forgery (SSRF).",
+    "forks_count": 85,
+    "html_url": "https://github.com/DataDog/vulnerable-java-application",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "vulnerable-java-application",
+    "repo_owner": "DataDog",
+    "repotime": "2025-03-07, 11:34:42",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 25,
+    "date_started": "2025-03-04",
+    "date_updated": "2025-03-07",
+    "description": "fud uac-bypass for win 10-11, from user to system",
+    "forks_count": 0,
+    "html_url": "https://github.com/hunterhouse027/uac-bypass-win11",
+    "keywords": [
+        "Win 0day"
+    ],
+    "language": "Roff",
+    "repo_name": "uac-bypass-win11",
+    "repo_owner": "hunterhouse027",
+    "repotime": "2025-03-07, 02:38:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-19",
+    "date_updated": "2025-03-07",
+    "description": "You can download and install Microsoft Word 2021 for free here",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nagy235/microsoft-word-2021",
+    "keywords": [
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "microsoft-word-2021",
+    "repo_owner": "Nagy235",
+    "repotime": "2025-03-07, 05:01:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 96,
+    "date_started": "2023-08-18",
+    "date_updated": "2025-03-06",
+    "description": "Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式",
+    "forks_count": 60,
+    "html_url": "https://github.com/Whoopsunix/JavaRce",
+    "keywords": [
+        "rce vulnerability",
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "JavaRce",
+    "repo_owner": "Whoopsunix",
+    "repotime": "2025-03-06, 13:21:37",
+    "stargazers_count": 514,
+    "watchers_count": 514
+}
+{
+    "commits_count": 65,
+    "date_started": "2019-07-31",
+    "date_updated": "2025-03-05",
+    "description": "Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.",
+    "forks_count": 149,
+    "html_url": "https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "IPRotate_Burp_Extension",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2025-03-05, 10:02:53",
+    "stargazers_count": 853,
+    "watchers_count": 853
 }
 {
     "commits_count": 25,

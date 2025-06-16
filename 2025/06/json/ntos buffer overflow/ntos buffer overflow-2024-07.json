@@ -102,3 +102,107 @@
     "stargazers_count": 7,
     "watchers_count": 7
 }
+{
+    "commits_count": 44,
+    "date_started": "2022-12-05",
+    "date_updated": "2024-07-30",
+    "description": "Find Email Spoofing Vulnerablity of domains",
+    "forks_count": 11,
+    "html_url": "https://github.com/BLACK-SCORP10/Email-Vulnerability-Checker",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "Email-Vulnerability-Checker",
+    "repo_owner": "BLACK-SCORP10",
+    "repotime": "2024-07-30, 18:15:37",
+    "stargazers_count": 94,
+    "watchers_count": 94
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-07-29",
+    "date_updated": "2024-07-29",
+    "description": "Windows AppLocker Driver (appid.sys) LPE",
+    "forks_count": 14,
+    "html_url": "https://github.com/Crowdfense/CVE-2024-21338",
+    "keywords": [
+        "Windows lpe",
+        "lpe exploit",
+        "Windows lpe exploit"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2024-21338",
+    "repo_owner": "Crowdfense",
+    "repotime": "2024-07-29, 17:29:59",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-07-24",
+    "date_updated": "2024-07-24",
+    "description": "This repository is for use the wake on lan concept on a machine, and other tool is to execute remote commands on a windows machine.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rannden-SHA/WoL-RCE",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "PowerShell",
+    "repo_name": "WoL-RCE",
+    "repo_owner": "Rannden-SHA",
+    "repotime": "2024-07-24, 15:58:47",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 93,
+    "date_started": "2019-01-15",
+    "date_updated": "2024-07-23",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "forks_count": 1988,
+    "html_url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "Resources-for-Beginner-Bug-Bounty-Hunters",
+    "repo_owner": "nahamsec",
+    "repotime": "2024-07-23, 10:01:39",
+    "stargazers_count": 11318,
+    "watchers_count": 11318
+}
+{
+    "commits_count": 18,
+    "date_started": "2024-05-28",
+    "date_updated": "2024-07-19",
+    "description": "Session Hijacking Tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/XanderL2/Cat-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "Cat-Hijacking",
+    "repo_owner": "XanderL2",
+    "repotime": "2024-07-19, 11:29:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 21,
+    "date_started": "2024-05-12",
+    "date_updated": "2024-07-19",
+    "description": "Kernel Exploit for CVE-2016-6187 (Local Privilege Escalation)",
+    "forks_count": 0,
+    "html_url": "https://github.com/Milo-D/CVE-2016-6187_LPE",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2016-6187_LPE",
+    "repo_owner": "Milo-D",
+    "repotime": "2024-07-19, 05:03:18",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}

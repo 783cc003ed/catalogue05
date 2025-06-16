@@ -160,3 +160,165 @@
     "stargazers_count": 13,
     "watchers_count": 13
 }
+{
+    "commits_count": 9,
+    "date_started": "2018-03-28",
+    "date_updated": "2018-09-27",
+    "description": "A simple, LFI vulnerable PHP application",
+    "forks_count": 9,
+    "html_url": "https://github.com/nikosdano/vulnerable-lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "PHP",
+    "repo_name": "vulnerable-lfi",
+    "repo_owner": "nikosdano",
+    "repotime": "2018-09-27, 10:54:53",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-09-24",
+    "date_updated": "2018-09-26",
+    "description": "Linux x86_64 inject based on inject",
+    "forks_count": 5,
+    "html_url": "https://github.com/HotIce0/code_injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "code_injection",
+    "repo_owner": "HotIce0",
+    "repotime": "2018-09-26, 08:34:35",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-09-21",
+    "date_updated": "2018-09-21",
+    "description": "Usage: python sqlmap.py [options] Options: -h, --help Show basic help message and exit -hh Show advanced help message and exit --version Show program's version number and exit -v VERBOSE Verbosity level: 0-6 (default 1) Target: At least one of these options has to be provided to define the target(s) -d DIRECT Connection string for direct database connection -u URL, --url=URL Target URL (e.g. &amp;quot;http://www.site.com/vuln.php?id=1&amp;quot;) -l LOGFILE Parse target(s) from Burp or WebScarab proxy log file -x SITEMAPURL Parse target(s) from remote sitemap(.xml) file -m BULKFILE Scan multiple targets given in a textual file -r REQUESTFILE Load HTTP request from a file -g GOOGLEDORK Process Google dork results as target URLs -c CONFIGFILE Load options from a configuration INI file Request: These options can be used to specify how to connect to the target URL --method=METHOD Force usage of given HTTP method (e.g. PUT) --data=DATA Data string to be sent through POST --param-del=PARA.. Character...",
+    "forks_count": 7,
+    "html_url": "https://github.com/HlaingPhyoAung/sqlmap",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "csv injection",
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "sqlmap",
+    "repo_owner": "HlaingPhyoAung",
+    "repotime": "2018-09-21, 04:51:04",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-09-17",
+    "date_updated": "2018-09-17",
+    "description": "AWS Metadata Proxy for protection against SSRF",
+    "forks_count": 19,
+    "html_url": "https://github.com/Netflix-Skunkworks/aws-metadata-proxy",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "aws-metadata-proxy",
+    "repo_owner": "Netflix-Skunkworks",
+    "repotime": "2018-09-17, 08:04:34",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 12,
+    "date_started": "2018-09-10",
+    "date_updated": "2018-09-12",
+    "description": "A PowerShell example of the Windows zero day priv esc",
+    "forks_count": 86,
+    "html_url": "https://github.com/OneLogicalMyth/zeroday-powershell",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": "PowerShell",
+    "repo_name": "zeroday-powershell",
+    "repo_owner": "OneLogicalMyth",
+    "repotime": "2018-09-12, 10:03:03",
+    "stargazers_count": 327,
+    "watchers_count": 327
+}
+{
+    "commits_count": 20,
+    "date_started": "2018-08-04",
+    "date_updated": "2018-09-11",
+    "description": "Foxit Reader version 9.0.1.1049 Use After Free with ASLR and DEP bypass on heap",
+    "forks_count": 2,
+    "html_url": "https://github.com/manojcode/Foxit-Reader-RCE-with-virualalloc-and-shellcode-for-CVE-2018-9948-and-CVE-2018-9958",
+    "keywords": [
+        "dep bypass",
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "Foxit-Reader-RCE-with-virualalloc-and-shellcode-for-CVE-2018-9948-and-CVE-2018-9958",
+    "repo_owner": "manojcode",
+    "repotime": "2018-09-11, 19:49:06",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 33,
+    "date_started": "2018-03-13",
+    "date_updated": "2018-09-06",
+    "description": "Repo for FUZE project. I will also publish some Linux kernel LPE exploits for various real world kernel vulnerabilities here. the samples are uploaded for education purposes for red and blue teams.",
+    "forks_count": 111,
+    "html_url": "https://github.com/ww9210/Linux_kernel_exploits",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Linux_kernel_exploits",
+    "repo_owner": "ww9210",
+    "repotime": "2018-09-06, 20:02:34",
+    "stargazers_count": 497,
+    "watchers_count": 497
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-09-04",
+    "date_updated": "2018-09-04",
+    "description": "A remote code execution exploit for WebLogic based on CVE-2018-2628",
+    "forks_count": 3,
+    "html_url": "https://github.com/Nervous/WebLogic-RCE-exploit",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "WebLogic-RCE-exploit",
+    "repo_owner": "Nervous",
+    "repotime": "2018-09-04, 14:21:08",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 10,
+    "date_started": "2018-08-19",
+    "date_updated": "2018-09-02",
+    "description": "Surgical python tool to assist in LFI discovery",
+    "forks_count": 13,
+    "html_url": "https://github.com/rtcrowley/fi-cyberspace-scan",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "fi-cyberspace-scan",
+    "repo_owner": "rtcrowley",
+    "repotime": "2018-09-02, 16:15:06",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}

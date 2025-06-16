@@ -22,3 +22,27 @@
     "stargazers_count": 8,
     "watchers_count": 8
 }
+{
+    "commits_count": 11,
+    "date_started": "2021-10-28",
+    "date_updated": "2021-10-31",
+    "description": "An attempt to reproduce Microsoft MSHTML Remote Code Execution (RCE) Vulnerability and using Metasploit Framework.",
+    "forks_count": 1,
+    "html_url": "https://github.com/kagura-maru/CVE-2021-40444-POC",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft rce",
+        "Microsoft rce poc",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution poc",
+        "remote code execution poc",
+        "Microsoft remote code execution",
+        "Microsoft rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-40444-POC",
+    "repo_owner": "kagura-maru",
+    "repotime": "2021-10-31, 16:15:00",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}

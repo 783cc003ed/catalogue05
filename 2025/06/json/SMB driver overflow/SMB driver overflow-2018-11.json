@@ -32,3 +32,37 @@
     "stargazers_count": 3,
     "watchers_count": 3
 }
+{
+    "commits_count": 4,
+    "date_started": "2018-11-18",
+    "date_updated": "2018-11-19",
+    "description": "HackSys Use After Free Windows 7 x32 Bit",
+    "forks_count": 0,
+    "html_url": "https://github.com/l3x4overflow/HEVD-UseAfterFree-x86",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "C++",
+    "repo_name": "HEVD-UseAfterFree-x86",
+    "repo_owner": "l3x4overflow",
+    "repotime": "2018-11-19, 17:13:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 49,
+    "date_started": "2018-07-04",
+    "date_updated": "2018-11-11",
+    "description": "A service which is vulnerable to XML External Entity (XXE) attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mprechtl/information-leakage",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Java",
+    "repo_name": "information-leakage",
+    "repo_owner": "mprechtl",
+    "repotime": "2018-11-11, 19:23:30",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

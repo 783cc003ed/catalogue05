@@ -36,3 +36,41 @@
     "stargazers_count": 81,
     "watchers_count": 81
 }
+{
+    "commits_count": 6,
+    "date_started": "2021-01-27",
+    "date_updated": "2021-01-30",
+    "description": "DOS2RCE scan tool using Google TAG and Microsoft MSTIC analysis information",
+    "forks_count": 0,
+    "html_url": "https://github.com/lutwidse/DOS2RCE-Malware-Scanner",
+    "keywords": [
+        "Microsoft rce dos",
+        "Microsoft rce",
+        "rce analysis",
+        "rce dos",
+        "Microsoft rce analysis"
+    ],
+    "language": "Python",
+    "repo_name": "DOS2RCE-Malware-Scanner",
+    "repo_owner": "lutwidse",
+    "repotime": "2021-01-30, 04:41:26",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-01-10",
+    "date_updated": "2021-01-10",
+    "description": "CVE-2020-36179~82  Jackson-databind SSRF&amp;amp;RCE",
+    "forks_count": 9,
+    "html_url": "https://github.com/Al1ex/CVE-2020-36179",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-36179",
+    "repo_owner": "Al1ex",
+    "repotime": "2021-01-10, 14:48:52",
+    "stargazers_count": 81,
+    "watchers_count": 81
+}

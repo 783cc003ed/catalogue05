@@ -207,3 +207,212 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 5,
+    "date_started": "2020-04-20",
+    "date_updated": "2020-06-29",
+    "description": "CVE-2020-0796 Remote Code Execution POC",
+    "forks_count": 173,
+    "html_url": "https://github.com/jamf/CVE-2020-0796-RCE-POC",
+    "keywords": [
+        "rce poc",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-0796-RCE-POC",
+    "repo_owner": "jamf",
+    "repotime": "2020-06-29, 12:38:12",
+    "stargazers_count": 556,
+    "watchers_count": 556
+}
+{
+    "commits_count": 19,
+    "date_started": "2018-05-13",
+    "date_updated": "2020-06-28",
+    "description": "Simple tool to extract the most common substrings from an input text. Built for password cracking.",
+    "forks_count": 18,
+    "html_url": "https://github.com/sensepost/common-substr",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Go",
+    "repo_name": "common-substr",
+    "repo_owner": "sensepost",
+    "repotime": "2020-06-28, 22:18:07",
+    "stargazers_count": 64,
+    "watchers_count": 64
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-06-26",
+    "date_updated": "2020-06-26",
+    "description": "This PoC explain how to exploit Wing FTP Server 6.3.8 to get Remote Code Execution",
+    "forks_count": 2,
+    "html_url": "https://github.com/V1n1v131r4/Wing-FTP-Server-6.3.8---Remote-Code-Execution",
+    "keywords": [
+        "Win remote code execution poc",
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "Win remote code execution exploit",
+        "Win remote code execution",
+        "remote code execution poc",
+        "Win remote code execution exploitation"
+    ],
+    "language": null,
+    "repo_name": "Wing-FTP-Server-6.3.8---Remote-Code-Execution",
+    "repo_owner": "V1n1v131r4",
+    "repotime": "2020-06-26, 13:54:25",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-06-25",
+    "date_updated": "2020-06-25",
+    "description": "UAC Bypass exploit for x64 Windows 10 machines, still not patched.",
+    "forks_count": 12,
+    "html_url": "https://github.com/Gork3m/Win10-UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Batchfile",
+    "repo_name": "Win10-UAC-Bypass",
+    "repo_owner": "Gork3m",
+    "repotime": "2020-06-25, 18:34:42",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 34,
+    "date_started": "2017-10-23",
+    "date_updated": "2020-06-21",
+    "description": "🚀 Server Directory Traversal at Huawei HG255s ☄️ - CVE-2017-17309 🚀",
+    "forks_count": 7,
+    "html_url": "https://github.com/exploit-labs/huawei_hg255s_exploit",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "huawei_hg255s_exploit",
+    "repo_owner": "exploit-labs",
+    "repotime": "2020-06-21, 12:29:43",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 61,
+    "date_started": "2016-03-07",
+    "date_updated": "2020-06-13",
+    "description": "XssPy - Web Application XSS Scanner",
+    "forks_count": 219,
+    "html_url": "https://github.com/faizann24/XssPy",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XssPy",
+    "repo_owner": "faizann24",
+    "repotime": "2020-06-13, 19:13:14",
+    "stargazers_count": 842,
+    "watchers_count": 842
+}
+{
+    "commits_count": 159,
+    "date_started": "2019-03-12",
+    "date_updated": "2020-06-07",
+    "description": "Creating a secure heap allocator resistant to use after free vulnerabilities. Inspired by the Cling allocator paper",
+    "forks_count": 0,
+    "html_url": "https://github.com/mattmccreesh/sHeap",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "TeX",
+    "repo_name": "sHeap",
+    "repo_owner": "mattmccreesh",
+    "repotime": "2020-06-07, 15:25:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-06-02",
+    "date_updated": "2020-06-02",
+    "description": "Beyond Clicks: Modeling Multi-Relational Item Graph for Session-Based Target Behavior Prediction",
+    "forks_count": 4,
+    "html_url": "https://github.com/Autumn945/MGNN-SPred",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "MGNN-SPred",
+    "repo_owner": "Autumn945",
+    "repotime": "2020-06-02, 17:33:48",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-06-01",
+    "date_updated": "2020-06-02",
+    "description": "PoC exploit for VMware Cloud Director RCE (CVE-2020-3956)",
+    "forks_count": 31,
+    "html_url": "https://github.com/aaronsvk/CVE-2020-3956",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-3956",
+    "repo_owner": "aaronsvk",
+    "repotime": "2020-06-02, 10:30:22",
+    "stargazers_count": 89,
+    "watchers_count": 89
+}
+{
+    "commits_count": 17,
+    "date_started": "2019-06-11",
+    "date_updated": "2020-06-02",
+    "description": "Some personal exploits/pocs",
+    "forks_count": 18,
+    "html_url": "https://github.com/dhn/exploits",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce poc",
+        "Windows lpe poc",
+        "Windows lpe exploit",
+        "Windows rce poc",
+        "rce exploit",
+        "Windows rce",
+        "Windows lpe",
+        "Windows rce exploit",
+        "lpe poc",
+        "rce exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "exploits",
+    "repo_owner": "dhn",
+    "repotime": "2020-06-02, 07:51:10",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
+    "commits_count": 297,
+    "date_started": "2019-05-14",
+    "date_updated": "2020-06-01",
+    "description": "Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a &amp;quot;JavaScript everywhere&amp;quot; paradigm,[7] unifying web application development around a single programming language, rather than different languages for server side and client side scripts. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/thiodene/Node.js",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Node.js",
+    "repo_owner": "thiodene",
+    "repotime": "2020-06-01, 16:14:44",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

@@ -104,3 +104,109 @@
     "stargazers_count": 2,
     "watchers_count": 2
 }
+{
+    "commits_count": 18,
+    "date_started": "2019-09-08",
+    "date_updated": "2019-10-27",
+    "description": "Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a browser. It allow to use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser.",
+    "forks_count": 0,
+    "html_url": "https://github.com/khachornchit/Node.js-Web-App",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Node.js-Web-App",
+    "repo_owner": "khachornchit",
+    "repotime": "2019-10-27, 04:46:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-10-21",
+    "date_updated": "2019-10-23",
+    "description": "exploit CVE-2019-7609(kibana RCE) on right way by python2 scripts",
+    "forks_count": 64,
+    "html_url": "https://github.com/LandGrey/CVE-2019-7609",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-7609",
+    "repo_owner": "LandGrey",
+    "repotime": "2019-10-23, 15:10:34",
+    "stargazers_count": 163,
+    "watchers_count": 163
+}
+{
+    "commits_count": 7,
+    "date_started": "2019-08-22",
+    "date_updated": "2019-10-22",
+    "description": "A session-based recommender system based on sequence prediction using Markov chains",
+    "forks_count": 0,
+    "html_url": "https://github.com/souhagaa/Sequence-prediction-markov-chains",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "Sequence-prediction-markov-chains",
+    "repo_owner": "souhagaa",
+    "repotime": "2019-10-22, 20:02:37",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 109,
+    "date_started": "2016-12-26",
+    "date_updated": "2019-10-13",
+    "description": "PHPMailer &amp;lt; 5.2.18 Remote Code Execution exploit and vulnerable container",
+    "forks_count": 146,
+    "html_url": "https://github.com/opsxcq/exploit-CVE-2016-10033",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "exploit-CVE-2016-10033",
+    "repo_owner": "opsxcq",
+    "repotime": "2019-10-13, 14:23:02",
+    "stargazers_count": 404,
+    "watchers_count": 404
+}
+{
+    "commits_count": 16,
+    "date_started": "2019-09-22",
+    "date_updated": "2019-10-08",
+    "description": "Python RCE exploit for Tiki Wiki 15.1, based on https://www.exploit-db.com/exploits/40091",
+    "forks_count": 1,
+    "html_url": "https://github.com/ivanitlearning/Tiki-Wiki-15.1-unrestricted-file-upload",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Python",
+    "repo_name": "Tiki-Wiki-15.1-unrestricted-file-upload",
+    "repo_owner": "ivanitlearning",
+    "repotime": "2019-10-08, 00:41:41",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-10-06",
+    "date_updated": "2019-10-07",
+    "description": "Hosting proof of concept exploit code of the remote code execution vulnerabilities in the IcedTea-Web Java webstart implementation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/irsl/icedtea-web-vulnerabilities",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "icedtea-web-vulnerabilities",
+    "repo_owner": "irsl",
+    "repotime": "2019-10-07, 09:00:52",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

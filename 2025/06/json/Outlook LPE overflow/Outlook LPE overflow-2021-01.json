@@ -102,3 +102,107 @@
     "stargazers_count": 54,
     "watchers_count": 54
 }
+{
+    "commits_count": 6,
+    "date_started": "2021-01-22",
+    "date_updated": "2021-01-22",
+    "description": "The House of Rust is a heap exploitation technique that drops a shell against full PIE binaries that don’t leak any addresses.",
+    "forks_count": 1,
+    "html_url": "https://github.com/c4ebt/House-of-Rust",
+    "keywords": [
+        "address leak exploit",
+        "address leak exploitation"
+    ],
+    "language": null,
+    "repo_name": "House-of-Rust",
+    "repo_owner": "c4ebt",
+    "repotime": "2021-01-22, 16:45:26",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-01-14",
+    "date_updated": "2021-01-15",
+    "description": "Smashing Stack in linux 64bit and bypass NX, ASLR, and stack canaries. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/vulnsystem/SmashingStack",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "SmashingStack",
+    "repo_owner": "vulnsystem",
+    "repotime": "2021-01-15, 20:59:03",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 221,
+    "date_started": "2021-01-03",
+    "date_updated": "2021-01-10",
+    "description": "What is JavaScript and what does it do?   Before you start learning something new, it’s important to understand exactly what it is and what it does. This is especially useful when it comes to mastering a new programming language.  In simple terms, JavaScript is a programming language used to make websites interactive. If you think about the basic makeup of a website, you have HTML, which describes and defines the basic content and structure of the website, then you have CSS, which tells the browser how this HTML content should be displayed—determining things like color and font. With just HTML and CSS, you have a website that looks good but doesn’t actually do much. JavaScript brings the website to life by adding functionality. JavaScript is responsible for elements that the user can interact with, such as drop-down menus, modal windows, and contact forms. It is also used to create things like animations, video players, and interactive maps.  Nowadays, JavaScript is an all-purpose prog...",
+    "forks_count": 22,
+    "html_url": "https://github.com/sanusanth/javascript-basic-program",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "javascript-basic-program",
+    "repo_owner": "sanusanth",
+    "repotime": "2021-01-10, 13:19:14",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-22",
+    "date_updated": "2021-01-22",
+    "description": "The House of Rust is a heap exploitation technique that drops a shell against full PIE binaries that don’t leak any addresses.",
+    "forks_count": 1,
+    "html_url": "https://github.com/c4ebt/House-of-Rust",
+    "keywords": [
+        "address leak exploit",
+        "address leak exploitation"
+    ],
+    "language": null,
+    "repo_name": "House-of-Rust",
+    "repo_owner": "c4ebt",
+    "repotime": "2021-01-22, 16:45:26",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-01-14",
+    "date_updated": "2021-01-15",
+    "description": "Smashing Stack in linux 64bit and bypass NX, ASLR, and stack canaries. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/vulnsystem/SmashingStack",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "SmashingStack",
+    "repo_owner": "vulnsystem",
+    "repotime": "2021-01-15, 20:59:03",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 221,
+    "date_started": "2021-01-03",
+    "date_updated": "2021-01-10",
+    "description": "What is JavaScript and what does it do?   Before you start learning something new, it’s important to understand exactly what it is and what it does. This is especially useful when it comes to mastering a new programming language.  In simple terms, JavaScript is a programming language used to make websites interactive. If you think about the basic makeup of a website, you have HTML, which describes and defines the basic content and structure of the website, then you have CSS, which tells the browser how this HTML content should be displayed—determining things like color and font. With just HTML and CSS, you have a website that looks good but doesn’t actually do much. JavaScript brings the website to life by adding functionality. JavaScript is responsible for elements that the user can interact with, such as drop-down menus, modal windows, and contact forms. It is also used to create things like animations, video players, and interactive maps.  Nowadays, JavaScript is an all-purpose prog...",
+    "forks_count": 22,
+    "html_url": "https://github.com/sanusanth/javascript-basic-program",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "javascript-basic-program",
+    "repo_owner": "sanusanth",
+    "repotime": "2021-01-10, 13:19:14",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}

@@ -53,3 +53,58 @@
     "stargazers_count": 3,
     "watchers_count": 3
 }
+{
+    "commits_count": 14,
+    "date_started": "2015-11-26",
+    "date_updated": "2015-11-28",
+    "description": "Fuzz and Detect &amp;quot;Use After Free&amp;quot; vulnerability  in win32k.sys ( Heap based )",
+    "forks_count": 53,
+    "html_url": "https://github.com/Rootkitsmm-zz/Win32k-Fuzzer",
+    "keywords": [
+        "Win use after free",
+        "use after free vulnerability",
+        "Win use after free vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "Win32k-Fuzzer",
+    "repo_owner": "Rootkitsmm-zz",
+    "repotime": "2015-11-28, 17:29:14",
+    "stargazers_count": 133,
+    "watchers_count": 133
+}
+{
+    "commits_count": 3,
+    "date_started": "2015-03-28",
+    "date_updated": "2015-11-19",
+    "description": "Exploit Wordpress Plugin Revolution Slider - Unrestricted File Upload",
+    "forks_count": 22,
+    "html_url": "https://github.com/googleinurl/WORDPRESS-Revslider-Exploit-0DAY",
+    "keywords": [
+        "unrestricted file upload",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "PHP",
+    "repo_name": "WORDPRESS-Revslider-Exploit-0DAY",
+    "repo_owner": "googleinurl",
+    "repotime": "2015-11-19, 20:11:46",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 193,
+    "date_started": "2015-09-10",
+    "date_updated": "2015-11-09",
+    "description": "Ellastichoney logs analysis (http://jordan-wright.com/blog/2015/05/11/60-days-of-watching-hackers-attack-elasticsearch/) of RCE vulnerabilities exploitation from the economic perspective.",
+    "forks_count": 2,
+    "html_url": "https://github.com/santiag0aragon/ellastichoney_analysis",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "ellastichoney_analysis",
+    "repo_owner": "santiag0aragon",
+    "repotime": "2015-11-09, 20:22:01",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

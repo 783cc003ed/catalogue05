@@ -83,3 +83,88 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 28,
+    "date_started": "2019-11-09",
+    "date_updated": "2021-08-26",
+    "description": "Intentionally vulnerable Linux application for buffer overflow and RCE development practice",
+    "forks_count": 5,
+    "html_url": "https://github.com/ins1gn1a/VulnServer-Linux",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "VulnServer-Linux",
+    "repo_owner": "ins1gn1a",
+    "repotime": "2021-08-26, 11:05:27",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 28,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-08-17",
+    "description": "Remote Code Execution EJS Web Applications using express-fileupload",
+    "forks_count": 8,
+    "html_url": "https://github.com/boiledsteak/EJS-Exploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "EJS-Exploit",
+    "repo_owner": "boiledsteak",
+    "repotime": "2021-08-17, 13:50:02",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-12-29",
+    "date_updated": "2021-08-16",
+    "description": "Spoof a watching session on Twitch.tv",
+    "forks_count": 0,
+    "html_url": "https://github.com/aidan-walden/Twitch-Rewards-Farmer",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "TypeScript",
+    "repo_name": "Twitch-Rewards-Farmer",
+    "repo_owner": "aidan-walden",
+    "repotime": "2021-08-16, 19:06:33",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-07-13",
+    "date_updated": "2021-08-03",
+    "description": "Bypass UAC at any level by abusing the Program Compatibility Assistant with RPC, WDI, and more Windows components",
+    "forks_count": 41,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity8-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "byeintegrity8-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-08-03, 19:39:18",
+    "stargazers_count": 267,
+    "watchers_count": 267
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-06-30",
+    "date_updated": "2021-08-01",
+    "description": "Bypass ONLY ASLR, maybe NX too, bypass with puts GOT and PLT",
+    "forks_count": 0,
+    "html_url": "https://github.com/vida003/Bypass-ASLR",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "Bypass-ASLR",
+    "repo_owner": "vida003",
+    "repotime": "2021-08-01, 22:19:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

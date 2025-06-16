@@ -136,3 +136,141 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 41,
+    "date_started": "2019-04-26",
+    "date_updated": "2019-04-26",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Murashu7/test-session-fixation-attack-2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "JavaScript",
+    "repo_name": "test-session-fixation-attack-2",
+    "repo_owner": "Murashu7",
+    "repotime": "2019-04-26, 13:37:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 41,
+    "date_started": "2019-04-23",
+    "date_updated": "2019-04-26",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Murashu7/test-session-fixation-attack",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "JavaScript",
+    "repo_name": "test-session-fixation-attack",
+    "repo_owner": "Murashu7",
+    "repotime": "2019-04-26, 13:20:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 58,
+    "date_started": "2018-03-25",
+    "date_updated": "2019-04-15",
+    "description": "Windows UAC Bypass",
+    "forks_count": 43,
+    "html_url": "https://github.com/gushmazuko/WinBypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Ruby",
+    "repo_name": "WinBypass",
+    "repo_owner": "gushmazuko",
+    "repotime": "2019-04-15, 01:29:48",
+    "stargazers_count": 97,
+    "watchers_count": 97
+}
+{
+    "commits_count": 40,
+    "date_started": "2017-12-20",
+    "date_updated": "2019-04-13",
+    "description": "An Out-of-Band XXE server for retrieving file contents over FTP.",
+    "forks_count": 46,
+    "html_url": "https://github.com/lc/230-OOB",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "230-OOB",
+    "repo_owner": "lc",
+    "repotime": "2019-04-13, 11:54:19",
+    "stargazers_count": 181,
+    "watchers_count": 181
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-04-13",
+    "date_updated": "2019-04-12",
+    "description": "remote code execution with the help of phpinfo and lfi",
+    "forks_count": 14,
+    "html_url": "https://github.com/VineshChauhan24/LFI-phpinfo-RCE",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "LFI-phpinfo-RCE",
+    "repo_owner": "VineshChauhan24",
+    "repotime": "2019-04-12, 14:57:46",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 17,
+    "date_started": "2018-03-26",
+    "date_updated": "2019-04-10",
+    "description": "a POC for the libc address leak using __libc_csu_init from the paper https://i.blackhat.com/briefings/asia/2018/asia-18-Marco-return-to-csu-a-new-method-to-bypass-the-64-bit-Linux-ASLR-wp.pdf",
+    "forks_count": 1,
+    "html_url": "https://github.com/andreafioraldi/leakyleak",
+    "keywords": [
+        "aslr bypass poc",
+        "address leak poc",
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "leakyleak",
+    "repo_owner": "andreafioraldi",
+    "repotime": "2019-04-10, 08:53:18",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-04-05",
+    "date_updated": "2019-04-05",
+    "description": "Xml External Entity Injection (XXE) for XmlReader weakness simple solution for .Net",
+    "forks_count": 0,
+    "html_url": "https://github.com/ElifBayrakdar/XXE-Weakness",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "C#",
+    "repo_name": "XXE-Weakness",
+    "repo_owner": "ElifBayrakdar",
+    "repotime": "2019-04-05, 20:59:57",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2016-12-06",
+    "date_updated": "2019-04-02",
+    "description": "Rsearch (Rcerca) is WINDOWS simple application which store information into Sqlite database",
+    "forks_count": 0,
+    "html_url": "https://github.com/riccardobuti/Rcerca",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C#",
+    "repo_name": "Rcerca",
+    "repo_owner": "riccardobuti",
+    "repotime": "2019-04-02, 10:29:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

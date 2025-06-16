@@ -32,3 +32,37 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 14,
+    "date_started": "2019-01-15",
+    "date_updated": "2019-02-03",
+    "description": "Training for SQL injections",
+    "forks_count": 9,
+    "html_url": "https://github.com/lucas-santoni/sqli-platform",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sqli-platform",
+    "repo_owner": "lucas-santoni",
+    "repotime": "2019-02-03, 15:18:40",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-02-01",
+    "date_updated": "2019-02-01",
+    "description": "Remote Code execution with EL Injection Vulnerabilities",
+    "forks_count": 0,
+    "html_url": "https://github.com/zerosecuritylab/Whitepaper",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Whitepaper",
+    "repo_owner": "zerosecuritylab",
+    "repotime": "2019-02-01, 10:15:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

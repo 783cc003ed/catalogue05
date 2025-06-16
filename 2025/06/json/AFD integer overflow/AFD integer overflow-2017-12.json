@@ -33,3 +33,38 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 313,
+    "date_started": "2015-10-02",
+    "date_updated": "2017-12-22",
+    "description": "SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.",
+    "forks_count": 74,
+    "html_url": "https://github.com/bcoles/ssrf_proxy",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Ruby",
+    "repo_name": "ssrf_proxy",
+    "repo_owner": "bcoles",
+    "repotime": "2017-12-22, 12:56:31",
+    "stargazers_count": 463,
+    "watchers_count": 463
+}
+{
+    "commits_count": 3,
+    "date_started": "2017-12-14",
+    "date_updated": "2017-12-14",
+    "description": "0day",
+    "forks_count": 2,
+    "html_url": "https://github.com/s1kr10s/Exploit_DupScoutClient",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Exploit_DupScoutClient",
+    "repo_owner": "s1kr10s",
+    "repotime": "2017-12-14, 03:18:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

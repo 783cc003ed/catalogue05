@@ -201,3 +201,206 @@
     "stargazers_count": 220,
     "watchers_count": 220
 }
+{
+    "commits_count": 31,
+    "date_started": "2019-06-20",
+    "date_updated": "2019-09-26",
+    "description": "UIAccess UAC Bypass using token duplication and keyboard events",
+    "forks_count": 10,
+    "html_url": "https://github.com/rootm0s/UUB",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "UUB",
+    "repo_owner": "rootm0s",
+    "repotime": "2019-09-26, 20:14:59",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-08-24",
+    "date_updated": "2019-09-23",
+    "description": "The official exploit code for FusionPBX v4.4.8 Remote Code Execution CVE-2019-15029",
+    "forks_count": 2,
+    "html_url": "https://github.com/mhaskar/CVE-2019-15029",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2019-15029",
+    "repo_owner": "mhaskar",
+    "repotime": "2019-09-23, 16:39:08",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-09-11",
+    "date_updated": "2019-09-22",
+    "description": "Vulnerable script with the intention of being a SUID executable to perform a local linux privilege escalation via manipulation of PATH variable ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Landon281/VulnAddUserScript",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "VulnAddUserScript",
+    "repo_owner": "Landon281",
+    "repotime": "2019-09-22, 20:05:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 35,
+    "date_started": "2016-12-24",
+    "date_updated": "2019-09-22",
+    "description": "Another web vulnerabilities scanner, this extension works on Chrome and Opera",
+    "forks_count": 157,
+    "html_url": "https://github.com/swisskyrepo/DamnWebScanner",
+    "keywords": [
+        "Chrome rce",
+        "Chrome rce vulnerability",
+        "lfi",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "DamnWebScanner",
+    "repo_owner": "swisskyrepo",
+    "repotime": "2019-09-22, 16:11:49",
+    "stargazers_count": 460,
+    "watchers_count": 460
+}
+{
+    "commits_count": 107,
+    "date_started": "2019-09-20",
+    "date_updated": "2019-09-20",
+    "description": "Writing 50 POC's for exploits from scratch as practice for OSCE, all BOF. Including: Vannila, SEH, egghunters, ASLR/DEP/NX bypassing",
+    "forks_count": 1,
+    "html_url": "https://github.com/catsmells/Windows-Exploit-Development-practice",
+    "keywords": [
+        "dep bypass",
+        "Win aslr bypass",
+        "Windows aslr bypass exploitation",
+        "Windows aslr bypass",
+        "aslr bypass exploitation",
+        "Win aslr bypass exploit",
+        "aslr bypass",
+        "Windows aslr bypass exploit",
+        "aslr bypass poc",
+        "aslr bypass exploit",
+        "Windows aslr bypass poc",
+        "Win aslr bypass poc",
+        "Win aslr bypass exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Windows-Exploit-Development-practice",
+    "repo_owner": "catsmells",
+    "repotime": "2019-09-20, 02:31:30",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 18,
+    "date_started": "2016-03-05",
+    "date_updated": "2019-09-17",
+    "description": "实时上线的 XSS 盲打平台",
+    "forks_count": 197,
+    "html_url": "https://github.com/AntSwordProject/ant",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "ant",
+    "repo_owner": "AntSwordProject",
+    "repotime": "2019-09-17, 13:44:02",
+    "stargazers_count": 476,
+    "watchers_count": 476
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-09-16",
+    "date_updated": "2019-09-16",
+    "description": "Escalation / Bypass Windows UAC",
+    "forks_count": 43,
+    "html_url": "https://github.com/NYAN-x-CAT/UAC-Escaper",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "UAC-Escaper",
+    "repo_owner": "NYAN-x-CAT",
+    "repotime": "2019-09-16, 19:53:21",
+    "stargazers_count": 110,
+    "watchers_count": 110
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-08-27",
+    "date_updated": "2019-09-02",
+    "description": "I created the python script to bypass UAC to get system shell .",
+    "forks_count": 33,
+    "html_url": "https://github.com/sailay1996/Fileless_UAC_bypass_WSReset",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "Fileless_UAC_bypass_WSReset",
+    "repo_owner": "sailay1996",
+    "repotime": "2019-09-02, 12:28:43",
+    "stargazers_count": 122,
+    "watchers_count": 122
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-09-02",
+    "date_updated": "2019-09-02",
+    "description": "gui uac bypass (netplwiz.exe)",
+    "forks_count": 12,
+    "html_url": "https://github.com/sailay1996/GUI_UAC_bypassX",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": null,
+    "repo_name": "GUI_UAC_bypassX",
+    "repo_owner": "sailay1996",
+    "repotime": "2019-09-02, 16:41:49",
+    "stargazers_count": 66,
+    "watchers_count": 66
+}
+{
+    "commits_count": 211,
+    "date_started": "2019-09-02",
+    "date_updated": "2019-09-01",
+    "description": "Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a &amp;quot;JavaScript everywhere&amp;quot; paradigm,[7] unifying web application development around a single programming language, rather than different languages for server side and client side scripts. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/GhettoGeek/Node.js",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Node.js",
+    "repo_owner": "GhettoGeek",
+    "repotime": "2019-09-01, 23:45:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2019-05-19",
+    "date_updated": "2019-09-01",
+    "description": "XSSCon: Simple XSS Scanner tool",
+    "forks_count": 66,
+    "html_url": "https://github.com/menkrep1337/XSSCon",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSSCon",
+    "repo_owner": "menkrep1337",
+    "repotime": "2019-09-01, 09:32:18",
+    "stargazers_count": 220,
+    "watchers_count": 220
+}

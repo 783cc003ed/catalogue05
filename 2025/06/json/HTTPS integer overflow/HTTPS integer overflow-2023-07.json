@@ -33,3 +33,38 @@
     "stargazers_count": 30,
     "watchers_count": 30
 }
+{
+    "commits_count": 22,
+    "date_started": "2023-07-12",
+    "date_updated": "2023-07-15",
+    "description": "CVE-2023-28121 -  WooCommerce Payments &amp;lt; 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ]  ",
+    "forks_count": 3,
+    "html_url": "https://github.com/im-hanzou/Mass-CVE-2023-28121",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "Mass-CVE-2023-28121",
+    "repo_owner": "im-hanzou",
+    "repotime": "2023-07-15, 04:47:59",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-06-22",
+    "date_updated": "2023-07-07",
+    "description": "A remote code execution exploit for Geometry Dash 2.1",
+    "forks_count": 0,
+    "html_url": "https://github.com/meltah/gd-rce",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "gd-rce",
+    "repo_owner": "meltah",
+    "repotime": "2023-07-07, 19:18:36",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}

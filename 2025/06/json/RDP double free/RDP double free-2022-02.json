@@ -407,3 +407,412 @@
     "stargazers_count": 41,
     "watchers_count": 41
 }
+{
+    "commits_count": 1,
+    "date_started": "2021-04-01",
+    "date_updated": "2022-02-28",
+    "description": "--------------------------------------------------------------------------------------------------------------------------------------- - script  :  https://pst.klgrth.io/paste/7zb9xspodnoh47wnu4f6cqcc -----------------------------------------------------------------------------------------------------------------------------------------   Its called:Instant Refund Method G2A to make some easy money with BITCOIN.    Read this eBook first as it's a core of the method:  -------------------------------------------------------------------------------------------------------------------------- https://anonfiles.com/v4s1q683qd/g2a-BTC-method_v4.0_-updated_pdf  ---------------------------------------------------------------------------------------------------------------------------    G2A Instant Refund Exploit allows you to get any product from https://www.g2a.com/ completely for free.you will need some Bitcoin (because you will have to send a payment for these products, which will be retur...",
+    "forks_count": 0,
+    "html_url": "https://github.com/ozacksoz78/BTC-EXPLOIT-METHODS",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": null,
+    "repo_name": "BTC-EXPLOIT-METHODS",
+    "repo_owner": "ozacksoz78",
+    "repotime": "2022-02-28, 18:04:37",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-04-15",
+    "date_updated": "2022-02-26",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Rich Text Format",
+    "repo_name": "CVE-2022-21971-Windows-Runtime-RCE",
+    "repo_owner": "tufanturhan",
+    "repotime": "2022-02-26, 12:45:07",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-26",
+    "date_updated": "2022-02-26",
+    "description": "PoC for CVE-2022-21971 &amp;quot;Windows Runtime Remote Code Execution Vulnerability&amp;quot;",
+    "forks_count": 62,
+    "html_url": "https://github.com/0vercl0k/CVE-2022-21971",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "Windows remote code execution poc"
+    ],
+    "language": "Rich Text Format",
+    "repo_name": "CVE-2022-21971",
+    "repo_owner": "0vercl0k",
+    "repotime": "2022-02-26, 12:45:07",
+    "stargazers_count": 308,
+    "watchers_count": 308
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-26",
+    "date_updated": "2022-02-26",
+    "description": "PoC for CVE-2022-21974 &amp;quot;Roaming Security Rights Management Services Remote Code Execution Vulnerability&amp;quot;",
+    "forks_count": 12,
+    "html_url": "https://github.com/0vercl0k/CVE-2022-21974",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc"
+    ],
+    "language": "Rich Text Format",
+    "repo_name": "CVE-2022-21974",
+    "repo_owner": "0vercl0k",
+    "repotime": "2022-02-26, 11:11:56",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-02-26",
+    "date_updated": "2022-02-26",
+    "description": "Tor Browser 9.0.7 on Windows 10 build 10586 is vulnerable to information disclosure. This could allow local attackers to bypass the intended anonymity feature and obtain information regarding the onion services visited by a local user. This can be accomplished by analyzing RAM memory even several hours after the local user used the product. This occurs because the product doesn't properly free memory.",
+    "forks_count": 0,
+    "html_url": "https://github.com/malakkf/CVE-2021-46702",
+    "keywords": [
+        "use after free disclosure",
+        "Windows use after free",
+        "Windows use after free disclosure",
+        "Windows use after free vulnerability",
+        "use after free vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2021-46702",
+    "repo_owner": "malakkf",
+    "repotime": "2022-02-26, 17:44:24",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-10-27",
+    "date_updated": "2022-02-25",
+    "description": "An attempt to manage session and prevent ddos attack",
+    "forks_count": 1,
+    "html_url": "https://github.com/tapvanvn/gosession",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Go",
+    "repo_name": "gosession",
+    "repo_owner": "tapvanvn",
+    "repotime": "2022-02-25, 11:53:43",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 115,
+    "date_started": "2014-01-11",
+    "date_updated": "2022-02-24",
+    "description": "This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.",
+    "forks_count": 158,
+    "html_url": "https://github.com/NetSPI/xssValidator",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "xssValidator",
+    "repo_owner": "NetSPI",
+    "repotime": "2022-02-24, 15:00:10",
+    "stargazers_count": 413,
+    "watchers_count": 413
+}
+{
+    "commits_count": 23,
+    "date_started": "2022-02-14",
+    "date_updated": "2022-02-21",
+    "description": " An ongoing &amp;amp; curated collection of awesome web vulnerability - Server-side request forgery software practices and remediation, libraries and frameworks, best guidelines and technical resources about SSRF",
+    "forks_count": 2,
+    "html_url": "https://github.com/paulveillard/cybersecurity-ssrf",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "cybersecurity-ssrf",
+    "repo_owner": "paulveillard",
+    "repotime": "2022-02-21, 20:07:57",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-02-21",
+    "date_updated": "2022-02-21",
+    "description": "describe how to carry out path traversal attacks and circumvent common obstacles, and spell out how to prevent path traversal vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ousbaailyas/Directory_traversal",
+    "keywords": [
+        "directory traversal attack",
+        "path traversal vulnerability",
+        "path traversal attack",
+        "directory traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Directory_traversal",
+    "repo_owner": "ousbaailyas",
+    "repotime": "2022-02-21, 16:25:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-02-18",
+    "date_updated": "2022-02-19",
+    "description": "CVE-2021-1965 WiFi Zero Click RCE Trigger PoC",
+    "forks_count": 29,
+    "html_url": "https://github.com/parsdefense/CVE-2021-1965",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2021-1965",
+    "repo_owner": "parsdefense",
+    "repotime": "2022-02-19, 16:52:32",
+    "stargazers_count": 166,
+    "watchers_count": 166
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-02-18",
+    "date_updated": "2022-02-18",
+    "description": "CVE-2021-1965 WiFi Zero Click RCE Trigger PoC",
+    "forks_count": 29,
+    "html_url": "https://github.com/sqrtrev/CVE-2021-1965",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-1965",
+    "repo_owner": "sqrtrev",
+    "repotime": "2022-02-18, 17:23:07",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-02-18",
+    "date_updated": "2022-02-18",
+    "description": "1. It is important that you have the right expectations for free technical support for free open source software. For an average business day you should expect about 24 hours before your first response. For the weekend (any post after 3PM PST Friday to 11AM PST Monday) expect about 48 hours before your first response.  We totally love you, but we also have loved ones, pets, and stuffed animals we like to spend time with when we’re not making free software.  2. Did you check out our Common Issues? https://community.brave.com/c/common-issues 1 Clicking on that Lion in the upper-right corner and fiddling with settings is going to solve like 99% of your problems.  3. Keep It Tidy Rather than posting “+1” or “Agreed”, use the Like button. Rather than taking an existing topic in a radically different direction, use Reply as a Linked Topic.  4. On the Internet nobody knows if you are being funny/sarcastic/rude. Smileys go a long way, but it’s better if you stick to the facts and say ‘please’ ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/DeGuzmanBenjie/Brave-creator-reward-not-received-Gemini-account-my-Gemini-account-is-verified-but-not-received-any-",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Brave-creator-reward-not-received-Gemini-account-my-Gemini-account-is-verified-but-not-received-any-",
+    "repo_owner": "DeGuzmanBenjie",
+    "repotime": "2022-02-18, 05:34:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 29,
+    "date_started": "2020-03-12",
+    "date_updated": "2022-02-16",
+    "description": "<no description>",
+    "forks_count": 3,
+    "html_url": "https://github.com/alexploit/IMT-XXE-Lab-Work",
+    "keywords": [
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "IMT-XXE-Lab-Work",
+    "repo_owner": "alexploit",
+    "repotime": "2022-02-16, 04:43:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2018-04-25",
+    "date_updated": "2022-02-14",
+    "description": "CVE-2017-9506 - SSRF",
+    "forks_count": 45,
+    "html_url": "https://github.com/random-robbie/Jira-Scan",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Jira-Scan",
+    "repo_owner": "random-robbie",
+    "repotime": "2022-02-14, 22:00:28",
+    "stargazers_count": 188,
+    "watchers_count": 188
+}
+{
+    "commits_count": 10,
+    "date_started": "2016-01-06",
+    "date_updated": "2022-02-14",
+    "description": "<no description>",
+    "forks_count": 50,
+    "html_url": "https://github.com/claraj/sql_injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sql_injection",
+    "repo_owner": "claraj",
+    "repotime": "2022-02-14, 15:56:20",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 233,
+    "date_started": "2019-06-12",
+    "date_updated": "2022-02-14",
+    "description": "a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and techniques of an advanced adversary in a network.",
+    "forks_count": 122,
+    "html_url": "https://github.com/zux0x3a/0xsp-Mongoose",
+    "keywords": [
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges"
+    ],
+    "language": "Pascal",
+    "repo_name": "0xsp-Mongoose",
+    "repo_owner": "zux0x3a",
+    "repotime": "2022-02-14, 11:04:23",
+    "stargazers_count": 537,
+    "watchers_count": 537
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-02-05",
+    "date_updated": "2022-02-14",
+    "description": "Bitcoin: A Peer-to-Peer Electronic Cash System Satoshi Nakamoto satoshin@gmx.com www.bitcoin.org Abstract. A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. We propose a solution to the double-spending problem using a peer-to-peer network. The network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, forming a record that cannot be changed without redoing the proof-of-work. The longest chain not only serves as proof of the sequence of events witnessed, but proof that it came from the largest pool of CPU power. As long as a majority of CPU power is controlled by nodes that are not cooperating to attack the network, they'll generate the longest chain and outpace attackers. The netw...",
+    "forks_count": 3,
+    "html_url": "https://github.com/uvhw/Bitcoin-Foundation",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free denial of service"
+    ],
+    "language": "C++",
+    "repo_name": "Bitcoin-Foundation",
+    "repo_owner": "uvhw",
+    "repotime": "2022-02-14, 07:05:49",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 34,
+    "date_started": "2019-01-18",
+    "date_updated": "2022-02-13",
+    "description": "Public Disclosures",
+    "forks_count": 19,
+    "html_url": "https://github.com/DrunkenShells/Disclosures",
+    "keywords": [
+        "0day disclosure"
+    ],
+    "language": "HTML",
+    "repo_name": "Disclosures",
+    "repo_owner": "DrunkenShells",
+    "repotime": "2022-02-13, 23:59:47",
+    "stargazers_count": 89,
+    "watchers_count": 89
+}
+{
+    "commits_count": 12,
+    "date_started": "2019-09-04",
+    "date_updated": "2022-02-10",
+    "description": "Exploit for the Post-Auth RCE vulnerability in Pulse Secure Connect",
+    "forks_count": 35,
+    "html_url": "https://github.com/0xDezzy/CVE-2019-11539",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-11539",
+    "repo_owner": "0xDezzy",
+    "repotime": "2022-02-10, 18:00:44",
+    "stargazers_count": 132,
+    "watchers_count": 132
+}
+{
+    "commits_count": 27,
+    "date_started": "2020-12-16",
+    "date_updated": "2022-02-07",
+    "description": "Code for the paper: &amp;quot;Score Matched Conditional Exponential Families for Likelihood-Free Inference&amp;quot;, https://jmlr.org/papers/v23/21-0061.html",
+    "forks_count": 3,
+    "html_url": "https://github.com/LoryPack/SM-ExpFam-LFI",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "SM-ExpFam-LFI",
+    "repo_owner": "LoryPack",
+    "repotime": "2022-02-07, 09:23:33",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-02-07",
+    "date_updated": "2022-02-07",
+    "description": "lpe poc for cve-2022-21882 ",
+    "forks_count": 18,
+    "html_url": "https://github.com/sailay1996/cve-2022-21882-poc",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C++",
+    "repo_name": "cve-2022-21882-poc",
+    "repo_owner": "sailay1996",
+    "repotime": "2022-02-07, 10:19:37",
+    "stargazers_count": 49,
+    "watchers_count": 49
+}
+{
+    "commits_count": 723,
+    "date_started": "2016-07-06",
+    "date_updated": "2022-02-06",
+    "description": "Server-Side Template Injection and Code Injection Detection and Exploitation Tool",
+    "forks_count": 684,
+    "html_url": "https://github.com/epinna/tplmap",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "tplmap",
+    "repo_owner": "epinna",
+    "repotime": "2022-02-06, 15:13:15",
+    "stargazers_count": 3947,
+    "watchers_count": 3947
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-12-19",
+    "date_updated": "2022-02-04",
+    "description": "A Basic Java Application Vulnerable to the Log4Shell RCE",
+    "forks_count": 35,
+    "html_url": "https://github.com/tothi/log4shell-vulnerable-app",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "log4shell-vulnerable-app",
+    "repo_owner": "tothi",
+    "repotime": "2022-02-04, 23:37:25",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}

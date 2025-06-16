@@ -33,3 +33,38 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 5,
+    "date_started": "2020-08-05",
+    "date_updated": "2020-08-06",
+    "description": "POC Selenium grid RCE using chrome webdriver.",
+    "forks_count": 1,
+    "html_url": "https://github.com/grines/selenium-grid-rce",
+    "keywords": [
+        "Chrome rce",
+        "Chrome rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "selenium-grid-rce",
+    "repo_owner": "grines",
+    "repotime": "2020-08-06, 23:00:39",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-08-15",
+    "date_updated": "2020-08-03",
+    "description": "Bypassing SMEP &amp;amp; allow nt-system in target process via Stack bof in hevd.sys",
+    "forks_count": 0,
+    "html_url": "https://github.com/ASkyeye/HEVD-EOP",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": null,
+    "repo_name": "HEVD-EOP",
+    "repo_owner": "ASkyeye",
+    "repotime": "2020-08-03, 20:05:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

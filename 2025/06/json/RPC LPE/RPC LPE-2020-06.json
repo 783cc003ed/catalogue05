@@ -15,3 +15,20 @@
     "stargazers_count": 86,
     "watchers_count": 86
 }
+{
+    "commits_count": 10,
+    "date_started": "2020-06-16",
+    "date_updated": "2020-06-17",
+    "description": "LPE for CVE-2020-1054 targeting Windows 7 x64",
+    "forks_count": 30,
+    "html_url": "https://github.com/0xeb-bp/cve-2020-1054",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "Rust",
+    "repo_name": "cve-2020-1054",
+    "repo_owner": "0xeb-bp",
+    "repotime": "2020-06-17, 14:10:15",
+    "stargazers_count": 86,
+    "watchers_count": 86
+}

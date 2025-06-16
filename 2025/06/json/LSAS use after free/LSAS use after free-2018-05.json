@@ -139,3 +139,144 @@
     "stargazers_count": 23,
     "watchers_count": 23
 }
+{
+    "commits_count": 49,
+    "date_started": "2016-04-13",
+    "date_updated": "2018-05-30",
+    "description": "Aggressor scripts for use with Cobalt Strike 3.0+",
+    "forks_count": 164,
+    "html_url": "https://github.com/bluscreenofjeff/AggressorScripts",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": null,
+    "repo_name": "AggressorScripts",
+    "repo_owner": "bluscreenofjeff",
+    "repotime": "2018-05-30, 15:20:21",
+    "stargazers_count": 837,
+    "watchers_count": 837
+}
+{
+    "commits_count": 10,
+    "date_started": "2018-05-19",
+    "date_updated": "2018-05-30",
+    "description": "CVE-2018-8120 Windows LPE exploit",
+    "forks_count": 191,
+    "html_url": "https://github.com/rip1s/CVE-2018-8120",
+    "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows lpe exploitation",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2018-8120",
+    "repo_owner": "rip1s",
+    "repotime": "2018-05-30, 21:09:52",
+    "stargazers_count": 498,
+    "watchers_count": 498
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-05-15",
+    "date_updated": "2018-05-25",
+    "description": "Exploit for Mass Remote Code Execution on GPON home routers (CVE-2018-10562) obtained from Shodan.",
+    "forks_count": 11,
+    "html_url": "https://github.com/649/Pingpon-Exploit",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Pingpon-Exploit",
+    "repo_owner": "649",
+    "repotime": "2018-05-25, 23:44:16",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-05-24",
+    "date_updated": "2018-05-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/JinXxSec/0day-dos-1.0",
+    "keywords": [
+        "0day dos"
+    ],
+    "language": "Python",
+    "repo_name": "0day-dos-1.0",
+    "repo_owner": "JinXxSec",
+    "repotime": "2018-05-23, 23:41:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2016-08-17",
+    "date_updated": "2018-05-23",
+    "description": "Enumeration and reconnaissance activities in the Microsoft Azure Cloud.",
+    "forks_count": 71,
+    "html_url": "https://github.com/FSecureLABS/Azurite",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Azurite",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2018-05-23, 23:48:55",
+    "stargazers_count": 251,
+    "watchers_count": 251
+}
+{
+    "commits_count": 12,
+    "date_started": "2018-04-18",
+    "date_updated": "2018-05-18",
+    "description": "Zend 2/3 Module that sanitises requests and inputs against XSS (Cross-Site Scripting), CSRF (Cross-Site Request Forgery), RFI (Remote File Inclusion), LFI (Local File Inclusion), SQLi (SQL Injection) and more...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mecanik/SanitiserX",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "SanitiserX",
+    "repo_owner": "Mecanik",
+    "repotime": "2018-05-18, 14:15:06",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-05-14",
+    "date_updated": "2018-05-18",
+    "description": "<no description>",
+    "forks_count": 7,
+    "html_url": "https://github.com/bigric3/CAJViewer-LPE-Exploit",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C++",
+    "repo_name": "CAJViewer-LPE-Exploit",
+    "repo_owner": "bigric3",
+    "repotime": "2018-05-18, 10:23:05",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 8,
+    "date_started": "2015-08-02",
+    "date_updated": "2018-05-02",
+    "description": "SQL Injection wargame",
+    "forks_count": 13,
+    "html_url": "https://github.com/red-velvet/los",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "los",
+    "repo_owner": "red-velvet",
+    "repotime": "2018-05-02, 20:50:28",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}

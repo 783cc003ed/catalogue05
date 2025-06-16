@@ -51,3 +51,56 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 49,
+    "date_started": "2022-03-20",
+    "date_updated": "2023-08-30",
+    "description": "Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin，online https://51pwn.com",
+    "forks_count": 25,
+    "html_url": "https://github.com/GhostTroops/go4Hacker",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Go",
+    "repo_name": "go4Hacker",
+    "repo_owner": "GhostTroops",
+    "repotime": "2023-08-30, 16:43:21",
+    "stargazers_count": 148,
+    "watchers_count": 148
+}
+{
+    "commits_count": 40,
+    "date_started": "2022-07-11",
+    "date_updated": "2023-08-17",
+    "description": "Pghostile is a tool to automate the exploitation of PostgreSQL® specific vulnerabilities that could lead to privilege escalation. It can be used to identify security issues in PostgreSQL extensions, to test system hardening and for security research in general.",
+    "forks_count": 2,
+    "html_url": "https://github.com/Aiven-Open/pghostile",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": "Python",
+    "repo_name": "pghostile",
+    "repo_owner": "Aiven-Open",
+    "repotime": "2023-08-17, 11:21:11",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 34,
+    "date_started": "2023-07-10",
+    "date_updated": "2023-08-04",
+    "description": "Flight recorder Analysis: Contains 5 applications comprising of Latency, HotMethods detection, Memory leak etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AndreTh0mas/Java-Flight-Recorder-Showcase",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Java",
+    "repo_name": "Java-Flight-Recorder-Showcase",
+    "repo_owner": "AndreTh0mas",
+    "repotime": "2023-08-04, 16:27:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

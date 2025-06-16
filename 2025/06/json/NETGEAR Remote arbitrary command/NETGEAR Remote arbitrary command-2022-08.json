@@ -246,3 +246,251 @@
     "stargazers_count": 24,
     "watchers_count": 24
 }
+{
+    "commits_count": 11,
+    "date_started": "2022-07-06",
+    "date_updated": "2022-08-31",
+    "description": "Local File Inclusion (LFI) scanner.",
+    "forks_count": 5,
+    "html_url": "https://github.com/R3LI4NT/LFIscanner",
+    "keywords": [
+        "local file inclusion",
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "LFIscanner",
+    "repo_owner": "R3LI4NT",
+    "repotime": "2022-08-31, 00:53:22",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-08-29",
+    "date_updated": "2022-08-30",
+    "description": "SharpElevator is a C&amp;&#35;35; implementation of Elevator for UAC bypass.  This UAC bypass was originally discovered by James Forshaw and published in his brilliant post at: https://googleprojectzero.blogspot.com/2019/12/calling-local-windows-rpc-servers-from.html",
+    "forks_count": 12,
+    "html_url": "https://github.com/eladshamir/SharpElevator",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "SharpElevator",
+    "repo_owner": "eladshamir",
+    "repotime": "2022-08-30, 10:32:02",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-10-05",
+    "date_updated": "2022-08-30",
+    "description": "CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49.",
+    "forks_count": 14,
+    "html_url": "https://github.com/Vulnmachines/cve-2021-41773",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "cve-2021-41773",
+    "repo_owner": "Vulnmachines",
+    "repotime": "2022-08-30, 17:28:32",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-01-12",
+    "date_updated": "2022-08-25",
+    "description": "A simple dns server to exploit server side request forgery using DNS rebinding technique",
+    "forks_count": 0,
+    "html_url": "https://github.com/creativetoken/dns-rebinder",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Go",
+    "repo_name": "dns-rebinder",
+    "repo_owner": "creativetoken",
+    "repotime": "2022-08-25, 23:16:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-12-27",
+    "date_updated": "2022-08-23",
+    "description": "Log4Shell (CVE-2021-44228) is a zero-day vulnerability in Log4j",
+    "forks_count": 0,
+    "html_url": "https://github.com/mazhar-hassan/log4j-vulnerability",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "log4j-vulnerability",
+    "repo_owner": "mazhar-hassan",
+    "repotime": "2022-08-23, 18:47:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-18",
+    "date_updated": "2022-08-18",
+    "description": "1.1 Purpose This project is a cloud-based program that requires internet-connected devices  and applications to work. This purpose behind this project is that it be able to  will help users or enterprises to manage a set of tasks, previously only made  possible by humans.  1.2 Product Features It is able to interpret human speech and respond via synthesized voices. Users  can ask their assistants questions, media playback via voice and manage other  basic tasks such as internet surfing, sending mails and answering basic  computational queries with verbal commands.  2. System Analysis  2.1 Hardware Requirements  Pentium IV or higher, (PIV-300GHz recommended)  4 GB RAM  1 Gb hard drive free space  Microphone required 2.2 Software Used Any system configuration can be used but we’ll suggest using Visual Studio as it  is what we have used.  VS Code Visual Studio Code, also commonly referred to as VS Code, is a source-code  editor made by Microsoft for Windows, Linux and mac OS. Features...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Meenakhi66/Athena-voice-assistant",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free analysis",
+        "use after free analysis",
+        "Microsoft use after free analysis",
+        "Microsoft use after free"
+    ],
+    "language": "Python",
+    "repo_name": "Athena-voice-assistant",
+    "repo_owner": "Meenakhi66",
+    "repotime": "2022-08-18, 21:36:18",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-02-10",
+    "date_updated": "2022-08-15",
+    "description": "Proof of Concept for CVE-2021-1585: Cisco ASA Device Manager RCE",
+    "forks_count": 4,
+    "html_url": "https://github.com/jbaines-r7/staystaystay",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "C++",
+    "repo_name": "staystaystay",
+    "repo_owner": "jbaines-r7",
+    "repotime": "2022-08-15, 14:13:20",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 244,
+    "date_started": "2020-09-18",
+    "date_updated": "2022-08-15",
+    "description": "An automation tool that scans sub-domains, sub-domain takeover, then filters out XSS, SSTI, SSRF, and more injection point parameters and scans for some low hanging vulnerabilities automatically.",
+    "forks_count": 176,
+    "html_url": "https://github.com/R0X4R/Garud",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "Garud",
+    "repo_owner": "R0X4R",
+    "repotime": "2022-08-15, 17:41:14",
+    "stargazers_count": 789,
+    "watchers_count": 789
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-10",
+    "date_updated": "2022-08-09",
+    "description": "Native client coded in C/C++. Fully Unicode compatible. Downloader - Generate a downloader for any exe of your choice with options of execution from memory (RunPE) or disk. UAC Exploit for elevated privileges (Admin rights without UAC notice on Windows 10). Protect process. Impossible to kill process. Kill Windows Defender. Multi-mode, capable of handling both Tor and direct connected clients. On-Join/Connect tasks/Auto-commands Group view Desktop preview option in connection list/table. Thumbnail previews for either screen or webcam that you can move and place anywhere on your screen. Process manager Remote shell Connection manager Services manager Software manager Window manager Registry manager Firewall (IP blacklist from settings)",
+    "forks_count": 0,
+    "html_url": "https://github.com/PowerIsCoding/BitRat-Cracked-SRC-2022",
+    "keywords": [
+        "Windows remote code execution exploitation",
+        "Windows remote code execution",
+        "Windows remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "BitRat-Cracked-SRC-2022",
+    "repo_owner": "PowerIsCoding",
+    "repotime": "2022-08-09, 20:33:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-30",
+    "date_updated": "2022-08-06",
+    "description": "A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/glowbase/CVE-2020-35476",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-35476",
+    "repo_owner": "glowbase",
+    "repotime": "2022-08-06, 23:47:46",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-08-03",
+    "date_updated": "2022-08-06",
+    "description": "海康威视RCE漏洞 批量检测和利用工具",
+    "forks_count": 24,
+    "html_url": "https://github.com/Cuerz/CVE-2021-36260",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-36260",
+    "repo_owner": "Cuerz",
+    "repotime": "2022-08-06, 03:57:30",
+    "stargazers_count": 154,
+    "watchers_count": 154
+}
+{
+    "commits_count": 43,
+    "date_started": "2022-05-14",
+    "date_updated": "2022-08-04",
+    "description": "Zero-day exploit and malware protection",
+    "forks_count": 0,
+    "html_url": "https://github.com/R46narok/Apollo",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "C#",
+    "repo_name": "Apollo",
+    "repo_owner": "R46narok",
+    "repotime": "2022-08-04, 17:39:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-07-30",
+    "date_updated": "2022-08-04",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bryanmillan/Final-Project",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Final-Project",
+    "repo_owner": "Bryanmillan",
+    "repotime": "2022-08-04, 00:42:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-06-03",
+    "date_updated": "2022-08-03",
+    "description": "All about CVE-2022-30190, aka follina, that is a RCE vulnerability that affects Microsoft Support Diagnostic Tools (MSDT) on Office apps such as Word. This is a very simple POC, feel free to check the sources below for more threat intelligence.",
+    "forks_count": 5,
+    "html_url": "https://github.com/Noxtal/follina",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Microsoft rce",
+        "Microsoft rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "follina",
+    "repo_owner": "Noxtal",
+    "repotime": "2022-08-03, 23:47:25",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}

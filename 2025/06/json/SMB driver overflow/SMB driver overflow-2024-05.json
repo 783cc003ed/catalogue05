@@ -134,3 +134,139 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 13274,
+    "date_started": "2014-04-10",
+    "date_updated": "2024-05-25",
+    "description": "Exploits R&amp;amp;D",
+    "forks_count": 10,
+    "html_url": "https://github.com/vs4vijay/exploits",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "Python",
+    "repo_name": "exploits",
+    "repo_owner": "vs4vijay",
+    "repotime": "2024-05-25, 19:50:17",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-04-28",
+    "date_updated": "2024-05-23",
+    "description": "Analysis of 0day and N-day security vulnerabilities, along with PoCs",
+    "forks_count": 0,
+    "html_url": "https://github.com/realbugdigger/Vuln-Analysis",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "Vuln-Analysis",
+    "repo_owner": "realbugdigger",
+    "repotime": "2024-05-23, 19:31:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-05-20",
+    "date_updated": "2024-05-20",
+    "description": "This proof-of-concept script demonstrates how to exploit CVE-2024-4323, a memory corruption vulnerability in Fluent Bit, enabling remote code execution.",
+    "forks_count": 3,
+    "html_url": "https://github.com/skilfoy/CVE-2024-4323-Exploit-POC",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-4323-Exploit-POC",
+    "repo_owner": "skilfoy",
+    "repotime": "2024-05-20, 10:28:07",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-05-10",
+    "date_updated": "2024-05-11",
+    "description": "ROPDump is a command-line tool designed to analyze binary executables for potential Return-Oriented Programming (ROP) gadgets, buffer overflow vulnerabilities, and memory leaks.",
+    "forks_count": 11,
+    "html_url": "https://github.com/Rizer0/Ropdump",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Ropdump",
+    "repo_owner": "Rizer0",
+    "repotime": "2024-05-11, 11:07:15",
+    "stargazers_count": 87,
+    "watchers_count": 87
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-05-06",
+    "date_updated": "2024-05-06",
+    "description": "Proof-of-concept for overflow and resulting memory leak in TinyWeb 1.94",
+    "forks_count": 0,
+    "html_url": "https://github.com/DMCERTCE/PoC_Tiny_Overflow",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "Python",
+    "repo_name": "PoC_Tiny_Overflow",
+    "repo_owner": "DMCERTCE",
+    "repotime": "2024-05-06, 19:46:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 141,
+    "date_started": "2022-07-01",
+    "date_updated": "2024-05-06",
+    "description": "Trophy list of zero-day vulnerabilities that I discovered",
+    "forks_count": 1,
+    "html_url": "https://github.com/Halcy0nic/Trophies",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Trophies",
+    "repo_owner": "Halcy0nic",
+    "repotime": "2024-05-06, 07:39:20",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 35,
+    "date_started": "2023-03-22",
+    "date_updated": "2024-05-03",
+    "description": "A linux exploitation skill facilitates heap address leaking or performs overflow from BSS to heap",
+    "forks_count": 1,
+    "html_url": "https://github.com/n132/BeapOverflow",
+    "keywords": [
+        "address leak exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "BeapOverflow",
+    "repo_owner": "n132",
+    "repotime": "2024-05-03, 14:26:00",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-05-01",
+    "date_updated": "2024-05-01",
+    "description": "An assignment from our CSC427 computer Security, in this assignment we Broke ASLR using egghunter, buffer overflows, prefetch and a return oriented programming attack.",
+    "forks_count": 0,
+    "html_url": "https://github.com/itzsaad2/ASLR-BYPASS",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "C",
+    "repo_name": "ASLR-BYPASS",
+    "repo_owner": "itzsaad2",
+    "repotime": "2024-05-01, 19:52:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

@@ -312,3 +312,317 @@
     "stargazers_count": 444,
     "watchers_count": 444
 }
+{
+    "commits_count": 710,
+    "date_started": "2019-12-17",
+    "date_updated": "2019-07-31",
+    "description": "https://51pwn.com,Awesome Penetration Testing，hacker tools collection, metasploit exploit, meterpreter....struts2、weblogic, 0day,poc,apt,backdoor,VulApps,vuln,pentest-script",
+    "forks_count": 1,
+    "html_url": "https://github.com/do0dl3/myhktools",
+    "keywords": [
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "myhktools",
+    "repo_owner": "do0dl3",
+    "repotime": "2019-07-31, 21:50:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 710,
+    "date_started": "2020-03-24",
+    "date_updated": "2019-07-31",
+    "description": "https://51pwn.com,Awesome Penetration Testing，hacker tools collection, metasploit exploit, meterpreter....struts2、weblogic, 0day,poc,apt,backdoor,VulApps,vuln,pentest-script",
+    "forks_count": 0,
+    "html_url": "https://github.com/CrackerCat/myhktools",
+    "keywords": [
+        "0day poc",
+        "0day exploitation"
+    ],
+    "language": null,
+    "repo_name": "myhktools",
+    "repo_owner": "CrackerCat",
+    "repotime": "2019-07-31, 21:50:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-07-30",
+    "date_updated": "2019-07-30",
+    "description": "Latest ios RCE Vulnerability disclosed by Google Security Researcher",
+    "forks_count": 17,
+    "html_url": "https://github.com/TinToSer/ios-RCE-Vulnerability",
+    "keywords": [
+        "zero-day vulnerability",
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "ios-RCE-Vulnerability",
+    "repo_owner": "TinToSer",
+    "repotime": "2019-07-30, 20:57:43",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 11,
+    "date_started": "2015-10-11",
+    "date_updated": "2019-07-30",
+    "description": "Facebook Cookie / Session Hijacking",
+    "forks_count": 1,
+    "html_url": "https://github.com/noras-salman/FaceDown",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Shell",
+    "repo_name": "FaceDown",
+    "repo_owner": "noras-salman",
+    "repotime": "2019-07-30, 14:32:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-07-10",
+    "date_updated": "2019-07-30",
+    "description": "XXE Injection Payloads",
+    "forks_count": 9,
+    "html_url": "https://github.com/RihaMaheshwari/XXE-Injection-Payloads",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "XXE-Injection-Payloads",
+    "repo_owner": "RihaMaheshwari",
+    "repotime": "2019-07-30, 17:42:40",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 7,
+    "date_started": "2019-07-23",
+    "date_updated": "2019-07-25",
+    "description": "A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs.",
+    "forks_count": 121,
+    "html_url": "https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": null,
+    "repo_name": "AWS-IAM-Privilege-Escalation",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2019-07-25, 11:56:14",
+    "stargazers_count": 918,
+    "watchers_count": 918
+}
+{
+    "commits_count": 72,
+    "date_started": "2019-07-23",
+    "date_updated": "2019-07-23",
+    "description": "Prediction model for USD/CHF pair based on pre-London session sentiment.",
+    "forks_count": 1,
+    "html_url": "https://github.com/thmstrmnd/currency-analytics-python",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "currency-analytics-python",
+    "repo_owner": "thmstrmnd",
+    "repotime": "2019-07-23, 10:10:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-07-16",
+    "date_updated": "2019-07-22",
+    "description": "Atlassian JIRA Template injection vulnerability RCE",
+    "forks_count": 30,
+    "html_url": "https://github.com/jas502n/CVE-2019-11581",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-11581",
+    "repo_owner": "jas502n",
+    "repotime": "2019-07-22, 14:47:50",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 22,
+    "date_started": "2018-08-03",
+    "date_updated": "2019-07-18",
+    "description": "java xxe defense demo",
+    "forks_count": 8,
+    "html_url": "https://github.com/LeadroyaL/java-xxe-defense-demo",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "java-xxe-defense-demo",
+    "repo_owner": "LeadroyaL",
+    "repotime": "2019-07-18, 17:02:36",
+    "stargazers_count": 47,
+    "watchers_count": 47
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-07-17",
+    "date_updated": "2019-07-18",
+    "description": "The need for a secure communication gives rise to concept of cryptography. Data encryption or ciphering translates data into another form, or code, so that only people with access to a secret key (formally called a decryption key) or password can read it. Encrypted data is commonly referred to as ciphertext, while unencrypted data is called plaintext. Cryptography or cryptology is the practice and study of techniques for secure communication in the presence of third parties called adversaries. In cryptography, a cipher is an algorithm for performing encryption or decryption—a series of well-defined steps that can be followed as a procedure. Computational cryptography deals with the storage and processing of sensitive information in computer systems by enciphering. Sensitive information is information that for some reason must be protected from being disclosed to individuals without proper authorization. Cryptographic techniques appear to be one of the most simple and secure methods of ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/TanmayiNandan/Safe-Communication-using-Polyalphabetic-Substitution-Cipher-Homophonic-Cipher",
+    "keywords": [
+        "password plaintext storage"
+    ],
+    "language": "C",
+    "repo_name": "Safe-Communication-using-Polyalphabetic-Substitution-Cipher-Homophonic-Cipher",
+    "repo_owner": "TanmayiNandan",
+    "repotime": "2019-07-18, 00:02:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2019-06-06",
+    "date_updated": "2019-07-13",
+    "description": "Efficient Featurized Image Pyramid Network for Single Shot Detector, CVPR, 2019",
+    "forks_count": 8,
+    "html_url": "https://github.com/vaesl/LFIP",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "LFIP",
+    "repo_owner": "vaesl",
+    "repotime": "2019-07-13, 10:28:55",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
+    "commits_count": 401,
+    "date_started": "2015-10-09",
+    "date_updated": "2019-07-12",
+    "description": "Undetectable Windows Payload Generation",
+    "forks_count": 334,
+    "html_url": "https://github.com/nccgroup/Winpayloads",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "Winpayloads",
+    "repo_owner": "nccgroup",
+    "repotime": "2019-07-12, 14:51:39",
+    "stargazers_count": 1600,
+    "watchers_count": 1600
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-05-07",
+    "date_updated": "2019-07-12",
+    "description": "exploit for fastjson remote code execution vulnerability",
+    "forks_count": 36,
+    "html_url": "https://github.com/MagicZer0/fastjson-rce-exploit",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "fastjson-rce-exploit",
+    "repo_owner": "MagicZer0",
+    "repotime": "2019-07-12, 11:40:53",
+    "stargazers_count": 152,
+    "watchers_count": 152
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-11-23",
+    "date_updated": "2019-07-10",
+    "description": "Phishing website detection system provides strong security mechanism to detect and prevent phishing domains from reaching user. This project presents a simple and portable approach to detect spoofed webpages and solve security vulnerabilities using Machine Learning.  It can be easily operated by anyone since all the major tasks are happening in the backend. The user is required to provide URL as input to the GUI and click on submit button. The output is shown as “YES” for phishing URL and “NO” for not phished URL.  PYTHON DEPENDENCIES:  • NumPy, Pandas, Scikit-learn: For Data cleaning, Data analysis and Data modelling. • Pickle: For exporting the model to local machine  • Tkinter, Pyqt, QtDesigner: For building up the Graphical User Interface (GUI) of the software.    To avoid the pain of installing independent packages and libraries of python, install Anaconda from www.anaconda.com. It is a Python data science platform which has all the ML libraries, Data analysis libraries, Jupyter N...",
+    "forks_count": 20,
+    "html_url": "https://github.com/Komal01/phishing-URL-detection",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "phishing-URL-detection",
+    "repo_owner": "Komal01",
+    "repotime": "2019-07-10, 23:53:31",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 89,
+    "date_started": "2015-10-05",
+    "date_updated": "2019-07-09",
+    "description": "A MATLAB toolkit for the interactive processing of plenoptic images. This repository is a mirror!",
+    "forks_count": 14,
+    "html_url": "https://github.com/AFDL/LFIT",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "MATLAB",
+    "repo_name": "LFIT",
+    "repo_owner": "AFDL",
+    "repotime": "2019-07-09, 15:28:17",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-07-05",
+    "date_updated": "2019-07-05",
+    "description": "Predefined Log-Filter of Specific CVE of microsoft Remote code execution EternalBlue and BlueKeep with Auto-Tag for stepwise security policies",
+    "forks_count": 1,
+    "html_url": "https://github.com/Kiz619ao630/StepwisePolicy3",
+    "keywords": [
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "StepwisePolicy3",
+    "repo_owner": "Kiz619ao630",
+    "repotime": "2019-07-05, 16:21:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-07-03",
+    "date_updated": "2019-07-03",
+    "description": "Analysis of the RCEMIP using deep learning",
+    "forks_count": 0,
+    "html_url": "https://github.com/tbeucler/2019_NN_RCEMIP",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "2019_NN_RCEMIP",
+    "repo_owner": "tbeucler",
+    "repotime": "2019-07-03, 23:26:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 34,
+    "date_started": "2018-02-26",
+    "date_updated": "2019-07-03",
+    "description": "Search for Directory Traversal Vulnerabilities",
+    "forks_count": 66,
+    "html_url": "https://github.com/jcesarstef/dotdotslash",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "dotdotslash",
+    "repo_owner": "jcesarstef",
+    "repotime": "2019-07-03, 15:45:40",
+    "stargazers_count": 444,
+    "watchers_count": 444
+}

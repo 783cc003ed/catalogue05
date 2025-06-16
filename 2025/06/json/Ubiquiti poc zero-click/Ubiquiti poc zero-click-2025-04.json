@@ -655,3 +655,660 @@
     "stargazers_count": 2,
     "watchers_count": 2
 }
+{
+    "commits_count": 5,
+    "date_started": "2025-04-30",
+    "date_updated": "2025-04-30",
+    "description": "本脚本是针对 GeoServer 的远程代码执行漏洞（CVE-2024-36401）开发的 PoC（Proof of Concept）探测工具。该漏洞允许攻击者通过构造特定请求，在目标服务器上执行任意命令。",
+    "forks_count": 0,
+    "html_url": "https://github.com/amoy6228/CVE-2024-36401_Geoserver_RCE_POC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-36401_Geoserver_RCE_POC",
+    "repo_owner": "amoy6228",
+    "repotime": "2025-04-30, 16:46:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 29,
+    "date_started": "2023-05-24",
+    "date_updated": "2025-04-29",
+    "description": "Python package dependency confusion  vulnerability POC. Impact this vulnerability is Remote code execution (RCE)",
+    "forks_count": 2,
+    "html_url": "https://github.com/techghoshal/Python_dependency_confusion_attacks",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Python_dependency_confusion_attacks",
+    "repo_owner": "techghoshal",
+    "repotime": "2025-04-29, 17:49:00",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 33,
+    "date_started": "2023-05-30",
+    "date_updated": "2025-04-29",
+    "description": "Ruby package dependency confusion vulnerability POC. Impact this vulnerability is Remote code execution (RCE) ",
+    "forks_count": 1,
+    "html_url": "https://github.com/techghoshal/ruby_dependency_confusion_attacks",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "ruby_dependency_confusion_attacks",
+    "repo_owner": "techghoshal",
+    "repotime": "2025-04-29, 13:23:48",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 12,
+    "date_started": "2025-04-23",
+    "date_updated": "2025-04-28",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Willmanzlair/Server-Side-Request-Forgery-Exploitation-in-Web-Applications",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "Server-Side-Request-Forgery-Exploitation-in-Web-Applications",
+    "repo_owner": "Willmanzlair",
+    "repotime": "2025-04-28, 20:04:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-04-22",
+    "date_updated": "2025-04-28",
+    "description": "AppSec Deliverables",
+    "forks_count": 0,
+    "html_url": "https://github.com/Willmanzlair/Path-Traversal-Vulnerability-Exploitation-in-Web-Applications",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Path-Traversal-Vulnerability-Exploitation-in-Web-Applications",
+    "repo_owner": "Willmanzlair",
+    "repotime": "2025-04-28, 20:02:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-28",
+    "date_updated": "2025-04-28",
+    "description": "SAP NetWeaver Unauthenticated Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Alizngnc/SAP-CVE-2025-31324",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "SAP-CVE-2025-31324",
+    "repo_owner": "Alizngnc",
+    "repotime": "2025-04-28, 16:52:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-04-28",
+    "date_updated": "2025-04-28",
+    "description": "SPIP CVE-2023-27372 Unauthenticated RCE Exploit (Web Shell Upload)",
+    "forks_count": 0,
+    "html_url": "https://github.com/1Ronkkeli/spip-cve-2023-27372-rce",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "spip-cve-2023-27372-rce",
+    "repo_owner": "1Ronkkeli",
+    "repotime": "2025-04-28, 16:51:39",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-03-06",
+    "date_updated": "2025-04-28",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/lysandre84/Exploits-ZeroDay",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Go",
+    "repo_name": "Exploits-ZeroDay",
+    "repo_owner": "lysandre84",
+    "repotime": "2025-04-28, 09:34:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-04-25",
+    "date_updated": "2025-04-26",
+    "description": "Proof-of-Concept (PoC) for CVE-2025-29306, a Remote Code Execution vulnerability in FoxCMS. This Python script scans single or multiple targets, executes commands, and reports vulnerable hosts.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mattb709/CVE-2025-29306-PoC-FoxCMS-RCE",
+    "keywords": [
+        "rce proof of concept",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-29306-PoC-FoxCMS-RCE",
+    "repo_owner": "Mattb709",
+    "repotime": "2025-04-26, 17:35:06",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 478,
+    "date_started": "2017-06-26",
+    "date_updated": "2025-04-26",
+    "description": "Most advanced XSS scanner.",
+    "forks_count": 1984,
+    "html_url": "https://github.com/s0md3v/XSStrike",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSStrike",
+    "repo_owner": "s0md3v",
+    "repotime": "2025-04-26, 14:17:06",
+    "stargazers_count": 14028,
+    "watchers_count": 14028
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-06-08",
+    "date_updated": "2025-04-26",
+    "description": "PHP RCE PoC for CVE-2024-4577 written in bash, go, python and a nuclei template",
+    "forks_count": 12,
+    "html_url": "https://github.com/ZephrFish/CVE-2024-4577-PHP-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2024-4577-PHP-RCE",
+    "repo_owner": "ZephrFish",
+    "repotime": "2025-04-26, 07:33:07",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 13,
+    "date_started": "2024-05-06",
+    "date_updated": "2025-04-25",
+    "description": "LINKSYS AC1900 EA7500v3 IGD UPnP Stack Buffer Overflow Remote Code Execution Vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/dest-3/CVE-2023-46012",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46012",
+    "repo_owner": "dest-3",
+    "repotime": "2025-04-25, 17:16:15",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 22,
+    "date_started": "2024-11-14",
+    "date_updated": "2025-04-23",
+    "description": "Complete list of LPE exploits for Windows (starting from 2023)",
+    "forks_count": 104,
+    "html_url": "https://github.com/MzHmO/Exploit-Street",
+    "keywords": [
+        "Windows lpe",
+        "lpe exploit",
+        "lpe exploitation",
+        "Windows lpe exploit",
+        "Windows lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Exploit-Street",
+    "repo_owner": "MzHmO",
+    "repotime": "2025-04-23, 22:18:34",
+    "stargazers_count": 797,
+    "watchers_count": 797
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-23",
+    "date_updated": "2025-04-23",
+    "description": "Critical client-side vulnerability: full credit card data, password, and ID stored in plaintext in sessionStorage.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pkieszek/credit-card-leak-web-storage",
+    "keywords": [
+        "password plaintext storage"
+    ],
+    "language": null,
+    "repo_name": "credit-card-leak-web-storage",
+    "repo_owner": "pkieszek",
+    "repotime": "2025-04-23, 13:09:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-04-22",
+    "date_updated": "2025-04-22",
+    "description": "Two Zero Day Vulnerabilities Covering Task Scheduler Logs Tampering",
+    "forks_count": 0,
+    "html_url": "https://github.com/rubenformation/TaskScheduler-Logs-Tampering",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "TaskScheduler-Logs-Tampering",
+    "repo_owner": "rubenformation",
+    "repotime": "2025-04-22, 16:27:09",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-22",
+    "date_updated": "2025-04-22",
+    "description": "New Zero-Day Vulnerability Allowing Security Log Saturation by Unprivileged Users",
+    "forks_count": 0,
+    "html_url": "https://github.com/rubenformation/TaskScheduler-SecLogs-Saturation",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Batchfile",
+    "repo_name": "TaskScheduler-SecLogs-Saturation",
+    "repo_owner": "rubenformation",
+    "repotime": "2025-04-22, 16:13:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-22",
+    "date_updated": "2025-04-21",
+    "description": "A new vulnerability has been discovered in GNU Mailman 2.1.39, bundled with cPanel/WHM, allowing unauthenticated remote attackers to read arbitrary files on the server via a directory traversal flaw.",
+    "forks_count": 0,
+    "html_url": "https://github.com/cybersecplayground/CVE-2025-43919-POC",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-43919-POC",
+    "repo_owner": "cybersecplayground",
+    "repotime": "2025-04-21, 22:24:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 253,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-04-21",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 118,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-04-21, 11:07:40",
+    "stargazers_count": 403,
+    "watchers_count": 403
+}
+{
+    "commits_count": 48,
+    "date_started": "2024-10-15",
+    "date_updated": "2025-04-20",
+    "description": "Repository Showcasing Practical/Hands-On Zero-Day Exploit Development and Techniques (WIP)",
+    "forks_count": 0,
+    "html_url": "https://github.com/danielvilaca/ZeroDayEDT",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroDayEDT",
+    "repo_owner": "danielvilaca",
+    "repotime": "2025-04-20, 22:41:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-04-19",
+    "date_updated": "2025-04-19",
+    "description": "Simple Exploit for Dirty Pipe Vulnerability (CVE-2022-0847) This repository contains a simple proof of concept (PoC) for the Dirty Pipe vulnerability (CVE-2022-0847), which affects Linux kernel versions 5.8 to 5.16. This exploit demonstrates local privilege escalation  by leveraging improper handling of pipe buffers in the kernel.",
+    "forks_count": 0,
+    "html_url": "https://github.com/byteReaper77/Dirty-Pipe",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Dirty-Pipe",
+    "repo_owner": "byteReaper77",
+    "repotime": "2025-04-19, 19:43:42",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-08-28",
+    "date_updated": "2025-04-18",
+    "description": "Incorrect implementation of an authentication algorithm in Ivanti vTM other than versions 22.2R1 or 22.7R2 allows a remote unauthenticated attacker to bypass authentication of the admin panel.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2024-7593",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-7593",
+    "repo_owner": "rxerium",
+    "repotime": "2025-04-18, 08:22:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-03-17",
+    "date_updated": "2025-04-18",
+    "description": "An attacker could place HTML containing executable JavaScript inside element attributes. This markup becomes unescaped, causing arbitrary markup to be injected into the document.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2022-24086",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-24086",
+    "repo_owner": "rxerium",
+    "repotime": "2025-04-18, 08:18:54",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-03-17",
+    "date_updated": "2025-04-18",
+    "description": "Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2022-41352",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-41352",
+    "repo_owner": "rxerium",
+    "repotime": "2025-04-18, 08:18:32",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-17",
+    "date_updated": "2025-04-17",
+    "description": "LPE: BackupOperator to Domain Admin Active Directory Proof of Concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/G4sp4rCS/backup-operator-to-domain-admin-POC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "PowerShell",
+    "repo_name": "backup-operator-to-domain-admin-POC",
+    "repo_owner": "G4sp4rCS",
+    "repotime": "2025-04-17, 10:25:41",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-04-14",
+    "date_updated": "2025-04-15",
+    "description": "Wordpress SureTriggers &amp;lt;= 1.0.78 - Authorization Bypass due to Missing Empty Value Check to Unauthenticated Administrative User Creation",
+    "forks_count": 0,
+    "html_url": "https://github.com/rhz0d/CVE-2025-3102",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-3102",
+    "repo_owner": "rhz0d",
+    "repotime": "2025-04-15, 14:16:56",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-14",
+    "date_updated": "2025-04-14",
+    "description": "Wordpress SureTriggers &amp;lt;= 1.0.78 - Authorization Bypass due to Missing Empty Value Check to Unauthenticated Administrative User Creation",
+    "forks_count": 2,
+    "html_url": "https://github.com/Nxploited/CVE-2025-3102",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-3102",
+    "repo_owner": "Nxploited",
+    "repotime": "2025-04-14, 14:12:07",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-04-12",
+    "date_updated": "2025-04-13",
+    "description": "A Python proof-of-concept exploit for CVE-2025-24813 - Unauthenticated RCE in Apache Tomcat (v9.0.0-9.0.98/10.1.0-10.1.34/11.0.0-11.0.2) via malicious Java object deserialization. Includes safe detection mode and custom payload support.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-24813-PoC-Apache-Tomcat-RCE",
+    "repo_owner": "Mattb709",
+    "repotime": "2025-04-13, 06:18:40",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-04-10",
+    "date_updated": "2025-04-10",
+    "description": "CVE-2019-15107-Scanner is a Python-based scanner that detects vulnerable Webmin (1.890 - 1.920) servers affected by CVE-2019-15107, an unauthenticated remote code execution (RCE) vulnerability in the /password_change.cgi endpoint.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mattb709/CVE-2019-15107-Scanner",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-15107-Scanner",
+    "repo_owner": "Mattb709",
+    "repotime": "2025-04-10, 17:04:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-05-03",
+    "date_updated": "2025-04-10",
+    "description": "&amp;quot;AMSI WRITE RAID&amp;quot; Vulnerability that leads to an effective AMSI BYPASS",
+    "forks_count": 49,
+    "html_url": "https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "AMSI-WRITE-RAID-BYPASS",
+    "repo_owner": "V-i-x-x",
+    "repotime": "2025-04-10, 17:59:30",
+    "stargazers_count": 284,
+    "watchers_count": 284
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-04-09",
+    "date_updated": "2025-04-09",
+    "description": "PoC demonstrating a client-side vulnerability in Runestone that allows spoofed answer submissions via forged fetch requests.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SRHackerr/runestone-answer-spoof-poc",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "runestone-answer-spoof-poc",
+    "repo_owner": "SRHackerr",
+    "repotime": "2025-04-09, 17:07:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-04-09",
+    "date_updated": "2025-04-09",
+    "description": "PoC for a Windows kernel UAF in win32kfull.sys using GDI palette spraying. Demonstrates object grooming, UAF trigger, and exploit path toward arbitrary R/W. Includes notes on CFG bypass and SMEP evasion. For red team research only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/LigerUchiha/win-kernel-uaf-lab",
+    "keywords": [
+        "Win uaf"
+    ],
+    "language": null,
+    "repo_name": "win-kernel-uaf-lab",
+    "repo_owner": "LigerUchiha",
+    "repotime": "2025-04-09, 16:43:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 36,
+    "date_started": "2025-03-08",
+    "date_updated": "2025-04-06",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/PICT-Cyber-Cell/AI-Based-Zero-Day-Vulnerability-Detection-System",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "AI-Based-Zero-Day-Vulnerability-Detection-System",
+    "repo_owner": "PICT-Cyber-Cell",
+    "repotime": "2025-04-06, 10:47:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-06",
+    "date_updated": "2025-04-06",
+    "description": "Simulated PoC for CVE-2025-2783 — a sandbox escape vulnerability in Chrome's Mojo IPC. Includes phishing delivery, memory fuzzing, IPC simulation, and logging. Safe for red team demos, detection engineering, and educational use.",
+    "forks_count": 2,
+    "html_url": "https://github.com/Alchemist3dot14/CVE-2025-2783",
+    "keywords": [
+        "Chrome sandbox escape"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-2783",
+    "repo_owner": "Alchemist3dot14",
+    "repotime": "2025-04-06, 12:53:50",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 25,
+    "date_started": "2025-04-02",
+    "date_updated": "2025-04-05",
+    "description": "This is a vulnerable web application I developed for my Database Security class at Boston University. It contains possible IDOR and session hijacking attacks in a pseudo-realistic banking web app. The application is built using the LAMP stack.",
+    "forks_count": 0,
+    "html_url": "https://github.com/abelreqma/BankofAbel",
+    "keywords": [
+        "session hijacking attack"
+    ],
+    "language": "PHP",
+    "repo_name": "BankofAbel",
+    "repo_owner": "abelreqma",
+    "repotime": "2025-04-05, 00:58:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 21,
+    "date_started": "2023-11-17",
+    "date_updated": "2025-04-05",
+    "description": "[漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.",
+    "forks_count": 35,
+    "html_url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2023-4357-Chrome-XXE",
+    "repo_owner": "xcanwin",
+    "repotime": "2025-04-05, 02:37:38",
+    "stargazers_count": 216,
+    "watchers_count": 216
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-04",
+    "date_updated": "2025-04-04",
+    "description": "POC of a Session Fixation Attack via XSS or URL",
+    "forks_count": 0,
+    "html_url": "https://github.com/mayday13x/POC-SESSION-FIXATION",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "POC-SESSION-FIXATION",
+    "repo_owner": "mayday13x",
+    "repotime": "2025-04-04, 05:33:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-04-02",
+    "date_updated": "2025-04-02",
+    "description": "not complete yet",
+    "forks_count": 0,
+    "html_url": "https://github.com/martinsleveland/windowsRCE",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "Shell",
+    "repo_name": "windowsRCE",
+    "repo_owner": "martinsleveland",
+    "repotime": "2025-04-02, 22:57:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-04-02",
+    "date_updated": "2025-04-02",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/DukeSec97/PoC-0day-7-Zip",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "PoC-0day-7-Zip",
+    "repo_owner": "DukeSec97",
+    "repotime": "2025-04-02, 13:32:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

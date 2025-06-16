@@ -96,3 +96,101 @@
     "stargazers_count": 30,
     "watchers_count": 30
 }
+{
+    "commits_count": 541,
+    "date_started": "2013-10-21",
+    "date_updated": "2023-07-28",
+    "description": "Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns",
+    "forks_count": 415,
+    "html_url": "https://github.com/v3n0m-Scanner/V3n0M-Scanner",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "V3n0M-Scanner",
+    "repo_owner": "v3n0m-Scanner",
+    "repotime": "2023-07-28, 15:05:27",
+    "stargazers_count": 1521,
+    "watchers_count": 1521
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-24",
+    "date_updated": "2023-07-24",
+    "description": "A comprehensive website vulnerability scanner script, built in Python, which checks for various vulnerabilities like SQL Injection, XSS, Command Injection, LFI, HTTP verb tampering, File Upload vulnerabilities, Session Fixation, HTTP Parameter Pollution, IDOR, Directory Traversal, and CORS Misconfiguration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mylesgamez/Python-Website-Vulnerability-Scanner",
+    "keywords": [
+        "directory traversal vulnerability",
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Python-Website-Vulnerability-Scanner",
+    "repo_owner": "mylesgamez",
+    "repotime": "2023-07-24, 15:41:23",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 17,
+    "date_started": "2023-03-09",
+    "date_updated": "2023-07-11",
+    "description": "Windows LPE exploit for CVE-2022-37969",
+    "forks_count": 38,
+    "html_url": "https://github.com/fortra/CVE-2022-37969",
+    "keywords": [
+        "Windows lpe exploit",
+        "Windows lpe",
+        "lpe exploit",
+        "Windows lpe exploitation",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2022-37969",
+    "repo_owner": "fortra",
+    "repotime": "2023-07-11, 13:50:28",
+    "stargazers_count": 135,
+    "watchers_count": 135
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-03-07",
+    "date_updated": "2023-07-10",
+    "description": "LPE exploit for CVE-2023-21768",
+    "forks_count": 167,
+    "html_url": "https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768",
+    "keywords": [
+        "Windows lpe",
+        "Windows lpe exploit",
+        "Win lpe",
+        "Windows lpe exploitation",
+        "lpe exploitation",
+        "Win lpe exploit",
+        "Win lpe exploitation",
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "Windows_LPE_AFD_CVE-2023-21768",
+    "repo_owner": "chompie1337",
+    "repotime": "2023-07-10, 12:35:37",
+    "stargazers_count": 490,
+    "watchers_count": 490
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-06-22",
+    "date_updated": "2023-07-07",
+    "description": "A remote code execution exploit for Geometry Dash 2.1",
+    "forks_count": 0,
+    "html_url": "https://github.com/meltah/gd-rce",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "gd-rce",
+    "repo_owner": "meltah",
+    "repotime": "2023-07-07, 19:18:36",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}

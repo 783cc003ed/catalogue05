@@ -142,3 +142,147 @@
     "stargazers_count": 30,
     "watchers_count": 30
 }
+{
+    "commits_count": 80,
+    "date_started": "2020-05-13",
+    "date_updated": "2020-05-25",
+    "description": "xss漏洞模糊测试payload的最佳集合 2020版",
+    "forks_count": 122,
+    "html_url": "https://github.com/heroanswer/XSS_Cheat_Sheet_2020_Edition",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "XSS_Cheat_Sheet_2020_Edition",
+    "repo_owner": "heroanswer",
+    "repotime": "2020-05-25, 22:38:14",
+    "stargazers_count": 506,
+    "watchers_count": 506
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-05-25",
+    "date_updated": "2020-05-25",
+    "description": "PE Injection、DLL Injection、Process Injection、Thread Injection、Code Injection、Shellcode Injection、ELF Injection、Dylib Injection, including 400+Tools and 350+posts",
+    "forks_count": 145,
+    "html_url": "https://github.com/alphaSeclab/injection-stuff",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "injection-stuff",
+    "repo_owner": "alphaSeclab",
+    "repotime": "2020-05-25, 05:00:33",
+    "stargazers_count": 533,
+    "watchers_count": 533
+}
+{
+    "commits_count": 78,
+    "date_started": "2013-10-24",
+    "date_updated": "2020-05-17",
+    "description": "xss.js.org",
+    "forks_count": 64,
+    "html_url": "https://github.com/tennc/xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "xss",
+    "repo_owner": "tennc",
+    "repotime": "2020-05-17, 17:30:15",
+    "stargazers_count": 69,
+    "watchers_count": 69
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-05-09",
+    "date_updated": "2020-05-13",
+    "description": "A POC Document from A-Z ",
+    "forks_count": 0,
+    "html_url": "https://github.com/KalinduWijekoon/Joomla-Object-Injection-x-forwarded-for-Header-RemoteCodeExecution",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "Joomla-Object-Injection-x-forwarded-for-Header-RemoteCodeExecution",
+    "repo_owner": "KalinduWijekoon",
+    "repotime": "2020-05-13, 12:39:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-05-10",
+    "date_updated": "2020-05-10",
+    "description": "A Python script to exploit CVE-2020-8816, a remote code execution vulnerability on the Pi-hole",
+    "forks_count": 6,
+    "html_url": "https://github.com/AndreyRainchik/CVE-2020-8816",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-8816",
+    "repo_owner": "AndreyRainchik",
+    "repotime": "2020-05-10, 14:33:19",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 14,
+    "date_started": "2020-05-09",
+    "date_updated": "2020-05-10",
+    "description": "LFI to RCE tool.",
+    "forks_count": 5,
+    "html_url": "https://github.com/takabaya-shi/LFI2RCE",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "LFI2RCE",
+    "repo_owner": "takabaya-shi",
+    "repotime": "2020-05-10, 17:21:06",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 159,
+    "date_started": "2015-03-05",
+    "date_updated": "2020-05-07",
+    "description": "Miscellaneous exploit code",
+    "forks_count": 588,
+    "html_url": "https://github.com/XiphosResearch/exploits",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce poc",
+        "Windows rce poc",
+        "rce exploit",
+        "Windows rce",
+        "Windows rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "exploits",
+    "repo_owner": "XiphosResearch",
+    "repotime": "2020-05-07, 21:20:14",
+    "stargazers_count": 1554,
+    "watchers_count": 1554
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-05-03",
+    "date_updated": "2020-05-03",
+    "description": "Different code-injections techniques under a common tool",
+    "forks_count": 10,
+    "html_url": "https://github.com/uf0o/alkaline-injector",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "alkaline-injector",
+    "repo_owner": "uf0o",
+    "repotime": "2020-05-03, 19:04:46",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}

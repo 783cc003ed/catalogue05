@@ -32,3 +32,37 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 548,
+    "date_started": "2018-08-03",
+    "date_updated": "2016-08-28",
+    "description": "Pupy is an opensource, multi-platform (Windows, Linux, OSX, Android), multi function RAT (Remote Administration Tool) mainly written in python. It features a all-in-memory execution guideline and leaves very low footprint. Pupy can communicate using various transports, migrate into processes (reflective injection), load remote python code, pytho…",
+    "forks_count": 2,
+    "html_url": "https://github.com/zrohdes/pupy",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "pupy",
+    "repo_owner": "zrohdes",
+    "repotime": "2016-08-28, 19:53:58",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1,
+    "date_started": "2016-08-03",
+    "date_updated": "2016-08-03",
+    "description": "A simple web blog that uses mongodb as a database storage. The blog is simple in the sense that it does not use security to verify the user authentication, it does not check whether the name is unique, lacks proper error handling, it stores the password of the user in plaintext within the database. Nor is the user able their delete post or their blog. The goal of this program was to test the mongo database framework. Now that I know I would go back and implement the changes mention above in order to make the blog better.",
+    "forks_count": 2,
+    "html_url": "https://github.com/EgbieAndersonUku1/simpleWebBlog",
+    "keywords": [
+        "password plaintext storage"
+    ],
+    "language": "Python",
+    "repo_name": "simpleWebBlog",
+    "repo_owner": "EgbieAndersonUku1",
+    "repotime": "2016-08-03, 00:44:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

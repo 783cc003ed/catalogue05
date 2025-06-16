@@ -224,3 +224,229 @@
     "stargazers_count": 1081,
     "watchers_count": 1081
 }
+{
+    "commits_count": 5,
+    "date_started": "2016-08-30",
+    "date_updated": "2016-09-27",
+    "description": "[Minecraft] A Bukkit side plugin for BungeeAuth that prevents unauthenticated users from logging in to servers.",
+    "forks_count": 0,
+    "html_url": "https://github.com/vik1395/BungeeAuthValidator-Minecraft",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Java",
+    "repo_name": "BungeeAuthValidator-Minecraft",
+    "repo_owner": "vik1395",
+    "repotime": "2016-09-27, 20:15:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2016-08-17",
+    "date_updated": "2016-09-26",
+    "description": "Bypassing User Account Control (UAC) using TpmInit.exe",
+    "forks_count": 38,
+    "html_url": "https://github.com/Cn33liz/TpmInitUACBypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "TpmInitUACBypass",
+    "repo_owner": "Cn33liz",
+    "repotime": "2016-09-26, 15:28:29",
+    "stargazers_count": 128,
+    "watchers_count": 128
+}
+{
+    "commits_count": 5,
+    "date_started": "2016-08-17",
+    "date_updated": "2016-09-26",
+    "description": "Bypassing User Account Control (UAC) using TpmInit.exe ",
+    "forks_count": 24,
+    "html_url": "https://github.com/Cn33liz/TpmInitUACAnniversaryBypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "TpmInitUACAnniversaryBypass",
+    "repo_owner": "Cn33liz",
+    "repotime": "2016-09-26, 15:27:40",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 13,
+    "date_started": "2016-08-12",
+    "date_updated": "2016-09-26",
+    "description": "Cross Platform Kernel Fuzzer Framework",
+    "forks_count": 151,
+    "html_url": "https://github.com/FSecureLABS/KernelFuzzer",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "C",
+    "repo_name": "KernelFuzzer",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2016-09-26, 09:27:53",
+    "stargazers_count": 450,
+    "watchers_count": 450
+}
+{
+    "commits_count": 5,
+    "date_started": "2015-06-16",
+    "date_updated": "2016-09-22",
+    "description": "Samsung Remote Code Execution as System User",
+    "forks_count": 62,
+    "html_url": "https://github.com/nowsecure/samsung-ime-rce-poc",
+    "keywords": [
+        "rce poc",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "samsung-ime-rce-poc",
+    "repo_owner": "nowsecure",
+    "repotime": "2016-09-22, 11:57:39",
+    "stargazers_count": 124,
+    "watchers_count": 124
+}
+{
+    "commits_count": 280,
+    "date_started": "2018-03-23",
+    "date_updated": "2016-09-22",
+    "description": "Version of Binnavi used for the thesis &amp;quot;Finding the needle in the heap : combining binary analysis techniques to trigger use-after-free&amp;quot;",
+    "forks_count": 5,
+    "html_url": "https://github.com/montyly/binnavi-gueb",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Java",
+    "repo_name": "binnavi-gueb",
+    "repo_owner": "montyly",
+    "repotime": "2016-09-22, 13:49:55",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 4,
+    "date_started": "2016-09-20",
+    "date_updated": "2016-09-20",
+    "description": "This is the vulnerable &amp;quot;proxy&amp;quot; I used on this article: http://resources.infosecinstitute.com/the-ssrf-vulnerability/ . A simple, non-validated Curl request. I will also create a script in Python which will allow you to perform the HTTP port scan.",
+    "forks_count": 6,
+    "html_url": "https://github.com/nikosdano/SSRF-Vulnerable-with-Curl",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "PHP",
+    "repo_name": "SSRF-Vulnerable-with-Curl",
+    "repo_owner": "nikosdano",
+    "repotime": "2016-09-20, 16:09:05",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 3,
+    "date_started": "2016-09-20",
+    "date_updated": "2016-09-20",
+    "description": "0ldSQL_MySQL_RCE_exploit.py (ver. 1.0) (CVE-2016-6662) MySQL Remote Root Code Execution / Privesc PoC Exploit    For testing purposes only. Do no harm.",
+    "forks_count": 10,
+    "html_url": "https://github.com/Ashrafdev/MySQL-Remote-Root-Code-Execution",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution poc",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "MySQL-Remote-Root-Code-Execution",
+    "repo_owner": "Ashrafdev",
+    "repotime": "2016-09-20, 16:12:34",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 10,
+    "date_started": "2015-07-07",
+    "date_updated": "2016-09-18",
+    "description": "0day found by me -",
+    "forks_count": 2,
+    "html_url": "https://github.com/CCrashBandicot/exploit",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": "Perl",
+    "repo_name": "exploit",
+    "repo_owner": "CCrashBandicot",
+    "repotime": "2016-09-18, 11:17:40",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 17,
+    "date_started": "2016-06-02",
+    "date_updated": "2016-09-14",
+    "description": "This repo contains comprehensive lists of attack payloads known to cause issues like OS command injection, directory listings, directory traversals, source exposure, file upload bypass, authentication bypass, http header crlf injections, and more",
+    "forks_count": 4,
+    "html_url": "https://github.com/raikar/attack-docs",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": "HTML",
+    "repo_name": "attack-docs",
+    "repo_owner": "raikar",
+    "repotime": "2016-09-14, 08:26:17",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 34,
+    "date_started": "2016-08-30",
+    "date_updated": "2016-09-13",
+    "description": " 翻译文章，CVE-2015-0057漏洞在32位和64位系统上的利用。Exploiting the win32k!xxxEnableWndSBArrows use-after-free (CVE 2015-0057) bug on both 32-bit and 64-bit(Aaron Adams of NCC )",
+    "forks_count": 12,
+    "html_url": "https://github.com/55-AA/CVE-2015-0057",
+    "keywords": [
+        "use after free exploit",
+        "use after free exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2015-0057",
+    "repo_owner": "55-AA",
+    "repotime": "2016-09-13, 08:12:50",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 34,
+    "date_started": "2016-12-05",
+    "date_updated": "2016-09-13",
+    "description": " 翻译文章，CVE-2015-0057漏洞在32位和64位系统上的利用。Exploiting the win32k!xxxEnableWndSBArrows use-after-free (CVE 2015-0057) bug on both 32-bit and 64-bit(Aaron Adams of NCC )",
+    "forks_count": 8,
+    "html_url": "https://github.com/highandhigh/CVE-2015-0057",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2015-0057",
+    "repo_owner": "highandhigh",
+    "repotime": "2016-09-13, 08:12:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 148,
+    "date_started": "2015-02-05",
+    "date_updated": "2016-09-12",
+    "description": "Secure XSS Filters.",
+    "forks_count": 137,
+    "html_url": "https://github.com/YahooArchive/xss-filters",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xss-filters",
+    "repo_owner": "YahooArchive",
+    "repotime": "2016-09-12, 13:03:36",
+    "stargazers_count": 1081,
+    "watchers_count": 1081
+}

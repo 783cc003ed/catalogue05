@@ -187,3 +187,192 @@
     "stargazers_count": 4,
     "watchers_count": 4
 }
+{
+    "commits_count": 24,
+    "date_started": "2024-04-22",
+    "date_updated": "2024-10-30",
+    "description": "Make predictions on frames from plancha-session",
+    "forks_count": 0,
+    "html_url": "https://github.com/SeatizenDOI/plancha-inference",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "plancha-inference",
+    "repo_owner": "SeatizenDOI",
+    "repotime": "2024-10-30, 08:48:19",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 20,
+    "date_started": "2024-03-10",
+    "date_updated": "2024-10-23",
+    "description": "Collection of scripts to automate privilege escalation on Linux and Windows, for approved penetration testing purposes only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/PentestPlaybook/enumeration_priv_esc",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "enumeration_priv_esc",
+    "repo_owner": "PentestPlaybook",
+    "repotime": "2024-10-23, 20:23:32",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-20",
+    "date_updated": "2024-10-20",
+    "description": "Welcome to the Path Traversal Vulnerability challenge! In this task, you will be exploring a classic Path Traversal vulnerability in a web application. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Himath1/writeup",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "writeup",
+    "repo_owner": "Himath1",
+    "repotime": "2024-10-20, 15:10:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 132,
+    "date_started": "2021-02-23",
+    "date_updated": "2024-10-17",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 78,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2024-10-17, 06:04:00",
+    "stargazers_count": 797,
+    "watchers_count": 797
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-10-16",
+    "date_updated": "2024-10-17",
+    "description": "Vulnerability Scanner identifies web vulnerabilities like SQL Injection, XSS, CSRF, RCE, and Directory Traversal. Using advanced techniques, it assesses security and provides detailed reports to help developers mitigate potential threats effectively.",
+    "forks_count": 0,
+    "html_url": "https://github.com/harsh11x/vulnstrike",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "vulnstrike",
+    "repo_owner": "harsh11x",
+    "repotime": "2024-10-17, 03:05:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-12",
+    "date_updated": "2024-10-14",
+    "description": "This project is a WDM static library that hooks native functions in the kernel, bypassing KPP through virtualization.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lbird90894/hyperhook",
+    "keywords": [
+        "kpp bypass"
+    ],
+    "language": "C",
+    "repo_name": "hyperhook",
+    "repo_owner": "lbird90894",
+    "repotime": "2024-10-14, 21:40:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1193,
+    "date_started": "2016-12-09",
+    "date_updated": "2024-10-14",
+    "description": "This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can be declaratively extended by additional operations, which can be used to reassemble and execute the existing functionalities according to project-specific requirements. But also completely new commands can be integrated quickly and easily via dependency injection.",
+    "forks_count": 17,
+    "html_url": "https://github.com/techdivision/import-cli-simple",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "PHP",
+    "repo_name": "import-cli-simple",
+    "repo_owner": "techdivision",
+    "repotime": "2024-10-14, 11:53:52",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-08-25",
+    "date_updated": "2024-10-10",
+    "description": "LPE Exploits of windows drivers",
+    "forks_count": 0,
+    "html_url": "https://github.com/nu1lptr0/LPE_Windows_Exploitation",
+    "keywords": [
+        "Windows lpe",
+        "Win lpe"
+    ],
+    "language": "C",
+    "repo_name": "LPE_Windows_Exploitation",
+    "repo_owner": "nu1lptr0",
+    "repotime": "2024-10-10, 22:32:41",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-09-19",
+    "date_updated": "2024-10-06",
+    "description": "Small demo to show Exploiting XML External Entities to fully understand the concepts in https://tryhackme.com/r/room/xxeinjection",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nallixion/aspnet-XXE-Demo",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "JavaScript",
+    "repo_name": "aspnet-XXE-Demo",
+    "repo_owner": "Nallixion",
+    "repotime": "2024-10-06, 20:59:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2024-08-07",
+    "date_updated": "2024-10-02",
+    "description": "Fraktal's take on building an affordable Laser Fault Injection Rig",
+    "forks_count": 6,
+    "html_url": "https://github.com/fraktalcyber/lfi-rig",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi-rig",
+    "repo_owner": "fraktalcyber",
+    "repotime": "2024-10-02, 09:54:42",
+    "stargazers_count": 84,
+    "watchers_count": 84
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-01",
+    "date_updated": "2024-10-01",
+    "description": "This Python script helps to detect the Etherleak (CVE-2003-0001) vulnerability on a target host by analyzing the padding data in network packets. The script uses Scapy to send various types of requests (ICMP, ARP, or TCP) and checks if the responses contain any padding data that could potentially leak sensitive memory contents.",
+    "forks_count": 0,
+    "html_url": "https://github.com/marb08/etherleak-checker",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "etherleak-checker",
+    "repo_owner": "marb08",
+    "repotime": "2024-10-01, 16:12:30",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}

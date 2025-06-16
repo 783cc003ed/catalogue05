@@ -157,3 +157,162 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 13,
+    "date_started": "2021-10-08",
+    "date_updated": "2022-04-24",
+    "description": "Zenith exploits a memory corruption vulnerability in the NetUSB driver to get remote-code execution on the TP-Link Archer C7 V5 router for Pwn2Own Austin 2021.",
+    "forks_count": 24,
+    "html_url": "https://github.com/0vercl0k/zenith",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "zenith",
+    "repo_owner": "0vercl0k",
+    "repotime": "2022-04-24, 17:57:39",
+    "stargazers_count": 129,
+    "watchers_count": 129
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-04-22",
+    "description": "app with the clean architectural guidelines, used dependency injection with Dagger-Hilt, SOLID principles, CSV parsing with OpenCSV, working with remote APIs using Retrofit, local caching with Room, custom drawing on a canvas using Compose and much more. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/rafaelnunesmoura/Stock-Market-App",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "Stock-Market-App",
+    "repo_owner": "rafaelnunesmoura",
+    "repotime": "2022-04-22, 23:02:02",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 23,
+    "date_started": "2013-06-14",
+    "date_updated": "2022-04-22",
+    "description": "Burp plugin which supports in finding privilege escalation vulnerabilities",
+    "forks_count": 15,
+    "html_url": "https://github.com/thomaspatzke/Burp-SessionAuthTool",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Burp-SessionAuthTool",
+    "repo_owner": "thomaspatzke",
+    "repotime": "2022-04-22, 19:14:00",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-04-21",
+    "date_updated": "2022-04-21",
+    "description": "SOLID app with the clean architectural guidelines. Use dependency injection with Dagger-Hilt, SOLID principles, CSV parsing with OpenCSV, working with remote APIs using Retrofit, local caching with Room, custom drawing on a canvas using Compose and much more.",
+    "forks_count": 0,
+    "html_url": "https://github.com/OrlanDroyd/StockMarket",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "StockMarket",
+    "repo_owner": "OrlanDroyd",
+    "repotime": "2022-04-21, 14:27:15",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 28,
+    "date_started": "2022-04-18",
+    "date_updated": "2022-04-20",
+    "description": "** DISPUTED ** 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&amp;gt;Contents area. This is caused by misconfiguration of 7z.dll and a heap overflow. The command runs in a child process under the 7zFM.exe process, NOTE: multiple third parties have reported that no privilege escalation can occur.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sentinelblue/CVE-2022-29072",
+    "keywords": [
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2022-29072",
+    "repo_owner": "sentinelblue",
+    "repotime": "2022-04-20, 09:41:55",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 276,
+    "date_started": "2020-01-29",
+    "date_updated": "2022-04-19",
+    "description": "Course materials for learning how to perform applied cost-effectiveness analysis with R",
+    "forks_count": 11,
+    "html_url": "https://github.com/hesim-dev/rcea",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "R",
+    "repo_name": "rcea",
+    "repo_owner": "hesim-dev",
+    "repotime": "2022-04-19, 18:21:04",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-04-19",
+    "description": "Remote Code Execution Exploit in the RPC Library",
+    "forks_count": 3,
+    "html_url": "https://github.com/websecnl/CVE-2022-26809",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26809",
+    "repo_owner": "websecnl",
+    "repotime": "2022-04-19, 19:04:04",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 139,
+    "date_started": "2012-07-09",
+    "date_updated": "2022-04-14",
+    "description": "A collection of web pages vulnerable to SQL injection flaws",
+    "forks_count": 131,
+    "html_url": "https://github.com/sqlmapproject/testenv",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "testenv",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2022-04-14, 11:05:57",
+    "stargazers_count": 347,
+    "watchers_count": 347
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-04-03",
+    "date_updated": "2022-04-03",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/h4ckti/Log4jRCE-ExploitWindows",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": null,
+    "repo_name": "Log4jRCE-ExploitWindows",
+    "repo_owner": "h4ckti",
+    "repotime": "2022-04-03, 17:04:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

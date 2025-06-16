@@ -51,3 +51,56 @@
     "stargazers_count": 3,
     "watchers_count": 3
 }
+{
+    "commits_count": 41,
+    "date_started": "2013-12-05",
+    "date_updated": "2018-08-31",
+    "description": "PHP shell that hijacks the the incoming socket connection to provide an interactive shell session on port 80",
+    "forks_count": 4,
+    "html_url": "https://github.com/BrianHeeseIs/BratShell",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "BratShell",
+    "repo_owner": "BrianHeeseIs",
+    "repotime": "2018-08-31, 12:47:34",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 11,
+    "date_started": "2018-02-08",
+    "date_updated": "2018-08-16",
+    "description": "A low interaction honeypot for the Cisco ASA component capable of detecting CVE-2018-0101, a DoS and remote code execution vulnerability.",
+    "forks_count": 22,
+    "html_url": "https://github.com/Cymmetria/ciscoasa_honeypot",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution dos"
+    ],
+    "language": "JavaScript",
+    "repo_name": "ciscoasa_honeypot",
+    "repo_owner": "Cymmetria",
+    "repotime": "2018-08-16, 17:24:19",
+    "stargazers_count": 52,
+    "watchers_count": 52
+}
+{
+    "commits_count": 15,
+    "date_started": "2018-02-09",
+    "date_updated": "2018-08-11",
+    "description": "<no description>",
+    "forks_count": 4,
+    "html_url": "https://github.com/yuvatia/windows-lpe-examples",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe"
+    ],
+    "language": "C++",
+    "repo_name": "windows-lpe-examples",
+    "repo_owner": "yuvatia",
+    "repotime": "2018-08-11, 21:23:56",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

@@ -18,3 +18,23 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 2,
+    "date_started": "2023-06-15",
+    "date_updated": "2023-06-15",
+    "description": "Used problem solving and reverse engineering to find the exploits for 10 binaries with ASLR turned on. Exploited the vulnerabilities in ASLR using Heap Buffer Overflows and Return Oriented Programming. Created the shellcode and deduced the NOP Slide required to overwrite the return address to point to the heap, text, data or bss regions.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ratangupta/Bypassing-ASLR",
+    "keywords": [
+        "aslr bypass exploitation",
+        "aslr bypass",
+        "aslr bypass exploit",
+        "aslr bypass vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Bypassing-ASLR",
+    "repo_owner": "ratangupta",
+    "repotime": "2023-06-15, 01:03:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

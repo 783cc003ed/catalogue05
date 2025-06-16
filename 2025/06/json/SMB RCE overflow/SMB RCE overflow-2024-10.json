@@ -122,3 +122,127 @@
     "stargazers_count": 2,
     "watchers_count": 2
 }
+{
+    "commits_count": 7,
+    "date_started": "2024-10-23",
+    "date_updated": "2024-10-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "repo_owner": "Bogdy88",
+    "repotime": "2024-10-23, 01:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 132,
+    "date_started": "2021-02-23",
+    "date_updated": "2024-10-17",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 78,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2024-10-17, 06:04:00",
+    "stargazers_count": 797,
+    "watchers_count": 797
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-15",
+    "date_updated": "2024-10-15",
+    "description": "Repo part of a training session",
+    "forks_count": 0,
+    "html_url": "https://github.com/bardrotzer/stock-predictions-ai-app",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "JavaScript",
+    "repo_name": "stock-predictions-ai-app",
+    "repo_owner": "bardrotzer",
+    "repotime": "2024-10-15, 14:24:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 111,
+    "date_started": "2017-03-21",
+    "date_updated": "2024-10-12",
+    "description": "SSRF (Server Side Request Forgery) testing resources",
+    "forks_count": 481,
+    "html_url": "https://github.com/cujanovic/SSRF-Testing",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Testing",
+    "repo_owner": "cujanovic",
+    "repotime": "2024-10-12, 14:43:20",
+    "stargazers_count": 2408,
+    "watchers_count": 2408
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-09",
+    "description": "CVE-2024-38077: Remote Code Execution Vulnerability in Windows Remote Desktop Licensing Service",
+    "forks_count": 3,
+    "html_url": "https://github.com/mrmtwoj/CVE-2024-38077",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Windows remote code execution poc",
+        "remote code execution poc",
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-38077",
+    "repo_owner": "mrmtwoj",
+    "repotime": "2024-10-09, 10:12:25",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-02",
+    "date_updated": "2024-10-02",
+    "description": "An exploration of buffer overflow vulnerabilities, bypassing Address Space Layout Randomization (ASLR), and heap overflow attacks using real-world exploit techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fekk1i/Buffer-Overflow-ASLR-and-Heap-Overflow-Attacks",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": null,
+    "repo_name": "Buffer-Overflow-ASLR-and-Heap-Overflow-Attacks",
+    "repo_owner": "fekk1i",
+    "repotime": "2024-10-02, 12:53:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-04-24",
+    "date_updated": "2024-10-02",
+    "description": "A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.",
+    "forks_count": 0,
+    "html_url": "https://github.com/readloud/PrivEsc",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "PrivEsc",
+    "repo_owner": "readloud",
+    "repotime": "2024-10-02, 04:02:06",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

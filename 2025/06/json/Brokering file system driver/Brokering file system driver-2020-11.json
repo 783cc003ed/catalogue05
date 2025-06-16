@@ -17,3 +17,22 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 6,
+    "date_started": "2020-11-20",
+    "date_updated": "2020-11-20",
+    "description": "Walkthrough on exploiting a Linux machine. Enumerate Samba for shares, manipulate a vulnerable version of proftpd and escalate your privileges with path variable manipulation. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Eutectico/Kenobi",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Kenobi",
+    "repo_owner": "Eutectico",
+    "repotime": "2020-11-20, 11:50:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

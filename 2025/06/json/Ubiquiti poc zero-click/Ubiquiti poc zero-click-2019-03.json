@@ -101,3 +101,106 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 1,
+    "date_started": "2019-03-27",
+    "date_updated": "2019-03-27",
+    "description": "Zimbra XXE+SSRF+UPLOAD Poc",
+    "forks_count": 32,
+    "html_url": "https://github.com/fnmsd/zimbra_poc",
+    "keywords": [
+        "ssrf",
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "zimbra_poc",
+    "repo_owner": "fnmsd",
+    "repotime": "2019-03-27, 21:48:06",
+    "stargazers_count": 59,
+    "watchers_count": 59
+}
+{
+    "commits_count": 12,
+    "date_started": "2019-02-25",
+    "date_updated": "2019-03-18",
+    "description": "A simple PoC for WordPress RCE (author priviledge), refer to CVE-2019-8942 and CVE-2019-8943.",
+    "forks_count": 20,
+    "html_url": "https://github.com/brianwrf/WordPress_4.9.8_RCE_POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "WordPress_4.9.8_RCE_POC",
+    "repo_owner": "brianwrf",
+    "repotime": "2019-03-18, 09:20:52",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-03-14",
+    "date_updated": "2019-03-14",
+    "description": "My take on the Win10 Task Cleaner UAC bypass.",
+    "forks_count": 10,
+    "html_url": "https://github.com/PoSHMagiC0de/Invoke-TaskCleanerBypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Invoke-TaskCleanerBypass",
+    "repo_owner": "PoSHMagiC0de",
+    "repotime": "2019-03-14, 15:45:50",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 37,
+    "date_started": "2018-11-19",
+    "date_updated": "2019-03-13",
+    "description": "vulnerability record",
+    "forks_count": 6,
+    "html_url": "https://github.com/greekn/rce-bug2.0",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "rce-bug2.0",
+    "repo_owner": "greekn",
+    "repotime": "2019-03-13, 17:16:40",
+    "stargazers_count": 34,
+    "watchers_count": 34
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-03-10",
+    "date_updated": "2019-03-10",
+    "description": "RCE on Apache Solr using deserialization of untrusted data via jmx.serviceUrl",
+    "forks_count": 56,
+    "html_url": "https://github.com/mpgn/CVE-2019-0192",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-0192",
+    "repo_owner": "mpgn",
+    "repotime": "2019-03-10, 19:33:42",
+    "stargazers_count": 210,
+    "watchers_count": 210
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-03-04",
+    "date_updated": "2019-03-04",
+    "description": "WinRar is a very widely known software for windows. Previous version of WinRaR was a vulnerability which has been patched in Feb-2019. Most of the people didn't update winrar so they are vulnerable in this Absolute Path Traversal bug [CVE-2018-20250]",
+    "forks_count": 0,
+    "html_url": "https://github.com/technicaldada/hack-winrar",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "hack-winrar",
+    "repo_owner": "technicaldada",
+    "repotime": "2019-03-04, 17:09:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

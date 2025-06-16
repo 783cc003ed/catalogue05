@@ -15,3 +15,20 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 10,
+    "date_started": "2011-04-20",
+    "date_updated": "2014-08-16",
+    "description": "avoids the need to hard-code passwords and other credentials in scripts like ant-scripts",
+    "forks_count": 1,
+    "html_url": "https://github.com/doctainer/credsrv",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Java",
+    "repo_name": "credsrv",
+    "repo_owner": "doctainer",
+    "repotime": "2014-08-16, 06:39:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

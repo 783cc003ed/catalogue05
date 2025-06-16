@@ -312,3 +312,317 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 2,
+    "date_started": "2023-02-27",
+    "date_updated": "2023-02-27",
+    "description": "A small ncat-like server wrtten in 2 versions, one with a buffer overflow exploit and the later version without. It was written to be used in an end-to-end zero-day workflow, including identification and banner grabbing by nmap/Nessus and ending with a Metasploit exploit.",
+    "forks_count": 0,
+    "html_url": "https://github.com/damiengolding/Victim-Lab-Server",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Victim-Lab-Server",
+    "repo_owner": "damiengolding",
+    "repotime": "2023-02-27, 15:09:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 127,
+    "date_started": "2018-08-22",
+    "date_updated": "2023-02-19",
+    "description": "VR Man-in-the-Room Attack and Command &amp;amp; Control Server Proof of Concept — Bigscreen",
+    "forks_count": 1,
+    "html_url": "https://github.com/mvondracek/VR-MitR-C2-Bigscreen",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "VR-MitR-C2-Bigscreen",
+    "repo_owner": "mvondracek",
+    "repotime": "2023-02-19, 23:43:42",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-02-18",
+    "date_updated": "2023-02-18",
+    "description": "Pwn2Own Vancouver 2022 exploits of Linux Kernel ",
+    "forks_count": 0,
+    "html_url": "https://github.com/hieunguyentr92/nf_tables_lpe",
+    "keywords": [
+        "lpe exploitation",
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "nf_tables_lpe",
+    "repo_owner": "hieunguyentr92",
+    "repotime": "2023-02-18, 23:19:34",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-16",
+    "date_updated": "2023-02-16",
+    "description": "Integer overflow in Core in Google Chrome prior to 110.0.5481.77 allowed a remote attacker who had one a race condition to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Low) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0705",
+    "keywords": [
+        "corruption overflow exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0705",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-16, 17:06:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 39,
+    "date_started": "2018-12-08",
+    "date_updated": "2023-02-15",
+    "description": "一个经典的XSS渗透管理平台",
+    "forks_count": 199,
+    "html_url": "https://github.com/78778443/xssplatform",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "xssplatform",
+    "repo_owner": "78778443",
+    "repotime": "2023-02-15, 10:31:09",
+    "stargazers_count": 725,
+    "watchers_count": 725
+}
+{
+    "commits_count": 235,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-14",
+    "description": "Documentation of strategies and methods for the OSCP exam ranging from target enumeration, vulnerability assessment, exploits, to privilege escalation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/airadulescu/Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "repo_owner": "airadulescu",
+    "repotime": "2023-02-14, 02:02:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-07",
+    "date_updated": "2023-02-08",
+    "description": "kernel/bpf/verifier.c in the Linux kernel through 4.14.8 allows local users to cause a denial of service (integer overflow and memory corruption) or possibly have unspecified other impact by leveraging unrestricted integer values for pointer arithmetic. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-17854",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-17854",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-08, 00:25:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-07",
+    "date_updated": "2023-02-07",
+    "description": "In Boa, there is a possible escalation of privilege due to a stack buffer overflow. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-31578",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-31578",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-07, 01:06:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-01",
+    "date_updated": "2023-02-01",
+    "description": "A CWE-190: Integer Overflow or Wraparound vulnerability exists that could cause heap-based buffer overflow, leading to denial of service and potentially remote code execution when an attacker sends multiple specially crafted messages. Affected Products: IGSS Data Server - IGSSdataServer.exe (Versions prior to V15.0.0.2 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-2329",
+    "keywords": [
+        "remote code execution denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-2329",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-01, 08:02:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-27",
+    "date_updated": "2023-02-27",
+    "description": "A small ncat-like server wrtten in 2 versions, one with a buffer overflow exploit and the later version without. It was written to be used in an end-to-end zero-day workflow, including identification and banner grabbing by nmap/Nessus and ending with a Metasploit exploit.",
+    "forks_count": 0,
+    "html_url": "https://github.com/damiengolding/Victim-Lab-Server",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Victim-Lab-Server",
+    "repo_owner": "damiengolding",
+    "repotime": "2023-02-27, 15:09:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 127,
+    "date_started": "2018-08-22",
+    "date_updated": "2023-02-19",
+    "description": "VR Man-in-the-Room Attack and Command &amp;amp; Control Server Proof of Concept — Bigscreen",
+    "forks_count": 1,
+    "html_url": "https://github.com/mvondracek/VR-MitR-C2-Bigscreen",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "VR-MitR-C2-Bigscreen",
+    "repo_owner": "mvondracek",
+    "repotime": "2023-02-19, 23:43:42",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-02-18",
+    "date_updated": "2023-02-18",
+    "description": "Pwn2Own Vancouver 2022 exploits of Linux Kernel ",
+    "forks_count": 0,
+    "html_url": "https://github.com/hieunguyentr92/nf_tables_lpe",
+    "keywords": [
+        "lpe exploitation",
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "nf_tables_lpe",
+    "repo_owner": "hieunguyentr92",
+    "repotime": "2023-02-18, 23:19:34",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-16",
+    "date_updated": "2023-02-16",
+    "description": "Integer overflow in Core in Google Chrome prior to 110.0.5481.77 allowed a remote attacker who had one a race condition to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Low) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0705",
+    "keywords": [
+        "corruption overflow exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0705",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-16, 17:06:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 39,
+    "date_started": "2018-12-08",
+    "date_updated": "2023-02-15",
+    "description": "一个经典的XSS渗透管理平台",
+    "forks_count": 199,
+    "html_url": "https://github.com/78778443/xssplatform",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "xssplatform",
+    "repo_owner": "78778443",
+    "repotime": "2023-02-15, 10:31:09",
+    "stargazers_count": 725,
+    "watchers_count": 725
+}
+{
+    "commits_count": 235,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-14",
+    "description": "Documentation of strategies and methods for the OSCP exam ranging from target enumeration, vulnerability assessment, exploits, to privilege escalation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/airadulescu/Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "repo_owner": "airadulescu",
+    "repotime": "2023-02-14, 02:02:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-07",
+    "date_updated": "2023-02-08",
+    "description": "kernel/bpf/verifier.c in the Linux kernel through 4.14.8 allows local users to cause a denial of service (integer overflow and memory corruption) or possibly have unspecified other impact by leveraging unrestricted integer values for pointer arithmetic. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-17854",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-17854",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-08, 00:25:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-07",
+    "date_updated": "2023-02-07",
+    "description": "In Boa, there is a possible escalation of privilege due to a stack buffer overflow. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-31578",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-31578",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-07, 01:06:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-01",
+    "date_updated": "2023-02-01",
+    "description": "A CWE-190: Integer Overflow or Wraparound vulnerability exists that could cause heap-based buffer overflow, leading to denial of service and potentially remote code execution when an attacker sends multiple specially crafted messages. Affected Products: IGSS Data Server - IGSSdataServer.exe (Versions prior to V15.0.0.2 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-2329",
+    "keywords": [
+        "remote code execution denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-2329",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-01, 08:02:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

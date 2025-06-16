@@ -15,3 +15,20 @@
     "stargazers_count": 6,
     "watchers_count": 6
 }
+{
+    "commits_count": 2,
+    "date_started": "2012-07-18",
+    "date_updated": "2012-07-19",
+    "description": "Change the session id per magento request to avoid Session Fixation and Session Hijacking. And avoid setting the session id via POST and GET request",
+    "forks_count": 0,
+    "html_url": "https://github.com/ikonoshirt/secureSession",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "secureSession",
+    "repo_owner": "ikonoshirt",
+    "repotime": "2012-07-19, 21:52:15",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}

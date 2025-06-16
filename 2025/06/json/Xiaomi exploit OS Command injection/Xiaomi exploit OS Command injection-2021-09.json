@@ -212,3 +212,217 @@
     "stargazers_count": 19,
     "watchers_count": 19
 }
+{
+    "commits_count": 1,
+    "date_started": "2021-09-27",
+    "date_updated": "2021-09-27",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/kn81/csv-injection-payloads-master",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "csv-injection-payloads-master",
+    "repo_owner": "kn81",
+    "repotime": "2021-09-27, 17:28:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 36,
+    "date_started": "2015-09-18",
+    "date_updated": "2021-09-26",
+    "description": "Exploits by 1N3 @CrowdShield @xer0dayz @XeroSecurity",
+    "forks_count": 104,
+    "html_url": "https://github.com/1N3/Exploits",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Exploits",
+    "repo_owner": "1N3",
+    "repotime": "2021-09-26, 18:47:12",
+    "stargazers_count": 202,
+    "watchers_count": 202
+}
+{
+    "commits_count": 410,
+    "date_started": "2020-04-19",
+    "date_updated": "2021-09-25",
+    "description": "A phased, evasive Path Traversal + LFI scanning &amp;amp; exploitation tool in Python",
+    "forks_count": 23,
+    "html_url": "https://github.com/VainlyStrain/Vailyn",
+    "keywords": [
+        "lfi",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Vailyn",
+    "repo_owner": "VainlyStrain",
+    "repotime": "2021-09-25, 21:18:09",
+    "stargazers_count": 198,
+    "watchers_count": 198
+}
+{
+    "commits_count": 36,
+    "date_started": "2021-10-27",
+    "date_updated": "2021-09-24",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 11,
+    "html_url": "https://github.com/BrockOz/Final-Project",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution analysis",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "Final-Project",
+    "repo_owner": "BrockOz",
+    "repotime": "2021-09-24, 14:45:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 47,
+    "date_started": "2019-07-15",
+    "date_updated": "2021-09-22",
+    "description": "List DTDs and generate XXE payloads using those local DTDs.",
+    "forks_count": 110,
+    "html_url": "https://github.com/GoSecure/dtd-finder",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Kotlin",
+    "repo_name": "dtd-finder",
+    "repo_owner": "GoSecure",
+    "repotime": "2021-09-22, 13:53:59",
+    "stargazers_count": 629,
+    "watchers_count": 629
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-05-11",
+    "date_updated": "2021-09-21",
+    "description": "These are project resources for the live YouTube lectures. Includes dependency injection, git internals, code reviews and the system design contest.",
+    "forks_count": 81,
+    "html_url": "https://github.com/coding-parrot/youtube-projects",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "youtube-projects",
+    "repo_owner": "coding-parrot",
+    "repotime": "2021-09-21, 17:12:45",
+    "stargazers_count": 128,
+    "watchers_count": 128
+}
+{
+    "commits_count": 26,
+    "date_started": "2015-02-04",
+    "date_updated": "2021-09-20",
+    "description": "Static analysis tool for Golang that protects against SQL injections     ",
+    "forks_count": 46,
+    "html_url": "https://github.com/stripe-archive/safesql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "safesql",
+    "repo_owner": "stripe-archive",
+    "repotime": "2021-09-20, 17:02:47",
+    "stargazers_count": 562,
+    "watchers_count": 562
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-09-07",
+    "date_updated": "2021-09-09",
+    "description": "Template Injection in Email Templates leads to code execution on Jira Service Management Server",
+    "forks_count": 16,
+    "html_url": "https://github.com/PetrusViet/CVE-2021-39115",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-39115",
+    "repo_owner": "PetrusViet",
+    "repotime": "2021-09-09, 10:58:32",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 10,
+    "date_started": "2017-04-18",
+    "date_updated": "2021-09-08",
+    "description": "<no description>",
+    "forks_count": 4,
+    "html_url": "https://github.com/cferdinandi/dom-injection-source-code",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "HTML",
+    "repo_name": "dom-injection-source-code",
+    "repo_owner": "cferdinandi",
+    "repotime": "2021-09-08, 10:25:49",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-09-07",
+    "date_updated": "2021-09-07",
+    "description": "WeChat injection codes - Undetectable",
+    "forks_count": 10,
+    "html_url": "https://github.com/kkoooqq/ios-wechat-hook-undetectable",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "ios-wechat-hook-undetectable",
+    "repo_owner": "kkoooqq",
+    "repotime": "2021-09-07, 11:01:44",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 92,
+    "date_started": "2021-04-17",
+    "date_updated": "2021-09-06",
+    "description": "PS3 C code injection framework",
+    "forks_count": 4,
+    "html_url": "https://github.com/tge-was-taken/ps3-ckit",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "ps3-ckit",
+    "repo_owner": "tge-was-taken",
+    "repotime": "2021-09-06, 22:45:54",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-03-25",
+    "date_updated": "2021-09-04",
+    "description": "Vulnerability analysis and PoC for the Apache Tomcat - CGIServlet enableCmdLineArguments Remote Code Execution (RCE)",
+    "forks_count": 10,
+    "html_url": "https://github.com/jaiguptanick/CVE-2019-0232",
+    "keywords": [
+        "remote code execution analysis",
+        "rce analysis",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-0232",
+    "repo_owner": "jaiguptanick",
+    "repotime": "2021-09-04, 06:15:00",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}

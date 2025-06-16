@@ -32,3 +32,37 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 3,
+    "date_started": "2017-06-26",
+    "date_updated": "2017-06-26",
+    "description": "POC trying to replicate a node.js memory leak",
+    "forks_count": 0,
+    "html_url": "https://github.com/noblesamurai/memory-leak-poc",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "JavaScript",
+    "repo_name": "memory-leak-poc",
+    "repo_owner": "noblesamurai",
+    "repotime": "2017-06-26, 14:17:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2017-06-21",
+    "date_updated": "2017-06-19",
+    "description": "Java REST application to test hard coded passwords and code vulnerability scanning",
+    "forks_count": 0,
+    "html_url": "https://github.com/gjtaylor/bad-apple",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Java",
+    "repo_name": "bad-apple",
+    "repo_owner": "gjtaylor",
+    "repotime": "2017-06-19, 18:04:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

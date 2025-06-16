@@ -225,3 +225,230 @@
     "stargazers_count": 55,
     "watchers_count": 55
 }
+{
+    "commits_count": 10,
+    "date_started": "2020-06-16",
+    "date_updated": "2020-06-17",
+    "description": "LPE for CVE-2020-1054 targeting Windows 7 x64",
+    "forks_count": 30,
+    "html_url": "https://github.com/0xeb-bp/cve-2020-1054",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "Rust",
+    "repo_name": "cve-2020-1054",
+    "repo_owner": "0xeb-bp",
+    "repotime": "2020-06-17, 14:10:15",
+    "stargazers_count": 86,
+    "watchers_count": 86
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-03-07",
+    "date_updated": "2020-06-16",
+    "description": "Spring Boot Actuator (jolokia) XXE/RCE",
+    "forks_count": 58,
+    "html_url": "https://github.com/mpgn/Spring-Boot-Actuator-Exploit",
+    "keywords": [
+        "rce exploit",
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "Spring-Boot-Actuator-Exploit",
+    "repo_owner": "mpgn",
+    "repotime": "2020-06-16, 23:24:05",
+    "stargazers_count": 317,
+    "watchers_count": 317
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-06-16",
+    "date_updated": "2020-06-16",
+    "description": "This is the proof of concept for the remote code execution in .Net's MSMQ BinaryMessageFormatter",
+    "forks_count": 0,
+    "html_url": "https://github.com/modzero/MZ-20-03_PoC_MSMQ_BinaryMessageFormatter",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution poc"
+    ],
+    "language": "C#",
+    "repo_name": "MZ-20-03_PoC_MSMQ_BinaryMessageFormatter",
+    "repo_owner": "modzero",
+    "repotime": "2020-06-16, 21:47:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-06-16",
+    "date_updated": "2020-06-16",
+    "description": "Proof of concept for the DoS/RCE in .Net Remoting",
+    "forks_count": 0,
+    "html_url": "https://github.com/modzero/MZ-20-03_PoC_NetRemoting",
+    "keywords": [
+        "rce proof of concept",
+        "rce dos"
+    ],
+    "language": "C#",
+    "repo_name": "MZ-20-03_PoC_NetRemoting",
+    "repo_owner": "modzero",
+    "repotime": "2020-06-16, 21:45:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 235,
+    "date_started": "2020-03-05",
+    "date_updated": "2020-06-15",
+    "description": "After successful completion of the course, students are able to...  derive the free oscillation eigenvalue problem and interpret its results, i.e. model shapes and natural frequencies, as well as be familiar with the most important numerical solution methods derive reduced order models for multi degree of freedom systems by using an appropriate modal basis Conduct harmonic response analyses of full and reduced systems, incorporating different damping methods, and be familiar with the concept of transfer functions Describe the working principles of measurement equipment for experimental modal analysis, and to use such equipment in practice Extract natural frequencies and mode shapes from measurement data by using various identification techniques, as well as compare experimentally determined modes to computational results based on appropriate criteria",
+    "forks_count": 0,
+    "html_url": "https://github.com/phmandl/modalanalyse",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "modalanalyse",
+    "repo_owner": "phmandl",
+    "repotime": "2020-06-15, 19:36:21",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 61,
+    "date_started": "2016-03-07",
+    "date_updated": "2020-06-13",
+    "description": "XssPy - Web Application XSS Scanner",
+    "forks_count": 219,
+    "html_url": "https://github.com/faizann24/XssPy",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XssPy",
+    "repo_owner": "faizann24",
+    "repotime": "2020-06-13, 19:13:14",
+    "stargazers_count": 842,
+    "watchers_count": 842
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-06-10",
+    "date_updated": "2020-06-10",
+    "description": "Got a path/directory traversal or file disclosure vulnerability on a Linux-server and need to know some interesting files to hunt for? I’ve got you covered Know any more good files to look for? Let me know!",
+    "forks_count": 0,
+    "html_url": "https://github.com/stephyards/Path-Traversal-Cheat-Sheet-Linux",
+    "keywords": [
+        "path traversal vulnerability",
+        "directory traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Path-Traversal-Cheat-Sheet-Linux",
+    "repo_owner": "stephyards",
+    "repotime": "2020-06-10, 03:52:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 32,
+    "date_started": "2013-09-05",
+    "date_updated": "2020-06-07",
+    "description": "OWASP Xenotix XSS Exploit Framework is an advanced Cross Site Scripting (XSS) vulnerability detection and exploitation framework.",
+    "forks_count": 178,
+    "html_url": "https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "OWASP-Xenotix-XSS-Exploit-Framework",
+    "repo_owner": "ajinabraham",
+    "repotime": "2020-06-07, 19:53:17",
+    "stargazers_count": 531,
+    "watchers_count": 531
+}
+{
+    "commits_count": 159,
+    "date_started": "2019-03-12",
+    "date_updated": "2020-06-07",
+    "description": "Creating a secure heap allocator resistant to use after free vulnerabilities. Inspired by the Cling allocator paper",
+    "forks_count": 0,
+    "html_url": "https://github.com/mattmccreesh/sHeap",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "TeX",
+    "repo_name": "sHeap",
+    "repo_owner": "mattmccreesh",
+    "repotime": "2020-06-07, 15:25:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2019-11-11",
+    "date_updated": "2020-06-04",
+    "description": "A Collection of Chrome Sandbox Escape POCs/Exploits for learning",
+    "forks_count": 136,
+    "html_url": "https://github.com/allpaca/chrome-sbx-db",
+    "keywords": [
+        "Chrome sandbox escape poc",
+        "sandbox escape poc",
+        "Chrome sandbox escape exploitation",
+        "Chrome sandbox escape",
+        "sandbox escape exploitation",
+        "sandbox escape exploit",
+        "Chrome sandbox escape exploit"
+    ],
+    "language": null,
+    "repo_name": "chrome-sbx-db",
+    "repo_owner": "allpaca",
+    "repotime": "2020-06-04, 15:44:46",
+    "stargazers_count": 821,
+    "watchers_count": 821
+}
+{
+    "commits_count": 11,
+    "date_started": "2016-05-01",
+    "date_updated": "2020-06-02",
+    "description": "Proof of concept open source implementation of an UAC bypass exploit, based in 2 windows failures.",
+    "forks_count": 9,
+    "html_url": "https://github.com/pedro-javierf/Twicexploit",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Twicexploit",
+    "repo_owner": "pedro-javierf",
+    "repotime": "2020-06-02, 14:20:29",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 17,
+    "date_started": "2019-06-11",
+    "date_updated": "2020-06-02",
+    "description": "Some personal exploits/pocs",
+    "forks_count": 18,
+    "html_url": "https://github.com/dhn/exploits",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce poc",
+        "Windows lpe poc",
+        "Windows lpe exploit",
+        "Windows rce poc",
+        "rce exploit",
+        "Windows rce",
+        "Windows lpe",
+        "Windows rce exploit",
+        "lpe poc",
+        "rce exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "exploits",
+    "repo_owner": "dhn",
+    "repotime": "2020-06-02, 07:51:10",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}

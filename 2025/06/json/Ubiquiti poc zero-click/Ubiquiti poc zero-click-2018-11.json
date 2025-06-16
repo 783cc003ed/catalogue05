@@ -107,3 +107,112 @@
     "stargazers_count": 74,
     "watchers_count": 74
 }
+{
+    "commits_count": 22,
+    "date_started": "2018-11-26",
+    "date_updated": "2018-11-26",
+    "description": "POC: ALPC TasksScheduler LPE for Windows 7 and other",
+    "forks_count": 0,
+    "html_url": "https://github.com/PavelICS/lpe-tasks_scheduler_alpc",
+    "keywords": [
+        "Windows lpe poc",
+        "lpe poc",
+        "Windows lpe"
+    ],
+    "language": "C",
+    "repo_name": "lpe-tasks_scheduler_alpc",
+    "repo_owner": "PavelICS",
+    "repotime": "2018-11-26, 18:23:00",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 22,
+    "date_started": "2018-11-13",
+    "date_updated": "2018-11-22",
+    "description": "My first try to code my own LPE exploit.",
+    "forks_count": 1,
+    "html_url": "https://github.com/DoubleMice/cve-2017-11176",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "cve-2017-11176",
+    "repo_owner": "DoubleMice",
+    "repotime": "2018-11-22, 11:50:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-11-13",
+    "date_updated": "2018-11-13",
+    "description": "Winrar 0day exploit/payload maker",
+    "forks_count": 6,
+    "html_url": "https://github.com/ethereumbandit/winrar-SFX-0day-exploiter",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "Win 0day exploitation",
+        "Win 0day",
+        "Win 0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "winrar-SFX-0day-exploiter",
+    "repo_owner": "ethereumbandit",
+    "repotime": "2018-11-13, 12:19:53",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-11-09",
+    "date_updated": "2018-11-09",
+    "description": "PHPMyAdmin v4.8.0 and v.4.8.1 LFI exploit",
+    "forks_count": 7,
+    "html_url": "https://github.com/0x00-0x00/CVE-2018-12613",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2018-12613",
+    "repo_owner": "0x00-0x00",
+    "repotime": "2018-11-09, 11:42:18",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-11-06",
+    "date_updated": "2018-11-06",
+    "description": "an RCE (remote command execution) approach of CVE-2018-7750",
+    "forks_count": 8,
+    "html_url": "https://github.com/jm33-m0/CVE-2018-7750",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-7750",
+    "repo_owner": "jm33-m0",
+    "repotime": "2018-11-06, 18:10:26",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-10-27",
+    "date_updated": "2018-11-03",
+    "description": "CVE-2018-20377; 20575; 20576; 20577 Multiple security vulnerabilities affecting latest firmware release on ORANGE Livebox modems.",
+    "forks_count": 12,
+    "html_url": "https://github.com/zadewg/LIVEBOX-0DAY",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "LIVEBOX-0DAY",
+    "repo_owner": "zadewg",
+    "repotime": "2018-11-03, 00:14:52",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}

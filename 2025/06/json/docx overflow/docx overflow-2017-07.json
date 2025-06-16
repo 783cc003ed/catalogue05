@@ -32,3 +32,37 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 5,
+    "date_started": "2015-11-18",
+    "date_updated": "2017-07-17",
+    "description": "Powershell to CodeExecution and ProcessInjection",
+    "forks_count": 23,
+    "html_url": "https://github.com/3gstudent/Code-Execution-and-Process-Injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Code-Execution-and-Process-Injection",
+    "repo_owner": "3gstudent",
+    "repotime": "2017-07-17, 17:40:17",
+    "stargazers_count": 64,
+    "watchers_count": 64
+}
+{
+    "commits_count": 2,
+    "date_started": "2017-07-12",
+    "date_updated": "2017-07-12",
+    "description": "PoliCTF - Getting rce by chaining buffer overflow, write-what-where, tls",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nesos-ita/PoliCTF2017-EzWinShell",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "C++",
+    "repo_name": "PoliCTF2017-EzWinShell",
+    "repo_owner": "Nesos-ita",
+    "repotime": "2017-07-12, 08:02:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

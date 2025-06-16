@@ -83,3 +83,88 @@
     "stargazers_count": 60,
     "watchers_count": 60
 }
+{
+    "commits_count": 30,
+    "date_started": "2020-10-29",
+    "date_updated": "2020-10-29",
+    "description": "<no description>",
+    "forks_count": 6,
+    "html_url": "https://github.com/iustin24/SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "SSRF",
+    "repo_owner": "iustin24",
+    "repotime": "2020-10-29, 23:53:30",
+    "stargazers_count": 34,
+    "watchers_count": 34
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-10-28",
+    "date_updated": "2020-10-28",
+    "description": "Part I - WeatherPy In this example, you’ll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you’ll be utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.  Your first objective is to build a series of scatter plots to showcase the following relationships:  Temperature (F) vs. Latitude Humidity (%) vs. Latitude Cloudiness (%) vs. Latitude Wind Speed (mph) vs. Latitude After each plot add a sentence or too explaining what the code is and analyzing.  Your next objective is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):  Northern Hemisphere - Temperature (F) vs. Latitude Southern Hemisphere - Temperature (F) vs. Latitude Northern Hemisphere - Humi...",
+    "forks_count": 3,
+    "html_url": "https://github.com/Kwamb0/API_homework",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "API_homework",
+    "repo_owner": "Kwamb0",
+    "repotime": "2020-10-28, 15:12:50",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 85,
+    "date_started": "2015-11-18",
+    "date_updated": "2020-10-28",
+    "description": "UAF IceBridge Alaska Altimetry analysis scripts",
+    "forks_count": 1,
+    "html_url": "https://github.com/aaarendt/Alaska-altimetry",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Alaska-altimetry",
+    "repo_owner": "aaarendt",
+    "repotime": "2020-10-28, 12:03:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-10-13",
+    "date_updated": "2020-10-13",
+    "description": "Problem Statement A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;quot;dock&amp;quot; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.   A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.    In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation du...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Shubha9937/Bike-Sharing-Demand",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Bike-Sharing-Demand",
+    "repo_owner": "Shubha9937",
+    "repotime": "2020-10-13, 16:03:59",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 35,
+    "date_started": "2016-06-08",
+    "date_updated": "2020-10-06",
+    "description": "A mode-locked fiber laser simulator 锁模光纤激光器仿真",
+    "forks_count": 19,
+    "html_url": "https://github.com/SeveNOlogy7/SimMoLFil",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "MATLAB",
+    "repo_name": "SimMoLFil",
+    "repo_owner": "SeveNOlogy7",
+    "repotime": "2020-10-06, 15:58:19",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}

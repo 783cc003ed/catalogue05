@@ -32,3 +32,37 @@
     "stargazers_count": 2,
     "watchers_count": 2
 }
+{
+    "commits_count": 2,
+    "date_started": "2020-02-11",
+    "date_updated": "2020-02-10",
+    "description": "Examples of common backend web attacks (SSRF, Command injection, SQLi, Directory traversal)",
+    "forks_count": 0,
+    "html_url": "https://github.com/greyhatgt/backend-web-attacks",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": "PHP",
+    "repo_name": "backend-web-attacks",
+    "repo_owner": "greyhatgt",
+    "repotime": "2020-02-10, 21:26:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-04-18",
+    "date_updated": "2020-02-04",
+    "description": "An XML External Entity Injection (XXE) vulnerability in the Management System (console) of BlackBerry AtHoc versions earlier than 7.6 HF-567 could allow an attacker to potentially read arbitrary local files from the application server or make requests on the network by entering maliciously crafted XML in an existing field.",
+    "forks_count": 2,
+    "html_url": "https://github.com/nxkennedy/CVE-2019-8997",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-8997",
+    "repo_owner": "nxkennedy",
+    "repotime": "2020-02-04, 12:54:39",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

@@ -15,3 +15,20 @@
     "stargazers_count": 7,
     "watchers_count": 7
 }
+{
+    "commits_count": 4,
+    "date_started": "2019-06-09",
+    "date_updated": "2019-06-09",
+    "description": "RCE through Microsoft.XMLDOM com object without touching disk",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashr/COM-XSL-Load-InMem-DotNet",
+    "keywords": [
+        "Microsoft rce"
+    ],
+    "language": "C#",
+    "repo_name": "COM-XSL-Load-InMem-DotNet",
+    "repo_owner": "ashr",
+    "repotime": "2019-06-09, 22:00:03",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}

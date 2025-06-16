@@ -208,3 +208,213 @@
     "stargazers_count": 55,
     "watchers_count": 55
 }
+{
+    "commits_count": 5,
+    "date_started": "2020-04-20",
+    "date_updated": "2020-06-29",
+    "description": "CVE-2020-0796 Remote Code Execution POC",
+    "forks_count": 173,
+    "html_url": "https://github.com/jamf/CVE-2020-0796-RCE-POC",
+    "keywords": [
+        "rce poc",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-0796-RCE-POC",
+    "repo_owner": "jamf",
+    "repotime": "2020-06-29, 12:38:12",
+    "stargazers_count": 556,
+    "watchers_count": 556
+}
+{
+    "commits_count": 10,
+    "date_started": "2020-06-16",
+    "date_updated": "2020-06-17",
+    "description": "LPE for CVE-2020-1054 targeting Windows 7 x64",
+    "forks_count": 30,
+    "html_url": "https://github.com/0xeb-bp/cve-2020-1054",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "Rust",
+    "repo_name": "cve-2020-1054",
+    "repo_owner": "0xeb-bp",
+    "repotime": "2020-06-17, 14:10:15",
+    "stargazers_count": 86,
+    "watchers_count": 86
+}
+{
+    "commits_count": 159,
+    "date_started": "2019-03-12",
+    "date_updated": "2020-06-07",
+    "description": "Creating a secure heap allocator resistant to use after free vulnerabilities. Inspired by the Cling allocator paper",
+    "forks_count": 0,
+    "html_url": "https://github.com/mattmccreesh/sHeap",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "TeX",
+    "repo_name": "sHeap",
+    "repo_owner": "mattmccreesh",
+    "repotime": "2020-06-07, 15:25:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2019-11-11",
+    "date_updated": "2020-06-04",
+    "description": "A Collection of Chrome Sandbox Escape POCs/Exploits for learning",
+    "forks_count": 136,
+    "html_url": "https://github.com/allpaca/chrome-sbx-db",
+    "keywords": [
+        "Chrome sandbox escape poc",
+        "sandbox escape poc",
+        "Chrome sandbox escape exploitation",
+        "Chrome sandbox escape",
+        "sandbox escape exploitation",
+        "sandbox escape exploit",
+        "Chrome sandbox escape exploit"
+    ],
+    "language": null,
+    "repo_name": "chrome-sbx-db",
+    "repo_owner": "allpaca",
+    "repotime": "2020-06-04, 15:44:46",
+    "stargazers_count": 821,
+    "watchers_count": 821
+}
+{
+    "commits_count": 17,
+    "date_started": "2019-06-11",
+    "date_updated": "2020-06-02",
+    "description": "Some personal exploits/pocs",
+    "forks_count": 18,
+    "html_url": "https://github.com/dhn/exploits",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce poc",
+        "Windows lpe poc",
+        "Windows lpe exploit",
+        "Windows rce poc",
+        "rce exploit",
+        "Windows rce",
+        "Windows lpe",
+        "Windows rce exploit",
+        "lpe poc",
+        "rce exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "exploits",
+    "repo_owner": "dhn",
+    "repotime": "2020-06-02, 07:51:10",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-04-20",
+    "date_updated": "2020-06-29",
+    "description": "CVE-2020-0796 Remote Code Execution POC",
+    "forks_count": 173,
+    "html_url": "https://github.com/jamf/CVE-2020-0796-RCE-POC",
+    "keywords": [
+        "rce poc",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-0796-RCE-POC",
+    "repo_owner": "jamf",
+    "repotime": "2020-06-29, 12:38:12",
+    "stargazers_count": 556,
+    "watchers_count": 556
+}
+{
+    "commits_count": 10,
+    "date_started": "2020-06-16",
+    "date_updated": "2020-06-17",
+    "description": "LPE for CVE-2020-1054 targeting Windows 7 x64",
+    "forks_count": 30,
+    "html_url": "https://github.com/0xeb-bp/cve-2020-1054",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "Rust",
+    "repo_name": "cve-2020-1054",
+    "repo_owner": "0xeb-bp",
+    "repotime": "2020-06-17, 14:10:15",
+    "stargazers_count": 86,
+    "watchers_count": 86
+}
+{
+    "commits_count": 159,
+    "date_started": "2019-03-12",
+    "date_updated": "2020-06-07",
+    "description": "Creating a secure heap allocator resistant to use after free vulnerabilities. Inspired by the Cling allocator paper",
+    "forks_count": 0,
+    "html_url": "https://github.com/mattmccreesh/sHeap",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "TeX",
+    "repo_name": "sHeap",
+    "repo_owner": "mattmccreesh",
+    "repotime": "2020-06-07, 15:25:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2019-11-11",
+    "date_updated": "2020-06-04",
+    "description": "A Collection of Chrome Sandbox Escape POCs/Exploits for learning",
+    "forks_count": 136,
+    "html_url": "https://github.com/allpaca/chrome-sbx-db",
+    "keywords": [
+        "Chrome sandbox escape poc",
+        "sandbox escape poc",
+        "Chrome sandbox escape exploitation",
+        "Chrome sandbox escape",
+        "sandbox escape exploitation",
+        "sandbox escape exploit",
+        "Chrome sandbox escape exploit"
+    ],
+    "language": null,
+    "repo_name": "chrome-sbx-db",
+    "repo_owner": "allpaca",
+    "repotime": "2020-06-04, 15:44:46",
+    "stargazers_count": 821,
+    "watchers_count": 821
+}
+{
+    "commits_count": 17,
+    "date_started": "2019-06-11",
+    "date_updated": "2020-06-02",
+    "description": "Some personal exploits/pocs",
+    "forks_count": 18,
+    "html_url": "https://github.com/dhn/exploits",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce poc",
+        "Windows lpe poc",
+        "Windows lpe exploit",
+        "Windows rce poc",
+        "rce exploit",
+        "Windows rce",
+        "Windows lpe",
+        "Windows rce exploit",
+        "lpe poc",
+        "rce exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "exploits",
+    "repo_owner": "dhn",
+    "repotime": "2020-06-02, 07:51:10",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}

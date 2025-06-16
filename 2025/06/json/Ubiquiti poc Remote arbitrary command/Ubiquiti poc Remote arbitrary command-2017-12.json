@@ -72,3 +72,77 @@
     "stargazers_count": 7,
     "watchers_count": 7
 }
+{
+    "commits_count": 4,
+    "date_started": "2017-12-25",
+    "date_updated": "2017-12-25",
+    "description": "Vulnerability in the Oracle WebLogic Server component of Oracle Fusion Middleware (subcomponent: WLS Security). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.1.0 and 12.2.1.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server.",
+    "forks_count": 9,
+    "html_url": "https://github.com/s3xy/CVE-2017-10271",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-10271",
+    "repo_owner": "s3xy",
+    "repotime": "2017-12-25, 14:21:23",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 313,
+    "date_started": "2015-10-02",
+    "date_updated": "2017-12-22",
+    "description": "SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.",
+    "forks_count": 74,
+    "html_url": "https://github.com/bcoles/ssrf_proxy",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Ruby",
+    "repo_name": "ssrf_proxy",
+    "repo_owner": "bcoles",
+    "repotime": "2017-12-22, 12:56:31",
+    "stargazers_count": 463,
+    "watchers_count": 463
+}
+{
+    "commits_count": 11,
+    "date_started": "2016-10-25",
+    "date_updated": "2017-12-13",
+    "description": "A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.",
+    "forks_count": 313,
+    "html_url": "https://github.com/1N3/PrivEsc",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "PrivEsc",
+    "repo_owner": "1N3",
+    "repotime": "2017-12-13, 15:08:57",
+    "stargazers_count": 978,
+    "watchers_count": 978
+}
+{
+    "commits_count": 2,
+    "date_started": "2017-12-08",
+    "date_updated": "2017-12-09",
+    "description": "CVE-2018-4343: Proof-of-concept for a use-after-free in the GSSCred daemon on macOS and iOS.",
+    "forks_count": 2,
+    "html_url": "https://github.com/bazad/gsscred-move-uaf",
+    "keywords": [
+        "uaf proof of concept",
+        "use after free proof of concept"
+    ],
+    "language": "C",
+    "repo_name": "gsscred-move-uaf",
+    "repo_owner": "bazad",
+    "repotime": "2017-12-09, 15:23:33",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
