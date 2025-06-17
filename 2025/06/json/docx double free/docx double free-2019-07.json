@@ -190,3 +190,387 @@
     "stargazers_count": 20,
     "watchers_count": 20
 }
+{
+    "commits_count": 710,
+    "date_started": "2019-12-17",
+    "date_updated": "2019-07-31",
+    "description": "https://51pwn.com,Awesome Penetration Testing，hacker tools collection, metasploit exploit, meterpreter....struts2、weblogic, 0day,poc,apt,backdoor,VulApps,vuln,pentest-script",
+    "forks_count": 1,
+    "html_url": "https://github.com/do0dl3/myhktools",
+    "keywords": [
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "myhktools",
+    "repo_owner": "do0dl3",
+    "repotime": "2019-07-31, 21:50:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 710,
+    "date_started": "2020-03-24",
+    "date_updated": "2019-07-31",
+    "description": "https://51pwn.com,Awesome Penetration Testing，hacker tools collection, metasploit exploit, meterpreter....struts2、weblogic, 0day,poc,apt,backdoor,VulApps,vuln,pentest-script",
+    "forks_count": 0,
+    "html_url": "https://github.com/CrackerCat/myhktools",
+    "keywords": [
+        "0day poc",
+        "0day exploitation"
+    ],
+    "language": null,
+    "repo_name": "myhktools",
+    "repo_owner": "CrackerCat",
+    "repotime": "2019-07-31, 21:50:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-07-30",
+    "date_updated": "2019-07-30",
+    "description": "&amp;&#35;35; All the News That's Fit to Scrape  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Overview  In this assignment, you'll create a web app that lets users view and leave comments on the latest news. But you're not going to actually write any articles; instead, you'll flex your Mongoose and Cheerio muscles to scrape news from another site.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Before You Begin  1. Create a GitHub repo for this assignment and clone it to your computer. Any name will do -- just make sure it's related to this project in some fashion.  2. Run `npm init`. When that's finished, install and save these npm packages:     1. express     2. express-handlebars     3. mongoose     4. cheerio     5. axios  3. **NOTE**: If you want to earn complete credit for your work, you must use all five of these packages in your assignment.  4. In order to deploy your project to Heroku, you must set up an mLab provision. mLab is remote MongoDB database that Heroku supports natively. Follow these steps to get it running:  5. Create a Heroku app ...",
+    "forks_count": 7,
+    "html_url": "https://github.com/CaptainEFFF/Mongo_Scraper",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Mongo_Scraper",
+    "repo_owner": "CaptainEFFF",
+    "repotime": "2019-07-30, 18:53:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-07-30",
+    "date_updated": "2019-07-30",
+    "description": "Latest ios RCE Vulnerability disclosed by Google Security Researcher",
+    "forks_count": 17,
+    "html_url": "https://github.com/TinToSer/ios-RCE-Vulnerability",
+    "keywords": [
+        "zero-day vulnerability",
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "ios-RCE-Vulnerability",
+    "repo_owner": "TinToSer",
+    "repotime": "2019-07-30, 20:57:43",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 11,
+    "date_started": "2015-10-11",
+    "date_updated": "2019-07-30",
+    "description": "Facebook Cookie / Session Hijacking",
+    "forks_count": 1,
+    "html_url": "https://github.com/noras-salman/FaceDown",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Shell",
+    "repo_name": "FaceDown",
+    "repo_owner": "noras-salman",
+    "repotime": "2019-07-30, 14:32:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 13,
+    "date_started": "2019-07-16",
+    "date_updated": "2019-07-20",
+    "description": "Image data has been collected over a 72 hour period to study the behaviour of cancerous cells before and after being treated by the drug Docetaxel, a drug used in chemotherapy for breast, prostate and stomach cancer[9], and Staurosporine, a natural chemical compound with known anti-cancerous properties. Data such as volume, sphericity and area has been extracted using a state-of-the-art Phasefocus microscope along with their cell tracking software, which captures images of label-free cells and with minimal light. As the image data has been collected overtime, one can observe how the physical properties of the cell change overtime. The cells treated with Staurosporine have been treated with two concentrations, 3.7mM and 33.3mM. Linear discriminant analysis (LDA), a machine learning algorithm, was used to classify untreated and treated cells for the Docetaxel drug. LDA was also used to classify cells treated with the two concentrations of Staurosporine. Further to this, pixel boundary da...",
+    "forks_count": 0,
+    "html_url": "https://github.com/natkinson1/Exploring-the-effects-of-Docetaxel-and-Staurosporine-on-Cancer-Cells",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Exploring-the-effects-of-Docetaxel-and-Staurosporine-on-Cancer-Cells",
+    "repo_owner": "natkinson1",
+    "repotime": "2019-07-20, 16:36:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-07-12",
+    "date_updated": "2019-07-12",
+    "description": "XML External Entity",
+    "forks_count": 0,
+    "html_url": "https://github.com/globuslab/root-me-ch29",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "root-me-ch29",
+    "repo_owner": "globuslab",
+    "repotime": "2019-07-12, 21:04:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-07-12",
+    "date_updated": "2019-07-13",
+    "description": "UAF_vulnerability_Test_For_GC",
+    "forks_count": 0,
+    "html_url": "https://github.com/kimsos0723/UAF_TEST",
+    "keywords": [
+        "uaf vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "UAF_TEST",
+    "repo_owner": "kimsos0723",
+    "repotime": "2019-07-13, 02:31:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 401,
+    "date_started": "2015-10-09",
+    "date_updated": "2019-07-12",
+    "description": "Undetectable Windows Payload Generation",
+    "forks_count": 334,
+    "html_url": "https://github.com/nccgroup/Winpayloads",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "Winpayloads",
+    "repo_owner": "nccgroup",
+    "repotime": "2019-07-12, 14:51:39",
+    "stargazers_count": 1600,
+    "watchers_count": 1600
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-06-21",
+    "date_updated": "2019-07-09",
+    "description": "PoC for CVE-2019-0888 - Use-After-Free in Windows ActiveX Data Objects (ADO)",
+    "forks_count": 25,
+    "html_url": "https://github.com/sophoslabs/CVE-2019-0888",
+    "keywords": [
+        "Windows use after free",
+        "use after free poc",
+        "Windows use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2019-0888",
+    "repo_owner": "sophoslabs",
+    "repotime": "2019-07-09, 11:40:05",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 89,
+    "date_started": "2015-10-05",
+    "date_updated": "2019-07-09",
+    "description": "A MATLAB toolkit for the interactive processing of plenoptic images. This repository is a mirror!",
+    "forks_count": 14,
+    "html_url": "https://github.com/AFDL/LFIT",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "MATLAB",
+    "repo_name": "LFIT",
+    "repo_owner": "AFDL",
+    "repotime": "2019-07-09, 15:28:17",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 710,
+    "date_started": "2019-12-17",
+    "date_updated": "2019-07-31",
+    "description": "https://51pwn.com,Awesome Penetration Testing，hacker tools collection, metasploit exploit, meterpreter....struts2、weblogic, 0day,poc,apt,backdoor,VulApps,vuln,pentest-script",
+    "forks_count": 1,
+    "html_url": "https://github.com/do0dl3/myhktools",
+    "keywords": [
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "myhktools",
+    "repo_owner": "do0dl3",
+    "repotime": "2019-07-31, 21:50:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 710,
+    "date_started": "2020-03-24",
+    "date_updated": "2019-07-31",
+    "description": "https://51pwn.com,Awesome Penetration Testing，hacker tools collection, metasploit exploit, meterpreter....struts2、weblogic, 0day,poc,apt,backdoor,VulApps,vuln,pentest-script",
+    "forks_count": 0,
+    "html_url": "https://github.com/CrackerCat/myhktools",
+    "keywords": [
+        "0day poc",
+        "0day exploitation"
+    ],
+    "language": null,
+    "repo_name": "myhktools",
+    "repo_owner": "CrackerCat",
+    "repotime": "2019-07-31, 21:50:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-07-30",
+    "date_updated": "2019-07-30",
+    "description": "&amp;&#35;35; All the News That's Fit to Scrape  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Overview  In this assignment, you'll create a web app that lets users view and leave comments on the latest news. But you're not going to actually write any articles; instead, you'll flex your Mongoose and Cheerio muscles to scrape news from another site.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Before You Begin  1. Create a GitHub repo for this assignment and clone it to your computer. Any name will do -- just make sure it's related to this project in some fashion.  2. Run `npm init`. When that's finished, install and save these npm packages:     1. express     2. express-handlebars     3. mongoose     4. cheerio     5. axios  3. **NOTE**: If you want to earn complete credit for your work, you must use all five of these packages in your assignment.  4. In order to deploy your project to Heroku, you must set up an mLab provision. mLab is remote MongoDB database that Heroku supports natively. Follow these steps to get it running:  5. Create a Heroku app ...",
+    "forks_count": 7,
+    "html_url": "https://github.com/CaptainEFFF/Mongo_Scraper",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Mongo_Scraper",
+    "repo_owner": "CaptainEFFF",
+    "repotime": "2019-07-30, 18:53:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-07-30",
+    "date_updated": "2019-07-30",
+    "description": "Latest ios RCE Vulnerability disclosed by Google Security Researcher",
+    "forks_count": 17,
+    "html_url": "https://github.com/TinToSer/ios-RCE-Vulnerability",
+    "keywords": [
+        "zero-day vulnerability",
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "ios-RCE-Vulnerability",
+    "repo_owner": "TinToSer",
+    "repotime": "2019-07-30, 20:57:43",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 11,
+    "date_started": "2015-10-11",
+    "date_updated": "2019-07-30",
+    "description": "Facebook Cookie / Session Hijacking",
+    "forks_count": 1,
+    "html_url": "https://github.com/noras-salman/FaceDown",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Shell",
+    "repo_name": "FaceDown",
+    "repo_owner": "noras-salman",
+    "repotime": "2019-07-30, 14:32:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 13,
+    "date_started": "2019-07-16",
+    "date_updated": "2019-07-20",
+    "description": "Image data has been collected over a 72 hour period to study the behaviour of cancerous cells before and after being treated by the drug Docetaxel, a drug used in chemotherapy for breast, prostate and stomach cancer[9], and Staurosporine, a natural chemical compound with known anti-cancerous properties. Data such as volume, sphericity and area has been extracted using a state-of-the-art Phasefocus microscope along with their cell tracking software, which captures images of label-free cells and with minimal light. As the image data has been collected overtime, one can observe how the physical properties of the cell change overtime. The cells treated with Staurosporine have been treated with two concentrations, 3.7mM and 33.3mM. Linear discriminant analysis (LDA), a machine learning algorithm, was used to classify untreated and treated cells for the Docetaxel drug. LDA was also used to classify cells treated with the two concentrations of Staurosporine. Further to this, pixel boundary da...",
+    "forks_count": 0,
+    "html_url": "https://github.com/natkinson1/Exploring-the-effects-of-Docetaxel-and-Staurosporine-on-Cancer-Cells",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Exploring-the-effects-of-Docetaxel-and-Staurosporine-on-Cancer-Cells",
+    "repo_owner": "natkinson1",
+    "repotime": "2019-07-20, 16:36:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-07-12",
+    "date_updated": "2019-07-12",
+    "description": "XML External Entity",
+    "forks_count": 0,
+    "html_url": "https://github.com/globuslab/root-me-ch29",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "root-me-ch29",
+    "repo_owner": "globuslab",
+    "repotime": "2019-07-12, 21:04:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-07-12",
+    "date_updated": "2019-07-13",
+    "description": "UAF_vulnerability_Test_For_GC",
+    "forks_count": 0,
+    "html_url": "https://github.com/kimsos0723/UAF_TEST",
+    "keywords": [
+        "uaf vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "UAF_TEST",
+    "repo_owner": "kimsos0723",
+    "repotime": "2019-07-13, 02:31:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 401,
+    "date_started": "2015-10-09",
+    "date_updated": "2019-07-12",
+    "description": "Undetectable Windows Payload Generation",
+    "forks_count": 334,
+    "html_url": "https://github.com/nccgroup/Winpayloads",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "Winpayloads",
+    "repo_owner": "nccgroup",
+    "repotime": "2019-07-12, 14:51:39",
+    "stargazers_count": 1601,
+    "watchers_count": 1601
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-06-21",
+    "date_updated": "2019-07-09",
+    "description": "PoC for CVE-2019-0888 - Use-After-Free in Windows ActiveX Data Objects (ADO)",
+    "forks_count": 25,
+    "html_url": "https://github.com/sophoslabs/CVE-2019-0888",
+    "keywords": [
+        "Windows use after free",
+        "use after free poc",
+        "Windows use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2019-0888",
+    "repo_owner": "sophoslabs",
+    "repotime": "2019-07-09, 11:40:05",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 89,
+    "date_started": "2015-10-05",
+    "date_updated": "2019-07-09",
+    "description": "A MATLAB toolkit for the interactive processing of plenoptic images. This repository is a mirror!",
+    "forks_count": 14,
+    "html_url": "https://github.com/AFDL/LFIT",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "MATLAB",
+    "repo_name": "LFIT",
+    "repo_owner": "AFDL",
+    "repotime": "2019-07-09, 15:28:17",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}

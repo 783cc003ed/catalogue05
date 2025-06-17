@@ -119,3 +119,245 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 5,
+    "date_started": "2025-03-23",
+    "date_updated": "2025-03-30",
+    "description": "Powerful static analysis tool for .NET, quickly identifies potential memory leaks related to incorrect implementations of the IDisposable interface.",
+    "forks_count": 0,
+    "html_url": "https://github.com/gcarlossuarez/IDisposableLeakAnalyzer",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C#",
+    "repo_name": "IDisposableLeakAnalyzer",
+    "repo_owner": "gcarlossuarez",
+    "repotime": "2025-03-30, 16:41:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-03-19",
+    "date_updated": "2025-03-22",
+    "description": "PathSeeker is a Python-based tool designed to identify path traversal vulnerabilities in web applications. It uses a combination of multi-threading, random user agents, and a robust wordlist to efficiently test endpoints for potential security weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/praveenkavi5/PathSeeker",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PathSeeker",
+    "repo_owner": "praveenkavi5",
+    "repotime": "2025-03-22, 01:30:38",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 53,
+    "date_started": "2024-10-17",
+    "date_updated": "2025-03-16",
+    "description": "A woking proof of concept for detecting session hijacking using browser fingerprinting.",
+    "forks_count": 0,
+    "html_url": "https://github.com/1Mike3/sessionHijackingPrevention",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Java",
+    "repo_name": "sessionHijackingPrevention",
+    "repo_owner": "1Mike3",
+    "repotime": "2025-03-16, 15:40:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-03-06",
+    "date_updated": "2025-03-14",
+    "description": "php local file inclusion abuse",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yiaos/php_lfi_abuse",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "php_lfi_abuse",
+    "repo_owner": "Yiaos",
+    "repotime": "2025-03-14, 08:25:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-03-07",
+    "date_updated": "2025-03-07",
+    "description": "Untested The script assumes a kernel exploit exists to bypass NX, SMAP, SMEP, and UMIP. Without it, boot_linux won’t run. Check PS5 homebrew communities for updates.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SleepTheGod/PS5_Linux_Boot",
+    "keywords": [
+        "smap bypass"
+    ],
+    "language": "Shell",
+    "repo_name": "PS5_Linux_Boot",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2025-03-07, 10:16:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 96,
+    "date_started": "2023-08-18",
+    "date_updated": "2025-03-06",
+    "description": "Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式",
+    "forks_count": 60,
+    "html_url": "https://github.com/Whoopsunix/JavaRce",
+    "keywords": [
+        "rce vulnerability",
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "JavaRce",
+    "repo_owner": "Whoopsunix",
+    "repotime": "2025-03-06, 13:21:37",
+    "stargazers_count": 512,
+    "watchers_count": 512
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-03-03",
+    "description": "Práctica de la vulnerabilidad CWE-918: Server-Side Request Forgery (SSRF).",
+    "forks_count": 0,
+    "html_url": "https://github.com/MaxSJimenez04/CWE-918",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "C++",
+    "repo_name": "CWE-918",
+    "repo_owner": "MaxSJimenez04",
+    "repotime": "2025-03-03, 17:16:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-23",
+    "date_updated": "2025-03-30",
+    "description": "Powerful static analysis tool for .NET, quickly identifies potential memory leaks related to incorrect implementations of the IDisposable interface.",
+    "forks_count": 0,
+    "html_url": "https://github.com/gcarlossuarez/IDisposableLeakAnalyzer",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C#",
+    "repo_name": "IDisposableLeakAnalyzer",
+    "repo_owner": "gcarlossuarez",
+    "repotime": "2025-03-30, 16:41:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-03-19",
+    "date_updated": "2025-03-22",
+    "description": "PathSeeker is a Python-based tool designed to identify path traversal vulnerabilities in web applications. It uses a combination of multi-threading, random user agents, and a robust wordlist to efficiently test endpoints for potential security weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/praveenkavi5/PathSeeker",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PathSeeker",
+    "repo_owner": "praveenkavi5",
+    "repotime": "2025-03-22, 01:30:38",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 53,
+    "date_started": "2024-10-17",
+    "date_updated": "2025-03-16",
+    "description": "A woking proof of concept for detecting session hijacking using browser fingerprinting.",
+    "forks_count": 0,
+    "html_url": "https://github.com/1Mike3/sessionHijackingPrevention",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Java",
+    "repo_name": "sessionHijackingPrevention",
+    "repo_owner": "1Mike3",
+    "repotime": "2025-03-16, 15:40:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-03-06",
+    "date_updated": "2025-03-14",
+    "description": "php local file inclusion abuse",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yiaos/php_lfi_abuse",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "php_lfi_abuse",
+    "repo_owner": "Yiaos",
+    "repotime": "2025-03-14, 08:25:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-03-07",
+    "date_updated": "2025-03-07",
+    "description": "Untested The script assumes a kernel exploit exists to bypass NX, SMAP, SMEP, and UMIP. Without it, boot_linux won’t run. Check PS5 homebrew communities for updates.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SleepTheGod/PS5_Linux_Boot",
+    "keywords": [
+        "smap bypass"
+    ],
+    "language": "Shell",
+    "repo_name": "PS5_Linux_Boot",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2025-03-07, 10:16:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 96,
+    "date_started": "2023-08-18",
+    "date_updated": "2025-03-06",
+    "description": "Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式",
+    "forks_count": 60,
+    "html_url": "https://github.com/Whoopsunix/JavaRce",
+    "keywords": [
+        "rce vulnerability",
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "JavaRce",
+    "repo_owner": "Whoopsunix",
+    "repotime": "2025-03-06, 13:21:37",
+    "stargazers_count": 514,
+    "watchers_count": 514
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-03-03",
+    "description": "Práctica de la vulnerabilidad CWE-918: Server-Side Request Forgery (SSRF).",
+    "forks_count": 0,
+    "html_url": "https://github.com/MaxSJimenez04/CWE-918",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "C++",
+    "repo_name": "CWE-918",
+    "repo_owner": "MaxSJimenez04",
+    "repotime": "2025-03-03, 17:16:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

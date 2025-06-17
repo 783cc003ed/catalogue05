@@ -514,3 +514,261 @@
     "stargazers_count": 431,
     "watchers_count": 431
 }
+{
+    "commits_count": 2,
+    "date_started": "2020-12-30",
+    "date_updated": "2020-12-30",
+    "description": "&amp;&#35;35; Contributing to this repository &amp;lt;!-- omit in toc --&amp;gt;  &amp;&#35;35;&amp;&#35;35; Getting started &amp;lt;!-- omit in toc --&amp;gt;  Before you begin: - This site is powered by Node.js. Check to see if you're on the [version of node we support](contributing/development.md). - Have you read the [code of conduct](CODE_OF_CONDUCT.md)? - Check out the [existing issues](https://github.com/github/docs/issues) &amp;amp; see if we [accept contributions](&amp;&#35;35;types-of-contributions-memo) for your type of issue.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Use the 'make a contribution' button  ![](./assets/images/make-contribution.gif)  Navigating a new codebase can be challenging, so we're making that a little easier. As you're using docs.github.com, you may come across an article that you want to make an update to. You can click on the **make a contribution** button right on that article, which will take you to the file in this repo where you'll make your changes.  Before you make your changes, check to see if an [issue exists](https://...",
+    "forks_count": 6,
+    "html_url": "https://github.com/nima0011/nima0011",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "nima0011",
+    "repo_owner": "nima0011",
+    "repotime": "2020-12-30, 13:55:46",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 18,
+    "date_started": "2020-10-24",
+    "date_updated": "2020-12-28",
+    "description": "A vuln existss in Tenda AC6 router which allows an attacker to launch a telnet session with root access.",
+    "forks_count": 1,
+    "html_url": "https://github.com/cecada/Tenda-AC6-Root-Acces",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Tenda-AC6-Root-Acces",
+    "repo_owner": "cecada",
+    "repotime": "2020-12-28, 23:41:59",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 34,
+    "date_started": "2020-09-09",
+    "date_updated": "2020-12-25",
+    "description": "Mini Wordress Exploiter using CVE2020",
+    "forks_count": 13,
+    "html_url": "https://github.com/0xtn/wp-mini-exploiter",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "wp-mini-exploiter",
+    "repo_owner": "0xtn",
+    "repotime": "2020-12-25, 11:18:00",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-06-01",
+    "date_updated": "2020-12-22",
+    "description": "SSLoth-based remote code execution exploit for the 3DS eShop application",
+    "forks_count": 1,
+    "html_url": "https://github.com/MrNbaYoh/trailerhax",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "trailerhax",
+    "repo_owner": "MrNbaYoh",
+    "repotime": "2020-12-22, 23:43:43",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 26,
+    "date_started": "2019-11-14",
+    "date_updated": "2020-12-21",
+    "description": "Wordpress IgniteUp plugin &amp;lt; 3.4.1 allows unauthenticated users to arbitrarily delete files on the webserver possibly causing DoS.",
+    "forks_count": 0,
+    "html_url": "https://github.com/administra1tor/CVE-2019-17234b-Exploit",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-17234b-Exploit",
+    "repo_owner": "administra1tor",
+    "repotime": "2020-12-21, 17:31:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-11-21",
+    "date_updated": "2020-12-20",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/hangyi00789/Local-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Shell",
+    "repo_name": "Local-File-Inclusion",
+    "repo_owner": "hangyi00789",
+    "repotime": "2020-12-20, 19:11:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-12-17",
+    "date_updated": "2020-12-17",
+    "description": "Internet of Things workshop conducted on 19th December 2020 in association with Etisalat Digital and PTC.  In this session, we will take the engine data obtained on the cloud and use ThingWorx Analytics Server to create an engine failure prediction model based on the same. We’ll use Analytics to visualise and refine our machine learning model iteratively based on statistical methods. Our system will then be able to predict outcomes based on new incoming data in real-time with our early warning capacity automatically improving as more data is made available.  Prerequisites: Activate your free PTC Cloud trial developer account - https://developer.thingworx.com/en/resources/trials (No download required)",
+    "forks_count": 0,
+    "html_url": "https://github.com/The-Assembly/PredictiveIoT",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Lua",
+    "repo_name": "PredictiveIoT",
+    "repo_owner": "The-Assembly",
+    "repotime": "2020-12-17, 21:12:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 25,
+    "date_started": "2019-08-17",
+    "date_updated": "2020-12-16",
+    "description": "collection of verified Linux kernel exploits",
+    "forks_count": 21,
+    "html_url": "https://github.com/jollheef/lpe",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "lpe",
+    "repo_owner": "jollheef",
+    "repotime": "2020-12-16, 16:55:09",
+    "stargazers_count": 187,
+    "watchers_count": 187
+}
+{
+    "commits_count": 101,
+    "date_started": "2017-03-20",
+    "date_updated": "2020-12-16",
+    "description": "Android 检索手机目录方式的文件选择器，轻量且界面友好，定制性高。This is a lightweight file selector, it can select files by retrieve phone directory",
+    "forks_count": 216,
+    "html_url": "https://github.com/leonHua/LFilePicker",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Java",
+    "repo_name": "LFilePicker",
+    "repo_owner": "leonHua",
+    "repotime": "2020-12-16, 09:01:30",
+    "stargazers_count": 1101,
+    "watchers_count": 1101
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-01-10",
+    "date_updated": "2020-12-15",
+    "description": "A simple app to demo SQL Injection login bypass",
+    "forks_count": 17,
+    "html_url": "https://github.com/appsecco/sqlinjectionloginbypass",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "sqlinjectionloginbypass",
+    "repo_owner": "appsecco",
+    "repotime": "2020-12-15, 13:01:25",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 15,
+    "date_started": "2020-12-07",
+    "date_updated": "2020-12-08",
+    "description": "Web Vulnerability Detector (XSS,SQL,LFI,XST,WAF)",
+    "forks_count": 9,
+    "html_url": "https://github.com/farinap5/webpwn",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "webpwn",
+    "repo_owner": "farinap5",
+    "repotime": "2020-12-08, 12:14:08",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-12-06",
+    "date_updated": "2020-12-06",
+    "description": "&amp;&#35;35; Contributing to this repository &amp;lt;!-- omit in toc --&amp;gt;  &amp;&#35;35;&amp;&#35;35; Getting started &amp;lt;!-- omit in toc --&amp;gt;  Before you begin: - This site is powered by Node.js. Check to see if you're on the [version of node we support](contributing/development.md). - Have you read the [code of conduct](CODE_OF_CONDUCT.md)? - Check out the [existing issues](https://github.com/github/docs/issues) &amp;amp; see if we [accept contributions](&amp;&#35;35;types-of-contributions-memo) for your type of issue.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Use the 'make a contribution' button  ![](./assets/images/make-contribution.gif)  Navigating a new codebase can be challenging, so we're making that a little easier. As you're using docs.github.com, you may come across an article that you want to make an update to. You can click on the **make a contribution** button right on that article, which will take you to the file in this repo where you'll make your changes.  Before you make your changes, check to see if an [issue exists](https://...",
+    "forks_count": 3,
+    "html_url": "https://github.com/EMETEM-GLOBAL-ENTERPRISE/prototype",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "prototype",
+    "repo_owner": "EMETEM-GLOBAL-ENTERPRISE",
+    "repotime": "2020-12-06, 07:17:02",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 13,
+    "date_started": "2016-01-26",
+    "date_updated": "2020-12-06",
+    "description": "Lab set-up for learning SQL Injection Techniques",
+    "forks_count": 39,
+    "html_url": "https://github.com/himadriganguly/sqlilabs",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sqlilabs",
+    "repo_owner": "himadriganguly",
+    "repotime": "2020-12-06, 12:29:43",
+    "stargazers_count": 99,
+    "watchers_count": 99
+}
+{
+    "commits_count": 57,
+    "date_started": "2020-05-06",
+    "date_updated": "2020-12-03",
+    "description": "<no description>",
+    "forks_count": 12,
+    "html_url": "https://github.com/Y000o/sql_injection_basic",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sql_injection_basic",
+    "repo_owner": "Y000o",
+    "repotime": "2020-12-03, 23:13:22",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 130,
+    "date_started": "2011-11-04",
+    "date_updated": "2020-12-01",
+    "description": "Damn Small XSS Scanner",
+    "forks_count": 129,
+    "html_url": "https://github.com/stamparm/DSXS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "DSXS",
+    "repo_owner": "stamparm",
+    "repotime": "2020-12-01, 22:00:13",
+    "stargazers_count": 431,
+    "watchers_count": 431
+}

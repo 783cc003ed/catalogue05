@@ -490,3 +490,249 @@
     "stargazers_count": 315,
     "watchers_count": 315
 }
+{
+    "commits_count": 9,
+    "date_started": "2022-06-28",
+    "date_updated": "2022-06-29",
+    "description": "An exploitable pool corruption vulnerability exists in the 0x8200E804 IOCTL handler functionality of WIBU-SYSTEMS WibuKey.sys Version 6.40 (Build 2400). A specially crafted IRP request can cause a buffer overflow, resulting in kernel memory corruption and, potentially, privilege escalation. An attacker can send an IRP request to trigger this vulnerability.",
+    "forks_count": 0,
+    "html_url": "https://github.com/expFlash/CVE-2018-3990",
+    "keywords": [
+        "corruption overflow exploitation",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "corruption overflow vulnerability",
+        "corruption overflow exploit",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2018-3990",
+    "repo_owner": "expFlash",
+    "repotime": "2022-06-29, 06:53:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 62,
+    "date_started": "2022-06-27",
+    "date_updated": "2022-06-27",
+    "description": "Unicode visual spoofing demo program showcasing the vulnerability and a patch.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rohankhayech/UnicodeVisualSpoofing",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "UnicodeVisualSpoofing",
+    "repo_owner": "rohankhayech",
+    "repotime": "2022-06-27, 23:33:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-06-17",
+    "date_updated": "2022-06-26",
+    "description": "Integer overflow in KmxSbx.sys 6.2.0.22 in CA Internet Security Suite Plus 2010 allows local users to cause a denial of service (pool corruption) and execute arbitrary code via crafted arguments to the 0x88000080 IOCTL, which triggers a buffer overflow.",
+    "forks_count": 1,
+    "html_url": "https://github.com/expFlash/CVE-2010-4502",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2010-4502",
+    "repo_owner": "expFlash",
+    "repotime": "2022-06-26, 07:38:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 25,
+    "date_started": "2022-06-22",
+    "date_updated": "2022-06-23",
+    "description": "Mass Exploit for CVE 2022-29464 on Carbon",
+    "forks_count": 9,
+    "html_url": "https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Mass-exploit-CVE-2022-29464",
+    "repo_owner": "electr0lulz",
+    "repotime": "2022-06-23, 01:54:38",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-06-14",
+    "date_updated": "2022-06-22",
+    "description": "created a form with proper validation.You can add a user name and age if the input field is wrong then it's display the proper error message.",
+    "forks_count": 0,
+    "html_url": "https://github.com/impruthvi/React-Form",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "React-Form",
+    "repo_owner": "impruthvi",
+    "repotime": "2022-06-22, 21:29:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-06-19",
+    "date_updated": "2022-06-19",
+    "description": "Windows 0day for disabling Buffer Overflow attack prevention, changing ease of access program, and more!",
+    "forks_count": 0,
+    "html_url": "https://github.com/CL3U/surge-genesis",
+    "keywords": [
+        "Windows 0day"
+    ],
+    "language": null,
+    "repo_name": "surge-genesis",
+    "repo_owner": "CL3U",
+    "repotime": "2022-06-19, 12:51:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-06-18",
+    "date_updated": "2022-06-19",
+    "description": "Windows Privilege Escalation  Learn the fundamentals of Windows privilege escalation techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/r1skkam/TryHackMe-Windows-Privilege-Escalation",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Win escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "TryHackMe-Windows-Privilege-Escalation",
+    "repo_owner": "r1skkam",
+    "repotime": "2022-06-19, 23:08:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2022-06-19",
+    "date_updated": "2022-06-18",
+    "description": "Dll injection through code page id modification in registry. Based on jonas lykk research",
+    "forks_count": 25,
+    "html_url": "https://github.com/zzhsec/NlsCodeInjectionThroughRegistry",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "NlsCodeInjectionThroughRegistry",
+    "repo_owner": "zzhsec",
+    "repotime": "2022-06-18, 18:55:59",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-06-15",
+    "date_updated": "2022-06-15",
+    "description": "A brief summary of recent Linux privilege escalation exploit. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/hxlxmjxbbxs/TheDirtyPipeExploit",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "TheDirtyPipeExploit",
+    "repo_owner": "hxlxmjxbbxs",
+    "repotime": "2022-06-15, 01:45:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 124,
+    "date_started": "2022-04-19",
+    "date_updated": "2022-06-14",
+    "description": "🚀 一款为了学习go而诞生的漏洞利用工具",
+    "forks_count": 53,
+    "html_url": "https://github.com/SummerSec/SpringExploit",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Go",
+    "repo_name": "SpringExploit",
+    "repo_owner": "SummerSec",
+    "repotime": "2022-06-14, 12:28:15",
+    "stargazers_count": 447,
+    "watchers_count": 447
+}
+{
+    "commits_count": 56,
+    "date_started": "2014-11-08",
+    "date_updated": "2022-06-11",
+    "description": "Small tool to package javascript into a valid image file.",
+    "forks_count": 118,
+    "html_url": "https://github.com/jklmnn/imagejs",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C",
+    "repo_name": "imagejs",
+    "repo_owner": "jklmnn",
+    "repotime": "2022-06-11, 21:18:44",
+    "stargazers_count": 903,
+    "watchers_count": 903
+}
+{
+    "commits_count": 41,
+    "date_started": "2020-12-12",
+    "date_updated": "2022-06-06",
+    "description": "GUI SQL Injection scannig tool",
+    "forks_count": 12,
+    "html_url": "https://github.com/tariqhawis/injectbot",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "injectbot",
+    "repo_owner": "tariqhawis",
+    "repotime": "2022-06-06, 06:46:45",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 106,
+    "date_started": "2020-03-14",
+    "date_updated": "2022-06-01",
+    "description": "Tool to help exploit XXE vulnerabilities",
+    "forks_count": 68,
+    "html_url": "https://github.com/luisfontes19/xxexploiter",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "TypeScript",
+    "repo_name": "xxexploiter",
+    "repo_owner": "luisfontes19",
+    "repotime": "2022-06-01, 22:44:03",
+    "stargazers_count": 563,
+    "watchers_count": 563
+}
+{
+    "commits_count": 104,
+    "date_started": "2020-08-24",
+    "date_updated": "2022-06-01",
+    "description": "XSScope is one of the most powerful and advanced GUI Framework for Modern Browser exploitation via XSS.",
+    "forks_count": 79,
+    "html_url": "https://github.com/kleiton0x00/XSScope",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "XSScope",
+    "repo_owner": "kleiton0x00",
+    "repotime": "2022-06-01, 19:24:08",
+    "stargazers_count": 315,
+    "watchers_count": 315
+}

@@ -202,3 +202,105 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-12-06",
+    "date_updated": "2025-02-13",
+    "description": "A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.",
+    "forks_count": 1,
+    "html_url": "https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-2414-Proof-Of-Concept",
+    "repo_owner": "amitlttwo",
+    "repotime": "2025-02-13, 00:04:29",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-06",
+    "date_updated": "2025-02-07",
+    "description": "This project demonstrates TCP-based attacks, including SYN Flood, TCP RST on Telnet/SSH, video streaming disruption, and Session Hijacking. Tools used: HPing3, Netwox, Wireshark, Python. For educational purposes only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mormoshe7/TCP-Attack",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "TCP-Attack",
+    "repo_owner": "Mormoshe7",
+    "repotime": "2025-02-07, 01:10:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-12-06",
+    "date_updated": "2025-02-13",
+    "description": "A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.",
+    "forks_count": 1,
+    "html_url": "https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-2414-Proof-Of-Concept",
+    "repo_owner": "amitlttwo",
+    "repotime": "2025-02-13, 00:04:29",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-06",
+    "date_updated": "2025-02-07",
+    "description": "This project demonstrates TCP-based attacks, including SYN Flood, TCP RST on Telnet/SSH, video streaming disruption, and Session Hijacking. Tools used: HPing3, Netwox, Wireshark, Python. For educational purposes only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mormoshe7/TCP-Attack",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "TCP-Attack",
+    "repo_owner": "Mormoshe7",
+    "repotime": "2025-02-07, 01:10:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

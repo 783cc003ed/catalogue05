@@ -131,3 +131,269 @@
     "stargazers_count": 43,
     "watchers_count": 43
 }
+{
+    "commits_count": 6,
+    "date_started": "2020-12-31",
+    "date_updated": "2021-03-29",
+    "description": "The report and the exploit of CVE-2021-26943, the kernel-to-SMM local privilege escalation vulnerability in ASUS UX360CA BIOS version 303.",
+    "forks_count": 25,
+    "html_url": "https://github.com/tandasat/SmmExploit",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "SmmExploit",
+    "repo_owner": "tandasat",
+    "repotime": "2021-03-29, 05:33:32",
+    "stargazers_count": 140,
+    "watchers_count": 140
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-11-23",
+    "date_updated": "2021-03-16",
+    "description": "PoC demonstrating the use of cve-2020-1034 for privilege escalation",
+    "forks_count": 41,
+    "html_url": "https://github.com/yardenshafir/CVE-2020-1034",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges poc",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2020-1034",
+    "repo_owner": "yardenshafir",
+    "repotime": "2021-03-16, 15:53:37",
+    "stargazers_count": 124,
+    "watchers_count": 124
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-03-10",
+    "date_updated": "2021-03-11",
+    "description": "Parses unauthenticated Gitlab APIs for users, repos, groups and secrets.",
+    "forks_count": 2,
+    "html_url": "https://github.com/ldionmarcil/gitlab-unauth-parser",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "gitlab-unauth-parser",
+    "repo_owner": "ldionmarcil",
+    "repotime": "2021-03-11, 12:04:42",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-03-11",
+    "date_updated": "2021-03-11",
+    "description": "Apache ActiveMQ Remote Code Execution Exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/cyberaguiar/CVE-2016-3088",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2016-3088",
+    "repo_owner": "cyberaguiar",
+    "repotime": "2021-03-11, 10:52:41",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 27,
+    "date_started": "2020-05-20",
+    "date_updated": "2021-03-10",
+    "description": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list",
+    "forks_count": 1319,
+    "html_url": "https://github.com/LandGrey/SpringBootVulExploit",
+    "keywords": [
+        "rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "SpringBootVulExploit",
+    "repo_owner": "LandGrey",
+    "repotime": "2021-03-10, 21:03:17",
+    "stargazers_count": 5967,
+    "watchers_count": 5967
+}
+{
+    "commits_count": 65,
+    "date_started": "2021-02-16",
+    "date_updated": "2021-03-09",
+    "description": "A Next.js (React + Node) application built with secure authentication, session persistence and follower/following relationships between users. Includes ability to set / upload profile photos",
+    "forks_count": 1,
+    "html_url": "https://github.com/justinjaeger/Awards-Predictions-App",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Awards-Predictions-App",
+    "repo_owner": "justinjaeger",
+    "repotime": "2021-03-09, 22:49:40",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-03-09",
+    "date_updated": "2021-03-09",
+    "description": " Exploit Windows-Based BufferOverflow (vulnserver)",
+    "forks_count": 8,
+    "html_url": "https://github.com/ZeroMemoryEx/BufferOverFlow",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce exploit",
+        "Windows rce",
+        "Windows rce exploit",
+        "rce exploitation"
+    ],
+    "language": "C",
+    "repo_name": "BufferOverFlow",
+    "repo_owner": "ZeroMemoryEx",
+    "repotime": "2021-03-09, 17:41:45",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-12-31",
+    "date_updated": "2021-03-29",
+    "description": "The report and the exploit of CVE-2021-26943, the kernel-to-SMM local privilege escalation vulnerability in ASUS UX360CA BIOS version 303.",
+    "forks_count": 25,
+    "html_url": "https://github.com/tandasat/SmmExploit",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "SmmExploit",
+    "repo_owner": "tandasat",
+    "repotime": "2021-03-29, 05:33:32",
+    "stargazers_count": 141,
+    "watchers_count": 141
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-11-23",
+    "date_updated": "2021-03-16",
+    "description": "PoC demonstrating the use of cve-2020-1034 for privilege escalation",
+    "forks_count": 41,
+    "html_url": "https://github.com/yardenshafir/CVE-2020-1034",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges poc",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2020-1034",
+    "repo_owner": "yardenshafir",
+    "repotime": "2021-03-16, 15:53:37",
+    "stargazers_count": 124,
+    "watchers_count": 124
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-03-10",
+    "date_updated": "2021-03-11",
+    "description": "Parses unauthenticated Gitlab APIs for users, repos, groups and secrets.",
+    "forks_count": 2,
+    "html_url": "https://github.com/ldionmarcil/gitlab-unauth-parser",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "gitlab-unauth-parser",
+    "repo_owner": "ldionmarcil",
+    "repotime": "2021-03-11, 12:04:42",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-03-11",
+    "date_updated": "2021-03-11",
+    "description": "Apache ActiveMQ Remote Code Execution Exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/cyberaguiar/CVE-2016-3088",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2016-3088",
+    "repo_owner": "cyberaguiar",
+    "repotime": "2021-03-11, 10:52:41",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 27,
+    "date_started": "2020-05-20",
+    "date_updated": "2021-03-10",
+    "description": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list",
+    "forks_count": 1319,
+    "html_url": "https://github.com/LandGrey/SpringBootVulExploit",
+    "keywords": [
+        "rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "SpringBootVulExploit",
+    "repo_owner": "LandGrey",
+    "repotime": "2021-03-10, 21:03:17",
+    "stargazers_count": 5970,
+    "watchers_count": 5970
+}
+{
+    "commits_count": 65,
+    "date_started": "2021-02-16",
+    "date_updated": "2021-03-09",
+    "description": "A Next.js (React + Node) application built with secure authentication, session persistence and follower/following relationships between users. Includes ability to set / upload profile photos",
+    "forks_count": 1,
+    "html_url": "https://github.com/justinjaeger/Awards-Predictions-App",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Awards-Predictions-App",
+    "repo_owner": "justinjaeger",
+    "repotime": "2021-03-09, 22:49:40",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-03-09",
+    "date_updated": "2021-03-09",
+    "description": " Exploit Windows-Based BufferOverflow (vulnserver)",
+    "forks_count": 8,
+    "html_url": "https://github.com/ZeroMemoryEx/BufferOverFlow",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce exploit",
+        "Windows rce",
+        "Windows rce exploit",
+        "rce exploitation"
+    ],
+    "language": "C",
+    "repo_name": "BufferOverFlow",
+    "repo_owner": "ZeroMemoryEx",
+    "repotime": "2021-03-09, 17:41:45",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}

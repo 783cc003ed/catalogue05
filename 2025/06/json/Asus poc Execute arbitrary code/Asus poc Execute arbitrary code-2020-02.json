@@ -556,3 +556,282 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 9,
+    "date_started": "2014-02-24",
+    "date_updated": "2020-02-28",
+    "description": "An I/O analysis tool that helps you analyze the I/O operations of your Java application. It addresses problems such as leaking file handles (the &amp;quot;Too many open files&amp;quot; exception) and I/O performance.",
+    "forks_count": 7,
+    "html_url": "https://github.com/SAP-archive/jpicus",
+    "keywords": [
+        "address leak analysis"
+    ],
+    "language": "Java",
+    "repo_name": "jpicus",
+    "repo_owner": "SAP-archive",
+    "repotime": "2020-02-28, 16:15:49",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-02-27",
+    "date_updated": "2020-02-27",
+    "description": "A Java III assignment in which a session is created using a mock user (hard coded username and password). Allows the user to log in and view a displayed table of user details.",
+    "forks_count": 0,
+    "html_url": "https://github.com/eholmes-dev/Session-Assignment",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Java",
+    "repo_name": "Session-Assignment",
+    "repo_owner": "eholmes-dev",
+    "repotime": "2020-02-27, 15:29:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-02-26",
+    "date_updated": "2020-02-26",
+    "description": " It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files. In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:   Data Modeling   Data Engineering   Data Analysis    Before You Begin   Create a new folder in your homework repository called sql-challenge.   Inside your local git repository, create a directory for the SQL challenge. Use a folder name to correspond to the challenge: EmployeeSQL.   Add your files to this folder.   Push the above changes to GitHub.    Instructions  Data Modeling Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.  Data Engin...",
+    "forks_count": 1,
+    "html_url": "https://github.com/presidentmanny/SQL-Challenge-",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": null,
+    "repo_name": "SQL-Challenge-",
+    "repo_owner": "presidentmanny",
+    "repotime": "2020-02-26, 18:24:01",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-02-24",
+    "date_updated": "2020-02-24",
+    "description": "Unauthenticated users can post messages via API in chat so others can read them.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Alizarinston/public-chat-api",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "public-chat-api",
+    "repo_owner": "Alizarinston",
+    "repotime": "2020-02-24, 07:46:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-02-22",
+    "date_updated": "2020-02-22",
+    "description": "The official exploit for Cacti v1.2.8 Remote Code Execution CVE-2020-8813",
+    "forks_count": 20,
+    "html_url": "https://github.com/mhaskar/CVE-2020-8813",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-8813",
+    "repo_owner": "mhaskar",
+    "repotime": "2020-02-22, 18:33:31",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-02-20",
+    "date_updated": "2020-02-20",
+    "description": "Basic code for creating the Alibaba FastJson + Spring gadget chain, as used to exploit Apache Dubbo in CVE-2019-17564 - more information available at https://www.checkmarx.com/blog/apache-dubbo-unauthenticated-remote-code-execution-vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/Dor-Tumarkin/CVE-2019-17564-FastJson-Gadget",
+    "keywords": [
+        "remote code execution exploitation",
+        "unauthenticated remote code execution",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2019-17564-FastJson-Gadget",
+    "repo_owner": "Dor-Tumarkin",
+    "repotime": "2020-02-20, 13:49:34",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 67,
+    "date_started": "2018-02-10",
+    "date_updated": "2020-02-18",
+    "description": "UFO: Predictive Detection of Concurrency Use-After-Free Vulnerabilities",
+    "forks_count": 18,
+    "html_url": "https://github.com/parasol-aser/UFO",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "UFO",
+    "repo_owner": "parasol-aser",
+    "repotime": "2020-02-18, 15:47:49",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 24,
+    "date_started": "2015-11-15",
+    "date_updated": "2020-02-18",
+    "description": "From XSS to RCE 2.75 - Black Hat Europe Arsenal 2017 + Extras",
+    "forks_count": 84,
+    "html_url": "https://github.com/Varbaek/xsser",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xsser",
+    "repo_owner": "Varbaek",
+    "repotime": "2020-02-18, 20:57:19",
+    "stargazers_count": 425,
+    "watchers_count": 425
+}
+{
+    "commits_count": 15,
+    "date_started": "2020-02-17",
+    "date_updated": "2020-02-18",
+    "description": "OpenSMTPD version 6.6.2 remote code execution exploit",
+    "forks_count": 7,
+    "html_url": "https://github.com/superzerosec/cve-2020-7247",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2020-7247",
+    "repo_owner": "superzerosec",
+    "repotime": "2020-02-18, 14:57:19",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-02-11",
+    "date_updated": "2020-02-17",
+    "description": "UAC Bypass for windows",
+    "forks_count": 9,
+    "html_url": "https://github.com/Mrakovic-ORG/Privilege_Escalation",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "Privilege_Escalation",
+    "repo_owner": "Mrakovic-ORG",
+    "repotime": "2020-02-17, 12:27:22",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-02-14",
+    "date_updated": "2020-02-14",
+    "description": "Privacy Policy Vitaly built the Mario simple app as a Free app. This SERVICE is provided by Vitaly at no cost and is intended for use as is.  This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.  If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.  The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Mario simple unless otherwise defined in this Privacy Policy.  Information Collection and Use  For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained o...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vitaly-code/Privacy-Policy",
+    "keywords": [
+        "use after free disclosure"
+    ],
+    "language": null,
+    "repo_name": "Privacy-Policy",
+    "repo_owner": "Vitaly-code",
+    "repotime": "2020-02-14, 09:10:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-08-21",
+    "date_updated": "2020-02-12",
+    "description": "POC which exploits a vulnerability within Nagios XI (5.6.5) to spawn a root shell",
+    "forks_count": 6,
+    "html_url": "https://github.com/jakgibb/nagiosxi-root-rce-exploit",
+    "keywords": [
+        "rce vulnerability",
+        "rce exploit"
+    ],
+    "language": "PHP",
+    "repo_name": "nagiosxi-root-rce-exploit",
+    "repo_owner": "jakgibb",
+    "repotime": "2020-02-12, 22:23:13",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-02-09",
+    "date_updated": "2020-02-11",
+    "description": "Neural likelihood-free methods in PyTorch. ",
+    "forks_count": 9,
+    "html_url": "https://github.com/conormdurkan/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi",
+    "repo_owner": "conormdurkan",
+    "repotime": "2020-02-11, 12:13:29",
+    "stargazers_count": 39,
+    "watchers_count": 39
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-08-03",
+    "date_updated": "2020-02-10",
+    "description": "Here I have implemented DHCP Spoofing attack for our Network security course sessional.",
+    "forks_count": 0,
+    "html_url": "https://github.com/shamiul94/DHCP-Spoofing-Attack-Network-Security",
+    "keywords": [
+        "spoofing session",
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "DHCP-Spoofing-Attack-Network-Security",
+    "repo_owner": "shamiul94",
+    "repotime": "2020-02-10, 09:14:15",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-02-06",
+    "date_updated": "2020-02-06",
+    "description": "Remote code execution in Microvirt MEmu",
+    "forks_count": 2,
+    "html_url": "https://github.com/seqred-s-a/cve-2019-14514",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "cve-2019-14514",
+    "repo_owner": "seqred-s-a",
+    "repotime": "2020-02-06, 10:07:15",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-02-05",
+    "date_updated": "2020-02-05",
+    "description": "Basic JS logic with ability to take and check passwords and display user content. All hard coded in JS",
+    "forks_count": 0,
+    "html_url": "https://github.com/pyrobooster/demo_social_media_site",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "JavaScript",
+    "repo_name": "demo_social_media_site",
+    "repo_owner": "pyrobooster",
+    "repotime": "2020-02-05, 17:36:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

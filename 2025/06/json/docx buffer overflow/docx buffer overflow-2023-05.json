@@ -242,3 +242,125 @@
     "stargazers_count": 193,
     "watchers_count": 193
 }
+{
+    "commits_count": 69,
+    "date_started": "2021-03-05",
+    "date_updated": "2023-05-30",
+    "description": "Secure router with XSS and CSRF",
+    "forks_count": 144,
+    "html_url": "https://github.com/phprouter/main",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "main",
+    "repo_owner": "phprouter",
+    "repotime": "2023-05-30, 11:30:34",
+    "stargazers_count": 545,
+    "watchers_count": 545
+}
+{
+    "commits_count": 30,
+    "date_started": "2022-05-28",
+    "date_updated": "2023-05-23",
+    "description": "Dll injection through code page id modification in registry. Based on jonas lykk research",
+    "forks_count": 26,
+    "html_url": "https://github.com/NtQuerySystemInformation/NlsCodeInjectionThroughRegistry",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "NlsCodeInjectionThroughRegistry",
+    "repo_owner": "NtQuerySystemInformation",
+    "repotime": "2023-05-23, 15:44:15",
+    "stargazers_count": 119,
+    "watchers_count": 119
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-07-01",
+    "date_updated": "2023-05-22",
+    "description": "This is a RCE bluetooth vulnerability on Android 8.0 and 9.0",
+    "forks_count": 8,
+    "html_url": "https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Bluefrag_CVE-2020-0022",
+    "repo_owner": "k3vinlusec",
+    "repotime": "2023-05-22, 21:46:45",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 392,
+    "date_started": "2021-03-27",
+    "date_updated": "2023-05-20",
+    "description": "How to develop your own zero day vulnerabilities for iOS",
+    "forks_count": 1,
+    "html_url": "https://github.com/faisalmemon/the-road-to-zero",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "TeX",
+    "repo_name": "the-road-to-zero",
+    "repo_owner": "faisalmemon",
+    "repotime": "2023-05-20, 09:44:26",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-05-12",
+    "date_updated": "2023-05-12",
+    "description": "This project involved using Ettercap and Wireshark to perform a DNS spoofing attack. By exploiting vulnerabilities in the DNS protocol, I was able to redirect traffic to a malicious website.",
+    "forks_count": 0,
+    "html_url": "https://github.com/matt-norris/DNSSpoofing-Demo",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "DNSSpoofing-Demo",
+    "repo_owner": "matt-norris",
+    "repotime": "2023-05-12, 16:56:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 40,
+    "date_started": "2022-07-03",
+    "date_updated": "2023-05-12",
+    "description": "Full disclosures for CVE ids, proofs of concept, exploits, 0day bugs and so on.",
+    "forks_count": 17,
+    "html_url": "https://github.com/j00sean/SecBugs",
+    "keywords": [
+        "0day exploit",
+        "0day proof of concept",
+        "0day disclosure",
+        "0day exploitation"
+    ],
+    "language": "HTML",
+    "repo_name": "SecBugs",
+    "repo_owner": "j00sean",
+    "repotime": "2023-05-12, 12:22:27",
+    "stargazers_count": 112,
+    "watchers_count": 112
+}
+{
+    "commits_count": 34,
+    "date_started": "2023-04-30",
+    "date_updated": "2023-05-01",
+    "description": "GregsBestFriend process injection code created from the White Knight Labs Offensive Development course",
+    "forks_count": 35,
+    "html_url": "https://github.com/WKL-Sec/GregsBestFriend",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "GregsBestFriend",
+    "repo_owner": "WKL-Sec",
+    "repotime": "2023-05-01, 07:08:58",
+    "stargazers_count": 193,
+    "watchers_count": 193
+}

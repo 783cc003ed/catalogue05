@@ -83,3 +83,156 @@
     "stargazers_count": 316,
     "watchers_count": 316
 }
+{
+    "commits_count": 68,
+    "date_started": "2025-04-14",
+    "date_updated": "2025-05-28",
+    "description": "A collection of labs, tools, and study materials for OSCP exam preparation. Includes practice environments, scripts, and resources for enumeration, exploitation, and privilege escalation to help master penetration testing skills.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xD13/OSCP-Prep-Guide",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "OSCP-Prep-Guide",
+    "repo_owner": "0xD13",
+    "repotime": "2025-05-28, 09:20:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10408,
+    "date_started": "2012-06-26",
+    "date_updated": "2025-05-21",
+    "description": "Automatic SQL injection and database takeover tool",
+    "forks_count": 5912,
+    "html_url": "https://github.com/sqlmapproject/sqlmap",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmap",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2025-05-21, 16:39:05",
+    "stargazers_count": 34329,
+    "watchers_count": 34329
+}
+{
+    "commits_count": 63,
+    "date_started": "2023-01-20",
+    "date_updated": "2025-05-16",
+    "description": "Community-sourced list of papers and resources on neural simulation-based inference.",
+    "forks_count": 9,
+    "html_url": "https://github.com/smsharma/awesome-neural-sbi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "awesome-neural-sbi",
+    "repo_owner": "smsharma",
+    "repotime": "2025-05-16, 20:27:34",
+    "stargazers_count": 116,
+    "watchers_count": 116
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-08",
+    "date_updated": "2025-05-09",
+    "description": "A proof-of-concept for the CVE-2021-25646, which allows for Command Injection",
+    "forks_count": 0,
+    "html_url": "https://github.com/tiemio/RCE-PoC-CVE-2021-25646",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Go",
+    "repo_name": "RCE-PoC-CVE-2021-25646",
+    "repo_owner": "tiemio",
+    "repotime": "2025-05-09, 09:19:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 207,
+    "date_started": "2013-03-06",
+    "date_updated": "2025-05-01",
+    "description": "Panoptic is an open source penetration testing tool that automates the process of search and retrieval of content for common log and config files through path traversal vulnerabilities.",
+    "forks_count": 75,
+    "html_url": "https://github.com/lightos/Panoptic",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Panoptic",
+    "repo_owner": "lightos",
+    "repotime": "2025-05-01, 01:06:17",
+    "stargazers_count": 316,
+    "watchers_count": 316
+}
+{
+    "commits_count": 68,
+    "date_started": "2025-04-14",
+    "date_updated": "2025-05-28",
+    "description": "A collection of labs, tools, and study materials for OSCP exam preparation. Includes practice environments, scripts, and resources for enumeration, exploitation, and privilege escalation to help master penetration testing skills.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xD13/OSCP-Prep-Guide",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "OSCP-Prep-Guide",
+    "repo_owner": "0xD13",
+    "repotime": "2025-05-28, 09:20:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 63,
+    "date_started": "2023-01-20",
+    "date_updated": "2025-05-16",
+    "description": "Community-sourced list of papers and resources on neural simulation-based inference.",
+    "forks_count": 9,
+    "html_url": "https://github.com/smsharma/awesome-neural-sbi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "awesome-neural-sbi",
+    "repo_owner": "smsharma",
+    "repotime": "2025-05-16, 20:27:34",
+    "stargazers_count": 116,
+    "watchers_count": 116
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-08",
+    "date_updated": "2025-05-09",
+    "description": "A proof-of-concept for the CVE-2021-25646, which allows for Command Injection",
+    "forks_count": 0,
+    "html_url": "https://github.com/tiemio/RCE-PoC-CVE-2021-25646",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Go",
+    "repo_name": "RCE-PoC-CVE-2021-25646",
+    "repo_owner": "tiemio",
+    "repotime": "2025-05-09, 09:19:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 207,
+    "date_started": "2013-03-06",
+    "date_updated": "2025-05-01",
+    "description": "Panoptic is an open source penetration testing tool that automates the process of search and retrieval of content for common log and config files through path traversal vulnerabilities.",
+    "forks_count": 75,
+    "html_url": "https://github.com/lightos/Panoptic",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Panoptic",
+    "repo_owner": "lightos",
+    "repotime": "2025-05-01, 01:06:17",
+    "stargazers_count": 316,
+    "watchers_count": 316
+}

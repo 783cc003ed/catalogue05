@@ -67,3 +67,141 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 5,
+    "date_started": "2022-11-11",
+    "date_updated": "2022-11-11",
+    "description": "Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files.",
+    "forks_count": 0,
+    "html_url": "https://github.com/M3l0nPan/wordpress-cve-2021-29447",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "wordpress-cve-2021-29447",
+    "repo_owner": "M3l0nPan",
+    "repotime": "2022-11-11, 23:50:30",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-08",
+    "date_updated": "2022-11-08",
+    "description": "csv injection tests conducted on a dummy server client application",
+    "forks_count": 0,
+    "html_url": "https://github.com/SatXCho/.net-csv-injection-tests",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": ".net-csv-injection-tests",
+    "repo_owner": "SatXCho",
+    "repotime": "2022-11-08, 18:31:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1877,
+    "date_started": "2015-03-20",
+    "date_updated": "2022-11-03",
+    "description": "Automated All-in-One OS Command Injection Exploitation Tool.",
+    "forks_count": 734,
+    "html_url": "https://github.com/commixproject/commix",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "commix",
+    "repo_owner": "commixproject",
+    "repotime": "2022-11-03, 02:23:19",
+    "stargazers_count": 3524,
+    "watchers_count": 3524
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-10-13",
+    "date_updated": "2022-11-01",
+    "description": "SQLi in Daily Expense Manager 1.0 allows for injection of SQL queries, resulting in information disclosure and remote code execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/stefanhesselman/Daily-Expense-Manager-1.0-SQL-to-RCE",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "Daily-Expense-Manager-1.0-SQL-to-RCE",
+    "repo_owner": "stefanhesselman",
+    "repotime": "2022-11-01, 21:28:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-11-11",
+    "date_updated": "2022-11-11",
+    "description": "Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files.",
+    "forks_count": 0,
+    "html_url": "https://github.com/M3l0nPan/wordpress-cve-2021-29447",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "wordpress-cve-2021-29447",
+    "repo_owner": "M3l0nPan",
+    "repotime": "2022-11-11, 23:50:30",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-08",
+    "date_updated": "2022-11-08",
+    "description": "csv injection tests conducted on a dummy server client application",
+    "forks_count": 0,
+    "html_url": "https://github.com/SatXCho/.net-csv-injection-tests",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": ".net-csv-injection-tests",
+    "repo_owner": "SatXCho",
+    "repotime": "2022-11-08, 18:31:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1877,
+    "date_started": "2015-03-20",
+    "date_updated": "2022-11-03",
+    "description": "Automated All-in-One OS Command Injection Exploitation Tool.",
+    "forks_count": 734,
+    "html_url": "https://github.com/commixproject/commix",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "commix",
+    "repo_owner": "commixproject",
+    "repotime": "2022-11-03, 02:23:19",
+    "stargazers_count": 3524,
+    "watchers_count": 3524
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-10-13",
+    "date_updated": "2022-11-01",
+    "description": "SQLi in Daily Expense Manager 1.0 allows for injection of SQL queries, resulting in information disclosure and remote code execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/stefanhesselman/Daily-Expense-Manager-1.0-SQL-to-RCE",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "Daily-Expense-Manager-1.0-SQL-to-RCE",
+    "repo_owner": "stefanhesselman",
+    "repotime": "2022-11-01, 21:28:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

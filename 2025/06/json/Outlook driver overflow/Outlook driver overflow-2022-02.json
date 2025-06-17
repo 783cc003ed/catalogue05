@@ -189,3 +189,385 @@
     "stargazers_count": 5,
     "watchers_count": 5
 }
+{
+    "commits_count": 90,
+    "date_started": "2014-03-28",
+    "date_updated": "2022-02-23",
+    "description": "HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors",
+    "forks_count": 419,
+    "html_url": "https://github.com/cure53/H5SC",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "H5SC",
+    "repo_owner": "cure53",
+    "repotime": "2022-02-23, 17:46:18",
+    "stargazers_count": 2880,
+    "watchers_count": 2880
+}
+{
+    "commits_count": 23,
+    "date_started": "2022-02-14",
+    "date_updated": "2022-02-21",
+    "description": " An ongoing &amp;amp; curated collection of awesome web vulnerability - Server-side request forgery software practices and remediation, libraries and frameworks, best guidelines and technical resources about SSRF",
+    "forks_count": 2,
+    "html_url": "https://github.com/paulveillard/cybersecurity-ssrf",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "cybersecurity-ssrf",
+    "repo_owner": "paulveillard",
+    "repotime": "2022-02-21, 20:07:57",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-21",
+    "date_updated": "2022-02-21",
+    "description": "Changelog CVE-2021-33044,CVE-2021-33045 Identity authentication bypass vulnerability found in some Dahua products CVE-2021-27248,CVE-2021-27249,CVE-2021-27250,CVE-2021-34860,CVE-2021-34861,CVE-2021-34862,CVE-2021-34863 Multiple vulnerabilities in DAP-2020 H/W rev. Ax with F/W v1.01 and below HTTP Path Traversal CVE-2019-7406 RCE vulnerability in TP-Link Wi-Fi Extenders via a malformed user agent field in HTTP headers CVE-2020-2501,CVE-2021-28797 Stack Buffer Overflow in QNAP Surveillance Station CVE-2021-34730 Critical UPnP Service Flaw on Cisco Small Business RV Series Routers CVE-2020-35785 Multiple HTTP authentication vulnerabilities on DGN2200v1",
+    "forks_count": 0,
+    "html_url": "https://github.com/Alonzozzz/alonzzzo",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "alonzzzo",
+    "repo_owner": "Alonzozzz",
+    "repotime": "2022-02-21, 15:23:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-02-18",
+    "date_updated": "2022-02-19",
+    "description": "CVE-2021-1965 WiFi Zero Click RCE Trigger PoC",
+    "forks_count": 29,
+    "html_url": "https://github.com/parsdefense/CVE-2021-1965",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2021-1965",
+    "repo_owner": "parsdefense",
+    "repotime": "2022-02-19, 16:52:32",
+    "stargazers_count": 166,
+    "watchers_count": 166
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-11-21",
+    "date_updated": "2022-02-19",
+    "description": "Script that automates the process of escalating privileges on openbsd system (CVE-2019-19520)  by exploiting the xlock binary and againing it's sgid and escalating to the root user by (CVE-2019-19522) exploiting the privileges of auth group and adding keys to the Skey or Yubikey",
+    "forks_count": 0,
+    "html_url": "https://github.com/retrymp3/Openbsd-Privilege-Escalation",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "Openbsd-Privilege-Escalation",
+    "repo_owner": "retrymp3",
+    "repotime": "2022-02-19, 09:41:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-02-18",
+    "date_updated": "2022-02-18",
+    "description": "CVE-2021-1965 WiFi Zero Click RCE Trigger PoC",
+    "forks_count": 29,
+    "html_url": "https://github.com/sqrtrev/CVE-2021-1965",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-1965",
+    "repo_owner": "sqrtrev",
+    "repotime": "2022-02-18, 17:23:07",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 29,
+    "date_started": "2020-12-04",
+    "date_updated": "2022-02-15",
+    "description": "A simple automation tool to detect lfi, rce and ssti vulnerability",
+    "forks_count": 6,
+    "html_url": "https://github.com/aniqfakhrul/lazyParam",
+    "keywords": [
+        "rce vulnerability",
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lazyParam",
+    "repo_owner": "aniqfakhrul",
+    "repotime": "2022-02-15, 15:34:33",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-14",
+    "date_updated": "2022-02-14",
+    "description": "Adminer is an open-source database management in a single PHP file. In adminer from version 4.0.0 and before 4.7.9 there is a server-side request forgery vulnerability. Users of Adminer versions bundling all drivers (e.g. `adminer.php`) are affected. This is fixed in version 4.7.9.",
+    "forks_count": 2,
+    "html_url": "https://github.com/llhala/CVE-2021-21311",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-21311",
+    "repo_owner": "llhala",
+    "repotime": "2022-02-14, 22:01:29",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 233,
+    "date_started": "2019-06-12",
+    "date_updated": "2022-02-14",
+    "description": "a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and techniques of an advanced adversary in a network.",
+    "forks_count": 122,
+    "html_url": "https://github.com/zux0x3a/0xsp-Mongoose",
+    "keywords": [
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges"
+    ],
+    "language": "Pascal",
+    "repo_name": "0xsp-Mongoose",
+    "repo_owner": "zux0x3a",
+    "repotime": "2022-02-14, 11:04:23",
+    "stargazers_count": 537,
+    "watchers_count": 537
+}
+{
+    "commits_count": 34,
+    "date_started": "2019-01-18",
+    "date_updated": "2022-02-13",
+    "description": "Public Disclosures",
+    "forks_count": 19,
+    "html_url": "https://github.com/DrunkenShells/Disclosures",
+    "keywords": [
+        "0day disclosure"
+    ],
+    "language": "HTML",
+    "repo_name": "Disclosures",
+    "repo_owner": "DrunkenShells",
+    "repotime": "2022-02-13, 23:59:47",
+    "stargazers_count": 89,
+    "watchers_count": 89
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-07",
+    "date_updated": "2022-02-08",
+    "description": "a demonstration PoC for CVE-2022-21877 (storage spaces controller memory leak)",
+    "forks_count": 2,
+    "html_url": "https://github.com/Big5-sec/cve-2022-21877",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "C++",
+    "repo_name": "cve-2022-21877",
+    "repo_owner": "Big5-sec",
+    "repotime": "2022-02-08, 23:53:21",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 90,
+    "date_started": "2014-03-28",
+    "date_updated": "2022-02-23",
+    "description": "HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors",
+    "forks_count": 420,
+    "html_url": "https://github.com/cure53/H5SC",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "H5SC",
+    "repo_owner": "cure53",
+    "repotime": "2022-02-23, 17:46:18",
+    "stargazers_count": 2882,
+    "watchers_count": 2882
+}
+{
+    "commits_count": 23,
+    "date_started": "2022-02-14",
+    "date_updated": "2022-02-21",
+    "description": " An ongoing &amp;amp; curated collection of awesome web vulnerability - Server-side request forgery software practices and remediation, libraries and frameworks, best guidelines and technical resources about SSRF",
+    "forks_count": 2,
+    "html_url": "https://github.com/paulveillard/cybersecurity-ssrf",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "cybersecurity-ssrf",
+    "repo_owner": "paulveillard",
+    "repotime": "2022-02-21, 20:07:57",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-21",
+    "date_updated": "2022-02-21",
+    "description": "Changelog CVE-2021-33044,CVE-2021-33045 Identity authentication bypass vulnerability found in some Dahua products CVE-2021-27248,CVE-2021-27249,CVE-2021-27250,CVE-2021-34860,CVE-2021-34861,CVE-2021-34862,CVE-2021-34863 Multiple vulnerabilities in DAP-2020 H/W rev. Ax with F/W v1.01 and below HTTP Path Traversal CVE-2019-7406 RCE vulnerability in TP-Link Wi-Fi Extenders via a malformed user agent field in HTTP headers CVE-2020-2501,CVE-2021-28797 Stack Buffer Overflow in QNAP Surveillance Station CVE-2021-34730 Critical UPnP Service Flaw on Cisco Small Business RV Series Routers CVE-2020-35785 Multiple HTTP authentication vulnerabilities on DGN2200v1",
+    "forks_count": 0,
+    "html_url": "https://github.com/Alonzozzz/alonzzzo",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "alonzzzo",
+    "repo_owner": "Alonzozzz",
+    "repotime": "2022-02-21, 15:23:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-02-18",
+    "date_updated": "2022-02-19",
+    "description": "CVE-2021-1965 WiFi Zero Click RCE Trigger PoC",
+    "forks_count": 29,
+    "html_url": "https://github.com/parsdefense/CVE-2021-1965",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2021-1965",
+    "repo_owner": "parsdefense",
+    "repotime": "2022-02-19, 16:52:32",
+    "stargazers_count": 166,
+    "watchers_count": 166
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-11-21",
+    "date_updated": "2022-02-19",
+    "description": "Script that automates the process of escalating privileges on openbsd system (CVE-2019-19520)  by exploiting the xlock binary and againing it's sgid and escalating to the root user by (CVE-2019-19522) exploiting the privileges of auth group and adding keys to the Skey or Yubikey",
+    "forks_count": 0,
+    "html_url": "https://github.com/retrymp3/Openbsd-Privilege-Escalation",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "Openbsd-Privilege-Escalation",
+    "repo_owner": "retrymp3",
+    "repotime": "2022-02-19, 09:41:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-02-18",
+    "date_updated": "2022-02-18",
+    "description": "CVE-2021-1965 WiFi Zero Click RCE Trigger PoC",
+    "forks_count": 29,
+    "html_url": "https://github.com/sqrtrev/CVE-2021-1965",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-1965",
+    "repo_owner": "sqrtrev",
+    "repotime": "2022-02-18, 17:23:07",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 29,
+    "date_started": "2020-12-04",
+    "date_updated": "2022-02-15",
+    "description": "A simple automation tool to detect lfi, rce and ssti vulnerability",
+    "forks_count": 6,
+    "html_url": "https://github.com/aniqfakhrul/lazyParam",
+    "keywords": [
+        "rce vulnerability",
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lazyParam",
+    "repo_owner": "aniqfakhrul",
+    "repotime": "2022-02-15, 15:34:33",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-14",
+    "date_updated": "2022-02-14",
+    "description": "Adminer is an open-source database management in a single PHP file. In adminer from version 4.0.0 and before 4.7.9 there is a server-side request forgery vulnerability. Users of Adminer versions bundling all drivers (e.g. `adminer.php`) are affected. This is fixed in version 4.7.9.",
+    "forks_count": 2,
+    "html_url": "https://github.com/llhala/CVE-2021-21311",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-21311",
+    "repo_owner": "llhala",
+    "repotime": "2022-02-14, 22:01:29",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 233,
+    "date_started": "2019-06-12",
+    "date_updated": "2022-02-14",
+    "description": "a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and techniques of an advanced adversary in a network.",
+    "forks_count": 122,
+    "html_url": "https://github.com/zux0x3a/0xsp-Mongoose",
+    "keywords": [
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges"
+    ],
+    "language": "Pascal",
+    "repo_name": "0xsp-Mongoose",
+    "repo_owner": "zux0x3a",
+    "repotime": "2022-02-14, 11:04:23",
+    "stargazers_count": 537,
+    "watchers_count": 537
+}
+{
+    "commits_count": 34,
+    "date_started": "2019-01-18",
+    "date_updated": "2022-02-13",
+    "description": "Public Disclosures",
+    "forks_count": 19,
+    "html_url": "https://github.com/DrunkenShells/Disclosures",
+    "keywords": [
+        "0day disclosure"
+    ],
+    "language": "HTML",
+    "repo_name": "Disclosures",
+    "repo_owner": "DrunkenShells",
+    "repotime": "2022-02-13, 23:59:47",
+    "stargazers_count": 89,
+    "watchers_count": 89
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-07",
+    "date_updated": "2022-02-08",
+    "description": "a demonstration PoC for CVE-2022-21877 (storage spaces controller memory leak)",
+    "forks_count": 2,
+    "html_url": "https://github.com/Big5-sec/cve-2022-21877",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "C++",
+    "repo_name": "cve-2022-21877",
+    "repo_owner": "Big5-sec",
+    "repotime": "2022-02-08, 23:53:21",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

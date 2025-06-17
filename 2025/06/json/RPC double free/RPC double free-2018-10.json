@@ -186,3 +186,379 @@
     "stargazers_count": 49,
     "watchers_count": 49
 }
+{
+    "commits_count": 15,
+    "date_started": "2018-03-16",
+    "date_updated": "2018-10-31",
+    "description": "Keep a site secret to unauthenticated users",
+    "forks_count": 0,
+    "html_url": "https://github.com/pietroglyph/twoface",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Go",
+    "repo_name": "twoface",
+    "repo_owner": "pietroglyph",
+    "repotime": "2018-10-31, 12:48:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-10-29",
+    "date_updated": "2018-10-29",
+    "description": "MediaWiki:FileUploadWizard.js From Wikipedia, the free encyclopedia Jump to navigationJump to search Note: After saving, you have to bypass your browser's cache to see the changes. Internet Explorer: hold down the Ctrl key and click the Refresh or Reload button. Firefox: hold down the Shift key while clicking Reload (or press Ctrl-Shift-R). Google Chrome and Safari users can just click the Reload button. For details and instructions about other browsers, see Wikipedia:Bypass your cache.  /* * =============================================================== *                    FileUploadWizard.js * Script for uploading files through a dynamic questionnaire. * This is the code to accompany [[Wikipedia:File Upload Wizard]]. * =============================================================== */  var fuwTesting = false; var fuwDefaultTextboxLength = 60; var fuwDefaultTextareaWidth = '90%'; var fuwDefaultTextareaLines = 3;  // ================================================================ //...",
+    "forks_count": 2,
+    "html_url": "https://github.com/smith86n/wiki-is-mostly-fake-radom-words-word-genrationr-",
+    "keywords": [
+        "Windows use after free",
+        "Chrome use after free"
+    ],
+    "language": null,
+    "repo_name": "wiki-is-mostly-fake-radom-words-word-genrationr-",
+    "repo_owner": "smith86n",
+    "repotime": "2018-10-29, 11:59:58",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 7,
+    "date_started": "2018-10-29",
+    "date_updated": "2018-10-29",
+    "description": "Simple plugin to expose uptime status to unauthenticated users",
+    "forks_count": 1,
+    "html_url": "https://github.com/jenkinsci/anonymous-uptime-check-plugin",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Java",
+    "repo_name": "anonymous-uptime-check-plugin",
+    "repo_owner": "jenkinsci",
+    "repotime": "2018-10-29, 16:01:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-10-25",
+    "date_updated": "2018-10-25",
+    "description": "<no description>",
+    "forks_count": 37,
+    "html_url": "https://github.com/hackping/XXEpayload",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "XXEpayload",
+    "repo_owner": "hackping",
+    "repotime": "2018-10-25, 11:03:02",
+    "stargazers_count": 85,
+    "watchers_count": 85
+}
+{
+    "commits_count": 7,
+    "date_started": "2018-07-15",
+    "date_updated": "2018-10-13",
+    "description": "A Route component that redirects unauthenticated users.",
+    "forks_count": 1,
+    "html_url": "https://github.com/nirberko/protected-route",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "protected-route",
+    "repo_owner": "nirberko",
+    "repotime": "2018-10-13, 12:09:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 132,
+    "date_started": "2012-03-05",
+    "date_updated": "2018-10-12",
+    "description": "Chrome extension Exploitation Framework",
+    "forks_count": 106,
+    "html_url": "https://github.com/koto/xsschef",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xsschef",
+    "repo_owner": "koto",
+    "repotime": "2018-10-12, 21:57:14",
+    "stargazers_count": 567,
+    "watchers_count": 567
+}
+{
+    "commits_count": 34,
+    "date_started": "2018-06-16",
+    "date_updated": "2018-10-07",
+    "description": "Toolset for detecting reflected xss in websites",
+    "forks_count": 36,
+    "html_url": "https://github.com/Damian89/xssfinder",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xssfinder",
+    "repo_owner": "Damian89",
+    "repotime": "2018-10-07, 12:13:42",
+    "stargazers_count": 109,
+    "watchers_count": 109
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-08-14",
+    "date_updated": "2018-10-04",
+    "description": " Prevent CSRF vulnerabilities by generating Cross-Site Request Forgery Tokens in server side and validating them before respond to any client request.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ishaniDolawatta/CSRF-Anti-CSRF-token",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Java",
+    "repo_name": "CSRF-Anti-CSRF-token",
+    "repo_owner": "ishaniDolawatta",
+    "repotime": "2018-10-04, 19:27:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2017-10-06",
+    "date_updated": "2018-10-02",
+    "description": "Code injection by hijacking threads in Windows 32-bit applications",
+    "forks_count": 14,
+    "html_url": "https://github.com/johnsonjason/Remote-Thread-Executor",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "Remote-Thread-Executor",
+    "repo_owner": "johnsonjason",
+    "repotime": "2018-10-02, 20:18:44",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-10-02",
+    "date_updated": "2018-10-02",
+    "description": "HOW TO GET FREE V-BUCKS GUIDE How to get free V-Bucks in Fortnite Battle Royale and Save the World? You came to the right place! Welcome to the &amp;quot;Free the V-Bucks&amp;quot; all-in-one guide about all the ways of earning V-Bucks in Fortnite.     Get Your Free VBucks Here: http://hyperurl.co/VbucksGenerator                How to earn Free V Bucks with the Fortnite hack tool?    Get Your Free VBucks Here: http://hyperurl.co/VbucksGenerator     Earning V-Bucks will help you to get a wide range of benefits which make them incredibly valuable. Like Roblox gaming, Fortnite also provides free hack tool generator for the players. Getting v-bucks from Fortnite hack tool is pretty much straightforward. All you need to do is to follow the steps mentioned below.  -Choose the platform of the device on which you are playing.  -Enter your Fortnite username or email id in the desired location and click on the confirm button.  -Select the amount of V-Bucks you want to generate.  -Now click on the button...",
+    "forks_count": 0,
+    "html_url": "https://github.com/VbucksFortnitetutorials/Fortnite-Vbucks",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Fortnite-Vbucks",
+    "repo_owner": "VbucksFortnitetutorials",
+    "repotime": "2018-10-02, 13:45:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-10-02",
+    "date_updated": "2018-10-02",
+    "description": "A tool that helps you get system shell without UAC prompt",
+    "forks_count": 20,
+    "html_url": "https://github.com/DoubleLabyrinth/BypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "BypassUAC",
+    "repo_owner": "DoubleLabyrinth",
+    "repotime": "2018-10-02, 15:30:49",
+    "stargazers_count": 49,
+    "watchers_count": 49
+}
+{
+    "commits_count": 15,
+    "date_started": "2018-03-16",
+    "date_updated": "2018-10-31",
+    "description": "Keep a site secret to unauthenticated users",
+    "forks_count": 0,
+    "html_url": "https://github.com/pietroglyph/twoface",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Go",
+    "repo_name": "twoface",
+    "repo_owner": "pietroglyph",
+    "repotime": "2018-10-31, 12:48:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-10-29",
+    "date_updated": "2018-10-29",
+    "description": "MediaWiki:FileUploadWizard.js From Wikipedia, the free encyclopedia Jump to navigationJump to search Note: After saving, you have to bypass your browser's cache to see the changes. Internet Explorer: hold down the Ctrl key and click the Refresh or Reload button. Firefox: hold down the Shift key while clicking Reload (or press Ctrl-Shift-R). Google Chrome and Safari users can just click the Reload button. For details and instructions about other browsers, see Wikipedia:Bypass your cache.  /* * =============================================================== *                    FileUploadWizard.js * Script for uploading files through a dynamic questionnaire. * This is the code to accompany [[Wikipedia:File Upload Wizard]]. * =============================================================== */  var fuwTesting = false; var fuwDefaultTextboxLength = 60; var fuwDefaultTextareaWidth = '90%'; var fuwDefaultTextareaLines = 3;  // ================================================================ //...",
+    "forks_count": 2,
+    "html_url": "https://github.com/smith86n/wiki-is-mostly-fake-radom-words-word-genrationr-",
+    "keywords": [
+        "Windows use after free",
+        "Chrome use after free"
+    ],
+    "language": null,
+    "repo_name": "wiki-is-mostly-fake-radom-words-word-genrationr-",
+    "repo_owner": "smith86n",
+    "repotime": "2018-10-29, 11:59:58",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 7,
+    "date_started": "2018-10-29",
+    "date_updated": "2018-10-29",
+    "description": "Simple plugin to expose uptime status to unauthenticated users",
+    "forks_count": 1,
+    "html_url": "https://github.com/jenkinsci/anonymous-uptime-check-plugin",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Java",
+    "repo_name": "anonymous-uptime-check-plugin",
+    "repo_owner": "jenkinsci",
+    "repotime": "2018-10-29, 16:01:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-10-25",
+    "date_updated": "2018-10-25",
+    "description": "<no description>",
+    "forks_count": 37,
+    "html_url": "https://github.com/hackping/XXEpayload",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "XXEpayload",
+    "repo_owner": "hackping",
+    "repotime": "2018-10-25, 11:03:02",
+    "stargazers_count": 85,
+    "watchers_count": 85
+}
+{
+    "commits_count": 7,
+    "date_started": "2018-07-15",
+    "date_updated": "2018-10-13",
+    "description": "A Route component that redirects unauthenticated users.",
+    "forks_count": 1,
+    "html_url": "https://github.com/nirberko/protected-route",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "protected-route",
+    "repo_owner": "nirberko",
+    "repotime": "2018-10-13, 12:09:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 132,
+    "date_started": "2012-03-05",
+    "date_updated": "2018-10-12",
+    "description": "Chrome extension Exploitation Framework",
+    "forks_count": 106,
+    "html_url": "https://github.com/koto/xsschef",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xsschef",
+    "repo_owner": "koto",
+    "repotime": "2018-10-12, 21:57:14",
+    "stargazers_count": 567,
+    "watchers_count": 567
+}
+{
+    "commits_count": 34,
+    "date_started": "2018-06-16",
+    "date_updated": "2018-10-07",
+    "description": "Toolset for detecting reflected xss in websites",
+    "forks_count": 36,
+    "html_url": "https://github.com/Damian89/xssfinder",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xssfinder",
+    "repo_owner": "Damian89",
+    "repotime": "2018-10-07, 12:13:42",
+    "stargazers_count": 109,
+    "watchers_count": 109
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-08-14",
+    "date_updated": "2018-10-04",
+    "description": " Prevent CSRF vulnerabilities by generating Cross-Site Request Forgery Tokens in server side and validating them before respond to any client request.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ishaniDolawatta/CSRF-Anti-CSRF-token",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Java",
+    "repo_name": "CSRF-Anti-CSRF-token",
+    "repo_owner": "ishaniDolawatta",
+    "repotime": "2018-10-04, 19:27:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2017-10-06",
+    "date_updated": "2018-10-02",
+    "description": "Code injection by hijacking threads in Windows 32-bit applications",
+    "forks_count": 14,
+    "html_url": "https://github.com/johnsonjason/Remote-Thread-Executor",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "Remote-Thread-Executor",
+    "repo_owner": "johnsonjason",
+    "repotime": "2018-10-02, 20:18:44",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-10-02",
+    "date_updated": "2018-10-02",
+    "description": "HOW TO GET FREE V-BUCKS GUIDE How to get free V-Bucks in Fortnite Battle Royale and Save the World? You came to the right place! Welcome to the &amp;quot;Free the V-Bucks&amp;quot; all-in-one guide about all the ways of earning V-Bucks in Fortnite.     Get Your Free VBucks Here: http://hyperurl.co/VbucksGenerator                How to earn Free V Bucks with the Fortnite hack tool?    Get Your Free VBucks Here: http://hyperurl.co/VbucksGenerator     Earning V-Bucks will help you to get a wide range of benefits which make them incredibly valuable. Like Roblox gaming, Fortnite also provides free hack tool generator for the players. Getting v-bucks from Fortnite hack tool is pretty much straightforward. All you need to do is to follow the steps mentioned below.  -Choose the platform of the device on which you are playing.  -Enter your Fortnite username or email id in the desired location and click on the confirm button.  -Select the amount of V-Bucks you want to generate.  -Now click on the button...",
+    "forks_count": 0,
+    "html_url": "https://github.com/VbucksFortnitetutorials/Fortnite-Vbucks",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Fortnite-Vbucks",
+    "repo_owner": "VbucksFortnitetutorials",
+    "repotime": "2018-10-02, 13:45:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-10-02",
+    "date_updated": "2018-10-02",
+    "description": "A tool that helps you get system shell without UAC prompt",
+    "forks_count": 20,
+    "html_url": "https://github.com/DoubleLabyrinth/BypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "BypassUAC",
+    "repo_owner": "DoubleLabyrinth",
+    "repotime": "2018-10-02, 15:30:49",
+    "stargazers_count": 49,
+    "watchers_count": 49
+}

@@ -3,7 +3,7 @@
     "date_started": "2022-06-20",
     "date_updated": "2023-12-21",
     "description": "Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",
-    "forks_count": 680,
+    "forks_count": 681,
     "html_url": "https://github.com/GhostTroops/scan4all",
     "keywords": [
         "0day poc"
@@ -12,8 +12,8 @@
     "repo_name": "scan4all",
     "repo_owner": "GhostTroops",
     "repotime": "2023-12-21, 22:03:12",
-    "stargazers_count": 5692,
-    "watchers_count": 5692
+    "stargazers_count": 5704,
+    "watchers_count": 5704
 }
 {
     "commits_count": 28,
@@ -172,8 +172,296 @@
     "repo_name": "Linux-Kernel-VR-Exploitation",
     "repo_owner": "IdanBanani",
     "repotime": "2023-12-12, 19:53:13",
-    "stargazers_count": 41,
-    "watchers_count": 41
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 42,
+    "date_started": "2023-09-26",
+    "date_updated": "2023-12-11",
+    "description": "KnowThyEnemy is a data analysis project that determines the most common origin country of sophisticated attacks (Zero-Day, Ransomware, IoT) and ranks them. Industries may utilize this ranking to better understand their attack surface. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/clayshubert/KnowThyEnemy",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "KnowThyEnemy",
+    "repo_owner": "clayshubert",
+    "repotime": "2023-12-11, 20:29:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-12-09",
+    "date_updated": "2023-12-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/hunkaracar/Online-Traffic-Offense-Management-System-1.0---Remote-Code-Execution-RCE-Unauthenticated-",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Online-Traffic-Offense-Management-System-1.0---Remote-Code-Execution-RCE-Unauthenticated-",
+    "repo_owner": "hunkaracar",
+    "repotime": "2023-12-09, 06:28:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-12-09",
+    "date_updated": "2023-12-09",
+    "description": "Create tar/zip/tgz/bz2 archives that can exploit directory traversal and symlink vulnerabilities",
+    "forks_count": 1,
+    "html_url": "https://github.com/tarihub/evilarc-go",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "evilarc-go",
+    "repo_owner": "tarihub",
+    "repotime": "2023-12-09, 19:16:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-12-02",
+    "date_updated": "2023-12-05",
+    "description": "Foxit PDF Reader Remote Code Execution Exploit",
+    "forks_count": 25,
+    "html_url": "https://github.com/hacksysteam/CVE-2022-28672",
+    "keywords": [
+        "rce exploitation",
+        "remote code execution exploit",
+        "remote code execution exploitation",
+        "rce exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2022-28672",
+    "repo_owner": "hacksysteam",
+    "repotime": "2023-12-05, 17:52:40",
+    "stargazers_count": 116,
+    "watchers_count": 116
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-12-05",
+    "description": "Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit",
+    "forks_count": 57,
+    "html_url": "https://github.com/hacksysteam/CVE-2023-21608",
+    "keywords": [
+        "remote code execution exploit",
+        "remote code execution exploitation",
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2023-21608",
+    "repo_owner": "hacksysteam",
+    "repotime": "2023-12-05, 17:50:58",
+    "stargazers_count": 272,
+    "watchers_count": 272
+}
+{
+    "commits_count": 80,
+    "date_started": "2017-09-24",
+    "date_updated": "2023-12-03",
+    "description": "Demonstrate how usage of the Java Security Manager can prevent Remote Code Execution (RCE) exploits.",
+    "forks_count": 8,
+    "html_url": "https://github.com/shawnmckinney/remote-code-execution-sample",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "rce exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "remote-code-execution-sample",
+    "repo_owner": "shawnmckinney",
+    "repotime": "2023-12-03, 11:19:50",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 1152,
+    "date_started": "2022-06-20",
+    "date_updated": "2023-12-21",
+    "description": "Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",
+    "forks_count": 681,
+    "html_url": "https://github.com/GhostTroops/scan4all",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Go",
+    "repo_name": "scan4all",
+    "repo_owner": "GhostTroops",
+    "repotime": "2023-12-21, 22:03:12",
+    "stargazers_count": 5706,
+    "watchers_count": 5706
+}
+{
+    "commits_count": 28,
+    "date_started": "2023-11-29",
+    "date_updated": "2023-12-21",
+    "description": "CWE-416 Use-After-Free Vulnerability, Attack and Fix",
+    "forks_count": 0,
+    "html_url": "https://github.com/NVombat/Use-After-Free",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free exploit"
+    ],
+    "language": "C",
+    "repo_name": "Use-After-Free",
+    "repo_owner": "NVombat",
+    "repotime": "2023-12-21, 06:43:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-12-17",
+    "date_updated": "2023-12-18",
+    "description": "xss_session_hijacking_example",
+    "forks_count": 0,
+    "html_url": "https://github.com/GabrielBahia/xss_session_hijacking_example",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "xss_session_hijacking_example",
+    "repo_owner": "GabrielBahia",
+    "repotime": "2023-12-18, 22:12:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-01-09",
+    "date_updated": "2023-12-18",
+    "description": "How To Run The Project? To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows). This Hotel Management System in PHP with source code is free to download, Use for educational purposes only!  After Starting Apache and MySQL in XAMPP, follow the following steps.  1st Step: Extract file 2nd Step: Copy the main ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Gowrish7/Hotel-Reservation-System",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Hotel-Reservation-System",
+    "repo_owner": "Gowrish7",
+    "repotime": "2023-12-18, 23:22:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-12-15",
+    "date_updated": "2023-12-15",
+    "description": "Reproduction project for crashing while trying to hide / close external windows. Use 1 to change from embedded to external windows, 2 to spawn and hide existing (doesn't queue free so requires restart after), or 3 to spawn and queue_free existing",
+    "forks_count": 0,
+    "html_url": "https://github.com/Starkandco/Min_crash_repro_windows",
+    "keywords": [
+        "Windows use after free",
+        "Win use after free"
+    ],
+    "language": "GDScript",
+    "repo_name": "Min_crash_repro_windows",
+    "repo_owner": "Starkandco",
+    "repotime": "2023-12-15, 12:11:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-11-25",
+    "date_updated": "2023-12-15",
+    "description": "The official codes for TR-GAN: Multi-Session Future MRI Prediction With Temporal Recurrent Generative Adversarial Network.",
+    "forks_count": 0,
+    "html_url": "https://github.com/CCF0211/PyTorch-TR-GAN",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "PyTorch-TR-GAN",
+    "repo_owner": "CCF0211",
+    "repotime": "2023-12-15, 19:21:34",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-12-14",
+    "date_updated": "2023-12-15",
+    "description": "PoC Exploit for VM2 Sandbox Escape Vulnerability - All Versions",
+    "forks_count": 1,
+    "html_url": "https://github.com/rvizx/VM2-Exploit",
+    "keywords": [
+        "sandbox escape exploitation",
+        "sandbox escape vulnerability",
+        "sandbox escape poc",
+        "sandbox escape exploit"
+    ],
+    "language": "Python",
+    "repo_name": "VM2-Exploit",
+    "repo_owner": "rvizx",
+    "repotime": "2023-12-15, 01:32:37",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-12-13",
+    "date_updated": "2023-12-14",
+    "description": "CVE-2023-20198 / 0day - Cisco - Authentication Bypass/RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-20198-PoC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-20198-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-12-14, 01:50:07",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 30,
+    "date_started": "2023-10-10",
+    "date_updated": "2023-12-13",
+    "description": "Static analysis tool for detecting memory leaks in C programs",
+    "forks_count": 0,
+    "html_url": "https://github.com/jakerz-2001/413FinalProject",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Python",
+    "repo_name": "413FinalProject",
+    "repo_owner": "jakerz-2001",
+    "repotime": "2023-12-13, 10:54:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-09-28",
+    "date_updated": "2023-12-12",
+    "description": "Linux &amp;amp; Android Kernel Vulnerability research and exploitation",
+    "forks_count": 6,
+    "html_url": "https://github.com/IdanBanani/Linux-Kernel-VR-Exploitation",
+    "keywords": [
+        "lpe exploitation",
+        "lpe vulnerability",
+        "lpe exploit"
+    ],
+    "language": null,
+    "repo_name": "Linux-Kernel-VR-Exploitation",
+    "repo_owner": "IdanBanani",
+    "repotime": "2023-12-12, 19:53:13",
+    "stargazers_count": 43,
+    "watchers_count": 43
 }
 {
     "commits_count": 42,

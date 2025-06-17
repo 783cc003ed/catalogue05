@@ -209,3 +209,425 @@
     "stargazers_count": 30,
     "watchers_count": 30
 }
+{
+    "commits_count": 27,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-01-31",
+    "description": "This repository contains a kernel exploit for PlayStation 4 firmware 6.72. The exploit leverages a vulnerability in the system kernel to achieve privilege escalation, allowing execution of unsigned code and jailbreak functionalities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yonicodedemon/YG2",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "YG2",
+    "repo_owner": "Yonicodedemon",
+    "repotime": "2025-01-31, 17:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2021-10-26",
+    "date_updated": "2025-01-31",
+    "description": "How to exploit a double free vulnerability in 2021. Use After Free for Dummies",
+    "forks_count": 64,
+    "html_url": "https://github.com/stong/how-to-exploit-a-double-free",
+    "keywords": [
+        "use after free exploit",
+        "use after free vulnerability",
+        "use after free exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "how-to-exploit-a-double-free",
+    "repo_owner": "stong",
+    "repotime": "2025-01-31, 03:45:57",
+    "stargazers_count": 1351,
+    "watchers_count": 1351
+}
+{
+    "commits_count": 32,
+    "date_started": "2020-03-16",
+    "date_updated": "2025-01-28",
+    "description": "Exfiltrate blind Remote Code Execution and SQL injection output over DNS via Burp Collaborator.",
+    "forks_count": 56,
+    "html_url": "https://github.com/0xC01DF00D/Collabfiltrator",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "Collabfiltrator",
+    "repo_owner": "0xC01DF00D",
+    "repotime": "2025-01-28, 03:11:15",
+    "stargazers_count": 267,
+    "watchers_count": 267
+}
+{
+    "commits_count": 441,
+    "date_started": "2019-02-23",
+    "date_updated": "2025-01-25",
+    "description": "K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
+    "forks_count": 2069,
+    "html_url": "https://github.com/k8gege/K8tools",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit",
+        "lpe exploit",
+        "rce exploit"
+    ],
+    "language": "PowerShell",
+    "repo_name": "K8tools",
+    "repo_owner": "k8gege",
+    "repotime": "2025-01-25, 14:32:49",
+    "stargazers_count": 5996,
+    "watchers_count": 5996
+}
+{
+    "commits_count": 221,
+    "date_started": "2023-01-25",
+    "date_updated": "2025-01-22",
+    "description": "<no description>",
+    "forks_count": 126,
+    "html_url": "https://github.com/trufflesecurity/xsshunter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "SCSS",
+    "repo_name": "xsshunter",
+    "repo_owner": "trufflesecurity",
+    "repotime": "2025-01-22, 15:35:19",
+    "stargazers_count": 455,
+    "watchers_count": 455
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-21",
+    "date_updated": "2025-01-21",
+    "description": "Assembly buffer overflow vulnerability: The code attempts to store the sum of two values into a memory location that might not be large enough, leading to potential data corruption or program crashes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Assembly-Buffer-Overflow-Vulnerability-g5z4i",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "Assembly-Buffer-Overflow-Vulnerability-g5z4i",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-21, 11:12:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-05-09",
+    "date_updated": "2025-01-18",
+    "description": "This is a simple repository of the tools that I use for Windows privilege escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jsimsynack/windows-privesc-tools",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Win escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "windows-privesc-tools",
+    "repo_owner": "Jsimsynack",
+    "repotime": "2025-01-18, 21:20:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-01-11",
+    "date_updated": "2025-01-12",
+    "description": "CVE-2025-0282 is a critical vulnerability found in Ivanti Connect Secure, allowing Remote Command Execution (RCE) through a buffer overflow exploit.",
+    "forks_count": 13,
+    "html_url": "https://github.com/absholi7ly/CVE-2025-0282-Ivanti-exploit",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-0282-Ivanti-exploit",
+    "repo_owner": "absholi7ly",
+    "repotime": "2025-01-12, 01:54:06",
+    "stargazers_count": 47,
+    "watchers_count": 47
+}
+{
+    "commits_count": 265,
+    "date_started": "2023-12-14",
+    "date_updated": "2025-01-11",
+    "description": "Modloader/Injector/Decompiler that supports ingame code injection for Balatro (Linux/Windows/Mac)",
+    "forks_count": 20,
+    "html_url": "https://github.com/balamod/balamod",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Rust",
+    "repo_name": "balamod",
+    "repo_owner": "balamod",
+    "repotime": "2025-01-11, 12:09:02",
+    "stargazers_count": 131,
+    "watchers_count": 131
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-08",
+    "date_updated": "2025-01-09",
+    "description": "Escape macOS Sandbox using sharedfilelistd exploit",
+    "forks_count": 10,
+    "html_url": "https://github.com/wh1te4ever/CVE-2024-54498-PoC",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2024-54498-PoC",
+    "repo_owner": "wh1te4ever",
+    "repotime": "2025-01-09, 15:34:47",
+    "stargazers_count": 59,
+    "watchers_count": 59
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-08",
+    "date_updated": "2025-01-08",
+    "description": "Assembly code contains potential buffer overflow and segmentation fault vulnerabilities due to lack of input validation and address verification.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Uncommon-Assembly-Code-Errors--Buffer-Overflow-and-Segmentation-Fault-w41z5",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Assembly",
+    "repo_name": "Uncommon-Assembly-Code-Errors--Buffer-Overflow-and-Segmentation-Fault-w41z5",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-08, 20:04:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 244,
+    "date_started": "2020-08-01",
+    "date_updated": "2025-01-04",
+    "description": "Remote command shell application written in C&amp;&#35;35; targeting the .NET 9.0 runtime.",
+    "forks_count": 6,
+    "html_url": "https://github.com/vandavey/DotnetCat",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C#",
+    "repo_name": "DotnetCat",
+    "repo_owner": "vandavey",
+    "repotime": "2025-01-04, 15:30:03",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 27,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-01-31",
+    "description": "This repository contains a kernel exploit for PlayStation 4 firmware 6.72. The exploit leverages a vulnerability in the system kernel to achieve privilege escalation, allowing execution of unsigned code and jailbreak functionalities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yonicodedemon/YG2",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "YG2",
+    "repo_owner": "Yonicodedemon",
+    "repotime": "2025-01-31, 17:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2021-10-26",
+    "date_updated": "2025-01-31",
+    "description": "How to exploit a double free vulnerability in 2021. Use After Free for Dummies",
+    "forks_count": 64,
+    "html_url": "https://github.com/stong/how-to-exploit-a-double-free",
+    "keywords": [
+        "use after free exploit",
+        "use after free vulnerability",
+        "use after free exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "how-to-exploit-a-double-free",
+    "repo_owner": "stong",
+    "repotime": "2025-01-31, 03:45:57",
+    "stargazers_count": 1351,
+    "watchers_count": 1351
+}
+{
+    "commits_count": 32,
+    "date_started": "2020-03-16",
+    "date_updated": "2025-01-28",
+    "description": "Exfiltrate blind Remote Code Execution and SQL injection output over DNS via Burp Collaborator.",
+    "forks_count": 56,
+    "html_url": "https://github.com/0xC01DF00D/Collabfiltrator",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "Collabfiltrator",
+    "repo_owner": "0xC01DF00D",
+    "repotime": "2025-01-28, 03:11:15",
+    "stargazers_count": 267,
+    "watchers_count": 267
+}
+{
+    "commits_count": 441,
+    "date_started": "2019-02-23",
+    "date_updated": "2025-01-25",
+    "description": "K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
+    "forks_count": 2069,
+    "html_url": "https://github.com/k8gege/K8tools",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit",
+        "lpe exploit",
+        "rce exploit"
+    ],
+    "language": "PowerShell",
+    "repo_name": "K8tools",
+    "repo_owner": "k8gege",
+    "repotime": "2025-01-25, 14:32:49",
+    "stargazers_count": 5999,
+    "watchers_count": 5999
+}
+{
+    "commits_count": 221,
+    "date_started": "2023-01-25",
+    "date_updated": "2025-01-22",
+    "description": "<no description>",
+    "forks_count": 126,
+    "html_url": "https://github.com/trufflesecurity/xsshunter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "SCSS",
+    "repo_name": "xsshunter",
+    "repo_owner": "trufflesecurity",
+    "repotime": "2025-01-22, 15:35:19",
+    "stargazers_count": 460,
+    "watchers_count": 460
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-21",
+    "date_updated": "2025-01-21",
+    "description": "Assembly buffer overflow vulnerability: The code attempts to store the sum of two values into a memory location that might not be large enough, leading to potential data corruption or program crashes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Assembly-Buffer-Overflow-Vulnerability-g5z4i",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "Assembly-Buffer-Overflow-Vulnerability-g5z4i",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-21, 11:12:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-05-09",
+    "date_updated": "2025-01-18",
+    "description": "This is a simple repository of the tools that I use for Windows privilege escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jsimsynack/windows-privesc-tools",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Win escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "windows-privesc-tools",
+    "repo_owner": "Jsimsynack",
+    "repotime": "2025-01-18, 21:20:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-01-11",
+    "date_updated": "2025-01-12",
+    "description": "CVE-2025-0282 is a critical vulnerability found in Ivanti Connect Secure, allowing Remote Command Execution (RCE) through a buffer overflow exploit.",
+    "forks_count": 13,
+    "html_url": "https://github.com/absholi7ly/CVE-2025-0282-Ivanti-exploit",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-0282-Ivanti-exploit",
+    "repo_owner": "absholi7ly",
+    "repotime": "2025-01-12, 01:54:06",
+    "stargazers_count": 47,
+    "watchers_count": 47
+}
+{
+    "commits_count": 265,
+    "date_started": "2023-12-14",
+    "date_updated": "2025-01-11",
+    "description": "Modloader/Injector/Decompiler that supports ingame code injection for Balatro (Linux/Windows/Mac)",
+    "forks_count": 20,
+    "html_url": "https://github.com/balamod/balamod",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Rust",
+    "repo_name": "balamod",
+    "repo_owner": "balamod",
+    "repotime": "2025-01-11, 12:09:02",
+    "stargazers_count": 132,
+    "watchers_count": 132
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-08",
+    "date_updated": "2025-01-09",
+    "description": "Escape macOS Sandbox using sharedfilelistd exploit",
+    "forks_count": 10,
+    "html_url": "https://github.com/wh1te4ever/CVE-2024-54498-PoC",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2024-54498-PoC",
+    "repo_owner": "wh1te4ever",
+    "repotime": "2025-01-09, 15:34:47",
+    "stargazers_count": 59,
+    "watchers_count": 59
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-08",
+    "date_updated": "2025-01-08",
+    "description": "Assembly code contains potential buffer overflow and segmentation fault vulnerabilities due to lack of input validation and address verification.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Uncommon-Assembly-Code-Errors--Buffer-Overflow-and-Segmentation-Fault-w41z5",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Assembly",
+    "repo_name": "Uncommon-Assembly-Code-Errors--Buffer-Overflow-and-Segmentation-Fault-w41z5",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-08, 20:04:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 244,
+    "date_started": "2020-08-01",
+    "date_updated": "2025-01-04",
+    "description": "Remote command shell application written in C&amp;&#35;35; targeting the .NET 9.0 runtime.",
+    "forks_count": 6,
+    "html_url": "https://github.com/vandavey/DotnetCat",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C#",
+    "repo_name": "DotnetCat",
+    "repo_owner": "vandavey",
+    "repotime": "2025-01-04, 15:30:03",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}

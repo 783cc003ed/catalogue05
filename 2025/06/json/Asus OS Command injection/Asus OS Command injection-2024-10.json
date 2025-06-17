@@ -394,3 +394,795 @@
     "stargazers_count": 84,
     "watchers_count": 84
 }
+{
+    "commits_count": 2,
+    "date_started": "2024-10-31",
+    "date_updated": "2024-10-31",
+    "description": "Ivanti EPM Agent &amp;lt; 2020.1 SU6 Windows Local Privilege Escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/swgee/Ivanti-EPM-LPE",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": null,
+    "repo_name": "Ivanti-EPM-LPE",
+    "repo_owner": "swgee",
+    "repotime": "2024-10-31, 09:51:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-10-17",
+    "date_updated": "2024-10-30",
+    "description": "Conducted a comprehensive penetration testing engagement for Rekall Corporation. Identified and exploited critical vulnerabilities in their web application, Linux servers, and Windows servers, including SQL Injection and Remote Code Execution. Provided detailed reports and remediation strategies to enhance their security posture.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tylerbcrawford/rekall-penetration-testing",
+    "keywords": [
+        "Windows remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "rekall-penetration-testing",
+    "repo_owner": "tylerbcrawford",
+    "repotime": "2024-10-30, 10:26:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2024-10-10",
+    "date_updated": "2024-10-28",
+    "description": "A web application built with Flask for managing e-books, focusing on securing against vulnerabilities like SQL Injection, XSS, CSRF, Session Hijacking, and File Upload attacks. Features a user interface based on the &amp;quot;Ebook Landing&amp;quot; template and various security mechanisms for safe usage.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rafalgajos/secure-ebook-platform",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "secure-ebook-platform",
+    "repo_owner": "rafalgajos",
+    "repotime": "2024-10-28, 14:49:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-23",
+    "date_updated": "2024-10-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "repo_owner": "Bogdy88",
+    "repotime": "2024-10-23, 01:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-10-22",
+    "date_updated": "2024-10-22",
+    "description": "A flexible web app showing vulnerabilities such as cross site scripting, sql injections, and session management issues. Helpful to IT auditors honing web security skills and setting up 'capture the flag'.",
+    "forks_count": 0,
+    "html_url": "https://github.com/maxamin/vicnum14",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "vicnum14",
+    "repo_owner": "maxamin",
+    "repotime": "2024-10-22, 21:01:45",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-10-22",
+    "date_updated": "2024-10-22",
+    "description": "A flexible web app showing vulnerabilities such as cross site scripting, sql injections, and session management issues. Helpful to IT auditors honing web security skills and setting up 'capture the flag'.",
+    "forks_count": 0,
+    "html_url": "https://github.com/maxamin/vicnum13-Lab",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "vicnum13-Lab",
+    "repo_owner": "maxamin",
+    "repotime": "2024-10-22, 20:59:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-01-28",
+    "date_updated": "2024-10-21",
+    "description": "iOS jailbreak-free code injection framework. ",
+    "forks_count": 18,
+    "html_url": "https://github.com/camila314/enzyme",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "enzyme",
+    "repo_owner": "camila314",
+    "repotime": "2024-10-21, 18:04:57",
+    "stargazers_count": 114,
+    "watchers_count": 114
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-20",
+    "date_updated": "2024-10-20",
+    "description": "Path traversal is a security vulnerability where an attacker manipulates file paths to access files and directories outside the intended directory. By exploiting improper input validation, they can gain unauthorized access to sensitive files or system data, potentially leading to data breaches or system compromise.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Pasindu-coder/path-traversal",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "path-traversal",
+    "repo_owner": "Pasindu-coder",
+    "repotime": "2024-10-20, 15:25:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-20",
+    "date_updated": "2024-10-20",
+    "description": "XploitHunter is a Python-based tool designed to scan websites for common vulnerabilities, including SQL Injection, XSS, CSRF, insecure headers, directory traversal and insecure file uploads.",
+    "forks_count": 0,
+    "html_url": "https://github.com/greg1703/XploitHunter",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "XploitHunter",
+    "repo_owner": "greg1703",
+    "repotime": "2024-10-20, 11:54:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 132,
+    "date_started": "2021-02-23",
+    "date_updated": "2024-10-17",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 78,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2024-10-17, 06:04:00",
+    "stargazers_count": 797,
+    "watchers_count": 797
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-10-16",
+    "date_updated": "2024-10-17",
+    "description": "Vulnerability Scanner identifies web vulnerabilities like SQL Injection, XSS, CSRF, RCE, and Directory Traversal. Using advanced techniques, it assesses security and provides detailed reports to help developers mitigate potential threats effectively.",
+    "forks_count": 0,
+    "html_url": "https://github.com/harsh11x/vulnstrike",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "vulnstrike",
+    "repo_owner": "harsh11x",
+    "repotime": "2024-10-17, 03:05:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 64,
+    "date_started": "2024-08-28",
+    "date_updated": "2024-10-15",
+    "description": "a powerful tool designed to automate the detection of Server-Side Request Forgery (SSRF) and Open Redirect vulnerabilities",
+    "forks_count": 3,
+    "html_url": "https://github.com/KariiemGamal/0dSSRF",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Shell",
+    "repo_name": "0dSSRF",
+    "repo_owner": "KariiemGamal",
+    "repotime": "2024-10-15, 14:25:24",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-10-14",
+    "date_updated": "2024-10-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Talleyrand-34/counter-csv-injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Go",
+    "repo_name": "counter-csv-injection",
+    "repo_owner": "Talleyrand-34",
+    "repotime": "2024-10-14, 13:48:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1193,
+    "date_started": "2016-12-09",
+    "date_updated": "2024-10-14",
+    "description": "This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can be declaratively extended by additional operations, which can be used to reassemble and execute the existing functionalities according to project-specific requirements. But also completely new commands can be integrated quickly and easily via dependency injection.",
+    "forks_count": 17,
+    "html_url": "https://github.com/techdivision/import-cli-simple",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "PHP",
+    "repo_name": "import-cli-simple",
+    "repo_owner": "techdivision",
+    "repotime": "2024-10-14, 11:53:52",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-06-19",
+    "date_updated": "2024-10-13",
+    "description": "SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.",
+    "forks_count": 7,
+    "html_url": "https://github.com/nuts7/CVE-2023-27372",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-27372",
+    "repo_owner": "nuts7",
+    "repotime": "2024-10-13, 21:08:54",
+    "stargazers_count": 64,
+    "watchers_count": 64
+}
+{
+    "commits_count": 28,
+    "date_started": "2020-04-27",
+    "date_updated": "2024-10-13",
+    "description": "Websites Vulnerability Scanner ",
+    "forks_count": 14,
+    "html_url": "https://github.com/Err0r-ICA/SCANter",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "SCANter",
+    "repo_owner": "Err0r-ICA",
+    "repotime": "2024-10-13, 15:20:37",
+    "stargazers_count": 71,
+    "watchers_count": 71
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-10-12",
+    "date_updated": "2024-10-12",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vrund-Patel/CSV_Injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "HTML",
+    "repo_name": "CSV_Injection",
+    "repo_owner": "Vrund-Patel",
+    "repotime": "2024-10-12, 14:11:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 111,
+    "date_started": "2017-03-21",
+    "date_updated": "2024-10-12",
+    "description": "SSRF (Server Side Request Forgery) testing resources",
+    "forks_count": 481,
+    "html_url": "https://github.com/cujanovic/SSRF-Testing",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Testing",
+    "repo_owner": "cujanovic",
+    "repotime": "2024-10-12, 14:43:20",
+    "stargazers_count": 2408,
+    "watchers_count": 2408
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-08",
+    "date_updated": "2024-10-08",
+    "description": "The WP Booking Calendar plugin for WordPress is vulnerable to SQL Injection via the 'calendar_request_params[dates_ddmmyy_csv]' parameter in all versions up to, and including, 9.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attac",
+    "forks_count": 0,
+    "html_url": "https://github.com/sahar042/CVE-2024-1207",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-1207",
+    "repo_owner": "sahar042",
+    "repotime": "2024-10-08, 12:08:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-10-07",
+    "date_updated": "2024-10-08",
+    "description": "Explore web application vulnerabilities in this hands-on room. Learn to exploit session modification, SQL injection, DOM-based XSS, and JWT authentication flaws. Engage in practical challenges to identify and mitigate these weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/CRB-CyberSec-Dev/ctfcrb2024",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "TypeScript",
+    "repo_name": "ctfcrb2024",
+    "repo_owner": "CRB-CyberSec-Dev",
+    "repotime": "2024-10-08, 03:39:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 42,
+    "date_started": "2024-10-06",
+    "date_updated": "2024-10-07",
+    "description": "CSV Payload Injection",
+    "forks_count": 0,
+    "html_url": "https://github.com/debshubrac/csv-injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "csv-injection",
+    "repo_owner": "debshubrac",
+    "repotime": "2024-10-07, 04:28:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-05",
+    "date_updated": "2024-10-05",
+    "description": "A Python tool for exploiting Django RCE via deserialization vulnerabilities in session cookies, allowing remote code execution through forged cookies.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Spix0r/django-rce-exploit",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "django-rce-exploit",
+    "repo_owner": "Spix0r",
+    "repotime": "2024-10-05, 23:53:01",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 45,
+    "date_started": "2024-08-07",
+    "date_updated": "2024-10-02",
+    "description": "Fraktal's take on building an affordable Laser Fault Injection Rig",
+    "forks_count": 6,
+    "html_url": "https://github.com/fraktalcyber/lfi-rig",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi-rig",
+    "repo_owner": "fraktalcyber",
+    "repotime": "2024-10-02, 09:54:42",
+    "stargazers_count": 84,
+    "watchers_count": 84
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-31",
+    "date_updated": "2024-10-31",
+    "description": "Ivanti EPM Agent &amp;lt; 2020.1 SU6 Windows Local Privilege Escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/swgee/Ivanti-EPM-LPE",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": null,
+    "repo_name": "Ivanti-EPM-LPE",
+    "repo_owner": "swgee",
+    "repotime": "2024-10-31, 09:51:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-10-17",
+    "date_updated": "2024-10-30",
+    "description": "Conducted a comprehensive penetration testing engagement for Rekall Corporation. Identified and exploited critical vulnerabilities in their web application, Linux servers, and Windows servers, including SQL Injection and Remote Code Execution. Provided detailed reports and remediation strategies to enhance their security posture.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tylerbcrawford/rekall-penetration-testing",
+    "keywords": [
+        "Windows remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "rekall-penetration-testing",
+    "repo_owner": "tylerbcrawford",
+    "repotime": "2024-10-30, 10:26:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2024-10-10",
+    "date_updated": "2024-10-28",
+    "description": "A web application built with Flask for managing e-books, focusing on securing against vulnerabilities like SQL Injection, XSS, CSRF, Session Hijacking, and File Upload attacks. Features a user interface based on the &amp;quot;Ebook Landing&amp;quot; template and various security mechanisms for safe usage.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rafalgajos/secure-ebook-platform",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "secure-ebook-platform",
+    "repo_owner": "rafalgajos",
+    "repotime": "2024-10-28, 14:49:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-23",
+    "date_updated": "2024-10-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "repo_owner": "Bogdy88",
+    "repotime": "2024-10-23, 01:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-10-22",
+    "date_updated": "2024-10-22",
+    "description": "A flexible web app showing vulnerabilities such as cross site scripting, sql injections, and session management issues. Helpful to IT auditors honing web security skills and setting up 'capture the flag'.",
+    "forks_count": 0,
+    "html_url": "https://github.com/maxamin/vicnum14",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "vicnum14",
+    "repo_owner": "maxamin",
+    "repotime": "2024-10-22, 21:01:45",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-10-22",
+    "date_updated": "2024-10-22",
+    "description": "A flexible web app showing vulnerabilities such as cross site scripting, sql injections, and session management issues. Helpful to IT auditors honing web security skills and setting up 'capture the flag'.",
+    "forks_count": 0,
+    "html_url": "https://github.com/maxamin/vicnum13-Lab",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "vicnum13-Lab",
+    "repo_owner": "maxamin",
+    "repotime": "2024-10-22, 20:59:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-01-28",
+    "date_updated": "2024-10-21",
+    "description": "iOS jailbreak-free code injection framework. ",
+    "forks_count": 18,
+    "html_url": "https://github.com/camila314/enzyme",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "enzyme",
+    "repo_owner": "camila314",
+    "repotime": "2024-10-21, 18:04:57",
+    "stargazers_count": 114,
+    "watchers_count": 114
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-20",
+    "date_updated": "2024-10-20",
+    "description": "Path traversal is a security vulnerability where an attacker manipulates file paths to access files and directories outside the intended directory. By exploiting improper input validation, they can gain unauthorized access to sensitive files or system data, potentially leading to data breaches or system compromise.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Pasindu-coder/path-traversal",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "path-traversal",
+    "repo_owner": "Pasindu-coder",
+    "repotime": "2024-10-20, 15:25:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-20",
+    "date_updated": "2024-10-20",
+    "description": "XploitHunter is a Python-based tool designed to scan websites for common vulnerabilities, including SQL Injection, XSS, CSRF, insecure headers, directory traversal and insecure file uploads.",
+    "forks_count": 0,
+    "html_url": "https://github.com/greg1703/XploitHunter",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "XploitHunter",
+    "repo_owner": "greg1703",
+    "repotime": "2024-10-20, 11:54:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 132,
+    "date_started": "2021-02-23",
+    "date_updated": "2024-10-17",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 78,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2024-10-17, 06:04:00",
+    "stargazers_count": 797,
+    "watchers_count": 797
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-10-16",
+    "date_updated": "2024-10-17",
+    "description": "Vulnerability Scanner identifies web vulnerabilities like SQL Injection, XSS, CSRF, RCE, and Directory Traversal. Using advanced techniques, it assesses security and provides detailed reports to help developers mitigate potential threats effectively.",
+    "forks_count": 0,
+    "html_url": "https://github.com/harsh11x/vulnstrike",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "vulnstrike",
+    "repo_owner": "harsh11x",
+    "repotime": "2024-10-17, 03:05:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 64,
+    "date_started": "2024-08-28",
+    "date_updated": "2024-10-15",
+    "description": "a powerful tool designed to automate the detection of Server-Side Request Forgery (SSRF) and Open Redirect vulnerabilities",
+    "forks_count": 3,
+    "html_url": "https://github.com/KariiemGamal/0dSSRF",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Shell",
+    "repo_name": "0dSSRF",
+    "repo_owner": "KariiemGamal",
+    "repotime": "2024-10-15, 14:25:24",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-10-14",
+    "date_updated": "2024-10-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Talleyrand-34/counter-csv-injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Go",
+    "repo_name": "counter-csv-injection",
+    "repo_owner": "Talleyrand-34",
+    "repotime": "2024-10-14, 13:48:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1193,
+    "date_started": "2016-12-09",
+    "date_updated": "2024-10-14",
+    "description": "This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can be declaratively extended by additional operations, which can be used to reassemble and execute the existing functionalities according to project-specific requirements. But also completely new commands can be integrated quickly and easily via dependency injection.",
+    "forks_count": 17,
+    "html_url": "https://github.com/techdivision/import-cli-simple",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "PHP",
+    "repo_name": "import-cli-simple",
+    "repo_owner": "techdivision",
+    "repotime": "2024-10-14, 11:53:52",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-06-19",
+    "date_updated": "2024-10-13",
+    "description": "SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.",
+    "forks_count": 7,
+    "html_url": "https://github.com/nuts7/CVE-2023-27372",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-27372",
+    "repo_owner": "nuts7",
+    "repotime": "2024-10-13, 21:08:54",
+    "stargazers_count": 64,
+    "watchers_count": 64
+}
+{
+    "commits_count": 28,
+    "date_started": "2020-04-27",
+    "date_updated": "2024-10-13",
+    "description": "Websites Vulnerability Scanner ",
+    "forks_count": 14,
+    "html_url": "https://github.com/Err0r-ICA/SCANter",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "SCANter",
+    "repo_owner": "Err0r-ICA",
+    "repotime": "2024-10-13, 15:20:37",
+    "stargazers_count": 71,
+    "watchers_count": 71
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-10-12",
+    "date_updated": "2024-10-12",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vrund-Patel/CSV_Injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "HTML",
+    "repo_name": "CSV_Injection",
+    "repo_owner": "Vrund-Patel",
+    "repotime": "2024-10-12, 14:11:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 111,
+    "date_started": "2017-03-21",
+    "date_updated": "2024-10-12",
+    "description": "SSRF (Server Side Request Forgery) testing resources",
+    "forks_count": 482,
+    "html_url": "https://github.com/cujanovic/SSRF-Testing",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Testing",
+    "repo_owner": "cujanovic",
+    "repotime": "2024-10-12, 14:43:20",
+    "stargazers_count": 2412,
+    "watchers_count": 2412
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-08",
+    "date_updated": "2024-10-08",
+    "description": "The WP Booking Calendar plugin for WordPress is vulnerable to SQL Injection via the 'calendar_request_params[dates_ddmmyy_csv]' parameter in all versions up to, and including, 9.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attac",
+    "forks_count": 0,
+    "html_url": "https://github.com/sahar042/CVE-2024-1207",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-1207",
+    "repo_owner": "sahar042",
+    "repotime": "2024-10-08, 12:08:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-10-07",
+    "date_updated": "2024-10-08",
+    "description": "Explore web application vulnerabilities in this hands-on room. Learn to exploit session modification, SQL injection, DOM-based XSS, and JWT authentication flaws. Engage in practical challenges to identify and mitigate these weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/CRB-CyberSec-Dev/ctfcrb2024",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "TypeScript",
+    "repo_name": "ctfcrb2024",
+    "repo_owner": "CRB-CyberSec-Dev",
+    "repotime": "2024-10-08, 03:39:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 42,
+    "date_started": "2024-10-06",
+    "date_updated": "2024-10-07",
+    "description": "CSV Payload Injection",
+    "forks_count": 0,
+    "html_url": "https://github.com/debshubrac/csv-injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "csv-injection",
+    "repo_owner": "debshubrac",
+    "repotime": "2024-10-07, 04:28:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-05",
+    "date_updated": "2024-10-05",
+    "description": "A Python tool for exploiting Django RCE via deserialization vulnerabilities in session cookies, allowing remote code execution through forged cookies.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Spix0r/django-rce-exploit",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "django-rce-exploit",
+    "repo_owner": "Spix0r",
+    "repotime": "2024-10-05, 23:53:01",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 45,
+    "date_started": "2024-08-07",
+    "date_updated": "2024-10-02",
+    "description": "Fraktal's take on building an affordable Laser Fault Injection Rig",
+    "forks_count": 6,
+    "html_url": "https://github.com/fraktalcyber/lfi-rig",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi-rig",
+    "repo_owner": "fraktalcyber",
+    "repotime": "2024-10-02, 09:54:42",
+    "stargazers_count": 84,
+    "watchers_count": 84
+}

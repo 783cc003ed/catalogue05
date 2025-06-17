@@ -89,3 +89,185 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 354,
+    "date_started": "2019-09-17",
+    "date_updated": "2023-09-28",
+    "description": "This software allows you to perform a deauth attack with an ESP8266 against selected networks. The ESP8266 is a cheap and easy to use Wi-Fi SoC (System-on-a-Chip), programmable with the Arduino IDE. With this software flashed onto it, you can select a target network and start different attacks.  The deauth attack will, if the connection is vulnerable, disconnect the devices from the network. Because the attack is running constantly, the devices will be disconnected again and again. Depending on the network, that can either block a connection or slow it down.  The difference between deauthing and jamming: WiFi Jammers vs Deauthers | What's The Difference?  Other attacks also have been implemented, such as beacon and probe request flooding.  The deauth attack works by exploiting an old and known vulnerability in the 802.11 Wi-Fi protocol. Because these deauthentication frames, usually used to close a Wi-Fi connection safely, are unencrypted, it's very easy to spoof them. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/dfalt0/NodeMCU-ESP8266",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "NodeMCU-ESP8266",
+    "repo_owner": "dfalt0",
+    "repotime": "2023-09-28, 02:37:33",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 378,
+    "date_started": "2022-04-07",
+    "date_updated": "2023-09-12",
+    "description": "各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新",
+    "forks_count": 857,
+    "html_url": "https://github.com/helloexp/0day",
+    "keywords": [
+        "0day exploit",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day",
+    "repo_owner": "helloexp",
+    "repotime": "2023-09-12, 08:57:05",
+    "stargazers_count": 2180,
+    "watchers_count": 2180
+}
+{
+    "commits_count": 250,
+    "date_started": "2017-10-31",
+    "date_updated": "2023-09-11",
+    "description": "the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&amp;amp;java scripts, device memory extraction, data decryption, and encryption, etc. ",
+    "forks_count": 542,
+    "html_url": "https://github.com/charles2gan/GDA-android-reversing-Tool",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "GDA-android-reversing-Tool",
+    "repo_owner": "charles2gan",
+    "repotime": "2023-09-11, 12:59:51",
+    "stargazers_count": 4461,
+    "watchers_count": 4461
+}
+{
+    "commits_count": 42,
+    "date_started": "2020-06-11",
+    "date_updated": "2023-09-03",
+    "description": "Code-driven component injection toolkit for Unity.",
+    "forks_count": 6,
+    "html_url": "https://github.com/apkd/Medicine",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "Medicine",
+    "repo_owner": "apkd",
+    "repotime": "2023-09-03, 12:27:51",
+    "stargazers_count": 87,
+    "watchers_count": 87
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-09-02",
+    "date_updated": "2023-09-02",
+    "description": "FOR EDUCATIONAL PURPOSES ONLY - DO NOT USE MALICIOUSLY. This python script utilises a buffer overflow vulnerability in Winamp v5.5732 to a gain reverse shell, allowing the attacker to conduct Remote Code Execution (RCE) on the target machine",
+    "forks_count": 0,
+    "html_url": "https://github.com/SimonHalabi/Winamp-Buffer-Overflow-Exploit",
+    "keywords": [
+        "Win remote code execution",
+        "Win rce exploit",
+        "Win remote code execution exploit",
+        "Win rce",
+        "Win rce vulnerability",
+        "Win remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Winamp-Buffer-Overflow-Exploit",
+    "repo_owner": "SimonHalabi",
+    "repotime": "2023-09-02, 21:13:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 354,
+    "date_started": "2019-09-17",
+    "date_updated": "2023-09-28",
+    "description": "This software allows you to perform a deauth attack with an ESP8266 against selected networks. The ESP8266 is a cheap and easy to use Wi-Fi SoC (System-on-a-Chip), programmable with the Arduino IDE. With this software flashed onto it, you can select a target network and start different attacks.  The deauth attack will, if the connection is vulnerable, disconnect the devices from the network. Because the attack is running constantly, the devices will be disconnected again and again. Depending on the network, that can either block a connection or slow it down.  The difference between deauthing and jamming: WiFi Jammers vs Deauthers | What's The Difference?  Other attacks also have been implemented, such as beacon and probe request flooding.  The deauth attack works by exploiting an old and known vulnerability in the 802.11 Wi-Fi protocol. Because these deauthentication frames, usually used to close a Wi-Fi connection safely, are unencrypted, it's very easy to spoof them. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/dfalt0/NodeMCU-ESP8266",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "NodeMCU-ESP8266",
+    "repo_owner": "dfalt0",
+    "repotime": "2023-09-28, 02:37:33",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 378,
+    "date_started": "2022-04-07",
+    "date_updated": "2023-09-12",
+    "description": "各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新",
+    "forks_count": 857,
+    "html_url": "https://github.com/helloexp/0day",
+    "keywords": [
+        "0day exploit",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day",
+    "repo_owner": "helloexp",
+    "repotime": "2023-09-12, 08:57:05",
+    "stargazers_count": 2180,
+    "watchers_count": 2180
+}
+{
+    "commits_count": 250,
+    "date_started": "2017-10-31",
+    "date_updated": "2023-09-11",
+    "description": "the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&amp;amp;java scripts, device memory extraction, data decryption, and encryption, etc. ",
+    "forks_count": 542,
+    "html_url": "https://github.com/charles2gan/GDA-android-reversing-Tool",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "GDA-android-reversing-Tool",
+    "repo_owner": "charles2gan",
+    "repotime": "2023-09-11, 12:59:51",
+    "stargazers_count": 4467,
+    "watchers_count": 4467
+}
+{
+    "commits_count": 42,
+    "date_started": "2020-06-11",
+    "date_updated": "2023-09-03",
+    "description": "Code-driven component injection toolkit for Unity.",
+    "forks_count": 6,
+    "html_url": "https://github.com/apkd/Medicine",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "Medicine",
+    "repo_owner": "apkd",
+    "repotime": "2023-09-03, 12:27:51",
+    "stargazers_count": 87,
+    "watchers_count": 87
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-09-02",
+    "date_updated": "2023-09-02",
+    "description": "FOR EDUCATIONAL PURPOSES ONLY - DO NOT USE MALICIOUSLY. This python script utilises a buffer overflow vulnerability in Winamp v5.5732 to a gain reverse shell, allowing the attacker to conduct Remote Code Execution (RCE) on the target machine",
+    "forks_count": 0,
+    "html_url": "https://github.com/SimonHalabi/Winamp-Buffer-Overflow-Exploit",
+    "keywords": [
+        "Win remote code execution",
+        "Win rce exploit",
+        "Win remote code execution exploit",
+        "Win rce",
+        "Win rce vulnerability",
+        "Win remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Winamp-Buffer-Overflow-Exploit",
+    "repo_owner": "SimonHalabi",
+    "repotime": "2023-09-02, 21:13:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

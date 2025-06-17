@@ -122,3 +122,251 @@
     "stargazers_count": 117,
     "watchers_count": 117
 }
+{
+    "commits_count": 52,
+    "date_started": "2019-11-04",
+    "date_updated": "2019-06-29",
+    "description": "Path Traversal to Traversal Brute with 35,000 ( 35K ) payloads",
+    "forks_count": 0,
+    "html_url": "https://github.com/marciopocebon/Attackpath",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Attackpath",
+    "repo_owner": "marciopocebon",
+    "repotime": "2019-06-29, 16:08:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 131,
+    "date_started": "2017-10-04",
+    "date_updated": "2019-06-28",
+    "description": "OAKLAND BLOCKCHAIN DEVELOPERS: In this session we will be recreating a reentrancy attack on smart contract. http://www.blockchaindevelopers.io",
+    "forks_count": 10,
+    "html_url": "https://github.com/Oakland-Blockchain-Developers/Reentrancy-Attack-On-Smart-Contract",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Reentrancy-Attack-On-Smart-Contract",
+    "repo_owner": "Oakland-Blockchain-Developers",
+    "repotime": "2019-06-28, 03:42:02",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-06-27",
+    "date_updated": "2019-06-27",
+    "description": "A Zhiyuan OA Collaborative Office Remote Code Execution Vulnerability on Windows",
+    "forks_count": 13,
+    "html_url": "https://github.com/RayScri/A8-OA-seeyon-RCE",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "Windows rce",
+        "remote code execution vulnerability",
+        "Windows rce vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "A8-OA-seeyon-RCE",
+    "repo_owner": "RayScri",
+    "repotime": "2019-06-27, 21:53:06",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-06-13",
+    "date_updated": "2019-06-13",
+    "description": "A collection of methods of Code Injection on Windows",
+    "forks_count": 6,
+    "html_url": "https://github.com/thepwnrip/code-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "code-injection",
+    "repo_owner": "thepwnrip",
+    "repotime": "2019-06-13, 17:18:43",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-05-30",
+    "date_updated": "2019-06-04",
+    "description": "&amp;&#35;35; LIRI Bot  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Overview  In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Before You Begin  1. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.  2. Make a new GitHub repository called liri-node-app and clone it to your computer.  3. To retrieve the data that will power this app, you'll need to send requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. You'll find these Node packages crucial for your assignment.     * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)     * [Axios](https://www.npmjs.com/package/axios)       * You'll use Axios to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.a...",
+    "forks_count": 2,
+    "html_url": "https://github.com/CaptainEFFF/liri-node-app",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "liri-node-app",
+    "repo_owner": "CaptainEFFF",
+    "repotime": "2019-06-04, 15:50:11",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 24,
+    "date_started": "2018-11-14",
+    "date_updated": "2019-06-04",
+    "description": "A tool which creates a spoofed certificate of any online website and signs an Executable for AV Evasion. Works for both Windows and Linux",
+    "forks_count": 283,
+    "html_url": "https://github.com/paranoidninja/CarbonCopy",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "Python",
+    "repo_name": "CarbonCopy",
+    "repo_owner": "paranoidninja",
+    "repotime": "2019-06-04, 23:27:14",
+    "stargazers_count": 1370,
+    "watchers_count": 1370
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-05-12",
+    "date_updated": "2019-06-04",
+    "description": "A simple PHP application to learn SQL Injection detection and exploitation techniques.",
+    "forks_count": 57,
+    "html_url": "https://github.com/appsecco/sqlinjection-training-app",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "sqlinjection-training-app",
+    "repo_owner": "appsecco",
+    "repotime": "2019-06-04, 15:50:57",
+    "stargazers_count": 117,
+    "watchers_count": 117
+}
+{
+    "commits_count": 52,
+    "date_started": "2019-11-04",
+    "date_updated": "2019-06-29",
+    "description": "Path Traversal to Traversal Brute with 35,000 ( 35K ) payloads",
+    "forks_count": 0,
+    "html_url": "https://github.com/marciopocebon/Attackpath",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Attackpath",
+    "repo_owner": "marciopocebon",
+    "repotime": "2019-06-29, 16:08:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 131,
+    "date_started": "2017-10-04",
+    "date_updated": "2019-06-28",
+    "description": "OAKLAND BLOCKCHAIN DEVELOPERS: In this session we will be recreating a reentrancy attack on smart contract. http://www.blockchaindevelopers.io",
+    "forks_count": 10,
+    "html_url": "https://github.com/Oakland-Blockchain-Developers/Reentrancy-Attack-On-Smart-Contract",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Reentrancy-Attack-On-Smart-Contract",
+    "repo_owner": "Oakland-Blockchain-Developers",
+    "repotime": "2019-06-28, 03:42:02",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-06-27",
+    "date_updated": "2019-06-27",
+    "description": "A Zhiyuan OA Collaborative Office Remote Code Execution Vulnerability on Windows",
+    "forks_count": 13,
+    "html_url": "https://github.com/RayScri/A8-OA-seeyon-RCE",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "Windows rce",
+        "remote code execution vulnerability",
+        "Windows rce vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "A8-OA-seeyon-RCE",
+    "repo_owner": "RayScri",
+    "repotime": "2019-06-27, 21:53:06",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-06-13",
+    "date_updated": "2019-06-13",
+    "description": "A collection of methods of Code Injection on Windows",
+    "forks_count": 6,
+    "html_url": "https://github.com/thepwnrip/code-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "code-injection",
+    "repo_owner": "thepwnrip",
+    "repotime": "2019-06-13, 17:18:43",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-05-30",
+    "date_updated": "2019-06-04",
+    "description": "&amp;&#35;35; LIRI Bot  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Overview  In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Before You Begin  1. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.  2. Make a new GitHub repository called liri-node-app and clone it to your computer.  3. To retrieve the data that will power this app, you'll need to send requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. You'll find these Node packages crucial for your assignment.     * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)     * [Axios](https://www.npmjs.com/package/axios)       * You'll use Axios to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.a...",
+    "forks_count": 2,
+    "html_url": "https://github.com/CaptainEFFF/liri-node-app",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "liri-node-app",
+    "repo_owner": "CaptainEFFF",
+    "repotime": "2019-06-04, 15:50:11",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 24,
+    "date_started": "2018-11-14",
+    "date_updated": "2019-06-04",
+    "description": "A tool which creates a spoofed certificate of any online website and signs an Executable for AV Evasion. Works for both Windows and Linux",
+    "forks_count": 282,
+    "html_url": "https://github.com/paranoidninja/CarbonCopy",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "Python",
+    "repo_name": "CarbonCopy",
+    "repo_owner": "paranoidninja",
+    "repotime": "2019-06-04, 23:27:14",
+    "stargazers_count": 1374,
+    "watchers_count": 1374
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-05-12",
+    "date_updated": "2019-06-04",
+    "description": "A simple PHP application to learn SQL Injection detection and exploitation techniques.",
+    "forks_count": 57,
+    "html_url": "https://github.com/appsecco/sqlinjection-training-app",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "sqlinjection-training-app",
+    "repo_owner": "appsecco",
+    "repotime": "2019-06-04, 15:50:57",
+    "stargazers_count": 116,
+    "watchers_count": 116
+}

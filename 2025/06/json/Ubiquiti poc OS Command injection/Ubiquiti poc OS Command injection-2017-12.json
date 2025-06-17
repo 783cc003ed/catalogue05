@@ -136,3 +136,72 @@
     "stargazers_count": 21,
     "watchers_count": 21
 }
+{
+    "commits_count": 2,
+    "date_started": "2017-12-26",
+    "date_updated": "2017-12-26",
+    "description": "SSRF injection",
+    "forks_count": 3,
+    "html_url": "https://github.com/trapp3rhat/SSRF-Injection",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Injection",
+    "repo_owner": "trapp3rhat",
+    "repotime": "2017-12-26, 19:54:00",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 313,
+    "date_started": "2015-10-02",
+    "date_updated": "2017-12-22",
+    "description": "SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.",
+    "forks_count": 74,
+    "html_url": "https://github.com/bcoles/ssrf_proxy",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Ruby",
+    "repo_name": "ssrf_proxy",
+    "repo_owner": "bcoles",
+    "repotime": "2017-12-22, 12:56:31",
+    "stargazers_count": 464,
+    "watchers_count": 464
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-05-03",
+    "date_updated": "2017-12-19",
+    "description": "A set of tutorials about code injection for Windows.",
+    "forks_count": 72,
+    "html_url": "https://github.com/peperunas/injectopi",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "injectopi",
+    "repo_owner": "peperunas",
+    "repotime": "2017-12-19, 17:06:15",
+    "stargazers_count": 311,
+    "watchers_count": 311
+}
+{
+    "commits_count": 2,
+    "date_started": "2017-11-21",
+    "date_updated": "2017-12-06",
+    "description": "Dependency Injection Code from Visual Studio Toolbox Webcast",
+    "forks_count": 16,
+    "html_url": "https://github.com/miguelcastro67/DI-Webcast",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PowerShell",
+    "repo_name": "DI-Webcast",
+    "repo_owner": "miguelcastro67",
+    "repotime": "2017-12-06, 19:19:43",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}

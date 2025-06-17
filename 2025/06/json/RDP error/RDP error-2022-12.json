@@ -533,3 +533,1073 @@
     "stargazers_count": 69,
     "watchers_count": 69
 }
+{
+    "commits_count": 41,
+    "date_started": "2022-12-12",
+    "date_updated": "2022-12-30",
+    "description": "This repository contains proof of concept for zero days and CVEs that were found by Omar Hashem through Security Research",
+    "forks_count": 21,
+    "html_url": "https://github.com/omarhashem123/Security-Research",
+    "keywords": [
+        "0day proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Security-Research",
+    "repo_owner": "omarhashem123",
+    "repotime": "2022-12-30, 19:26:22",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-11-04",
+    "date_updated": "2022-12-30",
+    "description": "It is a Email Validation free project. In this project, we can check email addresses means that email address is right or wrong. Put email address in input field and if green light is on than it's right or if red light is on than it's wrong email address.",
+    "forks_count": 0,
+    "html_url": "https://github.com/BHOLU-SINGH/email_validation_with_javascript",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "email_validation_with_javascript",
+    "repo_owner": "BHOLU-SINGH",
+    "repotime": "2022-12-30, 17:01:49",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "Race condition in the ssl3_read_bytes function in s3_pkt.c in OpenSSL through 1.0.1g, when SSL_MODE_RELEASE_BUFFERS is enabled, allows remote attackers to inject data across sessions or cause a denial of service (use-after-free and parsing error) via an SSL connection in a multithreaded environment. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2010-5298",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2010-5298",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 02:47:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Digiwin BPM has inadequate filtering for URL parameter. An unauthenticated remote attacker can perform Blind SSRF attack to discover internal network topology base on URL error response. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32457",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32457",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:58:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A logic error in Nextcloud Server 19.0.0 caused a plaintext storage of the share password when it was given on the initial create API call. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-8183",
+    "keywords": [
+        "password plaintext storage"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-8183",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 13:30:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Use-after-free vulnerability in fs/block_dev.c in the Linux kernel before 5.8 allows local users to gain privileges or cause a denial of service by leveraging improper access to a certain error field. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-15436",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-15436",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 03:09:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA DCGM contains a vulnerability in nvhostengine, where a network user can cause detection of error conditions without action, which may lead to limited code execution, some denial of service, escalation of privileges, and limited impacts to both data confidentiality and integrity. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-21820",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-21820",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 03:05:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The Error Log Viewer WordPress plugin before 1.1.2 does not perform nonce check when deleting a log file and does not have path traversal prevention, which could allow attackers to make a logged in admin delete arbitrary text files on the web server. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-24761",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-24761",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:37:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "In Splunk Enterprise versions below 8.1.12, 8.2.9, and 9.0.2, an authenticated user can perform an extensible markup language (XML) external entity (XXE) injection via a custom View. The XXE injection causes Splunk Web to embed incorrect documents into an error. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-43570",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-43570",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:12:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Unauthenticated Error Log Disclosure vulnerability in Media Library Assistant plugin &amp;lt;= 3.00 on WordPress. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-41618",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-41618",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:55:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-28",
+    "description": "In mpu, there is a possible memory corruption due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07541753; Issue ID: ALPS07541753. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32620",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32620",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 00:05:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-28",
+    "description": "In Wi-Fi, there is a possible memory access violation due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07441637; Issue ID: ALPS07441637. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32633",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32633",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 00:04:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2017-05-26",
+    "date_updated": "2022-12-27",
+    "description": "SambaCry exploit and vulnerable container (CVE-2017-7494)",
+    "forks_count": 100,
+    "html_url": "https://github.com/opsxcq/exploit-CVE-2017-7494",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "exploit-CVE-2017-7494",
+    "repo_owner": "opsxcq",
+    "repotime": "2022-12-27, 15:25:09",
+    "stargazers_count": 381,
+    "watchers_count": 381
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An attacker could have abused XSLT error handling to associate attacker-controlled content with another origin which was displayed in the address bar. This could have been used to fool the user into submitting data intended for the spoofed origin. This vulnerability affects Thunderbird &amp;lt; 102.2, Thunderbird &amp;lt; 91.13, Fir CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38472",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38472",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 12:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 23,
+    "date_started": "2022-12-22",
+    "date_updated": "2022-12-26",
+    "description": "Exploits GitLab authenticated RCE vulnerability known as CVE-2022-2884.",
+    "forks_count": 5,
+    "html_url": "https://github.com/m3ssap0/gitlab_rce_cve-2022-2884",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "gitlab_rce_cve-2022-2884",
+    "repo_owner": "m3ssap0",
+    "repotime": "2022-12-26, 10:48:47",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-12-24",
+    "date_updated": "2022-12-24",
+    "description": "-- FOR EDUCATIONAL USE ONLY -- Proof-of-Concept RCE for CVE-2022-1388, plus some added functionality for blue and red teams",
+    "forks_count": 1,
+    "html_url": "https://github.com/vaelwolf/CVE-2022-1388",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-1388",
+    "repo_owner": "vaelwolf",
+    "repotime": "2022-12-24, 21:43:04",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 23,
+    "date_started": "2022-08-17",
+    "date_updated": "2022-12-24",
+    "description": "CVE-2022-42046 Proof of Concept of wfshbr64.sys local privilege escalation via DKOM",
+    "forks_count": 26,
+    "html_url": "https://github.com/kkent030315/CVE-2022-42046",
+    "keywords": [
+        "escalation of privileges proof of concept"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2022-42046",
+    "repo_owner": "kkent030315",
+    "repotime": "2022-12-24, 19:24:58",
+    "stargazers_count": 162,
+    "watchers_count": 162
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-11-07",
+    "date_updated": "2022-12-19",
+    "description": "A bunch of Docker images vulnerable to privilege escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/DreadFog/privesc_challenges",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "privesc_challenges",
+    "repo_owner": "DreadFog",
+    "repotime": "2022-12-19, 17:08:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 187,
+    "date_started": "2022-12-04",
+    "date_updated": "2022-12-17",
+    "description": "A library of different types of credit card designs. Unauthenticated users can only preview cards but can't download and use other features until they register and are verified. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/zuri-training/TEAM-BEARW2",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "CSS",
+    "repo_name": "TEAM-BEARW2",
+    "repo_owner": "zuri-training",
+    "repotime": "2022-12-17, 16:15:07",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 14,
+    "date_started": "2022-10-22",
+    "date_updated": "2022-12-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/User-XXI/WinScanLPE",
+    "keywords": [
+        "Win lpe"
+    ],
+    "language": "PowerShell",
+    "repo_name": "WinScanLPE",
+    "repo_owner": "User-XXI",
+    "repotime": "2022-12-14, 17:07:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-12-12",
+    "date_updated": "2022-12-12",
+    "description": "VMware NSX Manager XStream Unauthenticated Remote Code Execution Exploit ",
+    "forks_count": 0,
+    "html_url": "https://github.com/MRvirusIR/VMware-NSX-Manager-XStream",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Hack",
+    "repo_name": "VMware-NSX-Manager-XStream",
+    "repo_owner": "MRvirusIR",
+    "repotime": "2022-12-12, 13:30:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-10-27",
+    "date_updated": "2022-12-11",
+    "description": "Using session clickstream data to predict shopper intent.",
+    "forks_count": 0,
+    "html_url": "https://github.com/jonathanwozny6/ShopperIntentPredictionClickstream",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "ShopperIntentPredictionClickstream",
+    "repo_owner": "jonathanwozny6",
+    "repotime": "2022-12-11, 20:34:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-12-10",
+    "date_updated": "2022-12-11",
+    "description": "Creating Zip archives to exploit Zip-based Path Traversal vulnerabilities!",
+    "forks_count": 0,
+    "html_url": "https://github.com/JacobEbben/Zip_Slipper",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Zip_Slipper",
+    "repo_owner": "JacobEbben",
+    "repotime": "2022-12-11, 18:00:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-06-07",
+    "date_updated": "2022-12-11",
+    "description": "CVE-2021-41773 | Apache HTTP Server 2.4.49 is vulnerable to Path Traversal and Remote Code execution attacks ",
+    "forks_count": 1,
+    "html_url": "https://github.com/Habib0x0/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability",
+        "path traversal attack",
+        "remote code execution vulnerability"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "Habib0x0",
+    "repotime": "2022-12-11, 20:02:11",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 58,
+    "date_started": "2020-03-21",
+    "date_updated": "2022-12-10",
+    "description": "Small tool to automate SSRF wordpress and XMLRPC finder",
+    "forks_count": 12,
+    "html_url": "https://github.com/incogbyte/quickpress",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "quickpress",
+    "repo_owner": "incogbyte",
+    "repotime": "2022-12-10, 14:22:47",
+    "stargazers_count": 81,
+    "watchers_count": 81
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-24",
+    "date_updated": "2022-12-08",
+    "description": "A POC for the new injection technique, abusing windows fork API to evade EDRs. https://www.blackhat.com/eu-22/briefings/schedule/index.html&amp;&#35;35;dirty-vanity-a-new-approach-to-code-injection--edr-bypass-28417",
+    "forks_count": 87,
+    "html_url": "https://github.com/deepinstinct/Dirty-Vanity",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "Dirty-Vanity",
+    "repo_owner": "deepinstinct",
+    "repotime": "2022-12-08, 02:18:38",
+    "stargazers_count": 638,
+    "watchers_count": 638
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-12-06",
+    "date_updated": "2022-12-07",
+    "description": "Contains files for CS 411 Analysis of Algorithms at UAF",
+    "forks_count": 0,
+    "html_url": "https://github.com/lbunderwood/CS-411",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "Python",
+    "repo_name": "CS-411",
+    "repo_owner": "lbunderwood",
+    "repotime": "2022-12-07, 14:31:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-12-06",
+    "date_updated": "2022-12-06",
+    "description": "Local File Inclusion in WordPress Plugin Site Editor 1.1.1",
+    "forks_count": 0,
+    "html_url": "https://github.com/JacobEbben/CVE-2018-7422",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-7422",
+    "repo_owner": "JacobEbben",
+    "repotime": "2022-12-06, 21:28:55",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 18,
+    "date_started": "2018-09-03",
+    "date_updated": "2022-12-05",
+    "description": "Primefaces &amp;lt;= 5.2.21, 5.3.8 or 6.0 - Remote Code Execution Exploit",
+    "forks_count": 25,
+    "html_url": "https://github.com/pimps/CVE-2017-1000486",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-1000486",
+    "repo_owner": "pimps",
+    "repotime": "2022-12-05, 06:32:52",
+    "stargazers_count": 91,
+    "watchers_count": 91
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-11-21",
+    "date_updated": "2022-12-03",
+    "description": "Druva inSync Windows Client 6.6.3 - Local Privilege Escalation (PowerShell) RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-",
+    "repo_owner": "yevh",
+    "repotime": "2022-12-03, 13:45:32",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-10-04",
+    "date_updated": "2022-12-03",
+    "description": "Rusty Joomla RCE Exploit",
+    "forks_count": 20,
+    "html_url": "https://github.com/kiks7/rusty_joomla_rce",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Ruby",
+    "repo_name": "rusty_joomla_rce",
+    "repo_owner": "kiks7",
+    "repotime": "2022-12-03, 07:45:31",
+    "stargazers_count": 69,
+    "watchers_count": 69
+}
+{
+    "commits_count": 41,
+    "date_started": "2022-12-12",
+    "date_updated": "2022-12-30",
+    "description": "This repository contains proof of concept for zero days and CVEs that were found by Omar Hashem through Security Research",
+    "forks_count": 21,
+    "html_url": "https://github.com/omarhashem123/Security-Research",
+    "keywords": [
+        "0day proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Security-Research",
+    "repo_owner": "omarhashem123",
+    "repotime": "2022-12-30, 19:26:22",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-11-04",
+    "date_updated": "2022-12-30",
+    "description": "It is a Email Validation free project. In this project, we can check email addresses means that email address is right or wrong. Put email address in input field and if green light is on than it's right or if red light is on than it's wrong email address.",
+    "forks_count": 0,
+    "html_url": "https://github.com/BHOLU-SINGH/email_validation_with_javascript",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "email_validation_with_javascript",
+    "repo_owner": "BHOLU-SINGH",
+    "repotime": "2022-12-30, 17:01:49",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "Race condition in the ssl3_read_bytes function in s3_pkt.c in OpenSSL through 1.0.1g, when SSL_MODE_RELEASE_BUFFERS is enabled, allows remote attackers to inject data across sessions or cause a denial of service (use-after-free and parsing error) via an SSL connection in a multithreaded environment. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2010-5298",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2010-5298",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 02:47:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Digiwin BPM has inadequate filtering for URL parameter. An unauthenticated remote attacker can perform Blind SSRF attack to discover internal network topology base on URL error response. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32457",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32457",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:58:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A logic error in Nextcloud Server 19.0.0 caused a plaintext storage of the share password when it was given on the initial create API call. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-8183",
+    "keywords": [
+        "password plaintext storage"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-8183",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 13:30:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Use-after-free vulnerability in fs/block_dev.c in the Linux kernel before 5.8 allows local users to gain privileges or cause a denial of service by leveraging improper access to a certain error field. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-15436",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-15436",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 03:09:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA DCGM contains a vulnerability in nvhostengine, where a network user can cause detection of error conditions without action, which may lead to limited code execution, some denial of service, escalation of privileges, and limited impacts to both data confidentiality and integrity. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-21820",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-21820",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 03:05:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The Error Log Viewer WordPress plugin before 1.1.2 does not perform nonce check when deleting a log file and does not have path traversal prevention, which could allow attackers to make a logged in admin delete arbitrary text files on the web server. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-24761",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-24761",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:37:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "In Splunk Enterprise versions below 8.1.12, 8.2.9, and 9.0.2, an authenticated user can perform an extensible markup language (XML) external entity (XXE) injection via a custom View. The XXE injection causes Splunk Web to embed incorrect documents into an error. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-43570",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-43570",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:12:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Unauthenticated Error Log Disclosure vulnerability in Media Library Assistant plugin &amp;lt;= 3.00 on WordPress. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-41618",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-41618",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:55:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-28",
+    "description": "In mpu, there is a possible memory corruption due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07541753; Issue ID: ALPS07541753. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32620",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32620",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 00:05:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-28",
+    "description": "In Wi-Fi, there is a possible memory access violation due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07441637; Issue ID: ALPS07441637. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32633",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32633",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 00:04:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2017-05-26",
+    "date_updated": "2022-12-27",
+    "description": "SambaCry exploit and vulnerable container (CVE-2017-7494)",
+    "forks_count": 100,
+    "html_url": "https://github.com/opsxcq/exploit-CVE-2017-7494",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "exploit-CVE-2017-7494",
+    "repo_owner": "opsxcq",
+    "repotime": "2022-12-27, 15:25:09",
+    "stargazers_count": 381,
+    "watchers_count": 381
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An attacker could have abused XSLT error handling to associate attacker-controlled content with another origin which was displayed in the address bar. This could have been used to fool the user into submitting data intended for the spoofed origin. This vulnerability affects Thunderbird &amp;lt; 102.2, Thunderbird &amp;lt; 91.13, Fir CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38472",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38472",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 12:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 23,
+    "date_started": "2022-12-22",
+    "date_updated": "2022-12-26",
+    "description": "Exploits GitLab authenticated RCE vulnerability known as CVE-2022-2884.",
+    "forks_count": 5,
+    "html_url": "https://github.com/m3ssap0/gitlab_rce_cve-2022-2884",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "gitlab_rce_cve-2022-2884",
+    "repo_owner": "m3ssap0",
+    "repotime": "2022-12-26, 10:48:47",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-12-24",
+    "date_updated": "2022-12-24",
+    "description": "-- FOR EDUCATIONAL USE ONLY -- Proof-of-Concept RCE for CVE-2022-1388, plus some added functionality for blue and red teams",
+    "forks_count": 1,
+    "html_url": "https://github.com/vaelwolf/CVE-2022-1388",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-1388",
+    "repo_owner": "vaelwolf",
+    "repotime": "2022-12-24, 21:43:04",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 23,
+    "date_started": "2022-08-17",
+    "date_updated": "2022-12-24",
+    "description": "CVE-2022-42046 Proof of Concept of wfshbr64.sys local privilege escalation via DKOM",
+    "forks_count": 26,
+    "html_url": "https://github.com/kkent030315/CVE-2022-42046",
+    "keywords": [
+        "escalation of privileges proof of concept"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2022-42046",
+    "repo_owner": "kkent030315",
+    "repotime": "2022-12-24, 19:24:58",
+    "stargazers_count": 162,
+    "watchers_count": 162
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-11-07",
+    "date_updated": "2022-12-19",
+    "description": "A bunch of Docker images vulnerable to privilege escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/DreadFog/privesc_challenges",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "privesc_challenges",
+    "repo_owner": "DreadFog",
+    "repotime": "2022-12-19, 17:08:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 187,
+    "date_started": "2022-12-04",
+    "date_updated": "2022-12-17",
+    "description": "A library of different types of credit card designs. Unauthenticated users can only preview cards but can't download and use other features until they register and are verified. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/zuri-training/TEAM-BEARW2",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "CSS",
+    "repo_name": "TEAM-BEARW2",
+    "repo_owner": "zuri-training",
+    "repotime": "2022-12-17, 16:15:07",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 14,
+    "date_started": "2022-10-22",
+    "date_updated": "2022-12-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/User-XXI/WinScanLPE",
+    "keywords": [
+        "Win lpe"
+    ],
+    "language": "PowerShell",
+    "repo_name": "WinScanLPE",
+    "repo_owner": "User-XXI",
+    "repotime": "2022-12-14, 17:07:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-12-12",
+    "date_updated": "2022-12-12",
+    "description": "VMware NSX Manager XStream Unauthenticated Remote Code Execution Exploit ",
+    "forks_count": 0,
+    "html_url": "https://github.com/MRvirusIR/VMware-NSX-Manager-XStream",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Hack",
+    "repo_name": "VMware-NSX-Manager-XStream",
+    "repo_owner": "MRvirusIR",
+    "repotime": "2022-12-12, 13:30:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-10-27",
+    "date_updated": "2022-12-11",
+    "description": "Using session clickstream data to predict shopper intent.",
+    "forks_count": 0,
+    "html_url": "https://github.com/jonathanwozny6/ShopperIntentPredictionClickstream",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "ShopperIntentPredictionClickstream",
+    "repo_owner": "jonathanwozny6",
+    "repotime": "2022-12-11, 20:34:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-12-10",
+    "date_updated": "2022-12-11",
+    "description": "Creating Zip archives to exploit Zip-based Path Traversal vulnerabilities!",
+    "forks_count": 0,
+    "html_url": "https://github.com/JacobEbben/Zip_Slipper",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Zip_Slipper",
+    "repo_owner": "JacobEbben",
+    "repotime": "2022-12-11, 18:00:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-06-07",
+    "date_updated": "2022-12-11",
+    "description": "CVE-2021-41773 | Apache HTTP Server 2.4.49 is vulnerable to Path Traversal and Remote Code execution attacks ",
+    "forks_count": 1,
+    "html_url": "https://github.com/Habib0x0/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability",
+        "path traversal attack",
+        "remote code execution vulnerability"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "Habib0x0",
+    "repotime": "2022-12-11, 20:02:11",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 58,
+    "date_started": "2020-03-21",
+    "date_updated": "2022-12-10",
+    "description": "Small tool to automate SSRF wordpress and XMLRPC finder",
+    "forks_count": 12,
+    "html_url": "https://github.com/incogbyte/quickpress",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "quickpress",
+    "repo_owner": "incogbyte",
+    "repotime": "2022-12-10, 14:22:47",
+    "stargazers_count": 81,
+    "watchers_count": 81
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-24",
+    "date_updated": "2022-12-08",
+    "description": "A POC for the new injection technique, abusing windows fork API to evade EDRs. https://www.blackhat.com/eu-22/briefings/schedule/index.html&amp;&#35;35;dirty-vanity-a-new-approach-to-code-injection--edr-bypass-28417",
+    "forks_count": 87,
+    "html_url": "https://github.com/deepinstinct/Dirty-Vanity",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "Dirty-Vanity",
+    "repo_owner": "deepinstinct",
+    "repotime": "2022-12-08, 02:18:38",
+    "stargazers_count": 638,
+    "watchers_count": 638
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-12-06",
+    "date_updated": "2022-12-07",
+    "description": "Contains files for CS 411 Analysis of Algorithms at UAF",
+    "forks_count": 0,
+    "html_url": "https://github.com/lbunderwood/CS-411",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "Python",
+    "repo_name": "CS-411",
+    "repo_owner": "lbunderwood",
+    "repotime": "2022-12-07, 14:31:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-12-06",
+    "date_updated": "2022-12-06",
+    "description": "Local File Inclusion in WordPress Plugin Site Editor 1.1.1",
+    "forks_count": 0,
+    "html_url": "https://github.com/JacobEbben/CVE-2018-7422",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-7422",
+    "repo_owner": "JacobEbben",
+    "repotime": "2022-12-06, 21:28:55",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 18,
+    "date_started": "2018-09-03",
+    "date_updated": "2022-12-05",
+    "description": "Primefaces &amp;lt;= 5.2.21, 5.3.8 or 6.0 - Remote Code Execution Exploit",
+    "forks_count": 25,
+    "html_url": "https://github.com/pimps/CVE-2017-1000486",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-1000486",
+    "repo_owner": "pimps",
+    "repotime": "2022-12-05, 06:32:52",
+    "stargazers_count": 91,
+    "watchers_count": 91
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-11-21",
+    "date_updated": "2022-12-03",
+    "description": "Druva inSync Windows Client 6.6.3 - Local Privilege Escalation (PowerShell) RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-",
+    "repo_owner": "yevh",
+    "repotime": "2022-12-03, 13:45:32",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-10-04",
+    "date_updated": "2022-12-03",
+    "description": "Rusty Joomla RCE Exploit",
+    "forks_count": 20,
+    "html_url": "https://github.com/kiks7/rusty_joomla_rce",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Ruby",
+    "repo_name": "rusty_joomla_rce",
+    "repo_owner": "kiks7",
+    "repotime": "2022-12-03, 07:45:31",
+    "stargazers_count": 69,
+    "watchers_count": 69
+}

@@ -306,3 +306,157 @@
     "stargazers_count": 9,
     "watchers_count": 9
 }
+{
+    "commits_count": 18,
+    "date_started": "2018-06-28",
+    "date_updated": "2021-02-24",
+    "description": "SQL Injection Payload List",
+    "forks_count": 57,
+    "html_url": "https://github.com/omurugur/SQL_Injection_Payload",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL_Injection_Payload",
+    "repo_owner": "omurugur",
+    "repotime": "2021-02-24, 00:49:49",
+    "stargazers_count": 110,
+    "watchers_count": 110
+}
+{
+    "commits_count": 34,
+    "date_started": "2021-01-12",
+    "date_updated": "2021-02-22",
+    "description": "SSRFuzz is a tool to find Server Side Request Forgery vulnerabilities, with CRLF chaining capabilities",
+    "forks_count": 20,
+    "html_url": "https://github.com/ryandamour/ssrfuzz",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "ssrfuzz",
+    "repo_owner": "ryandamour",
+    "repotime": "2021-02-22, 08:54:42",
+    "stargazers_count": 183,
+    "watchers_count": 183
+}
+{
+    "commits_count": 54,
+    "date_started": "2019-07-22",
+    "date_updated": "2021-02-20",
+    "description": "Dios sql injection",
+    "forks_count": 10,
+    "html_url": "https://github.com/Rizsyad/diosqli",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "diosqli",
+    "repo_owner": "Rizsyad",
+    "repotime": "2021-02-20, 19:56:53",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 4,
+    "date_started": "2015-09-11",
+    "date_updated": "2021-02-20",
+    "description": "CSCI Template made for iOSGods.com users!",
+    "forks_count": 4,
+    "html_url": "https://github.com/iOSGods/CS-Code-Injection-Template",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "CS-Code-Injection-Template",
+    "repo_owner": "iOSGods",
+    "repotime": "2021-02-20, 04:38:07",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 60,
+    "date_started": "2019-10-25",
+    "date_updated": "2021-02-16",
+    "description": "Hello my friends, it is my repo about sql injections.  Call me in Telegram: @anakein",
+    "forks_count": 17,
+    "html_url": "https://github.com/an4kein/_sql_injections",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "_sql_injections",
+    "repo_owner": "an4kein",
+    "repotime": "2021-02-16, 22:12:12",
+    "stargazers_count": 44,
+    "watchers_count": 44
+}
+{
+    "commits_count": 31,
+    "date_started": "2012-08-07",
+    "date_updated": "2021-02-14",
+    "description": "Automatic generate dll wrapper for code injection.",
+    "forks_count": 55,
+    "html_url": "https://github.com/mavenlin/wrap_dll",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "wrap_dll",
+    "repo_owner": "mavenlin",
+    "repotime": "2021-02-14, 05:44:54",
+    "stargazers_count": 168,
+    "watchers_count": 168
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-02-10",
+    "date_updated": "2021-02-12",
+    "description": "Powerfull Automatic Sql injection Tools Pack",
+    "forks_count": 45,
+    "html_url": "https://github.com/Agressiv1njector/psqli-pro",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Shell",
+    "repo_name": "psqli-pro",
+    "repo_owner": "Agressiv1njector",
+    "repotime": "2021-02-12, 12:59:04",
+    "stargazers_count": 116,
+    "watchers_count": 116
+}
+{
+    "commits_count": 37,
+    "date_started": "2020-12-21",
+    "date_updated": "2021-02-04",
+    "description": "Workshop given at Hack in Paris 2019",
+    "forks_count": 41,
+    "html_url": "https://github.com/GoSecure/xxe-workshop",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xxe-workshop",
+    "repo_owner": "GoSecure",
+    "repotime": "2021-02-04, 15:10:48",
+    "stargazers_count": 122,
+    "watchers_count": 122
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-01-31",
+    "date_updated": "2021-02-02",
+    "description": "A great setup for SQL Injection, xss and xxe (plus a few more) on Kali",
+    "forks_count": 2,
+    "html_url": "https://github.com/AssassinUKG/Sqli_Best_Setup",
+    "keywords": [
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "Sqli_Best_Setup",
+    "repo_owner": "AssassinUKG",
+    "repotime": "2021-02-02, 18:48:13",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}

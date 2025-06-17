@@ -122,3 +122,251 @@
     "stargazers_count": 31,
     "watchers_count": 31
 }
+{
+    "commits_count": 6,
+    "date_started": "2018-11-22",
+    "date_updated": "2018-11-22",
+    "description": "Automated exploitation of Local File Inclusion bugs",
+    "forks_count": 0,
+    "html_url": "https://github.com/stefan2200/Bud",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Bud",
+    "repo_owner": "stefan2200",
+    "repotime": "2018-11-22, 23:20:11",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 236,
+    "date_started": "2015-03-27",
+    "date_updated": "2018-11-14",
+    "description": "fimap is a little python tool which can find, prepare, audit, exploit and even google automatically for local and remote file inclusion bugs in webapps.",
+    "forks_count": 101,
+    "html_url": "https://github.com/kurobeats/fimap",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "fimap",
+    "repo_owner": "kurobeats",
+    "repotime": "2018-11-14, 20:27:58",
+    "stargazers_count": 550,
+    "watchers_count": 550
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-11-13",
+    "date_updated": "2018-11-13",
+    "description": "Winrar 0day exploit/payload maker",
+    "forks_count": 6,
+    "html_url": "https://github.com/ethereumbandit/winrar-SFX-0day-exploiter",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "Win 0day exploitation",
+        "Win 0day",
+        "Win 0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "winrar-SFX-0day-exploiter",
+    "repo_owner": "ethereumbandit",
+    "repotime": "2018-11-13, 12:19:53",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 28,
+    "date_started": "2018-02-23",
+    "date_updated": "2018-11-12",
+    "description": "CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6 leading to sandbox escape, privilege escalation, and codesigning bypass.",
+    "forks_count": 44,
+    "html_url": "https://github.com/bazad/blanket",
+    "keywords": [
+        "sandbox escape vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "blanket",
+    "repo_owner": "bazad",
+    "repotime": "2018-11-12, 16:25:17",
+    "stargazers_count": 255,
+    "watchers_count": 255
+}
+{
+    "commits_count": 49,
+    "date_started": "2018-07-04",
+    "date_updated": "2018-11-11",
+    "description": "A service which is vulnerable to XML External Entity (XXE) attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mprechtl/information-leakage",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Java",
+    "repo_name": "information-leakage",
+    "repo_owner": "mprechtl",
+    "repotime": "2018-11-11, 19:23:30",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-11-06",
+    "date_updated": "2018-11-06",
+    "description": "an RCE (remote command execution) approach of CVE-2018-7750",
+    "forks_count": 8,
+    "html_url": "https://github.com/jm33-m0/CVE-2018-7750",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-7750",
+    "repo_owner": "jm33-m0",
+    "repotime": "2018-11-06, 18:10:26",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 36,
+    "date_started": "2018-09-12",
+    "date_updated": "2018-11-04",
+    "description": "Crascan is a simple LFI, RFI, RCE, and Joomla Components vulnerability scanner.",
+    "forks_count": 11,
+    "html_url": "https://github.com/aryanrtm/Crascan",
+    "keywords": [
+        "lfi",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "Crascan",
+    "repo_owner": "aryanrtm",
+    "repotime": "2018-11-04, 17:03:12",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-11-22",
+    "date_updated": "2018-11-22",
+    "description": "Automated exploitation of Local File Inclusion bugs",
+    "forks_count": 0,
+    "html_url": "https://github.com/stefan2200/Bud",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Bud",
+    "repo_owner": "stefan2200",
+    "repotime": "2018-11-22, 23:20:11",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 236,
+    "date_started": "2015-03-27",
+    "date_updated": "2018-11-14",
+    "description": "fimap is a little python tool which can find, prepare, audit, exploit and even google automatically for local and remote file inclusion bugs in webapps.",
+    "forks_count": 101,
+    "html_url": "https://github.com/kurobeats/fimap",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "fimap",
+    "repo_owner": "kurobeats",
+    "repotime": "2018-11-14, 20:27:58",
+    "stargazers_count": 550,
+    "watchers_count": 550
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-11-13",
+    "date_updated": "2018-11-13",
+    "description": "Winrar 0day exploit/payload maker",
+    "forks_count": 6,
+    "html_url": "https://github.com/ethereumbandit/winrar-SFX-0day-exploiter",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "Win 0day exploitation",
+        "Win 0day",
+        "Win 0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "winrar-SFX-0day-exploiter",
+    "repo_owner": "ethereumbandit",
+    "repotime": "2018-11-13, 12:19:53",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 28,
+    "date_started": "2018-02-23",
+    "date_updated": "2018-11-12",
+    "description": "CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6 leading to sandbox escape, privilege escalation, and codesigning bypass.",
+    "forks_count": 44,
+    "html_url": "https://github.com/bazad/blanket",
+    "keywords": [
+        "sandbox escape vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "blanket",
+    "repo_owner": "bazad",
+    "repotime": "2018-11-12, 16:25:17",
+    "stargazers_count": 255,
+    "watchers_count": 255
+}
+{
+    "commits_count": 49,
+    "date_started": "2018-07-04",
+    "date_updated": "2018-11-11",
+    "description": "A service which is vulnerable to XML External Entity (XXE) attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mprechtl/information-leakage",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Java",
+    "repo_name": "information-leakage",
+    "repo_owner": "mprechtl",
+    "repotime": "2018-11-11, 19:23:30",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-11-06",
+    "date_updated": "2018-11-06",
+    "description": "an RCE (remote command execution) approach of CVE-2018-7750",
+    "forks_count": 8,
+    "html_url": "https://github.com/jm33-m0/CVE-2018-7750",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-7750",
+    "repo_owner": "jm33-m0",
+    "repotime": "2018-11-06, 18:10:26",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 36,
+    "date_started": "2018-09-12",
+    "date_updated": "2018-11-04",
+    "description": "Crascan is a simple LFI, RFI, RCE, and Joomla Components vulnerability scanner.",
+    "forks_count": 11,
+    "html_url": "https://github.com/aryanrtm/Crascan",
+    "keywords": [
+        "lfi",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "Crascan",
+    "repo_owner": "aryanrtm",
+    "repotime": "2018-11-04, 17:03:12",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}

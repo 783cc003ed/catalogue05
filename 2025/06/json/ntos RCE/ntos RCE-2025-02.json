@@ -106,3 +106,219 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 176,
+    "date_started": "2015-05-28",
+    "date_updated": "2025-02-24",
+    "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
+    "forks_count": 549,
+    "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
+    "keywords": [
+        "vulnerability",
+        "Windows uaf vulnerability",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "uaf vulnerability",
+        "Windows uaf"
+    ],
+    "language": "C",
+    "repo_name": "HackSysExtremeVulnerableDriver",
+    "repo_owner": "hacksysteam",
+    "repotime": "2025-02-24, 17:49:16",
+    "stargazers_count": 2687,
+    "watchers_count": 2687
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-02-21",
+    "date_updated": "2025-02-22",
+    "description": "This script attempts to exploit Docker containers for privilege escalation by utilizing Docker images that may allow access to the host filesystem with privileged privileges. It tests a predefined list of Docker images and checks if the system is vulnerable to privilege escalation via chroot.",
+    "forks_count": 1,
+    "html_url": "https://github.com/4m3rr0r/ZombifyDocker",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "ZombifyDocker",
+    "repo_owner": "4m3rr0r",
+    "repotime": "2025-02-22, 11:18:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-02-09",
+    "date_updated": "2025-02-10",
+    "description": "Automatic Local File Inclusion Enumerator. Scan websites for LFI vulnerabilities and path traversals.",
+    "forks_count": 0,
+    "html_url": "https://github.com/4wayhandshake/Alfie",
+    "keywords": [
+        "path traversal vulnerability",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Alfie",
+    "repo_owner": "4wayhandshake",
+    "repotime": "2025-02-10, 02:34:02",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-02-05",
+    "description": "📝 RCE - Remote Code Execution Detection Report (Windows VM)",
+    "forks_count": 0,
+    "html_url": "https://github.com/ToubaHam/RCE-Detection-Report",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": null,
+    "repo_name": "RCE-Detection-Report",
+    "repo_owner": "ToubaHam",
+    "repotime": "2025-02-05, 00:06:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-01-30",
+    "date_updated": "2025-02-03",
+    "description": "What spatial scales does RCE apply? A data analysis project.",
+    "forks_count": 0,
+    "html_url": "https://github.com/amatthews20/RCE_project",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": null,
+    "repo_name": "RCE_project",
+    "repo_owner": "amatthews20",
+    "repotime": "2025-02-03, 12:56:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 176,
+    "date_started": "2015-05-28",
+    "date_updated": "2025-02-24",
+    "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
+    "forks_count": 549,
+    "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
+    "keywords": [
+        "vulnerability",
+        "Windows uaf vulnerability",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "uaf vulnerability",
+        "Windows uaf"
+    ],
+    "language": "C",
+    "repo_name": "HackSysExtremeVulnerableDriver",
+    "repo_owner": "hacksysteam",
+    "repotime": "2025-02-24, 17:49:16",
+    "stargazers_count": 2688,
+    "watchers_count": 2688
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-02-21",
+    "date_updated": "2025-02-22",
+    "description": "This script attempts to exploit Docker containers for privilege escalation by utilizing Docker images that may allow access to the host filesystem with privileged privileges. It tests a predefined list of Docker images and checks if the system is vulnerable to privilege escalation via chroot.",
+    "forks_count": 1,
+    "html_url": "https://github.com/4m3rr0r/ZombifyDocker",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "ZombifyDocker",
+    "repo_owner": "4m3rr0r",
+    "repotime": "2025-02-22, 11:18:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-02-09",
+    "date_updated": "2025-02-10",
+    "description": "Automatic Local File Inclusion Enumerator. Scan websites for LFI vulnerabilities and path traversals.",
+    "forks_count": 0,
+    "html_url": "https://github.com/4wayhandshake/Alfie",
+    "keywords": [
+        "path traversal vulnerability",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Alfie",
+    "repo_owner": "4wayhandshake",
+    "repotime": "2025-02-10, 02:34:02",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-02-05",
+    "description": "📝 RCE - Remote Code Execution Detection Report (Windows VM)",
+    "forks_count": 0,
+    "html_url": "https://github.com/ToubaHam/RCE-Detection-Report",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": null,
+    "repo_name": "RCE-Detection-Report",
+    "repo_owner": "ToubaHam",
+    "repotime": "2025-02-05, 00:06:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-01-30",
+    "date_updated": "2025-02-03",
+    "description": "What spatial scales does RCE apply? A data analysis project.",
+    "forks_count": 0,
+    "html_url": "https://github.com/amatthews20/RCE_project",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": null,
+    "repo_name": "RCE_project",
+    "repo_owner": "amatthews20",
+    "repotime": "2025-02-03, 12:56:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

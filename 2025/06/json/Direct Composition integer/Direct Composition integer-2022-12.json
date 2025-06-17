@@ -389,3 +389,785 @@
     "stargazers_count": 8,
     "watchers_count": 8
 }
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-30",
+    "description": "A vulnerability was found in DPDK versions 18.05 and above. A missing check for an integer overflow in vhost_user_set_log_base() could result in a smaller memory map than requested, possibly allowing memory corruption. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-10722",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-10722",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 00:43:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-30",
+    "description": "An exploitable integer truncation vulnerability exists within the MPEG-4 decoding functionality of the GPAC Project on Advanced Content library v1.0.1. A specially crafted MPEG-4 input can cause an improper memory allocation resulting in a heap-based buffer overflow that causes memory corruption. The FOURCC code, 'trik CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-21860",
+    "keywords": [
+        "corruption overflow exploit",
+        "corruption overflow exploitation",
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-21860",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 00:05:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "In audio ipi, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06558777; Issue ID: ALPS06558777. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-26466",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-26466",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 22:37:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "In teei, there is a possible memory corruption due to an integer overflow. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06664701; Issue ID: ALPS06664701. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-26454",
+    "keywords": [
+        "corruption overflow exploit",
+        "corruption overflow exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-26454",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 22:36:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "QEMU before 2.0.0 block drivers for CLOOP, QCOW2 version 2 and various other image formats are vulnerable to potential memory corruptions, integer/buffer overflows or crash caused by missing input validations which could allow a remote user to execute arbitrary code on the host with the privileges of the QEMU process. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2014-0144",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2014-0144",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 11:33:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Redis is an open source, in-memory database that persists on disk. An integer overflow bug affecting all versions of Redis can be exploited to corrupt the heap and potentially be used to leak arbitrary contents of the heap or trigger remote code execution. The vulnerability involves changing the default set-max-intset- CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-32687",
+    "keywords": [
+        "memory leak exploit",
+        "memory leak exploitation",
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-32687",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 10:05:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Integer overflow in PDFium in Google Chrome prior to 74.0.3729.108 allowed a remote attacker to potentially exploit heap corruption via a crafted PDF file. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-5820",
+    "keywords": [
+        "corruption overflow exploit",
+        "Chrome corruption overflow",
+        "Chrome corruption overflow exploitation",
+        "corruption overflow exploitation",
+        "Chrome corruption overflow exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-5820",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 07:58:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "An integer overflow that leads to a use-after-free in WebMIDI in Google Chrome on Windows prior to 73.0.3683.75 allowed a remote attacker who had compromised the renderer process to execute arbitrary code via a crafted HTML page. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-5789",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-5789",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 07:58:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Integer overflow in ANGLE in Google Chrome on Windows prior to 74.0.3729.108 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-5806",
+    "keywords": [
+        "corruption overflow exploit",
+        "Windows corruption overflow exploit",
+        "Chrome corruption overflow",
+        "Chrome corruption overflow exploitation",
+        "Windows corruption overflow exploitation",
+        "Windows corruption overflow",
+        "corruption overflow exploitation",
+        "Chrome corruption overflow exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-5806",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 07:57:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "In libexif, there is a possible out of bounds write due to an integer overflow. This could lead to remote escalation of privilege in the media content provider with no additional execution privileges needed. User interaction is needed for exploitation. Product: AndroidVersions: Android-10Android ID: A-112537774 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-9278",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-9278",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 05:20:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot ext4_mount function, where Insufficient validation of untrusted data may allow a highly privileged local attacker to cause an integer overflow. This difficult-to-exploit vulnerability may lead to code execution, escalation of privileges, limited d CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-28197",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-28197",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 05:19:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot ext4_read_file function, where insufficient validation of untrusted data may allow a highly privileged local attacker to cause a integer overflow, which may lead to code execution, escalation of privileges, limited denial of service, and some impa CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-28195",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-28195",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 05:14:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Integer Overflow or Wraparound vulnerability in io_uring of Linux Kernel allows local attacker to cause memory corruption and escalate privileges to root. This issue affects: Linux Kernel versions prior to 5.4.189; version 5.4.24 and later versions. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-1116",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-1116",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 03:05:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "An integer overflow vulnerability exists in the web interface /action/ipcamRecordPost functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted HTTP request can lead to memory corruption. An attacker can make an authenticated HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32775",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32775",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 21:43:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Redis is an open source, in-memory database that persists on disk. An integer overflow bug in the underlying string library can be used to corrupt the heap and potentially result with denial of service or remote code execution. The vulnerability involves changing the default proto-max-bulk-len configuration parameter t CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-41099",
+    "keywords": [
+        "remote code execution denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-41099",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 18:03:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "In shared_metadata_init of SharedMetadata.cpp, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-239415 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42533",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42533",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 06:24:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Multiple integer overflows in OpenSSL 1.0.1 before 1.0.1s and 1.0.2 before 1.0.2g allow remote attackers to cause a denial of service (heap memory corruption or NULL pointer dereference) or possibly have unspecified other impact via a long digit string that is mishandled by the (1) BN_dec2bn or (2) BN_hex2bn function,  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-0797",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-0797",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 19:19:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Integer overflow in the EVP_EncodeUpdate function in crypto/evp/encode.c in OpenSSL before 1.0.1t and 1.0.2 before 1.0.2h allows remote attackers to cause a denial of service (heap memory corruption) via a large amount of binary data. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-2105",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-2105",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 19:18:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Integer overflow in the EVP_EncryptUpdate function in crypto/evp/evp_enc.c in OpenSSL before 1.0.1t and 1.0.2 before 1.0.2h allows remote attackers to cause a denial of service (heap memory corruption) via a large amount of data. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-2106",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-2106",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 19:17:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "In sec_media_protect of media.c, there is a possible EoP due to an integer overflow. This could lead to local escalation of privilege of secure mode MFC Core with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-242357514Ref CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-20598",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-20598",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 13:48:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "PAC parsing in MIT Kerberos 5 (aka krb5) before 1.19.4 and 1.20.x before 1.20.1 has integer overflows that may lead to remote code execution (in KDC, kadmind, or a GSS or Kerberos application server) on 32-bit platforms (which have a resultant heap-based buffer overflow), and cause a denial of service on other platform CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42898",
+    "keywords": [
+        "remote code execution denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42898",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 10:14:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2022-12-09",
+    "date_updated": "2022-12-10",
+    "description": "This repository contains all the slides, code and APK required to simulate the attacks demonstrated in the Null Kolkata session. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/falcnix/Hacking-a-Bluetooth-Device",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "C++",
+    "repo_name": "Hacking-a-Bluetooth-Device",
+    "repo_owner": "falcnix",
+    "repotime": "2022-12-10, 13:43:29",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-30",
+    "description": "A vulnerability was found in DPDK versions 18.05 and above. A missing check for an integer overflow in vhost_user_set_log_base() could result in a smaller memory map than requested, possibly allowing memory corruption. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-10722",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-10722",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 00:43:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-30",
+    "description": "An exploitable integer truncation vulnerability exists within the MPEG-4 decoding functionality of the GPAC Project on Advanced Content library v1.0.1. A specially crafted MPEG-4 input can cause an improper memory allocation resulting in a heap-based buffer overflow that causes memory corruption. The FOURCC code, 'trik CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-21860",
+    "keywords": [
+        "corruption overflow exploit",
+        "corruption overflow exploitation",
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-21860",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 00:05:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "In audio ipi, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06558777; Issue ID: ALPS06558777. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-26466",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-26466",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 22:37:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "In teei, there is a possible memory corruption due to an integer overflow. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06664701; Issue ID: ALPS06664701. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-26454",
+    "keywords": [
+        "corruption overflow exploit",
+        "corruption overflow exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-26454",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 22:36:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "QEMU before 2.0.0 block drivers for CLOOP, QCOW2 version 2 and various other image formats are vulnerable to potential memory corruptions, integer/buffer overflows or crash caused by missing input validations which could allow a remote user to execute arbitrary code on the host with the privileges of the QEMU process. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2014-0144",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2014-0144",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 11:33:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Redis is an open source, in-memory database that persists on disk. An integer overflow bug affecting all versions of Redis can be exploited to corrupt the heap and potentially be used to leak arbitrary contents of the heap or trigger remote code execution. The vulnerability involves changing the default set-max-intset- CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-32687",
+    "keywords": [
+        "memory leak exploit",
+        "memory leak exploitation",
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-32687",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 10:05:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Integer overflow in PDFium in Google Chrome prior to 74.0.3729.108 allowed a remote attacker to potentially exploit heap corruption via a crafted PDF file. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-5820",
+    "keywords": [
+        "corruption overflow exploit",
+        "Chrome corruption overflow",
+        "Chrome corruption overflow exploitation",
+        "corruption overflow exploitation",
+        "Chrome corruption overflow exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-5820",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 07:58:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "An integer overflow that leads to a use-after-free in WebMIDI in Google Chrome on Windows prior to 73.0.3683.75 allowed a remote attacker who had compromised the renderer process to execute arbitrary code via a crafted HTML page. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-5789",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-5789",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 07:58:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Integer overflow in ANGLE in Google Chrome on Windows prior to 74.0.3729.108 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-5806",
+    "keywords": [
+        "corruption overflow exploit",
+        "Windows corruption overflow exploit",
+        "Chrome corruption overflow",
+        "Chrome corruption overflow exploitation",
+        "Windows corruption overflow exploitation",
+        "Windows corruption overflow",
+        "corruption overflow exploitation",
+        "Chrome corruption overflow exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-5806",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 07:57:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "In libexif, there is a possible out of bounds write due to an integer overflow. This could lead to remote escalation of privilege in the media content provider with no additional execution privileges needed. User interaction is needed for exploitation. Product: AndroidVersions: Android-10Android ID: A-112537774 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-9278",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-9278",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 05:20:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot ext4_mount function, where Insufficient validation of untrusted data may allow a highly privileged local attacker to cause an integer overflow. This difficult-to-exploit vulnerability may lead to code execution, escalation of privileges, limited d CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-28197",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-28197",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 05:19:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot ext4_read_file function, where insufficient validation of untrusted data may allow a highly privileged local attacker to cause a integer overflow, which may lead to code execution, escalation of privileges, limited denial of service, and some impa CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-28195",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-28195",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 05:14:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Integer Overflow or Wraparound vulnerability in io_uring of Linux Kernel allows local attacker to cause memory corruption and escalate privileges to root. This issue affects: Linux Kernel versions prior to 5.4.189; version 5.4.24 and later versions. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-1116",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-1116",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 03:05:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "An integer overflow vulnerability exists in the web interface /action/ipcamRecordPost functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted HTTP request can lead to memory corruption. An attacker can make an authenticated HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32775",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32775",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 21:43:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Redis is an open source, in-memory database that persists on disk. An integer overflow bug in the underlying string library can be used to corrupt the heap and potentially result with denial of service or remote code execution. The vulnerability involves changing the default proto-max-bulk-len configuration parameter t CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-41099",
+    "keywords": [
+        "remote code execution denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-41099",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 18:03:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "In shared_metadata_init of SharedMetadata.cpp, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-239415 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42533",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42533",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 06:24:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Multiple integer overflows in OpenSSL 1.0.1 before 1.0.1s and 1.0.2 before 1.0.2g allow remote attackers to cause a denial of service (heap memory corruption or NULL pointer dereference) or possibly have unspecified other impact via a long digit string that is mishandled by the (1) BN_dec2bn or (2) BN_hex2bn function,  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-0797",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-0797",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 19:19:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Integer overflow in the EVP_EncodeUpdate function in crypto/evp/encode.c in OpenSSL before 1.0.1t and 1.0.2 before 1.0.2h allows remote attackers to cause a denial of service (heap memory corruption) via a large amount of binary data. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-2105",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-2105",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 19:18:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Integer overflow in the EVP_EncryptUpdate function in crypto/evp/evp_enc.c in OpenSSL before 1.0.1t and 1.0.2 before 1.0.2h allows remote attackers to cause a denial of service (heap memory corruption) via a large amount of data. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-2106",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-2106",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 19:17:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "In sec_media_protect of media.c, there is a possible EoP due to an integer overflow. This could lead to local escalation of privilege of secure mode MFC Core with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-242357514Ref CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-20598",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-20598",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 13:48:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "PAC parsing in MIT Kerberos 5 (aka krb5) before 1.19.4 and 1.20.x before 1.20.1 has integer overflows that may lead to remote code execution (in KDC, kadmind, or a GSS or Kerberos application server) on 32-bit platforms (which have a resultant heap-based buffer overflow), and cause a denial of service on other platform CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42898",
+    "keywords": [
+        "remote code execution denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42898",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 10:14:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2022-12-09",
+    "date_updated": "2022-12-10",
+    "description": "This repository contains all the slides, code and APK required to simulate the attacks demonstrated in the Null Kolkata session. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/falcnix/Hacking-a-Bluetooth-Device",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "C++",
+    "repo_name": "Hacking-a-Bluetooth-Device",
+    "repo_owner": "falcnix",
+    "repotime": "2022-12-10, 13:43:29",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}

@@ -106,3 +106,57 @@
     "stargazers_count": 20,
     "watchers_count": 20
 }
+{
+    "commits_count": 73,
+    "date_started": "2019-10-29",
+    "date_updated": "2020-11-27",
+    "description": "Faster xss scanner,support  reflected-xss and dom-xss",
+    "forks_count": 71,
+    "html_url": "https://github.com/lwzSoviet/NoXss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "NoXss",
+    "repo_owner": "lwzSoviet",
+    "repotime": "2020-11-27, 16:01:11",
+    "stargazers_count": 446,
+    "watchers_count": 446
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-11-21",
+    "date_updated": "2020-11-20",
+    "description": "Return to Libc exploit with format string vulnerability, bypass ASLR, NX, and Stack Canary",
+    "forks_count": 0,
+    "html_url": "https://github.com/teleplayer123/ROP-Format-Exploit",
+    "keywords": [
+        "aslr bypass",
+        "aslr bypass vulnerability",
+        "aslr bypass exploitation",
+        "aslr bypass exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ROP-Format-Exploit",
+    "repo_owner": "teleplayer123",
+    "repotime": "2020-11-20, 19:51:44",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-10-05",
+    "date_updated": "2020-11-13",
+    "description": "This Lab contain the sample codes Basic Labs related to Server-Side Request Forgery attack",
+    "forks_count": 0,
+    "html_url": "https://github.com/Captain-K-101/Ssrf-labs",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Hack",
+    "repo_name": "Ssrf-labs",
+    "repo_owner": "Captain-K-101",
+    "repotime": "2020-11-13, 18:41:14",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}

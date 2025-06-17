@@ -37,3 +37,81 @@
     "stargazers_count": 5,
     "watchers_count": 5
 }
+{
+    "commits_count": 4,
+    "date_started": "2021-03-14",
+    "date_updated": "2021-03-15",
+    "description": "RCE exploit for ProxyLogon vulnerability in Microsoft Exchange",
+    "forks_count": 8,
+    "html_url": "https://github.com/mil1200/ProxyLogon-CVE-2021-26855",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce exploitation",
+        "rce vulnerability",
+        "Microsoft rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "ProxyLogon-CVE-2021-26855",
+    "repo_owner": "mil1200",
+    "repotime": "2021-03-15, 00:03:12",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-03-03",
+    "date_updated": "2021-03-03",
+    "description": "Textpattern &amp;lt;= 4.8.3 Remote code execution (Authenticated)",
+    "forks_count": 2,
+    "html_url": "https://github.com/ricardojoserf/textpattern-exploit-rce",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "textpattern-exploit-rce",
+    "repo_owner": "ricardojoserf",
+    "repotime": "2021-03-03, 17:04:41",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-03-14",
+    "date_updated": "2021-03-15",
+    "description": "RCE exploit for ProxyLogon vulnerability in Microsoft Exchange",
+    "forks_count": 8,
+    "html_url": "https://github.com/mil1200/ProxyLogon-CVE-2021-26855",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce exploitation",
+        "rce vulnerability",
+        "Microsoft rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "ProxyLogon-CVE-2021-26855",
+    "repo_owner": "mil1200",
+    "repotime": "2021-03-15, 00:03:12",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-03-03",
+    "date_updated": "2021-03-03",
+    "description": "Textpattern &amp;lt;= 4.8.3 Remote code execution (Authenticated)",
+    "forks_count": 2,
+    "html_url": "https://github.com/ricardojoserf/textpattern-exploit-rce",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "textpattern-exploit-rce",
+    "repo_owner": "ricardojoserf",
+    "repotime": "2021-03-03, 17:04:41",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

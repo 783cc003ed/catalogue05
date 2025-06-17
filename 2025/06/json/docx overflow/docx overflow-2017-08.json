@@ -32,3 +32,20 @@
     "stargazers_count": 5,
     "watchers_count": 5
 }
+{
+    "commits_count": 14,
+    "date_started": "2017-07-16",
+    "date_updated": "2017-08-02",
+    "description": "Burp extension to test for directory traversal attacks in insecure file uploads",
+    "forks_count": 6,
+    "html_url": "https://github.com/thec00n/Uploader",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": "Ruby",
+    "repo_name": "Uploader",
+    "repo_owner": "thec00n",
+    "repotime": "2017-08-02, 14:56:18",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

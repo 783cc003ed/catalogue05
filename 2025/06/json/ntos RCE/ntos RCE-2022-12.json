@@ -67,3 +67,141 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A vulnerability in the Aruba InstantOS and ArubaOS 10 web management interface could allow an unauthenticated remote attacker to conduct a stored cross-site scripting (XSS) attack against a user of the interface. A successful exploit could allow an attacker to execute arbitrary script code in a victim’s browser in the  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-37892",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-37892",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 12:38:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "In CWP (aka Control Web Panel or CentOS Web Panel) before 0.9.8.1107, an unauthenticated attacker can use %00 bytes to cause /user/loader.php to register an arbitrary API key, as demonstrated by a /user/loader.php?api=1&amp;amp;scripts= .%00./.%00./api/account_new_create&amp;amp;acc=guadaapi URI. Any number of %00 instances can be use CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-45467",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-45467",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 09:40:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-12-24",
+    "date_updated": "2022-12-24",
+    "description": "-- FOR EDUCATIONAL USE ONLY -- Proof-of-Concept RCE for CVE-2022-1388, plus some added functionality for blue and red teams",
+    "forks_count": 1,
+    "html_url": "https://github.com/vaelwolf/CVE-2022-1388",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-1388",
+    "repo_owner": "vaelwolf",
+    "repotime": "2022-12-24, 21:43:04",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-12-20",
+    "date_updated": "2022-12-20",
+    "description": "The vulnerability is in the SPNEGO Extended Negotiation (NEGOEX) Security Mechanism, which allows a client and server to negotiate the choice of security mechanism to use. This vulnerability is a pre-authentication remote code execution vulnerability impacting a wide range of protocols. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-37958-Windows-Server-RCE",
+    "repo_owner": "RCEman01",
+    "repotime": "2022-12-20, 12:51:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A vulnerability in the Aruba InstantOS and ArubaOS 10 web management interface could allow an unauthenticated remote attacker to conduct a stored cross-site scripting (XSS) attack against a user of the interface. A successful exploit could allow an attacker to execute arbitrary script code in a victim’s browser in the  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-37892",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-37892",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 12:38:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "In CWP (aka Control Web Panel or CentOS Web Panel) before 0.9.8.1107, an unauthenticated attacker can use %00 bytes to cause /user/loader.php to register an arbitrary API key, as demonstrated by a /user/loader.php?api=1&amp;amp;scripts= .%00./.%00./api/account_new_create&amp;amp;acc=guadaapi URI. Any number of %00 instances can be use CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-45467",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-45467",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 09:40:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-12-24",
+    "date_updated": "2022-12-24",
+    "description": "-- FOR EDUCATIONAL USE ONLY -- Proof-of-Concept RCE for CVE-2022-1388, plus some added functionality for blue and red teams",
+    "forks_count": 1,
+    "html_url": "https://github.com/vaelwolf/CVE-2022-1388",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-1388",
+    "repo_owner": "vaelwolf",
+    "repotime": "2022-12-24, 21:43:04",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-12-20",
+    "date_updated": "2022-12-20",
+    "description": "The vulnerability is in the SPNEGO Extended Negotiation (NEGOEX) Security Mechanism, which allows a client and server to negotiate the choice of security mechanism to use. This vulnerability is a pre-authentication remote code execution vulnerability impacting a wide range of protocols. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-37958-Windows-Server-RCE",
+    "repo_owner": "RCEman01",
+    "repotime": "2022-12-20, 12:51:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

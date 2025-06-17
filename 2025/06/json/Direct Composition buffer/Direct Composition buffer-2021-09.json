@@ -242,3 +242,125 @@
     "stargazers_count": 8,
     "watchers_count": 8
 }
+{
+    "commits_count": 36,
+    "date_started": "2015-09-18",
+    "date_updated": "2021-09-26",
+    "description": "Exploits by 1N3 @CrowdShield @xer0dayz @XeroSecurity",
+    "forks_count": 103,
+    "html_url": "https://github.com/1N3/Exploits",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Exploits",
+    "repo_owner": "1N3",
+    "repotime": "2021-09-26, 18:47:12",
+    "stargazers_count": 203,
+    "watchers_count": 203
+}
+{
+    "commits_count": 47,
+    "date_started": "2019-07-15",
+    "date_updated": "2021-09-22",
+    "description": "List DTDs and generate XXE payloads using those local DTDs.",
+    "forks_count": 110,
+    "html_url": "https://github.com/GoSecure/dtd-finder",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Kotlin",
+    "repo_name": "dtd-finder",
+    "repo_owner": "GoSecure",
+    "repotime": "2021-09-22, 13:53:59",
+    "stargazers_count": 631,
+    "watchers_count": 631
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-05-11",
+    "date_updated": "2021-09-21",
+    "description": "These are project resources for the live YouTube lectures. Includes dependency injection, git internals, code reviews and the system design contest.",
+    "forks_count": 81,
+    "html_url": "https://github.com/coding-parrot/youtube-projects",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "youtube-projects",
+    "repo_owner": "coding-parrot",
+    "repotime": "2021-09-21, 17:12:45",
+    "stargazers_count": 129,
+    "watchers_count": 129
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-09-15",
+    "date_updated": "2021-09-15",
+    "description": " Automated Trading System (Stock Market) A Client-Server Based Trading System is to be designed with the following specifications. There will be a set of traders who will trade with each other in the automated system. There will be a Server which will register requests from traders for buying and selling quantities of Items. The Server will also match the buy with the sell requests from different traders based on certain price rules (as listed below). Traders will log on to the trading system through the trading client (assume Trader ID and password is stored in a file). They will have the option to view the currently available items (for buy/sell), their quantities and their prices. They will also send requests for buying and selling items and specify the quantity and price. Traders will also have the option to view their matched trades at any time. There are ten known items which the traders can trade in with their codes from 1 to 10. There will be a maximum of 5 traders (with codes ...",
+    "forks_count": 1,
+    "html_url": "https://github.com/vishal66959/Client-Server-Based-Automated-Trading-System-main",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "C",
+    "repo_name": "Client-Server-Based-Automated-Trading-System-main",
+    "repo_owner": "vishal66959",
+    "repotime": "2021-09-15, 12:31:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-01",
+    "date_updated": "2021-09-07",
+    "description": "This lab required the execution of a buffer-overflow attack variant, known as return-to-libc, bypassing existing protection schemes implemented in Linux OS.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kbmclaren/lab1-CMSC426-CmpSec",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "C",
+    "repo_name": "lab1-CMSC426-CmpSec",
+    "repo_owner": "kbmclaren",
+    "repotime": "2021-09-07, 16:19:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 107,
+    "date_started": "2017-03-13",
+    "date_updated": "2021-09-06",
+    "description": "👮🏻‍♂️ XSS attack playground,there are answers in issues. XSS 攻防靶场，issues 有答案 ",
+    "forks_count": 61,
+    "html_url": "https://github.com/haozi/xss-demo",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xss-demo",
+    "repo_owner": "haozi",
+    "repotime": "2021-09-06, 16:07:49",
+    "stargazers_count": 308,
+    "watchers_count": 308
+}
+{
+    "commits_count": 129,
+    "date_started": "2021-08-05",
+    "date_updated": "2021-09-01",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology",
+    "keywords": [
+        "0day vulnerability",
+        "0day analysis"
+    ],
+    "language": null,
+    "repo_name": "0day-security-software-vulnerability-analysis-technology",
+    "repo_owner": "git3345678git",
+    "repotime": "2021-09-01, 22:33:42",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}

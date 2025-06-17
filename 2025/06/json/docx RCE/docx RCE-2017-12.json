@@ -33,3 +33,73 @@
     "stargazers_count": 288,
     "watchers_count": 288
 }
+{
+    "commits_count": 313,
+    "date_started": "2015-10-02",
+    "date_updated": "2017-12-22",
+    "description": "SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.",
+    "forks_count": 74,
+    "html_url": "https://github.com/bcoles/ssrf_proxy",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Ruby",
+    "repo_name": "ssrf_proxy",
+    "repo_owner": "bcoles",
+    "repotime": "2017-12-22, 12:56:31",
+    "stargazers_count": 463,
+    "watchers_count": 463
+}
+{
+    "commits_count": 5,
+    "date_started": "2015-05-12",
+    "date_updated": "2017-12-18",
+    "description": "Win32k LPE vulnerability used in APT attack",
+    "forks_count": 176,
+    "html_url": "https://github.com/hfiref0x/CVE-2015-1701",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2015-1701",
+    "repo_owner": "hfiref0x",
+    "repotime": "2017-12-18, 21:11:23",
+    "stargazers_count": 288,
+    "watchers_count": 288
+}
+{
+    "commits_count": 313,
+    "date_started": "2015-10-02",
+    "date_updated": "2017-12-22",
+    "description": "SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.",
+    "forks_count": 74,
+    "html_url": "https://github.com/bcoles/ssrf_proxy",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Ruby",
+    "repo_name": "ssrf_proxy",
+    "repo_owner": "bcoles",
+    "repotime": "2017-12-22, 12:56:31",
+    "stargazers_count": 464,
+    "watchers_count": 464
+}
+{
+    "commits_count": 5,
+    "date_started": "2015-05-12",
+    "date_updated": "2017-12-18",
+    "description": "Win32k LPE vulnerability used in APT attack",
+    "forks_count": 176,
+    "html_url": "https://github.com/hfiref0x/CVE-2015-1701",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2015-1701",
+    "repo_owner": "hfiref0x",
+    "repotime": "2017-12-18, 21:11:23",
+    "stargazers_count": 288,
+    "watchers_count": 288
+}

@@ -171,3 +171,349 @@
     "stargazers_count": 239,
     "watchers_count": 239
 }
+{
+    "commits_count": 3,
+    "date_started": "2021-07-30",
+    "date_updated": "2021-07-30",
+    "description": "Full unauthenticated RCE proof of concept for Rocket.Chat 3.12.1 CVE-2021-22911",
+    "forks_count": 1,
+    "html_url": "https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911",
+    "keywords": [
+        "rce proof of concept",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911",
+    "repo_owner": "optionalCTF",
+    "repotime": "2021-07-30, 23:00:52",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-07-30",
+    "date_updated": "2021-07-30",
+    "description": "0day Windows/x64 Inject All Processes With Meterpreter Reverse Shell Shellcode (655 bytes)",
+    "forks_count": 18,
+    "html_url": "https://github.com/0dayNinja/Windows-x64-Processes-Injector",
+    "keywords": [
+        "Windows 0day",
+        "Win 0day"
+    ],
+    "language": "Assembly",
+    "repo_name": "Windows-x64-Processes-Injector",
+    "repo_owner": "0dayNinja",
+    "repotime": "2021-07-30, 13:00:48",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-06-03",
+    "date_updated": "2021-07-27",
+    "description": "Collection of shellcode injection and execution techniques",
+    "forks_count": 7,
+    "html_url": "https://github.com/11philip22/CodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "CodeInjection",
+    "repo_owner": "11philip22",
+    "repotime": "2021-07-27, 11:42:34",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 71,
+    "date_started": "2017-08-19",
+    "date_updated": "2021-07-22",
+    "description": "Web-Security-Learning",
+    "forks_count": 1018,
+    "html_url": "https://github.com/CHYbeta/Web-Security-Learning",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "Web-Security-Learning",
+    "repo_owner": "CHYbeta",
+    "repotime": "2021-07-22, 12:56:40",
+    "stargazers_count": 4243,
+    "watchers_count": 4243
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-07-16",
+    "date_updated": "2021-07-16",
+    "description": "Protect a process from code injection, termination and hooking",
+    "forks_count": 17,
+    "html_url": "https://github.com/Rhydon1337/windows-kernel-process-protector",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "windows-kernel-process-protector",
+    "repo_owner": "Rhydon1337",
+    "repotime": "2021-07-16, 20:52:05",
+    "stargazers_count": 49,
+    "watchers_count": 49
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-07-14",
+    "date_updated": "2021-07-14",
+    "description": " A simple lab created for testing CSTI vulnerability in AngularJS version 1.0.8, 1.3.20 and 1.5.8 using Sandbox Escape. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/unk9vvn/angularjs-client-side-template-injection-lab",
+    "keywords": [
+        "sandbox escape vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "angularjs-client-side-template-injection-lab",
+    "repo_owner": "unk9vvn",
+    "repotime": "2021-07-14, 21:45:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-07-13",
+    "date_updated": "2021-07-13",
+    "description": "Updated 6000 Sql Injection Google Dork 2021 ",
+    "forks_count": 11,
+    "html_url": "https://github.com/ShivamRai2003/SQL-Injection-Google-Dork-List",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL-Injection-Google-Dork-List",
+    "repo_owner": "ShivamRai2003",
+    "repotime": "2021-07-13, 14:29:10",
+    "stargazers_count": 38,
+    "watchers_count": 38
+}
+{
+    "commits_count": 21,
+    "date_started": "2021-07-02",
+    "date_updated": "2021-07-11",
+    "description": "Sthaniya Khana - a food ordering system. Frontend and backend. Admin pannel has been secured with session authenication, prevents SQL injection attacks. User friendly.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sarry971/Sthaniya-Khana",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "Sthaniya-Khana",
+    "repo_owner": "sarry971",
+    "repotime": "2021-07-11, 11:19:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-07-09",
+    "date_updated": "2021-07-09",
+    "description": "Learn how to automate XSS, SSRF, LFI, SQLI, NoSQLi",
+    "forks_count": 13,
+    "html_url": "https://github.com/DevanshRaghav75/AutomationGuide",
+    "keywords": [
+        "lfi",
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "AutomationGuide",
+    "repo_owner": "DevanshRaghav75",
+    "repotime": "2021-07-09, 15:19:00",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-07-06",
+    "date_updated": "2021-07-07",
+    "description": "Code Injection, Inject malicious payload via pagetables pml4.",
+    "forks_count": 59,
+    "html_url": "https://github.com/kkent030315/PageTableInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "PageTableInjection",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-07-07, 09:02:29",
+    "stargazers_count": 239,
+    "watchers_count": 239
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-07-30",
+    "date_updated": "2021-07-30",
+    "description": "Full unauthenticated RCE proof of concept for Rocket.Chat 3.12.1 CVE-2021-22911",
+    "forks_count": 1,
+    "html_url": "https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911",
+    "keywords": [
+        "rce proof of concept",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911",
+    "repo_owner": "optionalCTF",
+    "repotime": "2021-07-30, 23:00:52",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-07-30",
+    "date_updated": "2021-07-30",
+    "description": "0day Windows/x64 Inject All Processes With Meterpreter Reverse Shell Shellcode (655 bytes)",
+    "forks_count": 18,
+    "html_url": "https://github.com/0dayNinja/Windows-x64-Processes-Injector",
+    "keywords": [
+        "Windows 0day",
+        "Win 0day"
+    ],
+    "language": "Assembly",
+    "repo_name": "Windows-x64-Processes-Injector",
+    "repo_owner": "0dayNinja",
+    "repotime": "2021-07-30, 13:00:48",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-06-03",
+    "date_updated": "2021-07-27",
+    "description": "Collection of shellcode injection and execution techniques",
+    "forks_count": 7,
+    "html_url": "https://github.com/11philip22/CodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "CodeInjection",
+    "repo_owner": "11philip22",
+    "repotime": "2021-07-27, 11:42:34",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 71,
+    "date_started": "2017-08-19",
+    "date_updated": "2021-07-22",
+    "description": "Web-Security-Learning",
+    "forks_count": 1017,
+    "html_url": "https://github.com/CHYbeta/Web-Security-Learning",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "Web-Security-Learning",
+    "repo_owner": "CHYbeta",
+    "repotime": "2021-07-22, 12:56:40",
+    "stargazers_count": 4242,
+    "watchers_count": 4242
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-07-16",
+    "date_updated": "2021-07-16",
+    "description": "Protect a process from code injection, termination and hooking",
+    "forks_count": 17,
+    "html_url": "https://github.com/Rhydon1337/windows-kernel-process-protector",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "windows-kernel-process-protector",
+    "repo_owner": "Rhydon1337",
+    "repotime": "2021-07-16, 20:52:05",
+    "stargazers_count": 49,
+    "watchers_count": 49
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-07-14",
+    "date_updated": "2021-07-14",
+    "description": " A simple lab created for testing CSTI vulnerability in AngularJS version 1.0.8, 1.3.20 and 1.5.8 using Sandbox Escape. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/unk9vvn/angularjs-client-side-template-injection-lab",
+    "keywords": [
+        "sandbox escape vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "angularjs-client-side-template-injection-lab",
+    "repo_owner": "unk9vvn",
+    "repotime": "2021-07-14, 21:45:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-07-13",
+    "date_updated": "2021-07-13",
+    "description": "Updated 6000 Sql Injection Google Dork 2021 ",
+    "forks_count": 11,
+    "html_url": "https://github.com/ShivamRai2003/SQL-Injection-Google-Dork-List",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL-Injection-Google-Dork-List",
+    "repo_owner": "ShivamRai2003",
+    "repotime": "2021-07-13, 14:29:10",
+    "stargazers_count": 38,
+    "watchers_count": 38
+}
+{
+    "commits_count": 21,
+    "date_started": "2021-07-02",
+    "date_updated": "2021-07-11",
+    "description": "Sthaniya Khana - a food ordering system. Frontend and backend. Admin pannel has been secured with session authenication, prevents SQL injection attacks. User friendly.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sarry971/Sthaniya-Khana",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "Sthaniya-Khana",
+    "repo_owner": "sarry971",
+    "repotime": "2021-07-11, 11:19:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-07-09",
+    "date_updated": "2021-07-09",
+    "description": "Learn how to automate XSS, SSRF, LFI, SQLI, NoSQLi",
+    "forks_count": 13,
+    "html_url": "https://github.com/DevanshRaghav75/AutomationGuide",
+    "keywords": [
+        "lfi",
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "AutomationGuide",
+    "repo_owner": "DevanshRaghav75",
+    "repotime": "2021-07-09, 15:19:00",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-07-06",
+    "date_updated": "2021-07-07",
+    "description": "Code Injection, Inject malicious payload via pagetables pml4.",
+    "forks_count": 59,
+    "html_url": "https://github.com/kkent030315/PageTableInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "PageTableInjection",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-07-07, 09:02:29",
+    "stargazers_count": 240,
+    "watchers_count": 240
+}

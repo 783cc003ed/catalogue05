@@ -134,3 +134,275 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 30,
+    "date_started": "2009-08-15",
+    "date_updated": "2018-02-25",
+    "description": "Make Django sessions work harder to prevent session-stealing attacks",
+    "forks_count": 6,
+    "html_url": "https://github.com/rfk/django-paranoid-sessions",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "django-paranoid-sessions",
+    "repo_owner": "rfk",
+    "repotime": "2018-02-25, 12:50:47",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-02-23",
+    "date_updated": "2018-02-23",
+    "description": "Your PPC account is never perfect. Hopefully, that doesn’t come as a surprise to you. The truth of the matter is that no matter how hard you work on building an account and optimizing it according to best practices, you will probably miss something. An even truer statement is that the longer you work in an account, the easier it is for things to slip past your ever-watchful eye. What is a PPC account audit? An account audit is a dive into your account to determine areas that could use further attention or work to improve performance. We’ll outline the actual process of the audit shortly. When and why should I audit? There’s never a bad time to audit your account because you’ll typically find something to help improve performance. However, you don’t particularly want to audit your account after a recent strategy change or account update. You could be auditing based on skewed information and nobody wants that. The most important time to audit your account is if you’re having performance ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/sumit0002/PPC-Account-Audit",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "PPC-Account-Audit",
+    "repo_owner": "sumit0002",
+    "repotime": "2018-02-23, 10:49:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 46,
+    "date_started": "2015-12-22",
+    "date_updated": "2018-02-20",
+    "description": "small set of PHP scripts to practice exploiting LFI, RFI and CMD injection vulns",
+    "forks_count": 83,
+    "html_url": "https://github.com/paralax/lfi-labs",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "PHP",
+    "repo_name": "lfi-labs",
+    "repo_owner": "paralax",
+    "repotime": "2018-02-20, 12:41:11",
+    "stargazers_count": 332,
+    "watchers_count": 332
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-02-20",
+    "date_updated": "2018-02-20",
+    "description": "Are you going far away from your home in the summer vacations? You need to take care of a lot of things before leaving home, and especially if you have an air conditioner unit in your home because your negligence can harm your unit. You probably know that the AC units are designed to work uninterruptedly, and they may misbehave because of the unusual break. So, don’t forget to do the following tasks before going on the vacations otherwise, you will need to pay a certain amount of money as the cost of the professional service of the AC repair Miami.  Turn Down Your Unit Instead of Turning Off: As already mentioned above that the air conditioners have been designed to work regularly (without any interruption) and if you keep your unit switch off for a long time period, then the chances of misbehaving of the unit are also increased. Many of its important components could be deteriorated during this time period and may also run at decreased capacity when put back into the regular use after...",
+    "forks_count": 0,
+    "html_url": "https://github.com/corlissstark/Excited-for-the-Summer-Vacation-Read-these-Precautions",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Excited-for-the-Summer-Vacation-Read-these-Precautions",
+    "repo_owner": "corlissstark",
+    "repotime": "2018-02-20, 18:39:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 109,
+    "date_started": "2018-02-14",
+    "date_updated": "2018-02-15",
+    "description": "Python api for usage with cobalt strike's External C2 specification ",
+    "forks_count": 18,
+    "html_url": "https://github.com/RhinoSecurityLabs/external_c2_framework",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "external_c2_framework",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2018-02-15, 00:49:59",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-02-07",
+    "date_updated": "2018-02-09",
+    "description": "MICROS Honeypot is a low interaction honeypot to detect CVE-2018-2636 in the Oracle Hospitality Simphony component of Oracle Hospitality Applications (MICROS). This is a directory traversal vulnerability.",
+    "forks_count": 4,
+    "html_url": "https://github.com/Cymmetria/micros_honeypot",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "ASP",
+    "repo_name": "micros_honeypot",
+    "repo_owner": "Cymmetria",
+    "repotime": "2018-02-09, 00:56:57",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-02-07",
+    "date_updated": "2018-02-09",
+    "description": "WebLogic Honeypot is a low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware. This is a Remote Code Execution vulnerability.",
+    "forks_count": 12,
+    "html_url": "https://github.com/Cymmetria/weblogic_honeypot",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "weblogic_honeypot",
+    "repo_owner": "Cymmetria",
+    "repotime": "2018-02-09, 00:54:44",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-02-01",
+    "date_updated": "2018-02-01",
+    "description": "Node.js &amp;amp; MySQL   Overview  In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this week. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.  Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.   Submission Guide  Make sure you use the normal GitHub. Because this is a CLI App, there will be no need to deploy it to Heroku. This time, though, you need to include screenshots, a gif, and/or a video showing us that you got the app working with no bugs. You can include these screenshots or a link to a video in a README.md file.   Include screenshots (or a video) of typical user flows through your application (for the customer and if relevant the...",
+    "forks_count": 0,
+    "html_url": "https://github.com/rrbrink/Bamazon",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Bamazon",
+    "repo_owner": "rrbrink",
+    "repotime": "2018-02-01, 14:19:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 30,
+    "date_started": "2009-08-15",
+    "date_updated": "2018-02-25",
+    "description": "Make Django sessions work harder to prevent session-stealing attacks",
+    "forks_count": 6,
+    "html_url": "https://github.com/rfk/django-paranoid-sessions",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "django-paranoid-sessions",
+    "repo_owner": "rfk",
+    "repotime": "2018-02-25, 12:50:47",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-02-23",
+    "date_updated": "2018-02-23",
+    "description": "Your PPC account is never perfect. Hopefully, that doesn’t come as a surprise to you. The truth of the matter is that no matter how hard you work on building an account and optimizing it according to best practices, you will probably miss something. An even truer statement is that the longer you work in an account, the easier it is for things to slip past your ever-watchful eye. What is a PPC account audit? An account audit is a dive into your account to determine areas that could use further attention or work to improve performance. We’ll outline the actual process of the audit shortly. When and why should I audit? There’s never a bad time to audit your account because you’ll typically find something to help improve performance. However, you don’t particularly want to audit your account after a recent strategy change or account update. You could be auditing based on skewed information and nobody wants that. The most important time to audit your account is if you’re having performance ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/sumit0002/PPC-Account-Audit",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "PPC-Account-Audit",
+    "repo_owner": "sumit0002",
+    "repotime": "2018-02-23, 10:49:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 46,
+    "date_started": "2015-12-22",
+    "date_updated": "2018-02-20",
+    "description": "small set of PHP scripts to practice exploiting LFI, RFI and CMD injection vulns",
+    "forks_count": 83,
+    "html_url": "https://github.com/paralax/lfi-labs",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "PHP",
+    "repo_name": "lfi-labs",
+    "repo_owner": "paralax",
+    "repotime": "2018-02-20, 12:41:11",
+    "stargazers_count": 332,
+    "watchers_count": 332
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-02-20",
+    "date_updated": "2018-02-20",
+    "description": "Are you going far away from your home in the summer vacations? You need to take care of a lot of things before leaving home, and especially if you have an air conditioner unit in your home because your negligence can harm your unit. You probably know that the AC units are designed to work uninterruptedly, and they may misbehave because of the unusual break. So, don’t forget to do the following tasks before going on the vacations otherwise, you will need to pay a certain amount of money as the cost of the professional service of the AC repair Miami.  Turn Down Your Unit Instead of Turning Off: As already mentioned above that the air conditioners have been designed to work regularly (without any interruption) and if you keep your unit switch off for a long time period, then the chances of misbehaving of the unit are also increased. Many of its important components could be deteriorated during this time period and may also run at decreased capacity when put back into the regular use after...",
+    "forks_count": 0,
+    "html_url": "https://github.com/corlissstark/Excited-for-the-Summer-Vacation-Read-these-Precautions",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Excited-for-the-Summer-Vacation-Read-these-Precautions",
+    "repo_owner": "corlissstark",
+    "repotime": "2018-02-20, 18:39:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 109,
+    "date_started": "2018-02-14",
+    "date_updated": "2018-02-15",
+    "description": "Python api for usage with cobalt strike's External C2 specification ",
+    "forks_count": 18,
+    "html_url": "https://github.com/RhinoSecurityLabs/external_c2_framework",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "external_c2_framework",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2018-02-15, 00:49:59",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-02-07",
+    "date_updated": "2018-02-09",
+    "description": "MICROS Honeypot is a low interaction honeypot to detect CVE-2018-2636 in the Oracle Hospitality Simphony component of Oracle Hospitality Applications (MICROS). This is a directory traversal vulnerability.",
+    "forks_count": 4,
+    "html_url": "https://github.com/Cymmetria/micros_honeypot",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "ASP",
+    "repo_name": "micros_honeypot",
+    "repo_owner": "Cymmetria",
+    "repotime": "2018-02-09, 00:56:57",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-02-07",
+    "date_updated": "2018-02-09",
+    "description": "WebLogic Honeypot is a low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware. This is a Remote Code Execution vulnerability.",
+    "forks_count": 12,
+    "html_url": "https://github.com/Cymmetria/weblogic_honeypot",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "weblogic_honeypot",
+    "repo_owner": "Cymmetria",
+    "repotime": "2018-02-09, 00:54:44",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-02-01",
+    "date_updated": "2018-02-01",
+    "description": "Node.js &amp;amp; MySQL   Overview  In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this week. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.  Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.   Submission Guide  Make sure you use the normal GitHub. Because this is a CLI App, there will be no need to deploy it to Heroku. This time, though, you need to include screenshots, a gif, and/or a video showing us that you got the app working with no bugs. You can include these screenshots or a link to a video in a README.md file.   Include screenshots (or a video) of typical user flows through your application (for the customer and if relevant the...",
+    "forks_count": 0,
+    "html_url": "https://github.com/rrbrink/Bamazon",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Bamazon",
+    "repo_owner": "rrbrink",
+    "repotime": "2018-02-01, 14:19:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

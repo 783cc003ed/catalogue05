@@ -334,3 +334,675 @@
     "stargazers_count": 43,
     "watchers_count": 43
 }
+{
+    "commits_count": 13,
+    "date_started": "2022-07-26",
+    "date_updated": "2022-07-30",
+    "description": "Zentao v16.5 SQL Injection POC",
+    "forks_count": 18,
+    "html_url": "https://github.com/z92g/ZentaoSqli",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "ZentaoSqli",
+    "repo_owner": "z92g",
+    "repotime": "2022-07-30, 16:43:22",
+    "stargazers_count": 75,
+    "watchers_count": 75
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-07-28",
+    "date_updated": "2022-07-30",
+    "description": "WordPress WP_Query SQL Injection POC",
+    "forks_count": 10,
+    "html_url": "https://github.com/z92g/CVE-2022-21661",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2022-21661",
+    "repo_owner": "z92g",
+    "repotime": "2022-07-30, 16:19:24",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 130,
+    "date_started": "2021-05-24",
+    "date_updated": "2022-07-21",
+    "description": "A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I've written to be used in conjunction with these exploits.",
+    "forks_count": 14,
+    "html_url": "https://github.com/forrest-orr/Exploits",
+    "keywords": [
+        "uaf poc",
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "Windows uaf exploit",
+        "Windows uaf poc"
+    ],
+    "language": "C",
+    "repo_name": "Exploits",
+    "repo_owner": "forrest-orr",
+    "repotime": "2022-07-21, 03:01:37",
+    "stargazers_count": 120,
+    "watchers_count": 120
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-07-24",
+    "date_updated": "2022-07-20",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/merlinepedra/CVE-2022-34918-LPE-PoC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-34918-LPE-PoC",
+    "repo_owner": "merlinepedra",
+    "repotime": "2022-07-20, 10:03:37",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-07-21",
+    "date_updated": "2022-07-20",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/trhacknon/CVE-2022-34918-LPE-PoC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-34918-LPE-PoC",
+    "repo_owner": "trhacknon",
+    "repotime": "2022-07-20, 10:03:37",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-07-24",
+    "date_updated": "2022-07-20",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/merlinepedra25/CVE-2022-34918-LPE-PoC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-34918-LPE-PoC",
+    "repo_owner": "merlinepedra25",
+    "repotime": "2022-07-20, 10:03:37",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-18",
+    "description": "A pre-authenticated RCE exploit for Inductive Automation Ignition",
+    "forks_count": 9,
+    "html_url": "https://github.com/sourceincite/randy",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "randy",
+    "repo_owner": "sourceincite",
+    "repotime": "2022-07-18, 11:12:27",
+    "stargazers_count": 45,
+    "watchers_count": 45
+}
+{
+    "commits_count": 16,
+    "date_started": "2020-01-16",
+    "date_updated": "2022-07-17",
+    "description": "Bypass WAF SQL Injection SQLMAP",
+    "forks_count": 62,
+    "html_url": "https://github.com/gagaltotal/Bypass-WAF-SQLMAP",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "Bypass-WAF-SQLMAP",
+    "repo_owner": "gagaltotal",
+    "repotime": "2022-07-17, 06:34:06",
+    "stargazers_count": 191,
+    "watchers_count": 191
+}
+{
+    "commits_count": 436,
+    "date_started": "2017-03-09",
+    "date_updated": "2022-07-14",
+    "description": "for mass exploiting",
+    "forks_count": 155,
+    "html_url": "https://github.com/jm33-m0/mec",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "mec",
+    "repo_owner": "jm33-m0",
+    "repotime": "2022-07-14, 22:35:25",
+    "stargazers_count": 603,
+    "watchers_count": 603
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-07-13",
+    "date_updated": "2022-07-13",
+    "description": "A One Click Remote Code Execution PoC",
+    "forks_count": 1,
+    "html_url": "https://github.com/SleepTheGod/1ClickRCE",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "1ClickRCE",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2022-07-13, 11:58:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-07-13",
+    "date_updated": "2022-07-13",
+    "description": "spring data mongodb remote code execution | cve-2022-22980 poc",
+    "forks_count": 1,
+    "html_url": "https://github.com/Vulnmachines/Spring_cve-2022-22980",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "Spring_cve-2022-22980",
+    "repo_owner": "Vulnmachines",
+    "repotime": "2022-07-13, 19:43:51",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-11-03",
+    "date_updated": "2022-07-12",
+    "description": "CVE-2021-42669 - Remote code execution via unrestricted file upload vulnerability in the Engineers online portal system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xDeku/CVE-2021-42669",
+    "keywords": [
+        "remote code execution vulnerability",
+        "unrestricted file upload"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-42669",
+    "repo_owner": "0xDeku",
+    "repotime": "2022-07-12, 23:00:14",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 24,
+    "date_started": "2022-06-17",
+    "date_updated": "2022-07-12",
+    "description": "A simple Follina RTF and DOCX generator",
+    "forks_count": 1,
+    "html_url": "https://github.com/maxgestic/Follina-Generator",
+    "keywords": [
+        "Windows rce",
+        "Windows rce poc",
+        "Windows rce vulnerability",
+        "Windows rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Follina-Generator",
+    "repo_owner": "maxgestic",
+    "repotime": "2022-07-12, 14:42:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-10-13",
+    "date_updated": "2022-07-11",
+    "description": "Keycloak 12.0.1 - 'request_uri ' Blind Server-Side Request Forgery (SSRF) (Unauthenticated) ",
+    "forks_count": 5,
+    "html_url": "https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "Keycloak-12.0.1-CVE-2020-10770",
+    "repo_owner": "ColdFusionX",
+    "repotime": "2022-07-11, 11:01:21",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "PoC's for the Wavlink D4G SOHO Router",
+    "forks_count": 0,
+    "html_url": "https://github.com/Xenios91/Wavlink-DG4-ZeroDays",
+    "keywords": [
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Wavlink-DG4-ZeroDays",
+    "repo_owner": "Xenios91",
+    "repotime": "2022-07-10, 00:48:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2015-11-16",
+    "date_updated": "2022-07-08",
+    "description": "The new PocketMine. Now compatible with 0.13.",
+    "forks_count": 6354,
+    "html_url": "https://github.com/thebigsmileXD/PocketMine-0.13.0",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "PHP",
+    "repo_name": "PocketMine-0.13.0",
+    "repo_owner": "thebigsmileXD",
+    "repotime": "2022-07-08, 09:49:06",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 103,
+    "date_started": "2022-07-04",
+    "date_updated": "2022-07-07",
+    "description": "【Lazy Artifact】A graphical tool that collects urls in batches, and performs various nday detections on the collected urls in batches. It can be used for src mining, cnvd mining, 0day exploitation, building your own arsenal and other scenarios.",
+    "forks_count": 13,
+    "html_url": "https://github.com/W01fh4cker/Serein_Linux",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Serein_Linux",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2022-07-07, 11:24:07",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-04-21",
+    "date_updated": "2022-07-04",
+    "description": "CVE-2016-10924 - Directory traversal vulnerability in WordPress ebook-download plugin(&amp;lt;1.2).  PoC + PID Bruteforce in Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rvizx/CVE-2016-10924",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2016-10924",
+    "repo_owner": "rvizx",
+    "repotime": "2022-07-04, 17:30:51",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-09-07",
+    "date_updated": "2022-07-03",
+    "description": "Code execution via corrupting mmap malloc chunks with ASLR bypass",
+    "forks_count": 2,
+    "html_url": "https://github.com/mdulin2/house-of-muney",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "C",
+    "repo_name": "house-of-muney",
+    "repo_owner": "mdulin2",
+    "repotime": "2022-07-03, 05:58:01",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-07-26",
+    "date_updated": "2022-07-30",
+    "description": "Zentao v16.5 SQL Injection POC",
+    "forks_count": 18,
+    "html_url": "https://github.com/z92g/ZentaoSqli",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "ZentaoSqli",
+    "repo_owner": "z92g",
+    "repotime": "2022-07-30, 16:43:22",
+    "stargazers_count": 75,
+    "watchers_count": 75
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-07-28",
+    "date_updated": "2022-07-30",
+    "description": "WordPress WP_Query SQL Injection POC",
+    "forks_count": 10,
+    "html_url": "https://github.com/z92g/CVE-2022-21661",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2022-21661",
+    "repo_owner": "z92g",
+    "repotime": "2022-07-30, 16:19:24",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 130,
+    "date_started": "2021-05-24",
+    "date_updated": "2022-07-21",
+    "description": "A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I've written to be used in conjunction with these exploits.",
+    "forks_count": 14,
+    "html_url": "https://github.com/forrest-orr/Exploits",
+    "keywords": [
+        "uaf poc",
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "Windows uaf exploit",
+        "Windows uaf poc"
+    ],
+    "language": "C",
+    "repo_name": "Exploits",
+    "repo_owner": "forrest-orr",
+    "repotime": "2022-07-21, 03:01:37",
+    "stargazers_count": 119,
+    "watchers_count": 119
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-07-24",
+    "date_updated": "2022-07-20",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/merlinepedra/CVE-2022-34918-LPE-PoC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-34918-LPE-PoC",
+    "repo_owner": "merlinepedra",
+    "repotime": "2022-07-20, 10:03:37",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-07-21",
+    "date_updated": "2022-07-20",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/trhacknon/CVE-2022-34918-LPE-PoC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-34918-LPE-PoC",
+    "repo_owner": "trhacknon",
+    "repotime": "2022-07-20, 10:03:37",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-07-24",
+    "date_updated": "2022-07-20",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/merlinepedra25/CVE-2022-34918-LPE-PoC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-34918-LPE-PoC",
+    "repo_owner": "merlinepedra25",
+    "repotime": "2022-07-20, 10:03:37",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-18",
+    "description": "A pre-authenticated RCE exploit for Inductive Automation Ignition",
+    "forks_count": 9,
+    "html_url": "https://github.com/sourceincite/randy",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "randy",
+    "repo_owner": "sourceincite",
+    "repotime": "2022-07-18, 11:12:27",
+    "stargazers_count": 45,
+    "watchers_count": 45
+}
+{
+    "commits_count": 16,
+    "date_started": "2020-01-16",
+    "date_updated": "2022-07-17",
+    "description": "Bypass WAF SQL Injection SQLMAP",
+    "forks_count": 62,
+    "html_url": "https://github.com/gagaltotal/Bypass-WAF-SQLMAP",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "Bypass-WAF-SQLMAP",
+    "repo_owner": "gagaltotal",
+    "repotime": "2022-07-17, 06:34:06",
+    "stargazers_count": 192,
+    "watchers_count": 192
+}
+{
+    "commits_count": 436,
+    "date_started": "2017-03-09",
+    "date_updated": "2022-07-14",
+    "description": "for mass exploiting",
+    "forks_count": 155,
+    "html_url": "https://github.com/jm33-m0/mec",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "mec",
+    "repo_owner": "jm33-m0",
+    "repotime": "2022-07-14, 22:35:25",
+    "stargazers_count": 604,
+    "watchers_count": 604
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-07-13",
+    "date_updated": "2022-07-13",
+    "description": "A One Click Remote Code Execution PoC",
+    "forks_count": 1,
+    "html_url": "https://github.com/SleepTheGod/1ClickRCE",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "1ClickRCE",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2022-07-13, 11:58:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-07-13",
+    "date_updated": "2022-07-13",
+    "description": "spring data mongodb remote code execution | cve-2022-22980 poc",
+    "forks_count": 1,
+    "html_url": "https://github.com/Vulnmachines/Spring_cve-2022-22980",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "Spring_cve-2022-22980",
+    "repo_owner": "Vulnmachines",
+    "repotime": "2022-07-13, 19:43:51",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-11-03",
+    "date_updated": "2022-07-12",
+    "description": "CVE-2021-42669 - Remote code execution via unrestricted file upload vulnerability in the Engineers online portal system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xDeku/CVE-2021-42669",
+    "keywords": [
+        "remote code execution vulnerability",
+        "unrestricted file upload"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-42669",
+    "repo_owner": "0xDeku",
+    "repotime": "2022-07-12, 23:00:14",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 24,
+    "date_started": "2022-06-17",
+    "date_updated": "2022-07-12",
+    "description": "A simple Follina RTF and DOCX generator",
+    "forks_count": 1,
+    "html_url": "https://github.com/maxgestic/Follina-Generator",
+    "keywords": [
+        "Windows rce",
+        "Windows rce poc",
+        "Windows rce vulnerability",
+        "Windows rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Follina-Generator",
+    "repo_owner": "maxgestic",
+    "repotime": "2022-07-12, 14:42:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-10-13",
+    "date_updated": "2022-07-11",
+    "description": "Keycloak 12.0.1 - 'request_uri ' Blind Server-Side Request Forgery (SSRF) (Unauthenticated) ",
+    "forks_count": 5,
+    "html_url": "https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "Keycloak-12.0.1-CVE-2020-10770",
+    "repo_owner": "ColdFusionX",
+    "repotime": "2022-07-11, 11:01:21",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "PoC's for the Wavlink D4G SOHO Router",
+    "forks_count": 0,
+    "html_url": "https://github.com/Xenios91/Wavlink-DG4-ZeroDays",
+    "keywords": [
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Wavlink-DG4-ZeroDays",
+    "repo_owner": "Xenios91",
+    "repotime": "2022-07-10, 00:48:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2015-11-16",
+    "date_updated": "2022-07-08",
+    "description": "The new PocketMine. Now compatible with 0.13.",
+    "forks_count": 6354,
+    "html_url": "https://github.com/thebigsmileXD/PocketMine-0.13.0",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "PHP",
+    "repo_name": "PocketMine-0.13.0",
+    "repo_owner": "thebigsmileXD",
+    "repotime": "2022-07-08, 09:49:06",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 103,
+    "date_started": "2022-07-04",
+    "date_updated": "2022-07-07",
+    "description": "【Lazy Artifact】A graphical tool that collects urls in batches, and performs various nday detections on the collected urls in batches. It can be used for src mining, cnvd mining, 0day exploitation, building your own arsenal and other scenarios.",
+    "forks_count": 13,
+    "html_url": "https://github.com/W01fh4cker/Serein_Linux",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Serein_Linux",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2022-07-07, 11:24:07",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-04-21",
+    "date_updated": "2022-07-04",
+    "description": "CVE-2016-10924 - Directory traversal vulnerability in WordPress ebook-download plugin(&amp;lt;1.2).  PoC + PID Bruteforce in Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rvizx/CVE-2016-10924",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2016-10924",
+    "repo_owner": "rvizx",
+    "repotime": "2022-07-04, 17:30:51",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-09-07",
+    "date_updated": "2022-07-03",
+    "description": "Code execution via corrupting mmap malloc chunks with ASLR bypass",
+    "forks_count": 2,
+    "html_url": "https://github.com/mdulin2/house-of-muney",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "C",
+    "repo_name": "house-of-muney",
+    "repo_owner": "mdulin2",
+    "repotime": "2022-07-03, 05:58:01",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}

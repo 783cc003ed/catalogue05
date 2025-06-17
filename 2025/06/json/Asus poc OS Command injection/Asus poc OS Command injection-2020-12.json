@@ -154,3 +154,315 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 2,
+    "date_started": "2020-07-08",
+    "date_updated": "2020-12-25",
+    "description": "Tools that i have gatherd and study to see how thay work and learned why theses tools execute there attacks. I started to have the intrest of becomeing invold in Hackist grops and what they are and who they are. So long stroy short i gatherd a shit load of tools like for example (DDOS) denil of service attacks (MITH) Man in the middle attacks and pentesting tools port finging tools snifers and andriod tools too. Andriod tools come with Snifers for andiod and man in the middle session hijacking and more. Also it comse with cyters port finders . Http flood tcp hijacking and via http/https hijack aka session hijacking to. Comes with also Sql injections tools and brute force and dic0brute force attacks for password cracking. If you hav the 802.1 wifi card you will be compabilt for Wep and wifi cracking Note not sure which. WARNING&amp;gt;&amp;gt; I DO NOT TAKE CRADIT FOR THESE PROGRAMS FOR WHICH THE CRATER THAT OWNS THE RIGHTS THE RIGHT TO SOME OF THESES SOFWARE. IF YOU WANT TO LARN MORE OPWN THE ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Derek1ization/Hack-pack-ON-STRIOD-2020",
+    "keywords": [
+        "session hijacking attack",
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Hack-pack-ON-STRIOD-2020",
+    "repo_owner": "Derek1ization",
+    "repotime": "2020-12-25, 04:45:47",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-11-19",
+    "date_updated": "2020-12-21",
+    "description": "CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection",
+    "forks_count": 12,
+    "html_url": "https://github.com/eugenebmx/CVE-2020-13942",
+    "keywords": [
+        "rce poc",
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13942",
+    "repo_owner": "eugenebmx",
+    "repotime": "2020-12-21, 14:48:48",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-11-01",
+    "date_updated": "2020-12-18",
+    "description": "Secure login form system with the use of a MySQL database and a PDO connection to protect the database from SQL injection vulnerabilities and session hijacking.",
+    "forks_count": 0,
+    "html_url": "https://github.com/haghighisina/Secure-Login-Form-Authentication-System",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "Secure-Login-Form-Authentication-System",
+    "repo_owner": "haghighisina",
+    "repotime": "2020-12-18, 16:24:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-01-10",
+    "date_updated": "2020-12-15",
+    "description": "A simple app to demo SQL Injection login bypass",
+    "forks_count": 17,
+    "html_url": "https://github.com/appsecco/sqlinjectionloginbypass",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "sqlinjectionloginbypass",
+    "repo_owner": "appsecco",
+    "repotime": "2020-12-15, 13:01:25",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-09-18",
+    "date_updated": "2020-12-15",
+    "description": "SQL-Injection,Cookies,Session,XSS,CSRF",
+    "forks_count": 0,
+    "html_url": "https://github.com/mr-perfectcoder/Php-vulnerability-Demonstration-",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Hack",
+    "repo_name": "Php-vulnerability-Demonstration-",
+    "repo_owner": "mr-perfectcoder",
+    "repotime": "2020-12-15, 00:45:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2020-12-07",
+    "date_updated": "2020-12-08",
+    "description": "Web Vulnerability Detector (XSS,SQL,LFI,XST,WAF)",
+    "forks_count": 9,
+    "html_url": "https://github.com/farinap5/webpwn",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "webpwn",
+    "repo_owner": "farinap5",
+    "repotime": "2020-12-08, 12:14:08",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 13,
+    "date_started": "2016-01-26",
+    "date_updated": "2020-12-06",
+    "description": "Lab set-up for learning SQL Injection Techniques",
+    "forks_count": 39,
+    "html_url": "https://github.com/himadriganguly/sqlilabs",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sqlilabs",
+    "repo_owner": "himadriganguly",
+    "repotime": "2020-12-06, 12:29:43",
+    "stargazers_count": 99,
+    "watchers_count": 99
+}
+{
+    "commits_count": 57,
+    "date_started": "2020-05-06",
+    "date_updated": "2020-12-03",
+    "description": "<no description>",
+    "forks_count": 12,
+    "html_url": "https://github.com/Y000o/sql_injection_basic",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sql_injection_basic",
+    "repo_owner": "Y000o",
+    "repotime": "2020-12-03, 23:13:22",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-12-03",
+    "date_updated": "2020-12-03",
+    "description": "Rusty Joomla RCE (3.0.0 to the 3.4.6) - Unauthenticated PHP object injection",
+    "forks_count": 0,
+    "html_url": "https://github.com/parzel/rusty-joomla-rce",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "rusty-joomla-rce",
+    "repo_owner": "parzel",
+    "repotime": "2020-12-03, 13:38:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-07-08",
+    "date_updated": "2020-12-25",
+    "description": "Tools that i have gatherd and study to see how thay work and learned why theses tools execute there attacks. I started to have the intrest of becomeing invold in Hackist grops and what they are and who they are. So long stroy short i gatherd a shit load of tools like for example (DDOS) denil of service attacks (MITH) Man in the middle attacks and pentesting tools port finging tools snifers and andriod tools too. Andriod tools come with Snifers for andiod and man in the middle session hijacking and more. Also it comse with cyters port finders . Http flood tcp hijacking and via http/https hijack aka session hijacking to. Comes with also Sql injections tools and brute force and dic0brute force attacks for password cracking. If you hav the 802.1 wifi card you will be compabilt for Wep and wifi cracking Note not sure which. WARNING&amp;gt;&amp;gt; I DO NOT TAKE CRADIT FOR THESE PROGRAMS FOR WHICH THE CRATER THAT OWNS THE RIGHTS THE RIGHT TO SOME OF THESES SOFWARE. IF YOU WANT TO LARN MORE OPWN THE ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Derek1ization/Hack-pack-ON-STRIOD-2020",
+    "keywords": [
+        "session hijacking attack",
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Hack-pack-ON-STRIOD-2020",
+    "repo_owner": "Derek1ization",
+    "repotime": "2020-12-25, 04:45:47",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-11-19",
+    "date_updated": "2020-12-21",
+    "description": "CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection",
+    "forks_count": 12,
+    "html_url": "https://github.com/eugenebmx/CVE-2020-13942",
+    "keywords": [
+        "rce poc",
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13942",
+    "repo_owner": "eugenebmx",
+    "repotime": "2020-12-21, 14:48:48",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-11-01",
+    "date_updated": "2020-12-18",
+    "description": "Secure login form system with the use of a MySQL database and a PDO connection to protect the database from SQL injection vulnerabilities and session hijacking.",
+    "forks_count": 0,
+    "html_url": "https://github.com/haghighisina/Secure-Login-Form-Authentication-System",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "Secure-Login-Form-Authentication-System",
+    "repo_owner": "haghighisina",
+    "repotime": "2020-12-18, 16:24:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-01-10",
+    "date_updated": "2020-12-15",
+    "description": "A simple app to demo SQL Injection login bypass",
+    "forks_count": 17,
+    "html_url": "https://github.com/appsecco/sqlinjectionloginbypass",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "sqlinjectionloginbypass",
+    "repo_owner": "appsecco",
+    "repotime": "2020-12-15, 13:01:25",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-09-18",
+    "date_updated": "2020-12-15",
+    "description": "SQL-Injection,Cookies,Session,XSS,CSRF",
+    "forks_count": 0,
+    "html_url": "https://github.com/mr-perfectcoder/Php-vulnerability-Demonstration-",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Hack",
+    "repo_name": "Php-vulnerability-Demonstration-",
+    "repo_owner": "mr-perfectcoder",
+    "repotime": "2020-12-15, 00:45:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2020-12-07",
+    "date_updated": "2020-12-08",
+    "description": "Web Vulnerability Detector (XSS,SQL,LFI,XST,WAF)",
+    "forks_count": 9,
+    "html_url": "https://github.com/farinap5/webpwn",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "webpwn",
+    "repo_owner": "farinap5",
+    "repotime": "2020-12-08, 12:14:08",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 13,
+    "date_started": "2016-01-26",
+    "date_updated": "2020-12-06",
+    "description": "Lab set-up for learning SQL Injection Techniques",
+    "forks_count": 39,
+    "html_url": "https://github.com/himadriganguly/sqlilabs",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sqlilabs",
+    "repo_owner": "himadriganguly",
+    "repotime": "2020-12-06, 12:29:43",
+    "stargazers_count": 99,
+    "watchers_count": 99
+}
+{
+    "commits_count": 57,
+    "date_started": "2020-05-06",
+    "date_updated": "2020-12-03",
+    "description": "<no description>",
+    "forks_count": 12,
+    "html_url": "https://github.com/Y000o/sql_injection_basic",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sql_injection_basic",
+    "repo_owner": "Y000o",
+    "repotime": "2020-12-03, 23:13:22",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-12-03",
+    "date_updated": "2020-12-03",
+    "description": "Rusty Joomla RCE (3.0.0 to the 3.4.6) - Unauthenticated PHP object injection",
+    "forks_count": 0,
+    "html_url": "https://github.com/parzel/rusty-joomla-rce",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "rusty-joomla-rce",
+    "repo_owner": "parzel",
+    "repotime": "2020-12-03, 13:38:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

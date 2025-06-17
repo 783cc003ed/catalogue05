@@ -146,3 +146,77 @@
     "stargazers_count": 33,
     "watchers_count": 33
 }
+{
+    "commits_count": 52,
+    "date_started": "2019-11-04",
+    "date_updated": "2019-06-29",
+    "description": "Path Traversal to Traversal Brute with 35,000 ( 35K ) payloads",
+    "forks_count": 0,
+    "html_url": "https://github.com/marciopocebon/Attackpath",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Attackpath",
+    "repo_owner": "marciopocebon",
+    "repotime": "2019-06-29, 16:08:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-06-27",
+    "date_updated": "2019-06-27",
+    "description": "A Zhiyuan OA Collaborative Office Remote Code Execution Vulnerability on Windows",
+    "forks_count": 13,
+    "html_url": "https://github.com/RayScri/A8-OA-seeyon-RCE",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "Windows rce",
+        "remote code execution vulnerability",
+        "Windows rce vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "A8-OA-seeyon-RCE",
+    "repo_owner": "RayScri",
+    "repotime": "2019-06-27, 21:53:06",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-06-13",
+    "date_updated": "2019-06-17",
+    "description": "&amp;&#35;35; Node.js &amp;amp; MySQL  &amp;&#35;35;&amp;&#35;35; Overview  In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this unit. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.  Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.  &amp;&#35;35;&amp;&#35;35; Submission Guide  Make sure you use the normal GitHub. Because this is a CLI App, there will be no need to deploy it to Heroku. This time, though, you need to include screenshots, a gif, and/or a video showing us that you got the app working with no bugs. You can include these screenshots or a link to a video in a `README.md` file.  * Include screenshots (or a video) of typical user flows through your application (for the...",
+    "forks_count": 0,
+    "html_url": "https://github.com/CaptainEFFF/bamazon",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "bamazon",
+    "repo_owner": "CaptainEFFF",
+    "repotime": "2019-06-17, 19:44:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-06-09",
+    "date_updated": "2019-06-09",
+    "description": "A Webkit RCE exploit and an SBX bug",
+    "forks_count": 15,
+    "html_url": "https://github.com/slowmistio/Issue-198327",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "HTML",
+    "repo_name": "Issue-198327",
+    "repo_owner": "slowmistio",
+    "repotime": "2019-06-09, 01:47:08",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}

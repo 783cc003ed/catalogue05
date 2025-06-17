@@ -3168,3 +3168,1588 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 4,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "Vulnerability CVE-2021-44228 allows remote code execution without authentication for several versions of Apache Log4j2 (Log4Shell). Attackers can exploit vulnerable servers by connecting over any protocol, such as HTTPS, and sending a specially crafted string.",
+    "forks_count": 2,
+    "html_url": "https://github.com/demining/Log4j-Vulnerability",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Log4j-Vulnerability",
+    "repo_owner": "demining",
+    "repotime": "2023-01-31, 23:35:59",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-6921, CVE-2016-6923, CVE-2016-6925, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4279",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4279",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-31, 20:57:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6929",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6929",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-31, 20:57:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6930",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6930",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-31, 20:57:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6923, CVE-2016-6925, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6921",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6921",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-31, 20:57:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6932",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6932",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-31, 20:57:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "A CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability exists in a function that could allow an attacker to create or overwrite critical files that are used to execute code, such as programs or libraries and cause path traversal attacks. Affected Products: EcoStruxure Pow CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-22731",
+    "keywords": [
+        "directory traversal vulnerability",
+        "directory traversal attack",
+        "path traversal vulnerability",
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-22731",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-31, 03:16:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "A CWE 502: Deserialization of Untrusted Data vulnerability exists that could allow code to be remotely executed on the server when unsafely deserialized data is posted to the web server. Affected Products: Data Center Expert (Versions prior to V7.9.0) CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32521",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32521",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-31, 03:16:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "The Membership For WooCommerce WordPress plugin before 2.1.7 does not validate uploaded files, which could allow unauthenticated users to upload arbitrary files, such as malicious PHP code, and achieve RCE. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-4395",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-4395",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-31, 01:06:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 148 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-1760",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-1760",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 20:42:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 148 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-1758",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-1758",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 20:42:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "Potential vulnerabilities have been identified in HP Security Manager which may allow escalation of privilege, arbitrary code execution, and information disclosure. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-46359",
+    "keywords": [
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-46359",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 13:03:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "Potential vulnerabilities have been identified in HP Security Manager which may allow escalation of privilege, arbitrary code execution, and information disclosure. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-46358",
+    "keywords": [
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-46358",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 13:03:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "Potential vulnerabilities have been identified in HP Security Manager which may allow escalation of privilege, arbitrary code execution, and information disclosure. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-46357",
+    "keywords": [
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-46357",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 13:03:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "Potential vulnerabilities have been identified in HP Security Manager which may allow escalation of privilege, arbitrary code execution, and information disclosure. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-46356",
+    "keywords": [
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-46356",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 13:03:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-01-29",
+    "date_updated": "2023-01-29",
+    "description": "The official exploit for Froxlor Remote Code Execution CVE-2023-0315",
+    "forks_count": 3,
+    "html_url": "https://github.com/mhaskar/CVE-2023-0315",
+    "keywords": [
+        "remote code execution exploit",
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-0315",
+    "repo_owner": "mhaskar",
+    "repotime": "2023-01-29, 21:23:55",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-27",
+    "date_updated": "2023-01-27",
+    "description": "Advantech WebAccess HMI Designer, Versions 2.1.9.31 and prior. Multiple heap-based buffer overflow vulnerabilities may be exploited by opening specially crafted project files that may overflow the heap, which may allow remote code execution, disclosure/modification of information, or cause the application to crash. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-16207",
+    "keywords": [
+        "remote code execution disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-16207",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-27, 22:40:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-27",
+    "date_updated": "2023-01-27",
+    "description": "Use After Free in Remote logging (which is disabled by default) in McAfee McAfee Agent (MA) 5.x prior to 5.6.0 allows remote unauthenticated attackers to cause a Denial of Service and potentially a remote code execution via a specially crafted HTTP header sent to the logging service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-6703",
+    "keywords": [
+        "remote code execution denial of service",
+        "use after free denial of service",
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-6703",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-27, 20:28:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-12-20",
+    "date_updated": "2023-01-27",
+    "description": "This will help you inject a shellcode hosted as text  remotly into a process",
+    "forks_count": 11,
+    "html_url": "https://github.com/soufianetahiri/RemoteShellCodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "RemoteShellCodeInjection",
+    "repo_owner": "soufianetahiri",
+    "repotime": "2023-01-27, 12:58:14",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-01-28",
+    "date_updated": "2023-01-27",
+    "description": "This will help you inject a shellcode hosted as text  remotly into a process",
+    "forks_count": 10,
+    "html_url": "https://github.com/xcalibure2/RemoteShellCodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "RemoteShellCodeInjection",
+    "repo_owner": "xcalibure2",
+    "repotime": "2023-01-27, 12:58:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-27",
+    "date_updated": "2023-01-27",
+    "description": "In Eclipse GlassFish versions 5.1.0 to 6.2.5, there is a vulnerability in relative path traversal because it does not filter request path starting with './'. Successful exploitation could allow an remote unauthenticated attacker to access critical data, such as configuration files and deployed application source code. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-2712",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-2712",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-27, 12:46:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in the Transform object implementation in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via a flash.geom.Matrix callback, a different vulnerability than CVE-2016-10 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-1016",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-1016",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 19:05:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in the LoadVars.decode function in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1011, CVE-2016-101 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-1017",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-1017",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 16:54:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1011, CVE-2016-1013, CVE-2016-1016, and CVE-2016-1 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-1031",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-1031",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 16:54:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4227, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4226",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4226",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 16:54:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1013, CVE-2016-1016, CVE-2016-1017, and CVE-2016-1 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-1011",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-1011",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 16:54:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1011, CVE-2016-1016, CVE-2016-1017, and CVE-2016-1 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-1013",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-1013",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 16:54:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4227",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4227",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:22:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4228",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4228",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:22:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4229",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4229",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:22:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4230",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4230",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:22:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4248",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4248",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:22:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4231",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4231",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:21:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4226, CVE-2016-4227, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4222",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4222",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:21:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-01-26",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4226, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-7020",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-7020",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 00:21:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-24",
+    "date_updated": "2023-01-24",
+    "description": "A path traversal vulnerability in loader.php of CWP v0.9.8.1122 allows attackers to execute arbitrary code via a crafted POST request. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-25046",
+    "keywords": [
+        "path traversal vulnerability",
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-25046",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-24, 16:28:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-01-23",
+    "date_updated": "2023-01-24",
+    "description": "I found a vulnerability in supbrocess module, this vulnerability can be exploited to exploit a RCE (Remote Code Execution)",
+    "forks_count": 0,
+    "html_url": "https://github.com/mauricelambert/PythonSubprocessVulnerabilityPOC",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution exploit",
+        "Windows rce poc",
+        "Windows rce exploitation",
+        "Windows rce",
+        "Windows remote code execution",
+        "Windows remote code execution exploitation",
+        "Windows rce vulnerability",
+        "remote code execution poc",
+        "Windows remote code execution poc",
+        "remote code execution vulnerability",
+        "Windows rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "PythonSubprocessVulnerabilityPOC",
+    "repo_owner": "mauricelambert",
+    "repotime": "2023-01-24, 11:24:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-24",
+    "date_updated": "2023-01-24",
+    "description": "Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21775",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Chromium remote code execution",
+        "Chromium remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21775",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-24, 03:08:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 21,
+    "date_started": "2021-10-27",
+    "date_updated": "2023-01-23",
+    "description": "cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50",
+    "forks_count": 14,
+    "html_url": "https://github.com/walnutsecurity/cve-2021-42013",
+    "keywords": [
+        "path traversal vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2021-42013",
+    "repo_owner": "walnutsecurity",
+    "repotime": "2023-01-23, 22:11:56",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-08-29",
+    "date_updated": "2023-01-23",
+    "description": "Designed an automated Python script that utilizes ARP spoofing to conduct vulnerability testing by identifying and exploiting weaknesses in a target's network security.",
+    "forks_count": 0,
+    "html_url": "https://github.com/yogendradevil/ARP-Spoofing-Attack",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "ARP-Spoofing-Attack",
+    "repo_owner": "yogendradevil",
+    "repotime": "2023-01-23, 18:55:38",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-20",
+    "date_updated": "2023-01-21",
+    "description": "erohtar/Dasherr is a dashboard for self-hosted services. In affected versions unrestricted file upload allows any unauthenticated user to execute arbitrary code on the server. The file /www/include/filesave.php allows for any file to uploaded to anywhere. If an attacker uploads a php file they can execute code on the s CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-23607",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-23607",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-21, 00:23:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-01-15",
+    "date_updated": "2023-01-20",
+    "description": "Cacti: Unauthenticated Remote Code Execution Exploit in Ruby ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Habib0x0/CVE-2022-46169",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "remote code execution exploitation"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2022-46169",
+    "repo_owner": "Habib0x0",
+    "repotime": "2023-01-20, 11:10:38",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.333 and 19.x through 21.x before 21.0.0.182 on Windows and OS X and before 11.2.202.577 on Linux, Adobe AIR before 21.0.0.176, Adobe AIR SDK before 21.0.0.176, and Adobe AIR SDK &amp;amp; Compiler before 21.0.0.176 allows attackers to execute arbitrary code via u CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-0991",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-0991",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:38:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.333 and 19.x through 21.x before 21.0.0.182 on Windows and OS X and before 11.2.202.577 on Linux, Adobe AIR before 21.0.0.176, Adobe AIR SDK before 21.0.0.176, and Adobe AIR SDK &amp;amp; Compiler before 21.0.0.176 allows attackers to execute arbitrary code via u CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-0988",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-0988",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:38:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE-2016-6925, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-4272",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-4272",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:38:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6925, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6923",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6923",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:38:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6925",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6925",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:38:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6926",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6926",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:38:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-19",
+    "date_updated": "2023-01-19",
+    "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-4279, CVE-2016-6921, CVE-2016-6923, CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-6927",
+    "keywords": [
+        "Windows use after free vulnerability",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-6927",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-19, 07:37:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Microsoft Office Visio Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21737, CVE-2023-21738. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21736",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21736",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 18:22:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21732",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21732",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 17:16:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Prior Dell BIOS versions contain an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34460",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34460",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 12:52:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34393",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34393",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 12:52:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32490",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32490",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 12:52:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a Hard-coded Password Vulnerability. An attacker, with the knowledge of the hard-coded credentials, could potentially exploit this vulnerability to login to the system to gain admin privileges. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34462",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34462",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 12:52:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Sewio’s Real-Time Location System (RTLS) Studio version 2.0.0 up to and including version 2.6.2 contains hard-coded passwords for select users in the application’s database. This could allow a remote attacker to login to the database with unrestricted access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-45444",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-45444",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 07:22:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Windows Layer 2 Tunneling Protocol (L2TP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21543, CVE-2023-21546, CVE-2023-21555, CVE-2023-21556. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21679",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21679",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 07:22:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Windows Lightweight Directory Access Protocol (LDAP) Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21676",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21676",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 07:22:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Microsoft Office Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21735. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21734",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21734",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 07:21:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Microsoft Office Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21734. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21735",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21735",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 07:21:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Microsoft SharePoint Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21744. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21742",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21742",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 07:21:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Microsoft SharePoint Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21742. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21744",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21744",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 07:21:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 170,
+    "date_started": "2017-12-13",
+    "date_updated": "2023-01-17",
+    "description": "bXSS is a utility which can be used by bug hunters and organizations to identify Blind Cross-Site Scripting.",
+    "forks_count": 65,
+    "html_url": "https://github.com/LewisArdern/bXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "bXSS",
+    "repo_owner": "LewisArdern",
+    "repotime": "2023-01-17, 16:45:07",
+    "stargazers_count": 539,
+    "watchers_count": 539
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-17",
+    "date_updated": "2023-01-17",
+    "description": "Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21681",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21681",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-17, 22:25:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-17",
+    "date_updated": "2023-01-17",
+    "description": "Windows Layer 2 Tunneling Protocol (L2TP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21543, CVE-2023-21546, CVE-2023-21556, CVE-2023-21679. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21555",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21555",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-17, 20:15:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-17",
+    "date_updated": "2023-01-17",
+    "description": "Windows Layer 2 Tunneling Protocol (L2TP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21543, CVE-2023-21555, CVE-2023-21556, CVE-2023-21679. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21546",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21546",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-17, 16:56:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-17",
+    "date_updated": "2023-01-17",
+    "description": "Windows Layer 2 Tunneling Protocol (L2TP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21546, CVE-2023-21555, CVE-2023-21556, CVE-2023-21679. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21543",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21543",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-17, 16:56:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-02-03",
+    "date_updated": "2023-01-17",
+    "description": "Example of a vulnerable NodeJS+Express+MySQL service",
+    "forks_count": 12,
+    "html_url": "https://github.com/stypr/vulnerable-nodejs-express-mysql",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "vulnerable-nodejs-express-mysql",
+    "repo_owner": "stypr",
+    "repotime": "2023-01-17, 14:38:19",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-13",
+    "date_updated": "2023-01-14",
+    "description": "Adobe InCopy versions 18.0 (and earlier), 17.4 (and earlier) are affected by an Improper Input Validation vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21596",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21596",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-14, 00:48:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-13",
+    "date_updated": "2023-01-13",
+    "description": "NVIDIA DGX Station contains a vulnerability in SBIOS in the SmiFlash, where a local user with elevated privileges can read, write and erase flash, which may lead to code execution, escalation of privileges, denial of service, and information disclosure. The scope of impact can extend to other components. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42277",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42277",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-13, 07:14:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-13",
+    "date_updated": "2023-01-13",
+    "description": "NVIDIA DGX A100 contains a vulnerability in SBIOS in the SmiFlash, where a local user with elevated privileges can read, write and erase flash, which may lead to code execution, escalation of privileges, denial of service, and information disclosure. The scope of impact can extend to other components. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42276",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42276",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-13, 07:14:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 22,
+    "date_started": "2022-11-25",
+    "date_updated": "2023-01-12",
+    "description": "An ongoing &amp;amp; curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Zero-day attack and exploits in Cybersecurity",
+    "forks_count": 4,
+    "html_url": "https://github.com/paulveillard/cybersecurity-zero-day",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "cybersecurity-zero-day",
+    "repo_owner": "paulveillard",
+    "repotime": "2023-01-12, 15:53:55",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-11",
+    "date_updated": "2023-01-11",
+    "description": "NVIDIA vGPU Display Driver for Linux guest contains a vulnerability in a D-Bus configuration file, where an unauthorized user in the guest VM can impact protected D-Bus endpoints, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42260",
+    "keywords": [
+        "escalation of privileges disclosure",
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42260",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-11, 23:12:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-10-23",
+    "date_updated": "2023-01-11",
+    "description": "cve-2021-41773.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49",
+    "forks_count": 3,
+    "html_url": "https://github.com/walnutsecurity/cve-2021-41773",
+    "keywords": [
+        "path traversal vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2021-41773",
+    "repo_owner": "walnutsecurity",
+    "repotime": "2023-01-11, 19:34:08",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-11",
+    "date_updated": "2023-01-11",
+    "description": "Windows Authentication Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21539",
+    "keywords": [
+        "Windows remote code execution",
+        "remote code execution vulnerability",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21539",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-11, 01:11:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-11",
+    "date_updated": "2023-01-11",
+    "description": "Windows Secure Socket Tunneling Protocol (SSTP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21548. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21535",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21535",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-11, 01:10:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-11",
+    "date_updated": "2023-01-11",
+    "description": "Windows Secure Socket Tunneling Protocol (SSTP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21535. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21548",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21548",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-11, 01:09:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-01-10",
+    "date_updated": "2023-01-10",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/apriant-codex/Windows-Defender-RCE-Version-4.18.2210.6",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": null,
+    "repo_name": "Windows-Defender-RCE-Version-4.18.2210.6",
+    "repo_owner": "apriant-codex",
+    "repotime": "2023-01-10, 14:09:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-09",
+    "date_updated": "2023-01-09",
+    "description": "NVIDIA distributions of Linux contain a vulnerability in nvdla_emu_task_submit, where unvalidated input may allow a local attacker to cause stack-based buffer overflow in kernel code, which may lead to escalation of privileges, compromised integrity and confidentiality, and denial of service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42270",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42270",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-09, 22:43:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-09",
+    "date_updated": "2023-01-09",
+    "description": "A vulnerability classified as problematic was found in Talend Open Studio for MDM. This vulnerability affects unknown code of the component XML Handler. The manipulation leads to xml external entity reference. The name of the patch is 31d442b9fb1d518128fd18f6e4d54e06c3d67793. It is recommended to apply a patch to fix t CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-4311",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-4311",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-09, 15:04:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-07",
+    "date_updated": "2023-01-07",
+    "description": "A vulnerability classified as problematic was found in kelvinmo simplexrd up to 3.1.0. This vulnerability affects unknown code of the file simplexrd/simplexrd.class.php. The manipulation leads to xml external entity reference. Upgrading to version 3.1.1 is able to address this issue. The name of the patch is 4c9f2e0285 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2015-10029",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2015-10029",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-07, 22:36:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-07",
+    "date_updated": "2023-01-07",
+    "description": "A vulnerability classified as critical has been found in Netis Netcore Router. This affects an unknown part. The manipulation leads to use of hard-coded password. It is possible to initiate the attack remotely. The identifier VDB-217593 was assigned to this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-25069",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-25069",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-07, 12:49:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-05-15",
+    "date_updated": "2023-01-06",
+    "description": "POC Script for CVE-2020-12800: RCE through Unrestricted File Type Upload ",
+    "forks_count": 13,
+    "html_url": "https://github.com/amartinsec/CVE-2020-12800",
+    "keywords": [
+        "unrestricted file upload",
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-12800",
+    "repo_owner": "amartinsec",
+    "repotime": "2023-01-06, 18:08:57",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-06",
+    "date_updated": "2023-01-07",
+    "description": "CVE-2022-44877 Centos Web Panel 7 Unauthenticated Remote Code Execution",
+    "forks_count": 1,
+    "html_url": "https://github.com/komomon/CVE-2022-44877-RCE",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-44877-RCE",
+    "repo_owner": "komomon",
+    "repotime": "2023-01-07, 01:00:01",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-01-04",
+    "description": "A Zero-day exploit that affects Windows, and potentially linux machines with powershell installed.",
+    "forks_count": 0,
+    "html_url": "https://github.com/r3dg0d/Powershell-0-day",
+    "keywords": [
+        "Windows zero-day exploit",
+        "Windows zero-day",
+        "zero-day exploit",
+        "Windows zero-day exploitation",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Powershell-0-day",
+    "repo_owner": "r3dg0d",
+    "repotime": "2023-01-04, 13:23:02",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-06-25",
+    "date_updated": "2023-01-03",
+    "description": "A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution.",
+    "forks_count": 2,
+    "html_url": "https://github.com/kahla-sec/CVE-2021-27850_POC",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2021-27850_POC",
+    "repo_owner": "kahla-sec",
+    "repotime": "2023-01-03, 14:46:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-09-29",
+    "date_updated": "2023-01-01",
+    "description": "File dropper for remote second stage payloads (C++ DLL Code).",
+    "forks_count": 2,
+    "html_url": "https://github.com/A-poc/DLLDropper",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "C++",
+    "repo_name": "DLLDropper",
+    "repo_owner": "A-poc",
+    "repotime": "2023-01-01, 21:55:14",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-01",
+    "date_updated": "2023-01-01",
+    "description": "A vulnerability, which was classified as critical, has been found in taoeffect Empress. Affected by this issue is some unknown functionality. The manipulation leads to use of hard-coded password. The name of the patch is 557e177d8a309d6f0f26de46efb38d43e000852d. It is recommended to apply a patch to fix this issue. VDB CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2014-125030",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "CVE-2014-125030",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-01, 13:12:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -195,3 +195,397 @@
     "stargazers_count": 200,
     "watchers_count": 200
 }
+{
+    "commits_count": 8,
+    "date_started": "2021-07-29",
+    "date_updated": "2023-10-26",
+    "description": "<no description>",
+    "forks_count": 683,
+    "html_url": "https://github.com/HackerUSA-CE/CS-Mock-XSS-Attack",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CS-Mock-XSS-Attack",
+    "repo_owner": "HackerUSA-CE",
+    "repotime": "2023-10-26, 09:55:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-10-26",
+    "date_updated": "2023-10-26",
+    "description": "This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Pushkarup/CVE-2023-23397",
+    "keywords": [
+        "zero-day exploit",
+        "Microsoft zero-day",
+        "Microsoft zero-day exploit",
+        "Microsoft zero-day vulnerability",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "Microsoft zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-23397",
+    "repo_owner": "Pushkarup",
+    "repotime": "2023-10-26, 15:41:19",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-10-24",
+    "date_updated": "2023-10-24",
+    "description": "Proof-of-concept displaying how you can abuse a UAF to poison the tcache, by overwriting the fd pointer, forcing malloc to return an arbitrary pointer/address.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ihatetheheap/tcache_poisoning",
+    "keywords": [
+        "uaf proof of concept"
+    ],
+    "language": "C",
+    "repo_name": "tcache_poisoning",
+    "repo_owner": "ihatetheheap",
+    "repotime": "2023-10-24, 05:44:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-10-21",
+    "date_updated": "2023-10-21",
+    "description": "Using non-linear Support Vector Machine (SVM) and random forest modelling,  this report will attempt to predict the outcome of sale, based on the combinations of the predictor variables for each Amazon.ca browsing session. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Cimm-Yeoman/Amazon-Sale-Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": null,
+    "repo_name": "Amazon-Sale-Prediction",
+    "repo_owner": "Cimm-Yeoman",
+    "repotime": "2023-10-21, 18:06:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 101,
+    "date_started": "2023-06-06",
+    "date_updated": "2023-10-18",
+    "description": "Our objective is to update the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups",
+    "forks_count": 0,
+    "html_url": "https://github.com/IRB0T/IOC",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "IOC",
+    "repo_owner": "IRB0T",
+    "repotime": "2023-10-18, 10:37:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-10-15",
+    "date_updated": "2023-10-15",
+    "description": "Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts &amp;lt; Unauthenticated Arbitrary File Upload/Exploit ",
+    "forks_count": 1,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-45603-PoC",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-45603-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-10-15, 05:16:29",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 14,
+    "date_started": "2015-07-10",
+    "date_updated": "2023-10-10",
+    "description": "In this project I have incorporated and presented the working environment of the Freeway Traffic around a Suspension Bridge also known as “Bascule Bridge in 2D” using OpenGL. The bascule bridge works with a counterweight that balances the span (leaf) while the upward swing provides clearance for boat traffic. Here, we have created a scene consisting of the Bascule Bridge which operates to allow a Boat to pass under it and an Aeroplane passing over it while a Bus waits for the leaf of the Bridge to swing back into its original position and then passes along the Bridge after the Boat and Aeroplane have sailed across. Thus, all the 3 modes of the traffic-Air, Water and Road are handled. All the components have been clearly demarcated to cater even to a novice user.  An extensive user-interface system is provided through a popup menu with all the toggles attached to the right mouse button. We have even provided keyboard interface to start, stop motion and to exit the window. The overall me...",
+    "forks_count": 0,
+    "html_url": "https://github.com/AkshayRaina/Freeway-Traffic-Around-A-Bascule-Bridge-In-2D-Using-OpenGL",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "C",
+    "repo_name": "Freeway-Traffic-Around-A-Bascule-Bridge-In-2D-Using-OpenGL",
+    "repo_owner": "AkshayRaina",
+    "repotime": "2023-10-10, 21:47:08",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 83,
+    "date_started": "2022-04-05",
+    "date_updated": "2023-10-07",
+    "description": "Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!",
+    "forks_count": 223,
+    "html_url": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploit"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "Awesome-RCE-techniques",
+    "repo_owner": "p0dalirius",
+    "repotime": "2023-10-07, 10:54:45",
+    "stargazers_count": 1898,
+    "watchers_count": 1898
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-27",
+    "date_updated": "2023-10-04",
+    "description": "Testing Google Guice for dependency injection and Google Guava for working with data records from a csv file.",
+    "forks_count": 0,
+    "html_url": "https://github.com/BongaGougota0/Google_Guice_Guava_Libraries",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Java",
+    "repo_name": "Google_Guice_Guava_Libraries",
+    "repo_owner": "BongaGougota0",
+    "repotime": "2023-10-04, 15:45:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-10-04",
+    "date_updated": "2023-10-04",
+    "description": "CVE-2023-33831 - FUXA &amp;lt; Unauthenticated Remote Code Execution [RCE]",
+    "forks_count": 1,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-33831-PoC",
+    "keywords": [
+        "0day poc",
+        "unauthenticated rce",
+        "unauthenticated remote code execution",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-33831-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-10-04, 04:15:12",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 58,
+    "date_started": "2020-02-11",
+    "date_updated": "2023-10-03",
+    "description": "      CREDITS SEQUENCE              NEWSPAPER HEADLINE MONTAGE:              HEADLINES flash before us, displaying their accompanying       photographs.              &amp;quot;UBERMAN - METRO CITY'S HERO AFTER DEFEATING MASTER MIND!              PHOTO: A chiseled, statuesque man wearing the COOLEST SUPER       HERO SUIT IMAGINABLE, COMPLETE WITH FLOWING CAPE, shines a       confident smile at the lens. This is UBERMAN, champion of       METRO CITY.              &amp;quot;UBERMAN DEFEATS MASTER MIND'S GIANT ROBOT!&amp;quot;              PHOTO: Wide-shot of Uberman in mid-flight lifting the GIANT       ROBOT in the sky above the city buildings.              &amp;quot;MASTER MIND ALL WET AFTER UBERMAN FOILS AQUARIUM HEIST!&amp;quot;              PHOTO: Uberman stands knee-deep in water. He has his enemy by       the collar. The villain blocks his face from the shot with a       METALLIC GAUNTLET.              The images start to flash by even quicker, each showing the       MYSTERIOUS VILLAIN in various stag...",
+    "forks_count": 78,
+    "html_url": "https://github.com/rprokap/pset-9",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "pset-9",
+    "repo_owner": "rprokap",
+    "repotime": "2023-10-03, 17:46:12",
+    "stargazers_count": 200,
+    "watchers_count": 200
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-07-29",
+    "date_updated": "2023-10-26",
+    "description": "<no description>",
+    "forks_count": 683,
+    "html_url": "https://github.com/HackerUSA-CE/CS-Mock-XSS-Attack",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CS-Mock-XSS-Attack",
+    "repo_owner": "HackerUSA-CE",
+    "repotime": "2023-10-26, 09:55:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-10-26",
+    "date_updated": "2023-10-26",
+    "description": "This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Pushkarup/CVE-2023-23397",
+    "keywords": [
+        "zero-day exploit",
+        "Microsoft zero-day",
+        "Microsoft zero-day exploit",
+        "Microsoft zero-day vulnerability",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "Microsoft zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-23397",
+    "repo_owner": "Pushkarup",
+    "repotime": "2023-10-26, 15:41:19",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-10-24",
+    "date_updated": "2023-10-24",
+    "description": "Proof-of-concept displaying how you can abuse a UAF to poison the tcache, by overwriting the fd pointer, forcing malloc to return an arbitrary pointer/address.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ihatetheheap/tcache_poisoning",
+    "keywords": [
+        "uaf proof of concept"
+    ],
+    "language": "C",
+    "repo_name": "tcache_poisoning",
+    "repo_owner": "ihatetheheap",
+    "repotime": "2023-10-24, 05:44:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-10-21",
+    "date_updated": "2023-10-21",
+    "description": "Using non-linear Support Vector Machine (SVM) and random forest modelling,  this report will attempt to predict the outcome of sale, based on the combinations of the predictor variables for each Amazon.ca browsing session. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Cimm-Yeoman/Amazon-Sale-Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": null,
+    "repo_name": "Amazon-Sale-Prediction",
+    "repo_owner": "Cimm-Yeoman",
+    "repotime": "2023-10-21, 18:06:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 101,
+    "date_started": "2023-06-06",
+    "date_updated": "2023-10-18",
+    "description": "Our objective is to update the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups",
+    "forks_count": 0,
+    "html_url": "https://github.com/IRB0T/IOC",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "IOC",
+    "repo_owner": "IRB0T",
+    "repotime": "2023-10-18, 10:37:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-10-15",
+    "date_updated": "2023-10-15",
+    "description": "Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts &amp;lt; Unauthenticated Arbitrary File Upload/Exploit ",
+    "forks_count": 1,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-45603-PoC",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-45603-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-10-15, 05:16:29",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 14,
+    "date_started": "2015-07-10",
+    "date_updated": "2023-10-10",
+    "description": "In this project I have incorporated and presented the working environment of the Freeway Traffic around a Suspension Bridge also known as “Bascule Bridge in 2D” using OpenGL. The bascule bridge works with a counterweight that balances the span (leaf) while the upward swing provides clearance for boat traffic. Here, we have created a scene consisting of the Bascule Bridge which operates to allow a Boat to pass under it and an Aeroplane passing over it while a Bus waits for the leaf of the Bridge to swing back into its original position and then passes along the Bridge after the Boat and Aeroplane have sailed across. Thus, all the 3 modes of the traffic-Air, Water and Road are handled. All the components have been clearly demarcated to cater even to a novice user.  An extensive user-interface system is provided through a popup menu with all the toggles attached to the right mouse button. We have even provided keyboard interface to start, stop motion and to exit the window. The overall me...",
+    "forks_count": 0,
+    "html_url": "https://github.com/AkshayRaina/Freeway-Traffic-Around-A-Bascule-Bridge-In-2D-Using-OpenGL",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "C",
+    "repo_name": "Freeway-Traffic-Around-A-Bascule-Bridge-In-2D-Using-OpenGL",
+    "repo_owner": "AkshayRaina",
+    "repotime": "2023-10-10, 21:47:08",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 83,
+    "date_started": "2022-04-05",
+    "date_updated": "2023-10-07",
+    "description": "Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!",
+    "forks_count": 223,
+    "html_url": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploit"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "Awesome-RCE-techniques",
+    "repo_owner": "p0dalirius",
+    "repotime": "2023-10-07, 10:54:45",
+    "stargazers_count": 1901,
+    "watchers_count": 1901
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-27",
+    "date_updated": "2023-10-04",
+    "description": "Testing Google Guice for dependency injection and Google Guava for working with data records from a csv file.",
+    "forks_count": 0,
+    "html_url": "https://github.com/BongaGougota0/Google_Guice_Guava_Libraries",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Java",
+    "repo_name": "Google_Guice_Guava_Libraries",
+    "repo_owner": "BongaGougota0",
+    "repotime": "2023-10-04, 15:45:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-10-04",
+    "date_updated": "2023-10-04",
+    "description": "CVE-2023-33831 - FUXA &amp;lt; Unauthenticated Remote Code Execution [RCE]",
+    "forks_count": 1,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-33831-PoC",
+    "keywords": [
+        "0day poc",
+        "unauthenticated rce",
+        "unauthenticated remote code execution",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-33831-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-10-04, 04:15:12",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 58,
+    "date_started": "2020-02-11",
+    "date_updated": "2023-10-03",
+    "description": "      CREDITS SEQUENCE              NEWSPAPER HEADLINE MONTAGE:              HEADLINES flash before us, displaying their accompanying       photographs.              &amp;quot;UBERMAN - METRO CITY'S HERO AFTER DEFEATING MASTER MIND!              PHOTO: A chiseled, statuesque man wearing the COOLEST SUPER       HERO SUIT IMAGINABLE, COMPLETE WITH FLOWING CAPE, shines a       confident smile at the lens. This is UBERMAN, champion of       METRO CITY.              &amp;quot;UBERMAN DEFEATS MASTER MIND'S GIANT ROBOT!&amp;quot;              PHOTO: Wide-shot of Uberman in mid-flight lifting the GIANT       ROBOT in the sky above the city buildings.              &amp;quot;MASTER MIND ALL WET AFTER UBERMAN FOILS AQUARIUM HEIST!&amp;quot;              PHOTO: Uberman stands knee-deep in water. He has his enemy by       the collar. The villain blocks his face from the shot with a       METALLIC GAUNTLET.              The images start to flash by even quicker, each showing the       MYSTERIOUS VILLAIN in various stag...",
+    "forks_count": 78,
+    "html_url": "https://github.com/rprokap/pset-9",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "pset-9",
+    "repo_owner": "rprokap",
+    "repotime": "2023-10-03, 17:46:12",
+    "stargazers_count": 200,
+    "watchers_count": 200
+}

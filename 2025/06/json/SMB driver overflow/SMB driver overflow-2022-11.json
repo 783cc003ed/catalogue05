@@ -112,3 +112,60 @@
     "stargazers_count": 2,
     "watchers_count": 2
 }
+{
+    "commits_count": 3,
+    "date_started": "2022-11-19",
+    "date_updated": "2022-11-19",
+    "description": "A Command Line based python tool for exploit Zero-Day vulnerability in MSDT (Microsoft Support Diagnostic Tool) also know as 'Follina' CVE-2022-30190.",
+    "forks_count": 3,
+    "html_url": "https://github.com/0xAbbarhSF/FollinaXploit",
+    "keywords": [
+        "Microsoft zero-day exploit",
+        "Microsoft zero-day exploitation",
+        "Microsoft zero-day",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "Microsoft zero-day vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "FollinaXploit",
+    "repo_owner": "0xAbbarhSF",
+    "repotime": "2022-11-19, 19:41:57",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 22,
+    "date_started": "2017-10-22",
+    "date_updated": "2022-11-03",
+    "description": "proof-of-concept Windows Driver for injecting DLL into user-mode processes using APC",
+    "forks_count": 235,
+    "html_url": "https://github.com/wbenny/injdrv",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "C",
+    "repo_name": "injdrv",
+    "repo_owner": "wbenny",
+    "repotime": "2022-11-03, 10:22:10",
+    "stargazers_count": 838,
+    "watchers_count": 838
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-07-10",
+    "date_updated": "2022-11-01",
+    "description": " A light &amp;amp; organized Python module built with the sole purpose of extracting a Twitter user-object while conforming to Tweepy standards, all without using Twitter's authenticated API.",
+    "forks_count": 0,
+    "html_url": "https://github.com/a3r0id/twitter-user",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "twitter-user",
+    "repo_owner": "a3r0id",
+    "repotime": "2022-11-01, 12:30:39",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

@@ -123,3 +123,253 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 6,
+    "date_started": "2019-05-30",
+    "date_updated": "2019-05-30",
+    "description": "Code snippet to demonstrate Local File Inclusion vulnerability and mitigation",
+    "forks_count": 1,
+    "html_url": "https://github.com/dsinecos/local-file-inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "JavaScript",
+    "repo_name": "local-file-inclusion",
+    "repo_owner": "dsinecos",
+    "repotime": "2019-05-30, 14:49:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-05-12",
+    "date_updated": "2019-05-12",
+    "description": "The join_session_keyring function in security/keys/process_keys.c in the Linux kernel before 4.4.1 mishandles object references in a certain error case, which allows local users to gain privileges or cause a denial of service (integer overflow and use-after-free) via crafted keyctl commands.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Spartan-X/Refcount-Overflow-Use-After-Free",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "Refcount-Overflow-Use-After-Free",
+    "repo_owner": "Spartan-X",
+    "repotime": "2019-05-12, 19:23:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2019-11-04",
+    "date_updated": "2019-05-12",
+    "description": "Advanced TCP-IP session hijack for any unencrypted protocols and inject data using same credentials stealthily",
+    "forks_count": 5,
+    "html_url": "https://github.com/marciopocebon/TCP-IP-Session-Hijacker",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": null,
+    "repo_name": "TCP-IP-Session-Hijacker",
+    "repo_owner": "marciopocebon",
+    "repotime": "2019-05-12, 09:10:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 48,
+    "date_started": "2017-03-07",
+    "date_updated": "2019-05-09",
+    "description": "Automatic remote/local file inclusion vulnerability analysis and exploit tool",
+    "forks_count": 16,
+    "html_url": "https://github.com/Hack-Hut/CrabStick",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "CrabStick",
+    "repo_owner": "Hack-Hut",
+    "repotime": "2019-05-09, 00:04:00",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-05-06",
+    "date_updated": "2019-05-09",
+    "description": "Zimbra邮件系统漏洞 XXE/RCE/SSRF/Upload GetShell Exploit  1. (CVE-2019-9621 Zimbra&amp;lt;8.8.11  XXE GetShell Exploit)",
+    "forks_count": 41,
+    "html_url": "https://github.com/k8gege/ZimbraExploit",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "rce exploit",
+        "0day poc",
+        "xxe",
+        "rce exploitation",
+        "rce poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "ZimbraExploit",
+    "repo_owner": "k8gege",
+    "repotime": "2019-05-09, 00:22:58",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-02-17",
+    "date_updated": "2019-05-05",
+    "description": "A proof of concept for using dotMemory Unit in unit tests to automatically find memory leaks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/costin-zaharia/memory-profiling",
+    "keywords": [
+        "memory leak proof of concept"
+    ],
+    "language": "C#",
+    "repo_name": "memory-profiling",
+    "repo_owner": "costin-zaharia",
+    "repotime": "2019-05-05, 14:55:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-04-25",
+    "date_updated": "2019-05-02",
+    "description": "&amp;&#35;35; Node.js &amp;amp; MySQL  &amp;&#35;35;&amp;&#35;35; Overview  In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this unit. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.  Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.  &amp;&#35;35;&amp;&#35;35; Submission Guide  Make sure you use the normal GitHub. Because this is a CLI App, there will be no need to deploy it to Heroku. This time, though, you need to include screenshots, a gif, and/or a video showing us that you got the app working with no bugs. You can include these screenshots or a link to a video in a `README.md` file.  * Include screenshots (or a video) of typical user flows through your application (for the...",
+    "forks_count": 0,
+    "html_url": "https://github.com/itsrichardmai/Amazon-Store-Front",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Amazon-Store-Front",
+    "repo_owner": "itsrichardmai",
+    "repotime": "2019-05-02, 19:44:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-05-30",
+    "date_updated": "2019-05-30",
+    "description": "Code snippet to demonstrate Local File Inclusion vulnerability and mitigation",
+    "forks_count": 1,
+    "html_url": "https://github.com/dsinecos/local-file-inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "JavaScript",
+    "repo_name": "local-file-inclusion",
+    "repo_owner": "dsinecos",
+    "repotime": "2019-05-30, 14:49:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-05-12",
+    "date_updated": "2019-05-12",
+    "description": "The join_session_keyring function in security/keys/process_keys.c in the Linux kernel before 4.4.1 mishandles object references in a certain error case, which allows local users to gain privileges or cause a denial of service (integer overflow and use-after-free) via crafted keyctl commands.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Spartan-X/Refcount-Overflow-Use-After-Free",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "Refcount-Overflow-Use-After-Free",
+    "repo_owner": "Spartan-X",
+    "repotime": "2019-05-12, 19:23:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2019-11-04",
+    "date_updated": "2019-05-12",
+    "description": "Advanced TCP-IP session hijack for any unencrypted protocols and inject data using same credentials stealthily",
+    "forks_count": 5,
+    "html_url": "https://github.com/marciopocebon/TCP-IP-Session-Hijacker",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": null,
+    "repo_name": "TCP-IP-Session-Hijacker",
+    "repo_owner": "marciopocebon",
+    "repotime": "2019-05-12, 09:10:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 48,
+    "date_started": "2017-03-07",
+    "date_updated": "2019-05-09",
+    "description": "Automatic remote/local file inclusion vulnerability analysis and exploit tool",
+    "forks_count": 16,
+    "html_url": "https://github.com/Hack-Hut/CrabStick",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "CrabStick",
+    "repo_owner": "Hack-Hut",
+    "repotime": "2019-05-09, 00:04:00",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-05-06",
+    "date_updated": "2019-05-09",
+    "description": "Zimbra邮件系统漏洞 XXE/RCE/SSRF/Upload GetShell Exploit  1. (CVE-2019-9621 Zimbra&amp;lt;8.8.11  XXE GetShell Exploit)",
+    "forks_count": 41,
+    "html_url": "https://github.com/k8gege/ZimbraExploit",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "rce exploit",
+        "0day poc",
+        "xxe",
+        "rce exploitation",
+        "rce poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "ZimbraExploit",
+    "repo_owner": "k8gege",
+    "repotime": "2019-05-09, 00:22:58",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-02-17",
+    "date_updated": "2019-05-05",
+    "description": "A proof of concept for using dotMemory Unit in unit tests to automatically find memory leaks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/costin-zaharia/memory-profiling",
+    "keywords": [
+        "memory leak proof of concept"
+    ],
+    "language": "C#",
+    "repo_name": "memory-profiling",
+    "repo_owner": "costin-zaharia",
+    "repotime": "2019-05-05, 14:55:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-04-25",
+    "date_updated": "2019-05-02",
+    "description": "&amp;&#35;35; Node.js &amp;amp; MySQL  &amp;&#35;35;&amp;&#35;35; Overview  In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this unit. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.  Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.  &amp;&#35;35;&amp;&#35;35; Submission Guide  Make sure you use the normal GitHub. Because this is a CLI App, there will be no need to deploy it to Heroku. This time, though, you need to include screenshots, a gif, and/or a video showing us that you got the app working with no bugs. You can include these screenshots or a link to a video in a `README.md` file.  * Include screenshots (or a video) of typical user flows through your application (for the...",
+    "forks_count": 0,
+    "html_url": "https://github.com/itsrichardmai/Amazon-Store-Front",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Amazon-Store-Front",
+    "repo_owner": "itsrichardmai",
+    "repotime": "2019-05-02, 19:44:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

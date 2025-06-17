@@ -924,3 +924,483 @@
     "stargazers_count": 35,
     "watchers_count": 35
 }
+{
+    "commits_count": 3,
+    "date_started": "2025-03-31",
+    "date_updated": "2025-03-31",
+    "description": "🚀 Automated XSS, HTTP Smuggling &amp;amp; CSP Bypass ✔ Mass vulnerability scanning ✔ Session hijacking &amp;amp; admin takeovers ✔ Built-in defacement &amp;amp; data exfiltration ✔ For ethical hackers &amp;amp; pentesters ✔ Instant Hack",
+    "forks_count": 0,
+    "html_url": "https://github.com/NoTrac3/XRAP",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "XRAP",
+    "repo_owner": "NoTrac3",
+    "repotime": "2025-03-31, 17:41:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 36,
+    "date_started": "2024-01-24",
+    "date_updated": "2025-03-29",
+    "description": "Proof of concept code for thread pool based process injection in Windows.",
+    "forks_count": 13,
+    "html_url": "https://github.com/dlima04/Thread-Pool-Injection-PoC",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "Thread-Pool-Injection-PoC",
+    "repo_owner": "dlima04",
+    "repotime": "2025-03-29, 19:14:46",
+    "stargazers_count": 116,
+    "watchers_count": 116
+}
+{
+    "commits_count": 63,
+    "date_started": "2024-11-10",
+    "date_updated": "2025-03-28",
+    "description": "Batch scripts designed for escalating Windows Privileges and bypassing the blockage of cmd.exe",
+    "forks_count": 0,
+    "html_url": "https://github.com/vel2006/Errox_CMD",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "Python",
+    "repo_name": "Errox_CMD",
+    "repo_owner": "vel2006",
+    "repotime": "2025-03-28, 22:49:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-03-26",
+    "date_updated": "2025-03-26",
+    "description": "SQL injection and Directory Traversal",
+    "forks_count": 0,
+    "html_url": "https://github.com/draven070/vulnerability_tester",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "vulnerability_tester",
+    "repo_owner": "draven070",
+    "repotime": "2025-03-26, 19:19:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-03-26",
+    "date_updated": "2025-03-26",
+    "description": "ZeroHuntAI is an advanced source code vulnerability scanner designed to detect potential zero-day vulnerabilities in your codebase. It combines static code analysis with pattern matching and AI evaluation to identify security issues before they can be exploited.",
+    "forks_count": 0,
+    "html_url": "https://github.com/absholi7ly/ZeroHuntAI",
+    "keywords": [
+        "zero-day analysis",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroHuntAI",
+    "repo_owner": "absholi7ly",
+    "repotime": "2025-03-26, 06:46:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-03-24",
+    "date_updated": "2025-03-24",
+    "description": "A custom Python-based proof-of-concept (PoC) exploit targeting Text4Shell (CVE-2022-42889), a critical remote code execution vulnerability in Apache Commons Text versions &amp;lt; 1.10.",
+    "forks_count": 1,
+    "html_url": "https://github.com/chaudharyarjun/text4shell-exploit",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "text4shell-exploit",
+    "repo_owner": "chaudharyarjun",
+    "repotime": "2025-03-24, 11:48:13",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-03-24",
+    "date_updated": "2025-03-24",
+    "description": "A custom Python-based proof-of-concept (PoC) exploit targeting Text4Shell (CVE-2022-42889), a critical remote code execution vulnerability in Apache Commons Text versions &amp;lt; 1.10.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Syndicate27/text4shell-exploit",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": null,
+    "repo_name": "text4shell-exploit",
+    "repo_owner": "Syndicate27",
+    "repotime": "2025-03-24, 11:48:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2024-09-15",
+    "date_updated": "2025-03-24",
+    "description": "POC - Unauthenticated RCE Flaw in Rejetto HTTP File Server - CVE-2024-23692 ",
+    "forks_count": 15,
+    "html_url": "https://github.com/verylazytech/CVE-2024-23692",
+    "keywords": [
+        "unauthenticated rce",
+        "rce poc"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2024-23692",
+    "repo_owner": "verylazytech",
+    "repotime": "2025-03-24, 12:08:18",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-03-24",
+    "date_updated": "2025-03-23",
+    "description": "A secure authentication system built with Node.js and Express. Features include user registration, login, password validation, session management, and protection against common security vulnerabilities like SQL injection and XSS.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Andy-Hutch/express-secure-auth",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "express-secure-auth",
+    "repo_owner": "Andy-Hutch",
+    "repotime": "2025-03-23, 18:31:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 41,
+    "date_started": "2025-01-03",
+    "date_updated": "2025-03-21",
+    "description": "SQL Injection Scout 是一个用于 Burp Suite 的扩展，专为帮助安全研究人员和开发人员检测和分析 SQL 注入漏洞而设计。该扩展提供了丰富的配置选项和直观的用户界面，便于用户自定义扫描和分析过程。",
+    "forks_count": 6,
+    "html_url": "https://github.com/JaveleyQAQ/SQL-Injection-Scout",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL-Injection-Scout",
+    "repo_owner": "JaveleyQAQ",
+    "repotime": "2025-03-21, 11:14:33",
+    "stargazers_count": 145,
+    "watchers_count": 145
+}
+{
+    "commits_count": 28,
+    "date_started": "2024-10-07",
+    "date_updated": "2025-03-21",
+    "description": "(ICRA'25) &amp;quot;SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis&amp;quot;",
+    "forks_count": 3,
+    "html_url": "https://github.com/Keio-CSG/slamspoof",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "slamspoof",
+    "repo_owner": "Keio-CSG",
+    "repotime": "2025-03-21, 08:12:31",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 52,
+    "date_started": "2015-06-30",
+    "date_updated": "2025-03-19",
+    "description": "My collection of exploit development skeletons for fuzzing, overwriting the stack, remote code execution, etc.",
+    "forks_count": 7,
+    "html_url": "https://github.com/shipcod3/sploitchits",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Classic ASP",
+    "repo_name": "sploitchits",
+    "repo_owner": "shipcod3",
+    "repotime": "2025-03-19, 18:15:10",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 17,
+    "date_started": "2025-03-11",
+    "date_updated": "2025-03-17",
+    "description": "XXE (XML External Entity) vulnerability is a security flaw that occurs when an application processes XML input containing references to external entities. If not properly handled, this can lead to data exposure, file retrieval, SSRF (Server-Side Request Forgery), and even remote code execution in some cases.",
+    "forks_count": 1,
+    "html_url": "https://github.com/harshrathee7/XXE---XML-external-entity-",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XXE---XML-external-entity-",
+    "repo_owner": "harshrathee7",
+    "repotime": "2025-03-17, 13:03:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-03-17",
+    "date_updated": "2025-03-17",
+    "description": "A Python-based Flask web app that scans websites for SQL Injection (SQLi), XSS, and CSRF vulnerabilities. It automates security testing, provides a user-friendly UI, and generates detailed reports (PDF/CSV).",
+    "forks_count": 0,
+    "html_url": "https://github.com/playeron1/Web-Application-Vulnerability-Scanner",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "Web-Application-Vulnerability-Scanner",
+    "repo_owner": "playeron1",
+    "repotime": "2025-03-17, 11:20:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-03-16",
+    "date_updated": "2025-03-17",
+    "description": "Command Injection vulnerability in MagnusSolution magnusbilling 6.x and 7.x allows remote attackers to run arbitrary commands via unauthenticated HTTP request. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Chocapikk/CVE-2023-30258",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2023-30258",
+    "repo_owner": "Chocapikk",
+    "repotime": "2025-03-17, 00:52:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 16,
+    "date_started": "2024-08-06",
+    "date_updated": "2025-03-17",
+    "description": "<no description>",
+    "forks_count": 20,
+    "html_url": "https://github.com/ShadowByte1/XSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "XSS",
+    "repo_owner": "ShadowByte1",
+    "repotime": "2025-03-17, 09:53:09",
+    "stargazers_count": 112,
+    "watchers_count": 112
+}
+{
+    "commits_count": 53,
+    "date_started": "2024-10-17",
+    "date_updated": "2025-03-16",
+    "description": "A woking proof of concept for detecting session hijacking using browser fingerprinting.",
+    "forks_count": 0,
+    "html_url": "https://github.com/1Mike3/sessionHijackingPrevention",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Java",
+    "repo_name": "sessionHijackingPrevention",
+    "repo_owner": "1Mike3",
+    "repotime": "2025-03-16, 15:40:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 23,
+    "date_started": "2025-03-10",
+    "date_updated": "2025-03-14",
+    "description": "Web-Based C&amp;amp;C Botnet Framework",
+    "forks_count": 0,
+    "html_url": "https://github.com/Prvvv/0net",
+    "keywords": [
+        "Windows 0day"
+    ],
+    "language": "Python",
+    "repo_name": "0net",
+    "repo_owner": "Prvvv",
+    "repotime": "2025-03-14, 14:45:19",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 14,
+    "date_started": "2020-12-02",
+    "date_updated": "2025-03-12",
+    "description": "SQL Injection Vulnerability Scanner made with Python",
+    "forks_count": 72,
+    "html_url": "https://github.com/americo/sqlifinder",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlifinder",
+    "repo_owner": "americo",
+    "repotime": "2025-03-12, 00:52:13",
+    "stargazers_count": 368,
+    "watchers_count": 368
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-08-01",
+    "date_updated": "2025-03-11",
+    "description": "insecure web application that has 8 vulnerability on it, such as RCE, Path Traversal, XSS, SQL Injection, SSTI, IDOR, Authentication and Authorization ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Emin-F/Go-Insecure-Web-APP",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "Go-Insecure-Web-APP",
+    "repo_owner": "Emin-F",
+    "repotime": "2025-03-11, 14:29:44",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 27,
+    "date_started": "2025-02-25",
+    "date_updated": "2025-03-11",
+    "description": "SAPLAR - LFI &amp;amp; Path Traversal Scanner",
+    "forks_count": 4,
+    "html_url": "https://github.com/murat-exp/SAPLAR",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "SAPLAR",
+    "repo_owner": "murat-exp",
+    "repotime": "2025-03-11, 11:21:22",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-03-11",
+    "date_updated": "2025-03-10",
+    "description": "High-speed SQLi scanner for pentesters. Crawls Google with dorks, tests URLs for vulnerabilities using multi-threading (50 threads), proxy rotation, and User-Agent spoofing from useragents.txt. Fast (0.1-0.5s delays), smart detection, JSON output. For authorized use only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SleepTheGod/HyperSQLi",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "HyperSQLi",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2025-03-10, 21:49:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2024-10-05",
+    "date_updated": "2025-03-09",
+    "description": "Burp Suite extension to look for web vulnerabilities such as XSS, SQL and Path Traversal",
+    "forks_count": 2,
+    "html_url": "https://github.com/AElX01/javaWscan",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "javaWscan",
+    "repo_owner": "AElX01",
+    "repotime": "2025-03-09, 10:23:40",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 33,
+    "date_started": "2022-08-26",
+    "date_updated": "2025-03-07",
+    "description": "This repository contains a sample Java application vulnerable to command injection and server-side request forgery (SSRF).",
+    "forks_count": 85,
+    "html_url": "https://github.com/DataDog/vulnerable-java-application",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "vulnerable-java-application",
+    "repo_owner": "DataDog",
+    "repotime": "2025-03-07, 11:34:42",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-03-05",
+    "date_updated": "2025-03-05",
+    "description": " Secure Web Application Development- Build a simple web application (sign-up &amp;amp; login page)  with a focus on security, implementing measures like input validation, session management, and  protection against common web vulnerabilities (e.g., SQL injection, XSS, etc)",
+    "forks_count": 0,
+    "html_url": "https://github.com/veerbisen/Internship-Major-Project",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "Internship-Major-Project",
+    "repo_owner": "veerbisen",
+    "repotime": "2025-03-05, 23:14:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-05",
+    "date_updated": "2025-03-05",
+    "description": "A **Command-Line Web Vulnerability Scanner** built in Python to scan websites for **SQL Injection, XSS, Directory Traversal**, and **Subdomain Enumeration** with **Tor &amp;amp; Proxy support** for anonymous scanning. The tool also generates an **HTML report** with the results.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Arya182-ui/Web_Venerability_Scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Web_Venerability_Scanner",
+    "repo_owner": "Arya182-ui",
+    "repotime": "2025-03-05, 10:00:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-04",
+    "date_updated": "2025-03-05",
+    "description": "Combining CVE-2024-8963 &amp;amp; CVE-2024-8190 - For Unauthenticated RCE on Ivanti CSA 4.6 and below ",
+    "forks_count": 1,
+    "html_url": "https://github.com/flyingllama87/CVE-2024-8190-unauth",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-8190-unauth",
+    "repo_owner": "flyingllama87",
+    "repotime": "2025-03-05, 00:16:50",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 166,
+    "date_started": "2024-10-09",
+    "date_updated": "2025-03-03",
+    "description": "Auto Recon tool for finding SQLi,XSS,LFi,OpenRedirect",
+    "forks_count": 17,
+    "html_url": "https://github.com/aungsanoo-usa/aungrecon",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Shell",
+    "repo_name": "aungrecon",
+    "repo_owner": "aungsanoo-usa",
+    "repotime": "2025-03-03, 20:30:17",
+    "stargazers_count": 35,
+    "watchers_count": 35
+}

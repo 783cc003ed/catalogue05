@@ -156,3 +156,319 @@
     "stargazers_count": 62,
     "watchers_count": 62
 }
+{
+    "commits_count": 5,
+    "date_started": "2021-04-25",
+    "date_updated": "2021-04-26",
+    "description": "Medium TypeScript Dependency Injection Article Codes",
+    "forks_count": 17,
+    "html_url": "https://github.com/mertturkmenoglu/typescript-dependency-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "TypeScript",
+    "repo_name": "typescript-dependency-injection",
+    "repo_owner": "mertturkmenoglu",
+    "repotime": "2021-04-26, 01:29:21",
+    "stargazers_count": 44,
+    "watchers_count": 44
+}
+{
+    "commits_count": 21,
+    "date_started": "2016-10-13",
+    "date_updated": "2021-04-23",
+    "description": "Describes the very basics of sql-injection",
+    "forks_count": 6,
+    "html_url": "https://github.com/LukeLaScala/sql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sql-injection",
+    "repo_owner": "LukeLaScala",
+    "repotime": "2021-04-23, 00:38:12",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-04-17",
+    "date_updated": "2021-04-20",
+    "description": "No Sandbox - Applications That Run Chromium and Chrome Without The Sandbox. TL;DR exploits in these browser based applications are already sandboxed escaped: https://no-sandbox.io/",
+    "forks_count": 12,
+    "html_url": "https://github.com/sickcodes/no-sandbox",
+    "keywords": [
+        "0day exploit",
+        "Chromium sandbox escape",
+        "Chrome sandbox escape exploitation",
+        "Chromium 0day",
+        "Chrome sandbox escape",
+        "Chrome rce exploit",
+        "Chromium sandbox escape exploitation",
+        "Chrome 0day",
+        "Chrome 0day exploitation",
+        "Chromium sandbox escape exploit",
+        "Chromium rce",
+        "Chromium 0day exploitation",
+        "Chrome 0day exploit",
+        "Chrome rce exploitation",
+        "Chromium rce exploitation",
+        "Chrome rce",
+        "0day exploitation",
+        "sandbox escape exploit",
+        "Chromium rce exploit",
+        "sandbox escape exploitation",
+        "Chrome sandbox escape exploit",
+        "Chromium 0day exploit"
+    ],
+    "language": null,
+    "repo_name": "no-sandbox",
+    "repo_owner": "sickcodes",
+    "repotime": "2021-04-20, 22:08:10",
+    "stargazers_count": 184,
+    "watchers_count": 184
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-08-17",
+    "date_updated": "2021-04-17",
+    "description": "A resource for thread hijacking and manual mapping code, that works with MEM_MAPPED &amp;amp; MEM_IMAGE.",
+    "forks_count": 11,
+    "html_url": "https://github.com/lennyRBLX/injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "injection",
+    "repo_owner": "lennyRBLX",
+    "repotime": "2021-04-17, 14:23:41",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 80,
+    "date_started": "2018-04-28",
+    "date_updated": "2021-04-16",
+    "description": "An automatic SQL Injection tool which takes advantage of ~DorkNet~ Googler, Ddgr, WhatWaf and sqlmap.",
+    "forks_count": 64,
+    "html_url": "https://github.com/clouedoc/AutoSQLi",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "AutoSQLi",
+    "repo_owner": "clouedoc",
+    "repotime": "2021-04-16, 18:59:09",
+    "stargazers_count": 271,
+    "watchers_count": 271
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-04-15",
+    "date_updated": "2021-04-16",
+    "description": "A project created for university module - Secure Software Development. The assignment was to create a web-application that was secure from various attacks such as CSFR, SQL Injection, Session Hijacking etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Darren-Brooke/secure-software",
+    "keywords": [
+        "session hijacking attack",
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "secure-software",
+    "repo_owner": "Darren-Brooke",
+    "repotime": "2021-04-16, 03:41:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 21,
+    "date_started": "2019-09-17",
+    "date_updated": "2021-04-15",
+    "description": "app vulnerable to SQL injection as a demo for database course",
+    "forks_count": 46,
+    "html_url": "https://github.com/jmedina2930/sql-injection-lab",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sql-injection-lab",
+    "repo_owner": "jmedina2930",
+    "repotime": "2021-04-15, 07:40:29",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-04-02",
+    "date_updated": "2021-04-02",
+    "description": "Code Injection via Memory Mapped Files",
+    "forks_count": 19,
+    "html_url": "https://github.com/aahmad097/MMFCodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "MMFCodeInjection",
+    "repo_owner": "aahmad097",
+    "repotime": "2021-04-02, 11:18:15",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-04-25",
+    "date_updated": "2021-04-26",
+    "description": "Medium TypeScript Dependency Injection Article Codes",
+    "forks_count": 17,
+    "html_url": "https://github.com/mertturkmenoglu/typescript-dependency-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "TypeScript",
+    "repo_name": "typescript-dependency-injection",
+    "repo_owner": "mertturkmenoglu",
+    "repotime": "2021-04-26, 01:29:21",
+    "stargazers_count": 44,
+    "watchers_count": 44
+}
+{
+    "commits_count": 21,
+    "date_started": "2016-10-13",
+    "date_updated": "2021-04-23",
+    "description": "Describes the very basics of sql-injection",
+    "forks_count": 6,
+    "html_url": "https://github.com/LukeLaScala/sql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sql-injection",
+    "repo_owner": "LukeLaScala",
+    "repotime": "2021-04-23, 00:38:12",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-04-17",
+    "date_updated": "2021-04-20",
+    "description": "No Sandbox - Applications That Run Chromium and Chrome Without The Sandbox. TL;DR exploits in these browser based applications are already sandboxed escaped: https://no-sandbox.io/",
+    "forks_count": 12,
+    "html_url": "https://github.com/sickcodes/no-sandbox",
+    "keywords": [
+        "0day exploit",
+        "Chromium sandbox escape",
+        "Chrome sandbox escape exploitation",
+        "Chromium 0day",
+        "Chrome sandbox escape",
+        "Chrome rce exploit",
+        "Chromium sandbox escape exploitation",
+        "Chrome 0day",
+        "Chrome 0day exploitation",
+        "Chromium sandbox escape exploit",
+        "Chromium rce",
+        "Chromium 0day exploitation",
+        "Chrome 0day exploit",
+        "Chrome rce exploitation",
+        "Chromium rce exploitation",
+        "Chrome rce",
+        "0day exploitation",
+        "sandbox escape exploit",
+        "Chromium rce exploit",
+        "sandbox escape exploitation",
+        "Chrome sandbox escape exploit",
+        "Chromium 0day exploit"
+    ],
+    "language": null,
+    "repo_name": "no-sandbox",
+    "repo_owner": "sickcodes",
+    "repotime": "2021-04-20, 22:08:10",
+    "stargazers_count": 184,
+    "watchers_count": 184
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-08-17",
+    "date_updated": "2021-04-17",
+    "description": "A resource for thread hijacking and manual mapping code, that works with MEM_MAPPED &amp;amp; MEM_IMAGE.",
+    "forks_count": 11,
+    "html_url": "https://github.com/lennyRBLX/injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "injection",
+    "repo_owner": "lennyRBLX",
+    "repotime": "2021-04-17, 14:23:41",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 80,
+    "date_started": "2018-04-28",
+    "date_updated": "2021-04-16",
+    "description": "An automatic SQL Injection tool which takes advantage of ~DorkNet~ Googler, Ddgr, WhatWaf and sqlmap.",
+    "forks_count": 64,
+    "html_url": "https://github.com/clouedoc/AutoSQLi",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "AutoSQLi",
+    "repo_owner": "clouedoc",
+    "repotime": "2021-04-16, 18:59:09",
+    "stargazers_count": 271,
+    "watchers_count": 271
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-04-15",
+    "date_updated": "2021-04-16",
+    "description": "A project created for university module - Secure Software Development. The assignment was to create a web-application that was secure from various attacks such as CSFR, SQL Injection, Session Hijacking etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Darren-Brooke/secure-software",
+    "keywords": [
+        "session hijacking attack",
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "secure-software",
+    "repo_owner": "Darren-Brooke",
+    "repotime": "2021-04-16, 03:41:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 21,
+    "date_started": "2019-09-17",
+    "date_updated": "2021-04-15",
+    "description": "app vulnerable to SQL injection as a demo for database course",
+    "forks_count": 46,
+    "html_url": "https://github.com/jmedina2930/sql-injection-lab",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sql-injection-lab",
+    "repo_owner": "jmedina2930",
+    "repotime": "2021-04-15, 07:40:29",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-04-02",
+    "date_updated": "2021-04-02",
+    "description": "Code Injection via Memory Mapped Files",
+    "forks_count": 19,
+    "html_url": "https://github.com/aahmad097/MMFCodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "MMFCodeInjection",
+    "repo_owner": "aahmad097",
+    "repotime": "2021-04-02, 11:18:15",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}

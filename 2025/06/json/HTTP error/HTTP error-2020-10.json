@@ -168,3 +168,88 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 10,
+    "date_started": "2020-10-16",
+    "date_updated": "2020-10-31",
+    "description": "JXA script to allow programmatic persistence via macOS Calendar.app alerts.",
+    "forks_count": 5,
+    "html_url": "https://github.com/FSecureLABS/CalendarPersist",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CalendarPersist",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2020-10-31, 14:29:35",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 85,
+    "date_started": "2015-11-18",
+    "date_updated": "2020-10-28",
+    "description": "UAF IceBridge Alaska Altimetry analysis scripts",
+    "forks_count": 1,
+    "html_url": "https://github.com/aaarendt/Alaska-altimetry",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Alaska-altimetry",
+    "repo_owner": "aaarendt",
+    "repotime": "2020-10-28, 12:03:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-10-19",
+    "date_updated": "2020-10-19",
+    "description": "1. Takes a function of x from the user, e.g., 5*x^3 + 2*x 2. Takes min and max values of x from the user 3. Plots the function 4. The following operators must be supported: + - / * ^ 5. Do not use symbolic libraries (you have to parse the input string) 6. Write your GUI in code. Do not use visual GUI designers. 7. The GUI should be simple and beautiful (well organized) 8. Apply appropriate input validation to the user input 9. Print messages to the user to explain any wrong input he entered 10. You must use Pyside2 and Matplotlib in your application 11. The Matplotlib figure must be embedded in the Pyside2 application",
+    "forks_count": 0,
+    "html_url": "https://github.com/mohamedosama37/Function-Plotter",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "Python",
+    "repo_name": "Function-Plotter",
+    "repo_owner": "mohamedosama37",
+    "repotime": "2020-10-19, 15:31:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 35,
+    "date_started": "2016-06-08",
+    "date_updated": "2020-10-06",
+    "description": "A mode-locked fiber laser simulator 锁模光纤激光器仿真",
+    "forks_count": 19,
+    "html_url": "https://github.com/SeveNOlogy7/SimMoLFil",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "MATLAB",
+    "repo_name": "SimMoLFil",
+    "repo_owner": "SeveNOlogy7",
+    "repotime": "2020-10-06, 15:58:19",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-09-25",
+    "date_updated": "2020-10-01",
+    "description": "Java Spring based Server Side Request Forgery (SSRF) examples",
+    "forks_count": 0,
+    "html_url": "https://github.com/GeekMasher/ssrf-java",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Java",
+    "repo_name": "ssrf-java",
+    "repo_owner": "GeekMasher",
+    "repotime": "2020-10-01, 13:07:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

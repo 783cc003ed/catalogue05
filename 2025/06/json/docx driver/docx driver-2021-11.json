@@ -150,3 +150,307 @@
     "stargazers_count": 4,
     "watchers_count": 4
 }
+{
+    "commits_count": 22,
+    "date_started": "2017-09-22",
+    "date_updated": "2021-11-29",
+    "description": "Exploiting Python PIL Module Command Execution Vulnerability",
+    "forks_count": 14,
+    "html_url": "https://github.com/neargle/PIL-RCE-By-GhostButt",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PIL-RCE-By-GhostButt",
+    "repo_owner": "neargle",
+    "repotime": "2021-11-29, 18:51:11",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-05-22",
+    "date_updated": "2021-11-21",
+    "description": "漏洞POC、EXP合集，持续更新。Apache Druid-任意文件读取（CVE-2021-36749）、ConfluenceRCE（CVE-2021-26084）、ZeroShell防火墙RCE（CVE-2019-12725）、ApacheSolr任意文件读取、蓝凌OA任意文件读取、phpStudyRCE、ShowDoc任意文件上传、原创先锋后台未授权、Kyan账号密码泄露、TerraMasterTos任意文件读取、TamronOS-IPTV系统RCE、Wayos防火墙账号密码泄露",
+    "forks_count": 36,
+    "html_url": "https://github.com/sma11new/PocList",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "PocList",
+    "repo_owner": "sma11new",
+    "repotime": "2021-11-21, 18:34:06",
+    "stargazers_count": 172,
+    "watchers_count": 172
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-11-20",
+    "date_updated": "2021-11-20",
+    "description": "CONTENT BEYOND SYLLABUS IMPLEMENTATION OF REMOTE COMMAND EXECUTION (RCE) AIM To implement Remote Command Execution(RCE). ALGORITHM CLIENT SIDE 1. Establish a connection between the Client and Server. Socket client=new Socket(&amp;quot;127.0.0.1&amp;quot;,6555); 2. Create instances for input and output streams. Print Stream ps=new Print Stream(client.getOutputStream()); 3. BufferedReaderbr=newBufferedReader(newInputStreamReader(System.in)); 4. Enter the command in Client Window. Send themessage to its output str=br.readLine(); ps.println(str); SERVER SIDE 1. Accept the connection request by the client. ServerSocket server=new ServerSocket(6555); Sockets=server.accept(); 2. Getthe IPaddressfromitsinputstream. BufferedReaderbr1=newBufferedReader(newInputStreamReader(s.getInputStream())); ip=br1.readLine(); 3. During runtime execute the process Runtime r=Runtime.getRuntime(); Process p=r.exec(str); CLIENT PROGRAM import java.io.*; import java.net.*; class clientRCE { public static void main(String...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Anishakaspar/CN-Lab",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Java",
+    "repo_name": "CN-Lab",
+    "repo_owner": "Anishakaspar",
+    "repotime": "2021-11-20, 22:52:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-09-05",
+    "date_updated": "2021-11-18",
+    "description": "An intentionally developed Linux vulnerable virtual machine. The main focus of this machine is to learn Linux Post Exploitation (Privilege Escalation) Techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Gitster7/Vulnerable_Machine-Linux",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Vulnerable_Machine-Linux",
+    "repo_owner": "Gitster7",
+    "repotime": "2021-11-18, 15:15:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 62,
+    "date_started": "2019-11-27",
+    "date_updated": "2021-11-13",
+    "description": "Getting started with java code auditing  代码审计入门的小项目",
+    "forks_count": 120,
+    "html_url": "https://github.com/cn-panda/JavaCodeAudit",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "JavaScript",
+    "repo_name": "JavaCodeAudit",
+    "repo_owner": "cn-panda",
+    "repotime": "2021-11-13, 15:32:35",
+    "stargazers_count": 889,
+    "watchers_count": 889
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-16",
+    "date_updated": "2021-11-11",
+    "description": "Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE)",
+    "forks_count": 95,
+    "html_url": "https://github.com/ly4k/CallbackHell",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CallbackHell",
+    "repo_owner": "ly4k",
+    "repotime": "2021-11-11, 18:09:56",
+    "stargazers_count": 469,
+    "watchers_count": 469
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-10-25",
+    "date_updated": "2021-11-05",
+    "description": "LPE exploit for a UAF in Windows (CVE-2021-40449).",
+    "forks_count": 15,
+    "html_url": "https://github.com/hakivvi/CVE-2021-40449",
+    "keywords": [
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows uaf exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Windows uaf exploit",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-40449",
+    "repo_owner": "hakivvi",
+    "repotime": "2021-11-05, 07:54:09",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-10-09",
+    "date_updated": "2021-11-02",
+    "description": "Remote Code Execution POC for CVE-2020-0796",
+    "forks_count": 1,
+    "html_url": "https://github.com/orangmuda/CVE-2020-0796",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution poc"
+    ],
+    "language": "Assembly",
+    "repo_name": "CVE-2020-0796",
+    "repo_owner": "orangmuda",
+    "repotime": "2021-11-02, 02:36:41",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 22,
+    "date_started": "2017-09-22",
+    "date_updated": "2021-11-29",
+    "description": "Exploiting Python PIL Module Command Execution Vulnerability",
+    "forks_count": 14,
+    "html_url": "https://github.com/neargle/PIL-RCE-By-GhostButt",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PIL-RCE-By-GhostButt",
+    "repo_owner": "neargle",
+    "repotime": "2021-11-29, 18:51:11",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-05-22",
+    "date_updated": "2021-11-21",
+    "description": "漏洞POC、EXP合集，持续更新。Apache Druid-任意文件读取（CVE-2021-36749）、ConfluenceRCE（CVE-2021-26084）、ZeroShell防火墙RCE（CVE-2019-12725）、ApacheSolr任意文件读取、蓝凌OA任意文件读取、phpStudyRCE、ShowDoc任意文件上传、原创先锋后台未授权、Kyan账号密码泄露、TerraMasterTos任意文件读取、TamronOS-IPTV系统RCE、Wayos防火墙账号密码泄露",
+    "forks_count": 36,
+    "html_url": "https://github.com/sma11new/PocList",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "PocList",
+    "repo_owner": "sma11new",
+    "repotime": "2021-11-21, 18:34:06",
+    "stargazers_count": 172,
+    "watchers_count": 172
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-11-20",
+    "date_updated": "2021-11-20",
+    "description": "CONTENT BEYOND SYLLABUS IMPLEMENTATION OF REMOTE COMMAND EXECUTION (RCE) AIM To implement Remote Command Execution(RCE). ALGORITHM CLIENT SIDE 1. Establish a connection between the Client and Server. Socket client=new Socket(&amp;quot;127.0.0.1&amp;quot;,6555); 2. Create instances for input and output streams. Print Stream ps=new Print Stream(client.getOutputStream()); 3. BufferedReaderbr=newBufferedReader(newInputStreamReader(System.in)); 4. Enter the command in Client Window. Send themessage to its output str=br.readLine(); ps.println(str); SERVER SIDE 1. Accept the connection request by the client. ServerSocket server=new ServerSocket(6555); Sockets=server.accept(); 2. Getthe IPaddressfromitsinputstream. BufferedReaderbr1=newBufferedReader(newInputStreamReader(s.getInputStream())); ip=br1.readLine(); 3. During runtime execute the process Runtime r=Runtime.getRuntime(); Process p=r.exec(str); CLIENT PROGRAM import java.io.*; import java.net.*; class clientRCE { public static void main(String...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Anishakaspar/CN-Lab",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Java",
+    "repo_name": "CN-Lab",
+    "repo_owner": "Anishakaspar",
+    "repotime": "2021-11-20, 22:52:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-09-05",
+    "date_updated": "2021-11-18",
+    "description": "An intentionally developed Linux vulnerable virtual machine. The main focus of this machine is to learn Linux Post Exploitation (Privilege Escalation) Techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Gitster7/Vulnerable_Machine-Linux",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Vulnerable_Machine-Linux",
+    "repo_owner": "Gitster7",
+    "repotime": "2021-11-18, 15:15:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 62,
+    "date_started": "2019-11-27",
+    "date_updated": "2021-11-13",
+    "description": "Getting started with java code auditing  代码审计入门的小项目",
+    "forks_count": 120,
+    "html_url": "https://github.com/cn-panda/JavaCodeAudit",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "JavaScript",
+    "repo_name": "JavaCodeAudit",
+    "repo_owner": "cn-panda",
+    "repotime": "2021-11-13, 15:32:35",
+    "stargazers_count": 889,
+    "watchers_count": 889
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-16",
+    "date_updated": "2021-11-11",
+    "description": "Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE)",
+    "forks_count": 95,
+    "html_url": "https://github.com/ly4k/CallbackHell",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CallbackHell",
+    "repo_owner": "ly4k",
+    "repotime": "2021-11-11, 18:09:56",
+    "stargazers_count": 469,
+    "watchers_count": 469
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-10-25",
+    "date_updated": "2021-11-05",
+    "description": "LPE exploit for a UAF in Windows (CVE-2021-40449).",
+    "forks_count": 15,
+    "html_url": "https://github.com/hakivvi/CVE-2021-40449",
+    "keywords": [
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows uaf exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Windows uaf exploit",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-40449",
+    "repo_owner": "hakivvi",
+    "repotime": "2021-11-05, 07:54:09",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-10-09",
+    "date_updated": "2021-11-02",
+    "description": "Remote Code Execution POC for CVE-2020-0796",
+    "forks_count": 1,
+    "html_url": "https://github.com/orangmuda/CVE-2020-0796",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution poc"
+    ],
+    "language": "Assembly",
+    "repo_name": "CVE-2020-0796",
+    "repo_owner": "orangmuda",
+    "repotime": "2021-11-02, 02:36:41",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}

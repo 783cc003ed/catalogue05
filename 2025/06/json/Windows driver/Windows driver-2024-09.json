@@ -119,3 +119,245 @@
     "stargazers_count": 6,
     "watchers_count": 6
 }
+{
+    "commits_count": 302,
+    "date_started": "2017-04-30",
+    "date_updated": "2024-09-23",
+    "description": "hack tools",
+    "forks_count": 493,
+    "html_url": "https://github.com/hacktoolspack/hack-tools",
+    "keywords": [
+        "0day exploit",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "hack-tools",
+    "repo_owner": "hacktoolspack",
+    "repotime": "2024-09-23, 23:27:19",
+    "stargazers_count": 1120,
+    "watchers_count": 1120
+}
+{
+    "commits_count": 64,
+    "date_started": "2012-12-15",
+    "date_updated": "2024-09-17",
+    "description": "Cross Site &amp;quot;Scripter&amp;quot; (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.",
+    "forks_count": 249,
+    "html_url": "https://github.com/epsylon/xsser",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xsser",
+    "repo_owner": "epsylon",
+    "repotime": "2024-09-17, 09:58:12",
+    "stargazers_count": 1316,
+    "watchers_count": 1316
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-09-14",
+    "date_updated": "2024-09-15",
+    "description": "Stuxnet extracted binaries by reversing &amp;amp; Stuxnet Rootkit Analysis",
+    "forks_count": 13,
+    "html_url": "https://github.com/x86byte/Stuxnet-Rootkit",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "C",
+    "repo_name": "Stuxnet-Rootkit",
+    "repo_owner": "x86byte",
+    "repotime": "2024-09-15, 00:01:28",
+    "stargazers_count": 56,
+    "watchers_count": 56
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-09-12",
+    "date_updated": "2024-09-13",
+    "description": "🚀 XSSFUZZ - A tool for detecting XSS vulnerabilities in web applications.",
+    "forks_count": 20,
+    "html_url": "https://github.com/Asperis-Security/xssFuzz",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xssFuzz",
+    "repo_owner": "Asperis-Security",
+    "repotime": "2024-09-13, 10:44:50",
+    "stargazers_count": 99,
+    "watchers_count": 99
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-09-10",
+    "date_updated": "2024-09-09",
+    "description": "RCE PoC For Windows",
+    "forks_count": 0,
+    "html_url": "https://github.com/SleepTheGod/WindowsRCE",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "WindowsRCE",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2024-09-09, 22:16:00",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-09-08",
+    "date_updated": "2024-09-09",
+    "description": "A proof of concept exploit for SQLPad RCE (CVE-2022-0944).",
+    "forks_count": 1,
+    "html_url": "https://github.com/shhrew/CVE-2022-0944",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-0944",
+    "repo_owner": "shhrew",
+    "repotime": "2024-09-09, 00:57:24",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-09-01",
+    "date_updated": "2024-09-05",
+    "description": "Windows Exploit development : Bypass Data Execution Prevention (DEP) using ROP chains manually hard code",
+    "forks_count": 0,
+    "html_url": "https://github.com/x86byte/ROPme",
+    "keywords": [
+        "dep bypass",
+        "data execution prevention bypass"
+    ],
+    "language": "Python",
+    "repo_name": "ROPme",
+    "repo_owner": "x86byte",
+    "repotime": "2024-09-05, 02:06:08",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 302,
+    "date_started": "2017-04-30",
+    "date_updated": "2024-09-23",
+    "description": "hack tools",
+    "forks_count": 493,
+    "html_url": "https://github.com/hacktoolspack/hack-tools",
+    "keywords": [
+        "0day exploit",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "hack-tools",
+    "repo_owner": "hacktoolspack",
+    "repotime": "2024-09-23, 23:27:19",
+    "stargazers_count": 1120,
+    "watchers_count": 1120
+}
+{
+    "commits_count": 64,
+    "date_started": "2012-12-15",
+    "date_updated": "2024-09-17",
+    "description": "Cross Site &amp;quot;Scripter&amp;quot; (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.",
+    "forks_count": 251,
+    "html_url": "https://github.com/epsylon/xsser",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xsser",
+    "repo_owner": "epsylon",
+    "repotime": "2024-09-17, 09:58:12",
+    "stargazers_count": 1322,
+    "watchers_count": 1322
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-09-14",
+    "date_updated": "2024-09-15",
+    "description": "Stuxnet extracted binaries by reversing &amp;amp; Stuxnet Rootkit Analysis",
+    "forks_count": 14,
+    "html_url": "https://github.com/x86byte/Stuxnet-Rootkit",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "C",
+    "repo_name": "Stuxnet-Rootkit",
+    "repo_owner": "x86byte",
+    "repotime": "2024-09-15, 00:01:28",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-09-12",
+    "date_updated": "2024-09-13",
+    "description": "🚀 XSSFUZZ - A tool for detecting XSS vulnerabilities in web applications.",
+    "forks_count": 20,
+    "html_url": "https://github.com/Asperis-Security/xssFuzz",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xssFuzz",
+    "repo_owner": "Asperis-Security",
+    "repotime": "2024-09-13, 10:44:50",
+    "stargazers_count": 101,
+    "watchers_count": 101
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-09-10",
+    "date_updated": "2024-09-09",
+    "description": "RCE PoC For Windows",
+    "forks_count": 0,
+    "html_url": "https://github.com/SleepTheGod/WindowsRCE",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "WindowsRCE",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2024-09-09, 22:16:00",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-09-08",
+    "date_updated": "2024-09-09",
+    "description": "A proof of concept exploit for SQLPad RCE (CVE-2022-0944).",
+    "forks_count": 1,
+    "html_url": "https://github.com/shhrew/CVE-2022-0944",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-0944",
+    "repo_owner": "shhrew",
+    "repotime": "2024-09-09, 00:57:24",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-09-01",
+    "date_updated": "2024-09-05",
+    "description": "Windows Exploit development : Bypass Data Execution Prevention (DEP) using ROP chains manually hard code",
+    "forks_count": 0,
+    "html_url": "https://github.com/x86byte/ROPme",
+    "keywords": [
+        "dep bypass",
+        "data execution prevention bypass"
+    ],
+    "language": "Python",
+    "repo_name": "ROPme",
+    "repo_owner": "x86byte",
+    "repotime": "2024-09-05, 02:06:08",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}

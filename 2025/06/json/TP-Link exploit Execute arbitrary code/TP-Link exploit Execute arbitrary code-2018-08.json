@@ -384,3 +384,196 @@
     "stargazers_count": 42,
     "watchers_count": 42
 }
+{
+    "commits_count": 41,
+    "date_started": "2013-12-05",
+    "date_updated": "2018-08-31",
+    "description": "PHP shell that hijacks the the incoming socket connection to provide an interactive shell session on port 80",
+    "forks_count": 4,
+    "html_url": "https://github.com/BrianHeeseIs/BratShell",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "BratShell",
+    "repo_owner": "BrianHeeseIs",
+    "repotime": "2018-08-31, 12:47:34",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-06-06",
+    "date_updated": "2018-08-29",
+    "description": "CVE-2018-12031 | LFI in Eaton Intelligent Power Manager  v1.6 allows an attacker to include a file, it can lead to sensitive information disclosure, denial of service and code execution.",
+    "forks_count": 3,
+    "html_url": "https://github.com/EmreOvunc/Eaton-Intelligent-Power-Manager-Local-File-Inclusion",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "Eaton-Intelligent-Power-Manager-Local-File-Inclusion",
+    "repo_owner": "EmreOvunc",
+    "repotime": "2018-08-29, 13:50:56",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-08-21",
+    "date_updated": "2018-08-21",
+    "description": "Code Injection into a Process",
+    "forks_count": 5,
+    "html_url": "https://github.com/x0r19x91/code-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Assembly",
+    "repo_name": "code-injection",
+    "repo_owner": "x0r19x91",
+    "repotime": "2018-08-21, 15:48:49",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-08-18",
+    "date_updated": "2018-08-18",
+    "description": "Microsoft Visual Studio CVE-2018-8172 Remote Code Execution Vulnerability",
+    "forks_count": 5,
+    "html_url": "https://github.com/SyFi/CVE-2018-8172",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-8172",
+    "repo_owner": "SyFi",
+    "repotime": "2018-08-18, 06:56:35",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 11,
+    "date_started": "2018-02-08",
+    "date_updated": "2018-08-16",
+    "description": "A low interaction honeypot for the Cisco ASA component capable of detecting CVE-2018-0101, a DoS and remote code execution vulnerability.",
+    "forks_count": 22,
+    "html_url": "https://github.com/Cymmetria/ciscoasa_honeypot",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution dos"
+    ],
+    "language": "JavaScript",
+    "repo_name": "ciscoasa_honeypot",
+    "repo_owner": "Cymmetria",
+    "repotime": "2018-08-16, 17:24:19",
+    "stargazers_count": 52,
+    "watchers_count": 52
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-08-15",
+    "date_updated": "2018-08-16",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/jihwann/-BoB07-Use-After-Free-Exploit-Code",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "Python",
+    "repo_name": "-BoB07-Use-After-Free-Exploit-Code",
+    "repo_owner": "jihwann",
+    "repotime": "2018-08-16, 03:17:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 249,
+    "date_started": "2015-06-11",
+    "date_updated": "2018-08-14",
+    "description": "massive SQL injection vulnerability scanner",
+    "forks_count": 378,
+    "html_url": "https://github.com/the-robot/sqliv",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqliv",
+    "repo_owner": "the-robot",
+    "repotime": "2018-08-14, 19:28:45",
+    "stargazers_count": 1208,
+    "watchers_count": 1208
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-08-13",
+    "date_updated": "2018-08-13",
+    "description": "A collection of slides, videos, and proof-of-concept scripts from various Rhino presentations.",
+    "forks_count": 6,
+    "html_url": "https://github.com/RhinoSecurityLabs/Presentations",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": null,
+    "repo_name": "Presentations",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2018-08-13, 15:51:21",
+    "stargazers_count": 38,
+    "watchers_count": 38
+}
+{
+    "commits_count": 15,
+    "date_started": "2018-02-09",
+    "date_updated": "2018-08-11",
+    "description": "<no description>",
+    "forks_count": 4,
+    "html_url": "https://github.com/yuvatia/windows-lpe-examples",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe"
+    ],
+    "language": "C++",
+    "repo_name": "windows-lpe-examples",
+    "repo_owner": "yuvatia",
+    "repotime": "2018-08-11, 21:23:56",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 11,
+    "date_started": "2017-10-06",
+    "date_updated": "2018-08-04",
+    "description": "The VirtualPath library normalises paths and prevents directory traversal attacks without querying a file system",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rayne/virtual-path",
+    "keywords": [
+        "directory traversal attack",
+        "path traversal attack"
+    ],
+    "language": "PHP",
+    "repo_name": "virtual-path",
+    "repo_owner": "Rayne",
+    "repotime": "2018-08-04, 23:49:34",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 14,
+    "date_started": "2017-06-23",
+    "date_updated": "2018-08-04",
+    "description": "Small utility written in c++ to bypass windows UAC prompt",
+    "forks_count": 25,
+    "html_url": "https://github.com/AdvancedHacker101/Bypass-Uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "Bypass-Uac",
+    "repo_owner": "AdvancedHacker101",
+    "repotime": "2018-08-04, 20:32:45",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}

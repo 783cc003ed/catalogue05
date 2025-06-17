@@ -204,3 +204,106 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 368,
+    "date_started": "2012-05-28",
+    "date_updated": "2020-08-11",
+    "description": "Runtime Code Injection for Objective-C &amp;amp; Swift",
+    "forks_count": 566,
+    "html_url": "https://github.com/johnno1962/injectionforxcode",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "injectionforxcode",
+    "repo_owner": "johnno1962",
+    "repotime": "2020-08-11, 06:26:28",
+    "stargazers_count": 6556,
+    "watchers_count": 6556
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-08-07",
+    "date_updated": "2020-08-07",
+    "description": "public 0day exploit dev",
+    "forks_count": 0,
+    "html_url": "https://github.com/kernelzeroday/0day-dev",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "C",
+    "repo_name": "0day-dev",
+    "repo_owner": "kernelzeroday",
+    "repotime": "2020-08-07, 21:19:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 34,
+    "date_started": "2013-07-19",
+    "date_updated": "2020-08-07",
+    "description": "The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.",
+    "forks_count": 158,
+    "html_url": "https://github.com/SpiderLabs/MCIR",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PHP",
+    "repo_name": "MCIR",
+    "repo_owner": "SpiderLabs",
+    "repotime": "2020-08-07, 14:44:09",
+    "stargazers_count": 442,
+    "watchers_count": 442
+}
+{
+    "commits_count": 99,
+    "date_started": "2016-05-19",
+    "date_updated": "2020-08-05",
+    "description": "NoSQLAttack is an open source Python tool to automate exploit MongoDB server IP on Internet and disclose the database data by MongoDB default configuration weaknesses and injection attacks.",
+    "forks_count": 88,
+    "html_url": "https://github.com/youngyangyang04/NoSQLAttack",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "NoSQLAttack",
+    "repo_owner": "youngyangyang04",
+    "repotime": "2020-08-05, 09:29:07",
+    "stargazers_count": 310,
+    "watchers_count": 310
+}
+{
+    "commits_count": 10,
+    "date_started": "2020-08-04",
+    "date_updated": "2020-08-04",
+    "description": "ActiveMediaServer.exe in ACTi NVR3 Standard Server 3.0.12.42 allows remote unauthenticated attackers to trigger a buffer overflow and application termination via a malformed payload.",
+    "forks_count": 0,
+    "html_url": "https://github.com/megamagnus/cve-2020-15956",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2020-15956",
+    "repo_owner": "megamagnus",
+    "repotime": "2020-08-04, 08:50:12",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-08-15",
+    "date_updated": "2020-08-03",
+    "description": "Bypassing SMEP &amp;amp; allow nt-system in target process via Stack bof in hevd.sys",
+    "forks_count": 0,
+    "html_url": "https://github.com/ASkyeye/HEVD-EOP",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": null,
+    "repo_name": "HEVD-EOP",
+    "repo_owner": "ASkyeye",
+    "repotime": "2020-08-03, 20:05:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

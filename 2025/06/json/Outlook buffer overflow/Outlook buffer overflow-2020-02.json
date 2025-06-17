@@ -35,3 +35,77 @@
     "stargazers_count": 32,
     "watchers_count": 32
 }
+{
+    "commits_count": 7,
+    "date_started": "2020-02-20",
+    "date_updated": "2020-02-20",
+    "description": "Basic code for creating the Alibaba FastJson + Spring gadget chain, as used to exploit Apache Dubbo in CVE-2019-17564 - more information available at https://www.checkmarx.com/blog/apache-dubbo-unauthenticated-remote-code-execution-vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/Dor-Tumarkin/CVE-2019-17564-FastJson-Gadget",
+    "keywords": [
+        "remote code execution exploitation",
+        "unauthenticated remote code execution",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2019-17564-FastJson-Gadget",
+    "repo_owner": "Dor-Tumarkin",
+    "repotime": "2020-02-20, 13:49:34",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 67,
+    "date_started": "2018-02-10",
+    "date_updated": "2020-02-18",
+    "description": "UFO: Predictive Detection of Concurrency Use-After-Free Vulnerabilities",
+    "forks_count": 18,
+    "html_url": "https://github.com/parasol-aser/UFO",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "UFO",
+    "repo_owner": "parasol-aser",
+    "repotime": "2020-02-18, 15:47:49",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-02-20",
+    "date_updated": "2020-02-20",
+    "description": "Basic code for creating the Alibaba FastJson + Spring gadget chain, as used to exploit Apache Dubbo in CVE-2019-17564 - more information available at https://www.checkmarx.com/blog/apache-dubbo-unauthenticated-remote-code-execution-vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/Dor-Tumarkin/CVE-2019-17564-FastJson-Gadget",
+    "keywords": [
+        "remote code execution exploitation",
+        "unauthenticated remote code execution",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2019-17564-FastJson-Gadget",
+    "repo_owner": "Dor-Tumarkin",
+    "repotime": "2020-02-20, 13:49:34",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 67,
+    "date_started": "2018-02-10",
+    "date_updated": "2020-02-18",
+    "description": "UFO: Predictive Detection of Concurrency Use-After-Free Vulnerabilities",
+    "forks_count": 18,
+    "html_url": "https://github.com/parasol-aser/UFO",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "UFO",
+    "repo_owner": "parasol-aser",
+    "repotime": "2020-02-18, 15:47:49",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}

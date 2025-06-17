@@ -100,3 +100,54 @@
     "stargazers_count": 2,
     "watchers_count": 2
 }
+{
+    "commits_count": 25,
+    "date_started": "2016-03-07",
+    "date_updated": "2016-02-28",
+    "description": "Code for diskless loading of ELF Shared Library using Reflective DLL Injection",
+    "forks_count": 15,
+    "html_url": "https://github.com/nsxz/ReflectiveELFLoader",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "ReflectiveELFLoader",
+    "repo_owner": "nsxz",
+    "repotime": "2016-02-28, 22:45:39",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 5,
+    "date_started": "2016-02-24",
+    "date_updated": "2016-02-24",
+    "description": "Awesome XSS Payloads ",
+    "forks_count": 44,
+    "html_url": "https://github.com/Dhamuharker/Xss-",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "Xss-",
+    "repo_owner": "Dhamuharker",
+    "repotime": "2016-02-24, 12:42:57",
+    "stargazers_count": 84,
+    "watchers_count": 84
+}
+{
+    "commits_count": 1,
+    "date_started": "2016-02-13",
+    "date_updated": "2016-02-13",
+    "description": "PHP, Security in Electronic Commerce: HTTPS, XSS, SQL Injection, Session Hijacking, Recaptcha",
+    "forks_count": 0,
+    "html_url": "https://github.com/dskarpetis/Web-application-for-registering-complaints",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "Web-application-for-registering-complaints",
+    "repo_owner": "dskarpetis",
+    "repotime": "2016-02-13, 13:40:56",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

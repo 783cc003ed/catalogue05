@@ -68,3 +68,38 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 38,
+    "date_started": "2025-03-14",
+    "date_updated": "2025-03-31",
+    "description": "LPEAssessor is a comprehensive Linux privilege escalation assessment tool designed for security professionals, system administrators, and penetration testers. It systematically identifies potential privilege escalation vectors, verifies their exploitability, and provides detailed reports with actionable remediation recommendations.",
+    "forks_count": 1,
+    "html_url": "https://github.com/ParzivalHack/LPEAssessor",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "LPEAssessor",
+    "repo_owner": "ParzivalHack",
+    "repotime": "2025-03-31, 16:47:26",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-27",
+    "date_updated": "2025-03-27",
+    "description": "LPEAssessor is a comprehensive Linux privilege escalation assessment tool designed for security professionals, system administrators, and penetration testers. It systematically identifies potential privilege escalation vectors, verifies their exploitability, and provides detailed reports with actionable remediation recommendations.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SheLovesLqwid/LPEAssessor",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "Python",
+    "repo_name": "LPEAssessor",
+    "repo_owner": "SheLovesLqwid",
+    "repotime": "2025-03-27, 02:02:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

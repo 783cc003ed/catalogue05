@@ -180,3 +180,94 @@
     "stargazers_count": 26,
     "watchers_count": 26
 }
+{
+    "commits_count": 11,
+    "date_started": "2023-09-15",
+    "date_updated": "2023-12-28",
+    "description": "WPXStrike is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in WordPress",
+    "forks_count": 10,
+    "html_url": "https://github.com/nowak0x01/WPXStrike",
+    "keywords": [
+        "remote code execution vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "WPXStrike",
+    "repo_owner": "nowak0x01",
+    "repotime": "2023-12-28, 12:00:14",
+    "stargazers_count": 66,
+    "watchers_count": 66
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-12-26",
+    "date_updated": "2023-12-26",
+    "description": "PrestaXSRF is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in PrestaShop E-Commerce",
+    "forks_count": 5,
+    "html_url": "https://github.com/nowak0x01/PrestaXSRF",
+    "keywords": [
+        "rce vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "PrestaXSRF",
+    "repo_owner": "nowak0x01",
+    "repotime": "2023-12-26, 19:37:02",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 1152,
+    "date_started": "2022-06-20",
+    "date_updated": "2023-12-21",
+    "description": "Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",
+    "forks_count": 681,
+    "html_url": "https://github.com/GhostTroops/scan4all",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Go",
+    "repo_name": "scan4all",
+    "repo_owner": "GhostTroops",
+    "repotime": "2023-12-21, 22:03:12",
+    "stargazers_count": 5706,
+    "watchers_count": 5706
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-09-28",
+    "date_updated": "2023-12-12",
+    "description": "Linux &amp;amp; Android Kernel Vulnerability research and exploitation",
+    "forks_count": 6,
+    "html_url": "https://github.com/IdanBanani/Linux-Kernel-VR-Exploitation",
+    "keywords": [
+        "lpe exploitation",
+        "lpe vulnerability",
+        "lpe exploit"
+    ],
+    "language": null,
+    "repo_name": "Linux-Kernel-VR-Exploitation",
+    "repo_owner": "IdanBanani",
+    "repotime": "2023-12-12, 19:53:13",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 80,
+    "date_started": "2017-09-24",
+    "date_updated": "2023-12-03",
+    "description": "Demonstrate how usage of the Java Security Manager can prevent Remote Code Execution (RCE) exploits.",
+    "forks_count": 8,
+    "html_url": "https://github.com/shawnmckinney/remote-code-execution-sample",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "rce exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "remote-code-execution-sample",
+    "repo_owner": "shawnmckinney",
+    "repotime": "2023-12-03, 11:19:50",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}

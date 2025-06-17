@@ -1460,3 +1460,734 @@
     "stargazers_count": 7,
     "watchers_count": 7
 }
+{
+    "commits_count": 6,
+    "date_started": "2016-10-04",
+    "date_updated": "2022-04-29",
+    "description": "Native design files and source code for the model and sample disclosure forms in the CFPB's final rule on prepaid accounts.",
+    "forks_count": 9,
+    "html_url": "https://github.com/cfpb/prepaid-disclosure-files",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "HTML",
+    "repo_name": "prepaid-disclosure-files",
+    "repo_owner": "cfpb",
+    "repotime": "2022-04-29, 15:03:47",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-04-20",
+    "date_updated": "2022-04-25",
+    "description": "This repository contains a PoC for  remote code execution CVE-2022-26809",
+    "forks_count": 5,
+    "html_url": "https://github.com/UNDESC0N0CID0/CVE-2022-26809-RCE",
+    "keywords": [
+        "rce poc",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26809-RCE",
+    "repo_owner": "UNDESC0N0CID0",
+    "repotime": "2022-04-25, 16:38:57",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 153,
+    "date_started": "2014-06-23",
+    "date_updated": "2022-04-25",
+    "description": "XSS spider - 66/66 wavsep XSS detected",
+    "forks_count": 447,
+    "html_url": "https://github.com/DanMcInerney/xsscrapy",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xsscrapy",
+    "repo_owner": "DanMcInerney",
+    "repotime": "2022-04-25, 12:15:45",
+    "stargazers_count": 1707,
+    "watchers_count": 1707
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-10-08",
+    "date_updated": "2022-04-24",
+    "description": "Zenith exploits a memory corruption vulnerability in the NetUSB driver to get remote-code execution on the TP-Link Archer C7 V5 router for Pwn2Own Austin 2021.",
+    "forks_count": 24,
+    "html_url": "https://github.com/0vercl0k/zenith",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "zenith",
+    "repo_owner": "0vercl0k",
+    "repotime": "2022-04-24, 17:57:39",
+    "stargazers_count": 129,
+    "watchers_count": 129
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-04-22",
+    "description": "app with the clean architectural guidelines, used dependency injection with Dagger-Hilt, SOLID principles, CSV parsing with OpenCSV, working with remote APIs using Retrofit, local caching with Room, custom drawing on a canvas using Compose and much more. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/rafaelnunesmoura/Stock-Market-App",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "Stock-Market-App",
+    "repo_owner": "rafaelnunesmoura",
+    "repotime": "2022-04-22, 23:02:02",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-04-15",
+    "date_updated": "2022-04-22",
+    "description": "<no description>",
+    "forks_count": 6,
+    "html_url": "https://github.com/AkuCyberSec/CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit",
+    "repo_owner": "AkuCyberSec",
+    "repotime": "2022-04-22, 19:55:37",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 23,
+    "date_started": "2013-06-14",
+    "date_updated": "2022-04-22",
+    "description": "Burp plugin which supports in finding privilege escalation vulnerabilities",
+    "forks_count": 15,
+    "html_url": "https://github.com/thomaspatzke/Burp-SessionAuthTool",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Burp-SessionAuthTool",
+    "repo_owner": "thomaspatzke",
+    "repotime": "2022-04-22, 19:14:00",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-03-22",
+    "date_updated": "2022-04-22",
+    "description": "Deployement of Webmin version 1.984 which is vulnerable to authenticated remote code execution exploit.",
+    "forks_count": 0,
+    "html_url": "https://github.com/honypot/CVE-2022-0824",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution exploitation"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "CVE-2022-0824",
+    "repo_owner": "honypot",
+    "repotime": "2022-04-22, 15:17:44",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-04-22",
+    "date_updated": "2022-04-22",
+    "description": "Server Side Detection and Prevention of Cross Site Scripting Attacks Using Machine Learning",
+    "forks_count": 0,
+    "html_url": "https://github.com/JDMcE/HonoursProject",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "Python",
+    "repo_name": "HonoursProject",
+    "repo_owner": "JDMcE",
+    "repotime": "2022-04-22, 01:14:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-04-21",
+    "date_updated": "2022-04-21",
+    "description": "Code used in this post https://captmeelo.com/redteam/maldev/2022/04/21/kernelcallbacktable-injection.html",
+    "forks_count": 28,
+    "html_url": "https://github.com/capt-meelo/KernelCallbackTable-Injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "KernelCallbackTable-Injection",
+    "repo_owner": "capt-meelo",
+    "repotime": "2022-04-21, 19:26:09",
+    "stargazers_count": 127,
+    "watchers_count": 127
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-04-22",
+    "date_updated": "2022-04-20",
+    "description": "This repository contains a PoC for  remote code execution CVE-2022-26809",
+    "forks_count": 4,
+    "html_url": "https://github.com/Lay0us/CVE-2022-26809-RCE",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-26809-RCE",
+    "repo_owner": "Lay0us",
+    "repotime": "2022-04-20, 16:59:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-08-12",
+    "date_updated": "2022-04-20",
+    "description": "This is the solution code activity for 9.2.4",
+    "forks_count": 42,
+    "html_url": "https://github.com/HackerUSA-CE/CS-SQL-Injection-Demo",
+    "keywords": [
+        "sql injection",
+        "code injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CS-SQL-Injection-Demo",
+    "repo_owner": "HackerUSA-CE",
+    "repotime": "2022-04-20, 13:18:18",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-04-20",
+    "date_updated": "2022-04-20",
+    "description": "Predicting the Quality of Red Wine using Machine Learning Algorithms for Regression Analysis, Data Visualizations and Data Analysis. Dataset link :- https://www.kaggle.com/code/scsaurabh/red-wine-quality-analysis-python/data Title: Wine Quality  Sources Created by: Paulo Cortez (Univ. Minho), Antonio Cerdeira, Fernando Almeida, Telmo Matos and Jose Reis (CVRVV) @ 2009  Past Usage: P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.  In the above reference, two datasets were created, using red and white wine samples. The inputs include objective tests (e.g. PH values) and the output is based on sensory data (median of at least 3 evaluations made by wine experts). Each expert graded the wine quality between 0 (very bad) and 10 (very excellent). Several data mining methods were applied to model these datasets under a regression approach. Th...",
+    "forks_count": 0,
+    "html_url": "https://github.com/RajaRamPriyadarshi/Red-Wine-Analysis",
+    "keywords": [
+        "Win use after free",
+        "use after free analysis",
+        "Win use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Red-Wine-Analysis",
+    "repo_owner": "RajaRamPriyadarshi",
+    "repotime": "2022-04-20, 20:40:32",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 276,
+    "date_started": "2020-01-29",
+    "date_updated": "2022-04-19",
+    "description": "Course materials for learning how to perform applied cost-effectiveness analysis with R",
+    "forks_count": 11,
+    "html_url": "https://github.com/hesim-dev/rcea",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "R",
+    "repo_name": "rcea",
+    "repo_owner": "hesim-dev",
+    "repotime": "2022-04-19, 18:21:04",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-04-19",
+    "description": "Remote Code Execution Exploit in the RPC Library",
+    "forks_count": 3,
+    "html_url": "https://github.com/websecnl/CVE-2022-26809",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26809",
+    "repo_owner": "websecnl",
+    "repotime": "2022-04-19, 19:04:04",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-11-07",
+    "date_updated": "2022-04-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/MindIessIydev/MinecraftSessionVulnerability",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "MinecraftSessionVulnerability",
+    "repo_owner": "MindIessIydev",
+    "repotime": "2022-04-19, 10:05:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-19",
+    "date_updated": "2022-04-19",
+    "description": "Create a spring vulnerability test to see if it can withstand the new vulnerability called Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Shakeel-Nordien/spring-vulnerability-test",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "spring-vulnerability-test",
+    "repo_owner": "Shakeel-Nordien",
+    "repotime": "2022-04-19, 08:38:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-18",
+    "date_updated": "2022-04-18",
+    "description": "GitLab 13.10.2 - Remote Code Execution (RCE) (Unauthenticated)  cve-2021-22205",
+    "forks_count": 2,
+    "html_url": "https://github.com/momika233/cve-2021-22205-GitLab-13.10.2---Remote-Code-Execution-RCE-Unauthenticated-",
+    "keywords": [
+        "unauthenticated rce",
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "cve-2021-22205-GitLab-13.10.2---Remote-Code-Execution-RCE-Unauthenticated-",
+    "repo_owner": "momika233",
+    "repotime": "2022-04-18, 12:56:52",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-04-18",
+    "description": "The poc for CVE-2022-26809 RCE via RPC will be updated here. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/sherlocksecurity/Microsoft-CVE-2022-26809-The-Little-Boy",
+    "keywords": [
+        "Microsoft rce poc",
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "Microsoft-CVE-2022-26809-The-Little-Boy",
+    "repo_owner": "sherlocksecurity",
+    "repotime": "2022-04-18, 08:58:10",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-17",
+    "date_updated": "2022-04-18",
+    "description": "PoC for CVE-2021-28476 a guest-to-host &amp;quot;Hyper-V Remote Code Execution Vulnerability&amp;quot; in vmswitch.sys.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dengyang123x/0vercl0k",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "0vercl0k",
+    "repo_owner": "dengyang123x",
+    "repotime": "2022-04-18, 02:00:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-12-01",
+    "date_updated": "2022-04-17",
+    "description": "Seowon 130-SLC router - 'queriesCnt' Remote Code Execution (Unauthenticated)",
+    "forks_count": 2,
+    "html_url": "https://github.com/TAPESH-TEAM/CVE-2021-42230-Seowon-130-SLC-router-queriesCnt-Remote-Code-Execution-Unauthenticated",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-42230-Seowon-130-SLC-router-queriesCnt-Remote-Code-Execution-Unauthenticated",
+    "repo_owner": "TAPESH-TEAM",
+    "repotime": "2022-04-17, 04:16:59",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-04-16",
+    "date_updated": "2022-04-16",
+    "description": "Repository containing nse script for vulnerability CVE-2022-21907. It is a component (IIS) vulnerability on Windows. It allows remote code execution. The vulnerability affects the kernel module http. sys, which handles most basic IIS operations.",
+    "forks_count": 1,
+    "html_url": "https://github.com/gpiechnik2/nmap-CVE-2022-21907",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution"
+    ],
+    "language": "Lua",
+    "repo_name": "nmap-CVE-2022-21907",
+    "repo_owner": "gpiechnik2",
+    "repotime": "2022-04-16, 16:31:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-08",
+    "date_updated": "2022-04-15",
+    "description": "Unrestricted upload of file with dangerous type in Aviatrix allows an authenticated user to execute arbitrary code",
+    "forks_count": 2,
+    "html_url": "https://github.com/JoyGhoshs/CVE-2021-40870",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-40870",
+    "repo_owner": "JoyGhoshs",
+    "repotime": "2022-04-15, 06:06:50",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-04-15",
+    "date_updated": "2022-04-15",
+    "description": "Git is a free, open source, distributed version control system used for managing code on small, medium and large projects.  GitHub is a web-based Git hosting service.  It is mostly used for computer code, and is used by software development professionals not just for code management, but for archival and sharing of code and projects amongst each other, and for potential clients/employers to see.  Use of GitHub is an extremely common way for software developers to internetwork as well.  Learning about and using GitHub (or, perhaps, similar tools) will be a key part of your software development career.  For this second step in completing your Final Project, you'll need to:  Submit what you've completed so far with the zip folder of your project. Create a document of your project, what you have completed, what problem you have, and what is your next step. Create a GitHub repository to upload your final project. Please visit the website https://github.com/ (Links to an external site.) to g...",
+    "forks_count": 1,
+    "html_url": "https://github.com/Liulseged/M06-Project-Introduction-and-Project-Status-Report-II",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "Python",
+    "repo_name": "M06-Project-Introduction-and-Project-Status-Report-II",
+    "repo_owner": "Liulseged",
+    "repotime": "2022-04-15, 00:56:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2019-12-12",
+    "date_updated": "2022-04-14",
+    "description": "RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX.",
+    "forks_count": 86,
+    "html_url": "https://github.com/noperator/CVE-2019-18935",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-18935",
+    "repo_owner": "noperator",
+    "repotime": "2022-04-14, 14:23:38",
+    "stargazers_count": 356,
+    "watchers_count": 356
+}
+{
+    "commits_count": 139,
+    "date_started": "2012-07-09",
+    "date_updated": "2022-04-14",
+    "description": "A collection of web pages vulnerable to SQL injection flaws",
+    "forks_count": 131,
+    "html_url": "https://github.com/sqlmapproject/testenv",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "testenv",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2022-04-14, 11:05:57",
+    "stargazers_count": 347,
+    "watchers_count": 347
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-04-09",
+    "date_updated": "2022-04-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xConstant/Gym-Management-1.0-unauthenticated-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Gym-Management-1.0-unauthenticated-RCE",
+    "repo_owner": "0xConstant",
+    "repotime": "2022-04-14, 03:56:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-04-17",
+    "date_updated": "2022-04-13",
+    "description": "A mod that allows you to load Minecraft session ID tokens and a description of why this is bad",
+    "forks_count": 3,
+    "html_url": "https://github.com/ANewSpecies/MinecraftSessionVulnerability",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "MinecraftSessionVulnerability",
+    "repo_owner": "ANewSpecies",
+    "repotime": "2022-04-13, 22:43:19",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-04-09",
+    "date_updated": "2022-04-13",
+    "description": "1. The user will be registered with an email and password. 2. Then verify OTP with a mobile number. 3. The user can be able to resend OTP 3 times with a 30-minute interval. 4. OTP can be a dummy here, such as 1234. (you don’t need to use API, keep it as hard coded) 5. If the user tries again after three successful attempts, an error message will be shown. &amp;quot;Please try again after the specific time.&amp;quot; Here, &amp;quot;the specific time&amp;quot; will be 30 minutes ahead of the last successful try. 6. After 30 minutes, the OTP counter will be reset and the user will be able to resend OTP once again 3 times with a brand new 30-minute interval.",
+    "forks_count": 0,
+    "html_url": "https://github.com/naharsoftbd/welcart",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "PHP",
+    "repo_name": "welcart",
+    "repo_owner": "naharsoftbd",
+    "repotime": "2022-04-13, 23:22:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-04-13",
+    "date_updated": "2022-04-13",
+    "description": " Build Status Total Downloads Latest Stable Version License  About Laravel Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:  Simple, fast routing engine. Powerful dependency injection container. Multiple back-ends for session and cache storage. Expressive, intuitive database ORM. Database agnostic schema migrations. Robust background job processing. Real-time event broadcasting. Laravel is accessible, powerful, and provides tools required for large, robust applications.  Learning Laravel Laravel has the most extensive and thorough documentation and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.  If you don't feel like reading, Laracasts can help. Laracasts contains over 2000 video tutorials on a range o...",
+    "forks_count": 0,
+    "html_url": "https://github.com/syifalatifah/Syifa_Latifah",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Syifa_Latifah",
+    "repo_owner": "syifalatifah",
+    "repotime": "2022-04-13, 08:32:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-02",
+    "date_updated": "2022-04-12",
+    "description": "This repository contains exploit and reverse-engineering source code regarding the Spectre-BHB/Branch History Injection vulnerability",
+    "forks_count": 17,
+    "html_url": "https://github.com/vusec/bhi-spectre-bhb",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "bhi-spectre-bhb",
+    "repo_owner": "vusec",
+    "repotime": "2022-04-12, 11:13:22",
+    "stargazers_count": 101,
+    "watchers_count": 101
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-04-12",
+    "date_updated": "2022-04-12",
+    "description": "TerraMaster TOS Unauthenticated Remote Command Execution(RCE) Vulnerability CVE-2022-24990",
+    "forks_count": 2,
+    "html_url": "https://github.com/antx-code/CVE-2022-24990",
+    "keywords": [
+        "unauthenticated rce",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-24990",
+    "repo_owner": "antx-code",
+    "repotime": "2022-04-12, 11:17:26",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-04-10",
+    "date_updated": "2022-04-10",
+    "description": "A UAC bypass dropper written in powershell",
+    "forks_count": 3,
+    "html_url": "https://github.com/skidzsec/powershell-uac-bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "powershell-uac-bypass",
+    "repo_owner": "skidzsec",
+    "repotime": "2022-04-10, 21:07:53",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-04-08",
+    "date_updated": "2022-04-08",
+    "description": "Web server vulnerable to path traversal attacks",
+    "forks_count": 0,
+    "html_url": "https://github.com/suhasks123/vulnerable-web-server",
+    "keywords": [
+        "path traversal vulnerability",
+        "path traversal attack"
+    ],
+    "language": "JavaScript",
+    "repo_name": "vulnerable-web-server",
+    "repo_owner": "suhasks123",
+    "repotime": "2022-04-08, 16:12:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-04-07",
+    "date_updated": "2022-04-07",
+    "description": "Self-Storage in Dubai  It is often hard to find superior, modern, climatically controlled, affordable storage units or warehouses in Dubai. We pick up items from your doorstep. We store your items safely. And when you need them, we bring them back. Self-storage Dubai is the most affordable provider of storage facilities in Dubai. The cheapest and most flexible storage solutions in the UAE. Sizes start from 25 Sq Ft. Store your personal and business assets in a secure and environmentally controlled storage company in Dubai. Self Storage is a fast-growing company for rent in Dubai. That offers storage services, self-storage services, Warehousing Services, and office services. Career and employment options have changed dramatically in recent times. Today more and more people are choosing to work as freelancers or self-employed business owners instead of paid employees when given the opportunity. The growth of this new workforce has increased the number of people using storage units. Here ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/AqsaImran00/Self-Storage-in-Dubai",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "Self-Storage-in-Dubai",
+    "repo_owner": "AqsaImran00",
+    "repotime": "2022-04-07, 08:46:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-26",
+    "date_updated": "2022-04-06",
+    "description": "Unauthenticated RCE exploit for Fantec MWiD25-DS",
+    "forks_count": 0,
+    "html_url": "https://github.com/code-byter/CVE-2022-28113",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-28113",
+    "repo_owner": "code-byter",
+    "repotime": "2022-04-06, 22:55:14",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-04-05",
+    "date_updated": "2022-04-06",
+    "description": "connecting esp without hard coding ssid and password",
+    "forks_count": 0,
+    "html_url": "https://github.com/nsisong/esp_wifimanager",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "C++",
+    "repo_name": "esp_wifimanager",
+    "repo_owner": "nsisong",
+    "repotime": "2022-04-06, 14:45:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-02-20",
+    "date_updated": "2022-04-06",
+    "description": "DLL injection &amp;amp; Code injection &amp;amp; Function Hook &amp;amp; IAT Hook",
+    "forks_count": 31,
+    "html_url": "https://github.com/iTruth/cheatlib",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "cheatlib",
+    "repo_owner": "iTruth",
+    "repotime": "2022-04-06, 13:03:44",
+    "stargazers_count": 63,
+    "watchers_count": 63
+}
+{
+    "commits_count": 53,
+    "date_started": "2022-03-30",
+    "date_updated": "2022-04-04",
+    "description": "Everything I needed to understand what was going on with &amp;quot;Spring4Shell&amp;quot; - translated source materials, exploit, links to demo apps, and more.",
+    "forks_count": 35,
+    "html_url": "https://github.com/tweedge/springcore-0day-en",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "springcore-0day-en",
+    "repo_owner": "tweedge",
+    "repotime": "2022-04-04, 20:33:00",
+    "stargazers_count": 107,
+    "watchers_count": 107
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-04-03",
+    "date_updated": "2022-04-03",
+    "description": "Atlassian Jira XSS attack via Server Side Request Forgery (SSRF).",
+    "forks_count": 2,
+    "html_url": "https://github.com/labsbots/CVE-2017-9506",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-9506",
+    "repo_owner": "labsbots",
+    "repotime": "2022-04-03, 09:26:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-03-29",
+    "date_updated": "2022-04-01",
+    "description": "golang RCE 0day POC",
+    "forks_count": 9,
+    "html_url": "https://github.com/hktalent/golang-RCE-0day-POC",
+    "keywords": [
+        "rce poc",
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "golang-RCE-0day-POC",
+    "repo_owner": "hktalent",
+    "repotime": "2022-04-01, 21:48:05",
+    "stargazers_count": 73,
+    "watchers_count": 73
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-31",
+    "date_updated": "2022-04-01",
+    "description": "Reproducing spring rce vulnerability and nuclei template",
+    "forks_count": 7,
+    "html_url": "https://github.com/justmumu/SpringShell",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "SpringShell",
+    "repo_owner": "justmumu",
+    "repotime": "2022-04-01, 13:59:15",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}

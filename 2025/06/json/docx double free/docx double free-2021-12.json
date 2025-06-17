@@ -319,3 +319,645 @@
     "stargazers_count": 4,
     "watchers_count": 4
 }
+{
+    "commits_count": 1,
+    "date_started": "2021-12-29",
+    "date_updated": "2021-12-29",
+    "description": "Problem Statement This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. You will need to submit a Jupyter notebook for the same.      Problem Statement A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;quot;dock&amp;quot; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.   A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lock...",
+    "forks_count": 0,
+    "html_url": "https://github.com/ShahadShaikh/Bike_Sharing_Project",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Bike_Sharing_Project",
+    "repo_owner": "ShahadShaikh",
+    "repotime": "2021-12-29, 08:26:40",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-12-20",
+    "date_updated": "2021-12-27",
+    "description": "Proof of Concept for CVE-2021-43891",
+    "forks_count": 1,
+    "html_url": "https://github.com/parsiya/code-wsl-rce",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "code-wsl-rce",
+    "repo_owner": "parsiya",
+    "repotime": "2021-12-27, 09:00:25",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-12-25",
+    "date_updated": "2021-12-25",
+    "description": "Car Rental System 1.0 suffers from SQL Injection on administrator login page and unsecure upload mechanism allowing to upload malicious files. This allows unauthenticated user to obtain reverse shell to server.",
+    "forks_count": 0,
+    "html_url": "https://github.com/LongWayHomie/CRS-RCE-Exploit",
+    "keywords": [
+        "unauthenticated user",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CRS-RCE-Exploit",
+    "repo_owner": "LongWayHomie",
+    "repotime": "2021-12-25, 22:40:49",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-12-21",
+    "date_updated": "2021-12-20",
+    "description": "   &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;!--[if IE 8]&amp;gt;&amp;lt;html class=&amp;quot;ie8&amp;quot; ng-app=&amp;quot;robloxApp&amp;quot;&amp;gt;&amp;lt;![endif]--&amp;gt; &amp;lt;!--[if gt IE 8]&amp;gt;&amp;lt;!--&amp;gt; &amp;lt;html&amp;gt; &amp;lt;!--&amp;lt;![endif]--&amp;gt; &amp;lt;head data-machine-id=&amp;quot;WEB7441&amp;quot;&amp;gt;     &amp;lt;!-- MachineID: WEB7441 --&amp;gt;     &amp;lt;title&amp;gt;Home - Roblox&amp;lt;/title&amp;gt;     &amp;lt;meta http-equiv=&amp;quot;X-UA-Compatible&amp;quot; content=&amp;quot;IE=edge,requiresActiveX=true&amp;quot; /&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;author&amp;quot; content=&amp;quot;Roblox Corporation&amp;quot; /&amp;gt; &amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;Roblox is a global platform that brings people together through play.&amp;quot; /&amp;gt; &amp;lt;meta name=&amp;quot;keywords&amp;quot; content=&amp;quot;free games, online games, building games, virtual worlds, free mmo, gaming cloud, physics engine&amp;quot; /&amp;gt;      &amp;lt;meta name=&amp;quot;apple-itunes-app&amp;quot; content=...",
+    "forks_count": 55,
+    "html_url": "https://github.com/stoupid999/roblox.com",
+    "keywords": [
+        "Windows use after free",
+        "Microsoft use after free",
+        "Chrome use after free"
+    ],
+    "language": null,
+    "repo_name": "roblox.com",
+    "repo_owner": "stoupid999",
+    "repotime": "2021-12-20, 20:50:16",
+    "stargazers_count": 58,
+    "watchers_count": 58
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-03-17",
+    "date_updated": "2021-12-20",
+    "description": "   &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;!--[if IE 8]&amp;gt;&amp;lt;html class=&amp;quot;ie8&amp;quot; ng-app=&amp;quot;robloxApp&amp;quot;&amp;gt;&amp;lt;![endif]--&amp;gt; &amp;lt;!--[if gt IE 8]&amp;gt;&amp;lt;!--&amp;gt; &amp;lt;html&amp;gt; &amp;lt;!--&amp;lt;![endif]--&amp;gt; &amp;lt;head data-machine-id=&amp;quot;WEB7441&amp;quot;&amp;gt;     &amp;lt;!-- MachineID: WEB7441 --&amp;gt;     &amp;lt;title&amp;gt;Home - Roblox&amp;lt;/title&amp;gt;     &amp;lt;meta http-equiv=&amp;quot;X-UA-Compatible&amp;quot; content=&amp;quot;IE=edge,requiresActiveX=true&amp;quot; /&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;author&amp;quot; content=&amp;quot;Roblox Corporation&amp;quot; /&amp;gt; &amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;Roblox is a global platform that brings people together through play.&amp;quot; /&amp;gt; &amp;lt;meta name=&amp;quot;keywords&amp;quot; content=&amp;quot;free games, online games, building games, virtual worlds, free mmo, gaming cloud, physics engine&amp;quot; /&amp;gt;      &amp;lt;meta name=&amp;quot;apple-itunes-app&amp;quot; content=...",
+    "forks_count": 59,
+    "html_url": "https://github.com/djkaley5555/roblox.com",
+    "keywords": [
+        "Windows use after free",
+        "Chrome use after free"
+    ],
+    "language": null,
+    "repo_name": "roblox.com",
+    "repo_owner": "djkaley5555",
+    "repotime": "2021-12-20, 20:50:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-12-17",
+    "date_updated": "2021-12-20",
+    "description": "Simulating Log4j Remote Code Execution (RCE) vulnerability in a flask web server using python's logging library with custom formatter that simulates lookup substitution by executing remote exploit code.",
+    "forks_count": 8,
+    "html_url": "https://github.com/Narasimha1997/py4jshell",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "py4jshell",
+    "repo_owner": "Narasimha1997",
+    "repotime": "2021-12-20, 11:28:50",
+    "stargazers_count": 87,
+    "watchers_count": 87
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-12-02",
+    "date_updated": "2021-12-17",
+    "description": "Windows MSI Installer LPE (CVE-2021-43883)",
+    "forks_count": 18,
+    "html_url": "https://github.com/jbaines-r7/shakeitoff",
+    "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe"
+    ],
+    "language": "C++",
+    "repo_name": "shakeitoff",
+    "repo_owner": "jbaines-r7",
+    "repotime": "2021-12-17, 07:53:51",
+    "stargazers_count": 76,
+    "watchers_count": 76
+}
+{
+    "commits_count": 28,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-17",
+    "description": "Non intrusive log4j2 RCE vulnerability patch.",
+    "forks_count": 8,
+    "html_url": "https://github.com/Glavo/log4j-patch",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "log4j-patch",
+    "repo_owner": "Glavo",
+    "repotime": "2021-12-17, 20:32:10",
+    "stargazers_count": 65,
+    "watchers_count": 65
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-11-28",
+    "date_updated": "2021-12-17",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/Lua-Project/lua-5.4.4-sandbox-escape-with-new-vulnerability",
+    "keywords": [
+        "sandbox escape vulnerability"
+    ],
+    "language": "Lua",
+    "repo_name": "lua-5.4.4-sandbox-escape-with-new-vulnerability",
+    "repo_owner": "Lua-Project",
+    "repotime": "2021-12-17, 03:57:24",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-16",
+    "description": "Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information",
+    "forks_count": 31,
+    "html_url": "https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept",
+    "keywords": [
+        "rce proof of concept",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "Log4J-RCE-Proof-Of-Concept",
+    "repo_owner": "HyCraftHD",
+    "repotime": "2021-12-16, 02:33:48",
+    "stargazers_count": 180,
+    "watchers_count": 180
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-12-13",
+    "date_updated": "2021-12-15",
+    "description": "Log4Shell RCE Exploit - fully independent exploit does not require any 3rd party binaries.",
+    "forks_count": 64,
+    "html_url": "https://github.com/cyberstruggle/L4sh",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "L4sh",
+    "repo_owner": "cyberstruggle",
+    "repotime": "2021-12-15, 12:51:51",
+    "stargazers_count": 257,
+    "watchers_count": 257
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-14",
+    "description": "A script that checks for vulnerable Log4j (CVE-2021-44228) systems using injection of the payload in common HTTP headers.",
+    "forks_count": 26,
+    "html_url": "https://github.com/NorthwaveSecurity/log4jcheck",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "log4jcheck",
+    "repo_owner": "NorthwaveSecurity",
+    "repotime": "2021-12-14, 16:16:10",
+    "stargazers_count": 126,
+    "watchers_count": 126
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-12-12",
+    "date_updated": "2021-12-13",
+    "description": "Problem Statement A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;quot;dock&amp;quot; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.   A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.    In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation du...",
+    "forks_count": 0,
+    "html_url": "https://github.com/praveenkumar5188/Bike_sharing_Analysis",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Bike_sharing_Analysis",
+    "repo_owner": "praveenkumar5188",
+    "repotime": "2021-12-13, 18:07:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-12-11",
+    "date_updated": "2021-12-11",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/julio-cfa/PoC-IPFire-2.19-OINKCODE-Remote-Code-Execution-EXPLOIT",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "PoC-IPFire-2.19-OINKCODE-Remote-Code-Execution-EXPLOIT",
+    "repo_owner": "julio-cfa",
+    "repotime": "2021-12-11, 10:11:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-11",
+    "description": "log4j2 remote code execution or IP leakage exploit (with examples)",
+    "forks_count": 26,
+    "html_url": "https://github.com/ilsubyeega/log4j2-rce-exploit",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "rce exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "log4j2-rce-exploit",
+    "repo_owner": "ilsubyeega",
+    "repotime": "2021-12-11, 12:20:01",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 0,
+    "date_started": "2016-07-30",
+    "date_updated": "2021-12-05",
+    "description": "Communication Skills     Have you ever attempted to convey the desired information?  Maybe you took a stab at pitching an earth shattering venture, you were tasked with running a departmental meeting, or you expected to convey a convincing presentation. You did as well as can possibly be expected, however all you got were vague looks and ungainly quiets.  Odds are, there wasn't much amiss with what you were attempting to say; it's simply that you expected to chip away at how you said it.  The best communicators rouse and spur individuals, help them to make successful move, and expel obstructions to their comprehension. Lamentably, numerous businessmen think that its difficult to impart viably — we've all gotten tremendous, language ridden messages, and we've encountered the misconception, dissatisfaction and missed open doors that accompany them.  Be that as it may, with the right aptitudes, anybody can turn into an outstanding communicator Add to My Personal Learning Plan. Perused on,...",
+    "forks_count": 0,
+    "html_url": "https://github.com/ankit9571/Communication-Skills",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "Communication-Skills",
+    "repo_owner": "ankit9571",
+    "repotime": "2021-12-05, 15:02:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-10-26",
+    "date_updated": "2021-12-04",
+    "description": "A reverse shell is a shell session established on a connection that is initiated from a remote machine, not from the local host. Attackers who successfully exploit a remote command execution vulnerability can use a reverse shell to obtain an interactive shell session on the target machine and continue their execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/punyaslokdutta/Reverse-Shell-scripts",
+    "keywords": [
+        "session vulnerability",
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Reverse-Shell-scripts",
+    "repo_owner": "punyaslokdutta",
+    "repotime": "2021-12-04, 23:39:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3311,
+    "date_started": "2021-11-28",
+    "date_updated": "2021-12-03",
+    "description": "Fork of amazon-ssm-agent that can run as any user in parallel with the official service.",
+    "forks_count": 2,
+    "html_url": "https://github.com/RhinoSecurityLabs/amazon-ssm-agent",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Go",
+    "repo_name": "amazon-ssm-agent",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2021-12-03, 10:18:49",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-12-29",
+    "date_updated": "2021-12-29",
+    "description": "Problem Statement This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. You will need to submit a Jupyter notebook for the same.      Problem Statement A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;quot;dock&amp;quot; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.   A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lock...",
+    "forks_count": 0,
+    "html_url": "https://github.com/ShahadShaikh/Bike_Sharing_Project",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Bike_Sharing_Project",
+    "repo_owner": "ShahadShaikh",
+    "repotime": "2021-12-29, 08:26:40",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-12-20",
+    "date_updated": "2021-12-27",
+    "description": "Proof of Concept for CVE-2021-43891",
+    "forks_count": 1,
+    "html_url": "https://github.com/parsiya/code-wsl-rce",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "code-wsl-rce",
+    "repo_owner": "parsiya",
+    "repotime": "2021-12-27, 09:00:25",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-12-25",
+    "date_updated": "2021-12-25",
+    "description": "Car Rental System 1.0 suffers from SQL Injection on administrator login page and unsecure upload mechanism allowing to upload malicious files. This allows unauthenticated user to obtain reverse shell to server.",
+    "forks_count": 0,
+    "html_url": "https://github.com/LongWayHomie/CRS-RCE-Exploit",
+    "keywords": [
+        "unauthenticated user",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CRS-RCE-Exploit",
+    "repo_owner": "LongWayHomie",
+    "repotime": "2021-12-25, 22:40:49",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-12-21",
+    "date_updated": "2021-12-20",
+    "description": "   &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;!--[if IE 8]&amp;gt;&amp;lt;html class=&amp;quot;ie8&amp;quot; ng-app=&amp;quot;robloxApp&amp;quot;&amp;gt;&amp;lt;![endif]--&amp;gt; &amp;lt;!--[if gt IE 8]&amp;gt;&amp;lt;!--&amp;gt; &amp;lt;html&amp;gt; &amp;lt;!--&amp;lt;![endif]--&amp;gt; &amp;lt;head data-machine-id=&amp;quot;WEB7441&amp;quot;&amp;gt;     &amp;lt;!-- MachineID: WEB7441 --&amp;gt;     &amp;lt;title&amp;gt;Home - Roblox&amp;lt;/title&amp;gt;     &amp;lt;meta http-equiv=&amp;quot;X-UA-Compatible&amp;quot; content=&amp;quot;IE=edge,requiresActiveX=true&amp;quot; /&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;author&amp;quot; content=&amp;quot;Roblox Corporation&amp;quot; /&amp;gt; &amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;Roblox is a global platform that brings people together through play.&amp;quot; /&amp;gt; &amp;lt;meta name=&amp;quot;keywords&amp;quot; content=&amp;quot;free games, online games, building games, virtual worlds, free mmo, gaming cloud, physics engine&amp;quot; /&amp;gt;      &amp;lt;meta name=&amp;quot;apple-itunes-app&amp;quot; content=...",
+    "forks_count": 55,
+    "html_url": "https://github.com/stoupid999/roblox.com",
+    "keywords": [
+        "Windows use after free",
+        "Microsoft use after free",
+        "Chrome use after free"
+    ],
+    "language": null,
+    "repo_name": "roblox.com",
+    "repo_owner": "stoupid999",
+    "repotime": "2021-12-20, 20:50:16",
+    "stargazers_count": 58,
+    "watchers_count": 58
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-03-17",
+    "date_updated": "2021-12-20",
+    "description": "   &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;!--[if IE 8]&amp;gt;&amp;lt;html class=&amp;quot;ie8&amp;quot; ng-app=&amp;quot;robloxApp&amp;quot;&amp;gt;&amp;lt;![endif]--&amp;gt; &amp;lt;!--[if gt IE 8]&amp;gt;&amp;lt;!--&amp;gt; &amp;lt;html&amp;gt; &amp;lt;!--&amp;lt;![endif]--&amp;gt; &amp;lt;head data-machine-id=&amp;quot;WEB7441&amp;quot;&amp;gt;     &amp;lt;!-- MachineID: WEB7441 --&amp;gt;     &amp;lt;title&amp;gt;Home - Roblox&amp;lt;/title&amp;gt;     &amp;lt;meta http-equiv=&amp;quot;X-UA-Compatible&amp;quot; content=&amp;quot;IE=edge,requiresActiveX=true&amp;quot; /&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;author&amp;quot; content=&amp;quot;Roblox Corporation&amp;quot; /&amp;gt; &amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;Roblox is a global platform that brings people together through play.&amp;quot; /&amp;gt; &amp;lt;meta name=&amp;quot;keywords&amp;quot; content=&amp;quot;free games, online games, building games, virtual worlds, free mmo, gaming cloud, physics engine&amp;quot; /&amp;gt;      &amp;lt;meta name=&amp;quot;apple-itunes-app&amp;quot; content=...",
+    "forks_count": 59,
+    "html_url": "https://github.com/djkaley5555/roblox.com",
+    "keywords": [
+        "Windows use after free",
+        "Chrome use after free"
+    ],
+    "language": null,
+    "repo_name": "roblox.com",
+    "repo_owner": "djkaley5555",
+    "repotime": "2021-12-20, 20:50:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-12-17",
+    "date_updated": "2021-12-20",
+    "description": "Simulating Log4j Remote Code Execution (RCE) vulnerability in a flask web server using python's logging library with custom formatter that simulates lookup substitution by executing remote exploit code.",
+    "forks_count": 8,
+    "html_url": "https://github.com/Narasimha1997/py4jshell",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "py4jshell",
+    "repo_owner": "Narasimha1997",
+    "repotime": "2021-12-20, 11:28:50",
+    "stargazers_count": 87,
+    "watchers_count": 87
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-12-02",
+    "date_updated": "2021-12-17",
+    "description": "Windows MSI Installer LPE (CVE-2021-43883)",
+    "forks_count": 18,
+    "html_url": "https://github.com/jbaines-r7/shakeitoff",
+    "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe"
+    ],
+    "language": "C++",
+    "repo_name": "shakeitoff",
+    "repo_owner": "jbaines-r7",
+    "repotime": "2021-12-17, 07:53:51",
+    "stargazers_count": 76,
+    "watchers_count": 76
+}
+{
+    "commits_count": 28,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-17",
+    "description": "Non intrusive log4j2 RCE vulnerability patch.",
+    "forks_count": 8,
+    "html_url": "https://github.com/Glavo/log4j-patch",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "log4j-patch",
+    "repo_owner": "Glavo",
+    "repotime": "2021-12-17, 20:32:10",
+    "stargazers_count": 65,
+    "watchers_count": 65
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-11-28",
+    "date_updated": "2021-12-17",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/Lua-Project/lua-5.4.4-sandbox-escape-with-new-vulnerability",
+    "keywords": [
+        "sandbox escape vulnerability"
+    ],
+    "language": "Lua",
+    "repo_name": "lua-5.4.4-sandbox-escape-with-new-vulnerability",
+    "repo_owner": "Lua-Project",
+    "repotime": "2021-12-17, 03:57:24",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-16",
+    "description": "Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information",
+    "forks_count": 31,
+    "html_url": "https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept",
+    "keywords": [
+        "rce proof of concept",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "Log4J-RCE-Proof-Of-Concept",
+    "repo_owner": "HyCraftHD",
+    "repotime": "2021-12-16, 02:33:48",
+    "stargazers_count": 180,
+    "watchers_count": 180
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-12-13",
+    "date_updated": "2021-12-15",
+    "description": "Log4Shell RCE Exploit - fully independent exploit does not require any 3rd party binaries.",
+    "forks_count": 64,
+    "html_url": "https://github.com/cyberstruggle/L4sh",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "L4sh",
+    "repo_owner": "cyberstruggle",
+    "repotime": "2021-12-15, 12:51:51",
+    "stargazers_count": 257,
+    "watchers_count": 257
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-14",
+    "description": "A script that checks for vulnerable Log4j (CVE-2021-44228) systems using injection of the payload in common HTTP headers.",
+    "forks_count": 26,
+    "html_url": "https://github.com/NorthwaveSecurity/log4jcheck",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "log4jcheck",
+    "repo_owner": "NorthwaveSecurity",
+    "repotime": "2021-12-14, 16:16:10",
+    "stargazers_count": 126,
+    "watchers_count": 126
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-12-12",
+    "date_updated": "2021-12-13",
+    "description": "Problem Statement A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;quot;dock&amp;quot; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.   A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.    In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation du...",
+    "forks_count": 0,
+    "html_url": "https://github.com/praveenkumar5188/Bike_sharing_Analysis",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Bike_sharing_Analysis",
+    "repo_owner": "praveenkumar5188",
+    "repotime": "2021-12-13, 18:07:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-12-11",
+    "date_updated": "2021-12-11",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/julio-cfa/PoC-IPFire-2.19-OINKCODE-Remote-Code-Execution-EXPLOIT",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "PoC-IPFire-2.19-OINKCODE-Remote-Code-Execution-EXPLOIT",
+    "repo_owner": "julio-cfa",
+    "repotime": "2021-12-11, 10:11:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-11",
+    "description": "log4j2 remote code execution or IP leakage exploit (with examples)",
+    "forks_count": 26,
+    "html_url": "https://github.com/ilsubyeega/log4j2-rce-exploit",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "rce exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "log4j2-rce-exploit",
+    "repo_owner": "ilsubyeega",
+    "repotime": "2021-12-11, 12:20:01",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 0,
+    "date_started": "2016-07-30",
+    "date_updated": "2021-12-05",
+    "description": "Communication Skills     Have you ever attempted to convey the desired information?  Maybe you took a stab at pitching an earth shattering venture, you were tasked with running a departmental meeting, or you expected to convey a convincing presentation. You did as well as can possibly be expected, however all you got were vague looks and ungainly quiets.  Odds are, there wasn't much amiss with what you were attempting to say; it's simply that you expected to chip away at how you said it.  The best communicators rouse and spur individuals, help them to make successful move, and expel obstructions to their comprehension. Lamentably, numerous businessmen think that its difficult to impart viably — we've all gotten tremendous, language ridden messages, and we've encountered the misconception, dissatisfaction and missed open doors that accompany them.  Be that as it may, with the right aptitudes, anybody can turn into an outstanding communicator Add to My Personal Learning Plan. Perused on,...",
+    "forks_count": 0,
+    "html_url": "https://github.com/ankit9571/Communication-Skills",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "Communication-Skills",
+    "repo_owner": "ankit9571",
+    "repotime": "2021-12-05, 15:02:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-10-26",
+    "date_updated": "2021-12-04",
+    "description": "A reverse shell is a shell session established on a connection that is initiated from a remote machine, not from the local host. Attackers who successfully exploit a remote command execution vulnerability can use a reverse shell to obtain an interactive shell session on the target machine and continue their execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/punyaslokdutta/Reverse-Shell-scripts",
+    "keywords": [
+        "session vulnerability",
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Reverse-Shell-scripts",
+    "repo_owner": "punyaslokdutta",
+    "repotime": "2021-12-04, 23:39:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3311,
+    "date_started": "2021-11-28",
+    "date_updated": "2021-12-03",
+    "description": "Fork of amazon-ssm-agent that can run as any user in parallel with the official service.",
+    "forks_count": 2,
+    "html_url": "https://github.com/RhinoSecurityLabs/amazon-ssm-agent",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Go",
+    "repo_name": "amazon-ssm-agent",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2021-12-03, 10:18:49",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}

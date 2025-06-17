@@ -32,3 +32,20 @@
     "stargazers_count": 4,
     "watchers_count": 4
 }
+{
+    "commits_count": 57,
+    "date_started": "2014-09-12",
+    "date_updated": "2015-04-27",
+    "description": "Small and fast tool for memory analysis (finding memory leaks). Because it is small and easy to cross compile you can use it for embedded systems.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Siprj/mem-leak-checker",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C++",
+    "repo_name": "mem-leak-checker",
+    "repo_owner": "Siprj",
+    "repotime": "2015-04-27, 18:09:04",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}

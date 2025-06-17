@@ -110,3 +110,227 @@
     "stargazers_count": 54,
     "watchers_count": 54
 }
+{
+    "commits_count": 11,
+    "date_started": "2021-10-28",
+    "date_updated": "2021-10-31",
+    "description": "An attempt to reproduce Microsoft MSHTML Remote Code Execution (RCE) Vulnerability and using Metasploit Framework.",
+    "forks_count": 1,
+    "html_url": "https://github.com/kagura-maru/CVE-2021-40444-POC",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft rce",
+        "Microsoft rce poc",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution poc",
+        "remote code execution poc",
+        "Microsoft remote code execution",
+        "Microsoft rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-40444-POC",
+    "repo_owner": "kagura-maru",
+    "repotime": "2021-10-31, 16:15:00",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-20",
+    "date_updated": "2021-10-28",
+    "description": "windows 10 14393 LPE",
+    "forks_count": 46,
+    "html_url": "https://github.com/KaLendsi/CVE-2021-40449-Exploit",
+    "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-40449-Exploit",
+    "repo_owner": "KaLendsi",
+    "repotime": "2021-10-28, 11:51:09",
+    "stargazers_count": 96,
+    "watchers_count": 96
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-10-30",
+    "date_updated": "2021-10-27",
+    "description": "Sleirsgoevy: PoC for the FontFaceSet vulnerability, which was wrongly classified as a use-after-free. Works only on PC for now. Please check if this prints &amp;quot;failed to guess...&amp;quot; for you. Especially interested in reports from 9.00.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ps4lib/900Test",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free poc"
+    ],
+    "language": null,
+    "repo_name": "900Test",
+    "repo_owner": "ps4lib",
+    "repotime": "2021-10-27, 11:37:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-08-28",
+    "date_updated": "2021-10-24",
+    "description": "A memory leak exploit I discovered in 2019 while playing around with WiFi 802.11 Signal Beacons and how android improperly parses and displays the packets in the WiFi menu in Settings",
+    "forks_count": 0,
+    "html_url": "https://github.com/ripmeep/android-memory-leak",
+    "keywords": [
+        "memory leak exploit"
+    ],
+    "language": "C",
+    "repo_name": "android-memory-leak",
+    "repo_owner": "ripmeep",
+    "repotime": "2021-10-24, 17:46:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-10-09",
+    "date_updated": "2021-10-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Murasame-nc/CVE-2020-0796-LPE-POC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2020-0796-LPE-POC",
+    "repo_owner": "Murasame-nc",
+    "repotime": "2021-10-09, 16:24:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-07-26",
+    "date_updated": "2021-10-04",
+    "description": "<no description>",
+    "forks_count": 12,
+    "html_url": "https://github.com/saaramar/IOMobileFrameBuffer_LPE_POC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "IOMobileFrameBuffer_LPE_POC",
+    "repo_owner": "saaramar",
+    "repotime": "2021-10-04, 12:30:26",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-10-28",
+    "date_updated": "2021-10-31",
+    "description": "An attempt to reproduce Microsoft MSHTML Remote Code Execution (RCE) Vulnerability and using Metasploit Framework.",
+    "forks_count": 1,
+    "html_url": "https://github.com/kagura-maru/CVE-2021-40444-POC",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft rce",
+        "Microsoft rce poc",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution poc",
+        "remote code execution poc",
+        "Microsoft remote code execution",
+        "Microsoft rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-40444-POC",
+    "repo_owner": "kagura-maru",
+    "repotime": "2021-10-31, 16:15:00",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-20",
+    "date_updated": "2021-10-28",
+    "description": "windows 10 14393 LPE",
+    "forks_count": 46,
+    "html_url": "https://github.com/KaLendsi/CVE-2021-40449-Exploit",
+    "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-40449-Exploit",
+    "repo_owner": "KaLendsi",
+    "repotime": "2021-10-28, 11:51:09",
+    "stargazers_count": 96,
+    "watchers_count": 96
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-10-30",
+    "date_updated": "2021-10-27",
+    "description": "Sleirsgoevy: PoC for the FontFaceSet vulnerability, which was wrongly classified as a use-after-free. Works only on PC for now. Please check if this prints &amp;quot;failed to guess...&amp;quot; for you. Especially interested in reports from 9.00.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ps4lib/900Test",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free poc"
+    ],
+    "language": null,
+    "repo_name": "900Test",
+    "repo_owner": "ps4lib",
+    "repotime": "2021-10-27, 11:37:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-08-28",
+    "date_updated": "2021-10-24",
+    "description": "A memory leak exploit I discovered in 2019 while playing around with WiFi 802.11 Signal Beacons and how android improperly parses and displays the packets in the WiFi menu in Settings",
+    "forks_count": 0,
+    "html_url": "https://github.com/ripmeep/android-memory-leak",
+    "keywords": [
+        "memory leak exploit"
+    ],
+    "language": "C",
+    "repo_name": "android-memory-leak",
+    "repo_owner": "ripmeep",
+    "repotime": "2021-10-24, 17:46:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-10-09",
+    "date_updated": "2021-10-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Murasame-nc/CVE-2020-0796-LPE-POC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2020-0796-LPE-POC",
+    "repo_owner": "Murasame-nc",
+    "repotime": "2021-10-09, 16:24:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-07-26",
+    "date_updated": "2021-10-04",
+    "description": "<no description>",
+    "forks_count": 12,
+    "html_url": "https://github.com/saaramar/IOMobileFrameBuffer_LPE_POC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "IOMobileFrameBuffer_LPE_POC",
+    "repo_owner": "saaramar",
+    "repotime": "2021-10-04, 12:30:26",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}

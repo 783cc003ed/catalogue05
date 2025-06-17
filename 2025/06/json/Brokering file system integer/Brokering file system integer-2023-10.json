@@ -51,3 +51,109 @@
     "stargazers_count": 1898,
     "watchers_count": 1898
 }
+{
+    "commits_count": 14,
+    "date_started": "2021-04-02",
+    "date_updated": "2023-10-29",
+    "description": "A memory leak analysis",
+    "forks_count": 0,
+    "html_url": "https://github.com/a-simoes/quarkus-memory-leak-analysis",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Java",
+    "repo_name": "quarkus-memory-leak-analysis",
+    "repo_owner": "a-simoes",
+    "repotime": "2023-10-29, 18:02:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-10-16",
+    "date_updated": "2023-10-16",
+    "description": "A python based exploit to test out rapid reset attack (CVE-2023-44487)",
+    "forks_count": 3,
+    "html_url": "https://github.com/studiogangster/CVE-2023-44487",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-44487",
+    "repo_owner": "studiogangster",
+    "repotime": "2023-10-16, 18:02:50",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 83,
+    "date_started": "2022-04-05",
+    "date_updated": "2023-10-07",
+    "description": "Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!",
+    "forks_count": 223,
+    "html_url": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploit"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "Awesome-RCE-techniques",
+    "repo_owner": "p0dalirius",
+    "repotime": "2023-10-07, 10:54:45",
+    "stargazers_count": 1899,
+    "watchers_count": 1899
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-04-02",
+    "date_updated": "2023-10-29",
+    "description": "A memory leak analysis",
+    "forks_count": 0,
+    "html_url": "https://github.com/a-simoes/quarkus-memory-leak-analysis",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Java",
+    "repo_name": "quarkus-memory-leak-analysis",
+    "repo_owner": "a-simoes",
+    "repotime": "2023-10-29, 18:02:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-10-16",
+    "date_updated": "2023-10-16",
+    "description": "A python based exploit to test out rapid reset attack (CVE-2023-44487)",
+    "forks_count": 3,
+    "html_url": "https://github.com/studiogangster/CVE-2023-44487",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-44487",
+    "repo_owner": "studiogangster",
+    "repotime": "2023-10-16, 18:02:50",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 83,
+    "date_started": "2022-04-05",
+    "date_updated": "2023-10-07",
+    "description": "Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!",
+    "forks_count": 223,
+    "html_url": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploit"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "Awesome-RCE-techniques",
+    "repo_owner": "p0dalirius",
+    "repotime": "2023-10-07, 10:54:45",
+    "stargazers_count": 1901,
+    "watchers_count": 1901
+}

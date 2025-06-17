@@ -205,3 +205,383 @@
     "stargazers_count": 248,
     "watchers_count": 248
 }
+{
+    "commits_count": 4,
+    "date_started": "2025-04-30",
+    "date_updated": "2025-04-30",
+    "description": "Windows kernel library for direct process notification registration, bypassing PatchGuard detection",
+    "forks_count": 0,
+    "html_url": "https://github.com/izcarti/ShadowCallback",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "ShadowCallback",
+    "repo_owner": "izcarti",
+    "repotime": "2025-04-30, 17:20:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 28,
+    "date_started": "2020-05-02",
+    "date_updated": "2025-04-27",
+    "description": "RainbowSQL is very fast dork&amp;amp;SQL injection scanner.",
+    "forks_count": 20,
+    "html_url": "https://github.com/syrex1013/RainbowSQL",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "C#",
+    "repo_name": "RainbowSQL",
+    "repo_owner": "syrex1013",
+    "repotime": "2025-04-27, 16:01:23",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 224,
+    "date_started": "2019-05-06",
+    "date_updated": "2025-04-25",
+    "description": "A blind XSS detection and XSS data capture framework",
+    "forks_count": 29,
+    "html_url": "https://github.com/daxAKAhackerman/XSS-Catcher",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-Catcher",
+    "repo_owner": "daxAKAhackerman",
+    "repotime": "2025-04-25, 16:11:08",
+    "stargazers_count": 171,
+    "watchers_count": 171
+}
+{
+    "commits_count": 253,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-04-21",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 118,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-04-21, 11:07:40",
+    "stargazers_count": 403,
+    "watchers_count": 403
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-20",
+    "date_updated": "2025-04-20",
+    "description": "Various techniques used to bypass SMEP in the Windows Kernel.",
+    "forks_count": 1,
+    "html_url": "https://github.com/r0keb/Smep-Bypass",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Smep-Bypass",
+    "repo_owner": "r0keb",
+    "repotime": "2025-04-20, 20:42:37",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 109,
+    "date_started": "2024-09-27",
+    "date_updated": "2025-04-20",
+    "description": "Adrenaline CryptoSentinel: Proactive Protection Against Data Exfiltration and Reactive Ransomware Defense.  Zero-Day resistant and much more....",
+    "forks_count": 1,
+    "html_url": "https://github.com/wcsf-rd/Adrenaline-CryptoSentinel",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": null,
+    "repo_name": "Adrenaline-CryptoSentinel",
+    "repo_owner": "wcsf-rd",
+    "repotime": "2025-04-20, 17:46:03",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 166,
+    "date_started": "2024-05-30",
+    "date_updated": "2025-04-18",
+    "description": "Fourth evolution of Code Injection for Xcode",
+    "forks_count": 6,
+    "html_url": "https://github.com/johnno1962/InjectionNext",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "InjectionNext",
+    "repo_owner": "johnno1962",
+    "repotime": "2025-04-18, 12:34:20",
+    "stargazers_count": 168,
+    "watchers_count": 168
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-03-29",
+    "date_updated": "2025-04-17",
+    "description": "Kairos is a next-generation, red-team-oriented Windows kernel defense neutralization framework. It combines traditional runtime patching with UEFI persistence, hypervisor-level surveillance, and Secure Kernel deception.",
+    "forks_count": 1,
+    "html_url": "https://github.com/sondernextdoor/Kairos",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "Kairos",
+    "repo_owner": "sondernextdoor",
+    "repotime": "2025-04-17, 21:42:05",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1403,
+    "date_started": "2016-11-14",
+    "date_updated": "2025-04-17",
+    "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (&amp;quot;transparent&amp;quot;) encryption. SQL, NoSQL.",
+    "forks_count": 131,
+    "html_url": "https://github.com/cossacklabs/acra",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "acra",
+    "repo_owner": "cossacklabs",
+    "repotime": "2025-04-17, 13:21:23",
+    "stargazers_count": 1400,
+    "watchers_count": 1400
+}
+{
+    "commits_count": 131,
+    "date_started": "2024-09-13",
+    "date_updated": "2025-04-16",
+    "description": "best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect",
+    "forks_count": 272,
+    "html_url": "https://github.com/coffinxp/loxs",
+    "keywords": [
+        "lfi",
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "loxs",
+    "repo_owner": "coffinxp",
+    "repotime": "2025-04-16, 14:13:53",
+    "stargazers_count": 1195,
+    "watchers_count": 1195
+}
+{
+    "commits_count": 110,
+    "date_started": "2020-02-12",
+    "date_updated": "2025-04-10",
+    "description": "An XSS Exploitation Tool",
+    "forks_count": 59,
+    "html_url": "https://github.com/Sharpforce/XSS-Exploitation-Tool",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "XSS-Exploitation-Tool",
+    "repo_owner": "Sharpforce",
+    "repotime": "2025-04-10, 17:00:09",
+    "stargazers_count": 318,
+    "watchers_count": 318
+}
+{
+    "commits_count": 36,
+    "date_started": "2024-09-06",
+    "date_updated": "2025-04-05",
+    "description": "Automation tool to testing and confirm the xss vulnerability.",
+    "forks_count": 41,
+    "html_url": "https://github.com/iamunixtz/LazyXss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "LazyXss",
+    "repo_owner": "iamunixtz",
+    "repotime": "2025-04-05, 09:28:00",
+    "stargazers_count": 248,
+    "watchers_count": 248
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-30",
+    "date_updated": "2025-04-30",
+    "description": "Windows kernel library for direct process notification registration, bypassing PatchGuard detection",
+    "forks_count": 0,
+    "html_url": "https://github.com/izcarti/ShadowCallback",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "ShadowCallback",
+    "repo_owner": "izcarti",
+    "repotime": "2025-04-30, 17:20:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 224,
+    "date_started": "2019-05-06",
+    "date_updated": "2025-04-25",
+    "description": "A blind XSS detection and XSS data capture framework",
+    "forks_count": 29,
+    "html_url": "https://github.com/daxAKAhackerman/XSS-Catcher",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-Catcher",
+    "repo_owner": "daxAKAhackerman",
+    "repotime": "2025-04-25, 16:11:08",
+    "stargazers_count": 171,
+    "watchers_count": 171
+}
+{
+    "commits_count": 253,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-04-21",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 118,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-04-21, 11:07:40",
+    "stargazers_count": 403,
+    "watchers_count": 403
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-20",
+    "date_updated": "2025-04-20",
+    "description": "Various techniques used to bypass SMEP in the Windows Kernel.",
+    "forks_count": 1,
+    "html_url": "https://github.com/r0keb/Smep-Bypass",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Smep-Bypass",
+    "repo_owner": "r0keb",
+    "repotime": "2025-04-20, 20:42:37",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 109,
+    "date_started": "2024-09-27",
+    "date_updated": "2025-04-20",
+    "description": "Adrenaline CryptoSentinel: Proactive Protection Against Data Exfiltration and Reactive Ransomware Defense.  Zero-Day resistant and much more....",
+    "forks_count": 1,
+    "html_url": "https://github.com/wcsf-rd/Adrenaline-CryptoSentinel",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": null,
+    "repo_name": "Adrenaline-CryptoSentinel",
+    "repo_owner": "wcsf-rd",
+    "repotime": "2025-04-20, 17:46:03",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 168,
+    "date_started": "2024-05-30",
+    "date_updated": "2025-04-18",
+    "description": "Fourth evolution of Code Injection for Xcode",
+    "forks_count": 6,
+    "html_url": "https://github.com/johnno1962/InjectionNext",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "InjectionNext",
+    "repo_owner": "johnno1962",
+    "repotime": "2025-04-18, 12:34:20",
+    "stargazers_count": 175,
+    "watchers_count": 175
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-03-29",
+    "date_updated": "2025-04-17",
+    "description": "Kairos is a next-generation, red-team-oriented Windows kernel defense neutralization framework. It combines traditional runtime patching with UEFI persistence, hypervisor-level surveillance, and Secure Kernel deception.",
+    "forks_count": 1,
+    "html_url": "https://github.com/sondernextdoor/Kairos",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "Kairos",
+    "repo_owner": "sondernextdoor",
+    "repotime": "2025-04-17, 21:42:05",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1403,
+    "date_started": "2016-11-14",
+    "date_updated": "2025-04-17",
+    "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (&amp;quot;transparent&amp;quot;) encryption. SQL, NoSQL.",
+    "forks_count": 131,
+    "html_url": "https://github.com/cossacklabs/acra",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "acra",
+    "repo_owner": "cossacklabs",
+    "repotime": "2025-04-17, 13:21:23",
+    "stargazers_count": 1402,
+    "watchers_count": 1402
+}
+{
+    "commits_count": 131,
+    "date_started": "2024-09-13",
+    "date_updated": "2025-04-16",
+    "description": "best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect",
+    "forks_count": 274,
+    "html_url": "https://github.com/coffinxp/loxs",
+    "keywords": [
+        "lfi",
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "loxs",
+    "repo_owner": "coffinxp",
+    "repotime": "2025-04-16, 14:13:53",
+    "stargazers_count": 1206,
+    "watchers_count": 1206
+}
+{
+    "commits_count": 36,
+    "date_started": "2024-09-06",
+    "date_updated": "2025-04-05",
+    "description": "Automation tool to testing and confirm the xss vulnerability.",
+    "forks_count": 41,
+    "html_url": "https://github.com/iamunixtz/LazyXss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "LazyXss",
+    "repo_owner": "iamunixtz",
+    "repotime": "2025-04-05, 09:28:00",
+    "stargazers_count": 248,
+    "watchers_count": 248
+}

@@ -319,3 +319,645 @@
     "stargazers_count": 25,
     "watchers_count": 25
 }
+{
+    "commits_count": 29,
+    "date_started": "2015-10-18",
+    "date_updated": "2022-05-31",
+    "description": "Wordpress XMLRPC System Multicall Brute Force Exploit (0day)  by 1N3 @ CrowdShield",
+    "forks_count": 198,
+    "html_url": "https://github.com/1N3/Wordpress-XMLRPC-Brute-Force-Exploit",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Wordpress-XMLRPC-Brute-Force-Exploit",
+    "repo_owner": "1N3",
+    "repotime": "2022-05-31, 12:09:08",
+    "stargazers_count": 471,
+    "watchers_count": 471
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-05-10",
+    "date_updated": "2022-05-24",
+    "description": "An unauthenticated attacker can send an HTTP request with an &amp;quot;Accept-Encoding&amp;quot; HTTP request header triggering a double free in the unknown coding-list inside the HTTP Protocol Stack (http.sys) to process packets, resulting in a kernel crash.",
+    "forks_count": 0,
+    "html_url": "https://github.com/iveresk/cve-2022-21907-http.sys",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Shell",
+    "repo_name": "cve-2022-21907-http.sys",
+    "repo_owner": "iveresk",
+    "repotime": "2022-05-24, 15:40:07",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 46,
+    "date_started": "2015-10-12",
+    "date_updated": "2022-05-24",
+    "description": "<no description>",
+    "forks_count": 988,
+    "html_url": "https://github.com/firesunCN/BlueLotus_XSSReceiver",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "BlueLotus_XSSReceiver",
+    "repo_owner": "firesunCN",
+    "repotime": "2022-05-24, 00:13:20",
+    "stargazers_count": 1570,
+    "watchers_count": 1570
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-05-20",
+    "date_updated": "2022-05-20",
+    "description": "Using-Deep-Learning-Techniques-perform-Fracture-Detection-Image-Processing Using Different Image Processing techniques Implementing Fracture Detection on X rays Images on 8000 + images of dataset  Description About Project:  Bones are the stiff organs that protect vital organs such as the brain, heart, lungs, and other internal organs in the human body. There are 206 bones in the human body, all of which has different shapes, sizes, and structures. The femur bones are the largest, and the auditory ossicles are the smallest. Humans suffer from bone fractures on a regular basis. Bone fractures can happen as a result of an accident or any other situation in which the bones are put under a lot of pressure. Oblique, complex, comminute, spiral, greenstick, and transverse bone fractures are among the many forms that can occur. X-ray, computed tomography (CT), magnetic resonance imaging (MRI), ultrasound, and other types of medical imaging techniques are available to detect various types of di...",
+    "forks_count": 2,
+    "html_url": "https://github.com/priyamittal15/Implementation-of-Different-Deep-Learning-Algorithms-for-Fracture-Detection-Image-Classification",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": null,
+    "repo_name": "Implementation-of-Different-Deep-Learning-Algorithms-for-Fracture-Detection-Image-Classification",
+    "repo_owner": "priyamittal15",
+    "repotime": "2022-05-20, 11:29:04",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-01-08",
+    "date_updated": "2022-05-16",
+    "description": "&amp;&#35;35; David's Personal Roadmap to Learning Data Science &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Based on the article [Learn Data Science for free in 2021](https://www.kdnuggets.com/2021/01/learn-data-science-free-2021.html) from KDnuggets. Some additions have been made. &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; I'm new to data science and programming. Some areas of study in this roadmap may be researched to a point of redundancy while materials for other topics could be seriously lacking. As I progress through this learning path, I'll be able to gauge which areas need more (or less) focus and will add and remove resources as needed.  &amp;&#35;35;&amp;&#35;35; Schoolwork &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Required readings for my Data Science classes. - [ ] [Doing Data Science: Straight Talk from the Frontline](https://www.amazon.com/Doing-Data-Science-Straight-Frontline/dp/1449358659) by Cathy O'Neil &amp;amp; Rachel Schutt   - [ ] 1. Introduction: What is Data Science?   - [ ] 2. Statistical Inference, Exploratory Data Analysis, and the Data...",
+    "forks_count": 0,
+    "html_url": "https://github.com/djdprogramming/adfa2",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": null,
+    "repo_name": "adfa2",
+    "repo_owner": "djdprogramming",
+    "repotime": "2022-05-16, 23:06:56",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-05-14",
+    "date_updated": "2022-05-14",
+    "description": "{ &amp;quot;اللغة الإنجليزية&amp;quot;، &amp;quot;startmenu.new_game&amp;quot;: &amp;quot;لعبة جديدة&amp;quot; ، &amp;quot;startmenu.multiplayer&amp;quot;: &amp;quot;MULTIPLAYER&amp;quot; ، &amp;quot;startmenu.resume_game&amp;quot;: &amp;quot;استئناف اللعبة&amp;quot; ، &amp;quot;startmenu.settings&amp;quot;: &amp;quot;الإعدادات&amp;quot;، &amp;quot;startmenu.high_score&amp;quot;: &amp;quot;High Score&amp;quot;، &amp;quot;startmenu.throne_room&amp;quot;: &amp;quot;Throne Room&amp;quot;، &amp;quot;startmenu.about&amp;quot;: &amp;quot;حول&amp;quot;، &amp;quot;news.title&amp;quot;: &amp;quot;أخبار بوليتوبيا&amp;quot;، &amp;quot;news.description&amp;quot;: &amp;quot;مرحبًا! \\ n هذا هو المكان الذي نشارك فيه آخر الأخبار من عالم Polytopia. ترقبوا!&amp;quot;، &amp;quot;gamemodepicker.title&amp;quot;: &amp;quot;GAME MODE&amp;quot;، &amp;quot;tribepicker.title&amp;quot;: &amp;quot;اختر قبلتك&amp;quot; ، &amp;quot;tribepicker.categories.humantribes&amp;quot;: &amp;quot;القبائل العادية&amp;quot; ، &amp;quot;tribepicker.categories.specialtribes&amp;quot;: &amp;quot;القبائل الخاصة&amp;quot; ، &amp;quot;tribepicker.categories.specialtribes.description&amp;quot;: &amp;quot;مجموعة من القبائل التي هي خارج هذا العالم قليلاً ...&amp;...",
+    "forks_count": 0,
+    "html_url": "https://github.com/mahdimouss/translate",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "translate",
+    "repo_owner": "mahdimouss",
+    "repotime": "2022-05-14, 18:52:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 78,
+    "date_started": "2019-08-21",
+    "date_updated": "2022-05-12",
+    "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
+    "forks_count": 285,
+    "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+    "keywords": [
+        "xml external entity",
+        "session attack",
+        "zero-day dos",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "session vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Nginx-Lua-Anti-DDoS",
+    "repo_owner": "C0nw0nk",
+    "repotime": "2022-05-12, 15:35:01",
+    "stargazers_count": 1291,
+    "watchers_count": 1291
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-05-12",
+    "date_updated": "2022-05-12",
+    "description": "Software testing will save your life and makes for a delicious seven layer dip Picture this: you’ve just written thousands of lines of code, you’ve gotten your application running smoothly, and you’ve fulfilled all the requirements you set out to complete. You’ve even effectively communicated what your code is doing with comments so detailed even your parents could understand them. C’est magnifique!   Time to ship it, right? Wouldn’t that be nice? Alas, just let me crush your dreams real quick.  The Importance of Software Testing Now, imagine this scenario: you’ve shipped your code and it’s being used daily by thousands, nay millions, of delighted customers. These new features you built? They love them! Just look at them froth at the mouth with excitement as they scroll, click, consume. But, wait! Something goes awry. Every time a customer accesses a file of a certain size the application freezes — only for a moment, only for long enough to be slightly annoyed. “Practically imperceptib...",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArvindSabina/refactored-guacamole",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": null,
+    "repo_name": "refactored-guacamole",
+    "repo_owner": "ArvindSabina",
+    "repotime": "2022-05-12, 08:11:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 182,
+    "date_started": "2022-05-12",
+    "date_updated": "2022-05-11",
+    "description": "backend endpoint: https://transferwise-apitest.herokuapp.com/api/v1 Coding Project   Hints: Be smart, don’t repeat yourself or reinvent the wheel. Use as many packages/libraries as you can do. Use up-to-date software and bundles. Read the entire document here before jumping into action. Think twice. Model the application before you jump into coding.   Why? This coding challenge should give us a good understanding of  How well you can go from text to code, from requirements to product. How well you can execute on predefined requirements. How well you pay attention to detail so we can rely on you executing the work end to end. How creatively you execute on loose requirements (not defined in great detail). How well you can hack, organize, document, test, structure, and write your code. How well you can leverage existing things to build this app fast.   What (Objective):  The challenge is to create a web app where users can send virtual money in the currencies of (USD, EUR, NGN) to each ot...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Edwardy221133/Fullstack-Transferwise-Task",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Fullstack-Transferwise-Task",
+    "repo_owner": "Edwardy221133",
+    "repotime": "2022-05-11, 19:50:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-05-09",
+    "date_updated": "2022-05-12",
+    "description": "Portable exploit for Use-After-Free in every version of Python 3",
+    "forks_count": 31,
+    "html_url": "https://github.com/kn32/python-buffered-reader-exploit",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "Python",
+    "repo_name": "python-buffered-reader-exploit",
+    "repo_owner": "kn32",
+    "repotime": "2022-05-12, 00:51:39",
+    "stargazers_count": 132,
+    "watchers_count": 132
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-05-10",
+    "date_updated": "2022-05-10",
+    "description": "Inspired by the recently popular Keto ‘Chaffle’, this Keto Waffle has a crispy exterior, soft interior, and a sweet flavor. You’d NEVER guess these delicious waffles use only 5 ingredients and a blender to make!  Crispy Keto Waffle Chaffle I’ve been seeing the famous ‘Chaffle’ recipe taking instagram by storm lately. If you’ve never heard of a chaffle, it’s basically a waffle made with just cheese and eggs! Sounds a little funky right, but people have been loving them. Yesterday, I needed a quick lunch but my fridge was pretty empty after returning from a vacation. So, I dug around and racked my brain. What did I have to work with? Pretty much just cheese and eggs. So, I gave in and decided it was time to try one of these famous chaffles for my self to see what ALL the fuss was about.  My first chaffle was just shredded cheese and egg mixed together and cooked in the waffle maker, as everyone else does (typically in a mini waffle maker, but I used double the usual and a large waffle ir...",
+    "forks_count": 0,
+    "html_url": "https://github.com/WahidZacharia/effective-octo-waffle",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "effective-octo-waffle",
+    "repo_owner": "WahidZacharia",
+    "repotime": "2022-05-10, 02:29:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-05-02",
+    "date_updated": "2022-05-06",
+    "description": "Beacon Object File implementation of Event Viewer deserialization UAC bypass",
+    "forks_count": 31,
+    "html_url": "https://github.com/Octoberfest7/EventViewerUAC_BOF",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "EventViewerUAC_BOF",
+    "repo_owner": "Octoberfest7",
+    "repotime": "2022-05-06, 13:43:05",
+    "stargazers_count": 131,
+    "watchers_count": 131
+}
+{
+    "commits_count": 32,
+    "date_started": "2022-02-25",
+    "date_updated": "2022-05-05",
+    "description": "Smart context-based SSRF vulnerability scanner.",
+    "forks_count": 42,
+    "html_url": "https://github.com/Th0h0/autossrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "autossrf",
+    "repo_owner": "Th0h0",
+    "repotime": "2022-05-05, 23:59:36",
+    "stargazers_count": 351,
+    "watchers_count": 351
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-04-26",
+    "date_updated": "2022-05-05",
+    "description": "First-person. Point-based tag. Free for all. Objective: all players start with the  same amount of food (=points). To win, they must steal food from different  players. Game is won after reaching neccessary amount of food. Interesting  choices: the more food player has, the slower he is (=the easier prey he's for other  players). So, he needs to use resources(power-ups?) to keep his food from being  stolen. Information players have: Players see the mini-map and their own location  on it; They don't know where power-ups are until they see it; They need to see  other players first to &amp;quot;tag&amp;quot; them. Game elements: pick-ups like dropping a cloud  of smoke that blinds others, temporary reversed controls (change of AI?), speed  boost (or slowing down an enemy), spawn of a big obstacle/wall, forcing AI to  change their directiona. Maybe various terrain can affect the running speed?",
+    "forks_count": 0,
+    "html_url": "https://github.com/jeroenkruijt/food_snatchers",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": "C#",
+    "repo_name": "food_snatchers",
+    "repo_owner": "jeroenkruijt",
+    "repotime": "2022-05-05, 13:14:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 32,
+    "date_started": "2022-05-02",
+    "date_updated": "2022-05-05",
+    "description": "Node.js is a free, open-sourced, cross-platform JavaScript run-time environment that lets developers write command line tools and server-side scripts outside of a browser.",
+    "forks_count": 0,
+    "html_url": "https://github.com/amit1github/NodeJS-Version-16.14.2",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "NodeJS-Version-16.14.2",
+    "repo_owner": "amit1github",
+    "repotime": "2022-05-05, 14:47:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 51,
+    "date_started": "2022-02-01",
+    "date_updated": "2022-05-04",
+    "description": "Attack simulation involving rce &amp;amp; kernel lpe exploits and malware + rootkit to exfil data",
+    "forks_count": 2,
+    "html_url": "https://github.com/seal9055/cyber_attack_simulation",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "cyber_attack_simulation",
+    "repo_owner": "seal9055",
+    "repotime": "2022-05-04, 17:26:36",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-05-02",
+    "date_updated": "2022-05-03",
+    "description": "Google Chrome Use After Free",
+    "forks_count": 12,
+    "html_url": "https://github.com/forrest-orr/WizardOpium",
+    "keywords": [
+        "Chrome uaf exploit",
+        "uaf exploit",
+        "Chrome use after free exploit",
+        "Chrome uaf",
+        "use after free exploit",
+        "Chrome use after free"
+    ],
+    "language": "HTML",
+    "repo_name": "WizardOpium",
+    "repo_owner": "forrest-orr",
+    "repotime": "2022-05-03, 11:24:44",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-03-08",
+    "date_updated": "2022-05-03",
+    "description": "A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks",
+    "forks_count": 6,
+    "html_url": "https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-14144-GiTea-git-hooks-rce",
+    "repo_owner": "p0dalirius",
+    "repotime": "2022-05-03, 12:40:14",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 29,
+    "date_started": "2015-10-18",
+    "date_updated": "2022-05-31",
+    "description": "Wordpress XMLRPC System Multicall Brute Force Exploit (0day)  by 1N3 @ CrowdShield",
+    "forks_count": 198,
+    "html_url": "https://github.com/1N3/Wordpress-XMLRPC-Brute-Force-Exploit",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Wordpress-XMLRPC-Brute-Force-Exploit",
+    "repo_owner": "1N3",
+    "repotime": "2022-05-31, 12:09:08",
+    "stargazers_count": 471,
+    "watchers_count": 471
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-05-10",
+    "date_updated": "2022-05-24",
+    "description": "An unauthenticated attacker can send an HTTP request with an &amp;quot;Accept-Encoding&amp;quot; HTTP request header triggering a double free in the unknown coding-list inside the HTTP Protocol Stack (http.sys) to process packets, resulting in a kernel crash.",
+    "forks_count": 0,
+    "html_url": "https://github.com/iveresk/cve-2022-21907-http.sys",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Shell",
+    "repo_name": "cve-2022-21907-http.sys",
+    "repo_owner": "iveresk",
+    "repotime": "2022-05-24, 15:40:07",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 46,
+    "date_started": "2015-10-12",
+    "date_updated": "2022-05-24",
+    "description": "<no description>",
+    "forks_count": 988,
+    "html_url": "https://github.com/firesunCN/BlueLotus_XSSReceiver",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "BlueLotus_XSSReceiver",
+    "repo_owner": "firesunCN",
+    "repotime": "2022-05-24, 00:13:20",
+    "stargazers_count": 1570,
+    "watchers_count": 1570
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-05-20",
+    "date_updated": "2022-05-20",
+    "description": "Using-Deep-Learning-Techniques-perform-Fracture-Detection-Image-Processing Using Different Image Processing techniques Implementing Fracture Detection on X rays Images on 8000 + images of dataset  Description About Project:  Bones are the stiff organs that protect vital organs such as the brain, heart, lungs, and other internal organs in the human body. There are 206 bones in the human body, all of which has different shapes, sizes, and structures. The femur bones are the largest, and the auditory ossicles are the smallest. Humans suffer from bone fractures on a regular basis. Bone fractures can happen as a result of an accident or any other situation in which the bones are put under a lot of pressure. Oblique, complex, comminute, spiral, greenstick, and transverse bone fractures are among the many forms that can occur. X-ray, computed tomography (CT), magnetic resonance imaging (MRI), ultrasound, and other types of medical imaging techniques are available to detect various types of di...",
+    "forks_count": 2,
+    "html_url": "https://github.com/priyamittal15/Implementation-of-Different-Deep-Learning-Algorithms-for-Fracture-Detection-Image-Classification",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": null,
+    "repo_name": "Implementation-of-Different-Deep-Learning-Algorithms-for-Fracture-Detection-Image-Classification",
+    "repo_owner": "priyamittal15",
+    "repotime": "2022-05-20, 11:29:04",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-01-08",
+    "date_updated": "2022-05-16",
+    "description": "&amp;&#35;35; David's Personal Roadmap to Learning Data Science &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Based on the article [Learn Data Science for free in 2021](https://www.kdnuggets.com/2021/01/learn-data-science-free-2021.html) from KDnuggets. Some additions have been made. &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; I'm new to data science and programming. Some areas of study in this roadmap may be researched to a point of redundancy while materials for other topics could be seriously lacking. As I progress through this learning path, I'll be able to gauge which areas need more (or less) focus and will add and remove resources as needed.  &amp;&#35;35;&amp;&#35;35; Schoolwork &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Required readings for my Data Science classes. - [ ] [Doing Data Science: Straight Talk from the Frontline](https://www.amazon.com/Doing-Data-Science-Straight-Frontline/dp/1449358659) by Cathy O'Neil &amp;amp; Rachel Schutt   - [ ] 1. Introduction: What is Data Science?   - [ ] 2. Statistical Inference, Exploratory Data Analysis, and the Data...",
+    "forks_count": 0,
+    "html_url": "https://github.com/djdprogramming/adfa2",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": null,
+    "repo_name": "adfa2",
+    "repo_owner": "djdprogramming",
+    "repotime": "2022-05-16, 23:06:56",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-05-14",
+    "date_updated": "2022-05-14",
+    "description": "{ &amp;quot;اللغة الإنجليزية&amp;quot;، &amp;quot;startmenu.new_game&amp;quot;: &amp;quot;لعبة جديدة&amp;quot; ، &amp;quot;startmenu.multiplayer&amp;quot;: &amp;quot;MULTIPLAYER&amp;quot; ، &amp;quot;startmenu.resume_game&amp;quot;: &amp;quot;استئناف اللعبة&amp;quot; ، &amp;quot;startmenu.settings&amp;quot;: &amp;quot;الإعدادات&amp;quot;، &amp;quot;startmenu.high_score&amp;quot;: &amp;quot;High Score&amp;quot;، &amp;quot;startmenu.throne_room&amp;quot;: &amp;quot;Throne Room&amp;quot;، &amp;quot;startmenu.about&amp;quot;: &amp;quot;حول&amp;quot;، &amp;quot;news.title&amp;quot;: &amp;quot;أخبار بوليتوبيا&amp;quot;، &amp;quot;news.description&amp;quot;: &amp;quot;مرحبًا! \\ n هذا هو المكان الذي نشارك فيه آخر الأخبار من عالم Polytopia. ترقبوا!&amp;quot;، &amp;quot;gamemodepicker.title&amp;quot;: &amp;quot;GAME MODE&amp;quot;، &amp;quot;tribepicker.title&amp;quot;: &amp;quot;اختر قبلتك&amp;quot; ، &amp;quot;tribepicker.categories.humantribes&amp;quot;: &amp;quot;القبائل العادية&amp;quot; ، &amp;quot;tribepicker.categories.specialtribes&amp;quot;: &amp;quot;القبائل الخاصة&amp;quot; ، &amp;quot;tribepicker.categories.specialtribes.description&amp;quot;: &amp;quot;مجموعة من القبائل التي هي خارج هذا العالم قليلاً ...&amp;...",
+    "forks_count": 0,
+    "html_url": "https://github.com/mahdimouss/translate",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "translate",
+    "repo_owner": "mahdimouss",
+    "repotime": "2022-05-14, 18:52:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 78,
+    "date_started": "2019-08-21",
+    "date_updated": "2022-05-12",
+    "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
+    "forks_count": 286,
+    "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+    "keywords": [
+        "xml external entity",
+        "session attack",
+        "zero-day dos",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "session vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Nginx-Lua-Anti-DDoS",
+    "repo_owner": "C0nw0nk",
+    "repotime": "2022-05-12, 15:35:01",
+    "stargazers_count": 1297,
+    "watchers_count": 1297
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-05-12",
+    "date_updated": "2022-05-12",
+    "description": "Software testing will save your life and makes for a delicious seven layer dip Picture this: you’ve just written thousands of lines of code, you’ve gotten your application running smoothly, and you’ve fulfilled all the requirements you set out to complete. You’ve even effectively communicated what your code is doing with comments so detailed even your parents could understand them. C’est magnifique!   Time to ship it, right? Wouldn’t that be nice? Alas, just let me crush your dreams real quick.  The Importance of Software Testing Now, imagine this scenario: you’ve shipped your code and it’s being used daily by thousands, nay millions, of delighted customers. These new features you built? They love them! Just look at them froth at the mouth with excitement as they scroll, click, consume. But, wait! Something goes awry. Every time a customer accesses a file of a certain size the application freezes — only for a moment, only for long enough to be slightly annoyed. “Practically imperceptib...",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArvindSabina/refactored-guacamole",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": null,
+    "repo_name": "refactored-guacamole",
+    "repo_owner": "ArvindSabina",
+    "repotime": "2022-05-12, 08:11:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 182,
+    "date_started": "2022-05-12",
+    "date_updated": "2022-05-11",
+    "description": "backend endpoint: https://transferwise-apitest.herokuapp.com/api/v1 Coding Project   Hints: Be smart, don’t repeat yourself or reinvent the wheel. Use as many packages/libraries as you can do. Use up-to-date software and bundles. Read the entire document here before jumping into action. Think twice. Model the application before you jump into coding.   Why? This coding challenge should give us a good understanding of  How well you can go from text to code, from requirements to product. How well you can execute on predefined requirements. How well you pay attention to detail so we can rely on you executing the work end to end. How creatively you execute on loose requirements (not defined in great detail). How well you can hack, organize, document, test, structure, and write your code. How well you can leverage existing things to build this app fast.   What (Objective):  The challenge is to create a web app where users can send virtual money in the currencies of (USD, EUR, NGN) to each ot...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Edwardy221133/Fullstack-Transferwise-Task",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Fullstack-Transferwise-Task",
+    "repo_owner": "Edwardy221133",
+    "repotime": "2022-05-11, 19:50:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-05-09",
+    "date_updated": "2022-05-12",
+    "description": "Portable exploit for Use-After-Free in every version of Python 3",
+    "forks_count": 31,
+    "html_url": "https://github.com/kn32/python-buffered-reader-exploit",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "Python",
+    "repo_name": "python-buffered-reader-exploit",
+    "repo_owner": "kn32",
+    "repotime": "2022-05-12, 00:51:39",
+    "stargazers_count": 132,
+    "watchers_count": 132
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-05-10",
+    "date_updated": "2022-05-10",
+    "description": "Inspired by the recently popular Keto ‘Chaffle’, this Keto Waffle has a crispy exterior, soft interior, and a sweet flavor. You’d NEVER guess these delicious waffles use only 5 ingredients and a blender to make!  Crispy Keto Waffle Chaffle I’ve been seeing the famous ‘Chaffle’ recipe taking instagram by storm lately. If you’ve never heard of a chaffle, it’s basically a waffle made with just cheese and eggs! Sounds a little funky right, but people have been loving them. Yesterday, I needed a quick lunch but my fridge was pretty empty after returning from a vacation. So, I dug around and racked my brain. What did I have to work with? Pretty much just cheese and eggs. So, I gave in and decided it was time to try one of these famous chaffles for my self to see what ALL the fuss was about.  My first chaffle was just shredded cheese and egg mixed together and cooked in the waffle maker, as everyone else does (typically in a mini waffle maker, but I used double the usual and a large waffle ir...",
+    "forks_count": 0,
+    "html_url": "https://github.com/WahidZacharia/effective-octo-waffle",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "effective-octo-waffle",
+    "repo_owner": "WahidZacharia",
+    "repotime": "2022-05-10, 02:29:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-05-02",
+    "date_updated": "2022-05-06",
+    "description": "Beacon Object File implementation of Event Viewer deserialization UAC bypass",
+    "forks_count": 31,
+    "html_url": "https://github.com/Octoberfest7/EventViewerUAC_BOF",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "EventViewerUAC_BOF",
+    "repo_owner": "Octoberfest7",
+    "repotime": "2022-05-06, 13:43:05",
+    "stargazers_count": 131,
+    "watchers_count": 131
+}
+{
+    "commits_count": 32,
+    "date_started": "2022-02-25",
+    "date_updated": "2022-05-05",
+    "description": "Smart context-based SSRF vulnerability scanner.",
+    "forks_count": 42,
+    "html_url": "https://github.com/Th0h0/autossrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "autossrf",
+    "repo_owner": "Th0h0",
+    "repotime": "2022-05-05, 23:59:36",
+    "stargazers_count": 351,
+    "watchers_count": 351
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-04-26",
+    "date_updated": "2022-05-05",
+    "description": "First-person. Point-based tag. Free for all. Objective: all players start with the  same amount of food (=points). To win, they must steal food from different  players. Game is won after reaching neccessary amount of food. Interesting  choices: the more food player has, the slower he is (=the easier prey he's for other  players). So, he needs to use resources(power-ups?) to keep his food from being  stolen. Information players have: Players see the mini-map and their own location  on it; They don't know where power-ups are until they see it; They need to see  other players first to &amp;quot;tag&amp;quot; them. Game elements: pick-ups like dropping a cloud  of smoke that blinds others, temporary reversed controls (change of AI?), speed  boost (or slowing down an enemy), spawn of a big obstacle/wall, forcing AI to  change their directiona. Maybe various terrain can affect the running speed?",
+    "forks_count": 0,
+    "html_url": "https://github.com/jeroenkruijt/food_snatchers",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": "C#",
+    "repo_name": "food_snatchers",
+    "repo_owner": "jeroenkruijt",
+    "repotime": "2022-05-05, 13:14:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 32,
+    "date_started": "2022-05-02",
+    "date_updated": "2022-05-05",
+    "description": "Node.js is a free, open-sourced, cross-platform JavaScript run-time environment that lets developers write command line tools and server-side scripts outside of a browser.",
+    "forks_count": 0,
+    "html_url": "https://github.com/amit1github/NodeJS-Version-16.14.2",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "NodeJS-Version-16.14.2",
+    "repo_owner": "amit1github",
+    "repotime": "2022-05-05, 14:47:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 51,
+    "date_started": "2022-02-01",
+    "date_updated": "2022-05-04",
+    "description": "Attack simulation involving rce &amp;amp; kernel lpe exploits and malware + rootkit to exfil data",
+    "forks_count": 2,
+    "html_url": "https://github.com/seal9055/cyber_attack_simulation",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "cyber_attack_simulation",
+    "repo_owner": "seal9055",
+    "repotime": "2022-05-04, 17:26:36",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-05-02",
+    "date_updated": "2022-05-03",
+    "description": "Google Chrome Use After Free",
+    "forks_count": 12,
+    "html_url": "https://github.com/forrest-orr/WizardOpium",
+    "keywords": [
+        "Chrome uaf exploit",
+        "uaf exploit",
+        "Chrome use after free exploit",
+        "Chrome uaf",
+        "use after free exploit",
+        "Chrome use after free"
+    ],
+    "language": "HTML",
+    "repo_name": "WizardOpium",
+    "repo_owner": "forrest-orr",
+    "repotime": "2022-05-03, 11:24:44",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-03-08",
+    "date_updated": "2022-05-03",
+    "description": "A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks",
+    "forks_count": 6,
+    "html_url": "https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-14144-GiTea-git-hooks-rce",
+    "repo_owner": "p0dalirius",
+    "repotime": "2022-05-03, 12:40:14",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}

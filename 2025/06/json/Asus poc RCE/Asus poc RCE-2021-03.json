@@ -251,3 +251,509 @@
     "stargazers_count": 136,
     "watchers_count": 136
 }
+{
+    "commits_count": 6,
+    "date_started": "2020-12-31",
+    "date_updated": "2021-03-29",
+    "description": "The report and the exploit of CVE-2021-26943, the kernel-to-SMM local privilege escalation vulnerability in ASUS UX360CA BIOS version 303.",
+    "forks_count": 25,
+    "html_url": "https://github.com/tandasat/SmmExploit",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "SmmExploit",
+    "repo_owner": "tandasat",
+    "repotime": "2021-03-29, 05:33:32",
+    "stargazers_count": 140,
+    "watchers_count": 140
+}
+{
+    "commits_count": 27,
+    "date_started": "2021-01-26",
+    "date_updated": "2021-03-28",
+    "description": "AfterLogic Products Vulnerabilities",
+    "forks_count": 3,
+    "html_url": "https://github.com/E3SEC/AfterLogic",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "AfterLogic",
+    "repo_owner": "E3SEC",
+    "repotime": "2021-03-28, 23:25:43",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 22,
+    "date_started": "2021-03-19",
+    "date_updated": "2021-03-27",
+    "description": "cve-2021-22986 f5 rce 漏洞批量检测 poc",
+    "forks_count": 7,
+    "html_url": "https://github.com/S1xHcL/f5_rce_poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "f5_rce_poc",
+    "repo_owner": "S1xHcL",
+    "repotime": "2021-03-27, 18:02:59",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-03-25",
+    "date_updated": "2021-03-25",
+    "description": "Proof of concept for CVE-2020-11819 and CVE-2020-15946",
+    "forks_count": 0,
+    "html_url": "https://github.com/danyx07/PoC-RCE-Rukovoditel",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "PoC-RCE-Rukovoditel",
+    "repo_owner": "danyx07",
+    "repotime": "2021-03-25, 10:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-03-18",
+    "date_updated": "2021-03-18",
+    "description": "CutePHP Cute News 2.1.2 RCE PoC",
+    "forks_count": 5,
+    "html_url": "https://github.com/thewhiteh4t/cve-2019-11447",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2019-11447",
+    "repo_owner": "thewhiteh4t",
+    "repotime": "2021-03-18, 15:14:50",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-03-17",
+    "date_updated": "2021-03-17",
+    "description": "This is a Poc for BIGIP iControl unauth RCE ",
+    "forks_count": 10,
+    "html_url": "https://github.com/dorkerdevil/CVE-2021-22986-Poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-22986-Poc",
+    "repo_owner": "dorkerdevil",
+    "repotime": "2021-03-17, 10:40:03",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-11-23",
+    "date_updated": "2021-03-16",
+    "description": "PoC demonstrating the use of cve-2020-1034 for privilege escalation",
+    "forks_count": 41,
+    "html_url": "https://github.com/yardenshafir/CVE-2020-1034",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges poc",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2020-1034",
+    "repo_owner": "yardenshafir",
+    "repotime": "2021-03-16, 15:53:37",
+    "stargazers_count": 124,
+    "watchers_count": 124
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-03-14",
+    "date_updated": "2021-03-15",
+    "description": "RCE exploit for ProxyLogon vulnerability in Microsoft Exchange",
+    "forks_count": 8,
+    "html_url": "https://github.com/mil1200/ProxyLogon-CVE-2021-26855",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce exploitation",
+        "rce vulnerability",
+        "Microsoft rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "ProxyLogon-CVE-2021-26855",
+    "repo_owner": "mil1200",
+    "repotime": "2021-03-15, 00:03:12",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-03-11",
+    "date_updated": "2021-03-11",
+    "description": "PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github",
+    "forks_count": 34,
+    "html_url": "https://github.com/hackerschoice/CVE-2021-26855",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-26855",
+    "repo_owner": "hackerschoice",
+    "repotime": "2021-03-11, 21:58:04",
+    "stargazers_count": 61,
+    "watchers_count": 61
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-03-06",
+    "date_updated": "2021-03-10",
+    "description": "This script helps to identify  CVE-2021-26855  ssrf Poc",
+    "forks_count": 12,
+    "html_url": "https://github.com/pussycat0x/CVE-2021-26855-SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-26855-SSRF",
+    "repo_owner": "pussycat0x",
+    "repotime": "2021-03-10, 13:11:56",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-03-07",
+    "date_updated": "2021-03-07",
+    "description": "A working PoC to CVE-2018-16763 ",
+    "forks_count": 0,
+    "html_url": "https://github.com/shoamshilo/Fuel-CMS-Remote-Code-Execution-1.4--RCE--",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Fuel-CMS-Remote-Code-Execution-1.4--RCE--",
+    "repo_owner": "shoamshilo",
+    "repotime": "2021-03-07, 16:56:24",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-03-06",
+    "date_updated": "2021-03-06",
+    "description": "Microsoft Exchange Server SSRF漏洞(CVE-2021-26855)",
+    "forks_count": 8,
+    "html_url": "https://github.com/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Microsoft_Exchange_Server_SSRF_CVE-2021-26855",
+    "repo_owner": "conjojo",
+    "repotime": "2021-03-06, 18:34:29",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-03-05",
+    "date_updated": "2021-03-04",
+    "description": "Send latest Hacking News (Exploit/Poc/0day) from Twitter API and Github API to a Telegram channel ",
+    "forks_count": 3,
+    "html_url": "https://github.com/YOLOP0wn/TwiGit-Telegram-Hacking-News-Bot",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "TwiGit-Telegram-Hacking-News-Bot",
+    "repo_owner": "YOLOP0wn",
+    "repotime": "2021-03-04, 12:24:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-02-24",
+    "date_updated": "2021-03-01",
+    "description": "<no description>",
+    "forks_count": 63,
+    "html_url": "https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-21972-vCenter-6.5-7.0-RCE-POC",
+    "repo_owner": "QmF0c3UK",
+    "repotime": "2021-03-01, 10:10:44",
+    "stargazers_count": 136,
+    "watchers_count": 136
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-12-31",
+    "date_updated": "2021-03-29",
+    "description": "The report and the exploit of CVE-2021-26943, the kernel-to-SMM local privilege escalation vulnerability in ASUS UX360CA BIOS version 303.",
+    "forks_count": 25,
+    "html_url": "https://github.com/tandasat/SmmExploit",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "SmmExploit",
+    "repo_owner": "tandasat",
+    "repotime": "2021-03-29, 05:33:32",
+    "stargazers_count": 141,
+    "watchers_count": 141
+}
+{
+    "commits_count": 27,
+    "date_started": "2021-01-26",
+    "date_updated": "2021-03-28",
+    "description": "AfterLogic Products Vulnerabilities",
+    "forks_count": 4,
+    "html_url": "https://github.com/E3SEC/AfterLogic",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "AfterLogic",
+    "repo_owner": "E3SEC",
+    "repotime": "2021-03-28, 23:25:43",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 22,
+    "date_started": "2021-03-19",
+    "date_updated": "2021-03-27",
+    "description": "cve-2021-22986 f5 rce 漏洞批量检测 poc",
+    "forks_count": 7,
+    "html_url": "https://github.com/S1xHcL/f5_rce_poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "f5_rce_poc",
+    "repo_owner": "S1xHcL",
+    "repotime": "2021-03-27, 18:02:59",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-03-25",
+    "date_updated": "2021-03-25",
+    "description": "Proof of concept for CVE-2020-11819 and CVE-2020-15946",
+    "forks_count": 0,
+    "html_url": "https://github.com/danyx07/PoC-RCE-Rukovoditel",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "PoC-RCE-Rukovoditel",
+    "repo_owner": "danyx07",
+    "repotime": "2021-03-25, 10:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-03-18",
+    "date_updated": "2021-03-18",
+    "description": "CutePHP Cute News 2.1.2 RCE PoC",
+    "forks_count": 5,
+    "html_url": "https://github.com/thewhiteh4t/cve-2019-11447",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2019-11447",
+    "repo_owner": "thewhiteh4t",
+    "repotime": "2021-03-18, 15:14:50",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-03-17",
+    "date_updated": "2021-03-17",
+    "description": "This is a Poc for BIGIP iControl unauth RCE ",
+    "forks_count": 10,
+    "html_url": "https://github.com/dorkerdevil/CVE-2021-22986-Poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-22986-Poc",
+    "repo_owner": "dorkerdevil",
+    "repotime": "2021-03-17, 10:40:03",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-11-23",
+    "date_updated": "2021-03-16",
+    "description": "PoC demonstrating the use of cve-2020-1034 for privilege escalation",
+    "forks_count": 41,
+    "html_url": "https://github.com/yardenshafir/CVE-2020-1034",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges poc",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2020-1034",
+    "repo_owner": "yardenshafir",
+    "repotime": "2021-03-16, 15:53:37",
+    "stargazers_count": 124,
+    "watchers_count": 124
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-03-14",
+    "date_updated": "2021-03-15",
+    "description": "RCE exploit for ProxyLogon vulnerability in Microsoft Exchange",
+    "forks_count": 8,
+    "html_url": "https://github.com/mil1200/ProxyLogon-CVE-2021-26855",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce exploitation",
+        "rce vulnerability",
+        "Microsoft rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "ProxyLogon-CVE-2021-26855",
+    "repo_owner": "mil1200",
+    "repotime": "2021-03-15, 00:03:12",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-03-11",
+    "date_updated": "2021-03-11",
+    "description": "PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github",
+    "forks_count": 34,
+    "html_url": "https://github.com/hackerschoice/CVE-2021-26855",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-26855",
+    "repo_owner": "hackerschoice",
+    "repotime": "2021-03-11, 21:58:04",
+    "stargazers_count": 61,
+    "watchers_count": 61
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-03-06",
+    "date_updated": "2021-03-10",
+    "description": "This script helps to identify  CVE-2021-26855  ssrf Poc",
+    "forks_count": 12,
+    "html_url": "https://github.com/pussycat0x/CVE-2021-26855-SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-26855-SSRF",
+    "repo_owner": "pussycat0x",
+    "repotime": "2021-03-10, 13:11:56",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-03-07",
+    "date_updated": "2021-03-07",
+    "description": "A working PoC to CVE-2018-16763 ",
+    "forks_count": 0,
+    "html_url": "https://github.com/shoamshilo/Fuel-CMS-Remote-Code-Execution-1.4--RCE--",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Fuel-CMS-Remote-Code-Execution-1.4--RCE--",
+    "repo_owner": "shoamshilo",
+    "repotime": "2021-03-07, 16:56:24",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-03-06",
+    "date_updated": "2021-03-06",
+    "description": "Microsoft Exchange Server SSRF漏洞(CVE-2021-26855)",
+    "forks_count": 8,
+    "html_url": "https://github.com/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Microsoft_Exchange_Server_SSRF_CVE-2021-26855",
+    "repo_owner": "conjojo",
+    "repotime": "2021-03-06, 18:34:29",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-03-05",
+    "date_updated": "2021-03-04",
+    "description": "Send latest Hacking News (Exploit/Poc/0day) from Twitter API and Github API to a Telegram channel ",
+    "forks_count": 3,
+    "html_url": "https://github.com/YOLOP0wn/TwiGit-Telegram-Hacking-News-Bot",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "TwiGit-Telegram-Hacking-News-Bot",
+    "repo_owner": "YOLOP0wn",
+    "repotime": "2021-03-04, 12:24:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-02-24",
+    "date_updated": "2021-03-01",
+    "description": "<no description>",
+    "forks_count": 63,
+    "html_url": "https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-21972-vCenter-6.5-7.0-RCE-POC",
+    "repo_owner": "QmF0c3UK",
+    "repotime": "2021-03-01, 10:10:44",
+    "stargazers_count": 136,
+    "watchers_count": 136
+}

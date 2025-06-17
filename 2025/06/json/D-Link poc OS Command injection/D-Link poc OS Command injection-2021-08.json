@@ -118,3 +118,243 @@
     "stargazers_count": 717,
     "watchers_count": 717
 }
+{
+    "commits_count": 37,
+    "date_started": "2016-05-30",
+    "date_updated": "2021-08-30",
+    "description": "The XSS Hunter service - a portable version of XSSHunter.com",
+    "forks_count": 302,
+    "html_url": "https://github.com/mandatoryprogrammer/xsshunter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xsshunter",
+    "repo_owner": "mandatoryprogrammer",
+    "repotime": "2021-08-30, 15:48:22",
+    "stargazers_count": 1527,
+    "watchers_count": 1527
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-08-25",
+    "date_updated": "2021-08-25",
+    "description": "With the increasing popularity of IoT devices, the vulnerabilities &amp;amp; security issues concerned with these devices are also increasing. The lack of security mechanisms and vulnerable protocols make IoT devices easy targets for hackers, for example, the “Mirai Botnet Attack” in 2016. There is a very critical requirement for security of IoT systems. In this paper, we propose the IDRBT-IoT Secure Router (IISR), which is immune to a large number of cyber attacks. IISR protects the network against malicious activities by providing a one-step solution for securing the IoT ecosystem. It consists of a Raspberry Pi 3 Model B+, five IoT devices, and an attacker machine. The router has been tested by conducting ten attacks namely: Deauthentication, Fake-Authentication, MAC Spoofing, Denial of Service, Port Scanning, WiFi Cracking, ARP Poisoning, DNS Spoofing, Malware Injection, and Firmware Exploitation. We developed security mechanisms for detection and mitigation of these attacks. They consi...",
+    "forks_count": 1,
+    "html_url": "https://github.com/nd50095800/IISR-A-Secure-Router-for-IoT-Networks",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "IISR-A-Secure-Router-for-IoT-Networks",
+    "repo_owner": "nd50095800",
+    "repotime": "2021-08-25, 19:10:44",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-08-13",
+    "date_updated": "2021-08-20",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 1,
+    "html_url": "https://github.com/patricknakayama/Red_vs_Blue_Team",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Red_vs_Blue_Team",
+    "repo_owner": "patricknakayama",
+    "repotime": "2021-08-20, 21:46:41",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-08-17",
+    "date_updated": "2021-08-17",
+    "description": "XML external entity injection (also known as XXE) is a web security vulnerability that allows an attacker to interfere with an application's processing of XML data. It often allows an attacker to view files on the application server filesystem, and to interact with any back-end or external systems that the application itself can access. In some situations, an attacker can escalate an XXE attack to compromise the underlying server or other back-end infrastructure, by leveraging the XXE vulnerability to perform server-side request forgery (SSRF) attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/nethunkawitha1998/XML-external-entity-XXE-injection",
+    "keywords": [
+        "xml external entity",
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "XML-external-entity-XXE-injection",
+    "repo_owner": "nethunkawitha1998",
+    "repotime": "2021-08-17, 14:30:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 58,
+    "date_started": "2020-09-07",
+    "date_updated": "2021-08-15",
+    "description": "Linux shellcode code memory injection library .so .dll injection without ptrace example PoC",
+    "forks_count": 8,
+    "html_url": "https://github.com/v-a-c-u-u-m/mem_inject",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "mem_inject",
+    "repo_owner": "v-a-c-u-u-m",
+    "repotime": "2021-08-15, 05:04:37",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 44,
+    "date_started": "2020-12-21",
+    "date_updated": "2021-08-09",
+    "description": "Big-Papa is a remote cookie stealer which can then be used for session hijacking and Bypassing 2 Factor Authentication",
+    "forks_count": 25,
+    "html_url": "https://github.com/vrikodar/Big-Papa",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "Big-Papa",
+    "repo_owner": "vrikodar",
+    "repotime": "2021-08-09, 08:35:56",
+    "stargazers_count": 103,
+    "watchers_count": 103
+}
+{
+    "commits_count": 33,
+    "date_started": "2016-05-18",
+    "date_updated": "2021-08-05",
+    "description": "Exploitation for XSS",
+    "forks_count": 160,
+    "html_url": "https://github.com/nettitude/xss_payloads",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "xss_payloads",
+    "repo_owner": "nettitude",
+    "repotime": "2021-08-05, 17:07:35",
+    "stargazers_count": 717,
+    "watchers_count": 717
+}
+{
+    "commits_count": 37,
+    "date_started": "2016-05-30",
+    "date_updated": "2021-08-30",
+    "description": "The XSS Hunter service - a portable version of XSSHunter.com",
+    "forks_count": 303,
+    "html_url": "https://github.com/mandatoryprogrammer/xsshunter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xsshunter",
+    "repo_owner": "mandatoryprogrammer",
+    "repotime": "2021-08-30, 15:48:22",
+    "stargazers_count": 1527,
+    "watchers_count": 1527
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-08-25",
+    "date_updated": "2021-08-25",
+    "description": "With the increasing popularity of IoT devices, the vulnerabilities &amp;amp; security issues concerned with these devices are also increasing. The lack of security mechanisms and vulnerable protocols make IoT devices easy targets for hackers, for example, the “Mirai Botnet Attack” in 2016. There is a very critical requirement for security of IoT systems. In this paper, we propose the IDRBT-IoT Secure Router (IISR), which is immune to a large number of cyber attacks. IISR protects the network against malicious activities by providing a one-step solution for securing the IoT ecosystem. It consists of a Raspberry Pi 3 Model B+, five IoT devices, and an attacker machine. The router has been tested by conducting ten attacks namely: Deauthentication, Fake-Authentication, MAC Spoofing, Denial of Service, Port Scanning, WiFi Cracking, ARP Poisoning, DNS Spoofing, Malware Injection, and Firmware Exploitation. We developed security mechanisms for detection and mitigation of these attacks. They consi...",
+    "forks_count": 1,
+    "html_url": "https://github.com/nd50095800/IISR-A-Secure-Router-for-IoT-Networks",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "IISR-A-Secure-Router-for-IoT-Networks",
+    "repo_owner": "nd50095800",
+    "repotime": "2021-08-25, 19:10:44",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-08-13",
+    "date_updated": "2021-08-20",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 1,
+    "html_url": "https://github.com/patricknakayama/Red_vs_Blue_Team",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Red_vs_Blue_Team",
+    "repo_owner": "patricknakayama",
+    "repotime": "2021-08-20, 21:46:41",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-08-17",
+    "date_updated": "2021-08-17",
+    "description": "XML external entity injection (also known as XXE) is a web security vulnerability that allows an attacker to interfere with an application's processing of XML data. It often allows an attacker to view files on the application server filesystem, and to interact with any back-end or external systems that the application itself can access. In some situations, an attacker can escalate an XXE attack to compromise the underlying server or other back-end infrastructure, by leveraging the XXE vulnerability to perform server-side request forgery (SSRF) attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/nethunkawitha1998/XML-external-entity-XXE-injection",
+    "keywords": [
+        "xml external entity",
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "XML-external-entity-XXE-injection",
+    "repo_owner": "nethunkawitha1998",
+    "repotime": "2021-08-17, 14:30:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 58,
+    "date_started": "2020-09-07",
+    "date_updated": "2021-08-15",
+    "description": "Linux shellcode code memory injection library .so .dll injection without ptrace example PoC",
+    "forks_count": 8,
+    "html_url": "https://github.com/v-a-c-u-u-m/mem_inject",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "mem_inject",
+    "repo_owner": "v-a-c-u-u-m",
+    "repotime": "2021-08-15, 05:04:37",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 44,
+    "date_started": "2020-12-21",
+    "date_updated": "2021-08-09",
+    "description": "Big-Papa is a remote cookie stealer which can then be used for session hijacking and Bypassing 2 Factor Authentication",
+    "forks_count": 25,
+    "html_url": "https://github.com/vrikodar/Big-Papa",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "Big-Papa",
+    "repo_owner": "vrikodar",
+    "repotime": "2021-08-09, 08:35:56",
+    "stargazers_count": 103,
+    "watchers_count": 103
+}
+{
+    "commits_count": 33,
+    "date_started": "2016-05-18",
+    "date_updated": "2021-08-05",
+    "description": "Exploitation for XSS",
+    "forks_count": 161,
+    "html_url": "https://github.com/nettitude/xss_payloads",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "xss_payloads",
+    "repo_owner": "nettitude",
+    "repotime": "2021-08-05, 17:07:35",
+    "stargazers_count": 718,
+    "watchers_count": 718
+}

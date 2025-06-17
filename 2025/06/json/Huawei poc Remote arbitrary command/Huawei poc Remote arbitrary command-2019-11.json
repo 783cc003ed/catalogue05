@@ -127,3 +127,261 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 31,
+    "date_started": "2019-04-15",
+    "date_updated": "2019-11-27",
+    "description": "Apache Tomcat Remote Code Execution on Windows",
+    "forks_count": 55,
+    "html_url": "https://github.com/pyn3rd/CVE-2019-0232",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Batchfile",
+    "repo_name": "CVE-2019-0232",
+    "repo_owner": "pyn3rd",
+    "repotime": "2019-11-27, 15:39:39",
+    "stargazers_count": 187,
+    "watchers_count": 187
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-11-22",
+    "date_updated": "2019-11-22",
+    "description": "A quick python exploit for the Nostromo 1.9.6 remote code execution vulnerability. Simply takes a host and port that the web server is running on. ",
+    "forks_count": 3,
+    "html_url": "https://github.com/AnubisSec/CVE-2019-16278",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-16278",
+    "repo_owner": "AnubisSec",
+    "repotime": "2019-11-22, 13:57:28",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-01-31",
+    "date_updated": "2019-11-21",
+    "description": "CVE-2019-0232 Exploit Remote Code Execution (RCE) in CGI Servlet – Apache Tomcat on Windows",
+    "forks_count": 0,
+    "html_url": "https://github.com/iumiro/CVE-2019-0232",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-0232",
+    "repo_owner": "iumiro",
+    "repotime": "2019-11-21, 17:03:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 183,
+    "date_started": "2019-08-04",
+    "date_updated": "2019-11-17",
+    "description": "Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.",
+    "forks_count": 106,
+    "html_url": "https://github.com/RhinoSecurityLabs/ccat",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "ccat",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2019-11-17, 11:16:23",
+    "stargazers_count": 630,
+    "watchers_count": 630
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-11-13",
+    "date_updated": "2019-11-13",
+    "description": "exploit Apache Flink Web Dashboard unauth rce on right way by python2 scripts",
+    "forks_count": 18,
+    "html_url": "https://github.com/LandGrey/flink-unauth-rce",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "flink-unauth-rce",
+    "repo_owner": "LandGrey",
+    "repotime": "2019-11-13, 23:35:41",
+    "stargazers_count": 91,
+    "watchers_count": 91
+}
+{
+    "commits_count": 40,
+    "date_started": "2019-10-30",
+    "date_updated": "2019-11-12",
+    "description": "Introduction to R  R is a programming language, which is an object oriented language created by Statisticians, R provides objects, operators and functions that allow the user to explore, model and visualize data.  R is a Programming language Developed at AT&amp;amp;T Bell Lab.  It is an open source free language, allowing anyone to use and modify it. R is licensed under the GNU General Public License, with copyright held by The R Foundation For Statistical Computing. It has no need to pay any subscription charges  R has a huge active community member. If you have any question about any function any library you can Google it and you would get a proper answer and right the way.  As it is an open source language, you, me and lots of Data Scientist, they actually built in all those, inbuilt function and they upload it in a website called CRAN and then you can download all those packages. Over 7800 packages listed on CRAN, here we listed some of the most powerful and commonly used in R packages...",
+    "forks_count": 2,
+    "html_url": "https://github.com/akaidkhan/Data_Science_with_R",
+    "keywords": [
+        "Microsoft use after free poc",
+        "Windows use after free",
+        "use after free analysis",
+        "Windows use after free analysis",
+        "use after free poc",
+        "Windows use after free poc",
+        "Microsoft use after free analysis",
+        "Microsoft use after free"
+    ],
+    "language": "R",
+    "repo_name": "Data_Science_with_R",
+    "repo_owner": "akaidkhan",
+    "repotime": "2019-11-12, 09:58:04",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 0,
+    "date_started": "2019-11-01",
+    "date_updated": "2019-11-01",
+    "description": "Multithreaded Client/Server - Student Database Instructions: The assignment is based on the Area Of Circle and JDBC Labs. Java threads covered ln (Threads and Distributed Processing in Java). The Area-Circle Multithreaded Client/server lab exercise covered in Lab4: Multithreaded Server. Pseudo Code (Area Of Circle) The assignment also uses work from the Java JDBC MySQL Labs &amp;&#35;35;1/&amp;&#35;35;2 1. Create a server hosted database (Assign2) including TWO tables ( students and users). Use the following structures: (Populate each table with 4 records.) students • SID (type int(2), unique key) • STUD_ID (type int(8)) • FNAME (type varchar(20) ) • SNAME (type varchar(20) ) users • UID (type int(2), unique key) • UNAME (type varchar(20) ) 2. Create a socket based Multithreaded Client/Server GUI application. Your application GUI should have two screens (1 User Login, 2 Database support) . The Layout is up to you, but please use standard JDK GUI commands &amp;amp; components. 1 User Login. The server only...",
+    "forks_count": 0,
+    "html_url": "https://github.com/baizoukou/java_socket_assignment",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "java_socket_assignment",
+    "repo_owner": "baizoukou",
+    "repotime": "2019-11-01, 13:44:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2019-04-15",
+    "date_updated": "2019-11-27",
+    "description": "Apache Tomcat Remote Code Execution on Windows",
+    "forks_count": 55,
+    "html_url": "https://github.com/pyn3rd/CVE-2019-0232",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Batchfile",
+    "repo_name": "CVE-2019-0232",
+    "repo_owner": "pyn3rd",
+    "repotime": "2019-11-27, 15:39:39",
+    "stargazers_count": 187,
+    "watchers_count": 187
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-11-22",
+    "date_updated": "2019-11-22",
+    "description": "A quick python exploit for the Nostromo 1.9.6 remote code execution vulnerability. Simply takes a host and port that the web server is running on. ",
+    "forks_count": 3,
+    "html_url": "https://github.com/AnubisSec/CVE-2019-16278",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-16278",
+    "repo_owner": "AnubisSec",
+    "repotime": "2019-11-22, 13:57:28",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-01-31",
+    "date_updated": "2019-11-21",
+    "description": "CVE-2019-0232 Exploit Remote Code Execution (RCE) in CGI Servlet – Apache Tomcat on Windows",
+    "forks_count": 0,
+    "html_url": "https://github.com/iumiro/CVE-2019-0232",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-0232",
+    "repo_owner": "iumiro",
+    "repotime": "2019-11-21, 17:03:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 183,
+    "date_started": "2019-08-04",
+    "date_updated": "2019-11-17",
+    "description": "Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.",
+    "forks_count": 106,
+    "html_url": "https://github.com/RhinoSecurityLabs/ccat",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "ccat",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2019-11-17, 11:16:23",
+    "stargazers_count": 630,
+    "watchers_count": 630
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-11-13",
+    "date_updated": "2019-11-13",
+    "description": "exploit Apache Flink Web Dashboard unauth rce on right way by python2 scripts",
+    "forks_count": 18,
+    "html_url": "https://github.com/LandGrey/flink-unauth-rce",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "flink-unauth-rce",
+    "repo_owner": "LandGrey",
+    "repotime": "2019-11-13, 23:35:41",
+    "stargazers_count": 91,
+    "watchers_count": 91
+}
+{
+    "commits_count": 40,
+    "date_started": "2019-10-30",
+    "date_updated": "2019-11-12",
+    "description": "Introduction to R  R is a programming language, which is an object oriented language created by Statisticians, R provides objects, operators and functions that allow the user to explore, model and visualize data.  R is a Programming language Developed at AT&amp;amp;T Bell Lab.  It is an open source free language, allowing anyone to use and modify it. R is licensed under the GNU General Public License, with copyright held by The R Foundation For Statistical Computing. It has no need to pay any subscription charges  R has a huge active community member. If you have any question about any function any library you can Google it and you would get a proper answer and right the way.  As it is an open source language, you, me and lots of Data Scientist, they actually built in all those, inbuilt function and they upload it in a website called CRAN and then you can download all those packages. Over 7800 packages listed on CRAN, here we listed some of the most powerful and commonly used in R packages...",
+    "forks_count": 2,
+    "html_url": "https://github.com/akaidkhan/Data_Science_with_R",
+    "keywords": [
+        "Microsoft use after free poc",
+        "Windows use after free",
+        "use after free analysis",
+        "Windows use after free analysis",
+        "use after free poc",
+        "Windows use after free poc",
+        "Microsoft use after free analysis",
+        "Microsoft use after free"
+    ],
+    "language": "R",
+    "repo_name": "Data_Science_with_R",
+    "repo_owner": "akaidkhan",
+    "repotime": "2019-11-12, 09:58:04",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 0,
+    "date_started": "2019-11-01",
+    "date_updated": "2019-11-01",
+    "description": "Multithreaded Client/Server - Student Database Instructions: The assignment is based on the Area Of Circle and JDBC Labs. Java threads covered ln (Threads and Distributed Processing in Java). The Area-Circle Multithreaded Client/server lab exercise covered in Lab4: Multithreaded Server. Pseudo Code (Area Of Circle) The assignment also uses work from the Java JDBC MySQL Labs &amp;&#35;35;1/&amp;&#35;35;2 1. Create a server hosted database (Assign2) including TWO tables ( students and users). Use the following structures: (Populate each table with 4 records.) students • SID (type int(2), unique key) • STUD_ID (type int(8)) • FNAME (type varchar(20) ) • SNAME (type varchar(20) ) users • UID (type int(2), unique key) • UNAME (type varchar(20) ) 2. Create a socket based Multithreaded Client/Server GUI application. Your application GUI should have two screens (1 User Login, 2 Database support) . The Layout is up to you, but please use standard JDK GUI commands &amp;amp; components. 1 User Login. The server only...",
+    "forks_count": 0,
+    "html_url": "https://github.com/baizoukou/java_socket_assignment",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "java_socket_assignment",
+    "repo_owner": "baizoukou",
+    "repotime": "2019-11-01, 13:44:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

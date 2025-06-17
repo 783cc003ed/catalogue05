@@ -606,3 +606,307 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 7,
+    "date_started": "2022-06-29",
+    "date_updated": "2022-06-29",
+    "description": "The script  allows enumerating vulnerable pods and remote code execution(unauth).",
+    "forks_count": 1,
+    "html_url": "https://github.com/Gurguii/Kubelet-unauthenticated-RCE-exploit",
+    "keywords": [
+        "unauthenticated rce",
+        "unauthenticated remote code execution"
+    ],
+    "language": "Shell",
+    "repo_name": "Kubelet-unauthenticated-RCE-exploit",
+    "repo_owner": "Gurguii",
+    "repotime": "2022-06-29, 23:23:25",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 62,
+    "date_started": "2022-06-27",
+    "date_updated": "2022-06-27",
+    "description": "Unicode visual spoofing demo program showcasing the vulnerability and a patch.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rohankhayech/UnicodeVisualSpoofing",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "UnicodeVisualSpoofing",
+    "repo_owner": "rohankhayech",
+    "repotime": "2022-06-27, 23:33:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-06-27",
+    "date_updated": "2022-06-27",
+    "description": "This repository shows how to exploit the vulnerability SMBGhost in a Windows 10 Machine for executing a remote code execution and opening a shell ",
+    "forks_count": 0,
+    "html_url": "https://github.com/MouadBouharoun/CVE-SMBGhost-Windows-10",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "Windows remote code execution exploit",
+        "Win remote code execution exploit",
+        "Win remote code execution",
+        "Win remote code execution vulnerability",
+        "Win remote code execution exploitation",
+        "Windows remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-SMBGhost-Windows-10",
+    "repo_owner": "MouadBouharoun",
+    "repotime": "2022-06-27, 13:49:32",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 395,
+    "date_started": "2016-10-22",
+    "date_updated": "2022-06-26",
+    "description": "<no description>",
+    "forks_count": 18,
+    "html_url": "https://github.com/asarubbo/poc",
+    "keywords": [
+        "PoC"
+    ],
+    "language": null,
+    "repo_name": "poc",
+    "repo_owner": "asarubbo",
+    "repotime": "2022-06-26, 08:00:37",
+    "stargazers_count": 67,
+    "watchers_count": 67
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-06-24",
+    "date_updated": "2022-06-24",
+    "description": "Atlassian Confluence OGNL Injection Remote Code Execution (RCE) Vulnerability (CVE-2022-26134)",
+    "forks_count": 2,
+    "html_url": "https://github.com/ColdFusionX/CVE-2022-26134",
+    "keywords": [
+        "0day vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "ColdFusionX",
+    "repotime": "2022-06-24, 16:27:03",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 25,
+    "date_started": "2022-06-22",
+    "date_updated": "2022-06-23",
+    "description": "Mass Exploit for CVE 2022-29464 on Carbon",
+    "forks_count": 9,
+    "html_url": "https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Mass-exploit-CVE-2022-29464",
+    "repo_owner": "electr0lulz",
+    "repotime": "2022-06-23, 01:54:38",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-06-21",
+    "date_updated": "2022-06-21",
+    "description": "[PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE)",
+    "forks_count": 0,
+    "html_url": "https://github.com/kh4sh3i/CVE-2022-26134",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "kh4sh3i",
+    "repotime": "2022-06-21, 16:35:25",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-06-04",
+    "date_updated": "2022-06-18",
+    "description": "[CVE-2022-26134]Confluence OGNL expression injected RCE with sandbox bypass.",
+    "forks_count": 10,
+    "html_url": "https://github.com/SNCKER/CVE-2022-26134",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "SNCKER",
+    "repotime": "2022-06-18, 17:27:31",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-01-09",
+    "date_updated": "2022-06-16",
+    "description": "Proof of concept about a path traversal vulnerability in Microsoft's Diagcab technology that could lead to remote code execution",
+    "forks_count": 24,
+    "html_url": "https://github.com/irsl/microsoft-diagcab-rce-poc",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft rce",
+        "Microsoft rce poc",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution poc",
+        "remote code execution proof of concept",
+        "remote code execution poc",
+        "Microsoft rce proof of concept",
+        "Microsoft remote code execution",
+        "rce poc",
+        "rce proof of concept",
+        "path traversal vulnerability",
+        "rce vulnerability",
+        "Microsoft rce vulnerability",
+        "Microsoft remote code execution proof of concept"
+    ],
+    "language": "Perl",
+    "repo_name": "microsoft-diagcab-rce-poc",
+    "repo_owner": "irsl",
+    "repotime": "2022-06-16, 15:36:12",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-06-15",
+    "date_updated": "2022-06-15",
+    "description": "A brief summary of recent Linux privilege escalation exploit. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/hxlxmjxbbxs/TheDirtyPipeExploit",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "TheDirtyPipeExploit",
+    "repo_owner": "hxlxmjxbbxs",
+    "repotime": "2022-06-15, 01:45:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 124,
+    "date_started": "2022-04-19",
+    "date_updated": "2022-06-14",
+    "description": "🚀 一款为了学习go而诞生的漏洞利用工具",
+    "forks_count": 53,
+    "html_url": "https://github.com/SummerSec/SpringExploit",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Go",
+    "repo_name": "SpringExploit",
+    "repo_owner": "SummerSec",
+    "repotime": "2022-06-14, 12:28:15",
+    "stargazers_count": 447,
+    "watchers_count": 447
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-10-24",
+    "date_updated": "2022-06-12",
+    "description": "Sleirsgoevy: PoC for the FontFaceSet vulnerability, which was wrongly classified as a use-after-free. Works only on PC for now. Please check if this prints &amp;quot;failed to guess...&amp;quot; for you. Especially interested in reports from 9.00.",
+    "forks_count": 2,
+    "html_url": "https://github.com/kmeps4/900Test",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "900Test",
+    "repo_owner": "kmeps4",
+    "repotime": "2022-06-12, 17:55:07",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-06-09",
+    "date_updated": "2022-06-12",
+    "description": "A pure python implementation of microsoft-diagcab-rce-poc from Imre Rad",
+    "forks_count": 0,
+    "html_url": "https://github.com/reubensammut/dogwalk",
+    "keywords": [
+        "Microsoft rce poc",
+        "Microsoft rce"
+    ],
+    "language": "Python",
+    "repo_name": "dogwalk",
+    "repo_owner": "reubensammut",
+    "repotime": "2022-06-12, 16:39:51",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-05-30",
+    "date_updated": "2022-06-05",
+    "description": "POC CVE-2022-30190 : CVE 0-day MS Offic RCE aka msdt follina",
+    "forks_count": 55,
+    "html_url": "https://github.com/JMousqueton/PoC-CVE-2022-30190",
+    "keywords": [
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PoC-CVE-2022-30190",
+    "repo_owner": "JMousqueton",
+    "repotime": "2022-06-05, 23:06:11",
+    "stargazers_count": 158,
+    "watchers_count": 158
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-07-28",
+    "date_updated": "2022-06-04",
+    "description": "Collection of own exploits and PoCs",
+    "forks_count": 0,
+    "html_url": "https://github.com/luca-regne/public-exploits",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "public-exploits",
+    "repo_owner": "luca-regne",
+    "repotime": "2022-06-04, 14:26:03",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-06-04",
+    "date_updated": "2022-06-04",
+    "description": "Confluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability PoC",
+    "forks_count": 2,
+    "html_url": "https://github.com/shamo0/CVE-2022-26134",
+    "keywords": [
+        "unauthenticated rce",
+        "remote code execution vulnerability",
+        "unauthenticated remote code execution",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "shamo0",
+    "repotime": "2022-06-04, 16:53:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

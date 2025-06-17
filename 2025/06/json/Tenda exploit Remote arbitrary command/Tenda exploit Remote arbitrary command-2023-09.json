@@ -390,3 +390,199 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 354,
+    "date_started": "2019-09-17",
+    "date_updated": "2023-09-28",
+    "description": "This software allows you to perform a deauth attack with an ESP8266 against selected networks. The ESP8266 is a cheap and easy to use Wi-Fi SoC (System-on-a-Chip), programmable with the Arduino IDE. With this software flashed onto it, you can select a target network and start different attacks.  The deauth attack will, if the connection is vulnerable, disconnect the devices from the network. Because the attack is running constantly, the devices will be disconnected again and again. Depending on the network, that can either block a connection or slow it down.  The difference between deauthing and jamming: WiFi Jammers vs Deauthers | What's The Difference?  Other attacks also have been implemented, such as beacon and probe request flooding.  The deauth attack works by exploiting an old and known vulnerability in the 802.11 Wi-Fi protocol. Because these deauthentication frames, usually used to close a Wi-Fi connection safely, are unencrypted, it's very easy to spoof them. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/dfalt0/NodeMCU-ESP8266",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "NodeMCU-ESP8266",
+    "repo_owner": "dfalt0",
+    "repotime": "2023-09-28, 02:37:33",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-09-15",
+    "date_updated": "2023-09-17",
+    "description": "Automatic Mass Tool for checking vulnerability in CVE-2022-4060 - WordPress Plugin : User Post Gallery &amp;lt;= 2.19 - Unauthenticated RCE",
+    "forks_count": 1,
+    "html_url": "https://github.com/im-hanzou/UPGer",
+    "keywords": [
+        "unauthenticated rce",
+        "unauthenticated user"
+    ],
+    "language": "Shell",
+    "repo_name": "UPGer",
+    "repo_owner": "im-hanzou",
+    "repotime": "2023-09-17, 04:55:56",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 55,
+    "date_started": "2020-08-13",
+    "date_updated": "2023-09-16",
+    "description": "An exquisite dns&amp;amp;http log server for verify SSRF/XXE/RFI/RCE vulnerability ",
+    "forks_count": 75,
+    "html_url": "https://github.com/chennqqi/godnslog",
+    "keywords": [
+        "rce vulnerability",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "godnslog",
+    "repo_owner": "chennqqi",
+    "repotime": "2023-09-16, 22:39:13",
+    "stargazers_count": 471,
+    "watchers_count": 471
+}
+{
+    "commits_count": 15,
+    "date_started": "2022-05-08",
+    "date_updated": "2023-09-12",
+    "description": "<no description>",
+    "forks_count": 16,
+    "html_url": "https://github.com/Sq00ky/SMB-Session-Spoofing",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "C++",
+    "repo_name": "SMB-Session-Spoofing",
+    "repo_owner": "Sq00ky",
+    "repotime": "2023-09-12, 21:44:02",
+    "stargazers_count": 123,
+    "watchers_count": 123
+}
+{
+    "commits_count": 378,
+    "date_started": "2022-04-07",
+    "date_updated": "2023-09-12",
+    "description": "各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新",
+    "forks_count": 857,
+    "html_url": "https://github.com/helloexp/0day",
+    "keywords": [
+        "0day exploit",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day",
+    "repo_owner": "helloexp",
+    "repotime": "2023-09-12, 08:57:05",
+    "stargazers_count": 2180,
+    "watchers_count": 2180
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-09-10",
+    "date_updated": "2023-09-10",
+    "description": "Mass Exploit - CVE-2023-1698 &amp;lt;  Unauthenticated Remote Command Execution",
+    "forks_count": 3,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-1698-PoC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-1698-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-10, 04:36:35",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-09-05",
+    "date_updated": "2023-09-06",
+    "description": "In this AKS-focused workshop, you will work with Calico Cloud to learn how to implement runtime security to protect containers in your Kubernetes cluster from known and zero-day threats based container and network attacks running on Microsoft AKS.",
+    "forks_count": 1,
+    "html_url": "https://github.com/tigera-solutions/cc-aks-implement-runtime-security",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "cc-aks-implement-runtime-security",
+    "repo_owner": "tigera-solutions",
+    "repotime": "2023-09-06, 05:52:32",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 587,
+    "date_started": "2015-03-12",
+    "date_updated": "2023-09-04",
+    "description": "㊙️ AntiXSS | Protection against Cross-site scripting (XSS) via PHP",
+    "forks_count": 106,
+    "html_url": "https://github.com/voku/anti-xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "anti-xss",
+    "repo_owner": "voku",
+    "repotime": "2023-09-04, 17:36:40",
+    "stargazers_count": 692,
+    "watchers_count": 692
+}
+{
+    "commits_count": 28,
+    "date_started": "2020-12-16",
+    "date_updated": "2023-09-03",
+    "description": "Demonstrates SQL injection attacks using malicious SQL queries and SQL prevention techniques.",
+    "forks_count": 20,
+    "html_url": "https://github.com/AswinBarath/sql-injection-and-prevention",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "HTML",
+    "repo_name": "sql-injection-and-prevention",
+    "repo_owner": "AswinBarath",
+    "repotime": "2023-09-03, 13:05:27",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-09-02",
+    "date_updated": "2023-09-02",
+    "description": "This repository contains code for an OTP token device using an ATmega32 microcontroller for generating one-time passwords as the final project of the undergraduate microprocessor course.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MelvinMo/OTP-Hardware-Token-Device",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "C",
+    "repo_name": "OTP-Hardware-Token-Device",
+    "repo_owner": "MelvinMo",
+    "repotime": "2023-09-02, 18:25:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-09-02",
+    "date_updated": "2023-09-02",
+    "description": "FOR EDUCATIONAL PURPOSES ONLY - DO NOT USE MALICIOUSLY. This python script utilises a buffer overflow vulnerability in Winamp v5.5732 to a gain reverse shell, allowing the attacker to conduct Remote Code Execution (RCE) on the target machine",
+    "forks_count": 0,
+    "html_url": "https://github.com/SimonHalabi/Winamp-Buffer-Overflow-Exploit",
+    "keywords": [
+        "Win remote code execution",
+        "Win rce exploit",
+        "Win remote code execution exploit",
+        "Win rce",
+        "Win rce vulnerability",
+        "Win remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Winamp-Buffer-Overflow-Exploit",
+    "repo_owner": "SimonHalabi",
+    "repotime": "2023-09-02, 21:13:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

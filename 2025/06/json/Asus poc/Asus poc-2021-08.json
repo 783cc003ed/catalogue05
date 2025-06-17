@@ -282,3 +282,145 @@
     "stargazers_count": 273,
     "watchers_count": 273
 }
+{
+    "commits_count": 22,
+    "date_started": "2021-03-16",
+    "date_updated": "2021-08-27",
+    "description": "Python Pickle RCE Exploit + vulnerable Flask App",
+    "forks_count": 10,
+    "html_url": "https://github.com/CalfCrusher/Python-Pickle-RCE-Exploit",
+    "keywords": [
+        "rce vulnerability",
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Python-Pickle-RCE-Exploit",
+    "repo_owner": "CalfCrusher",
+    "repotime": "2021-08-27, 23:42:20",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 69,
+    "date_started": "2021-04-07",
+    "date_updated": "2021-08-26",
+    "description": "Select a task: ============= - 1 ) Option 1  (Full Network) 2 ) Option 2  (ESTABLISHED) 3 ) Option 3  (Show PID by Port) 4 ) Option 4  (Task Killer) 5 ) Option 5  (System Info) 6 ) Option 6  (Run ProcessHacker) 7 ) Option 7  (ip details) 8 ) Option 8  (People Search) 9 ) Option 9  (VPN) 10) Option 10 (Chat) 11) Option 11 (Pocket Tools) 12) Option 12 (Spoof) 13) Option 13 (search) 14) Option 14 (vulnerabilities search) 15) Option 15 (Fix Windows 10) 16) Option 16 (Clean Windows 10) 17) Option 17 (SEA Anti-MoSquIToes XP 2.0) 18) Option 18 (Moskito Expert) 19) Option 19 (Anti Mosquito.exe) [Inaudible for most of humans] 20) Option 20 (My Favorite Song) 21) Option 21 (Dig into recycle bin) 22) Option 22 (ProcessExplorer) 23) Option 23 (Process lister portable) 24) Option 24 (SecurityTaskManager) 25) Option 25 (hidden_process_finder_portable) 26) Option 26 (connections_viewer_setup) 27) Option 27 (TechToolStore) 28) Option 28 (Ultimate Forensics Outflow) 29) Option 29 (Dart Forensics Tool) ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Himel-Sarkar/finder",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Batchfile",
+    "repo_name": "finder",
+    "repo_owner": "Himel-Sarkar",
+    "repotime": "2021-08-26, 04:10:08",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-08-23",
+    "date_updated": "2021-08-24",
+    "description": "Discord client zero-click RCE",
+    "forks_count": 6,
+    "html_url": "https://github.com/0x44F/discord-zeroclick-exploit",
+    "keywords": [
+        "zero-day exploit",
+        "0day exploit",
+        "rce exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "discord-zeroclick-exploit",
+    "repo_owner": "0x44F",
+    "repotime": "2021-08-24, 06:03:45",
+    "stargazers_count": 34,
+    "watchers_count": 34
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-08-16",
+    "date_updated": "2021-08-16",
+    "description": "CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability",
+    "forks_count": 14,
+    "html_url": "https://github.com/p2-98/CVE-2021-34473",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-34473",
+    "repo_owner": "p2-98",
+    "repotime": "2021-08-16, 12:00:06",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 58,
+    "date_started": "2020-09-07",
+    "date_updated": "2021-08-15",
+    "description": "Linux shellcode code memory injection library .so .dll injection without ptrace example PoC",
+    "forks_count": 8,
+    "html_url": "https://github.com/v-a-c-u-u-m/mem_inject",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "mem_inject",
+    "repo_owner": "v-a-c-u-u-m",
+    "repotime": "2021-08-15, 05:04:37",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-08-10",
+    "date_updated": "2021-08-10",
+    "description": "[CVE-2021-27905] Apache Solr ReplicationHandler Server Side Request Forgery (SSRF)",
+    "forks_count": 1,
+    "html_url": "https://github.com/murataydemir/CVE-2021-27905",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-27905",
+    "repo_owner": "murataydemir",
+    "repotime": "2021-08-10, 11:52:16",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 33,
+    "date_started": "2016-05-18",
+    "date_updated": "2021-08-05",
+    "description": "Exploitation for XSS",
+    "forks_count": 161,
+    "html_url": "https://github.com/nettitude/xss_payloads",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "xss_payloads",
+    "repo_owner": "nettitude",
+    "repotime": "2021-08-05, 17:07:35",
+    "stargazers_count": 718,
+    "watchers_count": 718
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-08-02",
+    "date_updated": "2021-08-04",
+    "description": "This is a PoC for bypassing UAC using DLL hijacking and abusing the &amp;quot;Trusted Directories&amp;quot; verification. ",
+    "forks_count": 50,
+    "html_url": "https://github.com/SecuProject/DLLHijackingScanner",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "DLLHijackingScanner",
+    "repo_owner": "SecuProject",
+    "repotime": "2021-08-04, 12:49:45",
+    "stargazers_count": 273,
+    "watchers_count": 273
+}

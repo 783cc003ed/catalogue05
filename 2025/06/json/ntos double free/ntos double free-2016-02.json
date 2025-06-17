@@ -66,3 +66,71 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 11,
+    "date_started": "2015-11-11",
+    "date_updated": "2016-02-27",
+    "description": "Local File Inclusion &amp;amp; Social Engineering Practice Site",
+    "forks_count": 2,
+    "html_url": "https://github.com/andolojm/php-lfi",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "php-lfi",
+    "repo_owner": "andolojm",
+    "repotime": "2016-02-27, 17:36:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2017-09-19",
+    "date_updated": "2016-02-27",
+    "description": "Local File Inclusion &amp;amp; Social Engineering Practice Site",
+    "forks_count": 0,
+    "html_url": "https://github.com/rollys/php-lfi",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "php-lfi",
+    "repo_owner": "rollys",
+    "repotime": "2016-02-27, 17:36:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 139,
+    "date_started": "2014-10-07",
+    "date_updated": "2016-02-22",
+    "description": "Currently not updated for WMIEvent module...",
+    "forks_count": 33,
+    "html_url": "https://github.com/Invoke-IR/Uproot",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Uproot",
+    "repo_owner": "Invoke-IR",
+    "repotime": "2016-02-22, 22:05:54",
+    "stargazers_count": 262,
+    "watchers_count": 262
+}
+{
+    "commits_count": 10,
+    "date_started": "2016-02-11",
+    "date_updated": "2016-02-13",
+    "description": "Jenkins plugin to redirect unauthenticated users to login pages without 404.",
+    "forks_count": 1,
+    "html_url": "https://github.com/ikedam/redirect404-plugin",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Java",
+    "repo_name": "redirect404-plugin",
+    "repo_owner": "ikedam",
+    "repotime": "2016-02-13, 04:55:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

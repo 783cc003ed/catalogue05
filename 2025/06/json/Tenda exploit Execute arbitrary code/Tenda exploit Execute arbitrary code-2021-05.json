@@ -484,3 +484,246 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 7,
+    "date_started": "2019-11-27",
+    "date_updated": "2021-05-31",
+    "description": "A plugin to help protect your app against csrf attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lingtalfi/Light_CsrfSession",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "Light_CsrfSession",
+    "repo_owner": "lingtalfi",
+    "repotime": "2021-05-31, 14:03:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2017-08-07",
+    "date_updated": "2021-05-30",
+    "description": "Lab for exploring SSRF vulnerabilities",
+    "forks_count": 61,
+    "html_url": "https://github.com/m6a-UdS/ssrf-lab",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "CSS",
+    "repo_name": "ssrf-lab",
+    "repo_owner": "m6a-UdS",
+    "repotime": "2021-05-30, 18:35:58",
+    "stargazers_count": 246,
+    "watchers_count": 246
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-05-28",
+    "date_updated": "2021-05-29",
+    "description": "Cacti v1.2.8 Unauthenticated Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/hexcowboy/CVE-2020-8813",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-8813",
+    "repo_owner": "hexcowboy",
+    "repotime": "2021-05-29, 07:34:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-05-22",
+    "date_updated": "2021-05-27",
+    "description": "x64 Windows PatchGuard bypass, register process-creation callbacks from unsigned code",
+    "forks_count": 35,
+    "html_url": "https://github.com/kkent030315/NoPatchGuardCallback",
+    "keywords": [
+        "patchguard bypass",
+        "kpp bypass"
+    ],
+    "language": "C",
+    "repo_name": "NoPatchGuardCallback",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-05-27, 09:15:54",
+    "stargazers_count": 201,
+    "watchers_count": 201
+}
+{
+    "commits_count": 17,
+    "date_started": "2020-09-19",
+    "date_updated": "2021-05-24",
+    "description": "It is a SQL injection vulnerable project with demonstration. It is developed using PHP and MySQL technologies. It also contains a youtube link where fully demonstrated SQL Injection.",
+    "forks_count": 17,
+    "html_url": "https://github.com/inforkgodara/sql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "sql-injection",
+    "repo_owner": "inforkgodara",
+    "repotime": "2021-05-24, 01:04:16",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-05-21",
+    "description": "Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.",
+    "forks_count": 139,
+    "html_url": "https://github.com/0vercl0k/CVE-2021-31166",
+    "keywords": [
+        "use after free proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31166",
+    "repo_owner": "0vercl0k",
+    "repotime": "2021-05-21, 16:58:22",
+    "stargazers_count": 824,
+    "watchers_count": 824
+}
+{
+    "commits_count": 32,
+    "date_started": "2020-07-02",
+    "date_updated": "2021-05-21",
+    "description": "Analyses/Exploits Of The 0Day Vulnerabilities I Found On Various Softwares",
+    "forks_count": 1,
+    "html_url": "https://github.com/Enesdex/Exploits",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Exploits",
+    "repo_owner": "Enesdex",
+    "repotime": "2021-05-21, 05:29:48",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-05-17",
+    "date_updated": "2021-05-17",
+    "description": "<no description>",
+    "forks_count": 5,
+    "html_url": "https://github.com/obezuk/chrome-0day",
+    "keywords": [
+        "Chrome 0day"
+    ],
+    "language": "JavaScript",
+    "repo_name": "chrome-0day",
+    "repo_owner": "obezuk",
+    "repotime": "2021-05-17, 14:25:22",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-05-17",
+    "date_updated": "2021-05-17",
+    "description": "PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash.",
+    "forks_count": 1,
+    "html_url": "https://github.com/zha0gongz1/CVE-2021-31166",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31166",
+    "repo_owner": "zha0gongz1",
+    "repotime": "2021-05-17, 19:30:26",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-05-16",
+    "description": "RCE for Pega Infinity &amp;gt;= 8.2.1, Pega Infinity &amp;lt;= 8.5.2",
+    "forks_count": 16,
+    "html_url": "https://github.com/samwcyo/CVE-2021-27651-PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-27651-PoC",
+    "repo_owner": "samwcyo",
+    "repotime": "2021-05-16, 00:54:07",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-01-09",
+    "date_updated": "2021-05-12",
+    "description": "Simple tool for path traversal attacks",
+    "forks_count": 0,
+    "html_url": "https://github.com/walpurgisnatch/dirrunner",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "dirrunner",
+    "repo_owner": "walpurgisnatch",
+    "repotime": "2021-05-12, 10:05:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-27",
+    "date_updated": "2021-05-07",
+    "description": "CMSUno 1.6.1 &amp;lt;= 1.6.2 - Remote Code Execution (Authenticated)",
+    "forks_count": 3,
+    "html_url": "https://github.com/sec-it/CMSUno-RCE",
+    "keywords": [
+        "remote code execution exploit",
+        "remote code execution poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "CMSUno-RCE",
+    "repo_owner": "sec-it",
+    "repotime": "2021-05-07, 17:09:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-05-05",
+    "date_updated": "2021-05-05",
+    "description": "Spoofs CPALMS Certificate creation system",
+    "forks_count": 0,
+    "html_url": "https://github.com/Destroyer910/CPALMS-CertificateSpoofer",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "Python",
+    "repo_name": "CPALMS-CertificateSpoofer",
+    "repo_owner": "Destroyer910",
+    "repotime": "2021-05-05, 14:58:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-05-28",
+    "date_updated": "2021-05-03",
+    "description": "T0R Browser 0Day JavaScript Exploit (old version)",
+    "forks_count": 0,
+    "html_url": "https://github.com/israelccarvalho/TOR-0Day",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "TOR-0Day",
+    "repo_owner": "israelccarvalho",
+    "repotime": "2021-05-03, 16:54:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

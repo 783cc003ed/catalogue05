@@ -204,3 +204,415 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 5,
+    "date_started": "2023-07-19",
+    "date_updated": "2023-10-29",
+    "description": "RCE Exploit For Maltrail-v0.53",
+    "forks_count": 6,
+    "html_url": "https://github.com/spookier/Maltrail-v0.53-Exploit",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Maltrail-v0.53-Exploit",
+    "repo_owner": "spookier",
+    "repotime": "2023-10-29, 10:22:55",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-10-24",
+    "date_updated": "2023-10-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/rdevraj950/csv-injection-sanitizer",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "TypeScript",
+    "repo_name": "csv-injection-sanitizer",
+    "repo_owner": "rdevraj950",
+    "repotime": "2023-10-24, 15:05:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-10-23",
+    "date_updated": "2023-10-22",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/aeonmerx/Ataque-de-XML-External-Entity-XXE",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "Ataque-de-XML-External-Entity-XXE",
+    "repo_owner": "aeonmerx",
+    "repotime": "2023-10-22, 22:30:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-10-21",
+    "date_updated": "2023-10-21",
+    "description": "A sensible no bullshit repo of summaries of reports on hackerone, bugcrowd and alike, that makes straight up sense and make it easy to repeat and automate. This is supposed to serve as my personal reference, but should be a good public index reference for like minded. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/holmes-py/reports-summary",
+    "keywords": [
+        "rce dos"
+    ],
+    "language": null,
+    "repo_name": "reports-summary",
+    "repo_owner": "holmes-py",
+    "repotime": "2023-10-21, 15:37:47",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-10-19",
+    "date_updated": "2023-10-19",
+    "description": "Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability",
+    "forks_count": 1,
+    "html_url": "https://github.com/warber0x/CVE-2023-38120",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38120",
+    "repo_owner": "warber0x",
+    "repotime": "2023-10-19, 00:02:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 101,
+    "date_started": "2023-06-06",
+    "date_updated": "2023-10-18",
+    "description": "Our objective is to update the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups",
+    "forks_count": 0,
+    "html_url": "https://github.com/IRB0T/IOC",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "IOC",
+    "repo_owner": "IRB0T",
+    "repotime": "2023-10-18, 10:37:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 21,
+    "date_started": "2021-03-26",
+    "date_updated": "2023-10-10",
+    "description": "Guide to SSRF",
+    "forks_count": 20,
+    "html_url": "https://github.com/MustafaSky/Guide-to-SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "Guide-to-SSRF",
+    "repo_owner": "MustafaSky",
+    "repotime": "2023-10-10, 11:17:21",
+    "stargazers_count": 69,
+    "watchers_count": 69
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-10-09",
+    "date_updated": "2023-10-09",
+    "description": "Shows stock market data from remote API using retrofit. Built on MVVM with clean architecture. Dependency injection (Dagger-Hilt), local caching (Room).  CSV parsing (OpenCSV), custom graph using Canvas. Tech Stack: Kotlin, Jetpack Compose, SQL",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sayantan-Bera/StockMarketApp",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "StockMarketApp",
+    "repo_owner": "Sayantan-Bera",
+    "repotime": "2023-10-09, 20:14:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 83,
+    "date_started": "2022-04-05",
+    "date_updated": "2023-10-07",
+    "description": "Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!",
+    "forks_count": 223,
+    "html_url": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploit"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "Awesome-RCE-techniques",
+    "repo_owner": "p0dalirius",
+    "repotime": "2023-10-07, 10:54:45",
+    "stargazers_count": 1898,
+    "watchers_count": 1898
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-27",
+    "date_updated": "2023-10-04",
+    "description": "Testing Google Guice for dependency injection and Google Guava for working with data records from a csv file.",
+    "forks_count": 0,
+    "html_url": "https://github.com/BongaGougota0/Google_Guice_Guava_Libraries",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Java",
+    "repo_name": "Google_Guice_Guava_Libraries",
+    "repo_owner": "BongaGougota0",
+    "repotime": "2023-10-04, 15:45:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-10-02",
+    "date_updated": "2023-10-02",
+    "description": "CVE-2023-36845 PoC script automates the PoC for CVE-2023-36845 targeting Juniper Networks Junos OS's J-Web component on EX and SRX Series devices. It exploits a PHP flaw, allowing remote modification of the PHPRC variable. Successful exploitation can lead to code injection and execution.",
+    "forks_count": 1,
+    "html_url": "https://github.com/cyberh3als/CVE-2023-36845-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-36845-POC",
+    "repo_owner": "cyberh3als",
+    "repotime": "2023-10-02, 14:31:32",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-04-10",
+    "date_updated": "2023-10-02",
+    "description": "Unrestricted File Upload in Pharmacy Management System 1.0 ",
+    "forks_count": 0,
+    "html_url": "https://github.com/yangliukk/Injection-Vulnerability-In-Pharmacy-Management-System-1.0",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Injection-Vulnerability-In-Pharmacy-Management-System-1.0",
+    "repo_owner": "yangliukk",
+    "repotime": "2023-10-02, 00:27:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-07-19",
+    "date_updated": "2023-10-29",
+    "description": "RCE Exploit For Maltrail-v0.53",
+    "forks_count": 6,
+    "html_url": "https://github.com/spookier/Maltrail-v0.53-Exploit",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Maltrail-v0.53-Exploit",
+    "repo_owner": "spookier",
+    "repotime": "2023-10-29, 10:22:55",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-10-24",
+    "date_updated": "2023-10-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/rdevraj950/csv-injection-sanitizer",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "TypeScript",
+    "repo_name": "csv-injection-sanitizer",
+    "repo_owner": "rdevraj950",
+    "repotime": "2023-10-24, 15:05:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-10-23",
+    "date_updated": "2023-10-22",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/aeonmerx/Ataque-de-XML-External-Entity-XXE",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "Ataque-de-XML-External-Entity-XXE",
+    "repo_owner": "aeonmerx",
+    "repotime": "2023-10-22, 22:30:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-10-21",
+    "date_updated": "2023-10-21",
+    "description": "A sensible no bullshit repo of summaries of reports on hackerone, bugcrowd and alike, that makes straight up sense and make it easy to repeat and automate. This is supposed to serve as my personal reference, but should be a good public index reference for like minded. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/holmes-py/reports-summary",
+    "keywords": [
+        "rce dos"
+    ],
+    "language": null,
+    "repo_name": "reports-summary",
+    "repo_owner": "holmes-py",
+    "repotime": "2023-10-21, 15:37:47",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-10-19",
+    "date_updated": "2023-10-19",
+    "description": "Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability",
+    "forks_count": 1,
+    "html_url": "https://github.com/warber0x/CVE-2023-38120",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38120",
+    "repo_owner": "warber0x",
+    "repotime": "2023-10-19, 00:02:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 101,
+    "date_started": "2023-06-06",
+    "date_updated": "2023-10-18",
+    "description": "Our objective is to update the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups",
+    "forks_count": 0,
+    "html_url": "https://github.com/IRB0T/IOC",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "IOC",
+    "repo_owner": "IRB0T",
+    "repotime": "2023-10-18, 10:37:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 21,
+    "date_started": "2021-03-26",
+    "date_updated": "2023-10-10",
+    "description": "Guide to SSRF",
+    "forks_count": 21,
+    "html_url": "https://github.com/MustafaSky/Guide-to-SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "Guide-to-SSRF",
+    "repo_owner": "MustafaSky",
+    "repotime": "2023-10-10, 11:17:21",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-10-09",
+    "date_updated": "2023-10-09",
+    "description": "Shows stock market data from remote API using retrofit. Built on MVVM with clean architecture. Dependency injection (Dagger-Hilt), local caching (Room).  CSV parsing (OpenCSV), custom graph using Canvas. Tech Stack: Kotlin, Jetpack Compose, SQL",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sayantan-Bera/StockMarketApp",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "StockMarketApp",
+    "repo_owner": "Sayantan-Bera",
+    "repotime": "2023-10-09, 20:14:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 83,
+    "date_started": "2022-04-05",
+    "date_updated": "2023-10-07",
+    "description": "Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!",
+    "forks_count": 223,
+    "html_url": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploit"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "Awesome-RCE-techniques",
+    "repo_owner": "p0dalirius",
+    "repotime": "2023-10-07, 10:54:45",
+    "stargazers_count": 1901,
+    "watchers_count": 1901
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-27",
+    "date_updated": "2023-10-04",
+    "description": "Testing Google Guice for dependency injection and Google Guava for working with data records from a csv file.",
+    "forks_count": 0,
+    "html_url": "https://github.com/BongaGougota0/Google_Guice_Guava_Libraries",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Java",
+    "repo_name": "Google_Guice_Guava_Libraries",
+    "repo_owner": "BongaGougota0",
+    "repotime": "2023-10-04, 15:45:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-10-02",
+    "date_updated": "2023-10-02",
+    "description": "CVE-2023-36845 PoC script automates the PoC for CVE-2023-36845 targeting Juniper Networks Junos OS's J-Web component on EX and SRX Series devices. It exploits a PHP flaw, allowing remote modification of the PHPRC variable. Successful exploitation can lead to code injection and execution.",
+    "forks_count": 1,
+    "html_url": "https://github.com/cyberh3als/CVE-2023-36845-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-36845-POC",
+    "repo_owner": "cyberh3als",
+    "repotime": "2023-10-02, 14:31:32",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-04-10",
+    "date_updated": "2023-10-02",
+    "description": "Unrestricted File Upload in Pharmacy Management System 1.0 ",
+    "forks_count": 0,
+    "html_url": "https://github.com/yangliukk/Injection-Vulnerability-In-Pharmacy-Management-System-1.0",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Injection-Vulnerability-In-Pharmacy-Management-System-1.0",
+    "repo_owner": "yangliukk",
+    "repotime": "2023-10-02, 00:27:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

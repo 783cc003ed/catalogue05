@@ -188,3 +188,98 @@
     "stargazers_count": 21,
     "watchers_count": 21
 }
+{
+    "commits_count": 85,
+    "date_started": "2015-11-18",
+    "date_updated": "2020-10-28",
+    "description": "UAF IceBridge Alaska Altimetry analysis scripts",
+    "forks_count": 1,
+    "html_url": "https://github.com/aaarendt/Alaska-altimetry",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Alaska-altimetry",
+    "repo_owner": "aaarendt",
+    "repotime": "2020-10-28, 12:03:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-10-07",
+    "date_updated": "2020-10-26",
+    "description": "CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule",
+    "forks_count": 30,
+    "html_url": "https://github.com/advanced-threat-research/CVE-2020-16898",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Microsoft rce",
+        "Windows rce",
+        "Windows rce vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "Lua",
+    "repo_name": "CVE-2020-16898",
+    "repo_owner": "advanced-threat-research",
+    "repotime": "2020-10-26, 05:15:31",
+    "stargazers_count": 208,
+    "watchers_count": 208
+}
+{
+    "commits_count": 27,
+    "date_started": "2020-04-21",
+    "date_updated": "2020-10-21",
+    "description": "zipdu is a webservice implementation vulnerable to zip bombs and directory traversals. Written in multiple different languages ",
+    "forks_count": 3,
+    "html_url": "https://github.com/ShiftLeftSecurity/zipdu",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "zipdu",
+    "repo_owner": "ShiftLeftSecurity",
+    "repotime": "2020-10-21, 20:00:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-10-15",
+    "date_updated": "2020-10-21",
+    "description": "PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility)",
+    "forks_count": 35,
+    "html_url": "https://github.com/0neb1n/CVE-2020-16947",
+    "keywords": [
+        "Microsoft rce poc",
+        "Microsoft rce",
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-16947",
+    "repo_owner": "0neb1n",
+    "repotime": "2020-10-21, 05:09:57",
+    "stargazers_count": 124,
+    "watchers_count": 124
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-10-12",
+    "date_updated": "2020-10-19",
+    "description": "CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule",
+    "forks_count": 9,
+    "html_url": "https://github.com/advanced-threat-research/CVE-2020-16899",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Windows rce vulnerability",
+        "Windows rce",
+        "rce vulnerability",
+        "Microsoft rce"
+    ],
+    "language": "Lua",
+    "repo_name": "CVE-2020-16899",
+    "repo_owner": "advanced-threat-research",
+    "repotime": "2020-10-19, 08:58:44",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}

@@ -380,3 +380,767 @@
     "stargazers_count": 51,
     "watchers_count": 51
 }
+{
+    "commits_count": 43,
+    "date_started": "2021-05-28",
+    "date_updated": "2024-03-30",
+    "description": "WebStor efficiently enumerates all websites across your organization’s networks and those in your DNS records - including cloud-hosted servers via zone transfer data - stores their responses, and lets you query for known web technologies, including those with zero-day vulnerabilities.",
+    "forks_count": 19,
+    "html_url": "https://github.com/RossGeerlings/webstor",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "webstor",
+    "repo_owner": "RossGeerlings",
+    "repotime": "2024-03-30, 22:11:09",
+    "stargazers_count": 158,
+    "watchers_count": 158
+}
+{
+    "commits_count": 22,
+    "date_started": "2024-03-28",
+    "date_updated": "2024-03-28",
+    "description": "This is a LFI simulation code for the web server PHP on attack of the Local file inclusión ",
+    "forks_count": 0,
+    "html_url": "https://github.com/JosFramework/Local-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "Local-File-Inclusion",
+    "repo_owner": "JosFramework",
+    "repotime": "2024-03-28, 16:42:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-03-24",
+    "date_updated": "2024-03-28",
+    "description": "A comprehensive collection of detailed walkthroughs for Vulnhub machines, guiding users through initial enumeration, exploitation, and privilege escalation. Contributions welcome!",
+    "forks_count": 0,
+    "html_url": "https://github.com/rbentil/vulnhub-walkthroughs",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "vulnhub-walkthroughs",
+    "repo_owner": "rbentil",
+    "repotime": "2024-03-28, 16:19:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-03-11",
+    "date_updated": "2024-03-25",
+    "description": "This script performs vulnerability scanning for CVE-2024-21762, a Fortinet SSL VPN remote code execution vulnerability. It checks whether a given server is vulnerable to this CVE by sending specific requests and analyzing the responses.",
+    "forks_count": 2,
+    "html_url": "https://github.com/cleverg0d/CVE-2024-21762-Checker",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-21762-Checker",
+    "repo_owner": "cleverg0d",
+    "repotime": "2024-03-25, 16:28:23",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 63,
+    "date_started": "2022-07-21",
+    "date_updated": "2024-03-25",
+    "description": "LPE vulnerability in macOS",
+    "forks_count": 0,
+    "html_url": "https://github.com/skr0x1c0/portal",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "portal",
+    "repo_owner": "skr0x1c0",
+    "repotime": "2024-03-25, 12:29:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-03-24",
+    "date_updated": "2024-03-24",
+    "description": "Proof of Concept script to exploit the authenticated SSTI+RCE in Grav CMS (CVE-2024-28116)",
+    "forks_count": 2,
+    "html_url": "https://github.com/akabe1/Graver",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Graver",
+    "repo_owner": "akabe1",
+    "repotime": "2024-03-24, 15:49:01",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-03-23",
+    "date_updated": "2024-03-23",
+    "description": "I enhanced my cybersecurity skills by creating a reverse shell backdoor using ChatGPT. This involved bypassing security layers, generating PowerShell code, and setting up netcat server for remote command execution. I also learned importance of responsible disclosure by reporting this issue to OpenAI, which contributed to my professional growth.",
+    "forks_count": 0,
+    "html_url": "https://github.com/adityadipakpatel/ChatGPT-JailBreak-Guide",
+    "keywords": [
+        "remote code execution disclosure"
+    ],
+    "language": "Batchfile",
+    "repo_name": "ChatGPT-JailBreak-Guide",
+    "repo_owner": "adityadipakpatel",
+    "repotime": "2024-03-23, 02:42:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2024-03-12",
+    "date_updated": "2024-03-22",
+    "description": "Practical steps to help mitigate the risk of Zero-Day vulnerabilities",
+    "forks_count": 0,
+    "html_url": "https://github.com/jamesfed/0DayMitigations",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "0DayMitigations",
+    "repo_owner": "jamesfed",
+    "repotime": "2024-03-22, 16:31:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 40,
+    "date_started": "2020-11-13",
+    "date_updated": "2024-03-22",
+    "description": "Automating XSS using Bash",
+    "forks_count": 64,
+    "html_url": "https://github.com/theinfosecguy/QuickXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Shell",
+    "repo_name": "QuickXSS",
+    "repo_owner": "theinfosecguy",
+    "repotime": "2024-03-22, 19:51:16",
+    "stargazers_count": 355,
+    "watchers_count": 355
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-03-20",
+    "date_updated": "2024-03-21",
+    "description": "The Prompt Injection Testing Tool is a Python script designed to assess the security of your AI system's prompt handling against a predefined list of user prompts commonly used for injection attacks. This tool utilizes the OpenAI GPT-3.5 model to generate responses to system-user prompt pairs and outputs the results to a CSV file for analysis.",
+    "forks_count": 4,
+    "html_url": "https://github.com/AnthenaMatrix/Prompt-Injection-Testing-Tool",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "Prompt-Injection-Testing-Tool",
+    "repo_owner": "AnthenaMatrix",
+    "repotime": "2024-03-21, 19:29:31",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 33,
+    "date_started": "2024-02-21",
+    "date_updated": "2024-03-20",
+    "description": "Code injection on Android without ptrace",
+    "forks_count": 53,
+    "html_url": "https://github.com/erfur/linjector-rs",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Rust",
+    "repo_name": "linjector-rs",
+    "repo_owner": "erfur",
+    "repotime": "2024-03-20, 11:57:45",
+    "stargazers_count": 244,
+    "watchers_count": 244
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-07-19",
+    "date_updated": "2024-03-19",
+    "description": "Tools for exploiting generic directory traversals, and specific to Avid as well",
+    "forks_count": 0,
+    "html_url": "https://github.com/SanderShark/avid_vulnerability",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "avid_vulnerability",
+    "repo_owner": "SanderShark",
+    "repotime": "2024-03-19, 17:46:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 37,
+    "date_started": "2021-05-17",
+    "date_updated": "2024-03-19",
+    "description": "Crack MSCHAPv2 challenge/responses quickly using a database of NT hashes",
+    "forks_count": 18,
+    "html_url": "https://github.com/sensepost/assless-chaps",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "assless-chaps",
+    "repo_owner": "sensepost",
+    "repotime": "2024-03-19, 13:59:18",
+    "stargazers_count": 133,
+    "watchers_count": 133
+}
+{
+    "commits_count": 13,
+    "date_started": "2024-03-15",
+    "date_updated": "2024-03-16",
+    "description": "A PoC exploit for CVE-2023-43208 - Mirth Connect Remote Code Execution (RCE)",
+    "forks_count": 11,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution exploitation",
+        "rce exploitation",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-43208-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-03-16, 17:22:26",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-03-15",
+    "date_updated": "2024-03-15",
+    "description": "Exploit for Open eClass – CVE-2024-26503: Unrestricted File Upload Leads to Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/RoboGR00t/Exploit-CVE-2024-26503",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Python",
+    "repo_name": "Exploit-CVE-2024-26503",
+    "repo_owner": "RoboGR00t",
+    "repotime": "2024-03-15, 15:15:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-03-06",
+    "date_updated": "2024-03-11",
+    "description": "CVE-2024-27198 &amp;amp; CVE-2024-27199 Authentication Bypass --&amp;gt; RCE in JetBrains TeamCity Pre-2023.11.4",
+    "forks_count": 34,
+    "html_url": "https://github.com/W01fh4cker/CVE-2024-27198-RCE",
+    "keywords": [
+        "rce exploit",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-27198-RCE",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2024-03-11, 15:57:36",
+    "stargazers_count": 151,
+    "watchers_count": 151
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-02-25",
+    "date_updated": "2024-03-07",
+    "description": "ManageEngine Application Manager 12 suffers from a blind SQLi vulnerability that may be used to gain unauthenticated remote code execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tw0point/ManageEngineRCE",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "ManageEngineRCE",
+    "repo_owner": "tw0point",
+    "repotime": "2024-03-07, 18:34:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2023-04-04",
+    "date_updated": "2024-03-07",
+    "description": "Session Hijacking Visual Exploitation",
+    "forks_count": 17,
+    "html_url": "https://github.com/doyensec/Session-Hijacking-Visual-Exploitation",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Session-Hijacking-Visual-Exploitation",
+    "repo_owner": "doyensec",
+    "repotime": "2024-03-07, 10:14:55",
+    "stargazers_count": 200,
+    "watchers_count": 200
+}
+{
+    "commits_count": 607,
+    "date_started": "2012-09-18",
+    "date_updated": "2024-03-03",
+    "description": "Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist",
+    "forks_count": 629,
+    "html_url": "https://github.com/leizongmin/js-xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "js-xss",
+    "repo_owner": "leizongmin",
+    "repotime": "2024-03-03, 10:31:06",
+    "stargazers_count": 5274,
+    "watchers_count": 5274
+}
+{
+    "commits_count": 50,
+    "date_started": "2024-02-29",
+    "date_updated": "2024-03-01",
+    "description": "sql injection ,stored XSS -cross side scripting ",
+    "forks_count": 0,
+    "html_url": "https://github.com/itay601/not-secure",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "Python",
+    "repo_name": "not-secure",
+    "repo_owner": "itay601",
+    "repotime": "2024-03-01, 12:12:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-03-01",
+    "date_updated": "2024-03-01",
+    "description": "A PoC exploit for CVE-2024-25600 - WordPress Bricks Builder Remote Code Execution (RCE)",
+    "forks_count": 6,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-25600-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-03-01, 04:46:56",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 31,
+    "date_started": "2020-12-01",
+    "date_updated": "2024-03-01",
+    "description": "《深入理解WEB漏洞之SSRF漏洞》Server-Side Request Forgery.",
+    "forks_count": 6,
+    "html_url": "https://github.com/ASTTeam/SSRF",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "SSRF",
+    "repo_owner": "ASTTeam",
+    "repotime": "2024-03-01, 17:34:42",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 43,
+    "date_started": "2021-05-28",
+    "date_updated": "2024-03-30",
+    "description": "WebStor efficiently enumerates all websites across your organization’s networks and those in your DNS records - including cloud-hosted servers via zone transfer data - stores their responses, and lets you query for known web technologies, including those with zero-day vulnerabilities.",
+    "forks_count": 19,
+    "html_url": "https://github.com/RossGeerlings/webstor",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "webstor",
+    "repo_owner": "RossGeerlings",
+    "repotime": "2024-03-30, 22:11:09",
+    "stargazers_count": 158,
+    "watchers_count": 158
+}
+{
+    "commits_count": 22,
+    "date_started": "2024-03-28",
+    "date_updated": "2024-03-28",
+    "description": "This is a LFI simulation code for the web server PHP on attack of the Local file inclusión ",
+    "forks_count": 0,
+    "html_url": "https://github.com/JosFramework/Local-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "Local-File-Inclusion",
+    "repo_owner": "JosFramework",
+    "repotime": "2024-03-28, 16:42:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-03-24",
+    "date_updated": "2024-03-28",
+    "description": "A comprehensive collection of detailed walkthroughs for Vulnhub machines, guiding users through initial enumeration, exploitation, and privilege escalation. Contributions welcome!",
+    "forks_count": 0,
+    "html_url": "https://github.com/rbentil/vulnhub-walkthroughs",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "vulnhub-walkthroughs",
+    "repo_owner": "rbentil",
+    "repotime": "2024-03-28, 16:19:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-03-11",
+    "date_updated": "2024-03-25",
+    "description": "This script performs vulnerability scanning for CVE-2024-21762, a Fortinet SSL VPN remote code execution vulnerability. It checks whether a given server is vulnerable to this CVE by sending specific requests and analyzing the responses.",
+    "forks_count": 2,
+    "html_url": "https://github.com/cleverg0d/CVE-2024-21762-Checker",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-21762-Checker",
+    "repo_owner": "cleverg0d",
+    "repotime": "2024-03-25, 16:28:23",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 63,
+    "date_started": "2022-07-21",
+    "date_updated": "2024-03-25",
+    "description": "LPE vulnerability in macOS",
+    "forks_count": 0,
+    "html_url": "https://github.com/skr0x1c0/portal",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "portal",
+    "repo_owner": "skr0x1c0",
+    "repotime": "2024-03-25, 12:29:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-03-24",
+    "date_updated": "2024-03-24",
+    "description": "Proof of Concept script to exploit the authenticated SSTI+RCE in Grav CMS (CVE-2024-28116)",
+    "forks_count": 2,
+    "html_url": "https://github.com/akabe1/Graver",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Graver",
+    "repo_owner": "akabe1",
+    "repotime": "2024-03-24, 15:49:01",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-03-23",
+    "date_updated": "2024-03-23",
+    "description": "I enhanced my cybersecurity skills by creating a reverse shell backdoor using ChatGPT. This involved bypassing security layers, generating PowerShell code, and setting up netcat server for remote command execution. I also learned importance of responsible disclosure by reporting this issue to OpenAI, which contributed to my professional growth.",
+    "forks_count": 0,
+    "html_url": "https://github.com/adityadipakpatel/ChatGPT-JailBreak-Guide",
+    "keywords": [
+        "remote code execution disclosure"
+    ],
+    "language": "Batchfile",
+    "repo_name": "ChatGPT-JailBreak-Guide",
+    "repo_owner": "adityadipakpatel",
+    "repotime": "2024-03-23, 02:42:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2024-03-12",
+    "date_updated": "2024-03-22",
+    "description": "Practical steps to help mitigate the risk of Zero-Day vulnerabilities",
+    "forks_count": 0,
+    "html_url": "https://github.com/jamesfed/0DayMitigations",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "0DayMitigations",
+    "repo_owner": "jamesfed",
+    "repotime": "2024-03-22, 16:31:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 40,
+    "date_started": "2020-11-13",
+    "date_updated": "2024-03-22",
+    "description": "Automating XSS using Bash",
+    "forks_count": 64,
+    "html_url": "https://github.com/theinfosecguy/QuickXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Shell",
+    "repo_name": "QuickXSS",
+    "repo_owner": "theinfosecguy",
+    "repotime": "2024-03-22, 19:51:16",
+    "stargazers_count": 355,
+    "watchers_count": 355
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-03-20",
+    "date_updated": "2024-03-21",
+    "description": "The Prompt Injection Testing Tool is a Python script designed to assess the security of your AI system's prompt handling against a predefined list of user prompts commonly used for injection attacks. This tool utilizes the OpenAI GPT-3.5 model to generate responses to system-user prompt pairs and outputs the results to a CSV file for analysis.",
+    "forks_count": 4,
+    "html_url": "https://github.com/AnthenaMatrix/Prompt-Injection-Testing-Tool",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "Prompt-Injection-Testing-Tool",
+    "repo_owner": "AnthenaMatrix",
+    "repotime": "2024-03-21, 19:29:31",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 33,
+    "date_started": "2024-02-21",
+    "date_updated": "2024-03-20",
+    "description": "Code injection on Android without ptrace",
+    "forks_count": 56,
+    "html_url": "https://github.com/erfur/linjector-rs",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Rust",
+    "repo_name": "linjector-rs",
+    "repo_owner": "erfur",
+    "repotime": "2024-03-20, 11:57:45",
+    "stargazers_count": 245,
+    "watchers_count": 245
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-07-19",
+    "date_updated": "2024-03-19",
+    "description": "Tools for exploiting generic directory traversals, and specific to Avid as well",
+    "forks_count": 0,
+    "html_url": "https://github.com/SanderShark/avid_vulnerability",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "avid_vulnerability",
+    "repo_owner": "SanderShark",
+    "repotime": "2024-03-19, 17:46:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 37,
+    "date_started": "2021-05-17",
+    "date_updated": "2024-03-19",
+    "description": "Crack MSCHAPv2 challenge/responses quickly using a database of NT hashes",
+    "forks_count": 18,
+    "html_url": "https://github.com/sensepost/assless-chaps",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "assless-chaps",
+    "repo_owner": "sensepost",
+    "repotime": "2024-03-19, 13:59:18",
+    "stargazers_count": 133,
+    "watchers_count": 133
+}
+{
+    "commits_count": 13,
+    "date_started": "2024-03-15",
+    "date_updated": "2024-03-16",
+    "description": "A PoC exploit for CVE-2023-43208 - Mirth Connect Remote Code Execution (RCE)",
+    "forks_count": 11,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution exploitation",
+        "rce exploitation",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-43208-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-03-16, 17:22:26",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-03-15",
+    "date_updated": "2024-03-15",
+    "description": "Exploit for Open eClass – CVE-2024-26503: Unrestricted File Upload Leads to Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/RoboGR00t/Exploit-CVE-2024-26503",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Python",
+    "repo_name": "Exploit-CVE-2024-26503",
+    "repo_owner": "RoboGR00t",
+    "repotime": "2024-03-15, 15:15:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-03-06",
+    "date_updated": "2024-03-11",
+    "description": "CVE-2024-27198 &amp;amp; CVE-2024-27199 Authentication Bypass --&amp;gt; RCE in JetBrains TeamCity Pre-2023.11.4",
+    "forks_count": 34,
+    "html_url": "https://github.com/W01fh4cker/CVE-2024-27198-RCE",
+    "keywords": [
+        "rce exploit",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-27198-RCE",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2024-03-11, 15:57:36",
+    "stargazers_count": 151,
+    "watchers_count": 151
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-02-25",
+    "date_updated": "2024-03-07",
+    "description": "ManageEngine Application Manager 12 suffers from a blind SQLi vulnerability that may be used to gain unauthenticated remote code execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tw0point/ManageEngineRCE",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "ManageEngineRCE",
+    "repo_owner": "tw0point",
+    "repotime": "2024-03-07, 18:34:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2023-04-04",
+    "date_updated": "2024-03-07",
+    "description": "Session Hijacking Visual Exploitation",
+    "forks_count": 17,
+    "html_url": "https://github.com/doyensec/Session-Hijacking-Visual-Exploitation",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Session-Hijacking-Visual-Exploitation",
+    "repo_owner": "doyensec",
+    "repotime": "2024-03-07, 10:14:55",
+    "stargazers_count": 200,
+    "watchers_count": 200
+}
+{
+    "commits_count": 607,
+    "date_started": "2012-09-18",
+    "date_updated": "2024-03-03",
+    "description": "Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist",
+    "forks_count": 629,
+    "html_url": "https://github.com/leizongmin/js-xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "js-xss",
+    "repo_owner": "leizongmin",
+    "repotime": "2024-03-03, 10:31:06",
+    "stargazers_count": 5274,
+    "watchers_count": 5274
+}
+{
+    "commits_count": 50,
+    "date_started": "2024-02-29",
+    "date_updated": "2024-03-01",
+    "description": "sql injection ,stored XSS -cross side scripting ",
+    "forks_count": 0,
+    "html_url": "https://github.com/itay601/not-secure",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "Python",
+    "repo_name": "not-secure",
+    "repo_owner": "itay601",
+    "repotime": "2024-03-01, 12:12:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-03-01",
+    "date_updated": "2024-03-01",
+    "description": "A PoC exploit for CVE-2024-25600 - WordPress Bricks Builder Remote Code Execution (RCE)",
+    "forks_count": 6,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-25600-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-03-01, 04:46:56",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 31,
+    "date_started": "2020-12-01",
+    "date_updated": "2024-03-01",
+    "description": "《深入理解WEB漏洞之SSRF漏洞》Server-Side Request Forgery.",
+    "forks_count": 6,
+    "html_url": "https://github.com/ASTTeam/SSRF",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "SSRF",
+    "repo_owner": "ASTTeam",
+    "repotime": "2024-03-01, 17:34:42",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}

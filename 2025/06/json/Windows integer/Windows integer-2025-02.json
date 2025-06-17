@@ -277,3 +277,561 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 2,
+    "date_started": "2025-02-27",
+    "date_updated": "2025-02-27",
+    "description": "This Python-based tool scans websites for common vulnerabilities like SQL Injection, Cross-Site Scripting (XSS), and Security Misconfigurations. It features a user-friendly GUI built with Tkinter, stores results in an SQLite database, and allows exporting to CSV for further analysis. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/ayush-07-parajuli/Automated-Web-Vulnerability-Scanner",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "Automated-Web-Vulnerability-Scanner",
+    "repo_owner": "ayush-07-parajuli",
+    "repotime": "2025-02-27, 19:20:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 152,
+    "date_started": "2010-01-09",
+    "date_updated": "2025-02-27",
+    "description": "A database resource control interface for Ruby that lets you avoid hard coding your passwords",
+    "forks_count": 0,
+    "html_url": "https://github.com/djberg96/dbi-dbrc",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Ruby",
+    "repo_name": "dbi-dbrc",
+    "repo_owner": "djberg96",
+    "repotime": "2025-02-27, 06:40:48",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-26",
+    "date_updated": "2025-02-26",
+    "description": "Writeup on session hijacking exploit for video streaming platform MovieBoxPro which exposed over 6 million Google accounts (15/05/2024)",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ciarands/MBP-Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "MBP-Session-Hijacking",
+    "repo_owner": "Ciarands",
+    "repotime": "2025-02-26, 12:19:43",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 147,
+    "date_started": "2022-10-01",
+    "date_updated": "2025-02-26",
+    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+    "forks_count": 371,
+    "html_url": "https://github.com/r0oth3x49/ghauri",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "ghauri",
+    "repo_owner": "r0oth3x49",
+    "repotime": "2025-02-26, 00:09:45",
+    "stargazers_count": 3556,
+    "watchers_count": 3556
+}
+{
+    "commits_count": 4725,
+    "date_started": "2017-05-29",
+    "date_updated": "2025-02-25",
+    "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
+    "forks_count": 167,
+    "html_url": "https://github.com/airbus-seclab/bincat",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "OCaml",
+    "repo_name": "bincat",
+    "repo_owner": "airbus-seclab",
+    "repotime": "2025-02-25, 17:53:49",
+    "stargazers_count": 1804,
+    "watchers_count": 1804
+}
+{
+    "commits_count": 176,
+    "date_started": "2015-05-28",
+    "date_updated": "2025-02-24",
+    "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
+    "forks_count": 550,
+    "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
+    "keywords": [
+        "vulnerability",
+        "Windows uaf vulnerability",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "uaf vulnerability",
+        "Windows uaf"
+    ],
+    "language": "C",
+    "repo_name": "HackSysExtremeVulnerableDriver",
+    "repo_owner": "hacksysteam",
+    "repotime": "2025-02-24, 17:49:16",
+    "stargazers_count": 2683,
+    "watchers_count": 2683
+}
+{
+    "commits_count": 51,
+    "date_started": "2021-10-17",
+    "date_updated": "2025-02-21",
+    "description": "Consider  the  design  of  a  database  for  a  web  site  that  allow  people  to  buy  and  sell  a  cypto called PPS (see website testing.ppswap.org). Only registered users can buy and sell PPS. Each user is identified by a userid, which is an email, first name, last name, birthday, address (street number, street, city, state, and zip code), balance of PPS and balance of dollar.  Initially, both PPS and dollar balances are zero. A user can withdraw and deposit dollars. A special user root (this is the only user whose id is root and not an email) initially will have the whole supply of PPS, which is 1T. A user will sell and buy PPS only with this special user root (in real life, this special root might be just a smart contract). The price of the PPS is set to 1M/$ initially. For the simplicity of this project, we assume each buy will increase the price by a little: each dollar can buy 1 less PPS after each buy. In the same way, each sell will decrease the price a little bit:  each  d...",
+    "forks_count": 5,
+    "html_url": "https://github.com/jonschumaker/PPS_Project",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Java",
+    "repo_name": "PPS_Project",
+    "repo_owner": "jonschumaker",
+    "repotime": "2025-02-21, 20:40:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-18",
+    "date_updated": "2025-02-18",
+    "description": "This Hack code calculates the factorial of a number using recursion. It has two issues: stack overflow for large inputs and lack of input validation for negative or non-integer inputs. The solution involves adding input validation and using an iterative approach instead of recursion.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-and-Input-Validation-Issues-in-Recursive-Factorial-Function-rswgq",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-and-Input-Validation-Issues-in-Recursive-Factorial-Function-rswgq",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-18, 04:50:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 296,
+    "date_started": "2022-09-03",
+    "date_updated": "2025-02-17",
+    "description": "Tests URLs for Local File Inclusion (LFI), Remote File Inclusion (RFI),   SQL injection (SQLi), and Cross Site Scripting (XSS), Server Side Template Injection (SSTI), and Open Redirects.",
+    "forks_count": 19,
+    "html_url": "https://github.com/ronin-rb/ronin-vulns",
+    "keywords": [
+        "local file inclusion",
+        "cross-side-scripting"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-vulns",
+    "repo_owner": "ronin-rb",
+    "repotime": "2025-02-17, 13:24:05",
+    "stargazers_count": 77,
+    "watchers_count": 77
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-02-16",
+    "description": "Stack overflow error in recursive function due to lack of input validation and a missing base case for negative integers.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Factorial-Function-b7vs1",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-in-Recursive-Factorial-Function-b7vs1",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-16, 10:08:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 939,
+    "date_started": "2010-01-30",
+    "date_updated": "2025-02-14",
+    "description": "A Ruby DSL for crafting SQL Injections",
+    "forks_count": 5,
+    "html_url": "https://github.com/ronin-rb/ronin-code-sql",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-code-sql",
+    "repo_owner": "ronin-rb",
+    "repotime": "2025-02-14, 23:52:21",
+    "stargazers_count": 46,
+    "watchers_count": 46
+}
+{
+    "commits_count": 27,
+    "date_started": "2024-10-26",
+    "date_updated": "2025-02-13",
+    "description": "基于 BurpSuite 新版 MontoyaAPI 的 SSRF 漏洞自动探测插件",
+    "forks_count": 5,
+    "html_url": "https://github.com/banchengkemeng/Auto-SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "Auto-SSRF",
+    "repo_owner": "banchengkemeng",
+    "repotime": "2025-02-13, 13:59:13",
+    "stargazers_count": 101,
+    "watchers_count": 101
+}
+{
+    "commits_count": 13,
+    "date_started": "2024-07-23",
+    "date_updated": "2025-02-10",
+    "description": "Advanced SQL Injection Techniques for Bug Bounty Hunters",
+    "forks_count": 75,
+    "html_url": "https://github.com/ifconfig-me/SQL_Injection-Techniques",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL_Injection-Techniques",
+    "repo_owner": "ifconfig-me",
+    "repotime": "2025-02-10, 23:30:03",
+    "stargazers_count": 126,
+    "watchers_count": 126
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-02-09",
+    "date_updated": "2025-02-10",
+    "description": "Automatic Local File Inclusion Enumerator. Scan websites for LFI vulnerabilities and path traversals.",
+    "forks_count": 0,
+    "html_url": "https://github.com/4wayhandshake/Alfie",
+    "keywords": [
+        "path traversal vulnerability",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Alfie",
+    "repo_owner": "4wayhandshake",
+    "repotime": "2025-02-10, 02:34:02",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-18",
+    "date_updated": "2025-02-02",
+    "description": "PoC code for the LPE and RCE (CVE-2024-31903) attacks against the IBM Sterling B2B Integrator",
+    "forks_count": 0,
+    "html_url": "https://github.com/ReversecLabs/ibm-sterling-b2b-integrator-poc",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "Java",
+    "repo_name": "ibm-sterling-b2b-integrator-poc",
+    "repo_owner": "ReversecLabs",
+    "repotime": "2025-02-02, 14:52:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-27",
+    "date_updated": "2025-02-27",
+    "description": "This Python-based tool scans websites for common vulnerabilities like SQL Injection, Cross-Site Scripting (XSS), and Security Misconfigurations. It features a user-friendly GUI built with Tkinter, stores results in an SQLite database, and allows exporting to CSV for further analysis. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/ayush-07-parajuli/Automated-Web-Vulnerability-Scanner",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "Automated-Web-Vulnerability-Scanner",
+    "repo_owner": "ayush-07-parajuli",
+    "repotime": "2025-02-27, 19:20:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 152,
+    "date_started": "2010-01-09",
+    "date_updated": "2025-02-27",
+    "description": "A database resource control interface for Ruby that lets you avoid hard coding your passwords",
+    "forks_count": 0,
+    "html_url": "https://github.com/djberg96/dbi-dbrc",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Ruby",
+    "repo_name": "dbi-dbrc",
+    "repo_owner": "djberg96",
+    "repotime": "2025-02-27, 06:40:48",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-26",
+    "date_updated": "2025-02-26",
+    "description": "Writeup on session hijacking exploit for video streaming platform MovieBoxPro which exposed over 6 million Google accounts (15/05/2024)",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ciarands/MBP-Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "MBP-Session-Hijacking",
+    "repo_owner": "Ciarands",
+    "repotime": "2025-02-26, 12:19:43",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 147,
+    "date_started": "2022-10-01",
+    "date_updated": "2025-02-26",
+    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+    "forks_count": 373,
+    "html_url": "https://github.com/r0oth3x49/ghauri",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "ghauri",
+    "repo_owner": "r0oth3x49",
+    "repotime": "2025-02-26, 00:09:45",
+    "stargazers_count": 3570,
+    "watchers_count": 3570
+}
+{
+    "commits_count": 4725,
+    "date_started": "2017-05-29",
+    "date_updated": "2025-02-25",
+    "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
+    "forks_count": 167,
+    "html_url": "https://github.com/airbus-seclab/bincat",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "OCaml",
+    "repo_name": "bincat",
+    "repo_owner": "airbus-seclab",
+    "repotime": "2025-02-25, 17:53:49",
+    "stargazers_count": 1806,
+    "watchers_count": 1806
+}
+{
+    "commits_count": 176,
+    "date_started": "2015-05-28",
+    "date_updated": "2025-02-24",
+    "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
+    "forks_count": 549,
+    "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
+    "keywords": [
+        "vulnerability",
+        "Windows uaf vulnerability",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "uaf vulnerability",
+        "Windows uaf"
+    ],
+    "language": "C",
+    "repo_name": "HackSysExtremeVulnerableDriver",
+    "repo_owner": "hacksysteam",
+    "repotime": "2025-02-24, 17:49:16",
+    "stargazers_count": 2688,
+    "watchers_count": 2688
+}
+{
+    "commits_count": 51,
+    "date_started": "2021-10-17",
+    "date_updated": "2025-02-21",
+    "description": "Consider  the  design  of  a  database  for  a  web  site  that  allow  people  to  buy  and  sell  a  cypto called PPS (see website testing.ppswap.org). Only registered users can buy and sell PPS. Each user is identified by a userid, which is an email, first name, last name, birthday, address (street number, street, city, state, and zip code), balance of PPS and balance of dollar.  Initially, both PPS and dollar balances are zero. A user can withdraw and deposit dollars. A special user root (this is the only user whose id is root and not an email) initially will have the whole supply of PPS, which is 1T. A user will sell and buy PPS only with this special user root (in real life, this special root might be just a smart contract). The price of the PPS is set to 1M/$ initially. For the simplicity of this project, we assume each buy will increase the price by a little: each dollar can buy 1 less PPS after each buy. In the same way, each sell will decrease the price a little bit:  each  d...",
+    "forks_count": 5,
+    "html_url": "https://github.com/jonschumaker/PPS_Project",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Java",
+    "repo_name": "PPS_Project",
+    "repo_owner": "jonschumaker",
+    "repotime": "2025-02-21, 20:40:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-18",
+    "date_updated": "2025-02-18",
+    "description": "This Hack code calculates the factorial of a number using recursion. It has two issues: stack overflow for large inputs and lack of input validation for negative or non-integer inputs. The solution involves adding input validation and using an iterative approach instead of recursion.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-and-Input-Validation-Issues-in-Recursive-Factorial-Function-rswgq",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-and-Input-Validation-Issues-in-Recursive-Factorial-Function-rswgq",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-18, 04:50:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 296,
+    "date_started": "2022-09-03",
+    "date_updated": "2025-02-17",
+    "description": "Tests URLs for Local File Inclusion (LFI), Remote File Inclusion (RFI),   SQL injection (SQLi), and Cross Site Scripting (XSS), Server Side Template Injection (SSTI), and Open Redirects.",
+    "forks_count": 19,
+    "html_url": "https://github.com/ronin-rb/ronin-vulns",
+    "keywords": [
+        "local file inclusion",
+        "cross-side-scripting"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-vulns",
+    "repo_owner": "ronin-rb",
+    "repotime": "2025-02-17, 13:24:05",
+    "stargazers_count": 78,
+    "watchers_count": 78
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-02-16",
+    "description": "Stack overflow error in recursive function due to lack of input validation and a missing base case for negative integers.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Factorial-Function-b7vs1",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-in-Recursive-Factorial-Function-b7vs1",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-16, 10:08:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 939,
+    "date_started": "2010-01-30",
+    "date_updated": "2025-02-14",
+    "description": "A Ruby DSL for crafting SQL Injections",
+    "forks_count": 5,
+    "html_url": "https://github.com/ronin-rb/ronin-code-sql",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-code-sql",
+    "repo_owner": "ronin-rb",
+    "repotime": "2025-02-14, 23:52:21",
+    "stargazers_count": 46,
+    "watchers_count": 46
+}
+{
+    "commits_count": 27,
+    "date_started": "2024-10-26",
+    "date_updated": "2025-02-13",
+    "description": "基于 BurpSuite 新版 MontoyaAPI 的 SSRF 漏洞自动探测插件",
+    "forks_count": 5,
+    "html_url": "https://github.com/banchengkemeng/Auto-SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "Auto-SSRF",
+    "repo_owner": "banchengkemeng",
+    "repotime": "2025-02-13, 13:59:13",
+    "stargazers_count": 102,
+    "watchers_count": 102
+}
+{
+    "commits_count": 13,
+    "date_started": "2024-07-23",
+    "date_updated": "2025-02-10",
+    "description": "Advanced SQL Injection Techniques for Bug Bounty Hunters",
+    "forks_count": 75,
+    "html_url": "https://github.com/ifconfig-me/SQL_Injection-Techniques",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL_Injection-Techniques",
+    "repo_owner": "ifconfig-me",
+    "repotime": "2025-02-10, 23:30:03",
+    "stargazers_count": 127,
+    "watchers_count": 127
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-02-09",
+    "date_updated": "2025-02-10",
+    "description": "Automatic Local File Inclusion Enumerator. Scan websites for LFI vulnerabilities and path traversals.",
+    "forks_count": 0,
+    "html_url": "https://github.com/4wayhandshake/Alfie",
+    "keywords": [
+        "path traversal vulnerability",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Alfie",
+    "repo_owner": "4wayhandshake",
+    "repotime": "2025-02-10, 02:34:02",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-18",
+    "date_updated": "2025-02-02",
+    "description": "PoC code for the LPE and RCE (CVE-2024-31903) attacks against the IBM Sterling B2B Integrator",
+    "forks_count": 0,
+    "html_url": "https://github.com/ReversecLabs/ibm-sterling-b2b-integrator-poc",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "Java",
+    "repo_name": "ibm-sterling-b2b-integrator-poc",
+    "repo_owner": "ReversecLabs",
+    "repotime": "2025-02-02, 14:52:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

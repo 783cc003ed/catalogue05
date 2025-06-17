@@ -70,3 +70,39 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 132,
+    "date_started": "2021-02-23",
+    "date_updated": "2024-10-17",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 78,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2024-10-17, 06:04:00",
+    "stargazers_count": 797,
+    "watchers_count": 797
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-08-25",
+    "date_updated": "2024-10-10",
+    "description": "LPE Exploits of windows drivers",
+    "forks_count": 0,
+    "html_url": "https://github.com/nu1lptr0/LPE_Windows_Exploitation",
+    "keywords": [
+        "Windows lpe",
+        "Win lpe"
+    ],
+    "language": "C",
+    "repo_name": "LPE_Windows_Exploitation",
+    "repo_owner": "nu1lptr0",
+    "repotime": "2024-10-10, 22:32:41",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

@@ -188,3 +188,383 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 302,
+    "date_started": "2017-04-30",
+    "date_updated": "2024-09-23",
+    "description": "hack tools",
+    "forks_count": 493,
+    "html_url": "https://github.com/hacktoolspack/hack-tools",
+    "keywords": [
+        "0day exploit",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "hack-tools",
+    "repo_owner": "hacktoolspack",
+    "repotime": "2024-09-23, 23:27:19",
+    "stargazers_count": 1120,
+    "watchers_count": 1120
+}
+{
+    "commits_count": 93,
+    "date_started": "2020-02-13",
+    "date_updated": "2024-09-20",
+    "description": "Image preview support for lf (list files) using Überzug",
+    "forks_count": 47,
+    "html_url": "https://github.com/thimc/lfimg",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Shell",
+    "repo_name": "lfimg",
+    "repo_owner": "thimc",
+    "repotime": "2024-09-20, 07:23:03",
+    "stargazers_count": 269,
+    "watchers_count": 269
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-09-19",
+    "date_updated": "2024-09-19",
+    "description": "This report identifies critical vulnerabilities in the Google Gruyere web application, including XSSI, Path Traversal, DoS, and Code Execution. It provides proofs of concept and recommendations for mitigating these risks to enhance overall application security. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Cyb3rscrib/Gruyere",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Gruyere",
+    "repo_owner": "Cyb3rscrib",
+    "repotime": "2024-09-19, 21:41:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 64,
+    "date_started": "2012-12-15",
+    "date_updated": "2024-09-17",
+    "description": "Cross Site &amp;quot;Scripter&amp;quot; (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.",
+    "forks_count": 249,
+    "html_url": "https://github.com/epsylon/xsser",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xsser",
+    "repo_owner": "epsylon",
+    "repotime": "2024-09-17, 09:58:12",
+    "stargazers_count": 1316,
+    "watchers_count": 1316
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-09-14",
+    "date_updated": "2024-09-15",
+    "description": "Stuxnet extracted binaries by reversing &amp;amp; Stuxnet Rootkit Analysis",
+    "forks_count": 14,
+    "html_url": "https://github.com/x86byte/Stuxnet-Rootkit",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "C",
+    "repo_name": "Stuxnet-Rootkit",
+    "repo_owner": "x86byte",
+    "repotime": "2024-09-15, 00:01:28",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 103,
+    "date_started": "2020-04-15",
+    "date_updated": "2024-09-13",
+    "description": "GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interesting Subs) parameters grep",
+    "forks_count": 291,
+    "html_url": "https://github.com/1ndianl33t/Gf-Patterns",
+    "keywords": [
+        "lfi",
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "Gf-Patterns",
+    "repo_owner": "1ndianl33t",
+    "repotime": "2024-09-13, 20:34:14",
+    "stargazers_count": 1320,
+    "watchers_count": 1320
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-09-12",
+    "date_updated": "2024-09-13",
+    "description": "🚀 XSSFUZZ - A tool for detecting XSS vulnerabilities in web applications.",
+    "forks_count": 20,
+    "html_url": "https://github.com/Asperis-Security/xssFuzz",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xssFuzz",
+    "repo_owner": "Asperis-Security",
+    "repotime": "2024-09-13, 10:44:50",
+    "stargazers_count": 99,
+    "watchers_count": 99
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-09-08",
+    "date_updated": "2024-09-09",
+    "description": "A proof of concept exploit for SQLPad RCE (CVE-2022-0944).",
+    "forks_count": 1,
+    "html_url": "https://github.com/shhrew/CVE-2022-0944",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-0944",
+    "repo_owner": "shhrew",
+    "repotime": "2024-09-09, 00:57:24",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-09-07",
+    "date_updated": "2024-09-06",
+    "description": "DiskBoss 8.8.16 Remote Buffer Overflow with ASLR and DEP Bypass Using Memory Leak",
+    "forks_count": 0,
+    "html_url": "https://github.com/yerodin/diskboss-InfoLeak-ASLR-Bypass-RCE",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "diskboss-InfoLeak-ASLR-Bypass-RCE",
+    "repo_owner": "yerodin",
+    "repotime": "2024-09-06, 19:53:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-09-01",
+    "date_updated": "2024-09-05",
+    "description": "Windows Exploit development : Bypass Data Execution Prevention (DEP) using ROP chains manually hard code",
+    "forks_count": 0,
+    "html_url": "https://github.com/x86byte/ROPme",
+    "keywords": [
+        "dep bypass",
+        "data execution prevention bypass"
+    ],
+    "language": "Python",
+    "repo_name": "ROPme",
+    "repo_owner": "x86byte",
+    "repotime": "2024-09-05, 02:06:08",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-09-03",
+    "date_updated": "2024-09-03",
+    "description": "Easy File Sharing Web Server 7.2 - HTTP GET Unauthenticated Remote Buffer Overflow  &amp;amp; DEP Bypass with self decoding ROP chain",
+    "forks_count": 0,
+    "html_url": "https://github.com/yerodin/EFS-Server-7.2-RCE_DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Python",
+    "repo_name": "EFS-Server-7.2-RCE_DEP-Bypass",
+    "repo_owner": "yerodin",
+    "repotime": "2024-09-03, 16:14:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 302,
+    "date_started": "2017-04-30",
+    "date_updated": "2024-09-23",
+    "description": "hack tools",
+    "forks_count": 493,
+    "html_url": "https://github.com/hacktoolspack/hack-tools",
+    "keywords": [
+        "0day exploit",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "hack-tools",
+    "repo_owner": "hacktoolspack",
+    "repotime": "2024-09-23, 23:27:19",
+    "stargazers_count": 1120,
+    "watchers_count": 1120
+}
+{
+    "commits_count": 93,
+    "date_started": "2020-02-13",
+    "date_updated": "2024-09-20",
+    "description": "Image preview support for lf (list files) using Überzug",
+    "forks_count": 47,
+    "html_url": "https://github.com/thimc/lfimg",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Shell",
+    "repo_name": "lfimg",
+    "repo_owner": "thimc",
+    "repotime": "2024-09-20, 07:23:03",
+    "stargazers_count": 269,
+    "watchers_count": 269
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-09-19",
+    "date_updated": "2024-09-19",
+    "description": "This report identifies critical vulnerabilities in the Google Gruyere web application, including XSSI, Path Traversal, DoS, and Code Execution. It provides proofs of concept and recommendations for mitigating these risks to enhance overall application security. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Cyb3rscrib/Gruyere",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Gruyere",
+    "repo_owner": "Cyb3rscrib",
+    "repotime": "2024-09-19, 21:41:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 64,
+    "date_started": "2012-12-15",
+    "date_updated": "2024-09-17",
+    "description": "Cross Site &amp;quot;Scripter&amp;quot; (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.",
+    "forks_count": 251,
+    "html_url": "https://github.com/epsylon/xsser",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xsser",
+    "repo_owner": "epsylon",
+    "repotime": "2024-09-17, 09:58:12",
+    "stargazers_count": 1322,
+    "watchers_count": 1322
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-09-14",
+    "date_updated": "2024-09-15",
+    "description": "Stuxnet extracted binaries by reversing &amp;amp; Stuxnet Rootkit Analysis",
+    "forks_count": 14,
+    "html_url": "https://github.com/x86byte/Stuxnet-Rootkit",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "C",
+    "repo_name": "Stuxnet-Rootkit",
+    "repo_owner": "x86byte",
+    "repotime": "2024-09-15, 00:01:28",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 103,
+    "date_started": "2020-04-15",
+    "date_updated": "2024-09-13",
+    "description": "GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interesting Subs) parameters grep",
+    "forks_count": 291,
+    "html_url": "https://github.com/1ndianl33t/Gf-Patterns",
+    "keywords": [
+        "lfi",
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "Gf-Patterns",
+    "repo_owner": "1ndianl33t",
+    "repotime": "2024-09-13, 20:34:14",
+    "stargazers_count": 1322,
+    "watchers_count": 1322
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-09-12",
+    "date_updated": "2024-09-13",
+    "description": "🚀 XSSFUZZ - A tool for detecting XSS vulnerabilities in web applications.",
+    "forks_count": 20,
+    "html_url": "https://github.com/Asperis-Security/xssFuzz",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xssFuzz",
+    "repo_owner": "Asperis-Security",
+    "repotime": "2024-09-13, 10:44:50",
+    "stargazers_count": 101,
+    "watchers_count": 101
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-09-08",
+    "date_updated": "2024-09-09",
+    "description": "A proof of concept exploit for SQLPad RCE (CVE-2022-0944).",
+    "forks_count": 1,
+    "html_url": "https://github.com/shhrew/CVE-2022-0944",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-0944",
+    "repo_owner": "shhrew",
+    "repotime": "2024-09-09, 00:57:24",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-09-07",
+    "date_updated": "2024-09-06",
+    "description": "DiskBoss 8.8.16 Remote Buffer Overflow with ASLR and DEP Bypass Using Memory Leak",
+    "forks_count": 0,
+    "html_url": "https://github.com/yerodin/diskboss-InfoLeak-ASLR-Bypass-RCE",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "diskboss-InfoLeak-ASLR-Bypass-RCE",
+    "repo_owner": "yerodin",
+    "repotime": "2024-09-06, 19:53:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-09-01",
+    "date_updated": "2024-09-05",
+    "description": "Windows Exploit development : Bypass Data Execution Prevention (DEP) using ROP chains manually hard code",
+    "forks_count": 0,
+    "html_url": "https://github.com/x86byte/ROPme",
+    "keywords": [
+        "dep bypass",
+        "data execution prevention bypass"
+    ],
+    "language": "Python",
+    "repo_name": "ROPme",
+    "repo_owner": "x86byte",
+    "repotime": "2024-09-05, 02:06:08",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-09-03",
+    "date_updated": "2024-09-03",
+    "description": "Easy File Sharing Web Server 7.2 - HTTP GET Unauthenticated Remote Buffer Overflow  &amp;amp; DEP Bypass with self decoding ROP chain",
+    "forks_count": 0,
+    "html_url": "https://github.com/yerodin/EFS-Server-7.2-RCE_DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Python",
+    "repo_name": "EFS-Server-7.2-RCE_DEP-Bypass",
+    "repo_owner": "yerodin",
+    "repotime": "2024-09-03, 16:14:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

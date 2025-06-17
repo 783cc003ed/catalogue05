@@ -174,3 +174,91 @@
     "stargazers_count": 1899,
     "watchers_count": 1899
 }
+{
+    "commits_count": 20,
+    "date_started": "2023-08-02",
+    "date_updated": "2023-10-31",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/SH4D3M3/FYP-ZeroDayAnalysis",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "FYP-ZeroDayAnalysis",
+    "repo_owner": "SH4D3M3",
+    "repotime": "2023-10-31, 22:14:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-10-20",
+    "date_updated": "2023-10-24",
+    "description": "PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy",
+    "forks_count": 10,
+    "html_url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
+    "keywords": [
+        "lpe poc",
+        "Microsoft lpe",
+        "Microsoft lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2023-36802-MSKSSRV-LPE",
+    "repo_owner": "x0rb3l",
+    "repotime": "2023-10-24, 11:56:46",
+    "stargazers_count": 35,
+    "watchers_count": 35
+}
+{
+    "commits_count": 44,
+    "date_started": "2023-07-12",
+    "date_updated": "2023-10-22",
+    "description": "Blog App - Fullstack (MERN) - App where users can create, update and delete blogs. Users can set Title, Summary, Blog content and Cover image for the blog. Users will receive mails upon registration and creating a new blog. Unauthenticated Users can only read the blogs. New and updated blogs are shown at the top of the list.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Saket0197/fullstack-blog-app",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "fullstack-blog-app",
+    "repo_owner": "Saket0197",
+    "repotime": "2023-10-22, 18:35:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 101,
+    "date_started": "2023-06-06",
+    "date_updated": "2023-10-18",
+    "description": "Our objective is to update the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups",
+    "forks_count": 0,
+    "html_url": "https://github.com/IRB0T/IOC",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "IOC",
+    "repo_owner": "IRB0T",
+    "repotime": "2023-10-18, 10:37:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 83,
+    "date_started": "2022-04-05",
+    "date_updated": "2023-10-07",
+    "description": "Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!",
+    "forks_count": 223,
+    "html_url": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploit"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "Awesome-RCE-techniques",
+    "repo_owner": "p0dalirius",
+    "repotime": "2023-10-07, 10:54:45",
+    "stargazers_count": 1901,
+    "watchers_count": 1901
+}

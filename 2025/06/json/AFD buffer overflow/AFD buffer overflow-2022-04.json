@@ -250,3 +250,129 @@
     "stargazers_count": 356,
     "watchers_count": 356
 }
+{
+    "commits_count": 13,
+    "date_started": "2021-10-08",
+    "date_updated": "2022-04-24",
+    "description": "Zenith exploits a memory corruption vulnerability in the NetUSB driver to get remote-code execution on the TP-Link Archer C7 V5 router for Pwn2Own Austin 2021.",
+    "forks_count": 24,
+    "html_url": "https://github.com/0vercl0k/zenith",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "zenith",
+    "repo_owner": "0vercl0k",
+    "repotime": "2022-04-24, 17:57:39",
+    "stargazers_count": 129,
+    "watchers_count": 129
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-04-22",
+    "description": "app with the clean architectural guidelines, used dependency injection with Dagger-Hilt, SOLID principles, CSV parsing with OpenCSV, working with remote APIs using Retrofit, local caching with Room, custom drawing on a canvas using Compose and much more. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/rafaelnunesmoura/Stock-Market-App",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "Stock-Market-App",
+    "repo_owner": "rafaelnunesmoura",
+    "repotime": "2022-04-22, 23:02:02",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-04-21",
+    "date_updated": "2022-04-21",
+    "description": "SOLID app with the clean architectural guidelines. Use dependency injection with Dagger-Hilt, SOLID principles, CSV parsing with OpenCSV, working with remote APIs using Retrofit, local caching with Room, custom drawing on a canvas using Compose and much more.",
+    "forks_count": 0,
+    "html_url": "https://github.com/OrlanDroyd/StockMarket",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "StockMarket",
+    "repo_owner": "OrlanDroyd",
+    "repotime": "2022-04-21, 14:27:15",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-04-21",
+    "date_updated": "2022-04-21",
+    "description": "Code used in this post https://captmeelo.com/redteam/maldev/2022/04/21/kernelcallbacktable-injection.html",
+    "forks_count": 28,
+    "html_url": "https://github.com/capt-meelo/KernelCallbackTable-Injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "KernelCallbackTable-Injection",
+    "repo_owner": "capt-meelo",
+    "repotime": "2022-04-21, 19:26:09",
+    "stargazers_count": 127,
+    "watchers_count": 127
+}
+{
+    "commits_count": 28,
+    "date_started": "2022-04-18",
+    "date_updated": "2022-04-20",
+    "description": "** DISPUTED ** 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&amp;gt;Contents area. This is caused by misconfiguration of 7z.dll and a heap overflow. The command runs in a child process under the 7zFM.exe process, NOTE: multiple third parties have reported that no privilege escalation can occur.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sentinelblue/CVE-2022-29072",
+    "keywords": [
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2022-29072",
+    "repo_owner": "sentinelblue",
+    "repotime": "2022-04-20, 09:41:55",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-04-19",
+    "description": "Remote Code Execution Exploit in the RPC Library",
+    "forks_count": 3,
+    "html_url": "https://github.com/websecnl/CVE-2022-26809",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26809",
+    "repo_owner": "websecnl",
+    "repotime": "2022-04-19, 19:04:04",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 45,
+    "date_started": "2019-12-12",
+    "date_updated": "2022-04-14",
+    "description": "RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX.",
+    "forks_count": 86,
+    "html_url": "https://github.com/noperator/CVE-2019-18935",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-18935",
+    "repo_owner": "noperator",
+    "repotime": "2022-04-14, 14:23:38",
+    "stargazers_count": 356,
+    "watchers_count": 356
+}

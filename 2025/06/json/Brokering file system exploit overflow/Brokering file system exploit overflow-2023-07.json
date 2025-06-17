@@ -34,3 +34,21 @@
     "stargazers_count": 30,
     "watchers_count": 30
 }
+{
+    "commits_count": 5,
+    "date_started": "2023-06-22",
+    "date_updated": "2023-07-07",
+    "description": "A remote code execution exploit for Geometry Dash 2.1",
+    "forks_count": 0,
+    "html_url": "https://github.com/meltah/gd-rce",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "gd-rce",
+    "repo_owner": "meltah",
+    "repotime": "2023-07-07, 19:18:36",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}

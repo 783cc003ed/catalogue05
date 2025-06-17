@@ -555,3 +555,1117 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 2,
+    "date_started": "2022-08-30",
+    "date_updated": "2022-08-30",
+    "description": "This is a registration form made using html, css, javascript. In this form i have added various validation checks for the input fields. If someone tries to enter the wrong input in the form, the user gets the error message to correct the input given. After successful validation checks without any error, the user gets the alert 'your details have been successfully saved'.",
+    "forks_count": 0,
+    "html_url": "https://github.com/suyogghate/Project-based-test-Module-6",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "Project-based-test-Module-6",
+    "repo_owner": "suyogghate",
+    "repotime": "2022-08-30, 17:45:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2022-01-28",
+    "date_updated": "2022-08-29",
+    "description": "Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126.",
+    "forks_count": 7,
+    "html_url": "https://github.com/tremwil/ds3-nrssr-rce",
+    "keywords": [
+        "rce proof of concept",
+        "rce exploit"
+    ],
+    "language": "C++",
+    "repo_name": "ds3-nrssr-rce",
+    "repo_owner": "tremwil",
+    "repotime": "2022-08-29, 22:11:05",
+    "stargazers_count": 155,
+    "watchers_count": 155
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-08-29",
+    "date_updated": "2022-08-29",
+    "description": "A PoC for adding NtContinue to CFG allowed list in order to make Ekko work in a CFG protected process",
+    "forks_count": 19,
+    "html_url": "https://github.com/Crypt0s/Ekko_CFG_Bypass",
+    "keywords": [
+        "cfg bypass"
+    ],
+    "language": "C",
+    "repo_name": "Ekko_CFG_Bypass",
+    "repo_owner": "Crypt0s",
+    "repotime": "2022-08-29, 13:23:35",
+    "stargazers_count": 103,
+    "watchers_count": 103
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-08-29",
+    "date_updated": "2022-08-29",
+    "description": "Adobe Acrobat Reader UAF vulnerability Exploit code",
+    "forks_count": 0,
+    "html_url": "https://github.com/WonjunChun/CVE-2020-9715",
+    "keywords": [
+        "uaf exploit",
+        "uaf exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-9715",
+    "repo_owner": "WonjunChun",
+    "repotime": "2022-08-29, 14:33:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-08-21",
+    "date_updated": "2022-08-27",
+    "description": "A tool for spoofing user sessions in active directory",
+    "forks_count": 3,
+    "html_url": "https://github.com/LIKEROFJAZZ/Honey-Sessions",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "Python",
+    "repo_name": "Honey-Sessions",
+    "repo_owner": "LIKEROFJAZZ",
+    "repotime": "2022-08-27, 23:23:26",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-25",
+    "date_updated": "2022-08-27",
+    "description": "Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG",
+    "forks_count": 1,
+    "html_url": "https://github.com/LarityRay/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022",
+    "repo_owner": "LarityRay",
+    "repotime": "2022-08-27, 17:46:41",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-25",
+    "date_updated": "2022-08-27",
+    "description": "Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. Silent PDF Exploit silent-pdf-exploit-2018silent-pdf-exploit-2018 Silent PDF Exploit There are multiple Exploit PDF in Silent PDF Exploit, a package commonly used by web services to process Exploit PDF File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted PDF. The exploit for this vulnerability is being used in the wild.",
+    "forks_count": 2,
+    "html_url": "https://github.com/LarityRay/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve",
+    "repo_owner": "LarityRay",
+    "repotime": "2022-08-27, 17:45:16",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 54,
+    "date_started": "2018-03-16",
+    "date_updated": "2022-08-25",
+    "description": "Oracle WebLogic WLS-WSAT Remote Code Execution Exploit (CVE-2017-10271)",
+    "forks_count": 2,
+    "html_url": "https://github.com/R0B1NL1N/Oracle-WebLogic-WLS-WSAT",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Oracle-WebLogic-WLS-WSAT",
+    "repo_owner": "R0B1NL1N",
+    "repotime": "2022-08-25, 21:33:12",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-01-12",
+    "date_updated": "2022-08-25",
+    "description": "A simple dns server to exploit server side request forgery using DNS rebinding technique",
+    "forks_count": 0,
+    "html_url": "https://github.com/creativetoken/dns-rebinder",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Go",
+    "repo_name": "dns-rebinder",
+    "repo_owner": "creativetoken",
+    "repotime": "2022-08-25, 23:16:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-08-24",
+    "date_updated": "2022-08-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/nvchungkma/CVE-2021-40444-Microsoft-Office-Word-Remote-Code-Execution-",
+    "keywords": [
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-40444-Microsoft-Office-Word-Remote-Code-Execution-",
+    "repo_owner": "nvchungkma",
+    "repotime": "2022-08-24, 21:55:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-12-27",
+    "date_updated": "2022-08-23",
+    "description": "Log4Shell (CVE-2021-44228) is a zero-day vulnerability in Log4j",
+    "forks_count": 0,
+    "html_url": "https://github.com/mazhar-hassan/log4j-vulnerability",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "log4j-vulnerability",
+    "repo_owner": "mazhar-hassan",
+    "repotime": "2022-08-23, 18:47:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-23",
+    "date_updated": "2022-08-23",
+    "description": "Predict the match results for season 2015-2016 also finding the 10 most and least valuable players for the session 2014-2015",
+    "forks_count": 0,
+    "html_url": "https://github.com/ShivaShruthi/English_Premier_League_prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "English_Premier_League_prediction",
+    "repo_owner": "ShivaShruthi",
+    "repotime": "2022-08-23, 18:41:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-22",
+    "date_updated": "2022-08-22",
+    "description": "The Rescue_Refugees application aims to put refugees from the war in Ukraine in touch with each other by registering their personal information that is entered into the application's database, cross-referencing it with searches made on the side of family members and friends through this personal mapping.  The project was part of a Code Academy event called Hackathon, in which we must in groups of 5 people define, develop and present the concept of an application and its functionalities in an uninterrupted period of 28 hours.  The tools used in JavaBank were Spring, Hibernate, Mockito, Mysql, Junit,Mvc, Javascript, Restcontrollers, Java Script, HTML5, CSS3.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ThiagoBarlanza/Hackathon_Rescue_Refugees",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "Java",
+    "repo_name": "Hackathon_Rescue_Refugees",
+    "repo_owner": "ThiagoBarlanza",
+    "repotime": "2022-08-22, 17:32:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-08-21",
+    "date_updated": "2022-08-21",
+    "description": "GYM MANAGEMENT SYSTEM-Shark Fitness Center  In this project we have developed a consumer website for shark fitness center. FEATURES OF THE SYSTEM -The wbsite has 7 pages in total. -That allows members to login to the website,contact the GYM admin via the website,check their body mass index,get their membership plans,view their profile,get workout session schedule and diet plan. -Our system offers a gallery page consisting a walkthrough view of the GYM facilitis. -Our system also also allows new members to register themselves as a member of fitness center. -while registration peocess the users are expected to provide their details,such as FirstName,LastName,Verified Email ID,ContactNO,Address and their medical conditions. -In addition to the above the user is required to provide a password of their login.The system will ensure that the password selected by the users and the compliance with the password policy. -The application will also allow the registered users to update their members...",
+    "forks_count": 0,
+    "html_url": "https://github.com/FarookSajithAhamed/sharkfitness-project-source-code",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "sharkfitness-project-source-code",
+    "repo_owner": "FarookSajithAhamed",
+    "repotime": "2022-08-21, 09:56:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2019-05-03",
+    "date_updated": "2022-08-19",
+    "description": "A proof of concept for ReadyAPI 2.5.0/2.6.0 Remote Code Execution Vulnerability.",
+    "forks_count": 3,
+    "html_url": "https://github.com/gscamelo/CVE-2018-20580",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-20580",
+    "repo_owner": "gscamelo",
+    "repotime": "2022-08-19, 16:04:44",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-18",
+    "date_updated": "2022-08-18",
+    "description": "1.1 Purpose This project is a cloud-based program that requires internet-connected devices  and applications to work. This purpose behind this project is that it be able to  will help users or enterprises to manage a set of tasks, previously only made  possible by humans.  1.2 Product Features It is able to interpret human speech and respond via synthesized voices. Users  can ask their assistants questions, media playback via voice and manage other  basic tasks such as internet surfing, sending mails and answering basic  computational queries with verbal commands.  2. System Analysis  2.1 Hardware Requirements  Pentium IV or higher, (PIV-300GHz recommended)  4 GB RAM  1 Gb hard drive free space  Microphone required 2.2 Software Used Any system configuration can be used but we’ll suggest using Visual Studio as it  is what we have used.  VS Code Visual Studio Code, also commonly referred to as VS Code, is a source-code  editor made by Microsoft for Windows, Linux and mac OS. Features...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Meenakhi66/Athena-voice-assistant",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free analysis",
+        "use after free analysis",
+        "Microsoft use after free analysis",
+        "Microsoft use after free"
+    ],
+    "language": "Python",
+    "repo_name": "Athena-voice-assistant",
+    "repo_owner": "Meenakhi66",
+    "repotime": "2022-08-18, 21:36:18",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-16",
+    "date_updated": "2022-08-16",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Maximus-Meridius-SC/SOC-analyst-project",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": "Shell",
+    "repo_name": "SOC-analyst-project",
+    "repo_owner": "Maximus-Meridius-SC",
+    "repotime": "2022-08-16, 15:21:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-08-12",
+    "date_updated": "2022-08-16",
+    "description": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.g., having complex animations, clickable buttons, popup menus, etc.). There are also more advanced server side versions of JavaScript such as Node",
+    "forks_count": 0,
+    "html_url": "https://github.com/Iqrarijaz/Java-Script-Course-Content",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "Java-Script-Course-Content",
+    "repo_owner": "Iqrarijaz",
+    "repotime": "2022-08-16, 15:33:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 244,
+    "date_started": "2020-09-18",
+    "date_updated": "2022-08-15",
+    "description": "An automation tool that scans sub-domains, sub-domain takeover, then filters out XSS, SSTI, SSRF, and more injection point parameters and scans for some low hanging vulnerabilities automatically.",
+    "forks_count": 176,
+    "html_url": "https://github.com/R0X4R/Garud",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "Garud",
+    "repo_owner": "R0X4R",
+    "repotime": "2022-08-15, 17:41:14",
+    "stargazers_count": 789,
+    "watchers_count": 789
+}
+{
+    "commits_count": 17,
+    "date_started": "2019-07-02",
+    "date_updated": "2022-08-12",
+    "description": "Embedding a &amp;quot;UAC-Bypassing&amp;quot; function into your custom payload",
+    "forks_count": 34,
+    "html_url": "https://github.com/hackernese/SneakyEXE",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "SneakyEXE",
+    "repo_owner": "hackernese",
+    "repotime": "2022-08-12, 22:24:01",
+    "stargazers_count": 96,
+    "watchers_count": 96
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-11",
+    "date_updated": "2022-08-11",
+    "description": "ToGatherPrivacyPolicy Privacy Policy  SevenStandards built the ToGather app as a Free app. This SERVICE is provided by DaeSeong Kim at no cost and is intended for use as is.  This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.  If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.  The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at FrenchVoca unless otherwise defined in this Privacy Policy.  Information Collection and Use  For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information th...",
+    "forks_count": 0,
+    "html_url": "https://github.com/KimDaeSeong8721/ToGatherPrivacyPolicy",
+    "keywords": [
+        "use after free disclosure"
+    ],
+    "language": null,
+    "repo_name": "ToGatherPrivacyPolicy",
+    "repo_owner": "KimDaeSeong8721",
+    "repotime": "2022-08-11, 23:36:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-10",
+    "date_updated": "2022-08-09",
+    "description": "Native client coded in C/C++. Fully Unicode compatible. Downloader - Generate a downloader for any exe of your choice with options of execution from memory (RunPE) or disk. UAC Exploit for elevated privileges (Admin rights without UAC notice on Windows 10). Protect process. Impossible to kill process. Kill Windows Defender. Multi-mode, capable of handling both Tor and direct connected clients. On-Join/Connect tasks/Auto-commands Group view Desktop preview option in connection list/table. Thumbnail previews for either screen or webcam that you can move and place anywhere on your screen. Process manager Remote shell Connection manager Services manager Software manager Window manager Registry manager Firewall (IP blacklist from settings)",
+    "forks_count": 0,
+    "html_url": "https://github.com/PowerIsCoding/BitRat-Cracked-SRC-2022",
+    "keywords": [
+        "Windows remote code execution exploitation",
+        "Windows remote code execution",
+        "Windows remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "BitRat-Cracked-SRC-2022",
+    "repo_owner": "PowerIsCoding",
+    "repotime": "2022-08-09, 20:33:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-07",
+    "date_updated": "2022-08-07",
+    "description": "This is the lading page where the Unauthenticated user sign in",
+    "forks_count": 1,
+    "html_url": "https://github.com/kingsleyabonyi/Landing-page-unauthWiki",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "HTML",
+    "repo_name": "Landing-page-unauthWiki",
+    "repo_owner": "kingsleyabonyi",
+    "repotime": "2022-08-07, 11:02:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-30",
+    "date_updated": "2022-08-06",
+    "description": "A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/glowbase/CVE-2020-35476",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-35476",
+    "repo_owner": "glowbase",
+    "repotime": "2022-08-06, 23:47:46",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-05-19",
+    "date_updated": "2022-08-06",
+    "description": "Verifed Proof of Concept on CVE-2022-24086",
+    "forks_count": 3,
+    "html_url": "https://github.com/oK0mo/CVE-2022-24086-RCE-PoC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-24086-RCE-PoC",
+    "repo_owner": "oK0mo",
+    "repotime": "2022-08-06, 01:33:51",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-08-03",
+    "date_updated": "2022-08-06",
+    "description": "海康威视RCE漏洞 批量检测和利用工具",
+    "forks_count": 24,
+    "html_url": "https://github.com/Cuerz/CVE-2021-36260",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-36260",
+    "repo_owner": "Cuerz",
+    "repotime": "2022-08-06, 03:57:30",
+    "stargazers_count": 154,
+    "watchers_count": 154
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-08-06",
+    "date_updated": "2022-08-05",
+    "description": "UAFuzz: Binary-level Directed Fuzzing for Use-After-Free Vulnerabilities",
+    "forks_count": 56,
+    "html_url": "https://github.com/strongcourage/uafuzz",
+    "keywords": [
+        "use after free vulnerability",
+        "uaf vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "uafuzz",
+    "repo_owner": "strongcourage",
+    "repotime": "2022-08-05, 09:06:35",
+    "stargazers_count": 346,
+    "watchers_count": 346
+}
+{
+    "commits_count": 43,
+    "date_started": "2022-05-14",
+    "date_updated": "2022-08-04",
+    "description": "Zero-day exploit and malware protection",
+    "forks_count": 0,
+    "html_url": "https://github.com/R46narok/Apollo",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "C#",
+    "repo_name": "Apollo",
+    "repo_owner": "R46narok",
+    "repotime": "2022-08-04, 17:39:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-07-30",
+    "date_updated": "2022-08-04",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bryanmillan/Final-Project",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Final-Project",
+    "repo_owner": "Bryanmillan",
+    "repotime": "2022-08-04, 00:42:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-02",
+    "date_updated": "2022-08-02",
+    "description": "Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. Silent PDF Exploit silent-pdf-exploit-2018silent-pdf-exploit-2018 Silent PDF Exploit There are multiple Exploit PDF in Silent PDF Exploit, a package commonly used by web services to process Exploit PDF File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted PDF. The exploit for this vulnerability is being used in the wild. Why Are You Disclosing A Exploit PDF We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.",
+    "forks_count": 2,
+    "html_url": "https://github.com/lmdelm/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve",
+    "repo_owner": "lmdelm",
+    "repotime": "2022-08-02, 22:51:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-01",
+    "date_updated": "2022-08-01",
+    "description": "t.me/codeboss503",
+    "forks_count": 1,
+    "html_url": "https://github.com/4L4K4Z4/ApacheAPISIX-RCE-Unauthenticated",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "ApacheAPISIX-RCE-Unauthenticated",
+    "repo_owner": "4L4K4Z4",
+    "repotime": "2022-08-01, 16:44:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-01",
+    "date_updated": "2022-08-01",
+    "description": "t.me/codeboss503",
+    "forks_count": 0,
+    "html_url": "https://github.com/4L4K4Z4/Core-BIGIP-RCE-Unauthenticated",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Core-BIGIP-RCE-Unauthenticated",
+    "repo_owner": "4L4K4Z4",
+    "repotime": "2022-08-01, 16:36:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-30",
+    "date_updated": "2022-08-30",
+    "description": "This is a registration form made using html, css, javascript. In this form i have added various validation checks for the input fields. If someone tries to enter the wrong input in the form, the user gets the error message to correct the input given. After successful validation checks without any error, the user gets the alert 'your details have been successfully saved'.",
+    "forks_count": 0,
+    "html_url": "https://github.com/suyogghate/Project-based-test-Module-6",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "Project-based-test-Module-6",
+    "repo_owner": "suyogghate",
+    "repotime": "2022-08-30, 17:45:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2022-01-28",
+    "date_updated": "2022-08-29",
+    "description": "Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126.",
+    "forks_count": 7,
+    "html_url": "https://github.com/tremwil/ds3-nrssr-rce",
+    "keywords": [
+        "rce proof of concept",
+        "rce exploit"
+    ],
+    "language": "C++",
+    "repo_name": "ds3-nrssr-rce",
+    "repo_owner": "tremwil",
+    "repotime": "2022-08-29, 22:11:05",
+    "stargazers_count": 155,
+    "watchers_count": 155
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-08-29",
+    "date_updated": "2022-08-29",
+    "description": "A PoC for adding NtContinue to CFG allowed list in order to make Ekko work in a CFG protected process",
+    "forks_count": 19,
+    "html_url": "https://github.com/Crypt0s/Ekko_CFG_Bypass",
+    "keywords": [
+        "cfg bypass"
+    ],
+    "language": "C",
+    "repo_name": "Ekko_CFG_Bypass",
+    "repo_owner": "Crypt0s",
+    "repotime": "2022-08-29, 13:23:35",
+    "stargazers_count": 103,
+    "watchers_count": 103
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-08-29",
+    "date_updated": "2022-08-29",
+    "description": "Adobe Acrobat Reader UAF vulnerability Exploit code",
+    "forks_count": 0,
+    "html_url": "https://github.com/WonjunChun/CVE-2020-9715",
+    "keywords": [
+        "uaf exploit",
+        "uaf exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-9715",
+    "repo_owner": "WonjunChun",
+    "repotime": "2022-08-29, 14:33:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-08-21",
+    "date_updated": "2022-08-27",
+    "description": "A tool for spoofing user sessions in active directory",
+    "forks_count": 3,
+    "html_url": "https://github.com/LIKEROFJAZZ/Honey-Sessions",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "Python",
+    "repo_name": "Honey-Sessions",
+    "repo_owner": "LIKEROFJAZZ",
+    "repotime": "2022-08-27, 23:23:26",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-25",
+    "date_updated": "2022-08-27",
+    "description": "Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG",
+    "forks_count": 1,
+    "html_url": "https://github.com/LarityRay/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022",
+    "repo_owner": "LarityRay",
+    "repotime": "2022-08-27, 17:46:41",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-25",
+    "date_updated": "2022-08-27",
+    "description": "Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. Silent PDF Exploit silent-pdf-exploit-2018silent-pdf-exploit-2018 Silent PDF Exploit There are multiple Exploit PDF in Silent PDF Exploit, a package commonly used by web services to process Exploit PDF File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted PDF. The exploit for this vulnerability is being used in the wild.",
+    "forks_count": 2,
+    "html_url": "https://github.com/LarityRay/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve",
+    "repo_owner": "LarityRay",
+    "repotime": "2022-08-27, 17:45:16",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 54,
+    "date_started": "2018-03-16",
+    "date_updated": "2022-08-25",
+    "description": "Oracle WebLogic WLS-WSAT Remote Code Execution Exploit (CVE-2017-10271)",
+    "forks_count": 2,
+    "html_url": "https://github.com/R0B1NL1N/Oracle-WebLogic-WLS-WSAT",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Oracle-WebLogic-WLS-WSAT",
+    "repo_owner": "R0B1NL1N",
+    "repotime": "2022-08-25, 21:33:12",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-01-12",
+    "date_updated": "2022-08-25",
+    "description": "A simple dns server to exploit server side request forgery using DNS rebinding technique",
+    "forks_count": 0,
+    "html_url": "https://github.com/creativetoken/dns-rebinder",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Go",
+    "repo_name": "dns-rebinder",
+    "repo_owner": "creativetoken",
+    "repotime": "2022-08-25, 23:16:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-08-24",
+    "date_updated": "2022-08-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/nvchungkma/CVE-2021-40444-Microsoft-Office-Word-Remote-Code-Execution-",
+    "keywords": [
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-40444-Microsoft-Office-Word-Remote-Code-Execution-",
+    "repo_owner": "nvchungkma",
+    "repotime": "2022-08-24, 21:55:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-12-27",
+    "date_updated": "2022-08-23",
+    "description": "Log4Shell (CVE-2021-44228) is a zero-day vulnerability in Log4j",
+    "forks_count": 0,
+    "html_url": "https://github.com/mazhar-hassan/log4j-vulnerability",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "log4j-vulnerability",
+    "repo_owner": "mazhar-hassan",
+    "repotime": "2022-08-23, 18:47:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-23",
+    "date_updated": "2022-08-23",
+    "description": "Predict the match results for season 2015-2016 also finding the 10 most and least valuable players for the session 2014-2015",
+    "forks_count": 0,
+    "html_url": "https://github.com/ShivaShruthi/English_Premier_League_prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "English_Premier_League_prediction",
+    "repo_owner": "ShivaShruthi",
+    "repotime": "2022-08-23, 18:41:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-22",
+    "date_updated": "2022-08-22",
+    "description": "The Rescue_Refugees application aims to put refugees from the war in Ukraine in touch with each other by registering their personal information that is entered into the application's database, cross-referencing it with searches made on the side of family members and friends through this personal mapping.  The project was part of a Code Academy event called Hackathon, in which we must in groups of 5 people define, develop and present the concept of an application and its functionalities in an uninterrupted period of 28 hours.  The tools used in JavaBank were Spring, Hibernate, Mockito, Mysql, Junit,Mvc, Javascript, Restcontrollers, Java Script, HTML5, CSS3.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ThiagoBarlanza/Hackathon_Rescue_Refugees",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "Java",
+    "repo_name": "Hackathon_Rescue_Refugees",
+    "repo_owner": "ThiagoBarlanza",
+    "repotime": "2022-08-22, 17:32:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-08-21",
+    "date_updated": "2022-08-21",
+    "description": "GYM MANAGEMENT SYSTEM-Shark Fitness Center  In this project we have developed a consumer website for shark fitness center. FEATURES OF THE SYSTEM -The wbsite has 7 pages in total. -That allows members to login to the website,contact the GYM admin via the website,check their body mass index,get their membership plans,view their profile,get workout session schedule and diet plan. -Our system offers a gallery page consisting a walkthrough view of the GYM facilitis. -Our system also also allows new members to register themselves as a member of fitness center. -while registration peocess the users are expected to provide their details,such as FirstName,LastName,Verified Email ID,ContactNO,Address and their medical conditions. -In addition to the above the user is required to provide a password of their login.The system will ensure that the password selected by the users and the compliance with the password policy. -The application will also allow the registered users to update their members...",
+    "forks_count": 0,
+    "html_url": "https://github.com/FarookSajithAhamed/sharkfitness-project-source-code",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "sharkfitness-project-source-code",
+    "repo_owner": "FarookSajithAhamed",
+    "repotime": "2022-08-21, 09:56:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2019-05-03",
+    "date_updated": "2022-08-19",
+    "description": "A proof of concept for ReadyAPI 2.5.0/2.6.0 Remote Code Execution Vulnerability.",
+    "forks_count": 3,
+    "html_url": "https://github.com/gscamelo/CVE-2018-20580",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-20580",
+    "repo_owner": "gscamelo",
+    "repotime": "2022-08-19, 16:04:44",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-18",
+    "date_updated": "2022-08-18",
+    "description": "1.1 Purpose This project is a cloud-based program that requires internet-connected devices  and applications to work. This purpose behind this project is that it be able to  will help users or enterprises to manage a set of tasks, previously only made  possible by humans.  1.2 Product Features It is able to interpret human speech and respond via synthesized voices. Users  can ask their assistants questions, media playback via voice and manage other  basic tasks such as internet surfing, sending mails and answering basic  computational queries with verbal commands.  2. System Analysis  2.1 Hardware Requirements  Pentium IV or higher, (PIV-300GHz recommended)  4 GB RAM  1 Gb hard drive free space  Microphone required 2.2 Software Used Any system configuration can be used but we’ll suggest using Visual Studio as it  is what we have used.  VS Code Visual Studio Code, also commonly referred to as VS Code, is a source-code  editor made by Microsoft for Windows, Linux and mac OS. Features...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Meenakhi66/Athena-voice-assistant",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free analysis",
+        "use after free analysis",
+        "Microsoft use after free analysis",
+        "Microsoft use after free"
+    ],
+    "language": "Python",
+    "repo_name": "Athena-voice-assistant",
+    "repo_owner": "Meenakhi66",
+    "repotime": "2022-08-18, 21:36:18",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-16",
+    "date_updated": "2022-08-16",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Maximus-Meridius-SC/SOC-analyst-project",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": "Shell",
+    "repo_name": "SOC-analyst-project",
+    "repo_owner": "Maximus-Meridius-SC",
+    "repotime": "2022-08-16, 15:21:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-08-12",
+    "date_updated": "2022-08-16",
+    "description": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.g., having complex animations, clickable buttons, popup menus, etc.). There are also more advanced server side versions of JavaScript such as Node",
+    "forks_count": 0,
+    "html_url": "https://github.com/Iqrarijaz/Java-Script-Course-Content",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "Java-Script-Course-Content",
+    "repo_owner": "Iqrarijaz",
+    "repotime": "2022-08-16, 15:33:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 244,
+    "date_started": "2020-09-18",
+    "date_updated": "2022-08-15",
+    "description": "An automation tool that scans sub-domains, sub-domain takeover, then filters out XSS, SSTI, SSRF, and more injection point parameters and scans for some low hanging vulnerabilities automatically.",
+    "forks_count": 176,
+    "html_url": "https://github.com/R0X4R/Garud",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "Garud",
+    "repo_owner": "R0X4R",
+    "repotime": "2022-08-15, 17:41:14",
+    "stargazers_count": 791,
+    "watchers_count": 791
+}
+{
+    "commits_count": 17,
+    "date_started": "2019-07-02",
+    "date_updated": "2022-08-12",
+    "description": "Embedding a &amp;quot;UAC-Bypassing&amp;quot; function into your custom payload",
+    "forks_count": 28,
+    "html_url": "https://github.com/hackernese/SneakyEXE",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "SneakyEXE",
+    "repo_owner": "hackernese",
+    "repotime": "2022-08-12, 22:24:01",
+    "stargazers_count": 97,
+    "watchers_count": 97
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-11",
+    "date_updated": "2022-08-11",
+    "description": "ToGatherPrivacyPolicy Privacy Policy  SevenStandards built the ToGather app as a Free app. This SERVICE is provided by DaeSeong Kim at no cost and is intended for use as is.  This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.  If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.  The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at FrenchVoca unless otherwise defined in this Privacy Policy.  Information Collection and Use  For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information th...",
+    "forks_count": 0,
+    "html_url": "https://github.com/KimDaeSeong8721/ToGatherPrivacyPolicy",
+    "keywords": [
+        "use after free disclosure"
+    ],
+    "language": null,
+    "repo_name": "ToGatherPrivacyPolicy",
+    "repo_owner": "KimDaeSeong8721",
+    "repotime": "2022-08-11, 23:36:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-10",
+    "date_updated": "2022-08-09",
+    "description": "Native client coded in C/C++. Fully Unicode compatible. Downloader - Generate a downloader for any exe of your choice with options of execution from memory (RunPE) or disk. UAC Exploit for elevated privileges (Admin rights without UAC notice on Windows 10). Protect process. Impossible to kill process. Kill Windows Defender. Multi-mode, capable of handling both Tor and direct connected clients. On-Join/Connect tasks/Auto-commands Group view Desktop preview option in connection list/table. Thumbnail previews for either screen or webcam that you can move and place anywhere on your screen. Process manager Remote shell Connection manager Services manager Software manager Window manager Registry manager Firewall (IP blacklist from settings)",
+    "forks_count": 0,
+    "html_url": "https://github.com/PowerIsCoding/BitRat-Cracked-SRC-2022",
+    "keywords": [
+        "Windows remote code execution exploitation",
+        "Windows remote code execution",
+        "Windows remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "BitRat-Cracked-SRC-2022",
+    "repo_owner": "PowerIsCoding",
+    "repotime": "2022-08-09, 20:33:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-07",
+    "date_updated": "2022-08-07",
+    "description": "This is the lading page where the Unauthenticated user sign in",
+    "forks_count": 1,
+    "html_url": "https://github.com/kingsleyabonyi/Landing-page-unauthWiki",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "HTML",
+    "repo_name": "Landing-page-unauthWiki",
+    "repo_owner": "kingsleyabonyi",
+    "repotime": "2022-08-07, 11:02:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-30",
+    "date_updated": "2022-08-06",
+    "description": "A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/glowbase/CVE-2020-35476",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-35476",
+    "repo_owner": "glowbase",
+    "repotime": "2022-08-06, 23:47:46",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-05-19",
+    "date_updated": "2022-08-06",
+    "description": "Verifed Proof of Concept on CVE-2022-24086",
+    "forks_count": 3,
+    "html_url": "https://github.com/oK0mo/CVE-2022-24086-RCE-PoC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-24086-RCE-PoC",
+    "repo_owner": "oK0mo",
+    "repotime": "2022-08-06, 01:33:51",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-08-03",
+    "date_updated": "2022-08-06",
+    "description": "海康威视RCE漏洞 批量检测和利用工具",
+    "forks_count": 24,
+    "html_url": "https://github.com/Cuerz/CVE-2021-36260",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-36260",
+    "repo_owner": "Cuerz",
+    "repotime": "2022-08-06, 03:57:30",
+    "stargazers_count": 154,
+    "watchers_count": 154
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-08-06",
+    "date_updated": "2022-08-05",
+    "description": "UAFuzz: Binary-level Directed Fuzzing for Use-After-Free Vulnerabilities",
+    "forks_count": 56,
+    "html_url": "https://github.com/strongcourage/uafuzz",
+    "keywords": [
+        "use after free vulnerability",
+        "uaf vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "uafuzz",
+    "repo_owner": "strongcourage",
+    "repotime": "2022-08-05, 09:06:35",
+    "stargazers_count": 346,
+    "watchers_count": 346
+}
+{
+    "commits_count": 43,
+    "date_started": "2022-05-14",
+    "date_updated": "2022-08-04",
+    "description": "Zero-day exploit and malware protection",
+    "forks_count": 0,
+    "html_url": "https://github.com/R46narok/Apollo",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "C#",
+    "repo_name": "Apollo",
+    "repo_owner": "R46narok",
+    "repotime": "2022-08-04, 17:39:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-07-30",
+    "date_updated": "2022-08-04",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bryanmillan/Final-Project",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Final-Project",
+    "repo_owner": "Bryanmillan",
+    "repotime": "2022-08-04, 00:42:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-02",
+    "date_updated": "2022-08-02",
+    "description": "Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. Silent PDF Exploit silent-pdf-exploit-2018silent-pdf-exploit-2018 Silent PDF Exploit There are multiple Exploit PDF in Silent PDF Exploit, a package commonly used by web services to process Exploit PDF File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted PDF. The exploit for this vulnerability is being used in the wild. Why Are You Disclosing A Exploit PDF We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.",
+    "forks_count": 2,
+    "html_url": "https://github.com/lmdelm/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve",
+    "repo_owner": "lmdelm",
+    "repotime": "2022-08-02, 22:51:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-01",
+    "date_updated": "2022-08-01",
+    "description": "t.me/codeboss503",
+    "forks_count": 1,
+    "html_url": "https://github.com/4L4K4Z4/ApacheAPISIX-RCE-Unauthenticated",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "ApacheAPISIX-RCE-Unauthenticated",
+    "repo_owner": "4L4K4Z4",
+    "repotime": "2022-08-01, 16:44:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-01",
+    "date_updated": "2022-08-01",
+    "description": "t.me/codeboss503",
+    "forks_count": 0,
+    "html_url": "https://github.com/4L4K4Z4/Core-BIGIP-RCE-Unauthenticated",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Core-BIGIP-RCE-Unauthenticated",
+    "repo_owner": "4L4K4Z4",
+    "repotime": "2022-08-01, 16:36:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

@@ -85,3 +85,177 @@
     "stargazers_count": 36,
     "watchers_count": 36
 }
+{
+    "commits_count": 6,
+    "date_started": "2019-02-24",
+    "date_updated": "2019-02-25",
+    "description": "🐱‍💻 Poc of CVE-2019-7238 - Nexus Repository Manager 3 Remote Code Execution 🐱‍💻",
+    "forks_count": 55,
+    "html_url": "https://github.com/mpgn/CVE-2019-7238",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-7238",
+    "repo_owner": "mpgn",
+    "repotime": "2019-02-25, 08:37:06",
+    "stargazers_count": 151,
+    "watchers_count": 151
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-02-21",
+    "date_updated": "2019-02-21",
+    "description": "contrived buffer overflow vulnerability - use ROP to leak address of libc",
+    "forks_count": 0,
+    "html_url": "https://github.com/arca-lignea-infosec/buffer-overflow-exploit",
+    "keywords": [
+        "address leak vulnerability",
+        "address leak exploit"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "buffer-overflow-exploit",
+    "repo_owner": "arca-lignea-infosec",
+    "repotime": "2019-02-21, 16:04:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2202,
+    "date_started": "2019-02-13",
+    "date_updated": "2019-02-13",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/webmontagks/Local-File-Inclusion-Remote-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Local-File-Inclusion-Remote-File-Inclusion",
+    "repo_owner": "webmontagks",
+    "repotime": "2019-02-13, 11:33:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 150,
+    "date_started": "2017-12-13",
+    "date_updated": "2019-02-07",
+    "description": "Red-team tool to hook libc read syscall with a buffer overflow vulnerability.",
+    "forks_count": 6,
+    "html_url": "https://github.com/PLEXSolutions/readhook",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "C",
+    "repo_name": "readhook",
+    "repo_owner": "PLEXSolutions",
+    "repotime": "2019-02-07, 11:51:18",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-01-15",
+    "date_updated": "2019-02-03",
+    "description": "Training for SQL injections",
+    "forks_count": 9,
+    "html_url": "https://github.com/lucas-santoni/sqli-platform",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sqli-platform",
+    "repo_owner": "lucas-santoni",
+    "repotime": "2019-02-03, 15:18:40",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-02-24",
+    "date_updated": "2019-02-25",
+    "description": "🐱‍💻 Poc of CVE-2019-7238 - Nexus Repository Manager 3 Remote Code Execution 🐱‍💻",
+    "forks_count": 55,
+    "html_url": "https://github.com/mpgn/CVE-2019-7238",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-7238",
+    "repo_owner": "mpgn",
+    "repotime": "2019-02-25, 08:37:06",
+    "stargazers_count": 151,
+    "watchers_count": 151
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-02-21",
+    "date_updated": "2019-02-21",
+    "description": "contrived buffer overflow vulnerability - use ROP to leak address of libc",
+    "forks_count": 0,
+    "html_url": "https://github.com/arca-lignea-infosec/buffer-overflow-exploit",
+    "keywords": [
+        "address leak vulnerability",
+        "address leak exploit"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "buffer-overflow-exploit",
+    "repo_owner": "arca-lignea-infosec",
+    "repotime": "2019-02-21, 16:04:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2202,
+    "date_started": "2019-02-13",
+    "date_updated": "2019-02-13",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/webmontagks/Local-File-Inclusion-Remote-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Local-File-Inclusion-Remote-File-Inclusion",
+    "repo_owner": "webmontagks",
+    "repotime": "2019-02-13, 11:33:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 150,
+    "date_started": "2017-12-13",
+    "date_updated": "2019-02-07",
+    "description": "Red-team tool to hook libc read syscall with a buffer overflow vulnerability.",
+    "forks_count": 6,
+    "html_url": "https://github.com/PLEXSolutions/readhook",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "C",
+    "repo_name": "readhook",
+    "repo_owner": "PLEXSolutions",
+    "repotime": "2019-02-07, 11:51:18",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-01-15",
+    "date_updated": "2019-02-03",
+    "description": "Training for SQL injections",
+    "forks_count": 9,
+    "html_url": "https://github.com/lucas-santoni/sqli-platform",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sqli-platform",
+    "repo_owner": "lucas-santoni",
+    "repotime": "2019-02-03, 15:18:40",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}

@@ -100,3 +100,54 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 5,
+    "date_started": "2016-10-29",
+    "date_updated": "2016-10-28",
+    "description": "Brand New Code Injection for Windows https://breakingmalware.com/injection-techniques/atombombing-brand-new-code-injection-for-windows ",
+    "forks_count": 10,
+    "html_url": "https://github.com/gcoinman/atom-bombing-",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "atom-bombing-",
+    "repo_owner": "gcoinman",
+    "repotime": "2016-10-28, 20:24:05",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 5,
+    "date_started": "2016-10-27",
+    "date_updated": "2016-10-28",
+    "description": "Brand New Code Injection for Windows",
+    "forks_count": 268,
+    "html_url": "https://github.com/BreakingMalwareResearch/atom-bombing",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "atom-bombing",
+    "repo_owner": "BreakingMalwareResearch",
+    "repotime": "2016-10-28, 20:24:05",
+    "stargazers_count": 731,
+    "watchers_count": 731
+}
+{
+    "commits_count": 11,
+    "date_started": "2016-09-29",
+    "date_updated": "2016-10-09",
+    "description": "Basic login template using flask with a hard-coded password.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Karol-Regula/login",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "login",
+    "repo_owner": "Karol-Regula",
+    "repotime": "2016-10-09, 11:00:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

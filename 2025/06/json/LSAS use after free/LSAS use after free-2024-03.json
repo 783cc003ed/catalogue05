@@ -764,3 +764,386 @@
     "stargazers_count": 5274,
     "watchers_count": 5274
 }
+{
+    "commits_count": 43,
+    "date_started": "2021-05-28",
+    "date_updated": "2024-03-30",
+    "description": "WebStor efficiently enumerates all websites across your organization’s networks and those in your DNS records - including cloud-hosted servers via zone transfer data - stores their responses, and lets you query for known web technologies, including those with zero-day vulnerabilities.",
+    "forks_count": 19,
+    "html_url": "https://github.com/RossGeerlings/webstor",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "webstor",
+    "repo_owner": "RossGeerlings",
+    "repotime": "2024-03-30, 22:11:09",
+    "stargazers_count": 158,
+    "watchers_count": 158
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-03-29",
+    "date_updated": "2024-03-29",
+    "description": "LPE exploit for CVE-2024-0582 (io_uring)",
+    "forks_count": 21,
+    "html_url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "io_uring_LPE-CVE-2024-0582",
+    "repo_owner": "ysanatomic",
+    "repotime": "2024-03-29, 18:05:06",
+    "stargazers_count": 100,
+    "watchers_count": 100
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-03-24",
+    "date_updated": "2024-03-28",
+    "description": "A comprehensive collection of detailed walkthroughs for Vulnhub machines, guiding users through initial enumeration, exploitation, and privilege escalation. Contributions welcome!",
+    "forks_count": 0,
+    "html_url": "https://github.com/rbentil/vulnhub-walkthroughs",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "vulnhub-walkthroughs",
+    "repo_owner": "rbentil",
+    "repotime": "2024-03-28, 16:19:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-03-27",
+    "date_updated": "2024-03-27",
+    "description": "Create a php web having path traversal vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/baprang186/PathTraversal",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "PathTraversal",
+    "repo_owner": "baprang186",
+    "repotime": "2024-03-27, 18:43:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-03-25",
+    "date_updated": "2024-03-25",
+    "description": "In market, there are a lot of tools for detecting the memory leaks. Here I made a program which has to include in your source file and it will tell the desired informations to find where memory leaks happen. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/RohitSuresh28/Memory-Leak-Detection-tools-Comparative-Analysis-code-implementation",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C",
+    "repo_name": "Memory-Leak-Detection-tools-Comparative-Analysis-code-implementation",
+    "repo_owner": "RohitSuresh28",
+    "repotime": "2024-03-25, 14:25:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-03-25",
+    "date_updated": "2024-03-25",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Pramath1234/MemoryLeakDetection_AComparitiveAnalysis",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C",
+    "repo_name": "MemoryLeakDetection_AComparitiveAnalysis",
+    "repo_owner": "Pramath1234",
+    "repotime": "2024-03-25, 14:19:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 63,
+    "date_started": "2022-07-21",
+    "date_updated": "2024-03-25",
+    "description": "LPE vulnerability in macOS",
+    "forks_count": 0,
+    "html_url": "https://github.com/skr0x1c0/portal",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "portal",
+    "repo_owner": "skr0x1c0",
+    "repotime": "2024-03-25, 12:29:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-03-24",
+    "date_updated": "2024-03-24",
+    "description": "Proof of Concept script to exploit the authenticated SSTI+RCE in Grav CMS (CVE-2024-28116)",
+    "forks_count": 2,
+    "html_url": "https://github.com/akabe1/Graver",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Graver",
+    "repo_owner": "akabe1",
+    "repotime": "2024-03-24, 15:49:01",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-03-23",
+    "date_updated": "2024-03-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/jmpr4xp4xm4n/Linux-Kernel-skbuff-PoC-UAF-0day-Crash",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "Linux-Kernel-skbuff-PoC-UAF-0day-Crash",
+    "repo_owner": "jmpr4xp4xm4n",
+    "repotime": "2024-03-23, 18:38:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-03-23",
+    "date_updated": "2024-03-23",
+    "description": "I enhanced my cybersecurity skills by creating a reverse shell backdoor using ChatGPT. This involved bypassing security layers, generating PowerShell code, and setting up netcat server for remote command execution. I also learned importance of responsible disclosure by reporting this issue to OpenAI, which contributed to my professional growth.",
+    "forks_count": 0,
+    "html_url": "https://github.com/adityadipakpatel/ChatGPT-JailBreak-Guide",
+    "keywords": [
+        "remote code execution disclosure"
+    ],
+    "language": "Batchfile",
+    "repo_name": "ChatGPT-JailBreak-Guide",
+    "repo_owner": "adityadipakpatel",
+    "repotime": "2024-03-23, 02:42:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 40,
+    "date_started": "2020-11-13",
+    "date_updated": "2024-03-22",
+    "description": "Automating XSS using Bash",
+    "forks_count": 64,
+    "html_url": "https://github.com/theinfosecguy/QuickXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Shell",
+    "repo_name": "QuickXSS",
+    "repo_owner": "theinfosecguy",
+    "repotime": "2024-03-22, 19:51:16",
+    "stargazers_count": 355,
+    "watchers_count": 355
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-03-21",
+    "date_updated": "2024-03-21",
+    "description": "This Mini Flask web application is designed as a Capture The Flag (CTF) challenge focusing on Directory Traversal vulnerability. It is a part of the 10 CTF challenges based on Directory Traversal vulnerability series created by the authors.",
+    "forks_count": 0,
+    "html_url": "https://github.com/zarkobabic/Mini-Capture-The-Flag-Challenge---Directory-Traversal-Vulnerability---Cybersecurity",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "Mini-Capture-The-Flag-Challenge---Directory-Traversal-Vulnerability---Cybersecurity",
+    "repo_owner": "zarkobabic",
+    "repotime": "2024-03-21, 03:56:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 33,
+    "date_started": "2024-02-21",
+    "date_updated": "2024-03-20",
+    "description": "Code injection on Android without ptrace",
+    "forks_count": 56,
+    "html_url": "https://github.com/erfur/linjector-rs",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Rust",
+    "repo_name": "linjector-rs",
+    "repo_owner": "erfur",
+    "repotime": "2024-03-20, 11:57:45",
+    "stargazers_count": 245,
+    "watchers_count": 245
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-07-19",
+    "date_updated": "2024-03-19",
+    "description": "Tools for exploiting generic directory traversals, and specific to Avid as well",
+    "forks_count": 0,
+    "html_url": "https://github.com/SanderShark/avid_vulnerability",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "avid_vulnerability",
+    "repo_owner": "SanderShark",
+    "repotime": "2024-03-19, 17:46:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 13,
+    "date_started": "2024-03-15",
+    "date_updated": "2024-03-16",
+    "description": "A PoC exploit for CVE-2023-43208 - Mirth Connect Remote Code Execution (RCE)",
+    "forks_count": 11,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution exploitation",
+        "rce exploitation",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-43208-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-03-16, 17:22:26",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-01-17",
+    "date_updated": "2024-03-16",
+    "description": "Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers",
+    "forks_count": 14,
+    "html_url": "https://github.com/p0dalirius/CVE-2022-21907-http.sys",
+    "keywords": [
+        "rce proof of concept",
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-21907-http.sys",
+    "repo_owner": "p0dalirius",
+    "repotime": "2024-03-16, 09:26:04",
+    "stargazers_count": 80,
+    "watchers_count": 80
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-02-01",
+    "date_updated": "2024-03-16",
+    "description": "A simple python script to dump remote files through a local file read or local file inclusion web vulnerability.",
+    "forks_count": 14,
+    "html_url": "https://github.com/p0dalirius/LFIDump",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "LFIDump",
+    "repo_owner": "p0dalirius",
+    "repotime": "2024-03-16, 09:21:01",
+    "stargazers_count": 73,
+    "watchers_count": 73
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-02-08",
+    "date_updated": "2024-03-15",
+    "description": "This repository is a simple example of a XSS vulnerability on a PHP website.  This try to represent a tipical contact form on a website, where the user can send a message to the website administrator. The administrator have a page where he can read all the messages sent by the users.",
+    "forks_count": 0,
+    "html_url": "https://github.com/asaura08/XSS-session-hijacking-lab",
+    "keywords": [
+        "session hijacking",
+        "session vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "XSS-session-hijacking-lab",
+    "repo_owner": "asaura08",
+    "repotime": "2024-03-15, 16:17:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 62,
+    "date_started": "2017-05-10",
+    "date_updated": "2024-03-13",
+    "description": "This project born from the need from people to have a way of communication between municipalities and communities.  Some municipalities, have their platforms, but they are complex to validate the veracity of complaints.  Denounced, it was born with the purpose of offering a free platform to these municipalities.  Denounced consists of three main modules developed with Microsoft technologies, using the .Net Framework and Xamarin for its development:  1. Back End Web Project:  Module of administration of the complaints, by the employees of the town councils.  In this tool, the employees of the city council receive, validate, report and close the complaints, after being served.  2. Web Portal Client:  It consists of a web project, so that the community make their complaints, in the same, the users of the service create a profile, must specify when making their complaint, evidence to support this.  Through the portal, they can see the complaints of other community members, follow it, give ...",
+    "forks_count": 193,
+    "html_url": "https://github.com/sgermosen/Denunciado",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Denunciado",
+    "repo_owner": "sgermosen",
+    "repotime": "2024-03-13, 18:51:31",
+    "stargazers_count": 246,
+    "watchers_count": 246
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-03-06",
+    "date_updated": "2024-03-11",
+    "description": "CVE-2024-27198 &amp;amp; CVE-2024-27199 Authentication Bypass --&amp;gt; RCE in JetBrains TeamCity Pre-2023.11.4",
+    "forks_count": 34,
+    "html_url": "https://github.com/W01fh4cker/CVE-2024-27198-RCE",
+    "keywords": [
+        "rce exploit",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-27198-RCE",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2024-03-11, 15:57:36",
+    "stargazers_count": 151,
+    "watchers_count": 151
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-02-23",
+    "date_updated": "2024-03-07",
+    "description": "Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). Exploit.",
+    "forks_count": 2,
+    "html_url": "https://github.com/sharpicx/CVE-2024-1651-PoC",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-1651-PoC",
+    "repo_owner": "sharpicx",
+    "repotime": "2024-03-07, 17:23:51",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 607,
+    "date_started": "2012-09-18",
+    "date_updated": "2024-03-03",
+    "description": "Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist",
+    "forks_count": 629,
+    "html_url": "https://github.com/leizongmin/js-xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "js-xss",
+    "repo_owner": "leizongmin",
+    "repotime": "2024-03-03, 10:31:06",
+    "stargazers_count": 5274,
+    "watchers_count": 5274
+}

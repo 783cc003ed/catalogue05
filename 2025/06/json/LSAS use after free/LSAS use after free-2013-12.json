@@ -70,3 +70,39 @@
     "stargazers_count": 7,
     "watchers_count": 7
 }
+{
+    "commits_count": 134,
+    "date_started": "2010-10-10",
+    "date_updated": "2013-12-29",
+    "description": "A Firefox extension that demonstrates HTTP session hijacking attacks.",
+    "forks_count": 637,
+    "html_url": "https://github.com/codebutler/firesheep",
+    "keywords": [
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
+    ],
+    "language": "C++",
+    "repo_name": "firesheep",
+    "repo_owner": "codebutler",
+    "repotime": "2013-12-29, 10:40:47",
+    "stargazers_count": 2348,
+    "watchers_count": 2348
+}
+{
+    "commits_count": 8,
+    "date_started": "2013-02-06",
+    "date_updated": "2013-12-20",
+    "description": "A collection of utilities for interacting with SSL and X509 Certificates on Android.",
+    "forks_count": 8,
+    "html_url": "https://github.com/FSecureLABS/mwr-tls",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Java",
+    "repo_name": "mwr-tls",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2013-12-20, 11:12:34",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}

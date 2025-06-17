@@ -430,3 +430,219 @@
     "stargazers_count": 400,
     "watchers_count": 400
 }
+{
+    "commits_count": 24,
+    "date_started": "2023-02-19",
+    "date_updated": "2023-04-29",
+    "description": "This novel way of using NtQueueApcThreadEx by abusing the ApcRoutine and SystemArgument[0-3] parameters by passing a random pop r32; ret gadget can be used for stealthy code injection. ",
+    "forks_count": 33,
+    "html_url": "https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "ntqueueapcthreadex-ntdll-gadget-injection",
+    "repo_owner": "LloydLabs",
+    "repotime": "2023-04-29, 15:50:52",
+    "stargazers_count": 248,
+    "watchers_count": 248
+}
+{
+    "commits_count": 15,
+    "date_started": "2019-11-19",
+    "date_updated": "2023-04-28",
+    "description": "🎯 XML External Entity (XXE) Injection Payload List",
+    "forks_count": 321,
+    "html_url": "https://github.com/payloadbox/xxe-injection-payload-list",
+    "keywords": [
+        "xml external entity",
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "xxe-injection-payload-list",
+    "repo_owner": "payloadbox",
+    "repotime": "2023-04-28, 23:49:11",
+    "stargazers_count": 1184,
+    "watchers_count": 1184
+}
+{
+    "commits_count": 20,
+    "date_started": "2020-06-27",
+    "date_updated": "2023-04-28",
+    "description": "🎯 Server Side Template Injection Payloads",
+    "forks_count": 140,
+    "html_url": "https://github.com/payloadbox/ssti-payloads",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "ssti-payloads",
+    "repo_owner": "payloadbox",
+    "repotime": "2023-04-28, 23:48:39",
+    "stargazers_count": 661,
+    "watchers_count": 661
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-01-21",
+    "date_updated": "2023-04-25",
+    "description": "LPE exploit via windows driver",
+    "forks_count": 5,
+    "html_url": "https://github.com/Marsel-marsel/CVE-2022-45770",
+    "keywords": [
+        "Windows lpe exploitation",
+        "lpe exploitation",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "lpe exploit"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2022-45770",
+    "repo_owner": "Marsel-marsel",
+    "repotime": "2023-04-25, 10:54:36",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 92,
+    "date_started": "2022-08-14",
+    "date_updated": "2023-04-19",
+    "description": "Social Media Website with SPA (Single Page Application) Frontend made with React.js and REST server with Express.js and MongoDB, it consist of Guest part for unauthenticated users and User part for authenticated users. The authentication is made with JWT (JSON Web Token). Both made by me",
+    "forks_count": 0,
+    "html_url": "https://github.com/instamenta/nft-social-media",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "nft-social-media",
+    "repo_owner": "instamenta",
+    "repotime": "2023-04-19, 16:43:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 24,
+    "date_started": "2023-04-18",
+    "date_updated": "2023-04-19",
+    "description": "Docker Misconfig Scanner is a tool that scans an unauthenticated Docker registry API for misconfigurations, downloads blobs for a specified repository and tag, and stores them in a directory. The script prompts the user for the API endpoint URL, target repository, target tag, and output directory.",
+    "forks_count": 1,
+    "html_url": "https://github.com/dhina016/dockerscanner",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "dockerscanner",
+    "repo_owner": "dhina016",
+    "repotime": "2023-04-19, 13:12:17",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-03-20",
+    "date_updated": "2023-04-16",
+    "description": "Reference: https://github.com/kasif-dekel/OSR_DeviceTree_Vuln",
+    "forks_count": 0,
+    "html_url": "https://github.com/fengjixuchui/DeviceTree-Exploit-LPE",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "DeviceTree-Exploit-LPE",
+    "repo_owner": "fengjixuchui",
+    "repotime": "2023-04-16, 13:31:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2023-04-11",
+    "date_updated": "2023-04-12",
+    "description": "Textpattern v4.8.8 and Below are vulnerable to Unrestricted File Upload Leading to Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-26852-Textpattern-v4.8.8-and-",
+    "repo_owner": "leekenghwa",
+    "repotime": "2023-04-12, 11:29:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-04-10",
+    "date_updated": "2023-04-11",
+    "description": "This repository contains scripts and a short walkthrough of an RNA-Seq analysis pipeline, to be used by Dr. Jessica Glass's Genomics and Bioinformatics class at the University of Alaska Fairbanks.",
+    "forks_count": 1,
+    "html_url": "https://github.com/kmeaton/UAF_RNASeq_Lecture",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "R",
+    "repo_name": "UAF_RNASeq_Lecture",
+    "repo_owner": "kmeaton",
+    "repotime": "2023-04-11, 12:36:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-04-08",
+    "date_updated": "2023-04-11",
+    "description": "This is my first project in asp.net core MVC using EntityFramework Core, one of the most popular free and opensource Framework developed by microsoft. This project is carried out as a part of my assignment after completing 2.5month training in Broadway infosys.",
+    "forks_count": 0,
+    "html_url": "https://github.com/badriaran/MovieStoreMVC-using-EF",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": "C#",
+    "repo_name": "MovieStoreMVC-using-EF",
+    "repo_owner": "badriaran",
+    "repotime": "2023-04-11, 09:44:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-04-24",
+    "date_updated": "2023-04-10",
+    "description": "I have developed a malware program using the C programming language, which includes various malicious features such as privilege escalation exploit, lsass dumper, reverse shell, keylogging, IAT hooking, DLL injection, and more. It should be noted that the program is constantly being updated, and some versions may not be fully functional.",
+    "forks_count": 0,
+    "html_url": "https://github.com/XiaoLaoMen/WindowsOffender",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "Win escalation of privileges",
+        "Windows escalation of privileges exploit",
+        "Win escalation of privileges exploitation",
+        "Win escalation of privileges exploit",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "WindowsOffender",
+    "repo_owner": "XiaoLaoMen",
+    "repotime": "2023-04-10, 16:17:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-12-14",
+    "date_updated": "2023-04-06",
+    "description": "A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.",
+    "forks_count": 54,
+    "html_url": "https://github.com/0xInfection/LogMePwn",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "LogMePwn",
+    "repo_owner": "0xInfection",
+    "repotime": "2023-04-06, 14:08:12",
+    "stargazers_count": 400,
+    "watchers_count": 400
+}

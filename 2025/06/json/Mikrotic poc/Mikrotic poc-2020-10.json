@@ -214,3 +214,111 @@
     "stargazers_count": 9,
     "watchers_count": 9
 }
+{
+    "commits_count": 27,
+    "date_started": "2020-04-21",
+    "date_updated": "2020-10-21",
+    "description": "zipdu is a webservice implementation vulnerable to zip bombs and directory traversals. Written in multiple different languages ",
+    "forks_count": 3,
+    "html_url": "https://github.com/ShiftLeftSecurity/zipdu",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "zipdu",
+    "repo_owner": "ShiftLeftSecurity",
+    "repotime": "2020-10-21, 20:00:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-10-15",
+    "date_updated": "2020-10-21",
+    "description": "PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility)",
+    "forks_count": 35,
+    "html_url": "https://github.com/0neb1n/CVE-2020-16947",
+    "keywords": [
+        "Microsoft rce poc",
+        "Microsoft rce",
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-16947",
+    "repo_owner": "0neb1n",
+    "repotime": "2020-10-21, 05:09:57",
+    "stargazers_count": 124,
+    "watchers_count": 124
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-08-29",
+    "date_updated": "2020-10-20",
+    "description": "Java 开发的POC集合工具,集合了目前最常使用的POC以及2020护网公开的0day",
+    "forks_count": 0,
+    "html_url": "https://github.com/52kami/JavaPocListMuster",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "JavaPocListMuster",
+    "repo_owner": "52kami",
+    "repotime": "2020-10-20, 22:20:32",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-10-18",
+    "date_updated": "2020-10-18",
+    "description": "Small memory leak PoC that is happening in IopGetDeviceInterfaces",
+    "forks_count": 8,
+    "html_url": "https://github.com/SamuelTulach/GetDeviceInterfacesMemoryLeak",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "C++",
+    "repo_name": "GetDeviceInterfacesMemoryLeak",
+    "repo_owner": "SamuelTulach",
+    "repotime": "2020-10-18, 23:02:26",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 40,
+    "date_started": "2019-08-10",
+    "date_updated": "2020-10-13",
+    "description": "Apache Solr Exploits  🌟",
+    "forks_count": 57,
+    "html_url": "https://github.com/Imanfeng/Apache-Solr-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": null,
+    "repo_name": "Apache-Solr-RCE",
+    "repo_owner": "Imanfeng",
+    "repotime": "2020-10-13, 19:45:16",
+    "stargazers_count": 343,
+    "watchers_count": 343
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-10-12",
+    "date_updated": "2020-10-12",
+    "description": "BlueBorne Exploits &amp;amp; Framework This repository contains a PoC code of various exploits for the BlueBorne vulnerabilities.  Under 'android' exploits for the Android RCE vulnerability (CVE-2017-0781), and the SDP Information leak vulnerability (CVE-2017-0785) can be found.  Under 'linux-bluez' exploits for the Linux-RCE vulnerability (CVE-2017-1000251) can be found (for Amazon Echo, and Samsung Gear S3).  Under 'l2cap_infra' a general testing framework to send and receive raw l2cap messages (using scapy) can be found.  Under 'nRF24_BDADDR_Sniffer' a tool to capture bluetooth mac addresses (BDADDR) over the air, using a nRF24L01 chip  For more details on BlueBorne, you may read the full technical white paper available here:  https://www.armis.com/blueborne/  In addition a several detailed blog posts on the exploitation of these vulnerability can be found here:  https://www.armis.com/blog/  ===============  Dependencies:",
+    "forks_count": 1,
+    "html_url": "https://github.com/CrackSoft900/Blue-Borne",
+    "keywords": [
+        "address leak vulnerability",
+        "address leak exploitation",
+        "address leak exploit",
+        "address leak poc"
+    ],
+    "language": "Python",
+    "repo_name": "Blue-Borne",
+    "repo_owner": "CrackSoft900",
+    "repotime": "2020-10-12, 12:52:45",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}

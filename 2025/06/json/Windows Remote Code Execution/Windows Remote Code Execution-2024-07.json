@@ -66,3 +66,37 @@
     "stargazers_count": 2,
     "watchers_count": 2
 }
+{
+    "commits_count": 3,
+    "date_started": "2024-07-27",
+    "date_updated": "2024-07-28",
+    "description": "1-Click RCE via WhatsApp For Windows",
+    "forks_count": 1,
+    "html_url": "https://github.com/SaumyajeetDas/WhatsApp-Exploit",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": null,
+    "repo_name": "WhatsApp-Exploit",
+    "repo_owner": "SaumyajeetDas",
+    "repotime": "2024-07-28, 00:35:24",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-07-06",
+    "date_updated": "2024-07-06",
+    "description": "Path traversal vulnerability in Splunk Enterprise on Windows",
+    "forks_count": 1,
+    "html_url": "https://github.com/sardine-web/CVE-2024-36991",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-36991",
+    "repo_owner": "sardine-web",
+    "repotime": "2024-07-06, 20:54:11",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

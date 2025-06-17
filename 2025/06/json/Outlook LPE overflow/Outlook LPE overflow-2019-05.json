@@ -138,3 +138,73 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 1,
+    "date_started": "2019-05-29",
+    "date_updated": "2019-05-30",
+    "description": "R 3.4.4 stack overflow, DEP/ASLR bypass",
+    "forks_count": 0,
+    "html_url": "https://github.com/r0ss1n1/R",
+    "keywords": [
+        "dep bypass",
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "R",
+    "repo_owner": "r0ss1n1",
+    "repotime": "2019-05-30, 03:25:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-05-12",
+    "date_updated": "2019-05-12",
+    "description": "The join_session_keyring function in security/keys/process_keys.c in the Linux kernel before 4.4.1 mishandles object references in a certain error case, which allows local users to gain privileges or cause a denial of service (integer overflow and use-after-free) via crafted keyctl commands.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Spartan-X/Refcount-Overflow-Use-After-Free",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "Refcount-Overflow-Use-After-Free",
+    "repo_owner": "Spartan-X",
+    "repotime": "2019-05-12, 19:23:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-05-29",
+    "date_updated": "2019-05-30",
+    "description": "R 3.4.4 stack overflow, DEP/ASLR bypass",
+    "forks_count": 0,
+    "html_url": "https://github.com/r0ss1n1/R",
+    "keywords": [
+        "dep bypass",
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "R",
+    "repo_owner": "r0ss1n1",
+    "repotime": "2019-05-30, 03:25:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-05-12",
+    "date_updated": "2019-05-12",
+    "description": "The join_session_keyring function in security/keys/process_keys.c in the Linux kernel before 4.4.1 mishandles object references in a certain error case, which allows local users to gain privileges or cause a denial of service (integer overflow and use-after-free) via crafted keyctl commands.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Spartan-X/Refcount-Overflow-Use-After-Free",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "Refcount-Overflow-Use-After-Free",
+    "repo_owner": "Spartan-X",
+    "repotime": "2019-05-12, 19:23:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

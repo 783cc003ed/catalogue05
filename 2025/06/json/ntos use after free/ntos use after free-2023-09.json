@@ -103,8 +103,8 @@
     "repo_name": "0day",
     "repo_owner": "helloexp",
     "repotime": "2023-09-12, 08:57:05",
-    "stargazers_count": 2173,
-    "watchers_count": 2173
+    "stargazers_count": 2180,
+    "watchers_count": 2180
 }
 {
     "commits_count": 13,
@@ -155,8 +155,288 @@
     "repo_name": "GDA-android-reversing-Tool",
     "repo_owner": "charles2gan",
     "repotime": "2023-09-11, 12:59:51",
-    "stargazers_count": 4461,
-    "watchers_count": 4461
+    "stargazers_count": 4467,
+    "watchers_count": 4467
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-09-09",
+    "date_updated": "2023-09-10",
+    "description": "Lists suitable kernel objects for UAF exploitation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/cpey/objscan",
+    "keywords": [
+        "uaf exploitation",
+        "uaf exploit"
+    ],
+    "language": "Python",
+    "repo_name": "objscan",
+    "repo_owner": "cpey",
+    "repotime": "2023-09-10, 17:29:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-09-10",
+    "date_updated": "2023-09-10",
+    "description": "Mass Exploit - CVE-2023-1698 &amp;lt;  Unauthenticated Remote Command Execution",
+    "forks_count": 3,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-1698-PoC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-1698-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-10, 04:36:35",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-09-05",
+    "date_updated": "2023-09-06",
+    "description": "In this AKS-focused workshop, you will work with Calico Cloud to learn how to implement runtime security to protect containers in your Kubernetes cluster from known and zero-day threats based container and network attacks running on Microsoft AKS.",
+    "forks_count": 1,
+    "html_url": "https://github.com/tigera-solutions/cc-aks-implement-runtime-security",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "cc-aks-implement-runtime-security",
+    "repo_owner": "tigera-solutions",
+    "repotime": "2023-09-06, 05:52:32",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-09-05",
+    "date_updated": "2023-09-05",
+    "description": "Mass Exploit - CVE-2023-34747 - Ujcms - Arbitrary File Upload",
+    "forks_count": 0,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-34747-PoC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-34747-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-05, 07:39:19",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-09-05",
+    "date_updated": "2023-09-05",
+    "description": "Mass exploit - CVE-2023-41538 &amp;lt; phpjabbers PHP Forum &amp;lt; Cross Site Scripting (XSS)",
+    "forks_count": 0,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-41538-PoC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-41538-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-05, 07:32:35",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 28,
+    "date_started": "2020-12-16",
+    "date_updated": "2023-09-03",
+    "description": "Demonstrates SQL injection attacks using malicious SQL queries and SQL prevention techniques.",
+    "forks_count": 20,
+    "html_url": "https://github.com/AswinBarath/sql-injection-and-prevention",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "HTML",
+    "repo_name": "sql-injection-and-prevention",
+    "repo_owner": "AswinBarath",
+    "repotime": "2023-09-03, 13:05:27",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 18,
+    "date_started": "2020-04-03",
+    "date_updated": "2023-09-02",
+    "description": "A WordPress MU plugin that prevents brute force attacks by limiting the number of failed login attempts during a browser session.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dashifen/wp-mu-plugin-anti-brute-squad",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "wp-mu-plugin-anti-brute-squad",
+    "repo_owner": "dashifen",
+    "repotime": "2023-09-02, 11:50:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 354,
+    "date_started": "2019-09-17",
+    "date_updated": "2023-09-28",
+    "description": "This software allows you to perform a deauth attack with an ESP8266 against selected networks. The ESP8266 is a cheap and easy to use Wi-Fi SoC (System-on-a-Chip), programmable with the Arduino IDE. With this software flashed onto it, you can select a target network and start different attacks.  The deauth attack will, if the connection is vulnerable, disconnect the devices from the network. Because the attack is running constantly, the devices will be disconnected again and again. Depending on the network, that can either block a connection or slow it down.  The difference between deauthing and jamming: WiFi Jammers vs Deauthers | What's The Difference?  Other attacks also have been implemented, such as beacon and probe request flooding.  The deauth attack works by exploiting an old and known vulnerability in the 802.11 Wi-Fi protocol. Because these deauthentication frames, usually used to close a Wi-Fi connection safely, are unencrypted, it's very easy to spoof them. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/dfalt0/NodeMCU-ESP8266",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "NodeMCU-ESP8266",
+    "repo_owner": "dfalt0",
+    "repotime": "2023-09-28, 02:37:33",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 19,
+    "date_started": "2022-03-13",
+    "date_updated": "2023-09-25",
+    "description": "Automated privilege escalation of the world's most popular Docker images.",
+    "forks_count": 6,
+    "html_url": "https://github.com/trickest/containers",
+    "keywords": [
+        "escalation of privileges poc",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "containers",
+    "repo_owner": "trickest",
+    "repotime": "2023-09-25, 15:39:20",
+    "stargazers_count": 66,
+    "watchers_count": 66
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-09-21",
+    "date_updated": "2023-09-21",
+    "description": "Proof-of-Concept (POC) of CVE-2023-38831 Zero-Day vulnerability in WinRAR",
+    "forks_count": 1,
+    "html_url": "https://github.com/malvika-thakur/CVE-2023-38831",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day proof of concept",
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831",
+    "repo_owner": "malvika-thakur",
+    "repotime": "2023-09-21, 15:00:59",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-06-22",
+    "date_updated": "2023-09-14",
+    "description": "Quickly cleans your computer with one click. Lightweight and lifetime free. No memory leaks!",
+    "forks_count": 0,
+    "html_url": "https://github.com/berkaygediz/PASPAS",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "PASPAS",
+    "repo_owner": "berkaygediz",
+    "repotime": "2023-09-14, 21:37:49",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-09-13",
+    "date_updated": "2023-09-13",
+    "description": "Reproduction of the memory leak occurring when WinUI windows are closed",
+    "forks_count": 0,
+    "html_url": "https://github.com/akainth015/WindowCloseMemLeakRepro",
+    "keywords": [
+        "Win memory leak",
+        "Windows memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "WindowCloseMemLeakRepro",
+    "repo_owner": "akainth015",
+    "repotime": "2023-09-13, 00:06:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 378,
+    "date_started": "2022-04-07",
+    "date_updated": "2023-09-12",
+    "description": "各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新",
+    "forks_count": 857,
+    "html_url": "https://github.com/helloexp/0day",
+    "keywords": [
+        "0day exploit",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day",
+    "repo_owner": "helloexp",
+    "repotime": "2023-09-12, 08:57:05",
+    "stargazers_count": 2180,
+    "watchers_count": 2180
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-09-11",
+    "date_updated": "2023-09-12",
+    "description": "Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php",
+    "forks_count": 0,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-4238-PoC",
+    "keywords": [
+        "0day poc",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-4238-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-12, 03:04:56",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-01-10",
+    "date_updated": "2023-09-11",
+    "description": "You can receive notifications about new exploits.",
+    "forks_count": 0,
+    "html_url": "https://github.com/OverPotter/0dayNotice",
+    "keywords": [
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "0dayNotice",
+    "repo_owner": "OverPotter",
+    "repotime": "2023-09-11, 14:49:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 250,
+    "date_started": "2017-10-31",
+    "date_updated": "2023-09-11",
+    "description": "the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&amp;amp;java scripts, device memory extraction, data decryption, and encryption, etc. ",
+    "forks_count": 542,
+    "html_url": "https://github.com/charles2gan/GDA-android-reversing-Tool",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "GDA-android-reversing-Tool",
+    "repo_owner": "charles2gan",
+    "repotime": "2023-09-11, 12:59:51",
+    "stargazers_count": 4467,
+    "watchers_count": 4467
 }
 {
     "commits_count": 6,

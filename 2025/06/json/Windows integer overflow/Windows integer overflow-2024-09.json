@@ -248,3 +248,128 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 302,
+    "date_started": "2017-04-30",
+    "date_updated": "2024-09-23",
+    "description": "hack tools",
+    "forks_count": 493,
+    "html_url": "https://github.com/hacktoolspack/hack-tools",
+    "keywords": [
+        "0day exploit",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "hack-tools",
+    "repo_owner": "hacktoolspack",
+    "repotime": "2024-09-23, 23:27:19",
+    "stargazers_count": 1120,
+    "watchers_count": 1120
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-09-10",
+    "date_updated": "2024-09-09",
+    "description": "RCE PoC For Windows",
+    "forks_count": 0,
+    "html_url": "https://github.com/SleepTheGod/WindowsRCE",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "WindowsRCE",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2024-09-09, 22:16:00",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 215,
+    "date_started": "2013-08-03",
+    "date_updated": "2024-09-09",
+    "description": "A drop-in replacement for PHP's default session handler which stores session data in a MySQL database, providing better performance, better security and protection against session fixation and session hijacking",
+    "forks_count": 86,
+    "html_url": "https://github.com/stefangabos/Zebra_Session",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "Zebra_Session",
+    "repo_owner": "stefangabos",
+    "repotime": "2024-09-09, 21:11:15",
+    "stargazers_count": 174,
+    "watchers_count": 174
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-09-04",
+    "date_updated": "2024-09-07",
+    "description": "A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder.  To get started, simply fork this repo.  CONTRIBUTING See ways of contributing to this repo. You can contribute solutions (will be published in this repo) to existing problems, add new projects, or remove existing ones. Make sure you follow all instructions properly.  Solutions You can find implementations of these projects in many other languages by other users in this repo.  Credits  Problems are motivated by the ones shared at:  Martyr2’s Mega Project List Rosetta Code Table of Contents Numbers Classic Algorithms Graph Data Structures Text Networking Classes Threading Web Files Databases Graphics and Multimedia Security Numbers Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.  Find e to the Nth Dig...",
+    "forks_count": 34,
+    "html_url": "https://github.com/ManojKumarPatnaik/Major-project-list",
+    "keywords": [
+        "Windows zero-day analysis",
+        "zero-day analysis",
+        "path traversal attack",
+        "Windows zero-day",
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Major-project-list",
+    "repo_owner": "ManojKumarPatnaik",
+    "repotime": "2024-09-07, 20:52:27",
+    "stargazers_count": 164,
+    "watchers_count": 164
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-09-07",
+    "date_updated": "2024-09-06",
+    "description": "DiskBoss 8.8.16 Remote Buffer Overflow with ASLR and DEP Bypass Using Memory Leak",
+    "forks_count": 0,
+    "html_url": "https://github.com/yerodin/diskboss-InfoLeak-ASLR-Bypass-RCE",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "diskboss-InfoLeak-ASLR-Bypass-RCE",
+    "repo_owner": "yerodin",
+    "repotime": "2024-09-06, 19:53:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-09-01",
+    "date_updated": "2024-09-05",
+    "description": "Windows Exploit development : Bypass Data Execution Prevention (DEP) using ROP chains manually hard code",
+    "forks_count": 0,
+    "html_url": "https://github.com/x86byte/ROPme",
+    "keywords": [
+        "dep bypass",
+        "data execution prevention bypass"
+    ],
+    "language": "Python",
+    "repo_name": "ROPme",
+    "repo_owner": "x86byte",
+    "repotime": "2024-09-05, 02:06:08",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-09-03",
+    "date_updated": "2024-09-03",
+    "description": "Easy File Sharing Web Server 7.2 - HTTP GET Unauthenticated Remote Buffer Overflow  &amp;amp; DEP Bypass with self decoding ROP chain",
+    "forks_count": 0,
+    "html_url": "https://github.com/yerodin/EFS-Server-7.2-RCE_DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Python",
+    "repo_name": "EFS-Server-7.2-RCE_DEP-Bypass",
+    "repo_owner": "yerodin",
+    "repotime": "2024-09-03, 16:14:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

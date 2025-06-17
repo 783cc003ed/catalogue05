@@ -774,3 +774,391 @@
     "stargazers_count": 7,
     "watchers_count": 7
 }
+{
+    "commits_count": 13,
+    "date_started": "2020-07-18",
+    "date_updated": "2020-08-30",
+    "description": "These are certain exploits I have taken from exploitdb and tried to recreate it on my own in lieu of OSCE pre-prep",
+    "forks_count": 1,
+    "html_url": "https://github.com/ironspideytrip/OSCE-Prep-Zero-day-practice",
+    "keywords": [
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "OSCE-Prep-Zero-day-practice",
+    "repo_owner": "ironspideytrip",
+    "repotime": "2020-08-30, 13:40:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-08-17",
+    "date_updated": "2020-08-30",
+    "description": "[CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE)",
+    "forks_count": 1,
+    "html_url": "https://github.com/murataydemir/CVE-2020-0688",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-0688",
+    "repo_owner": "murataydemir",
+    "repotime": "2020-08-30, 00:00:56",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-01-11",
+    "date_updated": "2020-08-28",
+    "description": "CVE-2019-19781 - Remote Code Execution on Citrix ADC Netscaler exploit",
+    "forks_count": 34,
+    "html_url": "https://github.com/mpgn/CVE-2019-19781",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-19781",
+    "repo_owner": "mpgn",
+    "repotime": "2020-08-28, 16:09:18",
+    "stargazers_count": 156,
+    "watchers_count": 156
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-08-24",
+    "date_updated": "2020-08-26",
+    "description": "Transition form local file inclusion attacks to remote code exection",
+    "forks_count": 19,
+    "html_url": "https://github.com/RoqueNight/LFI---RCE-Cheat-Sheet",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "LFI---RCE-Cheat-Sheet",
+    "repo_owner": "RoqueNight",
+    "repotime": "2020-08-26, 21:32:33",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 18,
+    "date_started": "2020-07-22",
+    "date_updated": "2020-08-23",
+    "description": "It's a teaching material",
+    "forks_count": 81,
+    "html_url": "https://github.com/JalinWu/XSS-playground",
+    "keywords": [
+        "xss"
+    ],
+    "language": "CSS",
+    "repo_name": "XSS-playground",
+    "repo_owner": "JalinWu",
+    "repotime": "2020-08-23, 21:27:30",
+    "stargazers_count": 69,
+    "watchers_count": 69
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-08-23",
+    "date_updated": "2020-08-23",
+    "description": "通达OA&amp;lt;v11.5&amp;amp;v11.6版本RCE Exploit",
+    "forks_count": 14,
+    "html_url": "https://github.com/admintony/TongdaRCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "TongdaRCE",
+    "repo_owner": "admintony",
+    "repotime": "2020-08-23, 16:44:48",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 25,
+    "date_started": "2020-08-07",
+    "date_updated": "2020-08-21",
+    "description": "House Rental v1.0 suffers from an unauthenticated SQL Injection vulnerability allowing remote attackers to execute arbitrary code on the hosting webserver via sending a malicious POST request.",
+    "forks_count": 1,
+    "html_url": "https://github.com/boku7/homeRent-SQLi-RCE",
+    "keywords": [
+        "unauthenticated attacker",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "homeRent-SQLi-RCE",
+    "repo_owner": "boku7",
+    "repotime": "2020-08-21, 14:20:05",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 165,
+    "date_started": "2019-03-15",
+    "date_updated": "2020-08-20",
+    "description": "XSSMap 是一款基于 Python3 开发用于检测 XSS 漏洞的工具",
+    "forks_count": 53,
+    "html_url": "https://github.com/Jewel591/xssmap",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xssmap",
+    "repo_owner": "Jewel591",
+    "repotime": "2020-08-20, 09:25:40",
+    "stargazers_count": 265,
+    "watchers_count": 265
+}
+{
+    "commits_count": 40,
+    "date_started": "2017-06-25",
+    "date_updated": "2020-08-19",
+    "description": "XSS'OR - Hack with JavaScript.",
+    "forks_count": 380,
+    "html_url": "https://github.com/evilcos/xssor2",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xssor2",
+    "repo_owner": "evilcos",
+    "repotime": "2020-08-19, 10:27:51",
+    "stargazers_count": 2174,
+    "watchers_count": 2174
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-08-14",
+    "date_updated": "2020-08-14",
+    "description": "Nagios XI 5.5.6 Remote Code Execution and Privilege Escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/ruthvikvegunta/nagiosxi_rce-to-root",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "nagiosxi_rce-to-root",
+    "repo_owner": "ruthvikvegunta",
+    "repotime": "2020-08-14, 22:06:46",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-12-02",
+    "date_updated": "2020-08-14",
+    "description": "Collection of XSS Payloads for fun and profit",
+    "forks_count": 63,
+    "html_url": "https://github.com/ihebski/XSS-Payloads",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "XSS-Payloads",
+    "repo_owner": "ihebski",
+    "repotime": "2020-08-14, 13:19:13",
+    "stargazers_count": 180,
+    "watchers_count": 180
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-08-12",
+    "date_updated": "2020-08-12",
+    "description": "Auto Shell upload &amp;amp; Patch vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/kaadip93/vBulletin-0Day-Auto-shell",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vBulletin-0Day-Auto-shell",
+    "repo_owner": "kaadip93",
+    "repotime": "2020-08-12, 20:49:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-08-11",
+    "date_updated": "2020-08-11",
+    "description": "CVE-2020-1337 a bypass of (PrintDemon) CVE-2020-1048’s patch",
+    "forks_count": 2,
+    "html_url": "https://github.com/VoidSec/CVE-2020-1337",
+    "keywords": [
+        "0day exploit",
+        "Windows 0day poc",
+        "0day poc",
+        "Windows 0day exploit",
+        "Windows 0day"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-1337",
+    "repo_owner": "VoidSec",
+    "repotime": "2020-08-11, 19:23:03",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 368,
+    "date_started": "2012-05-28",
+    "date_updated": "2020-08-11",
+    "description": "Runtime Code Injection for Objective-C &amp;amp; Swift",
+    "forks_count": 566,
+    "html_url": "https://github.com/johnno1962/injectionforxcode",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "injectionforxcode",
+    "repo_owner": "johnno1962",
+    "repotime": "2020-08-11, 06:26:28",
+    "stargazers_count": 6556,
+    "watchers_count": 6556
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-08-10",
+    "date_updated": "2020-08-10",
+    "description": "Travel Management System v1.0 Unauthenticated RCE Exploit",
+    "forks_count": 4,
+    "html_url": "https://github.com/hyd3sec/TravelManagementSystem_Unauth_RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "TravelManagementSystem_Unauth_RCE",
+    "repo_owner": "hyd3sec",
+    "repotime": "2020-08-10, 21:49:23",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-08-07",
+    "date_updated": "2020-08-07",
+    "description": "public 0day exploit dev",
+    "forks_count": 0,
+    "html_url": "https://github.com/kernelzeroday/0day-dev",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "C",
+    "repo_name": "0day-dev",
+    "repo_owner": "kernelzeroday",
+    "repotime": "2020-08-07, 21:19:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-08-08",
+    "date_updated": "2020-08-07",
+    "description": "Exploit for House Rental v1.0 Remote Code Execution (Unauthenticated)",
+    "forks_count": 3,
+    "html_url": "https://github.com/hyd3sec/HouseRental_Unauth_RCE",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "HouseRental_Unauth_RCE",
+    "repo_owner": "hyd3sec",
+    "repotime": "2020-08-07, 21:39:02",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 34,
+    "date_started": "2013-07-19",
+    "date_updated": "2020-08-07",
+    "description": "The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.",
+    "forks_count": 158,
+    "html_url": "https://github.com/SpiderLabs/MCIR",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PHP",
+    "repo_name": "MCIR",
+    "repo_owner": "SpiderLabs",
+    "repotime": "2020-08-07, 14:44:09",
+    "stargazers_count": 442,
+    "watchers_count": 442
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-08-06",
+    "date_updated": "2020-08-06",
+    "description": "Pi-hole ( &amp;lt;= 4.3.2)  authenticated remote code execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/team0se7en/CVE-2020-8816",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2020-8816",
+    "repo_owner": "team0se7en",
+    "repotime": "2020-08-06, 17:10:27",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 99,
+    "date_started": "2016-05-19",
+    "date_updated": "2020-08-05",
+    "description": "NoSQLAttack is an open source Python tool to automate exploit MongoDB server IP on Internet and disclose the database data by MongoDB default configuration weaknesses and injection attacks.",
+    "forks_count": 88,
+    "html_url": "https://github.com/youngyangyang04/NoSQLAttack",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "NoSQLAttack",
+    "repo_owner": "youngyangyang04",
+    "repotime": "2020-08-05, 09:29:07",
+    "stargazers_count": 310,
+    "watchers_count": 310
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-08-15",
+    "date_updated": "2020-08-03",
+    "description": "Bypassing SMEP &amp;amp; allow nt-system in target process via Stack bof in hevd.sys",
+    "forks_count": 0,
+    "html_url": "https://github.com/ASkyeye/HEVD-EOP",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": null,
+    "repo_name": "HEVD-EOP",
+    "repo_owner": "ASkyeye",
+    "repotime": "2020-08-03, 20:05:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2020-07-29",
+    "date_updated": "2020-08-03",
+    "description": "Ingress GCE with WAF Cloud Armor: SQL injection,Cross-Site Scripting (XSS),Local file inclusion (LFI),Remote Code Execution (RCE),Remote File Inclusion (RFI)",
+    "forks_count": 1,
+    "html_url": "https://github.com/abdidarmawan007/k8s-ingress-gce-cloud-armor",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "k8s-ingress-gce-cloud-armor",
+    "repo_owner": "abdidarmawan007",
+    "repotime": "2020-08-03, 14:25:15",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}

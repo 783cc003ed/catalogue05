@@ -86,3 +86,179 @@
     "stargazers_count": 347,
     "watchers_count": 347
 }
+{
+    "commits_count": 13,
+    "date_started": "2021-10-08",
+    "date_updated": "2022-04-24",
+    "description": "Zenith exploits a memory corruption vulnerability in the NetUSB driver to get remote-code execution on the TP-Link Archer C7 V5 router for Pwn2Own Austin 2021.",
+    "forks_count": 24,
+    "html_url": "https://github.com/0vercl0k/zenith",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "zenith",
+    "repo_owner": "0vercl0k",
+    "repotime": "2022-04-24, 17:57:39",
+    "stargazers_count": 129,
+    "watchers_count": 129
+}
+{
+    "commits_count": 23,
+    "date_started": "2013-06-14",
+    "date_updated": "2022-04-22",
+    "description": "Burp plugin which supports in finding privilege escalation vulnerabilities",
+    "forks_count": 15,
+    "html_url": "https://github.com/thomaspatzke/Burp-SessionAuthTool",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Burp-SessionAuthTool",
+    "repo_owner": "thomaspatzke",
+    "repotime": "2022-04-22, 19:14:00",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 276,
+    "date_started": "2020-01-29",
+    "date_updated": "2022-04-19",
+    "description": "Course materials for learning how to perform applied cost-effectiveness analysis with R",
+    "forks_count": 11,
+    "html_url": "https://github.com/hesim-dev/rcea",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "R",
+    "repo_name": "rcea",
+    "repo_owner": "hesim-dev",
+    "repotime": "2022-04-19, 18:21:04",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-04-19",
+    "description": "Remote Code Execution Exploit in the RPC Library",
+    "forks_count": 3,
+    "html_url": "https://github.com/websecnl/CVE-2022-26809",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26809",
+    "repo_owner": "websecnl",
+    "repotime": "2022-04-19, 19:04:04",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 139,
+    "date_started": "2012-07-09",
+    "date_updated": "2022-04-14",
+    "description": "A collection of web pages vulnerable to SQL injection flaws",
+    "forks_count": 131,
+    "html_url": "https://github.com/sqlmapproject/testenv",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "testenv",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2022-04-14, 11:05:57",
+    "stargazers_count": 347,
+    "watchers_count": 347
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-10-08",
+    "date_updated": "2022-04-24",
+    "description": "Zenith exploits a memory corruption vulnerability in the NetUSB driver to get remote-code execution on the TP-Link Archer C7 V5 router for Pwn2Own Austin 2021.",
+    "forks_count": 24,
+    "html_url": "https://github.com/0vercl0k/zenith",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "zenith",
+    "repo_owner": "0vercl0k",
+    "repotime": "2022-04-24, 17:57:39",
+    "stargazers_count": 129,
+    "watchers_count": 129
+}
+{
+    "commits_count": 23,
+    "date_started": "2013-06-14",
+    "date_updated": "2022-04-22",
+    "description": "Burp plugin which supports in finding privilege escalation vulnerabilities",
+    "forks_count": 15,
+    "html_url": "https://github.com/thomaspatzke/Burp-SessionAuthTool",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Burp-SessionAuthTool",
+    "repo_owner": "thomaspatzke",
+    "repotime": "2022-04-22, 19:14:00",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 276,
+    "date_started": "2020-01-29",
+    "date_updated": "2022-04-19",
+    "description": "Course materials for learning how to perform applied cost-effectiveness analysis with R",
+    "forks_count": 11,
+    "html_url": "https://github.com/hesim-dev/rcea",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "R",
+    "repo_name": "rcea",
+    "repo_owner": "hesim-dev",
+    "repotime": "2022-04-19, 18:21:04",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-04-19",
+    "description": "Remote Code Execution Exploit in the RPC Library",
+    "forks_count": 3,
+    "html_url": "https://github.com/websecnl/CVE-2022-26809",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26809",
+    "repo_owner": "websecnl",
+    "repotime": "2022-04-19, 19:04:04",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 139,
+    "date_started": "2012-07-09",
+    "date_updated": "2022-04-14",
+    "description": "A collection of web pages vulnerable to SQL injection flaws",
+    "forks_count": 131,
+    "html_url": "https://github.com/sqlmapproject/testenv",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "testenv",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2022-04-14, 11:05:57",
+    "stargazers_count": 347,
+    "watchers_count": 347
+}

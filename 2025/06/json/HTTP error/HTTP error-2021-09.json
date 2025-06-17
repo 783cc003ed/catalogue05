@@ -706,3 +706,357 @@
     "stargazers_count": 8,
     "watchers_count": 8
 }
+{
+    "commits_count": 2,
+    "date_started": "2021-09-29",
+    "date_updated": "2021-09-30",
+    "description": "According to researchers with Rapid7, over 110,000 devices appear on internet, which run stable Samba versions, while 92,500 seem to run unstable Samba versions, for which there is no fix. The newest Samba models, including the models 4.6.x before 4.6.4, 4.5.x before 4.5.10 and 3.5.0 before 4.4.13, was impacted by this error. May 24, 2017, Samba released version 4.6.4, which fixes a serious remote code execution vulnerability, vulnerability number CVE-2017-7494, which affected Samba 3.5.0 onwards.  Vulnerability number: CVE-2017-7494 Severity Rating: High Affected software:     • Samba Version &amp;lt; 4.6.4     • Samba Version &amp;lt; 4.5.10     • Samba Version &amp;lt; 4.4.14  Unaffected software:     • Samba Version = 4.6.4     • Samba Version = 4.5.10     • Samba Version = 4.4.14",
+    "forks_count": 0,
+    "html_url": "https://github.com/adjaliya/-CVE-2017-7494-Samba-Exploit-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "-CVE-2017-7494-Samba-Exploit-POC",
+    "repo_owner": "adjaliya",
+    "repotime": "2021-09-30, 02:05:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 152,
+    "date_started": "2011-11-29",
+    "date_updated": "2021-09-29",
+    "description": "Convert Markdown to HTML, with XSS protection",
+    "forks_count": 396,
+    "html_url": "https://github.com/snoyberg/markdown",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Haskell",
+    "repo_name": "markdown",
+    "repo_owner": "snoyberg",
+    "repotime": "2021-09-29, 08:17:34",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-09-23",
+    "date_updated": "2021-09-27",
+    "description": "iOS 15 0-day exploit (still works in 15.0.2)",
+    "forks_count": 60,
+    "html_url": "https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Swift",
+    "repo_name": "ios-nehelper-wifi-info-0day",
+    "repo_owner": "illusionofchaos",
+    "repotime": "2021-09-27, 20:48:30",
+    "stargazers_count": 177,
+    "watchers_count": 177
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-25",
+    "date_updated": "2021-09-27",
+    "description": "Workaround for the 4 0-days: https://github.com/illusionofchaos/ios-gamed-0day https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day https://github.com/illusionofchaos/ios-analyticsd-pre14.7-exploit",
+    "forks_count": 7,
+    "html_url": "https://github.com/rllbe/entitlementfix",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Logos",
+    "repo_name": "entitlementfix",
+    "repo_owner": "rllbe",
+    "repotime": "2021-09-27, 17:22:07",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 36,
+    "date_started": "2015-09-18",
+    "date_updated": "2021-09-26",
+    "description": "Exploits by 1N3 @CrowdShield @xer0dayz @XeroSecurity",
+    "forks_count": 103,
+    "html_url": "https://github.com/1N3/Exploits",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Exploits",
+    "repo_owner": "1N3",
+    "repotime": "2021-09-26, 18:47:12",
+    "stargazers_count": 203,
+    "watchers_count": 203
+}
+{
+    "commits_count": 410,
+    "date_started": "2020-04-19",
+    "date_updated": "2021-09-25",
+    "description": "A phased, evasive Path Traversal + LFI scanning &amp;amp; exploitation tool in Python",
+    "forks_count": 23,
+    "html_url": "https://github.com/VainlyStrain/Vailyn",
+    "keywords": [
+        "lfi",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Vailyn",
+    "repo_owner": "VainlyStrain",
+    "repotime": "2021-09-25, 21:18:09",
+    "stargazers_count": 198,
+    "watchers_count": 198
+}
+{
+    "commits_count": 36,
+    "date_started": "2021-10-27",
+    "date_updated": "2021-09-24",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 11,
+    "html_url": "https://github.com/BrockOz/Final-Project",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution analysis",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "Final-Project",
+    "repo_owner": "BrockOz",
+    "repotime": "2021-09-24, 14:45:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-09-23",
+    "date_updated": "2021-09-23",
+    "description": "CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.",
+    "forks_count": 12,
+    "html_url": "https://github.com/RhinoSecurityLabs/CloudScraper",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "CloudScraper",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2021-09-23, 13:51:03",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 81,
+    "date_started": "2021-09-14",
+    "date_updated": "2021-09-22",
+    "description": "jQuery powered applications and services with absolute minimum fuss. A cross-platform JavaScript library optimized to do the common scripting functions with fewer lines of code. jQuery for cross-platform feature-rich scripting to handle client-side scripting of HTML.",
+    "forks_count": 0,
+    "html_url": "https://github.com/abdibedaso/jQuery",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "jQuery",
+    "repo_owner": "abdibedaso",
+    "repotime": "2021-09-22, 21:19:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 47,
+    "date_started": "2019-07-15",
+    "date_updated": "2021-09-22",
+    "description": "List DTDs and generate XXE payloads using those local DTDs.",
+    "forks_count": 110,
+    "html_url": "https://github.com/GoSecure/dtd-finder",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Kotlin",
+    "repo_name": "dtd-finder",
+    "repo_owner": "GoSecure",
+    "repotime": "2021-09-22, 13:53:59",
+    "stargazers_count": 631,
+    "watchers_count": 631
+}
+{
+    "commits_count": 26,
+    "date_started": "2015-02-04",
+    "date_updated": "2021-09-20",
+    "description": "Static analysis tool for Golang that protects against SQL injections     ",
+    "forks_count": 46,
+    "html_url": "https://github.com/stripe-archive/safesql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "safesql",
+    "repo_owner": "stripe-archive",
+    "repotime": "2021-09-20, 17:02:47",
+    "stargazers_count": 562,
+    "watchers_count": 562
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-06-01",
+    "date_updated": "2021-09-16",
+    "description": "An easy-to-setup version of XSS Hunter. Sets up in five minutes and requires no maintenance!",
+    "forks_count": 367,
+    "html_url": "https://github.com/mandatoryprogrammer/xsshunter-express",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xsshunter-express",
+    "repo_owner": "mandatoryprogrammer",
+    "repotime": "2021-09-16, 22:43:16",
+    "stargazers_count": 1888,
+    "watchers_count": 1888
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-09-15",
+    "date_updated": "2021-09-15",
+    "description": " Automated Trading System (Stock Market) A Client-Server Based Trading System is to be designed with the following specifications. There will be a set of traders who will trade with each other in the automated system. There will be a Server which will register requests from traders for buying and selling quantities of Items. The Server will also match the buy with the sell requests from different traders based on certain price rules (as listed below). Traders will log on to the trading system through the trading client (assume Trader ID and password is stored in a file). They will have the option to view the currently available items (for buy/sell), their quantities and their prices. They will also send requests for buying and selling items and specify the quantity and price. Traders will also have the option to view their matched trades at any time. There are ten known items which the traders can trade in with their codes from 1 to 10. There will be a maximum of 5 traders (with codes ...",
+    "forks_count": 1,
+    "html_url": "https://github.com/vishal66959/Client-Server-Based-Automated-Trading-System-main",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "C",
+    "repo_name": "Client-Server-Based-Automated-Trading-System-main",
+    "repo_owner": "vishal66959",
+    "repotime": "2021-09-15, 12:31:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-09-10",
+    "date_updated": "2021-09-14",
+    "description": "Checks for email spoof vulnerability of host with Golang.",
+    "forks_count": 1,
+    "html_url": "https://github.com/harri777/check-email-spoof",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "check-email-spoof",
+    "repo_owner": "harri777",
+    "repotime": "2021-09-14, 21:59:00",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-09-12",
+    "date_updated": "2021-09-14",
+    "description": "Exploitation of CVE-2018-18925 a Remote Code Execution against the Git self hosted tool: Gogs.",
+    "forks_count": 2,
+    "html_url": "https://github.com/j4k0m/CVE-2018-18925",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2018-18925",
+    "repo_owner": "j4k0m",
+    "repotime": "2021-09-14, 21:29:49",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-09-06",
+    "date_updated": "2021-09-08",
+    "description": "It is a mini project based HTML, CSS and JAVASCRIPT . It is basically a sudoku game which validates the user input, gives error on wrong answers, indicates duplicity, highlights the respective cells , columns and rows on single and double clicks. It has three modes to play in- easy, medium, hard . You can also reset the entire game or have a peek at the solution incase you cannot figure it out. It shows modals on winning, incase of alert or on loosing. Allover it a mini sudoku game, hope you guys like it !!",
+    "forks_count": 0,
+    "html_url": "https://github.com/Maheti/Sudoku-Game",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Sudoku-Game",
+    "repo_owner": "Maheti",
+    "repotime": "2021-09-08, 01:01:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 107,
+    "date_started": "2017-03-13",
+    "date_updated": "2021-09-06",
+    "description": "👮🏻‍♂️ XSS attack playground,there are answers in issues. XSS 攻防靶场，issues 有答案 ",
+    "forks_count": 61,
+    "html_url": "https://github.com/haozi/xss-demo",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xss-demo",
+    "repo_owner": "haozi",
+    "repotime": "2021-09-06, 16:07:49",
+    "stargazers_count": 308,
+    "watchers_count": 308
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-03-25",
+    "date_updated": "2021-09-04",
+    "description": "Vulnerability analysis and PoC for the Apache Tomcat - CGIServlet enableCmdLineArguments Remote Code Execution (RCE)",
+    "forks_count": 10,
+    "html_url": "https://github.com/jaiguptanick/CVE-2019-0232",
+    "keywords": [
+        "remote code execution analysis",
+        "rce analysis",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-0232",
+    "repo_owner": "jaiguptanick",
+    "repotime": "2021-09-04, 06:15:00",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-08-23",
+    "date_updated": "2021-09-02",
+    "description": "While Deep Learning is a subset of Machine Learning, the prediction methodology in deep learning is different and works similar to how a human brain uses neural pathways to process information &amp;amp; learn from it. In this workshop we will learn about the building blocks of deep learning, neural networks, and how they work. We'll start with Logistic Regression - a simple and basic neural network classification algorithm, having just a one-layer neural network. These are the resources for the first session of Your Path to Deep Learning.",
+    "forks_count": 6,
+    "html_url": "https://github.com/IBMDeveloperMEA/YPDL-SentimentAnalysis-LR",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "YPDL-SentimentAnalysis-LR",
+    "repo_owner": "IBMDeveloperMEA",
+    "repotime": "2021-09-02, 10:34:18",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 129,
+    "date_started": "2021-08-05",
+    "date_updated": "2021-09-01",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology",
+    "keywords": [
+        "0day vulnerability",
+        "0day analysis"
+    ],
+    "language": null,
+    "repo_name": "0day-security-software-vulnerability-analysis-technology",
+    "repo_owner": "git3345678git",
+    "repotime": "2021-09-01, 22:33:42",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}

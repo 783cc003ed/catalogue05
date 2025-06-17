@@ -654,3 +654,331 @@
     "stargazers_count": 11,
     "watchers_count": 11
 }
+{
+    "commits_count": 19,
+    "date_started": "2023-11-18",
+    "date_updated": "2024-03-31",
+    "description": "Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers",
+    "forks_count": 54,
+    "html_url": "https://github.com/danialhalo/SqliSniper",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "SqliSniper",
+    "repo_owner": "danialhalo",
+    "repotime": "2024-03-31, 05:32:28",
+    "stargazers_count": 300,
+    "watchers_count": 300
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-03-28",
+    "date_updated": "2024-03-28",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/mdm4ruf4hm3d/XXE-XML-external-entity-",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XXE-XML-external-entity-",
+    "repo_owner": "mdm4ruf4hm3d",
+    "repotime": "2024-03-28, 16:32:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-03-26",
+    "date_updated": "2024-03-26",
+    "description": "This code creates a decision-making model for detecting SQL injection attacks. Initially, data related to these attacks is loaded from a CSV file and then the model is trained. Finally, the performance of the model in detecting SQL injection attacks is evaluated using precision, accuracy, recall, and F1-score metrics.",
+    "forks_count": 0,
+    "html_url": "https://github.com/FaridAseel/FaridAseel-Decision-Tree-Model-for-SQL-Injection-Detection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "FaridAseel-Decision-Tree-Model-for-SQL-Injection-Detection",
+    "repo_owner": "FaridAseel",
+    "repotime": "2024-03-26, 18:26:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-03-24",
+    "date_updated": "2024-03-24",
+    "description": "Proof of Concept script to exploit the authenticated SSTI+RCE in Grav CMS (CVE-2024-28116)",
+    "forks_count": 2,
+    "html_url": "https://github.com/akabe1/Graver",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Graver",
+    "repo_owner": "akabe1",
+    "repotime": "2024-03-24, 15:49:01",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 17,
+    "date_started": "2024-03-12",
+    "date_updated": "2024-03-22",
+    "description": "Practical steps to help mitigate the risk of Zero-Day vulnerabilities",
+    "forks_count": 0,
+    "html_url": "https://github.com/jamesfed/0DayMitigations",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "0DayMitigations",
+    "repo_owner": "jamesfed",
+    "repotime": "2024-03-22, 16:31:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 40,
+    "date_started": "2020-11-13",
+    "date_updated": "2024-03-22",
+    "description": "Automating XSS using Bash",
+    "forks_count": 64,
+    "html_url": "https://github.com/theinfosecguy/QuickXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Shell",
+    "repo_name": "QuickXSS",
+    "repo_owner": "theinfosecguy",
+    "repotime": "2024-03-22, 19:51:16",
+    "stargazers_count": 355,
+    "watchers_count": 355
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-03-20",
+    "date_updated": "2024-03-21",
+    "description": "The Prompt Injection Testing Tool is a Python script designed to assess the security of your AI system's prompt handling against a predefined list of user prompts commonly used for injection attacks. This tool utilizes the OpenAI GPT-3.5 model to generate responses to system-user prompt pairs and outputs the results to a CSV file for analysis.",
+    "forks_count": 4,
+    "html_url": "https://github.com/AnthenaMatrix/Prompt-Injection-Testing-Tool",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "Prompt-Injection-Testing-Tool",
+    "repo_owner": "AnthenaMatrix",
+    "repotime": "2024-03-21, 19:29:31",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-03-18",
+    "date_updated": "2024-03-20",
+    "description": "Fortinet FortiClient EMS SQL Injection",
+    "forks_count": 11,
+    "html_url": "https://github.com/horizon3ai/CVE-2023-48788",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-48788",
+    "repo_owner": "horizon3ai",
+    "repotime": "2024-03-20, 16:42:20",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 33,
+    "date_started": "2024-02-21",
+    "date_updated": "2024-03-20",
+    "description": "Code injection on Android without ptrace",
+    "forks_count": 56,
+    "html_url": "https://github.com/erfur/linjector-rs",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Rust",
+    "repo_name": "linjector-rs",
+    "repo_owner": "erfur",
+    "repotime": "2024-03-20, 11:57:45",
+    "stargazers_count": 245,
+    "watchers_count": 245
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-03-12",
+    "date_updated": "2024-03-13",
+    "description": "ERPNext has a vulnerability in the implementation of the Jinja templating engine. SSTI may be performed to achieve remote code execution. An account hijack vulnerability enables unauthenticated attackers to gain RCE as well.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tw0point/ERPNext-SSTI-Hijack",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "ERPNext-SSTI-Hijack",
+    "repo_owner": "tw0point",
+    "repotime": "2024-03-13, 14:04:44",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1396,
+    "date_started": "2018-11-07",
+    "date_updated": "2024-03-13",
+    "description": "Dependency injection via APT (source code generation) ala &amp;quot;Server-Side Dagger DI&amp;quot;",
+    "forks_count": 18,
+    "html_url": "https://github.com/avaje/avaje-inject",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "avaje-inject",
+    "repo_owner": "avaje",
+    "repotime": "2024-03-13, 08:29:26",
+    "stargazers_count": 189,
+    "watchers_count": 189
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-02-25",
+    "date_updated": "2024-03-07",
+    "description": "ManageEngine Application Manager 12 suffers from a blind SQLi vulnerability that may be used to gain unauthenticated remote code execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tw0point/ManageEngineRCE",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "ManageEngineRCE",
+    "repo_owner": "tw0point",
+    "repotime": "2024-03-07, 18:34:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-03-07",
+    "date_updated": "2024-03-07",
+    "description": "In this project will showing the vulnerability and the solutions based in three scenario SQL injection, Missing function and access control MFAC, and Session Hijacking.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fireun/Software-Secure-Code",
+    "keywords": [
+        "session hijacking vulnerability",
+        "session vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "Software-Secure-Code",
+    "repo_owner": "fireun",
+    "repotime": "2024-03-07, 11:42:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-03-05",
+    "date_updated": "2024-03-05",
+    "description": "POC to implement captcha, session management, sql-injection, csrf-attack",
+    "forks_count": 0,
+    "html_url": "https://github.com/kapilrawal18/captcha-session-sql-injection-poc",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "captcha-session-sql-injection-poc",
+    "repo_owner": "kapilrawal18",
+    "repotime": "2024-03-05, 19:29:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-03-04",
+    "date_updated": "2024-03-04",
+    "description": "0day for Citrix Netscaler ADC and NetScaler Gateway latest versions",
+    "forks_count": 0,
+    "html_url": "https://github.com/Roonye660/CVE-2023-6548-POC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-6548-POC",
+    "repo_owner": "Roonye660",
+    "repotime": "2024-03-04, 12:36:29",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 607,
+    "date_started": "2012-09-18",
+    "date_updated": "2024-03-03",
+    "description": "Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist",
+    "forks_count": 629,
+    "html_url": "https://github.com/leizongmin/js-xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "js-xss",
+    "repo_owner": "leizongmin",
+    "repotime": "2024-03-03, 10:31:06",
+    "stargazers_count": 5274,
+    "watchers_count": 5274
+}
+{
+    "commits_count": 50,
+    "date_started": "2024-02-29",
+    "date_updated": "2024-03-01",
+    "description": "sql injection ,stored XSS -cross side scripting ",
+    "forks_count": 0,
+    "html_url": "https://github.com/itay601/not-secure",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "Python",
+    "repo_name": "not-secure",
+    "repo_owner": "itay601",
+    "repotime": "2024-03-01, 12:12:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2020-12-01",
+    "date_updated": "2024-03-01",
+    "description": "《深入理解WEB漏洞之SSRF漏洞》Server-Side Request Forgery.",
+    "forks_count": 6,
+    "html_url": "https://github.com/ASTTeam/SSRF",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "SSRF",
+    "repo_owner": "ASTTeam",
+    "repotime": "2024-03-01, 17:34:42",
+    "stargazers_count": 52,
+    "watchers_count": 52
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-12-01",
+    "date_updated": "2024-03-01",
+    "description": "《Web安全教程之XXE漏洞》XML External Entity Injection.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ASTTeam/XXE",
+    "keywords": [
+        "xml external entity",
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "XXE",
+    "repo_owner": "ASTTeam",
+    "repotime": "2024-03-01, 17:19:48",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}

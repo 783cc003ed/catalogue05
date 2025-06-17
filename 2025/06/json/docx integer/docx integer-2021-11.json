@@ -86,3 +86,179 @@
     "stargazers_count": 161,
     "watchers_count": 161
 }
+{
+    "commits_count": 8,
+    "date_started": "2021-11-20",
+    "date_updated": "2021-11-20",
+    "description": "CONTENT BEYOND SYLLABUS IMPLEMENTATION OF REMOTE COMMAND EXECUTION (RCE) AIM To implement Remote Command Execution(RCE). ALGORITHM CLIENT SIDE 1. Establish a connection between the Client and Server. Socket client=new Socket(&amp;quot;127.0.0.1&amp;quot;,6555); 2. Create instances for input and output streams. Print Stream ps=new Print Stream(client.getOutputStream()); 3. BufferedReaderbr=newBufferedReader(newInputStreamReader(System.in)); 4. Enter the command in Client Window. Send themessage to its output str=br.readLine(); ps.println(str); SERVER SIDE 1. Accept the connection request by the client. ServerSocket server=new ServerSocket(6555); Sockets=server.accept(); 2. Getthe IPaddressfromitsinputstream. BufferedReaderbr1=newBufferedReader(newInputStreamReader(s.getInputStream())); ip=br1.readLine(); 3. During runtime execute the process Runtime r=Runtime.getRuntime(); Process p=r.exec(str); CLIENT PROGRAM import java.io.*; import java.net.*; class clientRCE { public static void main(String...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Anishakaspar/CN-Lab",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Java",
+    "repo_name": "CN-Lab",
+    "repo_owner": "Anishakaspar",
+    "repotime": "2021-11-20, 22:52:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-11-18",
+    "date_updated": "2021-11-18",
+    "description": "Python script send Windows DLL PostreSQL UDF  SMB RCE ",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xm4ud/PostgreSQL_Windows_sendUDF_SMB",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "PostgreSQL_Windows_sendUDF_SMB",
+    "repo_owner": "0xm4ud",
+    "repotime": "2021-11-18, 16:06:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-09-05",
+    "date_updated": "2021-11-18",
+    "description": "An intentionally developed Linux vulnerable virtual machine. The main focus of this machine is to learn Linux Post Exploitation (Privilege Escalation) Techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Gitster7/Vulnerable_Machine-Linux",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Vulnerable_Machine-Linux",
+    "repo_owner": "Gitster7",
+    "repotime": "2021-11-18, 15:15:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-12-17",
+    "date_updated": "2021-11-08",
+    "description": "Patch to solve explorer.exe memory leak on windows, by restarting it",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dorumin/explorer-mem-leak",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "Rust",
+    "repo_name": "explorer-mem-leak",
+    "repo_owner": "Dorumin",
+    "repotime": "2021-11-08, 01:42:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-10-27",
+    "date_updated": "2021-11-02",
+    "description": "ASLR bypass without infoleak",
+    "forks_count": 17,
+    "html_url": "https://github.com/nick0ve/how-to-bypass-aslr-on-linux-x86_64",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "how-to-bypass-aslr-on-linux-x86_64",
+    "repo_owner": "nick0ve",
+    "repotime": "2021-11-02, 20:56:24",
+    "stargazers_count": 161,
+    "watchers_count": 161
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-11-20",
+    "date_updated": "2021-11-20",
+    "description": "CONTENT BEYOND SYLLABUS IMPLEMENTATION OF REMOTE COMMAND EXECUTION (RCE) AIM To implement Remote Command Execution(RCE). ALGORITHM CLIENT SIDE 1. Establish a connection between the Client and Server. Socket client=new Socket(&amp;quot;127.0.0.1&amp;quot;,6555); 2. Create instances for input and output streams. Print Stream ps=new Print Stream(client.getOutputStream()); 3. BufferedReaderbr=newBufferedReader(newInputStreamReader(System.in)); 4. Enter the command in Client Window. Send themessage to its output str=br.readLine(); ps.println(str); SERVER SIDE 1. Accept the connection request by the client. ServerSocket server=new ServerSocket(6555); Sockets=server.accept(); 2. Getthe IPaddressfromitsinputstream. BufferedReaderbr1=newBufferedReader(newInputStreamReader(s.getInputStream())); ip=br1.readLine(); 3. During runtime execute the process Runtime r=Runtime.getRuntime(); Process p=r.exec(str); CLIENT PROGRAM import java.io.*; import java.net.*; class clientRCE { public static void main(String...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Anishakaspar/CN-Lab",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Java",
+    "repo_name": "CN-Lab",
+    "repo_owner": "Anishakaspar",
+    "repotime": "2021-11-20, 22:52:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-11-18",
+    "date_updated": "2021-11-18",
+    "description": "Python script send Windows DLL PostreSQL UDF  SMB RCE ",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xm4ud/PostgreSQL_Windows_sendUDF_SMB",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "PostgreSQL_Windows_sendUDF_SMB",
+    "repo_owner": "0xm4ud",
+    "repotime": "2021-11-18, 16:06:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-09-05",
+    "date_updated": "2021-11-18",
+    "description": "An intentionally developed Linux vulnerable virtual machine. The main focus of this machine is to learn Linux Post Exploitation (Privilege Escalation) Techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Gitster7/Vulnerable_Machine-Linux",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Vulnerable_Machine-Linux",
+    "repo_owner": "Gitster7",
+    "repotime": "2021-11-18, 15:15:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-12-17",
+    "date_updated": "2021-11-08",
+    "description": "Patch to solve explorer.exe memory leak on windows, by restarting it",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dorumin/explorer-mem-leak",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "Rust",
+    "repo_name": "explorer-mem-leak",
+    "repo_owner": "Dorumin",
+    "repotime": "2021-11-08, 01:42:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-10-27",
+    "date_updated": "2021-11-02",
+    "description": "ASLR bypass without infoleak",
+    "forks_count": 17,
+    "html_url": "https://github.com/nick0ve/how-to-bypass-aslr-on-linux-x86_64",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "how-to-bypass-aslr-on-linux-x86_64",
+    "repo_owner": "nick0ve",
+    "repotime": "2021-11-02, 20:56:24",
+    "stargazers_count": 161,
+    "watchers_count": 161
+}

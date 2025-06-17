@@ -66,3 +66,139 @@
     "stargazers_count": 20,
     "watchers_count": 20
 }
+{
+    "commits_count": 548,
+    "date_started": "2018-08-03",
+    "date_updated": "2016-08-28",
+    "description": "Pupy is an opensource, multi-platform (Windows, Linux, OSX, Android), multi function RAT (Remote Administration Tool) mainly written in python. It features a all-in-memory execution guideline and leaves very low footprint. Pupy can communicate using various transports, migrate into processes (reflective injection), load remote python code, pytho…",
+    "forks_count": 2,
+    "html_url": "https://github.com/zrohdes/pupy",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "pupy",
+    "repo_owner": "zrohdes",
+    "repotime": "2016-08-28, 19:53:58",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1,
+    "date_started": "2016-08-27",
+    "date_updated": "2016-08-27",
+    "description": "                    GNU GENERAL PUBLIC LICENSE                        Version 3, 29 June 2007   Copyright (C) 2007 Free Software Foundation, Inc. &amp;lt;http://fsf.org/&amp;gt;  Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.                              Preamble    The GNU General Public License is a free, copyleft license for software and other kinds of works.    The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.  We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors.  You can apply it to your programs, too.    When we speak of free software, we are referr...",
+    "forks_count": 15,
+    "html_url": "https://github.com/frankmalcolmkembery/GNU-GENERAL-PUBLIC-LICENSE-Version-3-29-June-2007-Copy",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "GNU-GENERAL-PUBLIC-LICENSE-Version-3-29-June-2007-Copy",
+    "repo_owner": "frankmalcolmkembery",
+    "repotime": "2016-08-27, 21:43:21",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 12,
+    "date_started": "2014-10-11",
+    "date_updated": "2016-08-24",
+    "description": " injecting arbitrary codes in memory to bypass common antivirus solutions",
+    "forks_count": 62,
+    "html_url": "https://github.com/P0cL4bs/hanzoInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "hanzoInjection",
+    "repo_owner": "P0cL4bs",
+    "repotime": "2016-08-24, 16:17:23",
+    "stargazers_count": 165,
+    "watchers_count": 165
+}
+{
+    "commits_count": 6,
+    "date_started": "2016-08-02",
+    "date_updated": "2016-08-02",
+    "description": "An automated Python + Ruby based XXE Exploiter (GUI + CLI)",
+    "forks_count": 11,
+    "html_url": "https://github.com/rajeshmajumdar/xploit",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Ruby",
+    "repo_name": "xploit",
+    "repo_owner": "rajeshmajumdar",
+    "repotime": "2016-08-02, 21:31:49",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 548,
+    "date_started": "2018-08-03",
+    "date_updated": "2016-08-28",
+    "description": "Pupy is an opensource, multi-platform (Windows, Linux, OSX, Android), multi function RAT (Remote Administration Tool) mainly written in python. It features a all-in-memory execution guideline and leaves very low footprint. Pupy can communicate using various transports, migrate into processes (reflective injection), load remote python code, pytho…",
+    "forks_count": 2,
+    "html_url": "https://github.com/zrohdes/pupy",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "pupy",
+    "repo_owner": "zrohdes",
+    "repotime": "2016-08-28, 19:53:58",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1,
+    "date_started": "2016-08-27",
+    "date_updated": "2016-08-27",
+    "description": "                    GNU GENERAL PUBLIC LICENSE                        Version 3, 29 June 2007   Copyright (C) 2007 Free Software Foundation, Inc. &amp;lt;http://fsf.org/&amp;gt;  Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.                              Preamble    The GNU General Public License is a free, copyleft license for software and other kinds of works.    The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.  We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors.  You can apply it to your programs, too.    When we speak of free software, we are referr...",
+    "forks_count": 15,
+    "html_url": "https://github.com/frankmalcolmkembery/GNU-GENERAL-PUBLIC-LICENSE-Version-3-29-June-2007-Copy",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "GNU-GENERAL-PUBLIC-LICENSE-Version-3-29-June-2007-Copy",
+    "repo_owner": "frankmalcolmkembery",
+    "repotime": "2016-08-27, 21:43:21",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 12,
+    "date_started": "2014-10-11",
+    "date_updated": "2016-08-24",
+    "description": " injecting arbitrary codes in memory to bypass common antivirus solutions",
+    "forks_count": 62,
+    "html_url": "https://github.com/P0cL4bs/hanzoInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "hanzoInjection",
+    "repo_owner": "P0cL4bs",
+    "repotime": "2016-08-24, 16:17:23",
+    "stargazers_count": 165,
+    "watchers_count": 165
+}
+{
+    "commits_count": 6,
+    "date_started": "2016-08-02",
+    "date_updated": "2016-08-02",
+    "description": "An automated Python + Ruby based XXE Exploiter (GUI + CLI)",
+    "forks_count": 11,
+    "html_url": "https://github.com/rajeshmajumdar/xploit",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Ruby",
+    "repo_name": "xploit",
+    "repo_owner": "rajeshmajumdar",
+    "repotime": "2016-08-02, 21:31:49",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}

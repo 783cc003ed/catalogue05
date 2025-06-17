@@ -263,3 +263,533 @@
     "stargazers_count": 73,
     "watchers_count": 73
 }
+{
+    "commits_count": 26,
+    "date_started": "2022-04-15",
+    "date_updated": "2022-04-27",
+    "description": "Dump files over Local File Inclusion vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/Asiern/LFI-Dumper",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Go",
+    "repo_name": "LFI-Dumper",
+    "repo_owner": "Asiern",
+    "repotime": "2022-04-27, 20:19:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 153,
+    "date_started": "2014-06-23",
+    "date_updated": "2022-04-25",
+    "description": "XSS spider - 66/66 wavsep XSS detected",
+    "forks_count": 446,
+    "html_url": "https://github.com/DanMcInerney/xsscrapy",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xsscrapy",
+    "repo_owner": "DanMcInerney",
+    "repotime": "2022-04-25, 12:15:45",
+    "stargazers_count": 1701,
+    "watchers_count": 1701
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-20",
+    "date_updated": "2022-04-25",
+    "description": "CVE-2022-24990 TerraMaster TOS unauthenticated RCE via PHP Object Instantiation",
+    "forks_count": 9,
+    "html_url": "https://github.com/0xf4n9x/CVE-2022-24990",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-24990",
+    "repo_owner": "0xf4n9x",
+    "repotime": "2022-04-25, 12:58:21",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 28,
+    "date_started": "2022-04-18",
+    "date_updated": "2022-04-20",
+    "description": "** DISPUTED ** 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&amp;gt;Contents area. This is caused by misconfiguration of 7z.dll and a heap overflow. The command runs in a child process under the 7zFM.exe process, NOTE: multiple third parties have reported that no privilege escalation can occur.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sentinelblue/CVE-2022-29072",
+    "keywords": [
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2022-29072",
+    "repo_owner": "sentinelblue",
+    "repotime": "2022-04-20, 09:41:55",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-11-07",
+    "date_updated": "2022-04-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/MindIessIydev/MinecraftSessionVulnerability",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "MinecraftSessionVulnerability",
+    "repo_owner": "MindIessIydev",
+    "repotime": "2022-04-19, 10:05:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-12-01",
+    "date_updated": "2022-04-17",
+    "description": "Seowon 130-SLC router - 'queriesCnt' Remote Code Execution (Unauthenticated)",
+    "forks_count": 2,
+    "html_url": "https://github.com/TAPESH-TEAM/CVE-2021-42230-Seowon-130-SLC-router-queriesCnt-Remote-Code-Execution-Unauthenticated",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-42230-Seowon-130-SLC-router-queriesCnt-Remote-Code-Execution-Unauthenticated",
+    "repo_owner": "TAPESH-TEAM",
+    "repotime": "2022-04-17, 04:16:59",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 45,
+    "date_started": "2019-12-12",
+    "date_updated": "2022-04-14",
+    "description": "RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX.",
+    "forks_count": 86,
+    "html_url": "https://github.com/noperator/CVE-2019-18935",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-18935",
+    "repo_owner": "noperator",
+    "repotime": "2022-04-14, 14:23:38",
+    "stargazers_count": 356,
+    "watchers_count": 356
+}
+{
+    "commits_count": 139,
+    "date_started": "2012-07-09",
+    "date_updated": "2022-04-14",
+    "description": "A collection of web pages vulnerable to SQL injection flaws",
+    "forks_count": 131,
+    "html_url": "https://github.com/sqlmapproject/testenv",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "testenv",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2022-04-14, 11:05:57",
+    "stargazers_count": 347,
+    "watchers_count": 347
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-04-09",
+    "date_updated": "2022-04-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xConstant/Gym-Management-1.0-unauthenticated-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Gym-Management-1.0-unauthenticated-RCE",
+    "repo_owner": "0xConstant",
+    "repotime": "2022-04-14, 03:56:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-04-17",
+    "date_updated": "2022-04-13",
+    "description": "A mod that allows you to load Minecraft session ID tokens and a description of why this is bad",
+    "forks_count": 3,
+    "html_url": "https://github.com/ANewSpecies/MinecraftSessionVulnerability",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "MinecraftSessionVulnerability",
+    "repo_owner": "ANewSpecies",
+    "repotime": "2022-04-13, 22:43:19",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-04-12",
+    "date_updated": "2022-04-12",
+    "description": "TerraMaster TOS Unauthenticated Remote Command Execution(RCE) Vulnerability CVE-2022-24990",
+    "forks_count": 2,
+    "html_url": "https://github.com/antx-code/CVE-2022-24990",
+    "keywords": [
+        "unauthenticated rce",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-24990",
+    "repo_owner": "antx-code",
+    "repotime": "2022-04-12, 11:17:26",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-04-10",
+    "date_updated": "2022-04-10",
+    "description": "A UAC bypass dropper written in powershell",
+    "forks_count": 3,
+    "html_url": "https://github.com/skidzsec/powershell-uac-bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "powershell-uac-bypass",
+    "repo_owner": "skidzsec",
+    "repotime": "2022-04-10, 21:07:53",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-04-06",
+    "date_updated": "2022-04-06",
+    "description": "A powershell script for the OSCP Exam which sets up a windows reverse shell and automates the download of some useful windows post-exploit and privilege escalation tools.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kh0rvus/powershell-infect",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges",
+        "escalation of privileges exploit"
+    ],
+    "language": "PowerShell",
+    "repo_name": "powershell-infect",
+    "repo_owner": "kh0rvus",
+    "repotime": "2022-04-06, 11:48:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-23",
+    "date_updated": "2022-04-04",
+    "description": "Includes analysis environment, poc for analyzing vulnerabilities found in clickhouse lz4 implementation",
+    "forks_count": 0,
+    "html_url": "https://github.com/s3nt3/clickhouse-lz4-rce",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Shell",
+    "repo_name": "clickhouse-lz4-rce",
+    "repo_owner": "s3nt3",
+    "repotime": "2022-04-04, 10:57:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-03-29",
+    "date_updated": "2022-04-01",
+    "description": "golang RCE 0day POC",
+    "forks_count": 9,
+    "html_url": "https://github.com/hktalent/golang-RCE-0day-POC",
+    "keywords": [
+        "rce poc",
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "golang-RCE-0day-POC",
+    "repo_owner": "hktalent",
+    "repotime": "2022-04-01, 21:48:05",
+    "stargazers_count": 73,
+    "watchers_count": 73
+}
+{
+    "commits_count": 26,
+    "date_started": "2022-04-15",
+    "date_updated": "2022-04-27",
+    "description": "Dump files over Local File Inclusion vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/Asiern/LFI-Dumper",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Go",
+    "repo_name": "LFI-Dumper",
+    "repo_owner": "Asiern",
+    "repotime": "2022-04-27, 20:19:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 153,
+    "date_started": "2014-06-23",
+    "date_updated": "2022-04-25",
+    "description": "XSS spider - 66/66 wavsep XSS detected",
+    "forks_count": 447,
+    "html_url": "https://github.com/DanMcInerney/xsscrapy",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xsscrapy",
+    "repo_owner": "DanMcInerney",
+    "repotime": "2022-04-25, 12:15:45",
+    "stargazers_count": 1707,
+    "watchers_count": 1707
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-20",
+    "date_updated": "2022-04-25",
+    "description": "CVE-2022-24990 TerraMaster TOS unauthenticated RCE via PHP Object Instantiation",
+    "forks_count": 9,
+    "html_url": "https://github.com/0xf4n9x/CVE-2022-24990",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-24990",
+    "repo_owner": "0xf4n9x",
+    "repotime": "2022-04-25, 12:58:21",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 28,
+    "date_started": "2022-04-18",
+    "date_updated": "2022-04-20",
+    "description": "** DISPUTED ** 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&amp;gt;Contents area. This is caused by misconfiguration of 7z.dll and a heap overflow. The command runs in a child process under the 7zFM.exe process, NOTE: multiple third parties have reported that no privilege escalation can occur.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sentinelblue/CVE-2022-29072",
+    "keywords": [
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2022-29072",
+    "repo_owner": "sentinelblue",
+    "repotime": "2022-04-20, 09:41:55",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-11-07",
+    "date_updated": "2022-04-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/MindIessIydev/MinecraftSessionVulnerability",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "MinecraftSessionVulnerability",
+    "repo_owner": "MindIessIydev",
+    "repotime": "2022-04-19, 10:05:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-12-01",
+    "date_updated": "2022-04-17",
+    "description": "Seowon 130-SLC router - 'queriesCnt' Remote Code Execution (Unauthenticated)",
+    "forks_count": 2,
+    "html_url": "https://github.com/TAPESH-TEAM/CVE-2021-42230-Seowon-130-SLC-router-queriesCnt-Remote-Code-Execution-Unauthenticated",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-42230-Seowon-130-SLC-router-queriesCnt-Remote-Code-Execution-Unauthenticated",
+    "repo_owner": "TAPESH-TEAM",
+    "repotime": "2022-04-17, 04:16:59",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 45,
+    "date_started": "2019-12-12",
+    "date_updated": "2022-04-14",
+    "description": "RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX.",
+    "forks_count": 86,
+    "html_url": "https://github.com/noperator/CVE-2019-18935",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-18935",
+    "repo_owner": "noperator",
+    "repotime": "2022-04-14, 14:23:38",
+    "stargazers_count": 356,
+    "watchers_count": 356
+}
+{
+    "commits_count": 139,
+    "date_started": "2012-07-09",
+    "date_updated": "2022-04-14",
+    "description": "A collection of web pages vulnerable to SQL injection flaws",
+    "forks_count": 131,
+    "html_url": "https://github.com/sqlmapproject/testenv",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "testenv",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2022-04-14, 11:05:57",
+    "stargazers_count": 347,
+    "watchers_count": 347
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-04-09",
+    "date_updated": "2022-04-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xConstant/Gym-Management-1.0-unauthenticated-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Gym-Management-1.0-unauthenticated-RCE",
+    "repo_owner": "0xConstant",
+    "repotime": "2022-04-14, 03:56:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-04-17",
+    "date_updated": "2022-04-13",
+    "description": "A mod that allows you to load Minecraft session ID tokens and a description of why this is bad",
+    "forks_count": 3,
+    "html_url": "https://github.com/ANewSpecies/MinecraftSessionVulnerability",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "MinecraftSessionVulnerability",
+    "repo_owner": "ANewSpecies",
+    "repotime": "2022-04-13, 22:43:19",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-04-12",
+    "date_updated": "2022-04-12",
+    "description": "TerraMaster TOS Unauthenticated Remote Command Execution(RCE) Vulnerability CVE-2022-24990",
+    "forks_count": 2,
+    "html_url": "https://github.com/antx-code/CVE-2022-24990",
+    "keywords": [
+        "unauthenticated rce",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-24990",
+    "repo_owner": "antx-code",
+    "repotime": "2022-04-12, 11:17:26",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-04-10",
+    "date_updated": "2022-04-10",
+    "description": "A UAC bypass dropper written in powershell",
+    "forks_count": 3,
+    "html_url": "https://github.com/skidzsec/powershell-uac-bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "powershell-uac-bypass",
+    "repo_owner": "skidzsec",
+    "repotime": "2022-04-10, 21:07:53",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-04-06",
+    "date_updated": "2022-04-06",
+    "description": "A powershell script for the OSCP Exam which sets up a windows reverse shell and automates the download of some useful windows post-exploit and privilege escalation tools.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kh0rvus/powershell-infect",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges",
+        "escalation of privileges exploit"
+    ],
+    "language": "PowerShell",
+    "repo_name": "powershell-infect",
+    "repo_owner": "kh0rvus",
+    "repotime": "2022-04-06, 11:48:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-23",
+    "date_updated": "2022-04-04",
+    "description": "Includes analysis environment, poc for analyzing vulnerabilities found in clickhouse lz4 implementation",
+    "forks_count": 0,
+    "html_url": "https://github.com/s3nt3/clickhouse-lz4-rce",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Shell",
+    "repo_name": "clickhouse-lz4-rce",
+    "repo_owner": "s3nt3",
+    "repotime": "2022-04-04, 10:57:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-03-29",
+    "date_updated": "2022-04-01",
+    "description": "golang RCE 0day POC",
+    "forks_count": 9,
+    "html_url": "https://github.com/hktalent/golang-RCE-0day-POC",
+    "keywords": [
+        "rce poc",
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "golang-RCE-0day-POC",
+    "repo_owner": "hktalent",
+    "repotime": "2022-04-01, 21:48:05",
+    "stargazers_count": 73,
+    "watchers_count": 73
+}

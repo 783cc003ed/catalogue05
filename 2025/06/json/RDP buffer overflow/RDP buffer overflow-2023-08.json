@@ -102,3 +102,211 @@
     "stargazers_count": 6,
     "watchers_count": 6
 }
+{
+    "commits_count": 24,
+    "date_started": "2023-08-28",
+    "date_updated": "2023-08-31",
+    "description": "Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.",
+    "forks_count": 6,
+    "html_url": "https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831_ReverseShell_Winrar-RCE",
+    "repo_owner": "Maalfer",
+    "repotime": "2023-08-31, 09:40:12",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 49,
+    "date_started": "2022-03-20",
+    "date_updated": "2023-08-30",
+    "description": "Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin，online https://51pwn.com",
+    "forks_count": 25,
+    "html_url": "https://github.com/GhostTroops/go4Hacker",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Go",
+    "repo_name": "go4Hacker",
+    "repo_owner": "GhostTroops",
+    "repotime": "2023-08-30, 16:43:21",
+    "stargazers_count": 148,
+    "watchers_count": 148
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-08-24",
+    "date_updated": "2023-08-24",
+    "description": "Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE",
+    "forks_count": 27,
+    "html_url": "https://github.com/Octoberfest7/CVE-2023-36874_BOF",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2023-36874_BOF",
+    "repo_owner": "Octoberfest7",
+    "repotime": "2023-08-24, 20:30:01",
+    "stargazers_count": 206,
+    "watchers_count": 206
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-21",
+    "date_updated": "2023-08-23",
+    "description": "RCE exploit for CVE-2023-3519",
+    "forks_count": 43,
+    "html_url": "https://github.com/BishopFox/CVE-2023-3519",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-3519",
+    "repo_owner": "BishopFox",
+    "repotime": "2023-08-23, 09:27:28",
+    "stargazers_count": 224,
+    "watchers_count": 224
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-08-09",
+    "date_updated": "2023-08-11",
+    "description": "WPS-Office 1-Click RCE exp 202308091546",
+    "forks_count": 45,
+    "html_url": "https://github.com/b2git/WPS-0DAY-20230809",
+    "keywords": [
+        "rce vulnerability",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "WPS-0DAY-20230809",
+    "repo_owner": "b2git",
+    "repotime": "2023-08-11, 21:34:35",
+    "stargazers_count": 140,
+    "watchers_count": 140
+}
+{
+    "commits_count": 25,
+    "date_started": "2022-08-18",
+    "date_updated": "2023-08-09",
+    "description": "Hijack the Web session using QRPhishing",
+    "forks_count": 2,
+    "html_url": "https://github.com/chitranjan-gupta/QRPhishing",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "JavaScript",
+    "repo_name": "QRPhishing",
+    "repo_owner": "chitranjan-gupta",
+    "repotime": "2023-08-09, 19:35:32",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 24,
+    "date_started": "2023-08-28",
+    "date_updated": "2023-08-31",
+    "description": "Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.",
+    "forks_count": 6,
+    "html_url": "https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831_ReverseShell_Winrar-RCE",
+    "repo_owner": "Maalfer",
+    "repotime": "2023-08-31, 09:40:12",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 49,
+    "date_started": "2022-03-20",
+    "date_updated": "2023-08-30",
+    "description": "Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin，online https://51pwn.com",
+    "forks_count": 25,
+    "html_url": "https://github.com/GhostTroops/go4Hacker",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Go",
+    "repo_name": "go4Hacker",
+    "repo_owner": "GhostTroops",
+    "repotime": "2023-08-30, 16:43:21",
+    "stargazers_count": 148,
+    "watchers_count": 148
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-08-24",
+    "date_updated": "2023-08-24",
+    "description": "Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE",
+    "forks_count": 27,
+    "html_url": "https://github.com/Octoberfest7/CVE-2023-36874_BOF",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2023-36874_BOF",
+    "repo_owner": "Octoberfest7",
+    "repotime": "2023-08-24, 20:30:01",
+    "stargazers_count": 206,
+    "watchers_count": 206
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-21",
+    "date_updated": "2023-08-23",
+    "description": "RCE exploit for CVE-2023-3519",
+    "forks_count": 43,
+    "html_url": "https://github.com/BishopFox/CVE-2023-3519",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-3519",
+    "repo_owner": "BishopFox",
+    "repotime": "2023-08-23, 09:27:28",
+    "stargazers_count": 224,
+    "watchers_count": 224
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-08-09",
+    "date_updated": "2023-08-11",
+    "description": "WPS-Office 1-Click RCE exp 202308091546",
+    "forks_count": 45,
+    "html_url": "https://github.com/b2git/WPS-0DAY-20230809",
+    "keywords": [
+        "rce vulnerability",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "WPS-0DAY-20230809",
+    "repo_owner": "b2git",
+    "repotime": "2023-08-11, 21:34:35",
+    "stargazers_count": 140,
+    "watchers_count": 140
+}
+{
+    "commits_count": 25,
+    "date_started": "2022-08-18",
+    "date_updated": "2023-08-09",
+    "description": "Hijack the Web session using QRPhishing",
+    "forks_count": 2,
+    "html_url": "https://github.com/chitranjan-gupta/QRPhishing",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "JavaScript",
+    "repo_name": "QRPhishing",
+    "repo_owner": "chitranjan-gupta",
+    "repotime": "2023-08-09, 19:35:32",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}

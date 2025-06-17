@@ -304,3 +304,156 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 16,
+    "date_started": "2021-10-30",
+    "date_updated": "2022-08-29",
+    "description": "Just another script for automatize boolean-based blind SQL injections. (Demo)",
+    "forks_count": 12,
+    "html_url": "https://github.com/Sunlight-Rim/SQLbit",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "SQLbit",
+    "repo_owner": "Sunlight-Rim",
+    "repotime": "2022-08-29, 16:14:35",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-08-20",
+    "date_updated": "2022-08-20",
+    "description": "An Android Application that lists all the Stock Market Company information and Stock Chart with graphical representation. ● I will learn to use dependency injection with Dogger-Hilt, CSV parsing with OpenCSV, working with remote APIs using Retrofit, and local caching with Room.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mkumarrangi/StockMarketApp",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "StockMarketApp",
+    "repo_owner": "mkumarrangi",
+    "repotime": "2022-08-20, 14:34:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 79,
+    "date_started": "2022-06-12",
+    "date_updated": "2022-08-19",
+    "description": "Learning and hunting SQL injection bugs for 50 continuous days ",
+    "forks_count": 11,
+    "html_url": "https://github.com/arpeetrathii/50-Days-Of-SQLi",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "50-Days-Of-SQLi",
+    "repo_owner": "arpeetrathii",
+    "repotime": "2022-08-19, 12:58:34",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-16",
+    "date_updated": "2022-08-16",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Maximus-Meridius-SC/SOC-analyst-project",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": "Shell",
+    "repo_name": "SOC-analyst-project",
+    "repo_owner": "Maximus-Meridius-SC",
+    "repotime": "2022-08-16, 15:21:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 244,
+    "date_started": "2020-09-18",
+    "date_updated": "2022-08-15",
+    "description": "An automation tool that scans sub-domains, sub-domain takeover, then filters out XSS, SSTI, SSRF, and more injection point parameters and scans for some low hanging vulnerabilities automatically.",
+    "forks_count": 176,
+    "html_url": "https://github.com/R0X4R/Garud",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "Garud",
+    "repo_owner": "R0X4R",
+    "repotime": "2022-08-15, 17:41:14",
+    "stargazers_count": 791,
+    "watchers_count": 791
+}
+{
+    "commits_count": 1,
+    "date_started": "2016-02-17",
+    "date_updated": "2022-08-07",
+    "description": "A blind SQL injection module that uses bitshfting to calculate characters.",
+    "forks_count": 50,
+    "html_url": "https://github.com/awnumar/blind-sql-bitshifting",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "blind-sql-bitshifting",
+    "repo_owner": "awnumar",
+    "repotime": "2022-08-07, 15:36:27",
+    "stargazers_count": 123,
+    "watchers_count": 123
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-30",
+    "date_updated": "2022-08-06",
+    "description": "A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/glowbase/CVE-2020-35476",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-35476",
+    "repo_owner": "glowbase",
+    "repotime": "2022-08-06, 23:47:46",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-05-19",
+    "date_updated": "2022-08-06",
+    "description": "Verifed Proof of Concept on CVE-2022-24086",
+    "forks_count": 3,
+    "html_url": "https://github.com/oK0mo/CVE-2022-24086-RCE-PoC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-24086-RCE-PoC",
+    "repo_owner": "oK0mo",
+    "repotime": "2022-08-06, 01:33:51",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-07-30",
+    "date_updated": "2022-08-04",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bryanmillan/Final-Project",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Final-Project",
+    "repo_owner": "Bryanmillan",
+    "repotime": "2022-08-04, 00:42:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

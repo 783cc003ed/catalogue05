@@ -138,3 +138,283 @@
     "stargazers_count": 2,
     "watchers_count": 2
 }
+{
+    "commits_count": 14,
+    "date_started": "2019-10-10",
+    "date_updated": "2020-07-30",
+    "description": "Critical Remote Code Execution Vulnerability (CVE-2018-11776) Found in Apache Struts.",
+    "forks_count": 6,
+    "html_url": "https://github.com/ArunBhandarii/Apache-Struts-0Day-Exploit",
+    "keywords": [
+        "0day exploit",
+        "remote code execution vulnerability",
+        "remote code execution exploit",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Apache-Struts-0Day-Exploit",
+    "repo_owner": "ArunBhandarii",
+    "repotime": "2020-07-30, 17:35:34",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 23,
+    "date_started": "2017-04-24",
+    "date_updated": "2020-07-29",
+    "description": "A blind XXE injection callback handler. Uses HTTP and FTP to extract information. Originally written in Ruby by ONsec-Lab.",
+    "forks_count": 89,
+    "html_url": "https://github.com/TheTwitchy/xxer",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "xxer",
+    "repo_owner": "TheTwitchy",
+    "repotime": "2020-07-29, 09:54:37",
+    "stargazers_count": 520,
+    "watchers_count": 520
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-07-22",
+    "date_updated": "2020-07-25",
+    "description": "A very simple web app to visualize the profile of GitHub users.(Git commits , language used, activity status and much more). Currently For now unauthenticated requests, the rate limit allows for up to 60 requests per hour. Unauthenticated requests are associated with the originating IP address, and not the user making the requests.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pramit-marattha/Searchhubify-Visualizing-GithubUsers-Info-WebApp",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Searchhubify-Visualizing-GithubUsers-Info-WebApp",
+    "repo_owner": "pramit-marattha",
+    "repotime": "2020-07-25, 23:35:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-05-25",
+    "date_updated": "2020-07-22",
+    "description": "A Windows memory instrumentation tool to track memory allocations and deallocations for long-running applications.",
+    "forks_count": 1,
+    "html_url": "https://github.com/vastlimits/LeakDetect",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C",
+    "repo_name": "LeakDetect",
+    "repo_owner": "vastlimits",
+    "repotime": "2020-07-22, 21:53:56",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-07-19",
+    "date_updated": "2020-07-19",
+    "description": "LibreHealth v2.0.0 suffers from an authenticated file upload vulnerability allowing remote attackers to gain remote code execution (RCE) on the hosting webserver via uploading a maliciously crafted image.",
+    "forks_count": 2,
+    "html_url": "https://github.com/boku7/LibreHealth-authRCE",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "LibreHealth-authRCE",
+    "repo_owner": "boku7",
+    "repotime": "2020-07-19, 00:46:57",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-07-07",
+    "date_updated": "2020-07-07",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/arthurmgo/poc_memory_leak_fractal",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "C#",
+    "repo_name": "poc_memory_leak_fractal",
+    "repo_owner": "arthurmgo",
+    "repotime": "2020-07-07, 10:15:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2017-03-20",
+    "date_updated": "2020-07-06",
+    "description": "The DGS-1510 Websmart switch series firmware has been found to have security vulneratiblies. The vulnerabilities include unauthenticated command bypass and unauthenticated information disclosure.",
+    "forks_count": 1,
+    "html_url": "https://github.com/varangamin/CVE-2017-6206",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-6206",
+    "repo_owner": "varangamin",
+    "repotime": "2020-07-06, 16:58:29",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2688,
+    "date_started": "2019-09-11",
+    "date_updated": "2020-07-04",
+    "description": "Mouse Payload Loader (MPL) is a post exploitation surveillance tool written in Python, C and Objective-C. It gives you a command line session with extra functionality between you and a target machine with simple MPL payload. MPL gives you the power and convenience of uploading/downloading files, tab completion, taking pictures, location tracking, shell command execution, persistence, escalating privileges, password retrieval, and much more.",
+    "forks_count": 73,
+    "html_url": "https://github.com/fengjixuchui/mouse",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "Python",
+    "repo_name": "mouse",
+    "repo_owner": "fengjixuchui",
+    "repotime": "2020-07-04, 16:50:32",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-10-10",
+    "date_updated": "2020-07-30",
+    "description": "Critical Remote Code Execution Vulnerability (CVE-2018-11776) Found in Apache Struts.",
+    "forks_count": 6,
+    "html_url": "https://github.com/ArunBhandarii/Apache-Struts-0Day-Exploit",
+    "keywords": [
+        "0day exploit",
+        "remote code execution vulnerability",
+        "remote code execution exploit",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Apache-Struts-0Day-Exploit",
+    "repo_owner": "ArunBhandarii",
+    "repotime": "2020-07-30, 17:35:34",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 23,
+    "date_started": "2017-04-24",
+    "date_updated": "2020-07-29",
+    "description": "A blind XXE injection callback handler. Uses HTTP and FTP to extract information. Originally written in Ruby by ONsec-Lab.",
+    "forks_count": 89,
+    "html_url": "https://github.com/TheTwitchy/xxer",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "xxer",
+    "repo_owner": "TheTwitchy",
+    "repotime": "2020-07-29, 09:54:37",
+    "stargazers_count": 521,
+    "watchers_count": 521
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-07-22",
+    "date_updated": "2020-07-25",
+    "description": "A very simple web app to visualize the profile of GitHub users.(Git commits , language used, activity status and much more). Currently For now unauthenticated requests, the rate limit allows for up to 60 requests per hour. Unauthenticated requests are associated with the originating IP address, and not the user making the requests.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pramit-marattha/Searchhubify-Visualizing-GithubUsers-Info-WebApp",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Searchhubify-Visualizing-GithubUsers-Info-WebApp",
+    "repo_owner": "pramit-marattha",
+    "repotime": "2020-07-25, 23:35:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-05-25",
+    "date_updated": "2020-07-22",
+    "description": "A Windows memory instrumentation tool to track memory allocations and deallocations for long-running applications.",
+    "forks_count": 1,
+    "html_url": "https://github.com/vastlimits/LeakDetect",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C",
+    "repo_name": "LeakDetect",
+    "repo_owner": "vastlimits",
+    "repotime": "2020-07-22, 21:53:56",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-07-19",
+    "date_updated": "2020-07-19",
+    "description": "LibreHealth v2.0.0 suffers from an authenticated file upload vulnerability allowing remote attackers to gain remote code execution (RCE) on the hosting webserver via uploading a maliciously crafted image.",
+    "forks_count": 2,
+    "html_url": "https://github.com/boku7/LibreHealth-authRCE",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "LibreHealth-authRCE",
+    "repo_owner": "boku7",
+    "repotime": "2020-07-19, 00:46:57",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-07-07",
+    "date_updated": "2020-07-07",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/arthurmgo/poc_memory_leak_fractal",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "C#",
+    "repo_name": "poc_memory_leak_fractal",
+    "repo_owner": "arthurmgo",
+    "repotime": "2020-07-07, 10:15:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2017-03-20",
+    "date_updated": "2020-07-06",
+    "description": "The DGS-1510 Websmart switch series firmware has been found to have security vulneratiblies. The vulnerabilities include unauthenticated command bypass and unauthenticated information disclosure.",
+    "forks_count": 1,
+    "html_url": "https://github.com/varangamin/CVE-2017-6206",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-6206",
+    "repo_owner": "varangamin",
+    "repotime": "2020-07-06, 16:58:29",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2688,
+    "date_started": "2019-09-11",
+    "date_updated": "2020-07-04",
+    "description": "Mouse Payload Loader (MPL) is a post exploitation surveillance tool written in Python, C and Objective-C. It gives you a command line session with extra functionality between you and a target machine with simple MPL payload. MPL gives you the power and convenience of uploading/downloading files, tab completion, taking pictures, location tracking, shell command execution, persistence, escalating privileges, password retrieval, and much more.",
+    "forks_count": 73,
+    "html_url": "https://github.com/fengjixuchui/mouse",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "Python",
+    "repo_name": "mouse",
+    "repo_owner": "fengjixuchui",
+    "repotime": "2020-07-04, 16:50:32",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

@@ -37,7 +37,7 @@
     "date_started": "2018-10-25",
     "date_updated": "2022-10-27",
     "description": "A tool geared towards pentesting APIs using OpenAPI definitions.",
-    "forks_count": 41,
+    "forks_count": 42,
     "html_url": "https://github.com/RhinoSecurityLabs/Swagger-EZ",
     "keywords": [
         "by_owner"
@@ -46,8 +46,8 @@
     "repo_name": "Swagger-EZ",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2022-10-27, 08:33:37",
-    "stargazers_count": 176,
-    "watchers_count": 176
+    "stargazers_count": 177,
+    "watchers_count": 177
 }
 {
     "commits_count": 10,
@@ -83,6 +83,212 @@
     "repotime": "2022-10-11, 19:26:14",
     "stargazers_count": 190,
     "watchers_count": 190
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-06",
+    "date_updated": "2022-10-09",
+    "description": "Cobalt Strike Beacon Object File for bypassing UAC via the CMSTPLUA COM interface.",
+    "forks_count": 27,
+    "html_url": "https://github.com/tijme/cmstplua-uac-bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "cmstplua-uac-bypass",
+    "repo_owner": "tijme",
+    "repotime": "2022-10-09, 17:14:03",
+    "stargazers_count": 185,
+    "watchers_count": 185
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-01-02",
+    "date_updated": "2022-10-29",
+    "description": "Swift code to programmatically perform dylib injection",
+    "forks_count": 9,
+    "html_url": "https://github.com/cedowens/Inject_Dylib",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "Inject_Dylib",
+    "repo_owner": "cedowens",
+    "repotime": "2022-10-29, 16:13:52",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-29",
+    "date_updated": "2022-10-28",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Koogleblitz/UAF-Overflow-Exploits",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "C",
+    "repo_name": "UAF-Overflow-Exploits",
+    "repo_owner": "Koogleblitz",
+    "repotime": "2022-10-28, 19:30:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2018-10-25",
+    "date_updated": "2022-10-27",
+    "description": "A tool geared towards pentesting APIs using OpenAPI definitions.",
+    "forks_count": 42,
+    "html_url": "https://github.com/RhinoSecurityLabs/Swagger-EZ",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Swagger-EZ",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2022-10-27, 08:33:37",
+    "stargazers_count": 177,
+    "watchers_count": 177
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-10-26",
+    "date_updated": "2022-10-25",
+    "description": "Roblox Studio Remote Code Execution (RCE) Vulnerability",
+    "forks_count": 5,
+    "html_url": "https://github.com/strawbberrys/0x1D",
+    "keywords": [
+        "rce vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "0x1D",
+    "repo_owner": "strawbberrys",
+    "repotime": "2022-10-25, 19:19:07",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 19,
+    "date_started": "2019-08-22",
+    "date_updated": "2022-10-11",
+    "description": "PNG IDAT chunks XSS payload generator",
+    "forks_count": 30,
+    "html_url": "https://github.com/vavkamil/xss2png",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xss2png",
+    "repo_owner": "vavkamil",
+    "repotime": "2022-10-11, 19:26:14",
+    "stargazers_count": 190,
+    "watchers_count": 190
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-06",
+    "date_updated": "2022-10-09",
+    "description": "Cobalt Strike Beacon Object File for bypassing UAC via the CMSTPLUA COM interface.",
+    "forks_count": 27,
+    "html_url": "https://github.com/tijme/cmstplua-uac-bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "cmstplua-uac-bypass",
+    "repo_owner": "tijme",
+    "repotime": "2022-10-09, 17:14:03",
+    "stargazers_count": 185,
+    "watchers_count": 185
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-01-02",
+    "date_updated": "2022-10-29",
+    "description": "Swift code to programmatically perform dylib injection",
+    "forks_count": 9,
+    "html_url": "https://github.com/cedowens/Inject_Dylib",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "Inject_Dylib",
+    "repo_owner": "cedowens",
+    "repotime": "2022-10-29, 16:13:52",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-29",
+    "date_updated": "2022-10-28",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Koogleblitz/UAF-Overflow-Exploits",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "C",
+    "repo_name": "UAF-Overflow-Exploits",
+    "repo_owner": "Koogleblitz",
+    "repotime": "2022-10-28, 19:30:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2018-10-25",
+    "date_updated": "2022-10-27",
+    "description": "A tool geared towards pentesting APIs using OpenAPI definitions.",
+    "forks_count": 42,
+    "html_url": "https://github.com/RhinoSecurityLabs/Swagger-EZ",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Swagger-EZ",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2022-10-27, 08:33:37",
+    "stargazers_count": 177,
+    "watchers_count": 177
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-10-26",
+    "date_updated": "2022-10-25",
+    "description": "Roblox Studio Remote Code Execution (RCE) Vulnerability",
+    "forks_count": 5,
+    "html_url": "https://github.com/strawbberrys/0x1D",
+    "keywords": [
+        "rce vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "0x1D",
+    "repo_owner": "strawbberrys",
+    "repotime": "2022-10-25, 19:19:07",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 19,
+    "date_started": "2019-08-22",
+    "date_updated": "2022-10-11",
+    "description": "PNG IDAT chunks XSS payload generator",
+    "forks_count": 30,
+    "html_url": "https://github.com/vavkamil/xss2png",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xss2png",
+    "repo_owner": "vavkamil",
+    "repotime": "2022-10-11, 19:26:14",
+    "stargazers_count": 189,
+    "watchers_count": 189
 }
 {
     "commits_count": 4,

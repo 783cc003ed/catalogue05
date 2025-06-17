@@ -85,3 +85,177 @@
     "stargazers_count": 149,
     "watchers_count": 149
 }
+{
+    "commits_count": 5,
+    "date_started": "2021-09-29",
+    "date_updated": "2021-09-29",
+    "description": "This docx exploit uses res files inside Microsoft .docx file to execute malicious files. This exploit is related to CVE-2021-40444",
+    "forks_count": 3,
+    "html_url": "https://github.com/LazarusReborn/Docx-Exploit-2021",
+    "keywords": [
+        "Microsoft rce exploitation",
+        "Microsoft rce exploit",
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "Docx-Exploit-2021",
+    "repo_owner": "LazarusReborn",
+    "repotime": "2021-09-29, 13:45:43",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-05-11",
+    "date_updated": "2021-09-21",
+    "description": "These are project resources for the live YouTube lectures. Includes dependency injection, git internals, code reviews and the system design contest.",
+    "forks_count": 81,
+    "html_url": "https://github.com/coding-parrot/youtube-projects",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "youtube-projects",
+    "repo_owner": "coding-parrot",
+    "repotime": "2021-09-21, 17:12:45",
+    "stargazers_count": 128,
+    "watchers_count": 128
+}
+{
+    "commits_count": 26,
+    "date_started": "2015-02-04",
+    "date_updated": "2021-09-20",
+    "description": "Static analysis tool for Golang that protects against SQL injections     ",
+    "forks_count": 46,
+    "html_url": "https://github.com/stripe-archive/safesql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "safesql",
+    "repo_owner": "stripe-archive",
+    "repotime": "2021-09-20, 17:02:47",
+    "stargazers_count": 562,
+    "watchers_count": 562
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-07-03",
+    "date_updated": "2021-09-13",
+    "description": "PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits",
+    "forks_count": 40,
+    "html_url": "https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows lpe exploit",
+        "Windows rce",
+        "Windows lpe",
+        "Windows lpe vulnerability",
+        "Windows rce exploit",
+        "lpe vulnerability",
+        "rce exploitation",
+        "Windows rce proof of concept",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "rce proof of concept",
+        "rce vulnerability",
+        "lpe proof of concept",
+        "Windows lpe proof of concept",
+        "Windows rce vulnerability",
+        "lpe exploitation",
+        "rce exploit"
+    ],
+    "language": "C",
+    "repo_name": "PrintNightmare-CVE-2021-34527",
+    "repo_owner": "nemo-wq",
+    "repotime": "2021-09-13, 22:12:16",
+    "stargazers_count": 150,
+    "watchers_count": 150
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-09-29",
+    "date_updated": "2021-09-29",
+    "description": "This docx exploit uses res files inside Microsoft .docx file to execute malicious files. This exploit is related to CVE-2021-40444",
+    "forks_count": 3,
+    "html_url": "https://github.com/LazarusReborn/Docx-Exploit-2021",
+    "keywords": [
+        "Microsoft rce exploitation",
+        "Microsoft rce exploit",
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "Docx-Exploit-2021",
+    "repo_owner": "LazarusReborn",
+    "repotime": "2021-09-29, 13:45:43",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-05-11",
+    "date_updated": "2021-09-21",
+    "description": "These are project resources for the live YouTube lectures. Includes dependency injection, git internals, code reviews and the system design contest.",
+    "forks_count": 81,
+    "html_url": "https://github.com/coding-parrot/youtube-projects",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "youtube-projects",
+    "repo_owner": "coding-parrot",
+    "repotime": "2021-09-21, 17:12:45",
+    "stargazers_count": 129,
+    "watchers_count": 129
+}
+{
+    "commits_count": 26,
+    "date_started": "2015-02-04",
+    "date_updated": "2021-09-20",
+    "description": "Static analysis tool for Golang that protects against SQL injections     ",
+    "forks_count": 46,
+    "html_url": "https://github.com/stripe-archive/safesql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "safesql",
+    "repo_owner": "stripe-archive",
+    "repotime": "2021-09-20, 17:02:47",
+    "stargazers_count": 562,
+    "watchers_count": 562
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-07-03",
+    "date_updated": "2021-09-13",
+    "description": "PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits",
+    "forks_count": 40,
+    "html_url": "https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows lpe exploit",
+        "Windows rce",
+        "Windows lpe",
+        "Windows lpe vulnerability",
+        "Windows rce exploit",
+        "lpe vulnerability",
+        "rce exploitation",
+        "Windows rce proof of concept",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "rce proof of concept",
+        "rce vulnerability",
+        "lpe proof of concept",
+        "Windows lpe proof of concept",
+        "Windows rce vulnerability",
+        "lpe exploitation",
+        "rce exploit"
+    ],
+    "language": "C",
+    "repo_name": "PrintNightmare-CVE-2021-34527",
+    "repo_owner": "nemo-wq",
+    "repotime": "2021-09-13, 22:12:16",
+    "stargazers_count": 150,
+    "watchers_count": 150
+}

@@ -198,3 +198,103 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 6,
+    "date_started": "2023-01-21",
+    "date_updated": "2023-04-25",
+    "description": "LPE exploit via windows driver",
+    "forks_count": 5,
+    "html_url": "https://github.com/Marsel-marsel/CVE-2022-45770",
+    "keywords": [
+        "Windows lpe exploitation",
+        "lpe exploitation",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "lpe exploit"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2022-45770",
+    "repo_owner": "Marsel-marsel",
+    "repotime": "2023-04-25, 10:54:36",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-03-20",
+    "date_updated": "2023-04-16",
+    "description": "Reference: https://github.com/kasif-dekel/OSR_DeviceTree_Vuln",
+    "forks_count": 0,
+    "html_url": "https://github.com/fengjixuchui/DeviceTree-Exploit-LPE",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "DeviceTree-Exploit-LPE",
+    "repo_owner": "fengjixuchui",
+    "repotime": "2023-04-16, 13:31:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-04-24",
+    "date_updated": "2023-04-10",
+    "description": "I have developed a malware program using the C programming language, which includes various malicious features such as privilege escalation exploit, lsass dumper, reverse shell, keylogging, IAT hooking, DLL injection, and more. It should be noted that the program is constantly being updated, and some versions may not be fully functional.",
+    "forks_count": 0,
+    "html_url": "https://github.com/XiaoLaoMen/WindowsOffender",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "Win escalation of privileges",
+        "Windows escalation of privileges exploit",
+        "Win escalation of privileges exploitation",
+        "Win escalation of privileges exploit",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "WindowsOffender",
+    "repo_owner": "XiaoLaoMen",
+    "repotime": "2023-04-10, 16:17:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-03-29",
+    "date_updated": "2023-04-10",
+    "description": "Bypassing PatchGuard on modern x64 systems",
+    "forks_count": 56,
+    "html_url": "https://github.com/AdamOron/PatchGuardBypass",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "PatchGuardBypass",
+    "repo_owner": "AdamOron",
+    "repotime": "2023-04-10, 02:28:55",
+    "stargazers_count": 260,
+    "watchers_count": 260
+}
+{
+    "commits_count": 36,
+    "date_started": "2022-08-02",
+    "date_updated": "2023-04-05",
+    "description": "Exploits and reports for CVE-2022-38604",
+    "forks_count": 1,
+    "html_url": "https://github.com/LucaBarile/CVE-2022-38604",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "zero-day poc",
+        "zero-day disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2022-38604",
+    "repo_owner": "LucaBarile",
+    "repotime": "2023-04-05, 15:35:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

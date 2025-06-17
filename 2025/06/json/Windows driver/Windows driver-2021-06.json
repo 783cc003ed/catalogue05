@@ -53,3 +53,113 @@
     "stargazers_count": 51,
     "watchers_count": 51
 }
+{
+    "commits_count": 32,
+    "date_started": "2021-06-29",
+    "date_updated": "2021-06-30",
+    "description": "UAC bypass abusing WinSxS in &amp;quot;wusa.exe&amp;quot;.  Referred from and similar to: https://github.com/L3cr0f/DccwBypassUAC , Kudos to L3cr0f and FuzzySecurity for their efforts",
+    "forks_count": 3,
+    "html_url": "https://github.com/Yet-Zio/WusaBypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "WusaBypassUAC",
+    "repo_owner": "Yet-Zio",
+    "repotime": "2021-06-30, 22:35:30",
+    "stargazers_count": 34,
+    "watchers_count": 34
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-06-21",
+    "date_updated": "2021-06-28",
+    "description": "A Proof Of Concept that shows a Remote Code Execution vulnerability in the terrain scripts of Scrap Mechanic",
+    "forks_count": 0,
+    "html_url": "https://github.com/TechnologicNick/Scrap-Mechanic-Terrain-RCE-POC",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce proof of concept"
+    ],
+    "language": "Lua",
+    "repo_name": "Scrap-Mechanic-Terrain-RCE-POC",
+    "repo_owner": "TechnologicNick",
+    "repotime": "2021-06-28, 20:30:19",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-06-02",
+    "date_updated": "2021-06-04",
+    "description": "RCE Exploit for Gitlab &amp;lt; 13.9.4",
+    "forks_count": 12,
+    "html_url": "https://github.com/CsEnox/GitLab-Wiki-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "GitLab-Wiki-RCE",
+    "repo_owner": "CsEnox",
+    "repotime": "2021-06-04, 05:53:29",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 32,
+    "date_started": "2021-06-29",
+    "date_updated": "2021-06-30",
+    "description": "UAC bypass abusing WinSxS in &amp;quot;wusa.exe&amp;quot;.  Referred from and similar to: https://github.com/L3cr0f/DccwBypassUAC , Kudos to L3cr0f and FuzzySecurity for their efforts",
+    "forks_count": 3,
+    "html_url": "https://github.com/Yet-Zio/WusaBypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "WusaBypassUAC",
+    "repo_owner": "Yet-Zio",
+    "repotime": "2021-06-30, 22:35:30",
+    "stargazers_count": 34,
+    "watchers_count": 34
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-06-21",
+    "date_updated": "2021-06-28",
+    "description": "A Proof Of Concept that shows a Remote Code Execution vulnerability in the terrain scripts of Scrap Mechanic",
+    "forks_count": 0,
+    "html_url": "https://github.com/TechnologicNick/Scrap-Mechanic-Terrain-RCE-POC",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce proof of concept"
+    ],
+    "language": "Lua",
+    "repo_name": "Scrap-Mechanic-Terrain-RCE-POC",
+    "repo_owner": "TechnologicNick",
+    "repotime": "2021-06-28, 20:30:19",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-06-02",
+    "date_updated": "2021-06-04",
+    "description": "RCE Exploit for Gitlab &amp;lt; 13.9.4",
+    "forks_count": 12,
+    "html_url": "https://github.com/CsEnox/GitLab-Wiki-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "GitLab-Wiki-RCE",
+    "repo_owner": "CsEnox",
+    "repotime": "2021-06-04, 05:53:29",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}

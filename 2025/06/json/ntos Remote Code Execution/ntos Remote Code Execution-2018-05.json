@@ -16,3 +16,39 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 4,
+    "date_started": "2018-05-14",
+    "date_updated": "2018-05-14",
+    "description": "Directory traversal vulnerability in Cooolsoft PowerFTP Server 2.03 allows attackers to list or read arbitrary files and directories via a .. (dot dot) in (1) LS or (2) GET.",
+    "forks_count": 0,
+    "html_url": "https://github.com/alt3kx/CVE-2001-0931",
+    "keywords": [
+        "directory traversal attack",
+        "directory traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2001-0931",
+    "repo_owner": "alt3kx",
+    "repotime": "2018-05-14, 21:14:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-05-14",
+    "date_updated": "2018-05-14",
+    "description": "Directory traversal vulnerability in Cooolsoft PowerFTP Server 2.03 allows attackers to list or read arbitrary files and directories via a .. (dot dot) in (1) LS or (2) GET.",
+    "forks_count": 0,
+    "html_url": "https://github.com/alt3kx/CVE-2001-0931",
+    "keywords": [
+        "directory traversal attack",
+        "directory traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2001-0931",
+    "repo_owner": "alt3kx",
+    "repotime": "2018-05-14, 21:14:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

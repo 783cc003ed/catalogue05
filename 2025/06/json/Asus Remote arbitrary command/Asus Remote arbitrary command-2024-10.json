@@ -690,3 +690,1387 @@
     "stargazers_count": 4,
     "watchers_count": 4
 }
+{
+    "commits_count": 2,
+    "date_started": "2024-10-31",
+    "date_updated": "2024-10-31",
+    "description": "Ivanti EPM Agent &amp;lt; 2020.1 SU6 Windows Local Privilege Escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/swgee/Ivanti-EPM-LPE",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": null,
+    "repo_name": "Ivanti-EPM-LPE",
+    "repo_owner": "swgee",
+    "repotime": "2024-10-31, 09:51:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 73,
+    "date_started": "2018-03-11",
+    "date_updated": "2024-10-31",
+    "description": "Awesome XSS stuff",
+    "forks_count": 769,
+    "html_url": "https://github.com/s0md3v/AwesomeXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "AwesomeXSS",
+    "repo_owner": "s0md3v",
+    "repotime": "2024-10-31, 00:31:09",
+    "stargazers_count": 4925,
+    "watchers_count": 4925
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-10-17",
+    "date_updated": "2024-10-30",
+    "description": "Conducted a comprehensive penetration testing engagement for Rekall Corporation. Identified and exploited critical vulnerabilities in their web application, Linux servers, and Windows servers, including SQL Injection and Remote Code Execution. Provided detailed reports and remediation strategies to enhance their security posture.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tylerbcrawford/rekall-penetration-testing",
+    "keywords": [
+        "Windows remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "rekall-penetration-testing",
+    "repo_owner": "tylerbcrawford",
+    "repotime": "2024-10-30, 10:26:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-04-22",
+    "date_updated": "2024-10-30",
+    "description": "Make predictions on frames from plancha-session",
+    "forks_count": 0,
+    "html_url": "https://github.com/SeatizenDOI/plancha-inference",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "plancha-inference",
+    "repo_owner": "SeatizenDOI",
+    "repotime": "2024-10-30, 08:48:19",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-28",
+    "date_updated": "2024-10-28",
+    "description": "The Zero-Day Vulnerability Scanner is a Python-based tool designed to detect potential security vulnerabilities in web applications through anomaly detection and fuzz testing. It utilizes advanced techniques to identify unexpected behaviors in system resources, which could indicate exploitable weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mr-Najm-Ouchen/Zero-Day-Vulnerability-Scanner",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Zero-Day-Vulnerability-Scanner",
+    "repo_owner": "Mr-Najm-Ouchen",
+    "repotime": "2024-10-28, 21:51:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-10-28",
+    "date_updated": "2024-10-28",
+    "description": "CVE-2024-47575: Critical Remote Code Execution (RCE) Vulnerability in VMware Horizon",
+    "forks_count": 1,
+    "html_url": "https://github.com/groshi/CVE-2024-47575-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-47575-POC",
+    "repo_owner": "groshi",
+    "repotime": "2024-10-28, 10:46:46",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-09-03",
+    "date_updated": "2024-10-27",
+    "description": "Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software.",
+    "forks_count": 2,
+    "html_url": "https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Unauthenticated-RCE-FUXA-CVE-2023-33831",
+    "repo_owner": "rodolfomarianocy",
+    "repotime": "2024-10-27, 19:55:09",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-10-25",
+    "date_updated": "2024-10-25",
+    "description": "CVE-Traversal: A Comprehensive Path and Directory Traversal Vulnerability Tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/lamcodeofpwnosec/CVE-Traversal",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-Traversal",
+    "repo_owner": "lamcodeofpwnosec",
+    "repotime": "2024-10-25, 22:02:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-07-20",
+    "date_updated": "2024-10-25",
+    "description": "Unauthenticated Sensitive Information Disclosure",
+    "forks_count": 0,
+    "html_url": "https://github.com/aratane/CVE-2021-3831",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": "PHP",
+    "repo_name": "CVE-2021-3831",
+    "repo_owner": "aratane",
+    "repotime": "2024-10-25, 01:28:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2024-03-10",
+    "date_updated": "2024-10-23",
+    "description": "Collection of scripts to automate privilege escalation on Linux and Windows, for approved penetration testing purposes only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/PentestPlaybook/enumeration_priv_esc",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "enumeration_priv_esc",
+    "repo_owner": "PentestPlaybook",
+    "repotime": "2024-10-23, 20:23:32",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-09-23",
+    "date_updated": "2024-10-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/nnc-11/Dual-Threat-Analysis-Email-Exploits-And-Rce-Attacks-",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": null,
+    "repo_name": "Dual-Threat-Analysis-Email-Exploits-And-Rce-Attacks-",
+    "repo_owner": "nnc-11",
+    "repotime": "2024-10-23, 15:38:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-01-28",
+    "date_updated": "2024-10-21",
+    "description": "iOS jailbreak-free code injection framework. ",
+    "forks_count": 18,
+    "html_url": "https://github.com/camila314/enzyme",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "enzyme",
+    "repo_owner": "camila314",
+    "repotime": "2024-10-21, 18:04:57",
+    "stargazers_count": 114,
+    "watchers_count": 114
+}
+{
+    "commits_count": 34,
+    "date_started": "2023-11-01",
+    "date_updated": "2024-10-20",
+    "description": "exploit for f5-big-ip RCE cve-2023-46747",
+    "forks_count": 46,
+    "html_url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46747-RCE",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2024-10-20, 18:27:37",
+    "stargazers_count": 203,
+    "watchers_count": 203
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-20",
+    "date_updated": "2024-10-20",
+    "description": "XploitHunter is a Python-based tool designed to scan websites for common vulnerabilities, including SQL Injection, XSS, CSRF, insecure headers, directory traversal and insecure file uploads.",
+    "forks_count": 0,
+    "html_url": "https://github.com/greg1703/XploitHunter",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "XploitHunter",
+    "repo_owner": "greg1703",
+    "repotime": "2024-10-20, 11:54:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-18",
+    "description": "Unauthenticated Remote Code Execution via Angular-Base64-Upload Library ",
+    "forks_count": 16,
+    "html_url": "https://github.com/rvizx/CVE-2024-42640",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-42640",
+    "repo_owner": "rvizx",
+    "repotime": "2024-10-18, 20:40:05",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-10-17",
+    "date_updated": "2024-10-17",
+    "description": "it analyzes TCP and UDP packets that have been captured by a wireshark session during a DNS spoofing attack. This allows us to understand which hostnames our target is trying to connect to and which ports. This is the first step to then be able to sniff the traffic between our target and its destination.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dokDork/DNSWatchdog",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "Python",
+    "repo_name": "DNSWatchdog",
+    "repo_owner": "dokDork",
+    "repotime": "2024-10-17, 17:26:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 132,
+    "date_started": "2021-02-23",
+    "date_updated": "2024-10-17",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 78,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2024-10-17, 06:04:00",
+    "stargazers_count": 797,
+    "watchers_count": 797
+}
+{
+    "commits_count": 64,
+    "date_started": "2024-08-28",
+    "date_updated": "2024-10-15",
+    "description": "a powerful tool designed to automate the detection of Server-Side Request Forgery (SSRF) and Open Redirect vulnerabilities",
+    "forks_count": 3,
+    "html_url": "https://github.com/KariiemGamal/0dSSRF",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Shell",
+    "repo_name": "0dSSRF",
+    "repo_owner": "KariiemGamal",
+    "repotime": "2024-10-15, 14:25:24",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-10-04",
+    "date_updated": "2024-10-14",
+    "description": "How to Perform a Brute Force Attack and Establish a Mythic C2 Session",
+    "forks_count": 0,
+    "html_url": "https://github.com/Virus192/Day-21-Simulating-a-Brute-Force-Attack-with-Mythic-C2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Day-21-Simulating-a-Brute-Force-Attack-with-Mythic-C2",
+    "repo_owner": "Virus192",
+    "repotime": "2024-10-14, 21:46:30",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-10-14",
+    "date_updated": "2024-10-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Talleyrand-34/counter-csv-injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Go",
+    "repo_name": "counter-csv-injection",
+    "repo_owner": "Talleyrand-34",
+    "repotime": "2024-10-14, 13:48:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1193,
+    "date_started": "2016-12-09",
+    "date_updated": "2024-10-14",
+    "description": "This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can be declaratively extended by additional operations, which can be used to reassemble and execute the existing functionalities according to project-specific requirements. But also completely new commands can be integrated quickly and easily via dependency injection.",
+    "forks_count": 17,
+    "html_url": "https://github.com/techdivision/import-cli-simple",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "PHP",
+    "repo_name": "import-cli-simple",
+    "repo_owner": "techdivision",
+    "repotime": "2024-10-14, 11:53:52",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-06-19",
+    "date_updated": "2024-10-13",
+    "description": "SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.",
+    "forks_count": 7,
+    "html_url": "https://github.com/nuts7/CVE-2023-27372",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-27372",
+    "repo_owner": "nuts7",
+    "repotime": "2024-10-13, 21:08:54",
+    "stargazers_count": 64,
+    "watchers_count": 64
+}
+{
+    "commits_count": 28,
+    "date_started": "2020-04-27",
+    "date_updated": "2024-10-13",
+    "description": "Websites Vulnerability Scanner ",
+    "forks_count": 14,
+    "html_url": "https://github.com/Err0r-ICA/SCANter",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "SCANter",
+    "repo_owner": "Err0r-ICA",
+    "repotime": "2024-10-13, 15:20:37",
+    "stargazers_count": 71,
+    "watchers_count": 71
+}
+{
+    "commits_count": 111,
+    "date_started": "2017-03-21",
+    "date_updated": "2024-10-12",
+    "description": "SSRF (Server Side Request Forgery) testing resources",
+    "forks_count": 481,
+    "html_url": "https://github.com/cujanovic/SSRF-Testing",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Testing",
+    "repo_owner": "cujanovic",
+    "repotime": "2024-10-12, 14:43:20",
+    "stargazers_count": 2408,
+    "watchers_count": 2408
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-09",
+    "description": "A PoC to test if we can catch memory leak during the test",
+    "forks_count": 0,
+    "html_url": "https://github.com/mnayef95-tlb/memory_leak_test",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "Dart",
+    "repo_name": "memory_leak_test",
+    "repo_owner": "mnayef95-tlb",
+    "repotime": "2024-10-09, 23:25:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-09",
+    "description": "CVE-2024-38077: Remote Code Execution Vulnerability in Windows Remote Desktop Licensing Service",
+    "forks_count": 3,
+    "html_url": "https://github.com/mrmtwoj/CVE-2024-38077",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Windows remote code execution poc",
+        "remote code execution poc",
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-38077",
+    "repo_owner": "mrmtwoj",
+    "repotime": "2024-10-09, 10:12:25",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-08",
+    "date_updated": "2024-10-08",
+    "description": " A PoC exploit for the CVE-2024-7029 vulnerability found in AvTech devices, allowing Remote Code Execution (RCE)",
+    "forks_count": 1,
+    "html_url": "https://github.com/geniuszlyy/CVE-2024-7029",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-7029",
+    "repo_owner": "geniuszlyy",
+    "repotime": "2024-10-08, 13:08:07",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 16,
+    "date_started": "2024-07-27",
+    "date_updated": "2024-10-06",
+    "description": "A simple Python-based number guessing game where players try to guess a randomly generated number between 1 and 10. Players have 5 attempts to guess correctly, with hints provided after each wrong guess. Includes input validation and an option to replay or exit the game after each round.",
+    "forks_count": 0,
+    "html_url": "https://github.com/GopolangNgobeni/Number_Guessing_Game",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "Python",
+    "repo_name": "Number_Guessing_Game",
+    "repo_owner": "GopolangNgobeni",
+    "repotime": "2024-10-06, 22:16:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-09-19",
+    "date_updated": "2024-10-06",
+    "description": "Small demo to show Exploiting XML External Entities to fully understand the concepts in https://tryhackme.com/r/room/xxeinjection",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nallixion/aspnet-XXE-Demo",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "JavaScript",
+    "repo_name": "aspnet-XXE-Demo",
+    "repo_owner": "Nallixion",
+    "repotime": "2024-10-06, 20:59:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-06",
+    "date_updated": "2024-10-06",
+    "description": "is a PoC tool designed to exploit an authenticated Remote Code Execution (RCE) vulnerability in specific versions of PostgreSQL (9.3 - 11.7)",
+    "forks_count": 1,
+    "html_url": "https://github.com/geniuszlyy/CVE-2019-9193",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-9193",
+    "repo_owner": "geniuszlyy",
+    "repotime": "2024-10-06, 22:45:30",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 62,
+    "date_started": "2024-10-05",
+    "date_updated": "2024-10-06",
+    "description": "This plugin is designed to allow the execution of Jupyter Notebooks remotely from within an Airflow DAG. By using the plugin, users can integrate and manage Jupyter Notebook workflows as part of their Airflow pipelines, ensuring that data analysis or machine learning code can be orchestrated and run automatically within the DAG scheduling system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/marcelo225/airflow-remote-jupyter-notebook",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": "Python",
+    "repo_name": "airflow-remote-jupyter-notebook",
+    "repo_owner": "marcelo225",
+    "repotime": "2024-10-06, 10:13:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-05",
+    "date_updated": "2024-10-05",
+    "description": "A Python tool for exploiting Django RCE via deserialization vulnerabilities in session cookies, allowing remote code execution through forged cookies.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Spix0r/django-rce-exploit",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "django-rce-exploit",
+    "repo_owner": "Spix0r",
+    "repotime": "2024-10-05, 23:53:01",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-05",
+    "date_updated": "2024-10-05",
+    "description": "DNS Spoofing Tool simulates TuDoor attacks by crafting and sending malicious DNS responses to exploit vulnerabilities in DNS resolution, allowing users to test and evaluate DNS security measures.",
+    "forks_count": 1,
+    "html_url": "https://github.com/mrmtwoj/TuDoor-",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "TuDoor-",
+    "repo_owner": "mrmtwoj",
+    "repotime": "2024-10-05, 23:27:40",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-02-28",
+    "date_updated": "2024-10-05",
+    "description": "LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2023-40000",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-40000",
+    "repo_owner": "rxerium",
+    "repotime": "2024-10-05, 07:19:09",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 16,
+    "date_started": "2024-10-03",
+    "date_updated": "2024-10-04",
+    "description": "Unauthenticated RCE on cups-browsed (exploit and nuclei template)",
+    "forks_count": 2,
+    "html_url": "https://github.com/l0n3m4n/CVE-2024-47176",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-47176",
+    "repo_owner": "l0n3m4n",
+    "repotime": "2024-10-04, 01:11:16",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-03",
+    "date_updated": "2024-10-03",
+    "description": "id like to use wifi manager to add more credentials without hard coding ,SSID,PASSWORD,BOTID and TOKEN",
+    "forks_count": 0,
+    "html_url": "https://github.com/Josiahmphago/congenial-couscous",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "congenial-couscous",
+    "repo_owner": "Josiahmphago",
+    "repotime": "2024-10-03, 10:44:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 29,
+    "date_started": "2024-08-08",
+    "date_updated": "2024-10-02",
+    "description": "Apache OFBiz RCE Scanner &amp;amp; Exploit (CVE-2024-38856)",
+    "forks_count": 11,
+    "html_url": "https://github.com/securelayer7/CVE-2024-38856_Scanner",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-38856_Scanner",
+    "repo_owner": "securelayer7",
+    "repotime": "2024-10-02, 18:59:27",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-09-30",
+    "date_updated": "2024-10-02",
+    "description": "I have completed a full-stack application using Next.js, TypeScript, Clerk for authentication, shadcn/ui for user interfaces, Supabase for cloud data storage, and Stripe for payments. The app features three user roles: public users (unauthenticated), authenticated users (account holders), and admins (who can create products).",
+    "forks_count": 0,
+    "html_url": "https://github.com/AbdirashidAbdullahiAhmed/next-store",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "next-store",
+    "repo_owner": "AbdirashidAbdullahiAhmed",
+    "repotime": "2024-10-02, 14:25:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 45,
+    "date_started": "2024-08-07",
+    "date_updated": "2024-10-02",
+    "description": "Fraktal's take on building an affordable Laser Fault Injection Rig",
+    "forks_count": 6,
+    "html_url": "https://github.com/fraktalcyber/lfi-rig",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi-rig",
+    "repo_owner": "fraktalcyber",
+    "repotime": "2024-10-02, 09:54:42",
+    "stargazers_count": 84,
+    "watchers_count": 84
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-01",
+    "date_updated": "2024-10-01",
+    "description": "This Python script helps to detect the Etherleak (CVE-2003-0001) vulnerability on a target host by analyzing the padding data in network packets. The script uses Scapy to send various types of requests (ICMP, ARP, or TCP) and checks if the responses contain any padding data that could potentially leak sensitive memory contents.",
+    "forks_count": 0,
+    "html_url": "https://github.com/marb08/etherleak-checker",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "etherleak-checker",
+    "repo_owner": "marb08",
+    "repotime": "2024-10-01, 16:12:30",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-31",
+    "date_updated": "2024-10-31",
+    "description": "Ivanti EPM Agent &amp;lt; 2020.1 SU6 Windows Local Privilege Escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/swgee/Ivanti-EPM-LPE",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": null,
+    "repo_name": "Ivanti-EPM-LPE",
+    "repo_owner": "swgee",
+    "repotime": "2024-10-31, 09:51:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 73,
+    "date_started": "2018-03-11",
+    "date_updated": "2024-10-31",
+    "description": "Awesome XSS stuff",
+    "forks_count": 770,
+    "html_url": "https://github.com/s0md3v/AwesomeXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "AwesomeXSS",
+    "repo_owner": "s0md3v",
+    "repotime": "2024-10-31, 00:31:09",
+    "stargazers_count": 4926,
+    "watchers_count": 4926
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-10-17",
+    "date_updated": "2024-10-30",
+    "description": "Conducted a comprehensive penetration testing engagement for Rekall Corporation. Identified and exploited critical vulnerabilities in their web application, Linux servers, and Windows servers, including SQL Injection and Remote Code Execution. Provided detailed reports and remediation strategies to enhance their security posture.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tylerbcrawford/rekall-penetration-testing",
+    "keywords": [
+        "Windows remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "rekall-penetration-testing",
+    "repo_owner": "tylerbcrawford",
+    "repotime": "2024-10-30, 10:26:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-04-22",
+    "date_updated": "2024-10-30",
+    "description": "Make predictions on frames from plancha-session",
+    "forks_count": 0,
+    "html_url": "https://github.com/SeatizenDOI/plancha-inference",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "plancha-inference",
+    "repo_owner": "SeatizenDOI",
+    "repotime": "2024-10-30, 08:48:19",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-28",
+    "date_updated": "2024-10-28",
+    "description": "The Zero-Day Vulnerability Scanner is a Python-based tool designed to detect potential security vulnerabilities in web applications through anomaly detection and fuzz testing. It utilizes advanced techniques to identify unexpected behaviors in system resources, which could indicate exploitable weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mr-Najm-Ouchen/Zero-Day-Vulnerability-Scanner",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Zero-Day-Vulnerability-Scanner",
+    "repo_owner": "Mr-Najm-Ouchen",
+    "repotime": "2024-10-28, 21:51:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-10-28",
+    "date_updated": "2024-10-28",
+    "description": "CVE-2024-47575: Critical Remote Code Execution (RCE) Vulnerability in VMware Horizon",
+    "forks_count": 1,
+    "html_url": "https://github.com/groshi/CVE-2024-47575-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-47575-POC",
+    "repo_owner": "groshi",
+    "repotime": "2024-10-28, 10:46:46",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-09-03",
+    "date_updated": "2024-10-27",
+    "description": "Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software.",
+    "forks_count": 2,
+    "html_url": "https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Unauthenticated-RCE-FUXA-CVE-2023-33831",
+    "repo_owner": "rodolfomarianocy",
+    "repotime": "2024-10-27, 19:55:09",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-10-25",
+    "date_updated": "2024-10-25",
+    "description": "CVE-Traversal: A Comprehensive Path and Directory Traversal Vulnerability Tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/lamcodeofpwnosec/CVE-Traversal",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-Traversal",
+    "repo_owner": "lamcodeofpwnosec",
+    "repotime": "2024-10-25, 22:02:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-07-20",
+    "date_updated": "2024-10-25",
+    "description": "Unauthenticated Sensitive Information Disclosure",
+    "forks_count": 0,
+    "html_url": "https://github.com/aratane/CVE-2021-3831",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": "PHP",
+    "repo_name": "CVE-2021-3831",
+    "repo_owner": "aratane",
+    "repotime": "2024-10-25, 01:28:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2024-03-10",
+    "date_updated": "2024-10-23",
+    "description": "Collection of scripts to automate privilege escalation on Linux and Windows, for approved penetration testing purposes only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/PentestPlaybook/enumeration_priv_esc",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "enumeration_priv_esc",
+    "repo_owner": "PentestPlaybook",
+    "repotime": "2024-10-23, 20:23:32",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-09-23",
+    "date_updated": "2024-10-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/nnc-11/Dual-Threat-Analysis-Email-Exploits-And-Rce-Attacks-",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": null,
+    "repo_name": "Dual-Threat-Analysis-Email-Exploits-And-Rce-Attacks-",
+    "repo_owner": "nnc-11",
+    "repotime": "2024-10-23, 15:38:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-01-28",
+    "date_updated": "2024-10-21",
+    "description": "iOS jailbreak-free code injection framework. ",
+    "forks_count": 18,
+    "html_url": "https://github.com/camila314/enzyme",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "enzyme",
+    "repo_owner": "camila314",
+    "repotime": "2024-10-21, 18:04:57",
+    "stargazers_count": 114,
+    "watchers_count": 114
+}
+{
+    "commits_count": 34,
+    "date_started": "2023-11-01",
+    "date_updated": "2024-10-20",
+    "description": "exploit for f5-big-ip RCE cve-2023-46747",
+    "forks_count": 46,
+    "html_url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46747-RCE",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2024-10-20, 18:27:37",
+    "stargazers_count": 203,
+    "watchers_count": 203
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-20",
+    "date_updated": "2024-10-20",
+    "description": "XploitHunter is a Python-based tool designed to scan websites for common vulnerabilities, including SQL Injection, XSS, CSRF, insecure headers, directory traversal and insecure file uploads.",
+    "forks_count": 0,
+    "html_url": "https://github.com/greg1703/XploitHunter",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "XploitHunter",
+    "repo_owner": "greg1703",
+    "repotime": "2024-10-20, 11:54:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-18",
+    "description": "Unauthenticated Remote Code Execution via Angular-Base64-Upload Library ",
+    "forks_count": 16,
+    "html_url": "https://github.com/rvizx/CVE-2024-42640",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-42640",
+    "repo_owner": "rvizx",
+    "repotime": "2024-10-18, 20:40:05",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-10-17",
+    "date_updated": "2024-10-17",
+    "description": "it analyzes TCP and UDP packets that have been captured by a wireshark session during a DNS spoofing attack. This allows us to understand which hostnames our target is trying to connect to and which ports. This is the first step to then be able to sniff the traffic between our target and its destination.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dokDork/DNSWatchdog",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "Python",
+    "repo_name": "DNSWatchdog",
+    "repo_owner": "dokDork",
+    "repotime": "2024-10-17, 17:26:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 132,
+    "date_started": "2021-02-23",
+    "date_updated": "2024-10-17",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 78,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2024-10-17, 06:04:00",
+    "stargazers_count": 797,
+    "watchers_count": 797
+}
+{
+    "commits_count": 64,
+    "date_started": "2024-08-28",
+    "date_updated": "2024-10-15",
+    "description": "a powerful tool designed to automate the detection of Server-Side Request Forgery (SSRF) and Open Redirect vulnerabilities",
+    "forks_count": 3,
+    "html_url": "https://github.com/KariiemGamal/0dSSRF",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Shell",
+    "repo_name": "0dSSRF",
+    "repo_owner": "KariiemGamal",
+    "repotime": "2024-10-15, 14:25:24",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-10-04",
+    "date_updated": "2024-10-14",
+    "description": "How to Perform a Brute Force Attack and Establish a Mythic C2 Session",
+    "forks_count": 0,
+    "html_url": "https://github.com/Virus192/Day-21-Simulating-a-Brute-Force-Attack-with-Mythic-C2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Day-21-Simulating-a-Brute-Force-Attack-with-Mythic-C2",
+    "repo_owner": "Virus192",
+    "repotime": "2024-10-14, 21:46:30",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-10-14",
+    "date_updated": "2024-10-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Talleyrand-34/counter-csv-injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Go",
+    "repo_name": "counter-csv-injection",
+    "repo_owner": "Talleyrand-34",
+    "repotime": "2024-10-14, 13:48:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1193,
+    "date_started": "2016-12-09",
+    "date_updated": "2024-10-14",
+    "description": "This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can be declaratively extended by additional operations, which can be used to reassemble and execute the existing functionalities according to project-specific requirements. But also completely new commands can be integrated quickly and easily via dependency injection.",
+    "forks_count": 17,
+    "html_url": "https://github.com/techdivision/import-cli-simple",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "PHP",
+    "repo_name": "import-cli-simple",
+    "repo_owner": "techdivision",
+    "repotime": "2024-10-14, 11:53:52",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-06-19",
+    "date_updated": "2024-10-13",
+    "description": "SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.",
+    "forks_count": 7,
+    "html_url": "https://github.com/nuts7/CVE-2023-27372",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-27372",
+    "repo_owner": "nuts7",
+    "repotime": "2024-10-13, 21:08:54",
+    "stargazers_count": 64,
+    "watchers_count": 64
+}
+{
+    "commits_count": 28,
+    "date_started": "2020-04-27",
+    "date_updated": "2024-10-13",
+    "description": "Websites Vulnerability Scanner ",
+    "forks_count": 14,
+    "html_url": "https://github.com/Err0r-ICA/SCANter",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "SCANter",
+    "repo_owner": "Err0r-ICA",
+    "repotime": "2024-10-13, 15:20:37",
+    "stargazers_count": 71,
+    "watchers_count": 71
+}
+{
+    "commits_count": 111,
+    "date_started": "2017-03-21",
+    "date_updated": "2024-10-12",
+    "description": "SSRF (Server Side Request Forgery) testing resources",
+    "forks_count": 482,
+    "html_url": "https://github.com/cujanovic/SSRF-Testing",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Testing",
+    "repo_owner": "cujanovic",
+    "repotime": "2024-10-12, 14:43:20",
+    "stargazers_count": 2412,
+    "watchers_count": 2412
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-09",
+    "description": "A PoC to test if we can catch memory leak during the test",
+    "forks_count": 0,
+    "html_url": "https://github.com/mnayef95-tlb/memory_leak_test",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "Dart",
+    "repo_name": "memory_leak_test",
+    "repo_owner": "mnayef95-tlb",
+    "repotime": "2024-10-09, 23:25:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-09",
+    "description": "CVE-2024-38077: Remote Code Execution Vulnerability in Windows Remote Desktop Licensing Service",
+    "forks_count": 3,
+    "html_url": "https://github.com/mrmtwoj/CVE-2024-38077",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Windows remote code execution poc",
+        "remote code execution poc",
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-38077",
+    "repo_owner": "mrmtwoj",
+    "repotime": "2024-10-09, 10:12:25",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-08",
+    "date_updated": "2024-10-08",
+    "description": " A PoC exploit for the CVE-2024-7029 vulnerability found in AvTech devices, allowing Remote Code Execution (RCE)",
+    "forks_count": 1,
+    "html_url": "https://github.com/geniuszlyy/CVE-2024-7029",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-7029",
+    "repo_owner": "geniuszlyy",
+    "repotime": "2024-10-08, 13:08:07",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 16,
+    "date_started": "2024-07-27",
+    "date_updated": "2024-10-06",
+    "description": "A simple Python-based number guessing game where players try to guess a randomly generated number between 1 and 10. Players have 5 attempts to guess correctly, with hints provided after each wrong guess. Includes input validation and an option to replay or exit the game after each round.",
+    "forks_count": 0,
+    "html_url": "https://github.com/GopolangNgobeni/Number_Guessing_Game",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "Python",
+    "repo_name": "Number_Guessing_Game",
+    "repo_owner": "GopolangNgobeni",
+    "repotime": "2024-10-06, 22:16:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-09-19",
+    "date_updated": "2024-10-06",
+    "description": "Small demo to show Exploiting XML External Entities to fully understand the concepts in https://tryhackme.com/r/room/xxeinjection",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nallixion/aspnet-XXE-Demo",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "JavaScript",
+    "repo_name": "aspnet-XXE-Demo",
+    "repo_owner": "Nallixion",
+    "repotime": "2024-10-06, 20:59:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-06",
+    "date_updated": "2024-10-06",
+    "description": "is a PoC tool designed to exploit an authenticated Remote Code Execution (RCE) vulnerability in specific versions of PostgreSQL (9.3 - 11.7)",
+    "forks_count": 1,
+    "html_url": "https://github.com/geniuszlyy/CVE-2019-9193",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-9193",
+    "repo_owner": "geniuszlyy",
+    "repotime": "2024-10-06, 22:45:30",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 62,
+    "date_started": "2024-10-05",
+    "date_updated": "2024-10-06",
+    "description": "This plugin is designed to allow the execution of Jupyter Notebooks remotely from within an Airflow DAG. By using the plugin, users can integrate and manage Jupyter Notebook workflows as part of their Airflow pipelines, ensuring that data analysis or machine learning code can be orchestrated and run automatically within the DAG scheduling system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/marcelo225/airflow-remote-jupyter-notebook",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": "Python",
+    "repo_name": "airflow-remote-jupyter-notebook",
+    "repo_owner": "marcelo225",
+    "repotime": "2024-10-06, 10:13:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-05",
+    "date_updated": "2024-10-05",
+    "description": "A Python tool for exploiting Django RCE via deserialization vulnerabilities in session cookies, allowing remote code execution through forged cookies.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Spix0r/django-rce-exploit",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "django-rce-exploit",
+    "repo_owner": "Spix0r",
+    "repotime": "2024-10-05, 23:53:01",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-05",
+    "date_updated": "2024-10-05",
+    "description": "DNS Spoofing Tool simulates TuDoor attacks by crafting and sending malicious DNS responses to exploit vulnerabilities in DNS resolution, allowing users to test and evaluate DNS security measures.",
+    "forks_count": 1,
+    "html_url": "https://github.com/mrmtwoj/TuDoor-",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "TuDoor-",
+    "repo_owner": "mrmtwoj",
+    "repotime": "2024-10-05, 23:27:40",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-02-28",
+    "date_updated": "2024-10-05",
+    "description": "LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2023-40000",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-40000",
+    "repo_owner": "rxerium",
+    "repotime": "2024-10-05, 07:19:09",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 16,
+    "date_started": "2024-10-03",
+    "date_updated": "2024-10-04",
+    "description": "Unauthenticated RCE on cups-browsed (exploit and nuclei template)",
+    "forks_count": 2,
+    "html_url": "https://github.com/l0n3m4n/CVE-2024-47176",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-47176",
+    "repo_owner": "l0n3m4n",
+    "repotime": "2024-10-04, 01:11:16",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-03",
+    "date_updated": "2024-10-03",
+    "description": "id like to use wifi manager to add more credentials without hard coding ,SSID,PASSWORD,BOTID and TOKEN",
+    "forks_count": 0,
+    "html_url": "https://github.com/Josiahmphago/congenial-couscous",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "congenial-couscous",
+    "repo_owner": "Josiahmphago",
+    "repotime": "2024-10-03, 10:44:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 29,
+    "date_started": "2024-08-08",
+    "date_updated": "2024-10-02",
+    "description": "Apache OFBiz RCE Scanner &amp;amp; Exploit (CVE-2024-38856)",
+    "forks_count": 11,
+    "html_url": "https://github.com/securelayer7/CVE-2024-38856_Scanner",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-38856_Scanner",
+    "repo_owner": "securelayer7",
+    "repotime": "2024-10-02, 18:59:27",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-09-30",
+    "date_updated": "2024-10-02",
+    "description": "I have completed a full-stack application using Next.js, TypeScript, Clerk for authentication, shadcn/ui for user interfaces, Supabase for cloud data storage, and Stripe for payments. The app features three user roles: public users (unauthenticated), authenticated users (account holders), and admins (who can create products).",
+    "forks_count": 0,
+    "html_url": "https://github.com/AbdirashidAbdullahiAhmed/next-store",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "next-store",
+    "repo_owner": "AbdirashidAbdullahiAhmed",
+    "repotime": "2024-10-02, 14:25:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 45,
+    "date_started": "2024-08-07",
+    "date_updated": "2024-10-02",
+    "description": "Fraktal's take on building an affordable Laser Fault Injection Rig",
+    "forks_count": 6,
+    "html_url": "https://github.com/fraktalcyber/lfi-rig",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi-rig",
+    "repo_owner": "fraktalcyber",
+    "repotime": "2024-10-02, 09:54:42",
+    "stargazers_count": 84,
+    "watchers_count": 84
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-01",
+    "date_updated": "2024-10-01",
+    "description": "This Python script helps to detect the Etherleak (CVE-2003-0001) vulnerability on a target host by analyzing the padding data in network packets. The script uses Scapy to send various types of requests (ICMP, ARP, or TCP) and checks if the responses contain any padding data that could potentially leak sensitive memory contents.",
+    "forks_count": 0,
+    "html_url": "https://github.com/marb08/etherleak-checker",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "etherleak-checker",
+    "repo_owner": "marb08",
+    "repotime": "2024-10-01, 16:12:30",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}

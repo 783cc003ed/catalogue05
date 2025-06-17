@@ -34,3 +34,21 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 11,
+    "date_started": "2022-09-27",
+    "date_updated": "2022-09-29",
+    "description": "Fix a memory leak in SharedMemory on Windows",
+    "forks_count": 1,
+    "html_url": "https://github.com/amsikking/shm_win_patch",
+    "keywords": [
+        "Windows memory leak",
+        "Win memory leak"
+    ],
+    "language": "Python",
+    "repo_name": "shm_win_patch",
+    "repo_owner": "amsikking",
+    "repotime": "2022-09-29, 09:35:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

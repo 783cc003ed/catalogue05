@@ -67,3 +67,72 @@
     "stargazers_count": 35,
     "watchers_count": 35
 }
+{
+    "commits_count": 232,
+    "date_started": "2013-02-08",
+    "date_updated": "2014-10-24",
+    "description": "Static heap reachability analysis for Java bytecode and Android memory leak finder.",
+    "forks_count": 15,
+    "html_url": "https://github.com/cuplv/thresher",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Java",
+    "repo_name": "thresher",
+    "repo_owner": "cuplv",
+    "repotime": "2014-10-24, 21:22:19",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 1259,
+    "date_started": "2012-09-02",
+    "date_updated": "2014-10-21",
+    "description": "smali patcher for Android code injection",
+    "forks_count": 42,
+    "html_url": "https://github.com/mateor/auto-patcher",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Shell",
+    "repo_name": "auto-patcher",
+    "repo_owner": "mateor",
+    "repotime": "2014-10-21, 00:31:13",
+    "stargazers_count": 75,
+    "watchers_count": 75
+}
+{
+    "commits_count": 4,
+    "date_started": "2014-05-15",
+    "date_updated": "2014-10-14",
+    "description": "A tool to exploit .NET DCOM for EoP and RCE. Is fixed in latest versions of the .NET.",
+    "forks_count": 31,
+    "html_url": "https://github.com/tyranid/ExploitDotNetDCOM",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "ExploitDotNetDCOM",
+    "repo_owner": "tyranid",
+    "repotime": "2014-10-14, 23:44:26",
+    "stargazers_count": 91,
+    "watchers_count": 91
+}
+{
+    "commits_count": 15,
+    "date_started": "2011-11-17",
+    "date_updated": "2014-10-06",
+    "description": "A java HttpServletRequestWrapper to guard against sql injection and xss attacks",
+    "forks_count": 22,
+    "html_url": "https://github.com/acslocum/InjectionAttackFilter",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "InjectionAttackFilter",
+    "repo_owner": "acslocum",
+    "repotime": "2014-10-06, 17:18:45",
+    "stargazers_count": 35,
+    "watchers_count": 35
+}
