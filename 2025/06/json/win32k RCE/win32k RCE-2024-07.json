@@ -3,40 +3,6 @@
     "date_started": "2024-07-28",
     "date_updated": "2024-07-29",
     "description": "In the 3.3.5a WoW client there is a Remote Code Exploit (RCE) that allows any private server owner to inject and run arbitrary code on your computer. This patcher will modify your WoW executable file to fix the exploit.",
-    "forks_count": 20,
-    "html_url": "https://github.com/stoneharry/RCEPatcher",
-    "keywords": [
-        "rce exploit"
-    ],
-    "language": "C#",
-    "repo_name": "RCEPatcher",
-    "repo_owner": "stoneharry",
-    "repotime": "2024-07-29, 19:45:35",
-    "stargazers_count": 54,
-    "watchers_count": 54
-}
-{
-    "commits_count": 9,
-    "date_started": "2024-07-28",
-    "date_updated": "2024-07-29",
-    "description": "In the 3.3.5a WoW client there is a Remote Code Exploit (RCE) that allows any private server owner to inject and run arbitrary code on your computer. This patcher will modify your WoW executable file to fix the exploit.",
-    "forks_count": 21,
-    "html_url": "https://github.com/stoneharry/RCEPatcher",
-    "keywords": [
-        "rce exploit"
-    ],
-    "language": "C#",
-    "repo_name": "RCEPatcher",
-    "repo_owner": "stoneharry",
-    "repotime": "2024-07-29, 19:45:35",
-    "stargazers_count": 55,
-    "watchers_count": 55
-}
-{
-    "commits_count": 9,
-    "date_started": "2024-07-28",
-    "date_updated": "2024-07-29",
-    "description": "In the 3.3.5a WoW client there is a Remote Code Exploit (RCE) that allows any private server owner to inject and run arbitrary code on your computer. This patcher will modify your WoW executable file to fix the exploit.",
     "forks_count": 21,
     "html_url": "https://github.com/stoneharry/RCEPatcher",
     "keywords": [
