@@ -1,0 +1,104 @@
+{
+    "commits_count": 11,
+    "date_started": "2024-01-12",
+    "date_updated": "2024-01-16",
+    "description": "CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept",
+    "forks_count": 1,
+    "html_url": "https://github.com/sunnyvale-it/CVE-2023-50164-PoC",
+    "keywords": [
+        "rce proof of concept",
+        "path traversal vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2023-50164-PoC",
+    "repo_owner": "sunnyvale-it",
+    "repotime": "2024-01-16, 14:05:51",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-01-14",
+    "date_updated": "2024-01-14",
+    "description": "Research work on implementing RCE in micro-python as proof of concept for research with Dr Sass",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jayers0/ESP32-UART_RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "ESP32-UART_RCE",
+    "repo_owner": "Jayers0",
+    "repotime": "2024-01-14, 04:58:46",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-01-02",
+    "date_updated": "2024-01-02",
+    "description": "CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.",
+    "forks_count": 49,
+    "html_url": "https://github.com/hackerhouse-opensource/Stinger",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Stinger",
+    "repo_owner": "hackerhouse-opensource",
+    "repotime": "2024-01-02, 18:12:18",
+    "stargazers_count": 293,
+    "watchers_count": 293
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-01-12",
+    "date_updated": "2024-01-16",
+    "description": "CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept",
+    "forks_count": 1,
+    "html_url": "https://github.com/sunnyvale-it/CVE-2023-50164-PoC",
+    "keywords": [
+        "rce proof of concept",
+        "path traversal vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2023-50164-PoC",
+    "repo_owner": "sunnyvale-it",
+    "repotime": "2024-01-16, 14:05:51",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-01-14",
+    "date_updated": "2024-01-14",
+    "description": "Research work on implementing RCE in micro-python as proof of concept for research with Dr Sass",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jayers0/ESP32-UART_RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "ESP32-UART_RCE",
+    "repo_owner": "Jayers0",
+    "repotime": "2024-01-14, 04:58:46",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-01-02",
+    "date_updated": "2024-01-02",
+    "description": "CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.",
+    "forks_count": 49,
+    "html_url": "https://github.com/hackerhouse-opensource/Stinger",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Stinger",
+    "repo_owner": "hackerhouse-opensource",
+    "repotime": "2024-01-02, 18:12:18",
+    "stargazers_count": 293,
+    "watchers_count": 293
+}

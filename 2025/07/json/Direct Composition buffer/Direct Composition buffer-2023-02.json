@@ -1,0 +1,282 @@
+{
+    "commits_count": 2,
+    "date_started": "2023-02-27",
+    "date_updated": "2023-02-27",
+    "description": "A small ncat-like server wrtten in 2 versions, one with a buffer overflow exploit and the later version without. It was written to be used in an end-to-end zero-day workflow, including identification and banner grabbing by nmap/Nessus and ending with a Metasploit exploit.",
+    "forks_count": 0,
+    "html_url": "https://github.com/damiengolding/Victim-Lab-Server",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Victim-Lab-Server",
+    "repo_owner": "damiengolding",
+    "repotime": "2023-02-27, 15:09:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 127,
+    "date_started": "2018-08-22",
+    "date_updated": "2023-02-19",
+    "description": "VR Man-in-the-Room Attack and Command &amp;amp; Control Server Proof of Concept — Bigscreen",
+    "forks_count": 1,
+    "html_url": "https://github.com/mvondracek/VR-MitR-C2-Bigscreen",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "VR-MitR-C2-Bigscreen",
+    "repo_owner": "mvondracek",
+    "repotime": "2023-02-19, 23:43:42",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-11-21",
+    "date_updated": "2023-02-17",
+    "description": "HTTPS Proxy (tunneling). HTTPS Proxy man-in-the-middle (with certificate spoofing and URL logging).",
+    "forks_count": 0,
+    "html_url": "https://github.com/JusticeProject/HTTPS-Proxy-Logger",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "Go",
+    "repo_name": "HTTPS-Proxy-Logger",
+    "repo_owner": "JusticeProject",
+    "repotime": "2023-02-17, 17:40:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 235,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-14",
+    "description": "Documentation of strategies and methods for the OSCP exam ranging from target enumeration, vulnerability assessment, exploits, to privilege escalation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/airadulescu/Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "repo_owner": "airadulescu",
+    "repotime": "2023-02-14, 02:02:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-02-13",
+    "date_updated": "2023-02-13",
+    "description": "Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit",
+    "forks_count": 4,
+    "html_url": "https://github.com/Malwareman007/CVE-2023-21608",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2023-21608",
+    "repo_owner": "Malwareman007",
+    "repotime": "2023-02-13, 14:33:19",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-07",
+    "date_updated": "2023-02-07",
+    "description": "In Boa, there is a possible escalation of privilege due to a stack buffer overflow. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-31578",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-31578",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-07, 01:06:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-01-27",
+    "date_updated": "2023-02-04",
+    "description": "LPE PoC of a user-after-free vulnerability in the Linux netfilter subsystem.",
+    "forks_count": 1,
+    "html_url": "https://github.com/ysanatomic/CVE-2022-32250-LPE",
+    "keywords": [
+        "lpe poc",
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-32250-LPE",
+    "repo_owner": "ysanatomic",
+    "repotime": "2023-02-04, 18:27:19",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-01",
+    "date_updated": "2023-02-01",
+    "description": "A CWE-190: Integer Overflow or Wraparound vulnerability exists that could cause heap-based buffer overflow, leading to denial of service and potentially remote code execution when an attacker sends multiple specially crafted messages. Affected Products: IGSS Data Server - IGSSdataServer.exe (Versions prior to V15.0.0.2 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-2329",
+    "keywords": [
+        "remote code execution denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-2329",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-01, 08:02:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-27",
+    "date_updated": "2023-02-27",
+    "description": "A small ncat-like server wrtten in 2 versions, one with a buffer overflow exploit and the later version without. It was written to be used in an end-to-end zero-day workflow, including identification and banner grabbing by nmap/Nessus and ending with a Metasploit exploit.",
+    "forks_count": 0,
+    "html_url": "https://github.com/damiengolding/Victim-Lab-Server",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Victim-Lab-Server",
+    "repo_owner": "damiengolding",
+    "repotime": "2023-02-27, 15:09:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 127,
+    "date_started": "2018-08-22",
+    "date_updated": "2023-02-19",
+    "description": "VR Man-in-the-Room Attack and Command &amp;amp; Control Server Proof of Concept — Bigscreen",
+    "forks_count": 1,
+    "html_url": "https://github.com/mvondracek/VR-MitR-C2-Bigscreen",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "VR-MitR-C2-Bigscreen",
+    "repo_owner": "mvondracek",
+    "repotime": "2023-02-19, 23:43:42",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-11-21",
+    "date_updated": "2023-02-17",
+    "description": "HTTPS Proxy (tunneling). HTTPS Proxy man-in-the-middle (with certificate spoofing and URL logging).",
+    "forks_count": 0,
+    "html_url": "https://github.com/JusticeProject/HTTPS-Proxy-Logger",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "Go",
+    "repo_name": "HTTPS-Proxy-Logger",
+    "repo_owner": "JusticeProject",
+    "repotime": "2023-02-17, 17:40:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 235,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-14",
+    "description": "Documentation of strategies and methods for the OSCP exam ranging from target enumeration, vulnerability assessment, exploits, to privilege escalation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/airadulescu/Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "repo_owner": "airadulescu",
+    "repotime": "2023-02-14, 02:02:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-02-13",
+    "date_updated": "2023-02-13",
+    "description": "Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit",
+    "forks_count": 4,
+    "html_url": "https://github.com/Malwareman007/CVE-2023-21608",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2023-21608",
+    "repo_owner": "Malwareman007",
+    "repotime": "2023-02-13, 14:33:19",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-07",
+    "date_updated": "2023-02-07",
+    "description": "In Boa, there is a possible escalation of privilege due to a stack buffer overflow. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-31578",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-31578",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-07, 01:06:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-01-27",
+    "date_updated": "2023-02-04",
+    "description": "LPE PoC of a user-after-free vulnerability in the Linux netfilter subsystem.",
+    "forks_count": 1,
+    "html_url": "https://github.com/ysanatomic/CVE-2022-32250-LPE",
+    "keywords": [
+        "lpe poc",
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-32250-LPE",
+    "repo_owner": "ysanatomic",
+    "repotime": "2023-02-04, 18:27:19",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-01",
+    "date_updated": "2023-02-01",
+    "description": "A CWE-190: Integer Overflow or Wraparound vulnerability exists that could cause heap-based buffer overflow, leading to denial of service and potentially remote code execution when an attacker sends multiple specially crafted messages. Affected Products: IGSS Data Server - IGSSdataServer.exe (Versions prior to V15.0.0.2 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-2329",
+    "keywords": [
+        "remote code execution denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-2329",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-01, 08:02:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

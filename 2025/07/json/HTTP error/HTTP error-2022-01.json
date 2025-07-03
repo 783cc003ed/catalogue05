@@ -1,0 +1,452 @@
+{
+    "commits_count": 9,
+    "date_started": "2022-01-26",
+    "date_updated": "2022-01-28",
+    "description": "POC for CVE-2021-4034",
+    "forks_count": 0,
+    "html_url": "https://github.com/callrbx/pkexec-lpe-poc",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "pkexec-lpe-poc",
+    "repo_owner": "callrbx",
+    "repotime": "2022-01-28, 16:58:47",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 32,
+    "date_started": "2021-10-25",
+    "date_updated": "2022-01-26",
+    "description": "Send and receive bypassing Little Snitch alerting.",
+    "forks_count": 2,
+    "html_url": "https://github.com/RhinoSecurityLabs/little-stitch",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Go",
+    "repo_name": "little-stitch",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2022-01-26, 20:41:24",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-26",
+    "date_updated": "2022-01-26",
+    "description": "This project illustrates a developer centric model Loky for Static Code Analysis to improve Security of Web Applications empowered by early vulnerability detection and taint analysis. Its core is a configurable rule engine comprising of popular attacks - SQL injections, Cross Site Scripting, Server Side Request Forgery, Linting errors, Hard-coded Credentials",
+    "forks_count": 0,
+    "html_url": "https://github.com/prachipundir97/Loky-Static-Code-Analyzer",
+    "keywords": [
+        "server side request forgery",
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "Loky-Static-Code-Analyzer",
+    "repo_owner": "prachipundir97",
+    "repotime": "2022-01-26, 14:52:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 39,
+    "date_started": "2022-01-21",
+    "date_updated": "2022-01-21",
+    "description": "Improper Input Validation vulnerability in Hitachi ABB Power Grids Relion 670 Series, Relion 670/650 Series, Relion 670/650/SAM600-IO, Relion 650, REB500, RTU500 Series, FOX615 (TEGO1), MSM, GMS600, PWC600 allows an attacker with access to the IEC 61850 network with knowledge of how to reproduce the attack, as well as the IP addresses of the different IEC 61850 access points (of IEDs/products), to force the device to reboot, which renders the device inoperable for approximately 60 seconds. This vulnerability affects only products with IEC 61850 interfaces. This issue affects: Hitachi ABB Power Grids Relion 670 Series 1.1; 1.2.3 versions prior to 1.2.3.20; 2.0 versions prior to 2.0.0.13; 2.1; 2.2.2 versions prior to 2.2.2.3; 2.2.3 versions prior to 2.2.3.2. Hitachi ABB Power Grids Relion 670/650 Series 2.2.0 versions prior to 2.2.0.13. Hitachi ABB Power Grids Relion 670/650/SAM600-IO 2.2.1 versions prior to 2.2.1.6. Hitachi ABB Power Grids Relion 650 1.1; 1.2; 1.3 versions prior to 1.3....",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mario-Kart-Felix/cve-lib-power-grid",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "Rust",
+    "repo_name": "cve-lib-power-grid",
+    "repo_owner": "Mario-Kart-Felix",
+    "repotime": "2022-01-21, 03:06:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 138,
+    "date_started": "2015-05-14",
+    "date_updated": "2022-01-20",
+    "description": "<no description>",
+    "forks_count": 83,
+    "html_url": "https://github.com/naver/lucy-xss-servlet-filter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "lucy-xss-servlet-filter",
+    "repo_owner": "naver",
+    "repotime": "2022-01-20, 21:29:00",
+    "stargazers_count": 243,
+    "watchers_count": 243
+}
+{
+    "commits_count": 19,
+    "date_started": "2022-01-17",
+    "date_updated": "2022-01-20",
+    "description": "HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907",
+    "forks_count": 98,
+    "html_url": "https://github.com/ZZ-SOCMAP/CVE-2022-21907",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-21907",
+    "repo_owner": "ZZ-SOCMAP",
+    "repotime": "2022-01-20, 10:07:54",
+    "stargazers_count": 362,
+    "watchers_count": 362
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-16",
+    "date_updated": "2022-01-18",
+    "description": "Proof of concept for unauthenticated sensitive data disclosure affecting the wp-import-export WordPress plugin (CVE-2022-0236)",
+    "forks_count": 2,
+    "html_url": "https://github.com/qurbat/CVE-2022-0236",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-0236",
+    "repo_owner": "qurbat",
+    "repotime": "2022-01-18, 22:44:49",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 30,
+    "date_started": "2019-05-21",
+    "date_updated": "2022-01-18",
+    "description": "small python3 tool to check common vulnerabilities in SMTP servers",
+    "forks_count": 37,
+    "html_url": "https://github.com/xFreed0m/SMTPTester",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "SMTPTester",
+    "repo_owner": "xFreed0m",
+    "repotime": "2022-01-18, 18:08:48",
+    "stargazers_count": 161,
+    "watchers_count": 161
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-07-09",
+    "date_updated": "2022-01-16",
+    "description": "&amp;&#35;35; Intellifotainment assist” – Smart HMI for passenger cars  To run the program, download all files and save them in the same directory. After that, simply run 'Master.py' in the terminal.  At the moment, the program will only run in linux based systems.    &amp;&#35;35; The Idea Infotainment systems have come a long way since the first set of dashboards installed in cars. Through our idea, we aim to create a Human Machine interaction model that takes infotainment systems to a new level. The driver tends to get distracted from the road while performing secondary tasks such as changing the music track, locking/unlocking the door while driving etc. Our system shall enable the driver to focus only on driving. Controlling the secondary tasks will be much easier. Our product primarily comprises of 5 modules:  1)  Attention and drowsiness detection: - A camera shall be present on the dashboard, in front of the driver, behind the steering wheel. Through digital image processing techniques , using ...",
+    "forks_count": 6,
+    "html_url": "https://github.com/Nishant-Wadhwani/Intelligent-Infotainment-System-for-Automobiles",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Intelligent-Infotainment-System-for-Automobiles",
+    "repo_owner": "Nishant-Wadhwani",
+    "repotime": "2022-01-16, 13:16:56",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-11-06",
+    "date_updated": "2022-01-14",
+    "description": "PoC for iOS, macOS, iPadOS (DoS)",
+    "forks_count": 0,
+    "html_url": "https://github.com/darling-x0r/0day_dos_apple",
+    "keywords": [
+        "0day dos",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day_dos_apple",
+    "repo_owner": "darling-x0r",
+    "repotime": "2022-01-14, 16:39:36",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-12",
+    "date_updated": "2022-01-13",
+    "description": "Unauthenticated Sqlinjection that leads to dump data base but this one impersonated Admin and drops a interactive shell",
+    "forks_count": 10,
+    "html_url": "https://github.com/shyam0904a/Pandora_v7.0NG.742_exploit_unauthenticated",
+    "keywords": [
+        "unauthenticated rce",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Pandora_v7.0NG.742_exploit_unauthenticated",
+    "repo_owner": "shyam0904a",
+    "repotime": "2022-01-13, 13:24:05",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 60,
+    "date_started": "2021-12-13",
+    "date_updated": "2022-01-10",
+    "description": "Log4j Zero-Day Exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/rajasoun/log4j-zero-day-exploit",
+    "keywords": [
+        "zero-day poc",
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "log4j-zero-day-exploit",
+    "repo_owner": "rajasoun",
+    "repotime": "2022-01-10, 19:57:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 63,
+    "date_started": "2022-01-04",
+    "date_updated": "2022-01-04",
+    "description": "This repo is a fork from main repo and will usually have new features bundled faster than main repo (and maybe bundle some bugs, too).  &amp;&#35;35; Unofficial Facebook Chat API &amp;lt;img alt=&amp;quot;version&amp;quot; src=&amp;quot;https://img.shields.io/github/package-json/v/ProCoderMew/fca-unofficial?label=github&amp;amp;style=flat-square&amp;quot;&amp;gt;  Facebook now has an official API for chat bots [here](https://developers.facebook.com/docs/messenger-platform).  This API is the only way to automate chat functionalities on a user account. We do this by emulating the browser. This means doing the exact same GET/POST requests and tricking Facebook into thinking we're accessing the website normally. Because we're doing it this way, this API won't work with an auth token but requires the credentials of a Facebook account.  _Disclaimer_: We are not responsible if your account gets banned for spammy activities such as sending lots of messages to people you don't know, sending messages very quickly, sending spammy l...",
+    "forks_count": 17,
+    "html_url": "https://github.com/Tinkprocodes/fca-unofficial",
+    "keywords": [
+        "empty string password"
+    ],
+    "language": "JavaScript",
+    "repo_name": "fca-unofficial",
+    "repo_owner": "Tinkprocodes",
+    "repotime": "2022-01-04, 21:33:29",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-01-26",
+    "date_updated": "2022-01-28",
+    "description": "POC for CVE-2021-4034",
+    "forks_count": 0,
+    "html_url": "https://github.com/callrbx/pkexec-lpe-poc",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "pkexec-lpe-poc",
+    "repo_owner": "callrbx",
+    "repotime": "2022-01-28, 16:58:47",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 32,
+    "date_started": "2021-10-25",
+    "date_updated": "2022-01-26",
+    "description": "Send and receive bypassing Little Snitch alerting.",
+    "forks_count": 2,
+    "html_url": "https://github.com/RhinoSecurityLabs/little-stitch",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Go",
+    "repo_name": "little-stitch",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2022-01-26, 20:41:24",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-26",
+    "date_updated": "2022-01-26",
+    "description": "This project illustrates a developer centric model Loky for Static Code Analysis to improve Security of Web Applications empowered by early vulnerability detection and taint analysis. Its core is a configurable rule engine comprising of popular attacks - SQL injections, Cross Site Scripting, Server Side Request Forgery, Linting errors, Hard-coded Credentials",
+    "forks_count": 0,
+    "html_url": "https://github.com/prachipundir97/Loky-Static-Code-Analyzer",
+    "keywords": [
+        "server side request forgery",
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "Loky-Static-Code-Analyzer",
+    "repo_owner": "prachipundir97",
+    "repotime": "2022-01-26, 14:52:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 39,
+    "date_started": "2022-01-21",
+    "date_updated": "2022-01-21",
+    "description": "Improper Input Validation vulnerability in Hitachi ABB Power Grids Relion 670 Series, Relion 670/650 Series, Relion 670/650/SAM600-IO, Relion 650, REB500, RTU500 Series, FOX615 (TEGO1), MSM, GMS600, PWC600 allows an attacker with access to the IEC 61850 network with knowledge of how to reproduce the attack, as well as the IP addresses of the different IEC 61850 access points (of IEDs/products), to force the device to reboot, which renders the device inoperable for approximately 60 seconds. This vulnerability affects only products with IEC 61850 interfaces. This issue affects: Hitachi ABB Power Grids Relion 670 Series 1.1; 1.2.3 versions prior to 1.2.3.20; 2.0 versions prior to 2.0.0.13; 2.1; 2.2.2 versions prior to 2.2.2.3; 2.2.3 versions prior to 2.2.3.2. Hitachi ABB Power Grids Relion 670/650 Series 2.2.0 versions prior to 2.2.0.13. Hitachi ABB Power Grids Relion 670/650/SAM600-IO 2.2.1 versions prior to 2.2.1.6. Hitachi ABB Power Grids Relion 650 1.1; 1.2; 1.3 versions prior to 1.3....",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mario-Kart-Felix/cve-lib-power-grid",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "Rust",
+    "repo_name": "cve-lib-power-grid",
+    "repo_owner": "Mario-Kart-Felix",
+    "repotime": "2022-01-21, 03:06:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 138,
+    "date_started": "2015-05-14",
+    "date_updated": "2022-01-20",
+    "description": "<no description>",
+    "forks_count": 83,
+    "html_url": "https://github.com/naver/lucy-xss-servlet-filter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "lucy-xss-servlet-filter",
+    "repo_owner": "naver",
+    "repotime": "2022-01-20, 21:29:00",
+    "stargazers_count": 243,
+    "watchers_count": 243
+}
+{
+    "commits_count": 19,
+    "date_started": "2022-01-17",
+    "date_updated": "2022-01-20",
+    "description": "HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907",
+    "forks_count": 98,
+    "html_url": "https://github.com/ZZ-SOCMAP/CVE-2022-21907",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-21907",
+    "repo_owner": "ZZ-SOCMAP",
+    "repotime": "2022-01-20, 10:07:54",
+    "stargazers_count": 362,
+    "watchers_count": 362
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-16",
+    "date_updated": "2022-01-18",
+    "description": "Proof of concept for unauthenticated sensitive data disclosure affecting the wp-import-export WordPress plugin (CVE-2022-0236)",
+    "forks_count": 2,
+    "html_url": "https://github.com/qurbat/CVE-2022-0236",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-0236",
+    "repo_owner": "qurbat",
+    "repotime": "2022-01-18, 22:44:49",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 30,
+    "date_started": "2019-05-21",
+    "date_updated": "2022-01-18",
+    "description": "small python3 tool to check common vulnerabilities in SMTP servers",
+    "forks_count": 37,
+    "html_url": "https://github.com/xFreed0m/SMTPTester",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "SMTPTester",
+    "repo_owner": "xFreed0m",
+    "repotime": "2022-01-18, 18:08:48",
+    "stargazers_count": 161,
+    "watchers_count": 161
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-07-09",
+    "date_updated": "2022-01-16",
+    "description": "&amp;&#35;35; Intellifotainment assist” – Smart HMI for passenger cars  To run the program, download all files and save them in the same directory. After that, simply run 'Master.py' in the terminal.  At the moment, the program will only run in linux based systems.    &amp;&#35;35; The Idea Infotainment systems have come a long way since the first set of dashboards installed in cars. Through our idea, we aim to create a Human Machine interaction model that takes infotainment systems to a new level. The driver tends to get distracted from the road while performing secondary tasks such as changing the music track, locking/unlocking the door while driving etc. Our system shall enable the driver to focus only on driving. Controlling the secondary tasks will be much easier. Our product primarily comprises of 5 modules:  1)  Attention and drowsiness detection: - A camera shall be present on the dashboard, in front of the driver, behind the steering wheel. Through digital image processing techniques , using ...",
+    "forks_count": 6,
+    "html_url": "https://github.com/Nishant-Wadhwani/Intelligent-Infotainment-System-for-Automobiles",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Intelligent-Infotainment-System-for-Automobiles",
+    "repo_owner": "Nishant-Wadhwani",
+    "repotime": "2022-01-16, 13:16:56",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-11-06",
+    "date_updated": "2022-01-14",
+    "description": "PoC for iOS, macOS, iPadOS (DoS)",
+    "forks_count": 0,
+    "html_url": "https://github.com/darling-x0r/0day_dos_apple",
+    "keywords": [
+        "0day dos",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day_dos_apple",
+    "repo_owner": "darling-x0r",
+    "repotime": "2022-01-14, 16:39:36",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-12",
+    "date_updated": "2022-01-13",
+    "description": "Unauthenticated Sqlinjection that leads to dump data base but this one impersonated Admin and drops a interactive shell",
+    "forks_count": 10,
+    "html_url": "https://github.com/shyam0904a/Pandora_v7.0NG.742_exploit_unauthenticated",
+    "keywords": [
+        "unauthenticated rce",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Pandora_v7.0NG.742_exploit_unauthenticated",
+    "repo_owner": "shyam0904a",
+    "repotime": "2022-01-13, 13:24:05",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 60,
+    "date_started": "2021-12-13",
+    "date_updated": "2022-01-10",
+    "description": "Log4j Zero-Day Exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/rajasoun/log4j-zero-day-exploit",
+    "keywords": [
+        "zero-day poc",
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "log4j-zero-day-exploit",
+    "repo_owner": "rajasoun",
+    "repotime": "2022-01-10, 19:57:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 63,
+    "date_started": "2022-01-04",
+    "date_updated": "2022-01-04",
+    "description": "This repo is a fork from main repo and will usually have new features bundled faster than main repo (and maybe bundle some bugs, too).  &amp;&#35;35; Unofficial Facebook Chat API &amp;lt;img alt=&amp;quot;version&amp;quot; src=&amp;quot;https://img.shields.io/github/package-json/v/ProCoderMew/fca-unofficial?label=github&amp;amp;style=flat-square&amp;quot;&amp;gt;  Facebook now has an official API for chat bots [here](https://developers.facebook.com/docs/messenger-platform).  This API is the only way to automate chat functionalities on a user account. We do this by emulating the browser. This means doing the exact same GET/POST requests and tricking Facebook into thinking we're accessing the website normally. Because we're doing it this way, this API won't work with an auth token but requires the credentials of a Facebook account.  _Disclaimer_: We are not responsible if your account gets banned for spammy activities such as sending lots of messages to people you don't know, sending messages very quickly, sending spammy l...",
+    "forks_count": 17,
+    "html_url": "https://github.com/Tinkprocodes/fca-unofficial",
+    "keywords": [
+        "empty string password"
+    ],
+    "language": "JavaScript",
+    "repo_name": "fca-unofficial",
+    "repo_owner": "Tinkprocodes",
+    "repotime": "2022-01-04, 21:33:29",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}

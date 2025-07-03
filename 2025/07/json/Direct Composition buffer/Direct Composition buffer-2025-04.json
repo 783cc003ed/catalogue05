@@ -1,0 +1,760 @@
+{
+    "commits_count": 4,
+    "date_started": "2025-04-30",
+    "date_updated": "2025-04-30",
+    "description": "This project implements a network intrusion detection system using the NSL-KDD dataset and the Random Forest algorithm. It detects different types of network attacks (DoS, Probe, Privilege Escalation, Access) and normal traffic through multi-class classification.",
+    "forks_count": 0,
+    "html_url": "https://github.com/DragonOfUnkown/anomoly_detection",
+    "keywords": [
+        "escalation of privileges dos"
+    ],
+    "language": "Python",
+    "repo_name": "anomoly_detection",
+    "repo_owner": "DragonOfUnkown",
+    "repotime": "2025-04-30, 12:35:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-08-16",
+    "date_updated": "2025-04-29",
+    "description": "DNS Cache Poisoning, also known as DNS Spoofing, is a critical security vulnerability where an attacker injects false DNS records into a resolver’s cache, redirecting users to malicious sites. This attack exploits weaknesses in the DNS resolution process, allowing attackers to manipulate how domain names are resolved into IP addresses remotely.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Priyabug/Implementation-of-remote-DNS-cache-poisoning-",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Implementation-of-remote-DNS-cache-poisoning-",
+    "repo_owner": "Priyabug",
+    "repotime": "2025-04-29, 18:19:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-03-21",
+    "date_updated": "2025-04-29",
+    "description": "A curated collection of resources, labs, and study materials for OSCP and CPTS certification preparation. This repository includes exploit development, web and network penetration testing, Active Directory attacks, privilege escalation, and more. Whether you're a beginner or refining your skills, these resources will help you on your journey.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dilipk5/OSCP-Resources",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "OSCP-Resources",
+    "repo_owner": "dilipk5",
+    "repotime": "2025-04-29, 20:51:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2024-05-06",
+    "date_updated": "2025-04-25",
+    "description": "LINKSYS AC1900 EA7500v3 IGD UPnP Stack Buffer Overflow Remote Code Execution Vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/dest-3/CVE-2023-46012",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46012",
+    "repo_owner": "dest-3",
+    "repotime": "2025-04-25, 17:16:15",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 195,
+    "date_started": "2019-05-06",
+    "date_updated": "2025-04-25",
+    "description": "A blind XSS detection and XSS data capture framework",
+    "forks_count": 29,
+    "html_url": "https://github.com/daxAKAhackerman/XSS-Catcher",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-Catcher",
+    "repo_owner": "daxAKAhackerman",
+    "repotime": "2025-04-25, 16:11:08",
+    "stargazers_count": 172,
+    "watchers_count": 172
+}
+{
+    "commits_count": 24,
+    "date_started": "2017-07-20",
+    "date_updated": "2025-04-24",
+    "description": "Deep learnning for detection with xss",
+    "forks_count": 65,
+    "html_url": "https://github.com/SparkSharly/DL_for_xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "DL_for_xss",
+    "repo_owner": "SparkSharly",
+    "repotime": "2025-04-24, 21:33:28",
+    "stargazers_count": 149,
+    "watchers_count": 149
+}
+{
+    "commits_count": 182,
+    "date_started": "2021-05-26",
+    "date_updated": "2025-04-23",
+    "description": "Create, edit and write a2l files with this rust crate",
+    "forks_count": 14,
+    "html_url": "https://github.com/DanielT/a2lfile",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Rust",
+    "repo_name": "a2lfile",
+    "repo_owner": "DanielT",
+    "repotime": "2025-04-23, 19:30:41",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-04-22",
+    "date_updated": "2025-04-22",
+    "description": "Two Zero Day Vulnerabilities Covering Task Scheduler Logs Tampering",
+    "forks_count": 0,
+    "html_url": "https://github.com/rubenformation/TaskScheduler-Logs-Tampering",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "TaskScheduler-Logs-Tampering",
+    "repo_owner": "rubenformation",
+    "repotime": "2025-04-22, 16:27:09",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-22",
+    "date_updated": "2025-04-22",
+    "description": "New Zero-Day Vulnerability Allowing Security Log Saturation by Unprivileged Users",
+    "forks_count": 0,
+    "html_url": "https://github.com/rubenformation/TaskScheduler-SecLogs-Saturation",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Batchfile",
+    "repo_name": "TaskScheduler-SecLogs-Saturation",
+    "repo_owner": "rubenformation",
+    "repotime": "2025-04-22, 16:13:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 253,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-04-21",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 118,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-04-21, 11:07:40",
+    "stargazers_count": 403,
+    "watchers_count": 403
+}
+{
+    "commits_count": 48,
+    "date_started": "2024-10-15",
+    "date_updated": "2025-04-20",
+    "description": "Repository Showcasing Practical/Hands-On Zero-Day Exploit Development and Techniques",
+    "forks_count": 0,
+    "html_url": "https://github.com/danielvilaca/ZeroDayEDT",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroDayEDT",
+    "repo_owner": "danielvilaca",
+    "repotime": "2025-04-20, 22:41:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-20",
+    "date_updated": "2025-04-20",
+    "description": "Various techniques used to bypass SMEP in the Windows Kernel.",
+    "forks_count": 1,
+    "html_url": "https://github.com/r0keb/Smep-Bypass",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Smep-Bypass",
+    "repo_owner": "r0keb",
+    "repotime": "2025-04-20, 20:42:37",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-04-19",
+    "date_updated": "2025-04-19",
+    "description": "Simple Exploit for Dirty Pipe Vulnerability (CVE-2022-0847) This repository contains a simple proof of concept (PoC) for the Dirty Pipe vulnerability (CVE-2022-0847), which affects Linux kernel versions 5.8 to 5.16. This exploit demonstrates local privilege escalation  by leveraging improper handling of pipe buffers in the kernel.",
+    "forks_count": 0,
+    "html_url": "https://github.com/byteReaper77/Dirty-Pipe",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Dirty-Pipe",
+    "repo_owner": "byteReaper77",
+    "repotime": "2025-04-19, 19:43:42",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-12-24",
+    "date_updated": "2025-04-18",
+    "description": "Buffer overflow is a critical security vulnerability that occurs when a program writes more data into a buffer than it can handle, leading to memory corruption. Attackers can exploit this flaw to execute arbitrary code, modify program behavior, or escalate privileges, making it a severe risk in server",
+    "forks_count": 0,
+    "html_url": "https://github.com/Priyabug/Server-Side-Buffer-Overflow-Exploitation",
+    "keywords": [
+        "corruption overflow exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Server-Side-Buffer-Overflow-Exploitation",
+    "repo_owner": "Priyabug",
+    "repotime": "2025-04-18, 22:12:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-03-29",
+    "date_updated": "2025-04-17",
+    "description": "Kairos is a next-generation, red-team-oriented Windows kernel defense neutralization framework. It combines traditional runtime patching with UEFI persistence, hypervisor-level surveillance, and Secure Kernel deception.",
+    "forks_count": 1,
+    "html_url": "https://github.com/sondernextdoor/Kairos",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "Kairos",
+    "repo_owner": "sondernextdoor",
+    "repotime": "2025-04-17, 21:42:05",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1403,
+    "date_started": "2016-11-14",
+    "date_updated": "2025-04-17",
+    "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (&amp;quot;transparent&amp;quot;) encryption. SQL, NoSQL.",
+    "forks_count": 131,
+    "html_url": "https://github.com/cossacklabs/acra",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "acra",
+    "repo_owner": "cossacklabs",
+    "repotime": "2025-04-17, 13:21:23",
+    "stargazers_count": 1403,
+    "watchers_count": 1403
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-27",
+    "date_updated": "2025-04-16",
+    "description": " Explorative Intel Gathering of EternalBlue (MS17-010) simulating exploit via Metasploit, engaging privilege escalation, and mitigation analysis. VM-VirtualBox, Windows, Event Viewer.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MichaelColburn/externalblue_exploit_exploratory_sim",
+    "keywords": [
+        "escalation of privileges exploit",
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "externalblue_exploit_exploratory_sim",
+    "repo_owner": "MichaelColburn",
+    "repotime": "2025-04-16, 17:02:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-04-14",
+    "date_updated": "2025-04-14",
+    "description": "A tool to exploit Local File Inclusion (LFI) vulnerabilities for Remote Code Execution (RCE)",
+    "forks_count": 1,
+    "html_url": "https://github.com/OssamaN7/LFI_Racer",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "LFI_Racer",
+    "repo_owner": "OssamaN7",
+    "repotime": "2025-04-14, 14:35:47",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-04-13",
+    "description": "Reconnaissance, exploitation, virtual machines, TOR, I2P, ethical hacking, penetration testing, vulnerability assessment, network monitoring, social engineering, malware analysis, reverse engineering, red teaming, cryptography, forensics, risk analysis, OSINT, buffer overflow, privilege escalation, exploit development, SQL injection, DNS spoofing",
+    "forks_count": 0,
+    "html_url": "https://github.com/aouab-benssiba/ethical_cybersec_research",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "ethical_cybersec_research",
+    "repo_owner": "aouab-benssiba",
+    "repotime": "2025-04-13, 04:38:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-04-11",
+    "date_updated": "2025-04-11",
+    "description": "A buffer overflow is triggered when a long MKD command is sent to the server and the user views the Log tab.",
+    "forks_count": 0,
+    "html_url": "https://github.com/P0lunchis/Sami_FTP_Server_2_0_1_MKD_Buffer_Overflow_ASLR_Bypass_SEH",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "Sami_FTP_Server_2_0_1_MKD_Buffer_Overflow_ASLR_Bypass_SEH",
+    "repo_owner": "P0lunchis",
+    "repotime": "2025-04-11, 01:10:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-05-03",
+    "date_updated": "2025-04-10",
+    "description": "&amp;quot;AMSI WRITE RAID&amp;quot; Vulnerability that leads to an effective AMSI BYPASS",
+    "forks_count": 51,
+    "html_url": "https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "AMSI-WRITE-RAID-BYPASS",
+    "repo_owner": "V-i-x-x",
+    "repotime": "2025-04-10, 17:59:30",
+    "stargazers_count": 290,
+    "watchers_count": 290
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-04-04",
+    "date_updated": "2025-04-04",
+    "description": "Includes Glibc Heap Explanation, Heap Exploitation, Use after free vulnerability, Buffer Overflow etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Md-Monowarul-Amin/SoftwareSecurity",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "C",
+    "repo_name": "SoftwareSecurity",
+    "repo_owner": "Md-Monowarul-Amin",
+    "repotime": "2025-04-04, 11:33:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-30",
+    "date_updated": "2025-04-30",
+    "description": "This project implements a network intrusion detection system using the NSL-KDD dataset and the Random Forest algorithm. It detects different types of network attacks (DoS, Probe, Privilege Escalation, Access) and normal traffic through multi-class classification.",
+    "forks_count": 0,
+    "html_url": "https://github.com/DragonOfUnkown/anomoly_detection",
+    "keywords": [
+        "escalation of privileges dos"
+    ],
+    "language": "Python",
+    "repo_name": "anomoly_detection",
+    "repo_owner": "DragonOfUnkown",
+    "repotime": "2025-04-30, 12:35:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-08-16",
+    "date_updated": "2025-04-29",
+    "description": "DNS Cache Poisoning, also known as DNS Spoofing, is a critical security vulnerability where an attacker injects false DNS records into a resolver’s cache, redirecting users to malicious sites. This attack exploits weaknesses in the DNS resolution process, allowing attackers to manipulate how domain names are resolved into IP addresses remotely.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Priyabug/Implementation-of-remote-DNS-cache-poisoning-",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Implementation-of-remote-DNS-cache-poisoning-",
+    "repo_owner": "Priyabug",
+    "repotime": "2025-04-29, 18:19:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-03-21",
+    "date_updated": "2025-04-29",
+    "description": "A curated collection of resources, labs, and study materials for OSCP and CPTS certification preparation. This repository includes exploit development, web and network penetration testing, Active Directory attacks, privilege escalation, and more. Whether you're a beginner or refining your skills, these resources will help you on your journey.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dilipk5/OSCP-Resources",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "OSCP-Resources",
+    "repo_owner": "dilipk5",
+    "repotime": "2025-04-29, 20:51:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2024-05-06",
+    "date_updated": "2025-04-25",
+    "description": "LINKSYS AC1900 EA7500v3 IGD UPnP Stack Buffer Overflow Remote Code Execution Vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/dest-3/CVE-2023-46012",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46012",
+    "repo_owner": "dest-3",
+    "repotime": "2025-04-25, 17:16:15",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 195,
+    "date_started": "2019-05-06",
+    "date_updated": "2025-04-25",
+    "description": "A blind XSS detection and XSS data capture framework",
+    "forks_count": 29,
+    "html_url": "https://github.com/daxAKAhackerman/XSS-Catcher",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-Catcher",
+    "repo_owner": "daxAKAhackerman",
+    "repotime": "2025-04-25, 16:11:08",
+    "stargazers_count": 172,
+    "watchers_count": 172
+}
+{
+    "commits_count": 24,
+    "date_started": "2017-07-20",
+    "date_updated": "2025-04-24",
+    "description": "Deep learnning for detection with xss",
+    "forks_count": 65,
+    "html_url": "https://github.com/SparkSharly/DL_for_xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "DL_for_xss",
+    "repo_owner": "SparkSharly",
+    "repotime": "2025-04-24, 21:33:28",
+    "stargazers_count": 149,
+    "watchers_count": 149
+}
+{
+    "commits_count": 182,
+    "date_started": "2021-05-26",
+    "date_updated": "2025-04-23",
+    "description": "Create, edit and write a2l files with this rust crate",
+    "forks_count": 14,
+    "html_url": "https://github.com/DanielT/a2lfile",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Rust",
+    "repo_name": "a2lfile",
+    "repo_owner": "DanielT",
+    "repotime": "2025-04-23, 19:30:41",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-04-22",
+    "date_updated": "2025-04-22",
+    "description": "Two Zero Day Vulnerabilities Covering Task Scheduler Logs Tampering",
+    "forks_count": 0,
+    "html_url": "https://github.com/rubenformation/TaskScheduler-Logs-Tampering",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "TaskScheduler-Logs-Tampering",
+    "repo_owner": "rubenformation",
+    "repotime": "2025-04-22, 16:27:09",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-22",
+    "date_updated": "2025-04-22",
+    "description": "New Zero-Day Vulnerability Allowing Security Log Saturation by Unprivileged Users",
+    "forks_count": 0,
+    "html_url": "https://github.com/rubenformation/TaskScheduler-SecLogs-Saturation",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Batchfile",
+    "repo_name": "TaskScheduler-SecLogs-Saturation",
+    "repo_owner": "rubenformation",
+    "repotime": "2025-04-22, 16:13:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 253,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-04-21",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 118,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-04-21, 11:07:40",
+    "stargazers_count": 403,
+    "watchers_count": 403
+}
+{
+    "commits_count": 48,
+    "date_started": "2024-10-15",
+    "date_updated": "2025-04-20",
+    "description": "Repository Showcasing Practical/Hands-On Zero-Day Exploit Development and Techniques",
+    "forks_count": 0,
+    "html_url": "https://github.com/danielvilaca/ZeroDayEDT",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroDayEDT",
+    "repo_owner": "danielvilaca",
+    "repotime": "2025-04-20, 22:41:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-20",
+    "date_updated": "2025-04-20",
+    "description": "Various techniques used to bypass SMEP in the Windows Kernel.",
+    "forks_count": 1,
+    "html_url": "https://github.com/r0keb/Smep-Bypass",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Smep-Bypass",
+    "repo_owner": "r0keb",
+    "repotime": "2025-04-20, 20:42:37",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-04-19",
+    "date_updated": "2025-04-19",
+    "description": "Simple Exploit for Dirty Pipe Vulnerability (CVE-2022-0847) This repository contains a simple proof of concept (PoC) for the Dirty Pipe vulnerability (CVE-2022-0847), which affects Linux kernel versions 5.8 to 5.16. This exploit demonstrates local privilege escalation  by leveraging improper handling of pipe buffers in the kernel.",
+    "forks_count": 0,
+    "html_url": "https://github.com/byteReaper77/Dirty-Pipe",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Dirty-Pipe",
+    "repo_owner": "byteReaper77",
+    "repotime": "2025-04-19, 19:43:42",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-12-24",
+    "date_updated": "2025-04-18",
+    "description": "Buffer overflow is a critical security vulnerability that occurs when a program writes more data into a buffer than it can handle, leading to memory corruption. Attackers can exploit this flaw to execute arbitrary code, modify program behavior, or escalate privileges, making it a severe risk in server",
+    "forks_count": 0,
+    "html_url": "https://github.com/Priyabug/Server-Side-Buffer-Overflow-Exploitation",
+    "keywords": [
+        "corruption overflow exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Server-Side-Buffer-Overflow-Exploitation",
+    "repo_owner": "Priyabug",
+    "repotime": "2025-04-18, 22:12:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-03-29",
+    "date_updated": "2025-04-17",
+    "description": "Kairos is a next-generation, red-team-oriented Windows kernel defense neutralization framework. It combines traditional runtime patching with UEFI persistence, hypervisor-level surveillance, and Secure Kernel deception.",
+    "forks_count": 1,
+    "html_url": "https://github.com/sondernextdoor/Kairos",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "Kairos",
+    "repo_owner": "sondernextdoor",
+    "repotime": "2025-04-17, 21:42:05",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1403,
+    "date_started": "2016-11-14",
+    "date_updated": "2025-04-17",
+    "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (&amp;quot;transparent&amp;quot;) encryption. SQL, NoSQL.",
+    "forks_count": 131,
+    "html_url": "https://github.com/cossacklabs/acra",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "acra",
+    "repo_owner": "cossacklabs",
+    "repotime": "2025-04-17, 13:21:23",
+    "stargazers_count": 1403,
+    "watchers_count": 1403
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-27",
+    "date_updated": "2025-04-16",
+    "description": " Explorative Intel Gathering of EternalBlue (MS17-010) simulating exploit via Metasploit, engaging privilege escalation, and mitigation analysis. VM-VirtualBox, Windows, Event Viewer.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MichaelColburn/externalblue_exploit_exploratory_sim",
+    "keywords": [
+        "escalation of privileges exploit",
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "externalblue_exploit_exploratory_sim",
+    "repo_owner": "MichaelColburn",
+    "repotime": "2025-04-16, 17:02:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-04-14",
+    "date_updated": "2025-04-14",
+    "description": "A tool to exploit Local File Inclusion (LFI) vulnerabilities for Remote Code Execution (RCE)",
+    "forks_count": 1,
+    "html_url": "https://github.com/OssamaN7/LFI_Racer",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "LFI_Racer",
+    "repo_owner": "OssamaN7",
+    "repotime": "2025-04-14, 14:35:47",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-04-13",
+    "description": "Reconnaissance, exploitation, virtual machines, TOR, I2P, ethical hacking, penetration testing, vulnerability assessment, network monitoring, social engineering, malware analysis, reverse engineering, red teaming, cryptography, forensics, risk analysis, OSINT, buffer overflow, privilege escalation, exploit development, SQL injection, DNS spoofing",
+    "forks_count": 0,
+    "html_url": "https://github.com/aouab-benssiba/ethical_cybersec_research",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "ethical_cybersec_research",
+    "repo_owner": "aouab-benssiba",
+    "repotime": "2025-04-13, 04:38:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-04-11",
+    "date_updated": "2025-04-11",
+    "description": "A buffer overflow is triggered when a long MKD command is sent to the server and the user views the Log tab.",
+    "forks_count": 0,
+    "html_url": "https://github.com/P0lunchis/Sami_FTP_Server_2_0_1_MKD_Buffer_Overflow_ASLR_Bypass_SEH",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "Sami_FTP_Server_2_0_1_MKD_Buffer_Overflow_ASLR_Bypass_SEH",
+    "repo_owner": "P0lunchis",
+    "repotime": "2025-04-11, 01:10:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-05-03",
+    "date_updated": "2025-04-10",
+    "description": "&amp;quot;AMSI WRITE RAID&amp;quot; Vulnerability that leads to an effective AMSI BYPASS",
+    "forks_count": 51,
+    "html_url": "https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "AMSI-WRITE-RAID-BYPASS",
+    "repo_owner": "V-i-x-x",
+    "repotime": "2025-04-10, 17:59:30",
+    "stargazers_count": 290,
+    "watchers_count": 290
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-04-04",
+    "date_updated": "2025-04-04",
+    "description": "Includes Glibc Heap Explanation, Heap Exploitation, Use after free vulnerability, Buffer Overflow etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Md-Monowarul-Amin/SoftwareSecurity",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "C",
+    "repo_name": "SoftwareSecurity",
+    "repo_owner": "Md-Monowarul-Amin",
+    "repotime": "2025-04-04, 11:33:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

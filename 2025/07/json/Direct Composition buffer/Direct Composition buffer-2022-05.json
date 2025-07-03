@@ -1,0 +1,252 @@
+{
+    "commits_count": 1,
+    "date_started": "2022-05-09",
+    "date_updated": "2022-05-12",
+    "description": "Portable exploit for Use-After-Free in every version of Python 3",
+    "forks_count": 31,
+    "html_url": "https://github.com/kn32/python-buffered-reader-exploit",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "Python",
+    "repo_name": "python-buffered-reader-exploit",
+    "repo_owner": "kn32",
+    "repotime": "2022-05-12, 00:51:39",
+    "stargazers_count": 132,
+    "watchers_count": 132
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-04-20",
+    "date_updated": "2022-05-10",
+    "description": "Browser exploitation v8 and sandbox escape challenges with solutions.",
+    "forks_count": 7,
+    "html_url": "https://github.com/MaherAzzouzi/BrowserExploitation",
+    "keywords": [
+        "sandbox escape exploitation",
+        "sandbox escape exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "BrowserExploitation",
+    "repo_owner": "MaherAzzouzi",
+    "repotime": "2022-05-10, 23:15:36",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-05-02",
+    "date_updated": "2022-05-06",
+    "description": "Beacon Object File implementation of Event Viewer deserialization UAC bypass",
+    "forks_count": 31,
+    "html_url": "https://github.com/Octoberfest7/EventViewerUAC_BOF",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "EventViewerUAC_BOF",
+    "repo_owner": "Octoberfest7",
+    "repotime": "2022-05-06, 13:43:05",
+    "stargazers_count": 131,
+    "watchers_count": 131
+}
+{
+    "commits_count": 32,
+    "date_started": "2022-05-02",
+    "date_updated": "2022-05-05",
+    "description": "Node.js is a free, open-sourced, cross-platform JavaScript run-time environment that lets developers write command line tools and server-side scripts outside of a browser.",
+    "forks_count": 0,
+    "html_url": "https://github.com/amit1github/NodeJS-Version-16.14.2",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "NodeJS-Version-16.14.2",
+    "repo_owner": "amit1github",
+    "repotime": "2022-05-05, 14:47:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 51,
+    "date_started": "2022-02-01",
+    "date_updated": "2022-05-04",
+    "description": "Attack simulation involving rce &amp;amp; kernel lpe exploits and malware + rootkit to exfil data",
+    "forks_count": 2,
+    "html_url": "https://github.com/seal9055/cyber_attack_simulation",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "cyber_attack_simulation",
+    "repo_owner": "seal9055",
+    "repotime": "2022-05-04, 17:26:36",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-05-02",
+    "date_updated": "2022-05-03",
+    "description": "Google Chrome Use After Free",
+    "forks_count": 12,
+    "html_url": "https://github.com/forrest-orr/WizardOpium",
+    "keywords": [
+        "Chrome uaf exploit",
+        "uaf exploit",
+        "Chrome use after free exploit",
+        "Chrome uaf",
+        "use after free exploit",
+        "Chrome use after free"
+    ],
+    "language": "HTML",
+    "repo_name": "WizardOpium",
+    "repo_owner": "forrest-orr",
+    "repotime": "2022-05-03, 11:24:44",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-05-03",
+    "date_updated": "2022-05-02",
+    "description": "SMEP bypass of HEVD buffer overflow exercise",
+    "forks_count": 0,
+    "html_url": "https://github.com/swesty/HEVD_BufOF_SMEP",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C++",
+    "repo_name": "HEVD_BufOF_SMEP",
+    "repo_owner": "swesty",
+    "repotime": "2022-05-02, 22:04:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-05-09",
+    "date_updated": "2022-05-12",
+    "description": "Portable exploit for Use-After-Free in every version of Python 3",
+    "forks_count": 31,
+    "html_url": "https://github.com/kn32/python-buffered-reader-exploit",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "Python",
+    "repo_name": "python-buffered-reader-exploit",
+    "repo_owner": "kn32",
+    "repotime": "2022-05-12, 00:51:39",
+    "stargazers_count": 132,
+    "watchers_count": 132
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-04-20",
+    "date_updated": "2022-05-10",
+    "description": "Browser exploitation v8 and sandbox escape challenges with solutions.",
+    "forks_count": 7,
+    "html_url": "https://github.com/MaherAzzouzi/BrowserExploitation",
+    "keywords": [
+        "sandbox escape exploitation",
+        "sandbox escape exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "BrowserExploitation",
+    "repo_owner": "MaherAzzouzi",
+    "repotime": "2022-05-10, 23:15:36",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-05-02",
+    "date_updated": "2022-05-06",
+    "description": "Beacon Object File implementation of Event Viewer deserialization UAC bypass",
+    "forks_count": 31,
+    "html_url": "https://github.com/Octoberfest7/EventViewerUAC_BOF",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "EventViewerUAC_BOF",
+    "repo_owner": "Octoberfest7",
+    "repotime": "2022-05-06, 13:43:05",
+    "stargazers_count": 131,
+    "watchers_count": 131
+}
+{
+    "commits_count": 32,
+    "date_started": "2022-05-02",
+    "date_updated": "2022-05-05",
+    "description": "Node.js is a free, open-sourced, cross-platform JavaScript run-time environment that lets developers write command line tools and server-side scripts outside of a browser.",
+    "forks_count": 0,
+    "html_url": "https://github.com/amit1github/NodeJS-Version-16.14.2",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "NodeJS-Version-16.14.2",
+    "repo_owner": "amit1github",
+    "repotime": "2022-05-05, 14:47:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 51,
+    "date_started": "2022-02-01",
+    "date_updated": "2022-05-04",
+    "description": "Attack simulation involving rce &amp;amp; kernel lpe exploits and malware + rootkit to exfil data",
+    "forks_count": 2,
+    "html_url": "https://github.com/seal9055/cyber_attack_simulation",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "cyber_attack_simulation",
+    "repo_owner": "seal9055",
+    "repotime": "2022-05-04, 17:26:36",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-05-02",
+    "date_updated": "2022-05-03",
+    "description": "Google Chrome Use After Free",
+    "forks_count": 12,
+    "html_url": "https://github.com/forrest-orr/WizardOpium",
+    "keywords": [
+        "Chrome uaf exploit",
+        "uaf exploit",
+        "Chrome use after free exploit",
+        "Chrome uaf",
+        "use after free exploit",
+        "Chrome use after free"
+    ],
+    "language": "HTML",
+    "repo_name": "WizardOpium",
+    "repo_owner": "forrest-orr",
+    "repotime": "2022-05-03, 11:24:44",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-05-03",
+    "date_updated": "2022-05-02",
+    "description": "SMEP bypass of HEVD buffer overflow exercise",
+    "forks_count": 0,
+    "html_url": "https://github.com/swesty/HEVD_BufOF_SMEP",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C++",
+    "repo_name": "HEVD_BufOF_SMEP",
+    "repo_owner": "swesty",
+    "repotime": "2022-05-02, 22:04:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

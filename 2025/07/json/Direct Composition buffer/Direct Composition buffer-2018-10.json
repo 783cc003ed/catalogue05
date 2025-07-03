@@ -1,0 +1,102 @@
+{
+    "commits_count": 34,
+    "date_started": "2018-06-16",
+    "date_updated": "2018-10-07",
+    "description": "Toolset for detecting reflected xss in websites",
+    "forks_count": 36,
+    "html_url": "https://github.com/Damian89/xssfinder",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xssfinder",
+    "repo_owner": "Damian89",
+    "repotime": "2018-10-07, 12:13:42",
+    "stargazers_count": 109,
+    "watchers_count": 109
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-10-04",
+    "date_updated": "2018-10-04",
+    "description": "create an input to dump in a on a vulnerable peice of code to cause a buffer overflow to escalate privilege",
+    "forks_count": 0,
+    "html_url": "https://github.com/Gregory-Mayer/BufferOverFlow",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "BufferOverFlow",
+    "repo_owner": "Gregory-Mayer",
+    "repotime": "2018-10-04, 14:08:05",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-08-14",
+    "date_updated": "2018-10-04",
+    "description": " Prevent CSRF vulnerabilities by generating Cross-Site Request Forgery Tokens in server side and validating them before respond to any client request.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ishaniDolawatta/CSRF-Anti-CSRF-token",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Java",
+    "repo_name": "CSRF-Anti-CSRF-token",
+    "repo_owner": "ishaniDolawatta",
+    "repotime": "2018-10-04, 19:27:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 34,
+    "date_started": "2018-06-16",
+    "date_updated": "2018-10-07",
+    "description": "Toolset for detecting reflected xss in websites",
+    "forks_count": 36,
+    "html_url": "https://github.com/Damian89/xssfinder",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xssfinder",
+    "repo_owner": "Damian89",
+    "repotime": "2018-10-07, 12:13:42",
+    "stargazers_count": 109,
+    "watchers_count": 109
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-10-04",
+    "date_updated": "2018-10-04",
+    "description": "create an input to dump in a on a vulnerable peice of code to cause a buffer overflow to escalate privilege",
+    "forks_count": 0,
+    "html_url": "https://github.com/Gregory-Mayer/BufferOverFlow",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "BufferOverFlow",
+    "repo_owner": "Gregory-Mayer",
+    "repotime": "2018-10-04, 14:08:05",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-08-14",
+    "date_updated": "2018-10-04",
+    "description": " Prevent CSRF vulnerabilities by generating Cross-Site Request Forgery Tokens in server side and validating them before respond to any client request.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ishaniDolawatta/CSRF-Anti-CSRF-token",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Java",
+    "repo_name": "CSRF-Anti-CSRF-token",
+    "repo_owner": "ishaniDolawatta",
+    "repotime": "2018-10-04, 19:27:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
