@@ -1,0 +1,159 @@
+{
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-07-03",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 1,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-07-03, 08:00:50",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-06-30",
+    "date_updated": "2025-07-03",
+    "description": "This is a simple and benign Go script that red teamers can drop and attempt execution to test RCE on Windows machine",
+    "forks_count": 0,
+    "html_url": "https://github.com/maverick-doan/win-rce-checker",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Go",
+    "repo_name": "win-rce-checker",
+    "repo_owner": "maverick-doan",
+    "repotime": "2025-07-03, 10:22:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2025-07-02",
+    "date_updated": "2025-07-02",
+    "description": "This script automates the exploitation of the BadSuccessor vulnerability, and can be executed from a Windows host that is not domain-joined. BadSuccessor allows domain accounts with the ability to create gMSA accounts to perform privilege escalation, providing access to the password hash of any domain account (including DA accounts).",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sentinel-Pen-Testers/BadSuccessor",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "Python",
+    "repo_name": "BadSuccessor",
+    "repo_owner": "Sentinel-Pen-Testers",
+    "repotime": "2025-07-02, 13:56:15",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-07-02",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-07-02, 14:22:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-07-02",
+    "description": "1day practice - Escape macOS sandbox (partial) using RemoteViewServices",
+    "forks_count": 1,
+    "html_url": "https://github.com/BODE987/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape vulnerability",
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Objective-C",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "BODE987",
+    "repotime": "2025-07-02, 14:17:45",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1232,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-07-02",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 121,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-07-02, 01:17:00",
+    "stargazers_count": 699,
+    "watchers_count": 699
+}
+{
+    "commits_count": 388,
+    "date_started": "2024-09-27",
+    "date_updated": "2025-07-01",
+    "description": "Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.",
+    "forks_count": 1,
+    "html_url": "https://github.com/francescolonardo/pentest-machine-writeups",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "pentest-machine-writeups",
+    "repo_owner": "francescolonardo",
+    "repotime": "2025-07-01, 23:54:09",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-07-01",
+    "date_updated": "2025-07-01",
+    "description": "Wing FTP Server Remote Code Execution (RCE) Exploit (CVE-2025-47812)",
+    "forks_count": 2,
+    "html_url": "https://github.com/4m3rr0r/CVE-2025-47812-poc",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-47812-poc",
+    "repo_owner": "4m3rr0r",
+    "repotime": "2025-07-01, 18:33:15",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 49,
+    "date_started": "2025-06-24",
+    "date_updated": "2025-07-01",
+    "description": "Buffer overflow and memory corruption exploit exercises from the Protostar wargame. Analyzing, crafting payloads, and demonstrating step-by-step exploitation techniques using GDB and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dennis19-2006/protostar-exploit-exercises",
+    "keywords": [
+        "corruption overflow exploit"
+    ],
+    "language": null,
+    "repo_name": "protostar-exploit-exercises",
+    "repo_owner": "Dennis19-2006",
+    "repotime": "2025-07-01, 14:41:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

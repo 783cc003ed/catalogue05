@@ -1,0 +1,190 @@
+{
+    "commits_count": 20,
+    "date_started": "2023-04-04",
+    "date_updated": "2023-06-27",
+    "description": "Binary encrpytion and injection tool that bypasses windows defender using process hollowing + QueeUserAPC",
+    "forks_count": 0,
+    "html_url": "https://github.com/CryptedNanomate/Depth",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "Depth",
+    "repo_owner": "CryptedNanomate",
+    "repotime": "2023-06-27, 11:47:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 141,
+    "date_started": "2020-06-11",
+    "date_updated": "2023-06-17",
+    "description": "XRCross is a Reconstruction, Scanner, and a tool for penetration / BugBounty testing.  This tool was built to test (XSS|SSRF|CORS|SSTI|IDOR|RCE|LFI|SQLI) vulnerabilities",
+    "forks_count": 68,
+    "html_url": "https://github.com/pikpikcu/XRCross",
+    "keywords": [
+        "lfi",
+        "rce vulnerability",
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "XRCross",
+    "repo_owner": "pikpikcu",
+    "repotime": "2023-06-17, 23:38:40",
+    "stargazers_count": 336,
+    "watchers_count": 336
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-10-17",
+    "date_updated": "2023-06-16",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/whoami-chmod777/payload-box-csv-injection-payloads",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "payload-box-csv-injection-payloads",
+    "repo_owner": "whoami-chmod777",
+    "repotime": "2023-06-16, 04:39:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-06-27",
+    "date_updated": "2023-06-16",
+    "description": "🎯 CSV Injection Payloads",
+    "forks_count": 83,
+    "html_url": "https://github.com/payloadbox/csv-injection-payloads",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "csv-injection-payloads",
+    "repo_owner": "payloadbox",
+    "repotime": "2023-06-16, 04:39:27",
+    "stargazers_count": 220,
+    "watchers_count": 220
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-05-07",
+    "date_updated": "2023-06-14",
+    "description": "Automated Tool for Testing Header Based Blind SQL Injection",
+    "forks_count": 66,
+    "html_url": "https://github.com/SAPT01/HBSQLI",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "HBSQLI",
+    "repo_owner": "SAPT01",
+    "repotime": "2023-06-14, 21:48:38",
+    "stargazers_count": 282,
+    "watchers_count": 282
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-06-12",
+    "date_updated": "2023-06-13",
+    "description": "CVE-2023-34362: MOVEit Transfer Unauthenticated RCE",
+    "forks_count": 23,
+    "html_url": "https://github.com/sfewer-r7/CVE-2023-34362",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2023-34362",
+    "repo_owner": "sfewer-r7",
+    "repotime": "2023-06-13, 09:44:49",
+    "stargazers_count": 64,
+    "watchers_count": 64
+}
+{
+    "commits_count": 391,
+    "date_started": "2021-11-26",
+    "date_updated": "2023-06-09",
+    "description": "利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点",
+    "forks_count": 385,
+    "html_url": "https://github.com/tr0uble-mAker/POC-bomber",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "POC-bomber",
+    "repo_owner": "tr0uble-mAker",
+    "repotime": "2023-06-09, 21:20:09",
+    "stargazers_count": 2320,
+    "watchers_count": 2320
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-06-08",
+    "date_updated": "2023-06-08",
+    "description": "Exploiting SQL Injection vulnerability",
+    "forks_count": 387,
+    "html_url": "https://github.com/gowriganeshns/sqlinjection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sqlinjection",
+    "repo_owner": "gowriganeshns",
+    "repotime": "2023-06-08, 19:13:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-06-06",
+    "date_updated": "2023-06-08",
+    "description": "CVE-2023-25157 - GeoServer SQL Injection - PoC",
+    "forks_count": 34,
+    "html_url": "https://github.com/win3zz/CVE-2023-25157",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-25157",
+    "repo_owner": "win3zz",
+    "repotime": "2023-06-08, 14:35:21",
+    "stargazers_count": 169,
+    "watchers_count": 169
+}
+{
+    "commits_count": 44,
+    "date_started": "2023-06-01",
+    "date_updated": "2023-06-07",
+    "description": "CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit",
+    "forks_count": 20,
+    "html_url": "https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-33246_RocketMQ_RCE_EXPLOIT",
+    "repo_owner": "Malayke",
+    "repotime": "2023-06-07, 21:07:30",
+    "stargazers_count": 100,
+    "watchers_count": 100
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-06-03",
+    "date_updated": "2023-06-05",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/miguelbenitez2/CSV-Injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "C#",
+    "repo_name": "CSV-Injection",
+    "repo_owner": "miguelbenitez2",
+    "repotime": "2023-06-05, 12:07:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

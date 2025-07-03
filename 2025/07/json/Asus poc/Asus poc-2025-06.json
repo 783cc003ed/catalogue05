@@ -1,0 +1,680 @@
+{
+    "commits_count": 5,
+    "date_started": "2025-01-08",
+    "date_updated": "2025-06-29",
+    "description": "Escape macOS Sandbox using sharedfilelistd exploit",
+    "forks_count": 10,
+    "html_url": "https://github.com/wh1te4ever/CVE-2024-54498-PoC",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2024-54498-PoC",
+    "repo_owner": "wh1te4ever",
+    "repotime": "2025-06-29, 07:57:45",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-10",
+    "date_updated": "2025-06-28",
+    "description": "A PoC exploit for CVE-2017-9841 - PHPUnit Remote Code Execution(RCE)",
+    "forks_count": 0,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2017-9841-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2025-06-28, 12:10:48",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-27",
+    "date_updated": "2025-06-27",
+    "description": "Exploit Proof of concept for privilege escalation on windows mountmgr.sys driver. Reverse Engineering the Windows Kernel - WIP",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xIcarus/ioctl-mountmgr-poc",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "ioctl-mountmgr-poc",
+    "repo_owner": "0xIcarus",
+    "repotime": "2025-06-27, 17:03:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-26",
+    "date_updated": "2025-06-27",
+    "description": "CVE-2025-49144 * Notepad++ v8.8.1 * SYSTEM-level POC",
+    "forks_count": 0,
+    "html_url": "https://github.com/assad12341/notepad-v8.8.1-LPE-CVE-",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": null,
+    "repo_name": "notepad-v8.8.1-LPE-CVE-",
+    "repo_owner": "assad12341",
+    "repotime": "2025-06-27, 08:18:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-24",
+    "date_updated": "2025-06-24",
+    "description": "the POC of package.json RCE",
+    "forks_count": 7,
+    "html_url": "https://github.com/orwagodfather/NPM-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "NPM-RCE",
+    "repo_owner": "orwagodfather",
+    "repotime": "2025-06-24, 11:52:16",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-22",
+    "date_updated": "2025-06-22",
+    "description": "PoC exploit for ChainlinkOracle symbol spoofing vulnerability in Moonwell ",
+    "forks_count": 0,
+    "html_url": "https://github.com/marssapcex/moonwell-oracle-hijack",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Solidity",
+    "repo_name": "moonwell-oracle-hijack",
+    "repo_owner": "marssapcex",
+    "repotime": "2025-06-22, 20:54:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10417,
+    "date_started": "2012-06-26",
+    "date_updated": "2025-06-22",
+    "description": "Automatic SQL injection and database takeover tool",
+    "forks_count": 5934,
+    "html_url": "https://github.com/sqlmapproject/sqlmap",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmap",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2025-06-22, 13:47:48",
+    "stargazers_count": 34565,
+    "watchers_count": 34565
+}
+{
+    "commits_count": 1919,
+    "date_started": "2020-04-12",
+    "date_updated": "2025-06-22",
+    "description": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
+    "forks_count": 474,
+    "html_url": "https://github.com/hahwul/dalfox",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Go",
+    "repo_name": "dalfox",
+    "repo_owner": "hahwul",
+    "repotime": "2025-06-22, 16:09:45",
+    "stargazers_count": 4345,
+    "watchers_count": 4345
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-06-21",
+    "date_updated": "2025-06-21",
+    "description": "PoC environment and exploit for the Apache Tomcat on Windows Remote Code Execution Vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/edyekomu/CVE-2017-12615-PoC",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "CVE-2017-12615-PoC",
+    "repo_owner": "edyekomu",
+    "repotime": "2025-06-21, 18:16:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-20",
+    "date_updated": "2025-06-20",
+    "description": "This is a proof-of-concept Metasploit module exploit for CVE-2015-1578, a buffer overflow vulnerability in Achat 0.150 beta7 on Windows. Exploitation leads to remote code execution via a crafted UDP packet.",
+    "forks_count": 0,
+    "html_url": "https://github.com/yaldobaoth/CVE-2015-1578-PoC-Metasploit",
+    "keywords": [
+        "Windows remote code execution exploit",
+        "remote code execution proof of concept"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2015-1578-PoC-Metasploit",
+    "repo_owner": "yaldobaoth",
+    "repotime": "2025-06-20, 16:12:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 742,
+    "date_started": "2018-07-17",
+    "date_updated": "2025-06-20",
+    "description": "CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool",
+    "forks_count": 686,
+    "html_url": "https://github.com/RhinoSecurityLabs/cloudgoat",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "cloudgoat",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2025-06-20, 08:19:51",
+    "stargazers_count": 3255,
+    "watchers_count": 3255
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-06-18",
+    "date_updated": "2025-06-20",
+    "description": "Proof-of-Concept for CVE-2025-33053  Exploiting WebDAV with .url file delivery to demonstrate realistic remote code execution. Includes a decoy PDF payload and a video-only showcase of potential command-and-control capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept",
+    "keywords": [
+        "rce proof of concept",
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept",
+    "repo_owner": "kra1t0",
+    "repotime": "2025-06-20, 01:53:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-18",
+    "date_updated": "2025-06-19",
+    "description": "Exploit for Langflow AI Remote Code Execution (Unauthenticated)",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xgh057r3c0n/CVE-2025-3248",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-3248",
+    "repo_owner": "0xgh057r3c0n",
+    "repotime": "2025-06-19, 01:29:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 232,
+    "date_started": "2023-02-03",
+    "date_updated": "2025-06-18",
+    "description": "DudeSuite Web Security Tools",
+    "forks_count": 86,
+    "html_url": "https://github.com/x364e3ab6/DudeSuite",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "DudeSuite",
+    "repo_owner": "x364e3ab6",
+    "repotime": "2025-06-18, 15:44:58",
+    "stargazers_count": 1075,
+    "watchers_count": 1075
+}
+{
+    "commits_count": 996,
+    "date_started": "2023-05-31",
+    "date_updated": "2025-06-17",
+    "description": "LFI: Practical, Efficient, and Secure Software-based Sandboxing",
+    "forks_count": 9,
+    "html_url": "https://github.com/zyedidia/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "C",
+    "repo_name": "lfi",
+    "repo_owner": "zyedidia",
+    "repotime": "2025-06-17, 18:34:24",
+    "stargazers_count": 79,
+    "watchers_count": 79
+}
+{
+    "commits_count": 157,
+    "date_started": "2024-09-10",
+    "date_updated": "2025-06-17",
+    "description": "Automate Recon XSS Bug Bounty ",
+    "forks_count": 55,
+    "html_url": "https://github.com/xss0r/xssorRecon",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Shell",
+    "repo_name": "xssorRecon",
+    "repo_owner": "xss0r",
+    "repotime": "2025-06-17, 13:03:05",
+    "stargazers_count": 161,
+    "watchers_count": 161
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-17",
+    "date_updated": "2025-06-17",
+    "description": "C PoC language for emulating path traversal vulnerability (CVE-2025-5964) in M-Files25.6.14925.0",
+    "forks_count": 0,
+    "html_url": "https://github.com/byteReaper77/CVE-2025-5964-",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2025-5964-",
+    "repo_owner": "byteReaper77",
+    "repotime": "2025-06-17, 03:37:20",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 23,
+    "date_started": "2024-11-14",
+    "date_updated": "2025-06-16",
+    "description": "Complete list of LPE exploits for Windows (starting from 2023)",
+    "forks_count": 105,
+    "html_url": "https://github.com/MzHmO/Exploit-Street",
+    "keywords": [
+        "Windows lpe",
+        "lpe exploit",
+        "lpe exploitation",
+        "Windows lpe exploit",
+        "Windows lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Exploit-Street",
+    "repo_owner": "MzHmO",
+    "repotime": "2025-06-16, 21:27:29",
+    "stargazers_count": 802,
+    "watchers_count": 802
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-16",
+    "date_updated": "2025-06-16",
+    "description": "The WIMP website co-construction management platform from HAMASTAR Technology has a SQL Injection vulnerability, allowing unauthenticated remote attackers to inject arbitrary SQL commands to read, modify, and delete database contents.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yuri08loveElaina/CVE_2025_6169",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE_2025_6169",
+    "repo_owner": "Yuri08loveElaina",
+    "repotime": "2025-06-16, 15:04:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-15",
+    "date_updated": "2025-06-15",
+    "description": "Автоматически созданный репозиторий",
+    "forks_count": 0,
+    "html_url": "https://github.com/enawestenbarger667/Winhero-kasyno-bonus-od-pierwszego-depozytu-2025-uaf",
+    "keywords": [
+        "Win uaf"
+    ],
+    "language": null,
+    "repo_name": "Winhero-kasyno-bonus-od-pierwszego-depozytu-2025-uaf",
+    "repo_owner": "enawestenbarger667",
+    "repotime": "2025-06-15, 18:13:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1796,
+    "date_started": "2019-07-24",
+    "date_updated": "2025-06-14",
+    "description": "渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
+    "forks_count": 2003,
+    "html_url": "https://github.com/Mr-xn/Penetration_Testing_POC",
+    "keywords": [
+        "rce poc",
+        "rce exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "Penetration_Testing_POC",
+    "repo_owner": "Mr-xn",
+    "repotime": "2025-06-14, 07:14:28",
+    "stargazers_count": 6924,
+    "watchers_count": 6924
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-06-13",
+    "description": "Write-up and proof of concepts for my vulnerability CVE-2021-30862, 1-click RCE bug in iOS iTunes U",
+    "forks_count": 0,
+    "html_url": "https://github.com/3h6-1/CVE-2021-30862",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2021-30862",
+    "repo_owner": "3h6-1",
+    "repotime": "2025-06-13, 15:48:49",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-13",
+    "date_updated": "2025-06-13",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/mbanyamer/-Windows-11-SMB-Client-RCE-Privilege-Escalation-Exploit-Using-DNS-Poisoning-NTLM-Relay-RPC-Coercion",
+    "keywords": [
+        "Win rce",
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "-Windows-11-SMB-Client-RCE-Privilege-Escalation-Exploit-Using-DNS-Poisoning-NTLM-Relay-RPC-Coercion",
+    "repo_owner": "mbanyamer",
+    "repotime": "2025-06-13, 20:36:48",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 31,
+    "date_started": "2025-04-03",
+    "date_updated": "2025-06-12",
+    "description": "This repository demonstrates a privilege escalation attack targeting Open5GS's WebUI, exploiting unauthenticated database connections and forged session cookies/JWT tokens. The analysis reveals critical vulnerabilities in authentication mechanisms, offering insights for securing 5G network components.",
+    "forks_count": 0,
+    "html_url": "https://github.com/contisimone99/Penetration-Testing-on-Open5Gs",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "Penetration-Testing-on-Open5Gs",
+    "repo_owner": "contisimone99",
+    "repotime": "2025-06-12, 12:34:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-06-12",
+    "date_updated": "2025-06-12",
+    "description": "This repository demonstrates a privilege escalation attack targeting Open5GS's WebUI, exploiting unauthenticated database connections and forged session cookies/JWT tokens. The analysis reveals critical vulnerabilities in authentication mechanisms, offering insights for securing 5G network components.",
+    "forks_count": 0,
+    "html_url": "https://github.com/NicolaLepore4/Penetration-Testing-on-Open5Gs",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "Penetration-Testing-on-Open5Gs",
+    "repo_owner": "NicolaLepore4",
+    "repotime": "2025-06-12, 11:40:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-09",
+    "date_updated": "2025-06-09",
+    "description": "Remote Code Execution via Use-After-Free in Chromium Blink",
+    "forks_count": 0,
+    "html_url": "https://github.com/amandanegefa/CVE-2025-5068",
+    "keywords": [
+        "Chromium remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-5068",
+    "repo_owner": "amandanegefa",
+    "repotime": "2025-06-09, 03:35:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-08",
+    "date_updated": "2025-06-08",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/amandanegefa/Zero-Day-Missing-Authentication-for-Critical-Debug-API-in-Google-Chrome-V8",
+    "keywords": [
+        "Chrome zero-day"
+    ],
+    "language": null,
+    "repo_name": "Zero-Day-Missing-Authentication-for-Critical-Debug-API-in-Google-Chrome-V8",
+    "repo_owner": "amandanegefa",
+    "repotime": "2025-06-08, 14:31:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-08",
+    "date_updated": "2025-06-08",
+    "description": "Out-of-Bounds Read/Write in Chrome V8 — Heap Corruption → RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/lacelruz/CVE-2025-5419",
+    "keywords": [
+        "Chrome rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-5419",
+    "repo_owner": "lacelruz",
+    "repotime": "2025-06-08, 07:28:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-06",
+    "date_updated": "2025-06-06",
+    "description": "Duct Tape Batch Script Worm (PoC) This Proof-of-Concept (PoC) is a Windows-based batch script worm that leverages IExpress to package and create self-executing files. The core behavior of the worm includes privilege escalation, deception, credential harvesting, and self-propagation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/HackWithSumit/Batch-Worm",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "Batchfile",
+    "repo_name": "Batch-Worm",
+    "repo_owner": "HackWithSumit",
+    "repotime": "2025-06-06, 17:49:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-06",
+    "date_updated": "2025-06-06",
+    "description": "Proof of Concept demonstrating Remote Code Execution through insecure deserialization in Roundcube (CVE-2025-49113).",
+    "forks_count": 3,
+    "html_url": "https://github.com/hakaioffsec/CVE-2025-49113-exploit",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution exploit"
+    ],
+    "language": "PHP",
+    "repo_name": "CVE-2025-49113-exploit",
+    "repo_owner": "hakaioffsec",
+    "repotime": "2025-06-06, 04:40:23",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 542,
+    "date_started": "2018-12-07",
+    "date_updated": "2025-06-05",
+    "description": "A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.",
+    "forks_count": 259,
+    "html_url": "https://github.com/TH3xACE/SUDO_KILLER",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploitation"
+    ],
+    "language": "Shell",
+    "repo_name": "SUDO_KILLER",
+    "repo_owner": "TH3xACE",
+    "repotime": "2025-06-05, 22:21:06",
+    "stargazers_count": 2336,
+    "watchers_count": 2336
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-06-03",
+    "date_updated": "2025-06-05",
+    "description": "Zero Day Exploit For Pykaso.ai To Increase Credits (PATCHED)",
+    "forks_count": 0,
+    "html_url": "https://github.com/culturally/pykaso.ai-0day",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "pykaso.ai-0day",
+    "repo_owner": "culturally",
+    "repotime": "2025-06-05, 16:29:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 169,
+    "date_started": "2018-12-18",
+    "date_updated": "2025-06-03",
+    "description": "Proof-of-Concept exploits for CVEs found by the team at Rhino Security Labs",
+    "forks_count": 248,
+    "html_url": "https://github.com/RhinoSecurityLabs/CVEs",
+    "keywords": [
+        "proof-of-concept",
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "CVEs",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2025-06-03, 20:34:21",
+    "stargazers_count": 864,
+    "watchers_count": 864
+}
+{
+    "commits_count": 704,
+    "date_started": "2022-04-19",
+    "date_updated": "2025-06-03",
+    "description": "Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.",
+    "forks_count": 40,
+    "html_url": "https://github.com/Ostorlab/KEV",
+    "keywords": [
+        "0day vulnerability",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "KEV",
+    "repo_owner": "Ostorlab",
+    "repotime": "2025-06-03, 18:30:06",
+    "stargazers_count": 574,
+    "watchers_count": 574
+}
+{
+    "commits_count": 31,
+    "date_started": "2024-08-31",
+    "date_updated": "2025-06-03",
+    "description": "CVE-2024-21413 | Microsoft Outlook Remote Code Execution Vulnerability PoC",
+    "forks_count": 5,
+    "html_url": "https://github.com/ThemeHackers/CVE-2024-21413",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Microsoft remote code execution poc",
+        "Microsoft remote code execution",
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2024-21413",
+    "repo_owner": "ThemeHackers",
+    "repotime": "2025-06-03, 22:39:16",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 160,
+    "date_started": "2019-10-02",
+    "date_updated": "2025-06-03",
+    "description": "This repository contains all the XSS cheatsheet data to allow contributions from the community.",
+    "forks_count": 85,
+    "html_url": "https://github.com/PortSwigger/xss-cheatsheet-data",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "xss-cheatsheet-data",
+    "repo_owner": "PortSwigger",
+    "repotime": "2025-06-03, 13:49:05",
+    "stargazers_count": 424,
+    "watchers_count": 424
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-04-04",
+    "date_updated": "2025-06-03",
+    "description": "Path Traversal Vulnerability on Kemal Framework 1.6.0",
+    "forks_count": 0,
+    "html_url": "https://github.com/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC",
+    "repo_owner": "ahmetumitbayram",
+    "repotime": "2025-06-03, 14:32:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-02",
+    "date_updated": "2025-06-02",
+    "description": "PPress-CMS session forgery + SSTI vulnerability leads to remote command execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/quarter77/PPress-CMS-session-forgery-SSTI-vulnerability-leads-to-remote-command-execution",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "PPress-CMS-session-forgery-SSTI-vulnerability-leads-to-remote-command-execution",
+    "repo_owner": "quarter77",
+    "repotime": "2025-06-02, 16:14:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-06-01",
+    "description": "Demonstration code for intercepting and disabling NMI handling on Intel CPUs in Windows kernel mode.",
+    "forks_count": 0,
+    "html_url": "https://github.com/oxunem/NMIBlocker",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "NMIBlocker",
+    "repo_owner": "oxunem",
+    "repotime": "2025-06-01, 06:41:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

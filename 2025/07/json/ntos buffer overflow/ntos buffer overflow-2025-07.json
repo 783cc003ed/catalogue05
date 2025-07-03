@@ -1,0 +1,76 @@
+{
+    "commits_count": 89,
+    "date_started": "2019-08-21",
+    "date_updated": "2025-07-02",
+    "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
+    "forks_count": 291,
+    "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+    "keywords": [
+        "xml external entity",
+        "session attack",
+        "zero-day dos",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "session vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Nginx-Lua-Anti-DDoS",
+    "repo_owner": "C0nw0nk",
+    "repotime": "2025-07-02, 15:02:47",
+    "stargazers_count": 1304,
+    "watchers_count": 1304
+}
+{
+    "commits_count": 25,
+    "date_started": "2025-06-28",
+    "date_updated": "2025-07-02",
+    "description": "Deep-dive into C-family memory vulnerabilities — stack overflow, heap corruption, format strings, and more.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ngvtdanhh/certificate-vuln1001-opensecuritytraining2",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "certificate-vuln1001-opensecuritytraining2",
+    "repo_owner": "ngvtdanhh",
+    "repotime": "2025-07-02, 12:14:55",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1232,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-07-02",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 121,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-07-02, 01:17:00",
+    "stargazers_count": 699,
+    "watchers_count": 699
+}
+{
+    "commits_count": 49,
+    "date_started": "2025-06-24",
+    "date_updated": "2025-07-01",
+    "description": "Buffer overflow and memory corruption exploit exercises from the Protostar wargame. Analyzing, crafting payloads, and demonstrating step-by-step exploitation techniques using GDB and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dennis19-2006/protostar-exploit-exercises",
+    "keywords": [
+        "corruption overflow exploit"
+    ],
+    "language": null,
+    "repo_name": "protostar-exploit-exercises",
+    "repo_owner": "Dennis19-2006",
+    "repotime": "2025-07-01, 14:41:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -1,0 +1,426 @@
+{
+    "commits_count": 12,
+    "date_started": "2022-07-20",
+    "date_updated": "2022-07-29",
+    "description": "A tool for developing bad character-free shellcode to bypass DEP with WriteProcessMemory (32-bit only)",
+    "forks_count": 8,
+    "html_url": "https://github.com/ommadawn46/win-x86-shellcoder",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Python",
+    "repo_name": "win-x86-shellcoder",
+    "repo_owner": "ommadawn46",
+    "repotime": "2022-07-29, 22:29:24",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-05-14",
+    "date_updated": "2022-07-27",
+    "description": "🚧 C&amp;&#35;35; UAC Bypass technique using mock directories 🚧",
+    "forks_count": 7,
+    "html_url": "https://github.com/catzsec/UACBypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "UACBypass",
+    "repo_owner": "catzsec",
+    "repotime": "2022-07-27, 18:30:49",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-27",
+    "description": "UAC bypass for x64 Windows 7 - 11",
+    "forks_count": 156,
+    "html_url": "https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "iscsicpl_bypassUAC",
+    "repo_owner": "hackerhouse-opensource",
+    "repotime": "2022-07-27, 10:48:24",
+    "stargazers_count": 809,
+    "watchers_count": 809
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-07-26",
+    "date_updated": "2022-07-26",
+    "description": "Total 28 vulnerabilities, found on given web application SQL injection - 2 Reflected and Stored Cross Site Scripting - 3 Insecure Direct Object Reference - 4 Rate Limiting Issues - 2 Insecure File Uploads - 1 Client Side filter bypass - 1 Server Misconfigurations - 1 Components with known vulnerabilities - 2 Weak Passwords - 2 Default files and pages - 3 File inclusion vulnerabilities - 1 PII Leakage - 1 Open Redirection - 1 Bruteforce Exploitation - 1 Command Execution Vulnerability - 1 Forced Browsing flaws - 1 Cross-Site Request Forgery",
+    "forks_count": 0,
+    "html_url": "https://github.com/hritikbhamare/Vulnerability-Assessment-and-Penetration-Testing",
+    "keywords": [
+        "server side request forgery",
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "Vulnerability-Assessment-and-Penetration-Testing",
+    "repo_owner": "hritikbhamare",
+    "repotime": "2022-07-26, 18:58:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-09-24",
+    "date_updated": "2022-07-26",
+    "description": "CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root.",
+    "forks_count": 2,
+    "html_url": "https://github.com/Vulnmachines/OMIGOD_cve-2021-38647",
+    "keywords": [
+        "unauthenticated rce",
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "OMIGOD_cve-2021-38647",
+    "repo_owner": "Vulnmachines",
+    "repotime": "2022-07-26, 10:54:15",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-07-23",
+    "date_updated": "2022-07-23",
+    "description": "EventViewer Bypass Uac Bof",
+    "forks_count": 6,
+    "html_url": "https://github.com/Libraggbond/EventViewerBypassUacBof",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "EventViewerBypassUacBof",
+    "repo_owner": "Libraggbond",
+    "repotime": "2022-07-23, 12:44:34",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 130,
+    "date_started": "2021-05-24",
+    "date_updated": "2022-07-21",
+    "description": "A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I've written to be used in conjunction with these exploits.",
+    "forks_count": 14,
+    "html_url": "https://github.com/forrest-orr/Exploits",
+    "keywords": [
+        "uaf poc",
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "Windows uaf exploit",
+        "Windows uaf poc"
+    ],
+    "language": "C",
+    "repo_name": "Exploits",
+    "repo_owner": "forrest-orr",
+    "repotime": "2022-07-21, 03:01:37",
+    "stargazers_count": 120,
+    "watchers_count": 120
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-07-21",
+    "date_updated": "2022-07-21",
+    "description": "Msfconsole Exploit",
+    "forks_count": 2,
+    "html_url": "https://github.com/krdsploit/Remote-Code-Execution-PHP",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "Remote-Code-Execution-PHP",
+    "repo_owner": "krdsploit",
+    "repotime": "2022-07-21, 01:18:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2020-07-22",
+    "date_updated": "2022-07-18",
+    "description": "Network cybersecurity scripts written in Python, including MAC address changer, Network scanner, ARP spoofer, Packet sniffer, DNS spoofer, File interceptor, Code injector, Vulnerability Scanner, Backdoor, and more. Request for more functionality.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sheldon-Pang/Network-Security-Tools-Python",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Network-Security-Tools-Python",
+    "repo_owner": "Sheldon-Pang",
+    "repotime": "2022-07-18, 20:52:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-18",
+    "description": "A pre-authenticated RCE exploit for Inductive Automation Ignition",
+    "forks_count": 9,
+    "html_url": "https://github.com/sourceincite/randy",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "randy",
+    "repo_owner": "sourceincite",
+    "repotime": "2022-07-18, 11:12:27",
+    "stargazers_count": 45,
+    "watchers_count": 45
+}
+{
+    "commits_count": 436,
+    "date_started": "2017-03-09",
+    "date_updated": "2022-07-14",
+    "description": "for mass exploiting",
+    "forks_count": 155,
+    "html_url": "https://github.com/jm33-m0/mec",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "mec",
+    "repo_owner": "jm33-m0",
+    "repotime": "2022-07-14, 22:35:25",
+    "stargazers_count": 604,
+    "watchers_count": 604
+}
+{
+    "commits_count": 138,
+    "date_started": "2016-06-16",
+    "date_updated": "2022-07-14",
+    "description": "🇺🇦 Windows driver with usermode interface which can hide processes, file-system and registry objects, protect processes and etc",
+    "forks_count": 499,
+    "html_url": "https://github.com/JKornev/hidden",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C",
+    "repo_name": "hidden",
+    "repo_owner": "JKornev",
+    "repotime": "2022-07-14, 00:48:44",
+    "stargazers_count": 1921,
+    "watchers_count": 1921
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-07-13",
+    "date_updated": "2022-07-13",
+    "description": "Privesc &amp;quot;Done Right&amp;quot; is the collection of my personal notes of Windows/Linux Privilege Escalation techniques",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dirac231/PrivescDR",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "PrivescDR",
+    "repo_owner": "Dirac231",
+    "repotime": "2022-07-13, 15:07:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 24,
+    "date_started": "2022-06-17",
+    "date_updated": "2022-07-12",
+    "description": "A simple Follina RTF and DOCX generator",
+    "forks_count": 1,
+    "html_url": "https://github.com/maxgestic/Follina-Generator",
+    "keywords": [
+        "Windows rce",
+        "Windows rce poc",
+        "Windows rce vulnerability",
+        "Windows rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Follina-Generator",
+    "repo_owner": "maxgestic",
+    "repotime": "2022-07-12, 14:42:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 33,
+    "date_started": "2018-08-11",
+    "date_updated": "2022-07-11",
+    "description": "This tool generates gopher link for exploiting SSRF and gaining RCE in various servers",
+    "forks_count": 389,
+    "html_url": "https://github.com/tarunkant/Gopherus",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Gopherus",
+    "repo_owner": "tarunkant",
+    "repotime": "2022-07-11, 17:41:56",
+    "stargazers_count": 3119,
+    "watchers_count": 3119
+}
+{
+    "commits_count": 24,
+    "date_started": "2021-09-27",
+    "date_updated": "2022-07-11",
+    "description": "Bypass Windows UAC Tool",
+    "forks_count": 4,
+    "html_url": "https://github.com/ElliotAlderson51/Bypass-UAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Bypass-UAC",
+    "repo_owner": "ElliotAlderson51",
+    "repotime": "2022-07-11, 11:10:09",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-11",
+    "description": "Tatsu Plugin ZIP File add_custom_font unrestricted upload",
+    "forks_count": 0,
+    "html_url": "https://github.com/xdx57/CVE-2021-25094",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "PHP",
+    "repo_name": "CVE-2021-25094",
+    "repo_owner": "xdx57",
+    "repotime": "2022-07-11, 01:04:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2022-02-22",
+    "date_updated": "2022-07-10",
+    "description": "A library loan management system in Express.js with different access levels for patrons, librarians, and unauthenticated users.",
+    "forks_count": 0,
+    "html_url": "https://github.com/hneels/tiny-library",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "tiny-library",
+    "repo_owner": "hneels",
+    "repotime": "2022-07-10, 11:31:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "PoC's for the Wavlink D4G SOHO Router",
+    "forks_count": 0,
+    "html_url": "https://github.com/Xenios91/Wavlink-DG4-ZeroDays",
+    "keywords": [
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Wavlink-DG4-ZeroDays",
+    "repo_owner": "Xenios91",
+    "repotime": "2022-07-10, 00:48:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 103,
+    "date_started": "2022-07-04",
+    "date_updated": "2022-07-07",
+    "description": "【Lazy Artifact】A graphical tool that collects urls in batches, and performs various nday detections on the collected urls in batches. It can be used for src mining, cnvd mining, 0day exploitation, building your own arsenal and other scenarios.",
+    "forks_count": 13,
+    "html_url": "https://github.com/W01fh4cker/Serein_Linux",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Serein_Linux",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2022-07-07, 11:24:07",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 15,
+    "date_started": "2022-05-31",
+    "date_updated": "2022-07-05",
+    "description": "A cheatsheet for exploiting server-side SVG rasterization. ",
+    "forks_count": 5,
+    "html_url": "https://github.com/yuriisanin/svg2raster-cheatsheet",
+    "keywords": [
+        "rce dos",
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "svg2raster-cheatsheet",
+    "repo_owner": "yuriisanin",
+    "repotime": "2022-07-05, 19:32:25",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-03-16",
+    "date_updated": "2022-07-05",
+    "description": "Multi-objective Log message Format Identification ",
+    "forks_count": 8,
+    "html_url": "https://github.com/SNTSVV/MoLFI",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "MoLFI",
+    "repo_owner": "SNTSVV",
+    "repotime": "2022-07-05, 17:09:36",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-07-05",
+    "date_updated": "2022-07-05",
+    "description": "Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE).",
+    "forks_count": 2,
+    "html_url": "https://github.com/Debajyoti0-0/CVE-2022-26134",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "Debajyoti0-0",
+    "repotime": "2022-07-05, 15:10:39",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-09-07",
+    "date_updated": "2022-07-03",
+    "description": "Code execution via corrupting mmap malloc chunks with ASLR bypass",
+    "forks_count": 2,
+    "html_url": "https://github.com/mdulin2/house-of-muney",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "C",
+    "repo_name": "house-of-muney",
+    "repo_owner": "mdulin2",
+    "repotime": "2022-07-03, 05:58:01",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}

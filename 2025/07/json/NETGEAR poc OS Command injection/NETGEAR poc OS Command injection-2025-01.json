@@ -1,0 +1,397 @@
+{
+    "commits_count": 4,
+    "date_started": "2025-01-29",
+    "date_updated": "2025-01-31",
+    "description": "GuardianPHP – A powerful PHP vulnerability scanner that detects security flaws like SQL Injection, XSS, RCE, LFI, and more. 🛡️ Secure your PHP applications with real-time static code analysis and fix vulnerabilities easily.",
+    "forks_count": 0,
+    "html_url": "https://github.com/OnyxDeveploment/GuardianPHP",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Python",
+    "repo_name": "GuardianPHP",
+    "repo_owner": "OnyxDeveploment",
+    "repotime": "2025-01-31, 22:22:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-01-31",
+    "description": "Express.js application vulnerable to database injection because input data is not validated before being used in database queries.  Improper error handling and missing input validation lead to unexpected behavior and security risks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Unvalidated-Input-in-Express-js-POST-Route-Leads-to-Database-Injection-Vulnerability-444z8",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Unvalidated-Input-in-Express-js-POST-Route-Leads-to-Database-Injection-Vulnerability-444z8",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-31, 15:40:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 32,
+    "date_started": "2020-03-16",
+    "date_updated": "2025-01-28",
+    "description": "Exfiltrate blind Remote Code Execution and SQL injection output over DNS via Burp Collaborator.",
+    "forks_count": 56,
+    "html_url": "https://github.com/0xC01DF00D/Collabfiltrator",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "Collabfiltrator",
+    "repo_owner": "0xC01DF00D",
+    "repotime": "2025-01-28, 03:11:15",
+    "stargazers_count": 267,
+    "watchers_count": 267
+}
+{
+    "commits_count": 97,
+    "date_started": "2013-10-01",
+    "date_updated": "2025-01-25",
+    "description": "CRUD Application in JavaScript A Create, Read, Update, and Delete (CRUD) application built using JavaScript. Demonstrates foundational web development concepts, including DOM manipulation, RESTful operations, and frontend logic.  Relevant for understanding vulnerabilities in web applications, such as XSS, SQLi, and session management flaws.",
+    "forks_count": 0,
+    "html_url": "https://github.com/LuCamachoJr/CRUD-Application-in-JavaScript",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CRUD-Application-in-JavaScript",
+    "repo_owner": "LuCamachoJr",
+    "repotime": "2025-01-25, 08:55:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 441,
+    "date_started": "2019-02-23",
+    "date_updated": "2025-01-25",
+    "description": "K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
+    "forks_count": 2069,
+    "html_url": "https://github.com/k8gege/K8tools",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit",
+        "lpe exploit",
+        "rce exploit",
+        "lpe poc"
+    ],
+    "language": "PowerShell",
+    "repo_name": "K8tools",
+    "repo_owner": "k8gege",
+    "repotime": "2025-01-25, 14:32:49",
+    "stargazers_count": 6004,
+    "watchers_count": 6004
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-24",
+    "date_updated": "2025-01-24",
+    "description": "Web Vulnerability Scanner: A Python tool with a GUI to test websites for SQL Injection, XSS, Directory Traversal, Open Redirects, WordPress vulnerabilities, and missing security headers. Integrates Nmap for open port scanning. Easy-to-use and great for web security testing!",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ferasarabea/WebVuln",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "WebVuln",
+    "repo_owner": "Ferasarabea",
+    "repotime": "2025-01-24, 17:30:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-09-03",
+    "date_updated": "2025-01-23",
+    "description": "The objective of this penetration test was to identify and exploit vulnerabilities in the DC:9 virtual machine provided by VulnHub. The aim was to gain unauthorized access and escalate privileges to obtain the root flag.",
+    "forks_count": 0,
+    "html_url": "https://github.com/NicholasFakhoury97/Web-Application-PenTest",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Web-Application-PenTest",
+    "repo_owner": "NicholasFakhoury97",
+    "repotime": "2025-01-23, 17:51:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 221,
+    "date_started": "2023-01-25",
+    "date_updated": "2025-01-22",
+    "description": "<no description>",
+    "forks_count": 127,
+    "html_url": "https://github.com/trufflesecurity/xsshunter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "SCSS",
+    "repo_name": "xsshunter",
+    "repo_owner": "trufflesecurity",
+    "repotime": "2025-01-22, 15:35:19",
+    "stargazers_count": 462,
+    "watchers_count": 462
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-01-15",
+    "date_updated": "2025-01-22",
+    "description": "This project explores the vulnerability of cryptographic algorithms AES and RSA to micro-architectural side-channel attacks using the MASTIK toolkit. By employing the Prime+Probe technique, the project analyzes cache access patterns and memory leakage on Intel and AMD systems, highlighting potential security risks in cryptographic implementations",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mehulupase01/SCA-attack-on-L1-L3-cache-on-x86-64-Intel-AMD-CPUs-cache-memory-leakage",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "SCA-attack-on-L1-L3-cache-on-x86-64-Intel-AMD-CPUs-cache-memory-leakage",
+    "repo_owner": "Mehulupase01",
+    "repotime": "2025-01-22, 22:02:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-06-08",
+    "date_updated": "2025-01-22",
+    "description": "Atlassian confluence unauthenticated ONGL injection remote code execution scanner (CVE-2022-26134).",
+    "forks_count": 3,
+    "html_url": "https://github.com/redhuntlabs/ConfluentPwn",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Go",
+    "repo_name": "ConfluentPwn",
+    "repo_owner": "redhuntlabs",
+    "repotime": "2025-01-22, 10:48:47",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 255,
+    "date_started": "2018-07-10",
+    "date_updated": "2025-01-21",
+    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "forks_count": 2300,
+    "html_url": "https://github.com/kgretzky/evilginx2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Go",
+    "repo_name": "evilginx2",
+    "repo_owner": "kgretzky",
+    "repotime": "2025-01-21, 16:16:10",
+    "stargazers_count": 13218,
+    "watchers_count": 13218
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-01-13",
+    "date_updated": "2025-01-20",
+    "description": "CVE-2024-11972 in Hunk Companion &amp;lt;1.9.0 allows unauthenticated attackers to exploit insecure REST API endpoints and install vulnerable plugins, risking RCE, SQLi, XSS, and backdoors.",
+    "forks_count": 0,
+    "html_url": "https://github.com/RonF98/CVE-2024-11972-POC",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-11972-POC",
+    "repo_owner": "RonF98",
+    "repotime": "2025-01-20, 17:40:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-05-09",
+    "date_updated": "2025-01-18",
+    "description": "This is a simple repository of the tools that I use for Windows privilege escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jsimsynack/windows-privesc-tools",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Win escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "windows-privesc-tools",
+    "repo_owner": "Jsimsynack",
+    "repotime": "2025-01-18, 21:20:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-18",
+    "date_updated": "2025-01-18",
+    "description": "Express.js route parameter handling can lead to unexpected behavior if not handled carefully. For example, improper input sanitization or validation can result in errors or vulnerabilities.  Another potential problem is forgetting to handle cases where data is not found.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Express-js-Route-Parameter-Handling-Errors-ez8se",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Express-js-Route-Parameter-Handling-Errors-ez8se",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-18, 20:22:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-16",
+    "date_updated": "2025-01-16",
+    "description": " This Python script scans URLs for vulnerabilities like SQL injection, XSS, open ports, weak session management, and more. It generates a CSV report with detailed findings. Use it for authorized security testing to identify risks and improve website defenses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/taleblou/URLVulnerabilityScanner_Python",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "URLVulnerabilityScanner_Python",
+    "repo_owner": "taleblou",
+    "repotime": "2025-01-16, 10:40:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-12",
+    "date_updated": "2025-01-12",
+    "description": "Express.js route parameter handling:  Incorrectly handling missing or invalid user IDs.  The code lacks input validation, which leads to errors or unexpected behavior when a user ID is missing or invalid.  This is a common source of 404 errors or database errors if the query isn't properly protected against SQL injection.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Express-js-Route-Parameter-Vulnerability--Missing-User-ID-Handling-wwmtb",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Express-js-Route-Parameter-Vulnerability--Missing-User-ID-Handling-wwmtb",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-12, 11:16:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 265,
+    "date_started": "2023-12-14",
+    "date_updated": "2025-01-11",
+    "description": "Modloader/Injector/Decompiler that supports ingame code injection for Balatro (Linux/Windows/Mac)",
+    "forks_count": 20,
+    "html_url": "https://github.com/balamod/balamod",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Rust",
+    "repo_name": "balamod",
+    "repo_owner": "balamod",
+    "repotime": "2025-01-11, 12:09:02",
+    "stargazers_count": 137,
+    "watchers_count": 137
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-11-21",
+    "date_updated": "2025-01-09",
+    "description": "Command injection exploit, Path traversal for flag access, Server side request forgery, XXE, Hard coded input.",
+    "forks_count": 0,
+    "html_url": "https://github.com/partalex/improper-input-validation",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "C#",
+    "repo_name": "improper-input-validation",
+    "repo_owner": "partalex",
+    "repotime": "2025-01-09, 18:38:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2025-01-05",
+    "date_updated": "2025-01-06",
+    "description": "Oprlet is a powerful and flexible tool designed to perform automated vulnerability checks on websites, helping you identify potential security weaknesses. The scanner supports SQL Injection, XSS, and Directory Traversal vulnerabilities, utilizing comprehensive payloads for thorough scanning.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fathiashik/oprlet",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "oprlet",
+    "repo_owner": "fathiashik",
+    "repotime": "2025-01-06, 17:12:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 195,
+    "date_started": "2018-02-27",
+    "date_updated": "2025-01-06",
+    "description": "SQL injection protection module",
+    "forks_count": 62,
+    "html_url": "https://github.com/nearform/sql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sql",
+    "repo_owner": "nearform",
+    "repotime": "2025-01-06, 13:13:21",
+    "stargazers_count": 218,
+    "watchers_count": 218
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-03",
+    "date_updated": "2025-01-03",
+    "description": "Navayan CSV Export &amp;lt;= 1.0.9 - Unauthenticated SQL Injection",
+    "forks_count": 0,
+    "html_url": "https://github.com/RandomRobbieBF/CVE-2024-55988",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-55988",
+    "repo_owner": "RandomRobbieBF",
+    "repotime": "2025-01-03, 11:02:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-12-31",
+    "date_updated": "2025-01-02",
+    "description": "Solution for ingesting large Excel/CSV datasets into LLMs. Aims to chunk, query, and aggregate data efficiently—so to quickly analyze massive datasets without typical LLM issues.",
+    "forks_count": 0,
+    "html_url": "https://github.com/aryadhruv/llm-tabular-data-injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "llm-tabular-data-injection",
+    "repo_owner": "aryadhruv",
+    "repotime": "2025-01-02, 20:37:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 57,
+    "date_started": "2018-06-07",
+    "date_updated": "2025-01-02",
+    "description": "List of XSS Vectors/Payloads ",
+    "forks_count": 258,
+    "html_url": "https://github.com/RenwaX23/XSS-Payloads",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "XSS-Payloads",
+    "repo_owner": "RenwaX23",
+    "repotime": "2025-01-02, 11:17:31",
+    "stargazers_count": 1237,
+    "watchers_count": 1237
+}

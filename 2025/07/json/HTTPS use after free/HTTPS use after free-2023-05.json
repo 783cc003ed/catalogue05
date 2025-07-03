@@ -1,0 +1,142 @@
+{
+    "commits_count": 69,
+    "date_started": "2021-03-05",
+    "date_updated": "2023-05-30",
+    "description": "Secure router with XSS and CSRF",
+    "forks_count": 144,
+    "html_url": "https://github.com/phprouter/main",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "main",
+    "repo_owner": "phprouter",
+    "repotime": "2023-05-30, 11:30:34",
+    "stargazers_count": 545,
+    "watchers_count": 545
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-05-18",
+    "date_updated": "2023-05-20",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/elliSzAt/XML-external-entity-XXE-injection",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XML-external-entity-XXE-injection",
+    "repo_owner": "elliSzAt",
+    "repotime": "2023-05-20, 18:17:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 392,
+    "date_started": "2021-03-27",
+    "date_updated": "2023-05-20",
+    "description": "How to develop your own zero day vulnerabilities for iOS",
+    "forks_count": 1,
+    "html_url": "https://github.com/faisalmemon/the-road-to-zero",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "TeX",
+    "repo_name": "the-road-to-zero",
+    "repo_owner": "faisalmemon",
+    "repotime": "2023-05-20, 09:44:26",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 40,
+    "date_started": "2022-07-03",
+    "date_updated": "2023-05-12",
+    "description": "Full disclosures for CVE ids, proofs of concept, exploits, 0day bugs and so on.",
+    "forks_count": 17,
+    "html_url": "https://github.com/j00sean/SecBugs",
+    "keywords": [
+        "0day exploit",
+        "0day proof of concept",
+        "0day disclosure",
+        "0day exploitation"
+    ],
+    "language": "HTML",
+    "repo_name": "SecBugs",
+    "repo_owner": "j00sean",
+    "repotime": "2023-05-12, 12:22:27",
+    "stargazers_count": 112,
+    "watchers_count": 112
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-08-13",
+    "date_updated": "2023-05-06",
+    "description": "[Archived] GPU Drops' captcha solving extension without affiliate tracking code injection",
+    "forks_count": 16,
+    "html_url": "https://github.com/Sqaaakoi/legacy-noptcha-patch-archived",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "legacy-noptcha-patch-archived",
+    "repo_owner": "Sqaaakoi",
+    "repotime": "2023-05-06, 19:47:08",
+    "stargazers_count": 196,
+    "watchers_count": 196
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-04-10",
+    "date_updated": "2023-05-05",
+    "description": "A rust static analysis tool for checking memory safety bug, eg. use after free, double free and dangling pointer ",
+    "forks_count": 0,
+    "html_url": "https://github.com/olleh-dlrow/rust-memory-check",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Rust",
+    "repo_name": "rust-memory-check",
+    "repo_owner": "olleh-dlrow",
+    "repotime": "2023-05-05, 09:33:37",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-01-05",
+    "date_updated": "2023-05-03",
+    "description": "PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti &amp;lt;= 1.2.22",
+    "forks_count": 8,
+    "html_url": "https://github.com/sAsPeCt488/CVE-2022-46169",
+    "keywords": [
+        "unauthenticated rce",
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-46169",
+    "repo_owner": "sAsPeCt488",
+    "repotime": "2023-05-03, 19:50:34",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 218,
+    "date_started": "2016-07-11",
+    "date_updated": "2023-05-02",
+    "description": " QRLJacking or Quick Response Code Login Jacking is a simple-but-nasty attack vector affecting all the applications that relays on “Login with QR code” feature as a secure way to login into accounts which aims for hijacking users session by attackers.",
+    "forks_count": 640,
+    "html_url": "https://github.com/OWASP/QRLJacking",
+    "keywords": [
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "QRLJacking",
+    "repo_owner": "OWASP",
+    "repotime": "2023-05-02, 22:17:30",
+    "stargazers_count": 1416,
+    "watchers_count": 1416
+}

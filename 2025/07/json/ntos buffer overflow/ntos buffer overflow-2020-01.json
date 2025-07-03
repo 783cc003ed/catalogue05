@@ -1,0 +1,70 @@
+{
+    "commits_count": 7,
+    "date_started": "2020-01-25",
+    "date_updated": "2020-01-25",
+    "description": "Sample codes vulnerable to XXE",
+    "forks_count": 4,
+    "html_url": "https://github.com/incredibleindishell/XXE_Vulnerable_codes",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "PHP",
+    "repo_name": "XXE_Vulnerable_codes",
+    "repo_owner": "incredibleindishell",
+    "repotime": "2020-01-25, 23:30:04",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-01-23",
+    "date_updated": "2020-01-24",
+    "description": "PoC (DoS + scanner) for CVE-2020-0609 &amp;amp; CVE-2020-0610 - RD Gateway RCE",
+    "forks_count": 77,
+    "html_url": "https://github.com/ly4k/BlueGate",
+    "keywords": [
+        "rce poc",
+        "rce dos"
+    ],
+    "language": "Python",
+    "repo_name": "BlueGate",
+    "repo_owner": "ly4k",
+    "repotime": "2020-01-24, 16:21:06",
+    "stargazers_count": 250,
+    "watchers_count": 250
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-01-10",
+    "date_updated": "2020-01-10",
+    "description": "The offical exploit for Pandora v7.0NG Post-auth Remote Code Execution CVE-2019-20224",
+    "forks_count": 3,
+    "html_url": "https://github.com/mhaskar/CVE-2019-20224",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-20224",
+    "repo_owner": "mhaskar",
+    "repotime": "2020-01-10, 15:42:11",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 114,
+    "date_started": "2019-12-04",
+    "date_updated": "2020-01-07",
+    "description": "In this repository I'll host my research and methodologies for auditing vulnerabilities ",
+    "forks_count": 14,
+    "html_url": "https://github.com/OlivierLaflamme/Auditing-Vulnerabilities",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "PHP",
+    "repo_name": "Auditing-Vulnerabilities",
+    "repo_owner": "OlivierLaflamme",
+    "repotime": "2020-01-07, 18:50:43",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}

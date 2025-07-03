@@ -1,0 +1,129 @@
+{
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-07-03",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 1,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-07-03, 08:00:50",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 89,
+    "date_started": "2019-08-21",
+    "date_updated": "2025-07-02",
+    "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
+    "forks_count": 291,
+    "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+    "keywords": [
+        "xml external entity",
+        "session attack",
+        "zero-day dos",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "session vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Nginx-Lua-Anti-DDoS",
+    "repo_owner": "C0nw0nk",
+    "repotime": "2025-07-02, 15:02:47",
+    "stargazers_count": 1304,
+    "watchers_count": 1304
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-07-02",
+    "date_updated": "2025-07-02",
+    "description": "This repository contains a Proof of Concept (PoC) exploit for the **CVE-2025-47175** vulnerability found in Microsoft PowerPoint.   The vulnerability is a Use-After-Free (UAF) bug that allows an attacker to execute arbitrary code by tricking a user into opening a specially crafted PPTX file.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mbanyamer/mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE",
+    "keywords": [
+        "Microsoft rce"
+    ],
+    "language": "Python",
+    "repo_name": "mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE",
+    "repo_owner": "mbanyamer",
+    "repotime": "2025-07-02, 15:19:49",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-07-02",
+    "description": "1day practice - Escape macOS sandbox (partial) using RemoteViewServices",
+    "forks_count": 1,
+    "html_url": "https://github.com/BODE987/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape vulnerability",
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Objective-C",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "BODE987",
+    "repotime": "2025-07-02, 14:17:45",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 25,
+    "date_started": "2025-06-28",
+    "date_updated": "2025-07-02",
+    "description": "Deep-dive into C-family memory vulnerabilities — stack overflow, heap corruption, format strings, and more.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ngvtdanhh/certificate-vuln1001-opensecuritytraining2",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "certificate-vuln1001-opensecuritytraining2",
+    "repo_owner": "ngvtdanhh",
+    "repotime": "2025-07-02, 12:14:55",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1232,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-07-02",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 121,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-07-02, 01:17:00",
+    "stargazers_count": 699,
+    "watchers_count": 699
+}
+{
+    "commits_count": 388,
+    "date_started": "2024-09-27",
+    "date_updated": "2025-07-01",
+    "description": "Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.",
+    "forks_count": 1,
+    "html_url": "https://github.com/francescolonardo/pentest-machine-writeups",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "pentest-machine-writeups",
+    "repo_owner": "francescolonardo",
+    "repotime": "2025-07-01, 23:54:09",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

@@ -1,0 +1,208 @@
+{
+    "commits_count": 60,
+    "date_started": "2021-08-29",
+    "date_updated": "2024-04-28",
+    "description": "An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.",
+    "forks_count": 204,
+    "html_url": "https://github.com/h4r5h1t/webcopilot",
+    "keywords": [
+        "rce vulnerability",
+        "lfi",
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "webcopilot",
+    "repo_owner": "h4r5h1t",
+    "repotime": "2024-04-28, 18:49:52",
+    "stargazers_count": 1233,
+    "watchers_count": 1233
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-04-26",
+    "date_updated": "2024-04-26",
+    "description": "Practical educational exercises to explore and mitigate TCP vulnerabilities, including SYN flooding, TCP reset, and session hijacking attacks",
+    "forks_count": 0,
+    "html_url": "https://github.com/yaseenahmed02/TCP-Attacks",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "TCP-Attacks",
+    "repo_owner": "yaseenahmed02",
+    "repotime": "2024-04-26, 21:25:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-04-25",
+    "date_updated": "2024-04-25",
+    "description": "A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mufti22/CVE-2024-4040",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-4040",
+    "repo_owner": "Mufti22",
+    "repotime": "2024-04-25, 12:21:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 49,
+    "date_started": "2023-12-03",
+    "date_updated": "2024-04-24",
+    "description": "Vulnerable application that implements the following vulnerabilities: XSS, IDOR, SQL Injection, OS command injection, Path Traversal, Brute Force",
+    "forks_count": 0,
+    "html_url": "https://github.com/Oyagee/VulnApp",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "VulnApp",
+    "repo_owner": "Oyagee",
+    "repotime": "2024-04-24, 17:52:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 22,
+    "date_started": "2024-04-19",
+    "date_updated": "2024-04-22",
+    "description": "The Domain Security Assessment Toolkit is a Bash script aiding security pros in comprehensive domain evaluations. It automates subdomain enumeration, directory traversal, technology detection, endpoint gathering, and vulnerability testing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Hamza0X/FatMan",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "FatMan",
+    "repo_owner": "Hamza0X",
+    "repotime": "2024-04-22, 00:29:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 79,
+    "date_started": "2015-06-29",
+    "date_updated": "2024-04-21",
+    "description": "a nice code injection engine for Wii games",
+    "forks_count": 13,
+    "html_url": "https://github.com/Treeki/Kamek",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "Kamek",
+    "repo_owner": "Treeki",
+    "repotime": "2024-04-21, 04:47:29",
+    "stargazers_count": 81,
+    "watchers_count": 81
+}
+{
+    "commits_count": 29,
+    "date_started": "2023-10-01",
+    "date_updated": "2024-04-21",
+    "description": "functions to exploit common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and Path Traversal.",
+    "forks_count": 12,
+    "html_url": "https://github.com/AiGptCode/Ai-Security-URL",
+    "keywords": [
+        "cross-side-scripting",
+        "server side request forgery",
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Ai-Security-URL",
+    "repo_owner": "AiGptCode",
+    "repotime": "2024-04-21, 06:30:02",
+    "stargazers_count": 85,
+    "watchers_count": 85
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-04-05",
+    "date_updated": "2024-04-15",
+    "description": "CHAOS RAT web panel path RCE PoC",
+    "forks_count": 10,
+    "html_url": "https://github.com/chebuya/CVE-2024-30850-chaos-rat-rce-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-30850-chaos-rat-rce-poc",
+    "repo_owner": "chebuya",
+    "repotime": "2024-04-15, 13:46:32",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-04-10",
+    "date_updated": "2024-04-10",
+    "description": "Covers essential topics in cybersecurity, including buffer overflow vulnerabilities, zero-day exploits, and tools like Kali Linux for testing and training. It includes a Bash script for password strength checking using regex and another for managing users, adding/removing them from the system by reading from a text file with encrypted passwords.",
+    "forks_count": 0,
+    "html_url": "https://github.com/TryingToBeSmart/CST-321-Security",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "CST-321-Security",
+    "repo_owner": "TryingToBeSmart",
+    "repotime": "2024-04-10, 11:23:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-04-09",
+    "date_updated": "2024-04-09",
+    "description": "A PoC exploit for CVE-2024-3273 - D-Link Remote Code Execution RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-3273-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-04-09, 08:51:41",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-04-08",
+    "date_updated": "2024-04-08",
+    "description": "UNTESTED exploit script for CVE-2024-3272 + CVE-2024-3273. The script exploits a backdoor authentication bypass + arbitrary command injection vulnerability. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "D-Link-NAS-Devices-Unauthenticated-RCE",
+    "repo_owner": "nickswink",
+    "repotime": "2024-04-08, 09:57:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-03-11",
+    "date_updated": "2024-04-03",
+    "description": "CSV Injection in Addactis IBNRS 3.10.3.107",
+    "forks_count": 0,
+    "html_url": "https://github.com/ismailcemunver/CVE-2024-29375",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-29375",
+    "repo_owner": "ismailcemunver",
+    "repotime": "2024-04-03, 09:56:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

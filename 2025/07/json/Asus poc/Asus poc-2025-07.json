@@ -1,0 +1,123 @@
+{
+    "commits_count": 4,
+    "date_started": "2025-07-02",
+    "date_updated": "2025-07-02",
+    "description": "This repository contains a Proof of Concept (PoC) exploit for the **CVE-2025-47175** vulnerability found in Microsoft PowerPoint.   The vulnerability is a Use-After-Free (UAF) bug that allows an attacker to execute arbitrary code by tricking a user into opening a specially crafted PPTX file.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mbanyamer/mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE",
+    "keywords": [
+        "Microsoft rce"
+    ],
+    "language": "Python",
+    "repo_name": "mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE",
+    "repo_owner": "mbanyamer",
+    "repotime": "2025-07-02, 15:19:49",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-07-02",
+    "description": "1day practice - Escape macOS sandbox (partial) using RemoteViewServices",
+    "forks_count": 1,
+    "html_url": "https://github.com/BODE987/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape vulnerability",
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Objective-C",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "BODE987",
+    "repotime": "2025-07-02, 14:17:45",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2025-07-02",
+    "date_updated": "2025-07-02",
+    "description": "Local Privilege Escalation to Root via Sudo chroot in Linux",
+    "forks_count": 0,
+    "html_url": "https://github.com/kh4sh3i/CVE-2025-32463",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463",
+    "repo_owner": "kh4sh3i",
+    "repotime": "2025-07-02, 12:04:43",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 25,
+    "date_started": "2025-06-28",
+    "date_updated": "2025-07-02",
+    "description": "Deep-dive into C-family memory vulnerabilities — stack overflow, heap corruption, format strings, and more.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ngvtdanhh/certificate-vuln1001-opensecuritytraining2",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "certificate-vuln1001-opensecuritytraining2",
+    "repo_owner": "ngvtdanhh",
+    "repotime": "2025-07-02, 12:14:55",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1232,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-07-02",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 121,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-07-02, 01:17:00",
+    "stargazers_count": 699,
+    "watchers_count": 699
+}
+{
+    "commits_count": 388,
+    "date_started": "2024-09-27",
+    "date_updated": "2025-07-01",
+    "description": "Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.",
+    "forks_count": 1,
+    "html_url": "https://github.com/francescolonardo/pentest-machine-writeups",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "pentest-machine-writeups",
+    "repo_owner": "francescolonardo",
+    "repotime": "2025-07-01, 23:54:09",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-07-01",
+    "date_updated": "2025-07-01",
+    "description": "Wing FTP Server Remote Code Execution (RCE) Exploit (CVE-2025-47812)",
+    "forks_count": 2,
+    "html_url": "https://github.com/4m3rr0r/CVE-2025-47812-poc",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-47812-poc",
+    "repo_owner": "4m3rr0r",
+    "repotime": "2025-07-01, 18:33:15",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
