@@ -1,0 +1,103 @@
+{
+    "commits_count": 5,
+    "date_started": "2016-08-17",
+    "date_updated": "2016-09-26",
+    "description": "Bypassing User Account Control (UAC) using TpmInit.exe",
+    "forks_count": 38,
+    "html_url": "https://github.com/Cn33liz/TpmInitUACBypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "TpmInitUACBypass",
+    "repo_owner": "Cn33liz",
+    "repotime": "2016-09-26, 15:28:29",
+    "stargazers_count": 128,
+    "watchers_count": 128
+}
+{
+    "commits_count": 5,
+    "date_started": "2016-08-17",
+    "date_updated": "2016-09-26",
+    "description": "Bypassing User Account Control (UAC) using TpmInit.exe ",
+    "forks_count": 24,
+    "html_url": "https://github.com/Cn33liz/TpmInitUACAnniversaryBypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "TpmInitUACAnniversaryBypass",
+    "repo_owner": "Cn33liz",
+    "repotime": "2016-09-26, 15:27:40",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 16,
+    "date_started": "2016-08-23",
+    "date_updated": "2016-09-22",
+    "description": "Recurrent neural networks in predicting security exploits",
+    "forks_count": 8,
+    "html_url": "https://github.com/zhexxian/From-Machine-Learning-To-Zero-Day-Exploits",
+    "keywords": [
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "From-Machine-Learning-To-Zero-Day-Exploits",
+    "repo_owner": "zhexxian",
+    "repotime": "2016-09-22, 23:36:12",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 280,
+    "date_started": "2018-03-23",
+    "date_updated": "2016-09-22",
+    "description": "Version of Binnavi used for the thesis &amp;quot;Finding the needle in the heap : combining binary analysis techniques to trigger use-after-free&amp;quot;",
+    "forks_count": 5,
+    "html_url": "https://github.com/montyly/binnavi-gueb",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Java",
+    "repo_name": "binnavi-gueb",
+    "repo_owner": "montyly",
+    "repotime": "2016-09-22, 13:49:55",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 17,
+    "date_started": "2016-06-02",
+    "date_updated": "2016-09-14",
+    "description": "This repo contains comprehensive lists of attack payloads known to cause issues like OS command injection, directory listings, directory traversals, source exposure, file upload bypass, authentication bypass, http header crlf injections, and more",
+    "forks_count": 4,
+    "html_url": "https://github.com/raikar/attack-docs",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": "HTML",
+    "repo_name": "attack-docs",
+    "repo_owner": "raikar",
+    "repotime": "2016-09-14, 08:26:17",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 148,
+    "date_started": "2015-02-05",
+    "date_updated": "2016-09-12",
+    "description": "Secure XSS Filters.",
+    "forks_count": 137,
+    "html_url": "https://github.com/YahooArchive/xss-filters",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xss-filters",
+    "repo_owner": "YahooArchive",
+    "repotime": "2016-09-12, 13:03:36",
+    "stargazers_count": 1079,
+    "watchers_count": 1079
+}

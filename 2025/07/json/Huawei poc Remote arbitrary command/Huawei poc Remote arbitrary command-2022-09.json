@@ -1,0 +1,285 @@
+{
+    "commits_count": 7,
+    "date_started": "2022-07-18",
+    "date_updated": "2022-09-27",
+    "description": "ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC-exploit",
+    "forks_count": 11,
+    "html_url": "https://github.com/viniciuspereiras/CVE-2022-35405",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "unauthenticated remote code execution",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "unauthenticated rce",
+        "rce vulnerability",
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-35405",
+    "repo_owner": "viniciuspereiras",
+    "repotime": "2022-09-27, 11:52:32",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 144,
+    "date_started": "2019-07-12",
+    "date_updated": "2022-09-27",
+    "description": "🔱 Powerfull XSS Scanning and Parameter analysis tool&amp;amp;gem",
+    "forks_count": 234,
+    "html_url": "https://github.com/hahwul/XSpear",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Ruby",
+    "repo_name": "XSpear",
+    "repo_owner": "hahwul",
+    "repotime": "2022-09-27, 22:47:33",
+    "stargazers_count": 1282,
+    "watchers_count": 1282
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-09-25",
+    "date_updated": "2022-09-25",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/User-XXI/Win_LPE_Theory",
+    "keywords": [
+        "Win lpe"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Win_LPE_Theory",
+    "repo_owner": "User-XXI",
+    "repotime": "2022-09-25, 09:52:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-09-20",
+    "date_updated": "2022-09-23",
+    "description": "Vidian, Lord Of Envy. Privilege Escalation exploitation written C&amp;&#35;35;",
+    "forks_count": 0,
+    "html_url": "https://github.com/pruno7/Vidian",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "C#",
+    "repo_name": "Vidian",
+    "repo_owner": "pruno7",
+    "repotime": "2022-09-23, 14:44:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-04-06",
+    "date_updated": "2022-09-22",
+    "description": "Mobile Mouse 3.6.0.4 could allow a remote attacker to execute arbitrary code on the system, caused by improper input validation. By sending a specially-crafted request, an attacker could exploit this vulnerability to execute arbitrary code on the system.",
+    "forks_count": 4,
+    "html_url": "https://github.com/SpecialistExperts/mobilemouse-SpEx",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "mobilemouse-SpEx",
+    "repo_owner": "SpecialistExperts",
+    "repotime": "2022-09-22, 08:54:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2023-04-25",
+    "date_updated": "2022-09-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2022-37706-LPE-exploit",
+    "repo_owner": "GrayHatZone",
+    "repotime": "2022-09-19, 20:41:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 26,
+    "date_started": "2022-09-12",
+    "date_updated": "2022-09-19",
+    "description": "A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04)",
+    "forks_count": 41,
+    "html_url": "https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2022-37706-LPE-exploit",
+    "repo_owner": "MaherAzzouzi",
+    "repotime": "2022-09-19, 20:41:34",
+    "stargazers_count": 317,
+    "watchers_count": 317
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-09-18",
+    "date_updated": "2022-09-18",
+    "description": "README SQLI-LABS is a platform to learn SQLI Following labs are covered for GET and POST scenarios:  Error Based Injections (Union Select)  String Intiger Error Based Injections (Double Injection Based)  BLIND Injections: 1.Boolian Based 2.Time Based  Update Query Injection.  Insert Query Injections.  Header Injections. 1.Referer based. 2.UserAgent based. 3.Cookie based.  Second Order Injections  Bypassing WAF  Bypassing Blacklist filters Stripping comments Stripping OR &amp;amp; AND Stripping SPACES and COMMENTS Stripping UNION &amp;amp; SELECT Impidence mismatch Bypass addslashes()  Bypassing mysql_real_escape_string. (under special conditions)  Stacked SQL injections.  Secondary channel extraction  ======================================================================================== Install Instructions:  Unzip the contents inside the apache folder, for example under /var/www This will create a folder sql-labs under it. else you can use git command from within /var/www folder. /var/www f...",
+    "forks_count": 0,
+    "html_url": "https://github.com/mirankhan008/sqli-labs",
+    "keywords": [
+        "stack cookies bypass"
+    ],
+    "language": null,
+    "repo_name": "sqli-labs",
+    "repo_owner": "mirankhan008",
+    "repotime": "2022-09-18, 14:36:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 59,
+    "date_started": "2018-01-05",
+    "date_updated": "2022-09-16",
+    "description": "Oracle WebLogic WLS-WSAT Remote Code Execution Exploit (CVE-2017-10271)",
+    "forks_count": 42,
+    "html_url": "https://github.com/kkirsche/CVE-2017-10271",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2017-10271",
+    "repo_owner": "kkirsche",
+    "repotime": "2022-09-16, 08:53:46",
+    "stargazers_count": 127,
+    "watchers_count": 127
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-09-10",
+    "date_updated": "2022-09-11",
+    "description": "Unauthenticated Blind Command injection in the enable_user function of DroboAccess v 2.1",
+    "forks_count": 0,
+    "html_url": "https://github.com/RevoCain/CVE-2018-14699",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-14699",
+    "repo_owner": "RevoCain",
+    "repotime": "2022-09-11, 07:48:57",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-07-19",
+    "date_updated": "2022-09-06",
+    "description": "<no description>",
+    "forks_count": 34,
+    "html_url": "https://github.com/randorisec/CVE-2022-34918-LPE-PoC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-34918-LPE-PoC",
+    "repo_owner": "randorisec",
+    "repotime": "2022-09-06, 16:05:22",
+    "stargazers_count": 244,
+    "watchers_count": 244
+}
+{
+    "commits_count": 110,
+    "date_started": "2020-10-23",
+    "date_updated": "2022-09-04",
+    "description": "A cheat sheet that contains advanced queries for SQL Injection of all types.",
+    "forks_count": 684,
+    "html_url": "https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "Advanced-SQL-Injection-Cheatsheet",
+    "repo_owner": "kleiton0x00",
+    "repotime": "2022-09-04, 17:36:34",
+    "stargazers_count": 3026,
+    "watchers_count": 3026
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-08-30",
+    "date_updated": "2022-09-05",
+    "description": "📜 This script uses steganography and a Discord client vulnerability in order to run javascript on all computers viewing a certain image within Discord.",
+    "forks_count": 2,
+    "html_url": "https://github.com/0x44F/stego-discord",
+    "keywords": [
+        "zero-day vulnerability",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "stego-discord",
+    "repo_owner": "0x44F",
+    "repotime": "2022-09-05, 00:17:44",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-09-03",
+    "date_updated": "2022-09-03",
+    "description": "Unauthenticated RCE in Laravel Debug Mode &amp;lt;8.4.2",
+    "forks_count": 1,
+    "html_url": "https://github.com/JacobEbben/CVE-2021-3129",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-3129",
+    "repo_owner": "JacobEbben",
+    "repotime": "2022-09-03, 19:22:00",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-09-01",
+    "date_updated": "2022-09-03",
+    "description": "Redis RCE through Lua Sandbox Escape vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/JacobEbben/CVE-2022-0543",
+    "keywords": [
+        "sandbox escape vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-0543",
+    "repo_owner": "JacobEbben",
+    "repotime": "2022-09-03, 00:46:08",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-08-22",
+    "date_updated": "2022-09-01",
+    "description": "PoC of various bugs in the Linux kernel",
+    "forks_count": 3,
+    "html_url": "https://github.com/greek0x0/2022-LPE-UAF",
+    "keywords": [
+        "uaf poc",
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "2022-LPE-UAF",
+    "repo_owner": "greek0x0",
+    "repotime": "2022-09-01, 09:43:12",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}

@@ -1,0 +1,37 @@
+{
+    "commits_count": 6,
+    "date_started": "2020-12-31",
+    "date_updated": "2021-03-29",
+    "description": "The report and the exploit of CVE-2021-26943, the kernel-to-SMM local privilege escalation vulnerability in ASUS UX360CA BIOS version 303.",
+    "forks_count": 25,
+    "html_url": "https://github.com/tandasat/SmmExploit",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "SmmExploit",
+    "repo_owner": "tandasat",
+    "repotime": "2021-03-29, 05:33:32",
+    "stargazers_count": 142,
+    "watchers_count": 142
+}
+{
+    "commits_count": 27,
+    "date_started": "2020-05-20",
+    "date_updated": "2021-03-10",
+    "description": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list",
+    "forks_count": 1320,
+    "html_url": "https://github.com/LandGrey/SpringBootVulExploit",
+    "keywords": [
+        "rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "SpringBootVulExploit",
+    "repo_owner": "LandGrey",
+    "repotime": "2021-03-10, 21:03:17",
+    "stargazers_count": 5988,
+    "watchers_count": 5988
+}

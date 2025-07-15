@@ -1,0 +1,17 @@
+{
+    "commits_count": 75,
+    "date_started": "2013-03-08",
+    "date_updated": "2020-03-11",
+    "description": "Rid_enum is a null session RID cycle attack for brute forcing domain controllers.",
+    "forks_count": 85,
+    "html_url": "https://github.com/trustedsec/ridenum",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "ridenum",
+    "repo_owner": "trustedsec",
+    "repotime": "2020-03-11, 16:38:23",
+    "stargazers_count": 286,
+    "watchers_count": 286
+}
