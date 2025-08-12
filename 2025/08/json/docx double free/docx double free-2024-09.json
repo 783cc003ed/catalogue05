@@ -1,0 +1,348 @@
+{
+    "commits_count": 2,
+    "date_started": "2024-09-29",
+    "date_updated": "2024-09-29",
+    "description": "C++ memory leak retrieval proof of concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/rfgplk/memtag",
+    "keywords": [
+        "memory leak proof of concept"
+    ],
+    "language": "C++",
+    "repo_name": "memtag",
+    "repo_owner": "rfgplk",
+    "repotime": "2024-09-29, 18:00:29",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-01-31",
+    "date_updated": "2024-09-28",
+    "description": "PoCs of RCEs against open source C2 servers",
+    "forks_count": 17,
+    "html_url": "https://github.com/IncludeSecurity/c2-vulnerabilities",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "c2-vulnerabilities",
+    "repo_owner": "IncludeSecurity",
+    "repotime": "2024-09-28, 15:51:50",
+    "stargazers_count": 86,
+    "watchers_count": 86
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-09-26",
+    "date_updated": "2024-09-26",
+    "description": "Offensive Security Tool is a multi-purpose tool designed for conducting offensive security activities, including file exfiltration, reverse shell connections, and privilege escalation. This tool provides cross-platform functionality, supporting both macOS and Windows environments. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/4xyy/OCT--offensive_security_tool",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "Python",
+    "repo_name": "OCT--offensive_security_tool",
+    "repo_owner": "4xyy",
+    "repotime": "2024-09-26, 09:33:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-09-24",
+    "date_updated": "2024-09-24",
+    "description": "WBW Product Table Pro &amp;lt;= 1.9.4 - Unauthenticated Arbitrary SQL Execution to RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/KTN1990/CVE-2024-43918",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-43918",
+    "repo_owner": "KTN1990",
+    "repotime": "2024-09-24, 06:52:04",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 302,
+    "date_started": "2017-04-30",
+    "date_updated": "2024-09-23",
+    "description": "hack tools",
+    "forks_count": 493,
+    "html_url": "https://github.com/hacktoolspack/hack-tools",
+    "keywords": [
+        "0day exploit",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "hack-tools",
+    "repo_owner": "hacktoolspack",
+    "repotime": "2024-09-23, 23:27:19",
+    "stargazers_count": 1129,
+    "watchers_count": 1129
+}
+{
+    "commits_count": 95,
+    "date_started": "2020-06-16",
+    "date_updated": "2024-09-23",
+    "description": "Fast CLI tool to find the parameters that can be used to find SSRF or Out-of-band resource load :artificial_satellite: :crab:",
+    "forks_count": 43,
+    "html_url": "https://github.com/MindPatch/lorsrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Rust",
+    "repo_name": "lorsrf",
+    "repo_owner": "MindPatch",
+    "repotime": "2024-09-23, 00:19:29",
+    "stargazers_count": 296,
+    "watchers_count": 296
+}
+{
+    "commits_count": 93,
+    "date_started": "2020-02-13",
+    "date_updated": "2024-09-20",
+    "description": "Image preview support for lf (list files) using Überzug",
+    "forks_count": 47,
+    "html_url": "https://github.com/thimc/lfimg",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Shell",
+    "repo_name": "lfimg",
+    "repo_owner": "thimc",
+    "repotime": "2024-09-20, 07:23:03",
+    "stargazers_count": 269,
+    "watchers_count": 269
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-09-19",
+    "date_updated": "2024-09-19",
+    "description": "This report identifies critical vulnerabilities in the Google Gruyere web application, including XSSI, Path Traversal, DoS, and Code Execution. It provides proofs of concept and recommendations for mitigating these risks to enhance overall application security. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Cyb3rscrib/Gruyere",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Gruyere",
+    "repo_owner": "Cyb3rscrib",
+    "repotime": "2024-09-19, 21:41:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 64,
+    "date_started": "2012-12-15",
+    "date_updated": "2024-09-17",
+    "description": "Cross Site &amp;quot;Scripter&amp;quot; (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.",
+    "forks_count": 252,
+    "html_url": "https://github.com/epsylon/xsser",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xsser",
+    "repo_owner": "epsylon",
+    "repotime": "2024-09-17, 09:58:12",
+    "stargazers_count": 1334,
+    "watchers_count": 1334
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-09-14",
+    "date_updated": "2024-09-15",
+    "description": "Stuxnet extracted binaries by reversing &amp;amp; Stuxnet Rootkit Analysis",
+    "forks_count": 17,
+    "html_url": "https://github.com/x86byte/Stuxnet-Rootkit",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "C",
+    "repo_name": "Stuxnet-Rootkit",
+    "repo_owner": "x86byte",
+    "repotime": "2024-09-15, 00:01:28",
+    "stargazers_count": 64,
+    "watchers_count": 64
+}
+{
+    "commits_count": 103,
+    "date_started": "2020-04-15",
+    "date_updated": "2024-09-13",
+    "description": "GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interesting Subs) parameters grep",
+    "forks_count": 292,
+    "html_url": "https://github.com/1ndianl33t/Gf-Patterns",
+    "keywords": [
+        "lfi",
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "Gf-Patterns",
+    "repo_owner": "1ndianl33t",
+    "repotime": "2024-09-13, 20:34:14",
+    "stargazers_count": 1335,
+    "watchers_count": 1335
+}
+{
+    "commits_count": 16,
+    "date_started": "2024-08-23",
+    "date_updated": "2024-09-11",
+    "description": "Check if your domain is vulnerable to spoofing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dikayx/spoofy",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "spoofy",
+    "repo_owner": "dikayx",
+    "repotime": "2024-09-11, 11:04:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-04-12",
+    "date_updated": "2024-09-11",
+    "description": "A project focused on implementing ARP spoofing/poisoning, a fundamental Man-In-The-Middle attack exploiting vulnerabilities in the ARP protocol's behavior within a network.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sleleu/ft_malcolm",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "ft_malcolm",
+    "repo_owner": "Sleleu",
+    "repotime": "2024-09-11, 00:11:38",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-09-10",
+    "date_updated": "2024-09-10",
+    "description": "Final Capstone Project - Cloud Security, Malware Analysis, Phishing, and Zero-Day Attack Prevention.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MarepalliRakesh/Capstone_Project",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": null,
+    "repo_name": "Capstone_Project",
+    "repo_owner": "MarepalliRakesh",
+    "repotime": "2024-09-10, 15:42:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-09-10",
+    "date_updated": "2024-09-09",
+    "description": "RCE PoC For Windows",
+    "forks_count": 0,
+    "html_url": "https://github.com/SleepTheGod/WindowsRCE",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "WindowsRCE",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2024-09-09, 22:16:00",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-09-04",
+    "date_updated": "2024-09-07",
+    "description": "A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder.  To get started, simply fork this repo.  CONTRIBUTING See ways of contributing to this repo. You can contribute solutions (will be published in this repo) to existing problems, add new projects, or remove existing ones. Make sure you follow all instructions properly.  Solutions You can find implementations of these projects in many other languages by other users in this repo.  Credits  Problems are motivated by the ones shared at:  Martyr2’s Mega Project List Rosetta Code Table of Contents Numbers Classic Algorithms Graph Data Structures Text Networking Classes Threading Web Files Databases Graphics and Multimedia Security Numbers Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.  Find e to the Nth Dig...",
+    "forks_count": 35,
+    "html_url": "https://github.com/ManojKumarPatnaik/Major-project-list",
+    "keywords": [
+        "Windows zero-day analysis",
+        "zero-day analysis",
+        "path traversal attack",
+        "Windows zero-day",
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Major-project-list",
+    "repo_owner": "ManojKumarPatnaik",
+    "repotime": "2024-09-07, 20:52:27",
+    "stargazers_count": 171,
+    "watchers_count": 171
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-03-02",
+    "date_updated": "2024-09-06",
+    "description": "Checks for SSRF using built-in custom Payloads after fetching URLs from Multiple Passive Sources &amp;amp; applying complex patterns aimed at SSRF",
+    "forks_count": 25,
+    "html_url": "https://github.com/blackhatethicalhacking/SSRFPwned",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "SSRFPwned",
+    "repo_owner": "blackhatethicalhacking",
+    "repotime": "2024-09-06, 16:12:31",
+    "stargazers_count": 125,
+    "watchers_count": 125
+}
+{
+    "commits_count": 51,
+    "date_started": "2020-07-11",
+    "date_updated": "2024-09-04",
+    "description": "Inject python code into a running python process",
+    "forks_count": 12,
+    "html_url": "https://github.com/kmaork/hypno",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "hypno",
+    "repo_owner": "kmaork",
+    "repotime": "2024-09-04, 14:05:39",
+    "stargazers_count": 98,
+    "watchers_count": 98
+}
+{
+    "commits_count": 26,
+    "date_started": "2020-10-14",
+    "date_updated": "2024-09-03",
+    "description": "A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability)",
+    "forks_count": 2,
+    "html_url": "https://github.com/corelight/CVE-2020-16898",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "remote code execution vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2020-16898",
+    "repo_owner": "corelight",
+    "repotime": "2024-09-03, 14:23:10",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 190,
+    "date_started": "2024-09-01",
+    "date_updated": "2024-09-03",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Shareoks/HTA-Exploit",
+    "keywords": [
+        "Windows remote code execution exploit"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Shareoks",
+    "repotime": "2024-09-03, 05:54:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -1,0 +1,34 @@
+{
+    "commits_count": 115,
+    "date_started": "2014-01-11",
+    "date_updated": "2022-02-24",
+    "description": "This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.",
+    "forks_count": 159,
+    "html_url": "https://github.com/NetSPI/xssValidator",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "xssValidator",
+    "repo_owner": "NetSPI",
+    "repotime": "2022-02-24, 15:00:10",
+    "stargazers_count": 414,
+    "watchers_count": 414
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-02-21",
+    "date_updated": "2022-02-21",
+    "description": "An overview about XML external entity injection and some common examples, explain how to find and exploit various kinds of XXE injection, and summarize how to prevent XXE injection attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ousbaailyas/XML_External_Entity_XXE_injection",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XML_External_Entity_XXE_injection",
+    "repo_owner": "ousbaailyas",
+    "repotime": "2022-02-21, 15:55:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

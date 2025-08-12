@@ -1,0 +1,175 @@
+{
+    "commits_count": 4,
+    "date_started": "2025-03-30",
+    "date_updated": "2025-03-30",
+    "description": "Lightweight C-based POC of the CIA's &amp;quot;Stinger&amp;quot; exploit (Vault 7) — Escalate privileges to SYSTEM on Windows by duplicating a UAC-elevated token and using COM to launch a scheduled task.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Aur3ns/Simply_Stinger",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Simply_Stinger",
+    "repo_owner": "Aur3ns",
+    "repotime": "2025-03-30, 12:58:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 36,
+    "date_started": "2024-01-24",
+    "date_updated": "2025-03-29",
+    "description": "Proof of concept code for thread pool based process injection in Windows.",
+    "forks_count": 13,
+    "html_url": "https://github.com/dlima04/Thread-Pool-Injection-PoC",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "Thread-Pool-Injection-PoC",
+    "repo_owner": "dlima04",
+    "repotime": "2025-03-29, 19:14:46",
+    "stargazers_count": 116,
+    "watchers_count": 116
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-03-26",
+    "date_updated": "2025-03-26",
+    "description": "ZeroHuntAI is an advanced source code vulnerability scanner designed to detect potential zero-day vulnerabilities in your codebase. It combines static code analysis with pattern matching and AI evaluation to identify security issues before they can be exploited.",
+    "forks_count": 0,
+    "html_url": "https://github.com/absholi7ly/ZeroHuntAI",
+    "keywords": [
+        "zero-day analysis",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroHuntAI",
+    "repo_owner": "absholi7ly",
+    "repotime": "2025-03-26, 06:46:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-22",
+    "date_updated": "2025-03-23",
+    "description": "**Kioptrix-Level1-Writeup** is a detailed walkthrough of the **Kioptrix Level 1 CTF challenge**, covering **reconnaissance, exploitation, and privilege escalation** to gain root access. This write-up includes step-by-step commands, tool usage, and findings, making it a great resource for beginners in penetration testing. 🚀",
+    "forks_count": 0,
+    "html_url": "https://github.com/Omkar443/Kioptrix-Level1-Writeup",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Kioptrix-Level1-Writeup",
+    "repo_owner": "Omkar443",
+    "repotime": "2025-03-23, 00:37:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 52,
+    "date_started": "2015-06-30",
+    "date_updated": "2025-03-19",
+    "description": "My collection of exploit development skeletons for fuzzing, overwriting the stack, remote code execution, etc.",
+    "forks_count": 7,
+    "html_url": "https://github.com/shipcod3/sploitchits",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Classic ASP",
+    "repo_name": "sploitchits",
+    "repo_owner": "shipcod3",
+    "repotime": "2025-03-19, 18:15:10",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 178,
+    "date_started": "2024-04-11",
+    "date_updated": "2025-03-10",
+    "description": "Advance Python Keylogger &amp;amp; Remote Payload Executor for windows",
+    "forks_count": 0,
+    "html_url": "https://github.com/3rr0r-505/KeySpy",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "KeySpy",
+    "repo_owner": "3rr0r-505",
+    "repotime": "2025-03-10, 10:53:14",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-03-07",
+    "date_updated": "2025-03-07",
+    "description": "a poc for triggering and exploiting a simple io_uring fd uaf",
+    "forks_count": 0,
+    "html_url": "https://github.com/end0finvention/fixed-fd-poc",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "C",
+    "repo_name": "fixed-fd-poc",
+    "repo_owner": "end0finvention",
+    "repotime": "2025-03-07, 14:55:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 33,
+    "date_started": "2022-08-26",
+    "date_updated": "2025-03-07",
+    "description": "This repository contains a sample Java application vulnerable to command injection and server-side request forgery (SSRF).",
+    "forks_count": 97,
+    "html_url": "https://github.com/DataDog/vulnerable-java-application",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "vulnerable-java-application",
+    "repo_owner": "DataDog",
+    "repotime": "2025-03-07, 11:34:42",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 96,
+    "date_started": "2023-08-18",
+    "date_updated": "2025-03-06",
+    "description": "Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式",
+    "forks_count": 61,
+    "html_url": "https://github.com/Whoopsunix/JavaRce",
+    "keywords": [
+        "rce vulnerability",
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "JavaRce",
+    "repo_owner": "Whoopsunix",
+    "repotime": "2025-03-06, 13:21:37",
+    "stargazers_count": 523,
+    "watchers_count": 523
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-03",
+    "date_updated": "2025-03-03",
+    "description": "Analyze cpp.code for vulnerabilities, like memory leak",
+    "forks_count": 0,
+    "html_url": "https://github.com/xtamage/cppCodeAnalyzer",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "cppCodeAnalyzer",
+    "repo_owner": "xtamage",
+    "repotime": "2025-03-03, 23:47:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -1,0 +1,68 @@
+{
+    "commits_count": 24,
+    "date_started": "2018-08-09",
+    "date_updated": "2019-08-22",
+    "description": "Live hunting of code injection techniques",
+    "forks_count": 90,
+    "html_url": "https://github.com/marcosd4h/memhunter",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "memhunter",
+    "repo_owner": "marcosd4h",
+    "repotime": "2019-08-22, 12:46:34",
+    "stargazers_count": 383,
+    "watchers_count": 383
+}
+{
+    "commits_count": 68,
+    "date_started": "2016-11-03",
+    "date_updated": "2019-08-08",
+    "description": "Exploits written by the Rhino Security Labs team",
+    "forks_count": 295,
+    "html_url": "https://github.com/RhinoSecurityLabs/Security-Research",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "Security-Research",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2019-08-08, 13:28:37",
+    "stargazers_count": 1083,
+    "watchers_count": 1083
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-03-17",
+    "date_updated": "2019-08-03",
+    "description": "Sql injection labs via docker.",
+    "forks_count": 11,
+    "html_url": "https://github.com/realvect0r/sqli-labs-for-docker",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sqli-labs-for-docker",
+    "repo_owner": "realvect0r",
+    "repotime": "2019-08-03, 11:49:08",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-08-01",
+    "date_updated": "2019-08-01",
+    "description": "Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious scripts are injected into otherwise benign and trusted websites. XSS attacks occur when an attacker uses a web application to send malicious code, generally in the form of a browser side script, to a different end user. Flaws that allow these attacks to succeed are quite widespread and occur anywhere a web application uses input from a user within the output it generates without validating or encoding it.   An attacker can use XSS to send a malicious script to an unsuspecting user. The end user’s browser has no way to know that the script should not be trusted, and will execute the script. Because it thinks the script came from a trusted source, the malicious script can access any cookies, session tokens, or other sensitive information retained by the browser and used with that site. These scripts can even rewrite the content of the HTML page.   These 3 types of XSS are defined as follows:    Stored XSS (AK...",
+    "forks_count": 2,
+    "html_url": "https://github.com/17BCE0951/XSS-Scanner",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-Scanner",
+    "repo_owner": "17BCE0951",
+    "repotime": "2019-08-01, 20:35:13",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

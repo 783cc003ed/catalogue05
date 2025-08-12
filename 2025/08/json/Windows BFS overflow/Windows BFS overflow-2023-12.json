@@ -1,0 +1,138 @@
+{
+    "commits_count": 1152,
+    "date_started": "2022-06-20",
+    "date_updated": "2023-12-21",
+    "description": "Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",
+    "forks_count": 691,
+    "html_url": "https://github.com/GhostTroops/scan4all",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Go",
+    "repo_name": "scan4all",
+    "repo_owner": "GhostTroops",
+    "repotime": "2023-12-21, 22:03:12",
+    "stargazers_count": 5765,
+    "watchers_count": 5765
+}
+{
+    "commits_count": 28,
+    "date_started": "2023-11-29",
+    "date_updated": "2023-12-21",
+    "description": "CWE-416 Use-After-Free Vulnerability, Attack and Fix",
+    "forks_count": 0,
+    "html_url": "https://github.com/NVombat/Use-After-Free",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free exploit"
+    ],
+    "language": "C",
+    "repo_name": "Use-After-Free",
+    "repo_owner": "NVombat",
+    "repotime": "2023-12-21, 06:43:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-12-17",
+    "date_updated": "2023-12-18",
+    "description": "xss_session_hijacking_example",
+    "forks_count": 0,
+    "html_url": "https://github.com/GabrielBahia/xss_session_hijacking_example",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "xss_session_hijacking_example",
+    "repo_owner": "GabrielBahia",
+    "repotime": "2023-12-18, 22:12:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2023-12-02",
+    "date_updated": "2023-12-11",
+    "description": "This project shows a memory leak that can occur if code on the main window awaits a promise from within the iframe before performing memory cleanup. If the iframe is removed before the iframe promise resolves, the awaiting function will halt execution and cleanup code will never run.",
+    "forks_count": 1,
+    "html_url": "https://github.com/astegmaier/playground-hung-iframe-promise",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "playground-hung-iframe-promise",
+    "repo_owner": "astegmaier",
+    "repotime": "2023-12-11, 17:05:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1152,
+    "date_started": "2022-06-20",
+    "date_updated": "2023-12-21",
+    "description": "Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",
+    "forks_count": 691,
+    "html_url": "https://github.com/GhostTroops/scan4all",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Go",
+    "repo_name": "scan4all",
+    "repo_owner": "GhostTroops",
+    "repotime": "2023-12-21, 22:03:12",
+    "stargazers_count": 5765,
+    "watchers_count": 5765
+}
+{
+    "commits_count": 28,
+    "date_started": "2023-11-29",
+    "date_updated": "2023-12-21",
+    "description": "CWE-416 Use-After-Free Vulnerability, Attack and Fix",
+    "forks_count": 0,
+    "html_url": "https://github.com/NVombat/Use-After-Free",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free exploit"
+    ],
+    "language": "C",
+    "repo_name": "Use-After-Free",
+    "repo_owner": "NVombat",
+    "repotime": "2023-12-21, 06:43:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-12-17",
+    "date_updated": "2023-12-18",
+    "description": "xss_session_hijacking_example",
+    "forks_count": 0,
+    "html_url": "https://github.com/GabrielBahia/xss_session_hijacking_example",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "xss_session_hijacking_example",
+    "repo_owner": "GabrielBahia",
+    "repotime": "2023-12-18, 22:12:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2023-12-02",
+    "date_updated": "2023-12-11",
+    "description": "This project shows a memory leak that can occur if code on the main window awaits a promise from within the iframe before performing memory cleanup. If the iframe is removed before the iframe promise resolves, the awaiting function will halt execution and cleanup code will never run.",
+    "forks_count": 1,
+    "html_url": "https://github.com/astegmaier/playground-hung-iframe-promise",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "playground-hung-iframe-promise",
+    "repo_owner": "astegmaier",
+    "repotime": "2023-12-11, 17:05:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

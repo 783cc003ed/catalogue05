@@ -1,0 +1,486 @@
+{
+    "commits_count": 152,
+    "date_started": "2010-01-09",
+    "date_updated": "2025-02-27",
+    "description": "A database resource control interface for Ruby that lets you avoid hard coding your passwords",
+    "forks_count": 0,
+    "html_url": "https://github.com/djberg96/dbi-dbrc",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Ruby",
+    "repo_name": "dbi-dbrc",
+    "repo_owner": "djberg96",
+    "repotime": "2025-02-27, 06:40:48",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 118,
+    "date_started": "2018-10-15",
+    "date_updated": "2025-02-26",
+    "description": "Automatic SSRF fuzzer and exploitation tool",
+    "forks_count": 547,
+    "html_url": "https://github.com/swisskyrepo/SSRFmap",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRFmap",
+    "repo_owner": "swisskyrepo",
+    "repotime": "2025-02-26, 20:38:36",
+    "stargazers_count": 3251,
+    "watchers_count": 3251
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-02-26",
+    "date_updated": "2025-02-26",
+    "description": "This code is used to check for different browser vulnerabilities such as address bar spoofing, url spoofing etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/slvignesh05/BrowserSec",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "BrowserSec",
+    "repo_owner": "slvignesh05",
+    "repotime": "2025-02-26, 19:53:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4725,
+    "date_started": "2017-05-29",
+    "date_updated": "2025-02-25",
+    "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
+    "forks_count": 167,
+    "html_url": "https://github.com/airbus-seclab/bincat",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "OCaml",
+    "repo_name": "bincat",
+    "repo_owner": "airbus-seclab",
+    "repotime": "2025-02-25, 17:53:49",
+    "stargazers_count": 1821,
+    "watchers_count": 1821
+}
+{
+    "commits_count": 176,
+    "date_started": "2015-05-28",
+    "date_updated": "2025-02-24",
+    "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
+    "forks_count": 564,
+    "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
+    "keywords": [
+        "vulnerability",
+        "Windows uaf vulnerability",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "uaf vulnerability",
+        "Windows uaf"
+    ],
+    "language": "C",
+    "repo_name": "HackSysExtremeVulnerableDriver",
+    "repo_owner": "hacksysteam",
+    "repotime": "2025-02-24, 17:49:16",
+    "stargazers_count": 2765,
+    "watchers_count": 2765
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-23",
+    "date_updated": "2025-02-23",
+    "description": "This repository contains stack-based buffer overflow exploits that bypass NX bit, ASLR, and StackGuard protections. It demonstrates how attackers can manipulate the stack to execute arbitrary code, overcoming modern security mechanisms like memory randomization and canary protection.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dimont-Gattsu/Stack-Based-Buffer-Overflow-Exploits",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "Stack-Based-Buffer-Overflow-Exploits",
+    "repo_owner": "Dimont-Gattsu",
+    "repotime": "2025-02-23, 09:58:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-19",
+    "date_updated": "2025-02-19",
+    "description": "This report details the exploitation of the MagicGardens machine, starting with an XSS attack to steal admin cookies, gaining access to the Django admin panel, exploiting a buffer overflow, accessing the Docker Registry, and leveraging a deserialization vulnerability. Finally, privilege escalation via a kernel module grants full system control.",
+    "forks_count": 0,
+    "html_url": "https://github.com/TU-M/MagicGardens-HTB",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "MagicGardens-HTB",
+    "repo_owner": "TU-M",
+    "repotime": "2025-02-19, 20:33:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-18",
+    "date_updated": "2025-02-18",
+    "description": "This Hack code calculates the factorial of a number using recursion. It has two issues: stack overflow for large inputs and lack of input validation for negative or non-integer inputs. The solution involves adding input validation and using an iterative approach instead of recursion.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-and-Input-Validation-Issues-in-Recursive-Factorial-Function-rswgq",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-and-Input-Validation-Issues-in-Recursive-Factorial-Function-rswgq",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-18, 04:50:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-02-16",
+    "description": "Stack overflow error in recursive function due to lack of input validation and a missing base case for negative integers.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Factorial-Function-b7vs1",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-in-Recursive-Factorial-Function-b7vs1",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-16, 10:08:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-12",
+    "date_updated": "2025-02-12",
+    "description": "A C-based security exploitation toolkit demonstrating buffer overflow attacks. It manipulates stack memory, injects shellcode, and redirects execution using ROP techniques, GDB debugging, and memory corruption analysis.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SiddarthaBoreddy/buffer-overflow-exploit",
+    "keywords": [
+        "corruption overflow exploit"
+    ],
+    "language": "Python",
+    "repo_name": "buffer-overflow-exploit",
+    "repo_owner": "SiddarthaBoreddy",
+    "repotime": "2025-02-12, 12:29:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-02-08",
+    "date_updated": "2025-02-11",
+    "description": "This repository contains a Proof-of-Concept (PoC) exploit for the Baron Samedit vulnerability (CVE-2021-3156). The exploit demonstrates privilege escalation on Ubuntu 20.04 with sudo version 1.8.31 and glibc version 2.31. It includes an assembly-based exploit, a shared object payload, and a Makefile for automated compilation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ten-ops/baron-samedit",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Assembly",
+    "repo_name": "baron-samedit",
+    "repo_owner": "ten-ops",
+    "repotime": "2025-02-11, 02:52:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-06",
+    "date_updated": "2025-02-07",
+    "description": "Exploitation Techniques in Operating Systems: Demonstrating Stack Overflow and Return-to-libc attacks on vulnerable binaries, bypassing security mechanisms like ASLR and NX/DEP.",
+    "forks_count": 0,
+    "html_url": "https://github.com/leenamr/Exploitation-Techniques",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": null,
+    "repo_name": "Exploitation-Techniques",
+    "repo_owner": "leenamr",
+    "repotime": "2025-02-07, 00:24:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-02-05",
+    "description": "COBOL buffer overflow leading to data corruption or program crashes due to insufficient data area allocation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/COBOL-Buffer-Overflow-Vulnerability-k2og7",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "COBOL",
+    "repo_name": "COBOL-Buffer-Overflow-Vulnerability-k2og7",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-05, 07:28:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 152,
+    "date_started": "2010-01-09",
+    "date_updated": "2025-02-27",
+    "description": "A database resource control interface for Ruby that lets you avoid hard coding your passwords",
+    "forks_count": 0,
+    "html_url": "https://github.com/djberg96/dbi-dbrc",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Ruby",
+    "repo_name": "dbi-dbrc",
+    "repo_owner": "djberg96",
+    "repotime": "2025-02-27, 06:40:48",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 118,
+    "date_started": "2018-10-15",
+    "date_updated": "2025-02-26",
+    "description": "Automatic SSRF fuzzer and exploitation tool",
+    "forks_count": 547,
+    "html_url": "https://github.com/swisskyrepo/SSRFmap",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRFmap",
+    "repo_owner": "swisskyrepo",
+    "repotime": "2025-02-26, 20:38:36",
+    "stargazers_count": 3251,
+    "watchers_count": 3251
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-02-26",
+    "date_updated": "2025-02-26",
+    "description": "This code is used to check for different browser vulnerabilities such as address bar spoofing, url spoofing etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/slvignesh05/BrowserSec",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "BrowserSec",
+    "repo_owner": "slvignesh05",
+    "repotime": "2025-02-26, 19:53:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4725,
+    "date_started": "2017-05-29",
+    "date_updated": "2025-02-25",
+    "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
+    "forks_count": 167,
+    "html_url": "https://github.com/airbus-seclab/bincat",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "OCaml",
+    "repo_name": "bincat",
+    "repo_owner": "airbus-seclab",
+    "repotime": "2025-02-25, 17:53:49",
+    "stargazers_count": 1821,
+    "watchers_count": 1821
+}
+{
+    "commits_count": 176,
+    "date_started": "2015-05-28",
+    "date_updated": "2025-02-24",
+    "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
+    "forks_count": 564,
+    "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
+    "keywords": [
+        "vulnerability",
+        "Windows uaf vulnerability",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "uaf vulnerability",
+        "Windows uaf"
+    ],
+    "language": "C",
+    "repo_name": "HackSysExtremeVulnerableDriver",
+    "repo_owner": "hacksysteam",
+    "repotime": "2025-02-24, 17:49:16",
+    "stargazers_count": 2765,
+    "watchers_count": 2765
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-23",
+    "date_updated": "2025-02-23",
+    "description": "This repository contains stack-based buffer overflow exploits that bypass NX bit, ASLR, and StackGuard protections. It demonstrates how attackers can manipulate the stack to execute arbitrary code, overcoming modern security mechanisms like memory randomization and canary protection.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dimont-Gattsu/Stack-Based-Buffer-Overflow-Exploits",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "Stack-Based-Buffer-Overflow-Exploits",
+    "repo_owner": "Dimont-Gattsu",
+    "repotime": "2025-02-23, 09:58:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-19",
+    "date_updated": "2025-02-19",
+    "description": "This report details the exploitation of the MagicGardens machine, starting with an XSS attack to steal admin cookies, gaining access to the Django admin panel, exploiting a buffer overflow, accessing the Docker Registry, and leveraging a deserialization vulnerability. Finally, privilege escalation via a kernel module grants full system control.",
+    "forks_count": 0,
+    "html_url": "https://github.com/TU-M/MagicGardens-HTB",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "MagicGardens-HTB",
+    "repo_owner": "TU-M",
+    "repotime": "2025-02-19, 20:33:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-18",
+    "date_updated": "2025-02-18",
+    "description": "This Hack code calculates the factorial of a number using recursion. It has two issues: stack overflow for large inputs and lack of input validation for negative or non-integer inputs. The solution involves adding input validation and using an iterative approach instead of recursion.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-and-Input-Validation-Issues-in-Recursive-Factorial-Function-rswgq",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-and-Input-Validation-Issues-in-Recursive-Factorial-Function-rswgq",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-18, 04:50:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-02-16",
+    "description": "Stack overflow error in recursive function due to lack of input validation and a missing base case for negative integers.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Factorial-Function-b7vs1",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-in-Recursive-Factorial-Function-b7vs1",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-16, 10:08:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-12",
+    "date_updated": "2025-02-12",
+    "description": "A C-based security exploitation toolkit demonstrating buffer overflow attacks. It manipulates stack memory, injects shellcode, and redirects execution using ROP techniques, GDB debugging, and memory corruption analysis.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SiddarthaBoreddy/buffer-overflow-exploit",
+    "keywords": [
+        "corruption overflow exploit"
+    ],
+    "language": "Python",
+    "repo_name": "buffer-overflow-exploit",
+    "repo_owner": "SiddarthaBoreddy",
+    "repotime": "2025-02-12, 12:29:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-02-08",
+    "date_updated": "2025-02-11",
+    "description": "This repository contains a Proof-of-Concept (PoC) exploit for the Baron Samedit vulnerability (CVE-2021-3156). The exploit demonstrates privilege escalation on Ubuntu 20.04 with sudo version 1.8.31 and glibc version 2.31. It includes an assembly-based exploit, a shared object payload, and a Makefile for automated compilation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ten-ops/baron-samedit",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Assembly",
+    "repo_name": "baron-samedit",
+    "repo_owner": "ten-ops",
+    "repotime": "2025-02-11, 02:52:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-06",
+    "date_updated": "2025-02-07",
+    "description": "Exploitation Techniques in Operating Systems: Demonstrating Stack Overflow and Return-to-libc attacks on vulnerable binaries, bypassing security mechanisms like ASLR and NX/DEP.",
+    "forks_count": 0,
+    "html_url": "https://github.com/leenamr/Exploitation-Techniques",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": null,
+    "repo_name": "Exploitation-Techniques",
+    "repo_owner": "leenamr",
+    "repotime": "2025-02-07, 00:24:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-02-05",
+    "description": "COBOL buffer overflow leading to data corruption or program crashes due to insufficient data area allocation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/COBOL-Buffer-Overflow-Vulnerability-k2og7",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "COBOL",
+    "repo_name": "COBOL-Buffer-Overflow-Vulnerability-k2og7",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-05, 07:28:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

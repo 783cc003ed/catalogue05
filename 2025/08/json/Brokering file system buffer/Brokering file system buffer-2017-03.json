@@ -1,0 +1,102 @@
+{
+    "commits_count": 9,
+    "date_started": "2015-08-03",
+    "date_updated": "2017-03-31",
+    "description": "[DEPRECATED]A novel SQL injection detection engine built on top of SQL tokenizing and syntax analysis.",
+    "forks_count": 84,
+    "html_url": "https://github.com/chaitin/sqlchop",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sqlchop",
+    "repo_owner": "chaitin",
+    "repotime": "2017-03-31, 18:14:49",
+    "stargazers_count": 253,
+    "watchers_count": 253
+}
+{
+    "commits_count": 6,
+    "date_started": "2017-03-12",
+    "date_updated": "2017-03-28",
+    "description": "Zero-Day Code Injection and Persistence Technique",
+    "forks_count": 416,
+    "html_url": "https://github.com/Cybellum/DoubleAgent",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "DoubleAgent",
+    "repo_owner": "Cybellum",
+    "repotime": "2017-03-28, 18:41:57",
+    "stargazers_count": 1237,
+    "watchers_count": 1237
+}
+{
+    "commits_count": 2,
+    "date_started": "2017-03-28",
+    "date_updated": "2017-03-28",
+    "description": "Using SEH to bypass CFG",
+    "forks_count": 17,
+    "html_url": "https://github.com/MortenSchenk/Bypassing_CFG_SEH",
+    "keywords": [
+        "cfg bypass"
+    ],
+    "language": "HTML",
+    "repo_name": "Bypassing_CFG_SEH",
+    "repo_owner": "MortenSchenk",
+    "repotime": "2017-03-28, 07:46:06",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 19,
+    "date_started": "2016-11-20",
+    "date_updated": "2017-03-25",
+    "description": "SQL injection vulnerabilities in Stack Overflow PHP questions",
+    "forks_count": 22,
+    "html_url": "https://github.com/laurent22/so-sql-injections",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "so-sql-injections",
+    "repo_owner": "laurent22",
+    "repotime": "2017-03-25, 16:16:34",
+    "stargazers_count": 171,
+    "watchers_count": 171
+}
+{
+    "commits_count": 9,
+    "date_started": "2017-03-08",
+    "date_updated": "2017-03-23",
+    "description": "Apache Struts Remote Code Execution",
+    "forks_count": 6,
+    "html_url": "https://github.com/Svti/StrutsExploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Java",
+    "repo_name": "StrutsExploit",
+    "repo_owner": "Svti",
+    "repotime": "2017-03-23, 13:22:51",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 235,
+    "date_started": "2012-10-31",
+    "date_updated": "2017-03-13",
+    "description": "Dynamic Code Injection Tool for Objective-C",
+    "forks_count": 121,
+    "html_url": "https://github.com/DyCI/dyci-main",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "dyci-main",
+    "repo_owner": "DyCI",
+    "repotime": "2017-03-13, 22:48:27",
+    "stargazers_count": 1116,
+    "watchers_count": 1116
+}

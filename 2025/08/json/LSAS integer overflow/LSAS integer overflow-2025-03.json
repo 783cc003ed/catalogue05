@@ -1,0 +1,243 @@
+{
+    "commits_count": 23,
+    "date_started": "2024-11-28",
+    "date_updated": "2025-03-27",
+    "description": "Detect SSRF within Caido",
+    "forks_count": 4,
+    "html_url": "https://github.com/caido-community/quickssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "TypeScript",
+    "repo_name": "quickssrf",
+    "repo_owner": "caido-community",
+    "repotime": "2025-03-27, 12:28:22",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 105,
+    "date_started": "2024-10-28",
+    "date_updated": "2025-03-26",
+    "description": "Predict customer revenue in the GStore using Google Analytics data by implementing a two-stage machine learning framework.  Classification identifies potential buyers, and Regression forecasts revenue by analyzing user behavior, session details, and acquisition channels.",
+    "forks_count": 0,
+    "html_url": "https://github.com/PaolaGaray/GA-CustomerRevenuePrediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "GA-CustomerRevenuePrediction",
+    "repo_owner": "PaolaGaray",
+    "repotime": "2025-03-26, 14:35:24",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-03-26",
+    "date_updated": "2025-03-26",
+    "description": "ZeroHuntAI is an advanced source code vulnerability scanner designed to detect potential zero-day vulnerabilities in your codebase. It combines static code analysis with pattern matching and AI evaluation to identify security issues before they can be exploited.",
+    "forks_count": 0,
+    "html_url": "https://github.com/absholi7ly/ZeroHuntAI",
+    "keywords": [
+        "zero-day analysis",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroHuntAI",
+    "repo_owner": "absholi7ly",
+    "repotime": "2025-03-26, 06:46:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-22",
+    "date_updated": "2025-03-23",
+    "description": "**Kioptrix-Level1-Writeup** is a detailed walkthrough of the **Kioptrix Level 1 CTF challenge**, covering **reconnaissance, exploitation, and privilege escalation** to gain root access. This write-up includes step-by-step commands, tool usage, and findings, making it a great resource for beginners in penetration testing. 🚀",
+    "forks_count": 0,
+    "html_url": "https://github.com/Omkar443/Kioptrix-Level1-Writeup",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Kioptrix-Level1-Writeup",
+    "repo_owner": "Omkar443",
+    "repotime": "2025-03-23, 00:37:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-03-19",
+    "date_updated": "2025-03-22",
+    "description": "PathSeeker is a Python-based tool designed to identify path traversal vulnerabilities in web applications. It uses a combination of multi-threading, random user agents, and a robust wordlist to efficiently test endpoints for potential security weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/praveenkavi5/PathSeeker",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PathSeeker",
+    "repo_owner": "praveenkavi5",
+    "repotime": "2025-03-22, 01:30:38",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1663,
+    "date_started": "2018-06-13",
+    "date_updated": "2025-03-20",
+    "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+    "forks_count": 735,
+    "html_url": "https://github.com/RhinoSecurityLabs/pacu",
+    "keywords": [
+        "exploitation",
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "pacu",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2025-03-20, 14:08:56",
+    "stargazers_count": 4703,
+    "watchers_count": 4703
+}
+{
+    "commits_count": 47,
+    "date_started": "2024-03-04",
+    "date_updated": "2025-03-20",
+    "description": "A  web application built using the MERN stack that allows authenticated users to send and view messages along with sender details and timestamps, while unauthenticated users can only view messages without sender details.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AtmaniChouaib22/Members-Only",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "Members-Only",
+    "repo_owner": "AtmaniChouaib22",
+    "repotime": "2025-03-20, 12:38:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 52,
+    "date_started": "2015-06-30",
+    "date_updated": "2025-03-19",
+    "description": "My collection of exploit development skeletons for fuzzing, overwriting the stack, remote code execution, etc.",
+    "forks_count": 7,
+    "html_url": "https://github.com/shipcod3/sploitchits",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Classic ASP",
+    "repo_name": "sploitchits",
+    "repo_owner": "shipcod3",
+    "repotime": "2025-03-19, 18:15:10",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-17",
+    "date_updated": "2025-03-18",
+    "description": "【Hello-CTF labs】一个ssrf的综合靶场，包含RCE，SQL注入，Tomcat，Redis，MySQL提权等ssrf攻击场景",
+    "forks_count": 3,
+    "html_url": "https://github.com/ProbiusOfficial/ssrf-labs",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "ssrf-labs",
+    "repo_owner": "ProbiusOfficial",
+    "repotime": "2025-03-18, 11:25:21",
+    "stargazers_count": 65,
+    "watchers_count": 65
+}
+{
+    "commits_count": 53,
+    "date_started": "2024-10-17",
+    "date_updated": "2025-03-16",
+    "description": "A woking proof of concept for detecting session hijacking using browser fingerprinting.",
+    "forks_count": 0,
+    "html_url": "https://github.com/1Mike3/sessionHijackingPrevention",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Java",
+    "repo_name": "sessionHijackingPrevention",
+    "repo_owner": "1Mike3",
+    "repotime": "2025-03-16, 15:40:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-08-01",
+    "date_updated": "2025-03-11",
+    "description": "insecure web application that has 8 vulnerability on it, such as RCE, Path Traversal, XSS, SQL Injection, SSTI, IDOR, Authentication and Authorization ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Emin-F/Go-Insecure-Web-APP",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "Go-Insecure-Web-APP",
+    "repo_owner": "Emin-F",
+    "repotime": "2025-03-11, 14:29:44",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-08-07",
+    "date_updated": "2025-03-11",
+    "description": "Scan websites CSP policies and visualise their vunlnerabilities from a dashboard",
+    "forks_count": 3,
+    "html_url": "https://github.com/sensepost/dresscode",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "dresscode",
+    "repo_owner": "sensepost",
+    "repotime": "2025-03-11, 10:07:52",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 96,
+    "date_started": "2023-08-18",
+    "date_updated": "2025-03-06",
+    "description": "Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式",
+    "forks_count": 61,
+    "html_url": "https://github.com/Whoopsunix/JavaRce",
+    "keywords": [
+        "rce vulnerability",
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "JavaRce",
+    "repo_owner": "Whoopsunix",
+    "repotime": "2025-03-06, 13:21:37",
+    "stargazers_count": 523,
+    "watchers_count": 523
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-05",
+    "date_updated": "2025-03-05",
+    "description": "A **Command-Line Web Vulnerability Scanner** built in Python to scan websites for **SQL Injection, XSS, Directory Traversal**, and **Subdomain Enumeration** with **Tor &amp;amp; Proxy support** for anonymous scanning. The tool also generates an **HTML report** with the results.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Arya182-ui/Web_Venerability_Scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Web_Venerability_Scanner",
+    "repo_owner": "Arya182-ui",
+    "repotime": "2025-03-05, 10:00:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

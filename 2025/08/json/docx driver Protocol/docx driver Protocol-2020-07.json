@@ -1,0 +1,75 @@
+{
+    "commits_count": 19,
+    "date_started": "2020-07-27",
+    "date_updated": "2020-07-29",
+    "description": "Code samples discussed during DEFCON Red Team Village Talk -- &amp;quot;Yippee-Ki-Yay MFA'er - Bypassing Multi-Factor Authentication with Real-Time Replay Session Instantiation Attacks&amp;quot; by Hutch",
+    "forks_count": 2,
+    "html_url": "https://github.com/pan0pt1c0n/Yippee-Ki-Yay-MFA-er",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Yippee-Ki-Yay-MFA-er",
+    "repo_owner": "pan0pt1c0n",
+    "repotime": "2020-07-29, 16:07:35",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 17,
+    "date_started": "2017-04-09",
+    "date_updated": "2020-07-22",
+    "description": "A lab for playing with NoSQL Injection",
+    "forks_count": 42,
+    "html_url": "https://github.com/digininja/nosqlilab",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "nosqlilab",
+    "repo_owner": "digininja",
+    "repotime": "2020-07-22, 16:58:48",
+    "stargazers_count": 133,
+    "watchers_count": 133
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-07-07",
+    "date_updated": "2020-07-07",
+    "description": "<no description>",
+    "forks_count": 10,
+    "html_url": "https://github.com/whiteHat001/MIcrosoft-Word-Use-After-Free",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": null,
+    "repo_name": "MIcrosoft-Word-Use-After-Free",
+    "repo_owner": "whiteHat001",
+    "repotime": "2020-07-07, 11:48:59",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-06-30",
+    "date_updated": "2020-07-06",
+    "description": "A PoC of a privilege escalation vulnerability in the Realtek rtkio64 Windows driver.",
+    "forks_count": 1,
+    "html_url": "https://github.com/blogresponder/Realtek-rtkio64-Windows-driver-privilege-escalation",
+    "keywords": [
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges poc",
+        "Win escalation of privileges",
+        "escalation of privileges vulnerability",
+        "Win escalation of privileges poc",
+        "Windows escalation of privileges",
+        "Win escalation of privileges vulnerability",
+        "Windows escalation of privileges poc"
+    ],
+    "language": "C",
+    "repo_name": "Realtek-rtkio64-Windows-driver-privilege-escalation",
+    "repo_owner": "blogresponder",
+    "repotime": "2020-07-06, 10:34:10",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}

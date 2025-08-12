@@ -1,0 +1,312 @@
+{
+    "commits_count": 2,
+    "date_started": "2022-04-15",
+    "date_updated": "2022-02-26",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Rich Text Format",
+    "repo_name": "CVE-2022-21971-Windows-Runtime-RCE",
+    "repo_owner": "tufanturhan",
+    "repotime": "2022-02-26, 12:45:07",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-26",
+    "date_updated": "2022-02-26",
+    "description": "PoC for CVE-2022-21971 &amp;quot;Windows Runtime Remote Code Execution Vulnerability&amp;quot;",
+    "forks_count": 62,
+    "html_url": "https://github.com/0vercl0k/CVE-2022-21971",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "Windows remote code execution poc"
+    ],
+    "language": "Rich Text Format",
+    "repo_name": "CVE-2022-21971",
+    "repo_owner": "0vercl0k",
+    "repotime": "2022-02-26, 12:45:07",
+    "stargazers_count": 308,
+    "watchers_count": 308
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-26",
+    "date_updated": "2022-02-26",
+    "description": "PoC for CVE-2022-21974 &amp;quot;Roaming Security Rights Management Services Remote Code Execution Vulnerability&amp;quot;",
+    "forks_count": 12,
+    "html_url": "https://github.com/0vercl0k/CVE-2022-21974",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc"
+    ],
+    "language": "Rich Text Format",
+    "repo_name": "CVE-2022-21974",
+    "repo_owner": "0vercl0k",
+    "repotime": "2022-02-26, 11:11:56",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-02-26",
+    "date_updated": "2022-02-26",
+    "description": "Tor Browser 9.0.7 on Windows 10 build 10586 is vulnerable to information disclosure. This could allow local attackers to bypass the intended anonymity feature and obtain information regarding the onion services visited by a local user. This can be accomplished by analyzing RAM memory even several hours after the local user used the product. This occurs because the product doesn't properly free memory.",
+    "forks_count": 0,
+    "html_url": "https://github.com/malakkf/CVE-2021-46702",
+    "keywords": [
+        "use after free disclosure",
+        "Windows use after free",
+        "Windows use after free disclosure",
+        "Windows use after free vulnerability",
+        "use after free vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2021-46702",
+    "repo_owner": "malakkf",
+    "repotime": "2022-02-26, 17:44:24",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-02-25",
+    "date_updated": "2022-02-25",
+    "description": "Clash_for_Windows远程代码执行漏洞:漏洞利用poc,远程rce ,打开即用,开箱即用",
+    "forks_count": 3,
+    "html_url": "https://github.com/wjl110/Clash_for_Windows-poc-rce-",
+    "keywords": [
+        "Win rce poc",
+        "Windows rce poc",
+        "Win rce",
+        "Windows rce"
+    ],
+    "language": null,
+    "repo_name": "Clash_for_Windows-poc-rce-",
+    "repo_owner": "wjl110",
+    "repotime": "2022-02-25, 23:43:02",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 19,
+    "date_started": "2022-01-29",
+    "date_updated": "2022-02-23",
+    "description": "Go implementation of the PwnKit Linux Local Privilege Escalation exploit (CVE-2021-4034)",
+    "forks_count": 2,
+    "html_url": "https://github.com/OXDBXKXO/ez-pwnkit",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "lpe exploit",
+        "escalation of privileges exploit",
+        "lpe exploitation"
+    ],
+    "language": "Go",
+    "repo_name": "ez-pwnkit",
+    "repo_owner": "OXDBXKXO",
+    "repotime": "2022-02-23, 22:55:51",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-02-18",
+    "date_updated": "2022-02-19",
+    "description": "CVE-2021-1965 WiFi Zero Click RCE Trigger PoC",
+    "forks_count": 29,
+    "html_url": "https://github.com/parsdefense/CVE-2021-1965",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2021-1965",
+    "repo_owner": "parsdefense",
+    "repotime": "2022-02-19, 16:52:32",
+    "stargazers_count": 166,
+    "watchers_count": 166
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-02-18",
+    "date_updated": "2022-02-18",
+    "description": "CVE-2021-1965 WiFi Zero Click RCE Trigger PoC",
+    "forks_count": 29,
+    "html_url": "https://github.com/sqrtrev/CVE-2021-1965",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-1965",
+    "repo_owner": "sqrtrev",
+    "repotime": "2022-02-18, 17:23:07",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 34,
+    "date_started": "2019-01-18",
+    "date_updated": "2022-02-13",
+    "description": "Public Disclosures",
+    "forks_count": 19,
+    "html_url": "https://github.com/DrunkenShells/Disclosures",
+    "keywords": [
+        "0day disclosure"
+    ],
+    "language": "HTML",
+    "repo_name": "Disclosures",
+    "repo_owner": "DrunkenShells",
+    "repotime": "2022-02-13, 23:59:47",
+    "stargazers_count": 91,
+    "watchers_count": 91
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-02-12",
+    "date_updated": "2022-02-12",
+    "description": "This is a PoC written in Go for Wordpress Privilege Escalation. It was based on exploit´s logic of https://www.exploit-db.com/exploits/41006",
+    "forks_count": 0,
+    "html_url": "https://github.com/VP4triot/WP-SupportPlusTicketSystemPE",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges poc",
+        "escalation of privileges exploit"
+    ],
+    "language": "Go",
+    "repo_name": "WP-SupportPlusTicketSystemPE",
+    "repo_owner": "VP4triot",
+    "repotime": "2022-02-12, 01:54:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-01-28",
+    "date_updated": "2022-02-09",
+    "description": "PoC script that shows RCE vulnerability over Intellian Satellite controller",
+    "forks_count": 10,
+    "html_url": "https://github.com/Xh4H/Satellian-CVE-2020-7980",
+    "keywords": [
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Satellian-CVE-2020-7980",
+    "repo_owner": "Xh4H",
+    "repotime": "2022-02-09, 22:23:29",
+    "stargazers_count": 73,
+    "watchers_count": 73
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-07",
+    "date_updated": "2022-02-08",
+    "description": "a demonstration PoC for CVE-2022-21877 (storage spaces controller memory leak)",
+    "forks_count": 2,
+    "html_url": "https://github.com/Big5-sec/cve-2022-21877",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "C++",
+    "repo_name": "cve-2022-21877",
+    "repo_owner": "Big5-sec",
+    "repotime": "2022-02-08, 23:53:21",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-06-02",
+    "date_updated": "2022-02-07",
+    "description": "Unauthenticated attackers can cause a denial of service (resource consumption) by using the large list of registered .js files (from wp-includes/script-loader.php) to construct a series of requests to load every file many times.",
+    "forks_count": 0,
+    "html_url": "https://github.com/DeyaaMuhammad/WPDOSLoader",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "WPDOSLoader",
+    "repo_owner": "DeyaaMuhammad",
+    "repotime": "2022-02-07, 05:06:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-02-07",
+    "date_updated": "2022-02-07",
+    "description": "lpe poc for cve-2022-21882 ",
+    "forks_count": 18,
+    "html_url": "https://github.com/sailay1996/cve-2022-21882-poc",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C++",
+    "repo_name": "cve-2022-21882-poc",
+    "repo_owner": "sailay1996",
+    "repotime": "2022-02-07, 10:19:37",
+    "stargazers_count": 49,
+    "watchers_count": 49
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-12-19",
+    "date_updated": "2022-02-04",
+    "description": "A Basic Java Application Vulnerable to the Log4Shell RCE",
+    "forks_count": 35,
+    "html_url": "https://github.com/tothi/log4shell-vulnerable-app",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "log4shell-vulnerable-app",
+    "repo_owner": "tothi",
+    "repotime": "2022-02-04, 23:37:25",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-04",
+    "date_updated": "2022-02-04",
+    "description": "Hands-on Zero Day Exploit, by EC-Council",
+    "forks_count": 1,
+    "html_url": "https://github.com/ec-council-learning/Hands-on-Zero-Day-Exploit",
+    "keywords": [
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Hands-on-Zero-Day-Exploit",
+    "repo_owner": "ec-council-learning",
+    "repotime": "2022-02-04, 13:55:11",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-01-28",
+    "date_updated": "2022-02-01",
+    "description": "Exploiting TOCTOU vulnerability using OpLock and Junctions",
+    "forks_count": 4,
+    "html_url": "https://github.com/LucaBarile/TOCTOU",
+    "keywords": [
+        "lpe poc",
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C#",
+    "repo_name": "TOCTOU",
+    "repo_owner": "LucaBarile",
+    "repotime": "2022-02-01, 22:37:18",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}

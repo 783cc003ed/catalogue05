@@ -1,0 +1,791 @@
+{
+    "commits_count": 3,
+    "date_started": "2025-05-31",
+    "date_updated": "2025-05-31",
+    "description": "Remote Code Execution via Use-After-Free in JScript.dll (CVE-2025-30397)",
+    "forks_count": 14,
+    "html_url": "https://github.com/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-",
+    "keywords": [
+        "Windows use after free",
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-",
+    "repo_owner": "mbanyamer",
+    "repotime": "2025-05-31, 15:23:53",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-31",
+    "date_updated": "2025-05-31",
+    "description": "This enables users to bypass censorship, enhance privacy, and secure communications over public networks by leveraging cloud infrastructure with dynamic DNS for consistent accessibility",
+    "forks_count": 0,
+    "html_url": "https://github.com/User-Umar-Ahamed/Cloud-Based-Secure-VLESS-Proxy-Server-Deployment-on-AWS",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": null,
+    "repo_name": "Cloud-Based-Secure-VLESS-Proxy-Server-Deployment-on-AWS",
+    "repo_owner": "User-Umar-Ahamed",
+    "repotime": "2025-05-31, 14:26:07",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-05-25",
+    "date_updated": "2025-05-30",
+    "description": "Binance Alpha Bot automates airdrop farming on Binance, allowing users to manage multiple accounts efficiently. With features like proxy rotation and smart session spoofing, it enhances your chances of earning rewards effortlessly. 🐙💻",
+    "forks_count": 0,
+    "html_url": "https://github.com/brn00223d/Binance-Alpha-Bot",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": null,
+    "repo_name": "Binance-Alpha-Bot",
+    "repo_owner": "brn00223d",
+    "repotime": "2025-05-30, 03:57:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-05-29",
+    "date_updated": "2025-05-29",
+    "description": "Slasher is a specialized path traversal vulnerability scanner that tests URLs using various path manipulation techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fractalized-cyber/slasher",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "slasher",
+    "repo_owner": "fractalized-cyber",
+    "repotime": "2025-05-29, 15:50:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2024-08-06",
+    "date_updated": "2025-05-28",
+    "description": "Logsign Unified SecOps Platform Exploit Proof of Concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/sevbandonmez/Logsign-RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Ruby",
+    "repo_name": "Logsign-RCE",
+    "repo_owner": "sevbandonmez",
+    "repotime": "2025-05-28, 15:57:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-28",
+    "date_updated": "2025-05-28",
+    "description": "This tool is a Windows batch/python script designed to automate the extraction, sorting, and clean-up of Scene releases, especially for 0day and eBook packs plus more!",
+    "forks_count": 0,
+    "html_url": "https://github.com/qu0tex/Scene-Release-Organiser-NFO-Downloader",
+    "keywords": [
+        "Windows 0day"
+    ],
+    "language": "Python",
+    "repo_name": "Scene-Release-Organiser-NFO-Downloader",
+    "repo_owner": "qu0tex",
+    "repotime": "2025-05-28, 12:33:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 183,
+    "date_started": "2025-05-26",
+    "date_updated": "2025-05-28",
+    "description": "Exploits crypto wallet vulnerabilities to drain funds from platforms like OKX, Exodus, and MetaMask by injecting malicious scripts that bypass security checks and steal private keys or session data.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Zentivarumm/Crypto-Wallet-Drainer-Okx-Exodus-Metamask-Script-Checker",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "C#",
+    "repo_name": "Crypto-Wallet-Drainer-Okx-Exodus-Metamask-Script-Checker",
+    "repo_owner": "Zentivarumm",
+    "repotime": "2025-05-28, 07:57:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 68,
+    "date_started": "2025-04-14",
+    "date_updated": "2025-05-28",
+    "description": "A collection of labs, tools, and study materials for OSCP exam preparation. Includes practice environments, scripts, and resources for enumeration, exploitation, and privilege escalation to help master penetration testing skills.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xD13/OSCP-Prep-Guide",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "OSCP-Prep-Guide",
+    "repo_owner": "0xD13",
+    "repotime": "2025-05-28, 09:20:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-05-18",
+    "date_updated": "2025-05-27",
+    "description": "An AI-powered zero-day exploit detection system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/morningstarxcdcode/ZeroDay-Exploit-Detector",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroDay-Exploit-Detector",
+    "repo_owner": "morningstarxcdcode",
+    "repotime": "2025-05-27, 09:14:25",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-05-27",
+    "date_updated": "2025-05-26",
+    "description": "The goal of this assessment was to identify and exploit a Local File Inclusion (LFI) vulnerability within a web application hosted at the target IP address 10.10.94.68",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArtemCyberLab/Echoes-of-Inclusion-Advanced-Local-File-Inclusion-Exploitation-on-Legacy-Apache",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "Echoes-of-Inclusion-Advanced-Local-File-Inclusion-Exploitation-on-Legacy-Apache",
+    "repo_owner": "ArtemCyberLab",
+    "repotime": "2025-05-26, 22:09:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 29,
+    "date_started": "2020-04-27",
+    "date_updated": "2025-05-27",
+    "description": "Websites Vulnerability Scanner ",
+    "forks_count": 14,
+    "html_url": "https://github.com/Err0r-ICA/SCANter",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "SCANter",
+    "repo_owner": "Err0r-ICA",
+    "repotime": "2025-05-27, 03:05:00",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}
+{
+    "commits_count": 67,
+    "date_started": "2016-03-19",
+    "date_updated": "2025-05-25",
+    "description": "Nemesys: A personal educational project designed to automate the discovery of vulnerabilities 🕵️‍♂️ using Metasploit 🚀. Learn how to identify potential weaknesses 🔓, escalate privileges 🔑, and analyze systems 🖥️, while generating intelligent cloud-based reports ☁️📊 to improve security insights.",
+    "forks_count": 1,
+    "html_url": "https://github.com/sergio11/nemesys",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "nemesys",
+    "repo_owner": "sergio11",
+    "repotime": "2025-05-25, 14:03:21",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 26,
+    "date_started": "2025-01-06",
+    "date_updated": "2025-05-23",
+    "description": "Exploiter X is a powerful web vulnerability scanner designed to automate the detection of various security flaws in web applications. It can identify vulnerabilities like SQL Injection, XSS, CSRF, Directory Traversal, and more. Simple to use, it helps secure web applications by identifying potential weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ajay-Bommidi/Exploiter-X",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Exploiter-X",
+    "repo_owner": "Ajay-Bommidi",
+    "repotime": "2025-05-23, 14:07:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 28,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-05-22",
+    "description": "Welcome to the official community of ZAPISEC – a cutting-edge SaaS-based Generative AI–powered Application Firewall and API Security Platform. ZAPISEC is engineered to secure modern web applications against evolving threats like bot attacks, API abuse, zero-day exploits, and DDoS.",
+    "forks_count": 0,
+    "html_url": "https://github.com/spartancyberultron/zapisec-community",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "zapisec-community",
+    "repo_owner": "spartancyberultron",
+    "repotime": "2025-05-22, 19:56:26",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-05-22",
+    "description": "A Python-based tool for detecting and visualizing web attacks like brute force, SQLi, XSS, and path traversal. It supports synthetic log generation and real-time detection with basic visualizations. Rule-based logic and limited format support make it ideal for learning or small projects, but not for production use.",
+    "forks_count": 0,
+    "html_url": "https://github.com/secjoseph/web-log-analyzer",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "web-log-analyzer",
+    "repo_owner": "secjoseph",
+    "repotime": "2025-05-22, 00:21:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 106,
+    "date_started": "2025-05-20",
+    "date_updated": "2025-05-21",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Headcorvo/HTA-Exploit",
+    "keywords": [
+        "Microsoft remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Headcorvo",
+    "repotime": "2025-05-21, 17:49:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-05-20",
+    "date_updated": "2025-05-20",
+    "description": "A secure expense tracker built with Django. Visualizes user-generated financial data with charts and dashboards. Hardened against injection and data exposure. Includes CSV export, optional mock encryption, and audit checklist for sensitive data handling.",
+    "forks_count": 0,
+    "html_url": "https://github.com/wehr-to/django-expense-tracker-secured",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "django-expense-tracker-secured",
+    "repo_owner": "wehr-to",
+    "repotime": "2025-05-20, 23:17:00",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-05-19",
+    "description": "HyFuzz is a two-stage vulnerability scanner that combines fast CVE-based detection with AI-driven fuzzing using GANs and LLMs. It uncovers both known and zero-day flaws through protocol-agnostic, modular analysis and structured reporting.",
+    "forks_count": 0,
+    "html_url": "https://github.com/cs7org/HyFuzz",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "HyFuzz",
+    "repo_owner": "cs7org",
+    "repotime": "2025-05-19, 22:56:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 104,
+    "date_started": "2025-05-17",
+    "date_updated": "2025-05-19",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Janenema/HTA-Exploit",
+    "keywords": [
+        "Windows remote code execution",
+        "Microsoft remote code execution exploit",
+        "Microsoft remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Janenema",
+    "repotime": "2025-05-19, 09:40:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-19",
+    "date_updated": "2025-05-19",
+    "description": "A structured dataset of known privilege escalation techniques for both **Linux** and **Windows** systems. Each entry includes a command, context, severity rating, mapped MITRE ATT&amp;amp;CK technique, and a reference link for further study.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SunnyThakur25/-Linux-Windows-Privilege-Escalation-Dataset",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "-Linux-Windows-Privilege-Escalation-Dataset",
+    "repo_owner": "SunnyThakur25",
+    "repotime": "2025-05-19, 12:42:21",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-05-17",
+    "date_updated": "2025-05-17",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/MacUchegit/SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": null,
+    "repo_name": "SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation",
+    "repo_owner": "MacUchegit",
+    "repotime": "2025-05-17, 18:43:42",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 28,
+    "date_started": "2025-04-04",
+    "date_updated": "2025-05-17",
+    "description": "Just a simple userscript to bypass the soft paywall on gocomics.com, and removes the adspaces as well.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Idiot-01/Gocomics-Depaywall",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Gocomics-Depaywall",
+    "repo_owner": "Idiot-01",
+    "repotime": "2025-05-17, 21:25:50",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 63,
+    "date_started": "2023-01-20",
+    "date_updated": "2025-05-16",
+    "description": "Community-sourced list of papers and resources on neural simulation-based inference.",
+    "forks_count": 9,
+    "html_url": "https://github.com/smsharma/awesome-neural-sbi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "awesome-neural-sbi",
+    "repo_owner": "smsharma",
+    "repotime": "2025-05-16, 20:27:34",
+    "stargazers_count": 118,
+    "watchers_count": 118
+}
+{
+    "commits_count": 11,
+    "date_started": "2025-03-29",
+    "date_updated": "2025-05-16",
+    "description": "This script automates SQL injection testing using SQLMap with AI-powered decision making.",
+    "forks_count": 29,
+    "html_url": "https://github.com/atiilla/sqlmap-ai",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmap-ai",
+    "repo_owner": "atiilla",
+    "repotime": "2025-05-16, 12:46:11",
+    "stargazers_count": 199,
+    "watchers_count": 199
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-05-15",
+    "description": "22h2 Windows patchguard runtime disabler.",
+    "forks_count": 1,
+    "html_url": "https://github.com/dpcpointer/patchedguard",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "patchedguard",
+    "repo_owner": "dpcpointer",
+    "repotime": "2025-05-15, 17:34:28",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 56,
+    "date_started": "2025-05-02",
+    "date_updated": "2025-05-14",
+    "description": "This plugin allows you to create multiplayer sessions using Steam as its provider. This plugin can handle Ping, Lag Compensation and Simulation, Client-Side Prediction, Server-Side Rewinding Time, Cheat Prevention and some other cool stuff. Enjoy!",
+    "forks_count": 0,
+    "html_url": "https://github.com/RenanSouzaRodrigues/unreal-easy-multiplayer-session-plugin",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "C++",
+    "repo_name": "unreal-easy-multiplayer-session-plugin",
+    "repo_owner": "RenanSouzaRodrigues",
+    "repotime": "2025-05-14, 20:48:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-14",
+    "date_updated": "2025-05-15",
+    "description": "A Python script designed to automate the exploitation of Local File Inclusion (LFI) vulnerabilities. Built during Hack The Box CTF Titanic, this tool streamlines the process of testing LFI payloads and extracting sensitive files like /etc/passwd via GET requests.",
+    "forks_count": 0,
+    "html_url": "https://github.com/declanmiddleton/Automated-Local-File-Inclusion-Exploitation-Script",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Automated-Local-File-Inclusion-Exploitation-Script",
+    "repo_owner": "declanmiddleton",
+    "repotime": "2025-05-15, 08:28:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 34,
+    "date_started": "2019-01-29",
+    "date_updated": "2025-05-14",
+    "description": "The Serverless Blind XSS App",
+    "forks_count": 133,
+    "html_url": "https://github.com/mazen160/xless",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xless",
+    "repo_owner": "mazen160",
+    "repotime": "2025-05-14, 00:05:40",
+    "stargazers_count": 338,
+    "watchers_count": 338
+}
+{
+    "commits_count": 52,
+    "date_started": "2025-05-13",
+    "date_updated": "2025-05-14",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yuikiowz/HTA-Exploit",
+    "keywords": [
+        "Microsoft remote code execution exploit",
+        "Windows remote code execution exploit"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Yuikiowz",
+    "repotime": "2025-05-14, 05:57:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-05-14",
+    "date_updated": "2025-05-14",
+    "description": "SIA Multi is a no-code desktop app designed to streamline stock image creation by automating prompt generation in bulk from structured CSV inputs.  It is a variant of the Stock Idea Assistant (SIA) with support for multi-line prompt injection, allowing users to batch-generate diverse AI prompts based on CSV task rows",
+    "forks_count": 0,
+    "html_url": "https://github.com/MLT-solutions/SIA2-Multi",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "SIA2-Multi",
+    "repo_owner": "MLT-solutions",
+    "repotime": "2025-05-14, 13:15:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-04",
+    "date_updated": "2025-05-13",
+    "description": "Server-Side Request Forgery Testing Utility",
+    "forks_count": 0,
+    "html_url": "https://github.com/TheOSuite/oSSRF",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "oSSRF",
+    "repo_owner": "TheOSuite",
+    "repotime": "2025-05-13, 12:12:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-05-09",
+    "date_updated": "2025-05-13",
+    "description": "Unauthenticated Gitlab DoS - Uncontrolled Resource Consumption - 8vCPU &amp;amp; 16GB RAM GCP Instance Crash",
+    "forks_count": 0,
+    "html_url": "https://github.com/justas-b1/Gitlab-DoS",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Gitlab-DoS",
+    "repo_owner": "justas-b1",
+    "repotime": "2025-05-13, 16:55:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2025-04-11",
+    "date_updated": "2025-05-12",
+    "description": "A Python proof-of-concept exploit for CVE-2019-15107 - an unauthenticated remote code execution vulnerability in Webmin versions 1.890 through 1.920.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mattb709/CVE-2019-15107-Webmin-RCE-PoC",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "remote code execution proof of concept",
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-15107-Webmin-RCE-PoC",
+    "repo_owner": "Mattb709",
+    "repotime": "2025-05-12, 21:51:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-12",
+    "date_updated": "2025-05-12",
+    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tomsec8/MXSpoof",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "MXSpoof",
+    "repo_owner": "tomsec8",
+    "repotime": "2025-05-12, 15:48:42",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-04-07",
+    "date_updated": "2025-05-11",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jeytha/Case-study-replicating-the-Mitnick-Attack-a-TCP-session-hijacking-technique",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Case-study-replicating-the-Mitnick-Attack-a-TCP-session-hijacking-technique",
+    "repo_owner": "Jeytha",
+    "repotime": "2025-05-11, 22:08:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 63,
+    "date_started": "2017-07-23",
+    "date_updated": "2025-05-10",
+    "description": "A ruby gem for defending against Server Side Request Forgery (SSRF) attacks",
+    "forks_count": 32,
+    "html_url": "https://github.com/arkadiyt/ssrf_filter",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Ruby",
+    "repo_name": "ssrf_filter",
+    "repo_owner": "arkadiyt",
+    "repotime": "2025-05-10, 11:14:56",
+    "stargazers_count": 89,
+    "watchers_count": 89
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-09",
+    "date_updated": "2025-05-09",
+    "description": "Code and data for my Bachelor thesis: &amp;quot;Finding Use-After-Free vulnerabilities using Symbolic Execution with angr&amp;quot;",
+    "forks_count": 0,
+    "html_url": "https://github.com/lennarthenke/symbolic-uaf-detection",
+    "keywords": [
+        "uaf vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "symbolic-uaf-detection",
+    "repo_owner": "lennarthenke",
+    "repotime": "2025-05-09, 17:11:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-05-06",
+    "date_updated": "2025-05-08",
+    "description": "Proof-of-Concept (PoC) for CVE-2025-34028, a Remote Code Execution vulnerability in Commvault Command Center. This Python script scans single or multiple targets, executes commands, and reports vulnerable hosts.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Mattb709/CVE-2025-34028-PoC-Commvault-RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-34028-PoC-Commvault-RCE",
+    "repo_owner": "Mattb709",
+    "repotime": "2025-05-08, 21:12:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1547,
+    "date_started": "2012-07-18",
+    "date_updated": "2025-05-09",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 430,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2025-05-09, 01:37:35",
+    "stargazers_count": 1631,
+    "watchers_count": 1631
+}
+{
+    "commits_count": 133,
+    "date_started": "2023-10-29",
+    "date_updated": "2025-05-07",
+    "description": "Webpage for Bueler's graduate course in functional analysis (MATH 617) at UAF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bueler/fa",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "fa",
+    "repo_owner": "bueler",
+    "repotime": "2025-05-07, 16:56:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2025-05-06",
+    "date_updated": "2025-05-05",
+    "description": "Simulated a PowerShell-based Remote Code Execution (RCE) attack and built a custom detection pipeline using Microsoft Defender for Endpoint (MDE) and Kusto Query Language (KQL). Demonstrated real-time alerting, automated VM isolation, and post-breach forensic analysis aligned with MITRE ATT&amp;amp;CK.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xAll3nC/Remote-Code-Execution-Detection-via-MDE",
+    "keywords": [
+        "Microsoft rce analysis"
+    ],
+    "language": null,
+    "repo_name": "Remote-Code-Execution-Detection-via-MDE",
+    "repo_owner": "0xAll3nC",
+    "repotime": "2025-05-05, 23:04:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-05-01",
+    "date_updated": "2025-05-03",
+    "description": "A lightweight Linux memory analysis tool to inspect heap, stack, buffers, detect memory leaks, and assist in fuzzing C/C++ applications.",
+    "forks_count": 0,
+    "html_url": "https://github.com/nikhilkumar0102/linux-memory-analyzer",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Python",
+    "repo_name": "linux-memory-analyzer",
+    "repo_owner": "nikhilkumar0102",
+    "repotime": "2025-05-03, 12:06:07",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-02",
+    "date_updated": "2025-05-02",
+    "description": "This isn't mine, credit to whoever made this. NotMyFault is a free tool to crash, hang, and cause kernel memory leaks to learn how to diagnose different device and hardware problems on Windows systems.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Neruvy/NotMyFault",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": null,
+    "repo_name": "NotMyFault",
+    "repo_owner": "Neruvy",
+    "repotime": "2025-05-02, 16:49:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 207,
+    "date_started": "2013-03-06",
+    "date_updated": "2025-05-01",
+    "description": "Panoptic is an open source penetration testing tool that automates the process of search and retrieval of content for common log and config files through path traversal vulnerabilities.",
+    "forks_count": 75,
+    "html_url": "https://github.com/lightos/Panoptic",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Panoptic",
+    "repo_owner": "lightos",
+    "repotime": "2025-05-01, 01:06:17",
+    "stargazers_count": 316,
+    "watchers_count": 316
+}
+{
+    "commits_count": 193,
+    "date_started": "2013-11-05",
+    "date_updated": "2025-05-01",
+    "description": "Command line tool to edit resources of exe",
+    "forks_count": 204,
+    "html_url": "https://github.com/electron/rcedit",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C++",
+    "repo_name": "rcedit",
+    "repo_owner": "electron",
+    "repotime": "2025-05-01, 00:20:35",
+    "stargazers_count": 1934,
+    "watchers_count": 1934
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-04-30",
+    "date_updated": "2025-05-01",
+    "description": "Stock Market App is a modern Android app built with MVI architecture, using Retrofit for API calls, Room for local caching, OpenCSV for CSV parsing, and Hilt (Dagger) for dependency injection. It shows a list of stocks and detailed info with clean, cryptic-themed UI.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Siddhanth0/StockMarketApp",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "StockMarketApp",
+    "repo_owner": "Siddhanth0",
+    "repotime": "2025-05-01, 02:14:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -1,0 +1,137 @@
+{
+    "commits_count": 3,
+    "date_started": "2018-04-29",
+    "date_updated": "2018-04-30",
+    "description": "Node.js &amp;amp; MySQL   Overview  In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this week. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.  Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.   Submission Guide  Make sure you use the normal GitHub. Because this is a CLI App, there will be no need to deploy it to Heroku. This time, though, you need to include screenshots, a gif, and/or a video showing us that you got the app working with no bugs. You can include these screenshots or a link to a video in a README.md file.   Include screenshots (or a video) of typical user flows through your application (for the customer and if relevant the...",
+    "forks_count": 1,
+    "html_url": "https://github.com/spt3gntlmn/MySQL-Homework",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "MySQL-Homework",
+    "repo_owner": "spt3gntlmn",
+    "repotime": "2018-04-30, 11:18:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 15,
+    "date_started": "2017-09-01",
+    "date_updated": "2018-04-29",
+    "description": "dork scanner with Sqli and Lfi testing",
+    "forks_count": 14,
+    "html_url": "https://github.com/nycto-hackerone/nycto-dork",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "nycto-dork",
+    "repo_owner": "nycto-hackerone",
+    "repotime": "2018-04-29, 22:49:17",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 17,
+    "date_started": "2018-04-24",
+    "date_updated": "2018-04-25",
+    "description": "CVE-2018-6574 POC : golang 'go get' remote command execution during source code build",
+    "forks_count": 13,
+    "html_url": "https://github.com/neargle/Go-Get-RCE-CVE-2018-6574-POC",
+    "keywords": [
+        "rce poc",
+        "remote code execution poc"
+    ],
+    "language": "C",
+    "repo_name": "Go-Get-RCE-CVE-2018-6574-POC",
+    "repo_owner": "neargle",
+    "repotime": "2018-04-25, 00:32:22",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 9,
+    "date_started": "2018-04-22",
+    "date_updated": "2018-04-23",
+    "description": "Common WiFi Manager for not hard coding the WiFi SSID and Password",
+    "forks_count": 0,
+    "html_url": "https://github.com/rid47/WiFi-Manager",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "C++",
+    "repo_name": "WiFi-Manager",
+    "repo_owner": "rid47",
+    "repotime": "2018-04-23, 15:43:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 272,
+    "date_started": "2015-03-07",
+    "date_updated": "2018-04-20",
+    "description": "PowerForensics provides an all in one platform for live disk forensic analysis",
+    "forks_count": 281,
+    "html_url": "https://github.com/Invoke-IR/PowerForensics",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "C#",
+    "repo_name": "PowerForensics",
+    "repo_owner": "Invoke-IR",
+    "repotime": "2018-04-20, 03:34:59",
+    "stargazers_count": 1413,
+    "watchers_count": 1413
+}
+{
+    "commits_count": 79,
+    "date_started": "2012-07-24",
+    "date_updated": "2018-04-17",
+    "description": "An automatic XSS discovery tool",
+    "forks_count": 119,
+    "html_url": "https://github.com/gbrindisi/xsssniper",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xsssniper",
+    "repo_owner": "gbrindisi",
+    "repotime": "2018-04-17, 10:12:36",
+    "stargazers_count": 403,
+    "watchers_count": 403
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-12-15",
+    "date_updated": "2018-04-16",
+    "description": "&amp;&#35;35; 1. MAGENTO 2 MARKETPLACE SOCIAL LOGIN PLUGIN Purchasing [Magento 2 Marketplace Social Login Plugin](https://landofcoder.com/magento2-marketplace-social-login.html/)   Our product would definitely be a good solution for customer’s irritation when being asked to waste their time on filling in username and password boxes. Magento 2 Market Place Login Plugin allows both sellers and customers to login Marketplace Multi Vendor site by their own common social account as Facebook, Google, Twitter, Linkedin, Instagram. All you have to do is picking one of the social networks you have logged in and wait a second for being automatically signed in with amazingly all of your existing information.  This is a plugin of [Magento 2 Marketplace Extension](https://landofcoder.com/magento-2-marketplace-extension.html/). To use this module smoothly, you must install Magento 2 Marketplace Module first.      &amp;&#35;35;&amp;&#35;35; 2. Documentation  - Installation guide: https://blog.landofcoder.com/magento-2-insta...",
+    "forks_count": 6,
+    "html_url": "https://github.com/dfraser74/magento2-marketplace-social-login",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "magento2-marketplace-social-login",
+    "repo_owner": "dfraser74",
+    "repotime": "2018-04-16, 09:29:34",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 10,
+    "date_started": "2017-05-31",
+    "date_updated": "2018-04-05",
+    "description": "A script to randomize Cobalt Strike Malleable C2 profiles and reduce the chances of flagging signature-based detection controls",
+    "forks_count": 87,
+    "html_url": "https://github.com/bluscreenofjeff/Malleable-C2-Randomizer",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "Malleable-C2-Randomizer",
+    "repo_owner": "bluscreenofjeff",
+    "repotime": "2018-04-05, 18:56:25",
+    "stargazers_count": 447,
+    "watchers_count": 447
+}

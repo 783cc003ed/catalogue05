@@ -1,0 +1,144 @@
+{
+    "commits_count": 20,
+    "date_started": "2019-01-17",
+    "date_updated": "2022-03-27",
+    "description": "Windows UAC bypass techniques implemented and written in Go",
+    "forks_count": 41,
+    "html_url": "https://github.com/0x9ef/golang-uacbypasser",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Go",
+    "repo_name": "golang-uacbypasser",
+    "repo_owner": "0x9ef",
+    "repotime": "2022-03-27, 21:20:48",
+    "stargazers_count": 213,
+    "watchers_count": 213
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-26",
+    "date_updated": "2022-03-27",
+    "description": "命令行版向日葵RCE漏洞利用工具 / cmd version of sunlogin exploit tool",
+    "forks_count": 2,
+    "html_url": "https://github.com/theLSA/sunlogin-exp-cmd",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation",
+        "rce vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "sunlogin-exp-cmd",
+    "repo_owner": "theLSA",
+    "repotime": "2022-03-27, 01:09:53",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-11-02",
+    "date_updated": "2022-03-20",
+    "description": "Zero-day and N-day security vulnerability notes, analysis, and proof-of-concepts",
+    "forks_count": 79,
+    "html_url": "https://github.com/alisaesage/Disclosures",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day analysis",
+        "zero-day disclosure",
+        "zero-day proof of concept"
+    ],
+    "language": "HTML",
+    "repo_name": "Disclosures",
+    "repo_owner": "alisaesage",
+    "repotime": "2022-03-20, 23:58:26",
+    "stargazers_count": 426,
+    "watchers_count": 426
+}
+{
+    "commits_count": 27,
+    "date_started": "2021-12-26",
+    "date_updated": "2022-03-19",
+    "description": "WAMpage - A WebOS root LPE exploit chain (CVE-2022-23731)",
+    "forks_count": 8,
+    "html_url": "https://github.com/DavidBuchanan314/WAMpage",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "WAMpage",
+    "repo_owner": "DavidBuchanan314",
+    "repotime": "2022-03-19, 16:24:28",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-03-15",
+    "date_updated": "2022-03-15",
+    "description": "Sleirsgoevy: PoC for the FontFaceSet vulnerability, which was wrongly classified as a use-after-free. Works only on PC for now. Please check if this prints &amp;quot;failed to guess...&amp;quot; for you. Especially interested in reports from 9.00.",
+    "forks_count": 0,
+    "html_url": "https://github.com/crump-youtube/900Test",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "900Test",
+    "repo_owner": "crump-youtube",
+    "repotime": "2022-03-15, 12:37:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 585,
+    "date_started": "2020-12-11",
+    "date_updated": "2022-03-14",
+    "description": "Dynamic analysis tool to find memory overlaps in an executable",
+    "forks_count": 2,
+    "html_url": "https://github.com/kristopher-pellizzi/MemTrace",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C++",
+    "repo_name": "MemTrace",
+    "repo_owner": "kristopher-pellizzi",
+    "repotime": "2022-03-14, 14:53:21",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-13",
+    "date_updated": "2022-03-13",
+    "description": "CVE-2022-0847 (Dirty Pipe) is an arbitrary file overwrite vulnerability that allows escalation of privileges by modifying or overwriting arbitrary read-only files e.g. /etc/passwd, /etc/shadow.",
+    "forks_count": 1,
+    "html_url": "https://github.com/sa-infinity8888/Dirty-Pipe-CVE-2022-0847",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "Dirty-Pipe-CVE-2022-0847",
+    "repo_owner": "sa-infinity8888",
+    "repotime": "2022-03-13, 19:02:30",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 48,
+    "date_started": "2021-10-13",
+    "date_updated": "2022-03-12",
+    "description": "Implementation of several code injection techniques.",
+    "forks_count": 7,
+    "html_url": "https://github.com/Fahersto/code_injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "code_injection",
+    "repo_owner": "Fahersto",
+    "repotime": "2022-03-12, 14:42:46",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}

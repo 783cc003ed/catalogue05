@@ -1,0 +1,184 @@
+{
+    "commits_count": 2,
+    "date_started": "2020-04-22",
+    "date_updated": "2020-04-22",
+    "description": "win32k use-after-free poc",
+    "forks_count": 38,
+    "html_url": "https://github.com/james0x40/CVE-2020-0624",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2020-0624",
+    "repo_owner": "james0x40",
+    "repotime": "2020-04-22, 09:11:24",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-04-22",
+    "date_updated": "2020-04-22",
+    "description": "CVE-2020-11890: Improper input validations in the usergroup table class could lead to a broken ACL configuration to RCE",
+    "forks_count": 15,
+    "html_url": "https://github.com/HoangKien1020/CVE-2020-11890",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-11890",
+    "repo_owner": "HoangKien1020",
+    "repotime": "2020-04-22, 17:29:14",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-02-17",
+    "date_updated": "2020-04-21",
+    "description": "Exploit PoC RCE - Windows Hyper-V Remote Code Execution Reverse Shell",
+    "forks_count": 1,
+    "html_url": "https://github.com/kfmgang/CVE-2020-0910",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows remote code execution",
+        "Windows rce poc",
+        "Windows remote code execution exploit",
+        "remote code execution poc",
+        "Windows remote code execution exploitation",
+        "Windows rce",
+        "Windows remote code execution poc",
+        "Windows rce exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-0910",
+    "repo_owner": "kfmgang",
+    "repotime": "2020-04-21, 21:10:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-04-22",
+    "date_updated": "2020-04-21",
+    "description": "PoC RCE Reverse Shell for CVE-2020-0883",
+    "forks_count": 6,
+    "html_url": "https://github.com/thelostworldFree/CVE-2020-0883",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-0883",
+    "repo_owner": "thelostworldFree",
+    "repotime": "2020-04-21, 21:08:44",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-04-22",
+    "date_updated": "2020-04-21",
+    "description": "PoC RCE Reverse Shell for CVE-2020-0796 (SMBGhost)",
+    "forks_count": 18,
+    "html_url": "https://github.com/thelostworldFree/CVE-2020-0796",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-0796",
+    "repo_owner": "thelostworldFree",
+    "repotime": "2020-04-21, 21:07:56",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-04-09",
+    "date_updated": "2020-04-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/ec-council-learning/Introduction-to-Exploit-Zero-Day-Discovery-and-Development",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Introduction-to-Exploit-Zero-Day-Discovery-and-Development",
+    "repo_owner": "ec-council-learning",
+    "repotime": "2020-04-09, 11:20:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-03-30",
+    "date_updated": "2020-04-08",
+    "description": "CVE-2020-0796 - Windows SMBv3 LPE exploit &amp;&#35;35;SMBGhost",
+    "forks_count": 344,
+    "html_url": "https://github.com/danigargu/CVE-2020-0796",
+    "keywords": [
+        "Windows lpe poc",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "lpe poc",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2020-0796",
+    "repo_owner": "danigargu",
+    "repotime": "2020-04-08, 21:27:06",
+    "stargazers_count": 1330,
+    "watchers_count": 1330
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-05-23",
+    "date_updated": "2020-04-03",
+    "description": "Deserialization of Untrusted Data in Liferay Portal prior to 7.2.1 CE GA2 allows remote attackers to execute arbitrary code via JSON web services (JSONWS)",
+    "forks_count": 0,
+    "html_url": "https://github.com/thelostworldFree/CVE-2020-7961-payloads",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-7961-payloads",
+    "repo_owner": "thelostworldFree",
+    "repotime": "2020-04-03, 12:23:53",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-04-03",
+    "date_updated": "2020-04-03",
+    "description": "记录学习Weblogic系列xxe的一些poc，便于加深理解和调试",
+    "forks_count": 6,
+    "html_url": "https://github.com/Wfzsec/Weblogic-XXE-poc",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "Weblogic-XXE-poc",
+    "repo_owner": "Wfzsec",
+    "repotime": "2020-04-03, 12:36:46",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-03-30",
+    "date_updated": "2020-04-02",
+    "description": "CVE-2020-0796 Local Privilege Escalation POC",
+    "forks_count": 85,
+    "html_url": "https://github.com/jamf/CVE-2020-0796-LPE-POC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-0796-LPE-POC",
+    "repo_owner": "jamf",
+    "repotime": "2020-04-02, 11:01:29",
+    "stargazers_count": 242,
+    "watchers_count": 242
+}

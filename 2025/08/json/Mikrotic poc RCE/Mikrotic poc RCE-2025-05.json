@@ -1,0 +1,381 @@
+{
+    "commits_count": 154,
+    "date_started": "2025-01-26",
+    "date_updated": "2025-05-31",
+    "description": "all my zero days exploits",
+    "forks_count": 3,
+    "html_url": "https://github.com/shiky8/zero_days",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "zero_days",
+    "repo_owner": "shiky8",
+    "repotime": "2025-05-31, 23:56:16",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-31",
+    "date_updated": "2025-05-31",
+    "description": "Remote Code Execution via Use-After-Free in JScript.dll (CVE-2025-30397)",
+    "forks_count": 14,
+    "html_url": "https://github.com/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-",
+    "keywords": [
+        "Windows use after free",
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-",
+    "repo_owner": "mbanyamer",
+    "repotime": "2025-05-31, 15:23:53",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-09-09",
+    "date_updated": "2025-05-30",
+    "description": "APT38 Tactic PoC for Stealing 0days from security researchers",
+    "forks_count": 45,
+    "html_url": "https://github.com/ZeroMemoryEx/APT38-0day-Stealer",
+    "keywords": [
+        "rce poc",
+        "0day poc"
+    ],
+    "language": "C++",
+    "repo_name": "APT38-0day-Stealer",
+    "repo_owner": "ZeroMemoryEx",
+    "repotime": "2025-05-30, 17:52:14",
+    "stargazers_count": 314,
+    "watchers_count": 314
+}
+{
+    "commits_count": 45,
+    "date_started": "2024-08-06",
+    "date_updated": "2025-05-28",
+    "description": "Logsign Unified SecOps Platform Exploit Proof of Concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/sevbandonmez/Logsign-RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Ruby",
+    "repo_name": "Logsign-RCE",
+    "repo_owner": "sevbandonmez",
+    "repotime": "2025-05-28, 15:57:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 68,
+    "date_started": "2025-04-14",
+    "date_updated": "2025-05-28",
+    "description": "A collection of labs, tools, and study materials for OSCP exam preparation. Includes practice environments, scripts, and resources for enumeration, exploitation, and privilege escalation to help master penetration testing skills.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xD13/OSCP-Prep-Guide",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "OSCP-Prep-Guide",
+    "repo_owner": "0xD13",
+    "repotime": "2025-05-28, 09:20:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-05-08",
+    "date_updated": "2025-05-27",
+    "description": "PoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain",
+    "forks_count": 0,
+    "html_url": "https://github.com/BBO513/CVE-2023-7231",
+    "keywords": [
+        "rce disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-7231",
+    "repo_owner": "BBO513",
+    "repotime": "2025-05-27, 20:24:13",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-05-26",
+    "description": "Wing FTP Server provides an administrative Lua scripting console accessible via its web interface. Authenticated administrators are able to execute arbitrary Lua code with insufficient sandboxing. CVE-2025-5196",
+    "forks_count": 1,
+    "html_url": "https://github.com/Nouvexr/Wing-FTP-Server-7.4.4-RCE-Authenticated",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": null,
+    "repo_name": "Wing-FTP-Server-7.4.4-RCE-Authenticated",
+    "repo_owner": "Nouvexr",
+    "repotime": "2025-05-26, 11:33:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 20,
+    "date_started": "2025-05-09",
+    "date_updated": "2025-05-21",
+    "description": "0day - Authenticated Gitlab DoS - Uncontrolled Resource Consumption - 8vCPU &amp;amp; 11GB RAM - Events Tracking",
+    "forks_count": 0,
+    "html_url": "https://github.com/justas-b1/Gitlab-dos3",
+    "keywords": [
+        "zero-day dos",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Gitlab-dos3",
+    "repo_owner": "justas-b1",
+    "repotime": "2025-05-21, 20:20:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-05-19",
+    "description": "HyFuzz is a two-stage vulnerability scanner that combines fast CVE-based detection with AI-driven fuzzing using GANs and LLMs. It uncovers both known and zero-day flaws through protocol-agnostic, modular analysis and structured reporting.",
+    "forks_count": 0,
+    "html_url": "https://github.com/cs7org/HyFuzz",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "HyFuzz",
+    "repo_owner": "cs7org",
+    "repotime": "2025-05-19, 22:56:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2025-01-30",
+    "date_updated": "2025-05-19",
+    "description": "Mist CE ≤ v4.7.1 contains a critical Broken Access Control vulnerability, allowing unauthenticated attackers to generate arbitrary API tokens and take over user accounts.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Stolichnayer/mist-ce-account-takeover",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "mist-ce-account-takeover",
+    "repo_owner": "Stolichnayer",
+    "repotime": "2025-05-19, 18:51:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-17",
+    "date_updated": "2025-05-19",
+    "description": "Public disclosure of CVE-2025-31200 – Zero-click RCE in iOS 18.X via AudioConverterService and malicious audio file.",
+    "forks_count": 8,
+    "html_url": "https://github.com/JGoyd/CVE-2025-31200-iOS-AudioConverter-RCE",
+    "keywords": [
+        "rce disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-31200-iOS-AudioConverter-RCE",
+    "repo_owner": "JGoyd",
+    "repotime": "2025-05-19, 11:30:42",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-05-14",
+    "date_updated": "2025-05-15",
+    "description": "CVE-2025-32756 — Fortinet FortiVoice Unauthenticated RCE (PoC)",
+    "forks_count": 1,
+    "html_url": "https://github.com/m4s1um/CVE-2025-32756-RCE-PoC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-32756-RCE-PoC",
+    "repo_owner": "m4s1um",
+    "repotime": "2025-05-15, 02:51:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-05-09",
+    "date_updated": "2025-05-13",
+    "description": "Unauthenticated Gitlab DoS - Uncontrolled Resource Consumption - 8vCPU &amp;amp; 16GB RAM GCP Instance Crash",
+    "forks_count": 0,
+    "html_url": "https://github.com/justas-b1/Gitlab-DoS",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Gitlab-DoS",
+    "repo_owner": "justas-b1",
+    "repotime": "2025-05-13, 16:55:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2025-05-09",
+    "date_updated": "2025-05-13",
+    "description": "Unauthenticated Gitlab DoS 2 - Uncontrolled Resource Consumption - 8vCPU &amp;amp; 16GB RAM GCP Instance Crash - Graphql",
+    "forks_count": 0,
+    "html_url": "https://github.com/justas-b1/Gitlab-dos2",
+    "keywords": [
+        "zero-day dos"
+    ],
+    "language": "Python",
+    "repo_name": "Gitlab-dos2",
+    "repo_owner": "justas-b1",
+    "repotime": "2025-05-13, 16:54:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2025-05-10",
+    "date_updated": "2025-05-13",
+    "description": "Gitlab XSS &amp;amp; CSP Bypass on Commit Page - ATO - POC Code - Bug Bounty",
+    "forks_count": 0,
+    "html_url": "https://github.com/justas-b1/gitlab-xss",
+    "keywords": [
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "gitlab-xss",
+    "repo_owner": "justas-b1",
+    "repotime": "2025-05-13, 14:43:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2025-04-11",
+    "date_updated": "2025-05-12",
+    "description": "A Python proof-of-concept exploit for CVE-2019-15107 - an unauthenticated remote code execution vulnerability in Webmin versions 1.890 through 1.920.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mattb709/CVE-2019-15107-Webmin-RCE-PoC",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "remote code execution proof of concept",
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-15107-Webmin-RCE-PoC",
+    "repo_owner": "Mattb709",
+    "repotime": "2025-05-12, 21:51:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-05-12",
+    "date_updated": "2025-05-13",
+    "description": "1day practice - Escape macOS sandbox (partial) using RemoteViewServices",
+    "forks_count": 6,
+    "html_url": "https://github.com/wh1te4ever/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape poc"
+    ],
+    "language": "Objective-C",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "wh1te4ever",
+    "repotime": "2025-05-13, 08:52:28",
+    "stargazers_count": 38,
+    "watchers_count": 38
+}
+{
+    "commits_count": 66,
+    "date_started": "2023-10-09",
+    "date_updated": "2025-05-12",
+    "description": "Proof of Concept for RCE and information leakage on vulnerable AXIS Network Cameras",
+    "forks_count": 0,
+    "html_url": "https://github.com/mascencerro/axis-rce",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "axis-rce",
+    "repo_owner": "mascencerro",
+    "repotime": "2025-05-12, 17:49:42",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-08",
+    "date_updated": "2025-05-09",
+    "description": "A proof-of-concept for the CVE-2021-25646, which allows for Command Injection",
+    "forks_count": 0,
+    "html_url": "https://github.com/tiemio/RCE-PoC-CVE-2021-25646",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Go",
+    "repo_name": "RCE-PoC-CVE-2021-25646",
+    "repo_owner": "tiemio",
+    "repotime": "2025-05-09, 09:19:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-05-06",
+    "date_updated": "2025-05-08",
+    "description": "Proof-of-Concept (PoC) for CVE-2025-34028, a Remote Code Execution vulnerability in Commvault Command Center. This Python script scans single or multiple targets, executes commands, and reports vulnerable hosts.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Mattb709/CVE-2025-34028-PoC-Commvault-RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-34028-PoC-Commvault-RCE",
+    "repo_owner": "Mattb709",
+    "repotime": "2025-05-08, 21:12:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-05-03",
+    "date_updated": "2025-05-03",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/TalhaKircili/CSV-Injection-PoC",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CSV-Injection-PoC",
+    "repo_owner": "TalhaKircili",
+    "repotime": "2025-05-03, 15:10:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-05-02",
+    "date_updated": "2025-05-02",
+    "description": "apache flink 0day vulnerability ",
+    "forks_count": 0,
+    "html_url": "https://github.com/k0nnect/apache-flink-0day",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "apache-flink-0day",
+    "repo_owner": "k0nnect",
+    "repotime": "2025-05-02, 12:41:18",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

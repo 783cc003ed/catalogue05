@@ -1,0 +1,638 @@
+{
+    "commits_count": 3,
+    "date_started": "2021-07-30",
+    "date_updated": "2021-07-30",
+    "description": "0day Windows/x64 Inject All Processes With Meterpreter Reverse Shell Shellcode (655 bytes)",
+    "forks_count": 18,
+    "html_url": "https://github.com/0dayNinja/Windows-x64-Processes-Injector",
+    "keywords": [
+        "Windows 0day",
+        "Win 0day"
+    ],
+    "language": "Assembly",
+    "repo_name": "Windows-x64-Processes-Injector",
+    "repo_owner": "0dayNinja",
+    "repotime": "2021-07-30, 13:00:48",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-07-30",
+    "date_updated": "2021-07-30",
+    "description": "Aruba Instant (IAP) - Remote Code Execution Exploit",
+    "forks_count": 4,
+    "html_url": "https://github.com/0dayNinja/2021-25157",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "2021-25157",
+    "repo_owner": "0dayNinja",
+    "repotime": "2021-07-30, 12:40:23",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-07-30",
+    "date_updated": "2021-07-30",
+    "description": "WordPress Backup Guard Authenticated Remote Code Execution Exploit",
+    "forks_count": 7,
+    "html_url": "https://github.com/0dayNinja/CVE-2021-24155.rb",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2021-24155.rb",
+    "repo_owner": "0dayNinja",
+    "repotime": "2021-07-30, 12:35:54",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-06-15",
+    "date_updated": "2021-07-28",
+    "description": "A simple bash script that pulls a new version of Bash and recompiles within the shell. Great for testing privilege escalation exploits in Unix environments.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ITxTristan/bash-recompiler",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "bash-recompiler",
+    "repo_owner": "ITxTristan",
+    "repotime": "2021-07-28, 15:58:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-07-24",
+    "date_updated": "2021-07-28",
+    "description": "Recently, it was discovered that Microsoft client operating systems released in the past 2.5 years are susceptible to a zero-day flaw in how permissions are implemented on a critical system folder.  The code in the repository implements the steps documented by Microsoft as the remediation for the vulnerability, including setting permissions and deleting Shadow Copies.",
+    "forks_count": 1,
+    "html_url": "https://github.com/brandonleegit/RemediateSeriousSAM",
+    "keywords": [
+        "zero-day vulnerability",
+        "Microsoft zero-day vulnerability",
+        "Microsoft zero-day"
+    ],
+    "language": "PowerShell",
+    "repo_name": "RemediateSeriousSAM",
+    "repo_owner": "brandonleegit",
+    "repotime": "2021-07-28, 14:56:58",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-07-28",
+    "date_updated": "2021-07-28",
+    "description": "This is a reference implementation of paper Bringing Old Photos Back to Life, CVPR2020 (Oral) by Ziyu Wan1, Bo Zhang2, Dongdong Chen3, Pan Zhang4, Dong Chen2, Jing Liao1, Fang Wen2 City University of Hong Kong, Microsoft Research Asia, Microsoft Cloud AI, 4 USTC   After placing an old photo restore example in this group I got several requests for doing the work for their personal image or some important historic image they have. Doing it individually is a time taken job hence I have created this colab notebook for the same.  Through this colab notebook we have tried to make a simple free web based old photo editor so that this can be easily used by any person with limited technical knowledge. And this appears like a web page for restoring their personal photos. Click on the play button at the corner of each code block. There are two code blocks. The first one is to download pre trained models, hence it takes some time. This first block needs to be executed only once for a session. The ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/shatadal88/Simple-Old-photo-restore-",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Simple-Old-photo-restore-",
+    "repo_owner": "shatadal88",
+    "repotime": "2021-07-28, 15:14:41",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-06-03",
+    "date_updated": "2021-07-27",
+    "description": "Collection of shellcode injection and execution techniques",
+    "forks_count": 7,
+    "html_url": "https://github.com/11philip22/CodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "CodeInjection",
+    "repo_owner": "11philip22",
+    "repotime": "2021-07-27, 11:42:34",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-07-06",
+    "date_updated": "2021-07-26",
+    "description": "ECS171 Summer Session 1 Team 8",
+    "forks_count": 0,
+    "html_url": "https://github.com/jeahernandez/Loan-Prediction-Project",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Loan-Prediction-Project",
+    "repo_owner": "jeahernandez",
+    "repotime": "2021-07-26, 23:22:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-07-26",
+    "date_updated": "2021-07-26",
+    "description": "Practice your cross side scripting skills with this shitty comment app.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fdiezdev/xss-practice",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "PHP",
+    "repo_name": "xss-practice",
+    "repo_owner": "fdiezdev",
+    "repotime": "2021-07-26, 21:18:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-07-25",
+    "date_updated": "2021-07-25",
+    "description": "Paste the following code on tamper monkey replace the cookie..and your logged in (SESSION HIJACKING)",
+    "forks_count": 1,
+    "html_url": "https://github.com/VasishtaJava/Tamper-Mokey-Session-hijacking-script",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": null,
+    "repo_name": "Tamper-Mokey-Session-hijacking-script",
+    "repo_owner": "VasishtaJava",
+    "repotime": "2021-07-25, 12:51:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 71,
+    "date_started": "2017-08-19",
+    "date_updated": "2021-07-22",
+    "description": "Web-Security-Learning",
+    "forks_count": 1018,
+    "html_url": "https://github.com/CHYbeta/Web-Security-Learning",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "Web-Security-Learning",
+    "repo_owner": "CHYbeta",
+    "repotime": "2021-07-22, 12:56:40",
+    "stargazers_count": 4247,
+    "watchers_count": 4247
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-07-16",
+    "date_updated": "2021-07-16",
+    "description": "Protect a process from code injection, termination and hooking",
+    "forks_count": 17,
+    "html_url": "https://github.com/Rhydon1337/windows-kernel-process-protector",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "windows-kernel-process-protector",
+    "repo_owner": "Rhydon1337",
+    "repotime": "2021-07-16, 20:52:05",
+    "stargazers_count": 49,
+    "watchers_count": 49
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-06-03",
+    "date_updated": "2021-07-15",
+    "description": "JAVA 漏洞靶场 (Vulnerability Environment For Java)",
+    "forks_count": 110,
+    "html_url": "https://github.com/tangxiaofeng7/SecExample",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "SecExample",
+    "repo_owner": "tangxiaofeng7",
+    "repotime": "2021-07-15, 17:11:24",
+    "stargazers_count": 473,
+    "watchers_count": 473
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-12-26",
+    "date_updated": "2021-07-12",
+    "description": "Bypass UAC by abusing shell protocol handlers",
+    "forks_count": 5,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity-lite",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity-lite",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-07-12, 12:57:47",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-11-23",
+    "date_updated": "2021-07-12",
+    "description": "Bypass UAC at any level by abusing the Task Scheduler and environment variables",
+    "forks_count": 12,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity5-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity5-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-07-12, 12:57:25",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-11-05",
+    "date_updated": "2021-07-12",
+    "description": "Bypass UAC by abusing the Windows Defender Firewall Control Panel, environment variables, and shell protocol handlers",
+    "forks_count": 4,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity4-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity4-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-07-12, 12:57:11",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-10-28",
+    "date_updated": "2021-07-12",
+    "description": "Bypass UAC by abusing the Security Center CPL and hijacking a shell protocol handler",
+    "forks_count": 12,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity3-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity3-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-07-12, 12:56:56",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-10-13",
+    "date_updated": "2021-07-12",
+    "description": "Bypass UAC by abusing the Internet Explorer Add-on installer",
+    "forks_count": 11,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity2-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity2-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-07-12, 12:56:38",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 28,
+    "date_started": "2018-03-15",
+    "date_updated": "2021-07-12",
+    "description": "Some PoC (Proof-of-Concept) about vulnerability of java deserialization of untrusted data ",
+    "forks_count": 5,
+    "html_url": "https://github.com/EdoardoVignati/java-deserialization-of-untrusted-data-poc",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": "FreeMarker",
+    "repo_name": "java-deserialization-of-untrusted-data-poc",
+    "repo_owner": "EdoardoVignati",
+    "repotime": "2021-07-12, 10:09:27",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-09-01",
+    "date_updated": "2021-07-12",
+    "description": "A Python based scanner to find potential SSRF parameters in a web application.",
+    "forks_count": 24,
+    "html_url": "https://github.com/pwn0sec/PwnSSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "PwnSSRF",
+    "repo_owner": "pwn0sec",
+    "repotime": "2021-07-12, 07:16:12",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}
+{
+    "commits_count": 21,
+    "date_started": "2021-07-02",
+    "date_updated": "2021-07-11",
+    "description": "Sthaniya Khana - a food ordering system. Frontend and backend. Admin pannel has been secured with session authenication, prevents SQL injection attacks. User friendly.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sarry971/Sthaniya-Khana",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "Sthaniya-Khana",
+    "repo_owner": "sarry971",
+    "repotime": "2021-07-11, 11:19:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-06-19",
+    "date_updated": "2021-07-10",
+    "description": "PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 &amp;lt; 6.6.1 Remote Code Execution",
+    "forks_count": 1,
+    "html_url": "https://github.com/f4T1H21/CVE-2020-7247",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-7247",
+    "repo_owner": "f4T1H21",
+    "repotime": "2021-07-10, 14:26:06",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-07-01",
+    "date_updated": "2021-07-10",
+    "description": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command-line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a &amp;quot;JavaScript everywhere&amp;quot; paradigm, unifying web application development around a single programming language, rather than different languages for server-side and client-side scripts.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArpanMaheshwari144/Complete-NodeJS",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "HTML",
+    "repo_name": "Complete-NodeJS",
+    "repo_owner": "ArpanMaheshwari144",
+    "repotime": "2021-07-10, 15:27:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2020-04-14",
+    "date_updated": "2021-07-10",
+    "description": "As we all know the situation in the world is going on the pandemic crisis all over the world of covid 19 everyone is scared and everything is just shut down the offices, industries, shops, schools and colleges people are advised to stay home and stay safe from this problem the only solution is now to stay in home so this is the time to do some thing at home rather then sitting alone and doing nothing at home and getting depressed from this corona virus you can use this time to learn new things and upgrade your skills for better growth so there are online study programs which are provided by our institute and you can learn selenium with java online training by our Institute that provides software testing training courses and classes online and offline to our candidtes so candidates should know how important is testing for a project to know that everything which is done on the project is working or not and there will be no errors and if there are you need to solve them in the process als...",
+    "forks_count": 0,
+    "html_url": "https://github.com/askme01/Learn-software-testing-online-Selenium-with-java",
+    "keywords": [
+        "Windows use after free",
+        "Windows remote code execution",
+        "Chrome remote code execution"
+    ],
+    "language": null,
+    "repo_name": "Learn-software-testing-online-Selenium-with-java",
+    "repo_owner": "askme01",
+    "repotime": "2021-07-10, 02:47:42",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-07-05",
+    "date_updated": "2021-07-08",
+    "description": "Workaround for Windows Print Spooler Remote Code Execution Vulnerability(CVE-2021-34527). See: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527",
+    "forks_count": 0,
+    "html_url": "https://github.com/rdboboia/disable-RegisterSpoolerRemoteRpcEndPoint",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Windows remote code execution",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": "Batchfile",
+    "repo_name": "disable-RegisterSpoolerRemoteRpcEndPoint",
+    "repo_owner": "rdboboia",
+    "repotime": "2021-07-08, 23:11:40",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-07-08",
+    "date_updated": "2021-07-08",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/ozkanburgac/Windows-Print-Spooler-Remote-Code-Execution-Vulnerability",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "Win remote code execution",
+        "remote code execution vulnerability",
+        "Win remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Windows-Print-Spooler-Remote-Code-Execution-Vulnerability",
+    "repo_owner": "ozkanburgac",
+    "repotime": "2021-07-08, 14:13:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-07-06",
+    "date_updated": "2021-07-07",
+    "description": "Code Injection, Inject malicious payload via pagetables pml4.",
+    "forks_count": 59,
+    "html_url": "https://github.com/kkent030315/PageTableInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "PageTableInjection",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-07-07, 09:02:29",
+    "stargazers_count": 241,
+    "watchers_count": 241
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-07-06",
+    "date_updated": "2021-07-06",
+    "description": "A proof of concept script for the RCE found in PHP version 8.1.0-dev, by invoking &amp;quot;User-Agentt: zerodiumsystem&amp;quot; backdoor placed in the PHP source code.",
+    "forks_count": 1,
+    "html_url": "https://github.com/AN0NIT/PHP-8.1.0-dev_RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "PHP-8.1.0-dev_RCE",
+    "repo_owner": "AN0NIT",
+    "repotime": "2021-07-06, 04:34:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-07-06",
+    "date_updated": "2021-07-06",
+    "description": "KUMPULAN CODE TERMUX LENGKAP   | SPAM CHAT WHATSAPP || nggk usah nyepam gw -_*   atau hp lu gw ledakin!!&amp;&#35;35;@vms $ pkg update &amp;amp;&amp;amp; pkg upgrade Setelah mengupdate dan mengupgrade termux ketikan perintah berikut : $ pkg install python2 (y/n pilih y) $ pkg install php (y/n pilih y) $ pkg install git (y/n pilih y) Setalah mengikuti perintah di atas waktu-nya kita clonning tool-nya : $ git clone https://github.com/siputra12/prank.git Setelah proses cloning selesai kita move on dari perintah di atas dan ketikan perintah ini : $ cd prank $ ls $ php wa.php Kemudian masukan Nomor WhatsApp yang kalian ingin spam contoh : 085710917169 kemudian enter pada pilihan y/n pilih y .. .welcome back to me catatan:)....  &amp;&#35;35;@vms          &amp;quot; jngan lupa subcribe pak *VEMAS DARK* -_-...  (:&amp;quot; &amp;quot;phising game&amp;quot; (mobile legends dan clash of clan) $apt update $apt upgrade -y $pkg install python2 -y $pkg install apache2 $pkg install php -y $pkg install git $git clone https://github.com/Sen...",
+    "forks_count": 4,
+    "html_url": "https://github.com/wahid987654321/hecker",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "hecker",
+    "repo_owner": "wahid987654321",
+    "repotime": "2021-07-06, 15:24:11",
+    "stargazers_count": 38,
+    "watchers_count": 38
+}
+{
+    "commits_count": 147,
+    "date_started": "2021-09-21",
+    "date_updated": "2021-07-05",
+    "description": "Pricing and Matching  Scenario. Consider the scenario in which a shop has a number of promo codes to incentivize the customers that buy an item to buy a different item. The customers can belong to different classes and the promo codes can provide different discounts.  Environment. Imagine two items (referred to as first and second items; for each item we have an infinite number of units) and four customers’ classes. The daily number of customers of each class is described by a potentially different (truncated) Gaussian probability distribution. Each class is also associated with a potentially different conversion rate returning the probability that the user will buy the first item at a given price.  Once a buyer has bought the item, she/he can decide to buy the second item that can be or not promoted. There are four different promos P0, P1, P2, P3, each corresponding to a different level of discount. P0 corresponds to no discount. Given the total number of customers, the business unit ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/FrancescaPietrobon/Pricing-and-Matching",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Pricing-and-Matching",
+    "repo_owner": "FrancescaPietrobon",
+    "repotime": "2021-07-05, 17:37:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 147,
+    "date_started": "2021-03-09",
+    "date_updated": "2021-07-05",
+    "description": "Pricing and Matching  Scenario. Consider the scenario in which a shop has a number of promo codes to incentivize the customers that buy an item to buy a different item. The customers can belong to different classes and the promo codes can provide different discounts.  Environment. Imagine two items (referred to as first and second items; for each item we have an infinite number of units) and four customers’ classes. The daily number of customers of each class is described by a potentially different (truncated) Gaussian probability distribution. Each class is also associated with a potentially different conversion rate returning the probability that the user will buy the first item at a given price.  Once a buyer has bought the item, she/he can decide to buy the second item that can be or not promoted. There are four different promos P0, P1, P2, P3, each corresponding to a different level of discount. P0 corresponds to no discount. Given the total number of customers, the business unit ...",
+    "forks_count": 1,
+    "html_url": "https://github.com/FrancescoEmanueleStradi/Pricing-and-Matching",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "Python",
+    "repo_name": "Pricing-and-Matching",
+    "repo_owner": "FrancescoEmanueleStradi",
+    "repotime": "2021-07-05, 17:37:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-07-01",
+    "date_updated": "2021-07-05",
+    "description": "Local Privilege Escalation Edition for CVE-2021-1675/CVE-2021-34527",
+    "forks_count": 79,
+    "html_url": "https://github.com/hlldz/CVE-2021-1675-LPE",
+    "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2021-1675-LPE",
+    "repo_owner": "hlldz",
+    "repotime": "2021-07-05, 09:46:12",
+    "stargazers_count": 333,
+    "watchers_count": 333
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-07-04",
+    "date_updated": "2021-07-04",
+    "description": "Cross-site scripting (XSS) is a type of vulnerability commonly found in web applications. This vulnerability makes it possible for attackers to inject malicious code (e.g. JavaScript programs) into victim’s web browser. Using this malicious code, attackers can steal a victim’s credentials, such as session cookies. The access control policies (i.e., the same origin policy) employed by browsers to protect those credentials can be bypassed by exploiting XSS vulnerabilities.",
+    "forks_count": 1,
+    "html_url": "https://github.com/hasanar1f/Cross-Site-Scripting-XSS-Attack",
+    "keywords": [
+        "session vulnerability",
+        "session attack"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Cross-Site-Scripting-XSS-Attack",
+    "repo_owner": "hasanar1f",
+    "repotime": "2021-07-04, 20:05:30",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-07-03",
+    "date_updated": "2021-07-03",
+    "description": "Exploit for MS Http Protocol Stack RCE vulnerability (CVE-2021-31166)",
+    "forks_count": 2,
+    "html_url": "https://github.com/y0g3sh-99/CVE-2021-31166-Exploit",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows rce dos",
+        "Windows rce",
+        "rce dos",
+        "Windows rce exploit",
+        "Windows rce vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31166-Exploit",
+    "repo_owner": "y0g3sh-99",
+    "repotime": "2021-07-03, 20:57:28",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-07-01",
+    "date_updated": "2021-07-02",
+    "description": "PrintNightmare , Local Privilege Escalation of CVE-2021-1675 or CVE-2021-34527",
+    "forks_count": 21,
+    "html_url": "https://github.com/evilashz/CVE-2021-1675-LPE-EXP",
+    "keywords": [
+        "Windows lpe",
+        "Windows escalation of privileges"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-1675-LPE-EXP",
+    "repo_owner": "evilashz",
+    "repotime": "2021-07-02, 18:47:36",
+    "stargazers_count": 59,
+    "watchers_count": 59
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-09-09",
+    "date_updated": "2021-07-01",
+    "description": "A python code that can be an extension for many other software to suggest users a password that is unique and very hard to crack. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/abhinavvatsa2011/passwordGenerator.py",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "passwordGenerator.py",
+    "repo_owner": "abhinavvatsa2011",
+    "repotime": "2021-07-01, 21:27:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

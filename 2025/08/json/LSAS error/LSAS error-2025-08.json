@@ -1,0 +1,213 @@
+{
+    "commits_count": 9,
+    "date_started": "2025-06-30",
+    "date_updated": "2025-08-12",
+    "description": "This is a simple and benign Go script that red teamers can drop and attempt execution to test RCE on Windows machines",
+    "forks_count": 0,
+    "html_url": "https://github.com/maverick-doan/win-rce-checker",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Go",
+    "repo_name": "win-rce-checker",
+    "repo_owner": "maverick-doan",
+    "repotime": "2025-08-12, 01:13:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 28,
+    "date_started": "2025-04-15",
+    "date_updated": "2025-08-11",
+    "description": "Respostas dos exercícios da disciplina de LPED",
+    "forks_count": 0,
+    "html_url": "https://github.com/cabarros3/respostas-lped",
+    "keywords": [
+        "lpe dos"
+    ],
+    "language": "TypeScript",
+    "repo_name": "respostas-lped",
+    "repo_owner": "cabarros3",
+    "repotime": "2025-08-11, 10:50:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 165,
+    "date_started": "2019-08-21",
+    "date_updated": "2025-08-10",
+    "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
+    "forks_count": 294,
+    "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+    "keywords": [
+        "xml external entity",
+        "session attack",
+        "zero-day dos",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "session vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Nginx-Lua-Anti-DDoS",
+    "repo_owner": "C0nw0nk",
+    "repotime": "2025-08-10, 09:08:15",
+    "stargazers_count": 1335,
+    "watchers_count": 1335
+}
+{
+    "commits_count": 68,
+    "date_started": "2025-07-23",
+    "date_updated": "2025-08-06",
+    "description": "Multi-agent LLM ensemble for automated zero-day vulnerability detection.   Thompson Sampling optimization, 21+ evidence sources, 5 specialized   agents.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lodetomasi/zero-day-llm-ensemble",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "zero-day-llm-ensemble",
+    "repo_owner": "lodetomasi",
+    "repotime": "2025-08-06, 08:47:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-08-05",
+    "date_updated": "2025-08-05",
+    "description": "A comprehensive machine learning-based system for detecting zero-day attacks in network traffic using LSTM Autoencoders, real-time packet analysis, and interactive visualizations.",
+    "forks_count": 0,
+    "html_url": "https://github.com/TaNiShK1911/Zero-Day-Detection",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "Zero-Day-Detection",
+    "repo_owner": "TaNiShK1911",
+    "repotime": "2025-08-05, 22:55:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-06-14",
+    "date_updated": "2025-08-05",
+    "description": "YanLib is a native Windows library built on modern C++ RAII paradigms. It guarantees zero-resource-leak through automated resource management while preserving native performance with memory safety.",
+    "forks_count": 0,
+    "html_url": "https://github.com/BinRacer/YanLib",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C++",
+    "repo_name": "YanLib",
+    "repo_owner": "BinRacer",
+    "repotime": "2025-08-05, 18:06:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 711,
+    "date_started": "2022-04-19",
+    "date_updated": "2025-08-04",
+    "description": "Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.",
+    "forks_count": 42,
+    "html_url": "https://github.com/Ostorlab/KEV",
+    "keywords": [
+        "0day vulnerability",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "KEV",
+    "repo_owner": "Ostorlab",
+    "repotime": "2025-08-04, 16:06:06",
+    "stargazers_count": 581,
+    "watchers_count": 581
+}
+{
+    "commits_count": 114,
+    "date_started": "2025-05-17",
+    "date_updated": "2025-08-04",
+    "description": "A collection of detailed, hands-on write-ups for Hack The Box (HTB) machines that I’ve rooted. Each write-up is a real-world walkthrough of how I approached, enumerated, exploited, and escalated privileges on vulnerable boxes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Raihan93-coder/HTB-writeups",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "HTB-writeups",
+    "repo_owner": "Raihan93-coder",
+    "repotime": "2025-08-04, 17:46:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 22,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-08-03",
+    "description": "This repository contains a kernel exploit for PlayStation 4 firmware 6.72. The exploit leverages a vulnerability in the system kernel to achieve privilege escalation, allowing execution of unsigned code and jailbreak functionalities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yonicodedemon/yg",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "yg",
+    "repo_owner": "Yonicodedemon",
+    "repotime": "2025-08-03, 10:43:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1799,
+    "date_started": "2019-07-24",
+    "date_updated": "2025-08-01",
+    "description": "渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
+    "forks_count": 2014,
+    "html_url": "https://github.com/Mr-xn/Penetration_Testing_POC",
+    "keywords": [
+        "rce poc",
+        "rce exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "Penetration_Testing_POC",
+    "repo_owner": "Mr-xn",
+    "repotime": "2025-08-01, 21:54:23",
+    "stargazers_count": 7002,
+    "watchers_count": 7002
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-08-01",
+    "date_updated": "2025-08-01",
+    "description": "a dynamic analysis tool that detects memory errors by intercepting and monitoring every memory operation in your program",
+    "forks_count": 0,
+    "html_url": "https://github.com/im4vk/MemoryLeakToolkit",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Rust",
+    "repo_name": "MemoryLeakToolkit",
+    "repo_owner": "im4vk",
+    "repotime": "2025-08-01, 16:44:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 320,
+    "date_started": "2017-02-07",
+    "date_updated": "2025-08-01",
+    "description": "The best tool for finding one gadget RCE in libc.so.6",
+    "forks_count": 145,
+    "html_url": "https://github.com/david942j/one_gadget",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "one_gadget",
+    "repo_owner": "david942j",
+    "repotime": "2025-08-01, 09:37:24",
+    "stargazers_count": 2211,
+    "watchers_count": 2211
+}

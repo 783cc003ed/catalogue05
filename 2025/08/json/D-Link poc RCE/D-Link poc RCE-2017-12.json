@@ -1,0 +1,52 @@
+{
+    "commits_count": 4,
+    "date_started": "2017-12-26",
+    "date_updated": "2017-12-26",
+    "description": "A python RCE exploit on QNAP-QTS ",
+    "forks_count": 9,
+    "html_url": "https://github.com/0xneox/QNAP-QTS-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "QNAP-QTS-RCE",
+    "repo_owner": "0xneox",
+    "repotime": "2017-12-26, 15:27:38",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-12-12",
+    "date_updated": "2017-12-18",
+    "description": "Proof of concept written in Python to show that in some situations a SSRF vulnerability can be used to steal NTLMv1/v2 hashes.",
+    "forks_count": 10,
+    "html_url": "https://github.com/blazeinfosec/ssrf-ntlm",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "ssrf-ntlm",
+    "repo_owner": "blazeinfosec",
+    "repotime": "2017-12-18, 18:39:41",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-12-19",
+    "date_updated": "2017-12-15",
+    "description": "CVE-2017-15944 Palo Alto Networks firewalls remote root code execution POC",
+    "forks_count": 6,
+    "html_url": "https://github.com/xxnbyy/CVE-2017-15944-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-15944-POC",
+    "repo_owner": "xxnbyy",
+    "repotime": "2017-12-15, 10:57:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

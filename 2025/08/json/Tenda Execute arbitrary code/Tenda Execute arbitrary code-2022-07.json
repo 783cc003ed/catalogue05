@@ -1,0 +1,653 @@
+{
+    "commits_count": 3,
+    "date_started": "2022-07-30",
+    "date_updated": "2022-07-29",
+    "description": "Use an Arduino Micro as a hard coded password type. Like the static password functionality of the Yubikey, but less secure.",
+    "forks_count": 0,
+    "html_url": "https://github.com/elliot-huffman/Discount-Hardware-Key",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "C++",
+    "repo_name": "Discount-Hardware-Key",
+    "repo_owner": "elliot-huffman",
+    "repotime": "2022-07-29, 17:36:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-07-20",
+    "date_updated": "2022-07-29",
+    "description": "A tool for developing bad character-free shellcode to bypass DEP with WriteProcessMemory (32-bit only)",
+    "forks_count": 8,
+    "html_url": "https://github.com/ommadawn46/win-x86-shellcoder",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Python",
+    "repo_name": "win-x86-shellcoder",
+    "repo_owner": "ommadawn46",
+    "repotime": "2022-07-29, 22:29:24",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-05-14",
+    "date_updated": "2022-07-27",
+    "description": "🚧 C&amp;&#35;35; UAC Bypass technique using mock directories 🚧",
+    "forks_count": 7,
+    "html_url": "https://github.com/catzsec/UACBypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "UACBypass",
+    "repo_owner": "catzsec",
+    "repotime": "2022-07-27, 18:30:49",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-27",
+    "description": "UAC bypass for x64 Windows 7 - 11",
+    "forks_count": 156,
+    "html_url": "https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "iscsicpl_bypassUAC",
+    "repo_owner": "hackerhouse-opensource",
+    "repotime": "2022-07-27, 10:48:24",
+    "stargazers_count": 811,
+    "watchers_count": 811
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-05-29",
+    "date_updated": "2022-07-24",
+    "description": "An unrestricted file upload vulnerability in the Add New Assets function of Strapi v4.1.12 allows attackers to execute arbitrary code via a crafted file.",
+    "forks_count": 1,
+    "html_url": "https://github.com/bypazs/CVE-2022-32114",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32114",
+    "repo_owner": "bypazs",
+    "repotime": "2022-07-24, 14:17:02",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-06-07",
+    "date_updated": "2022-07-24",
+    "description": "Exploit for CVE-2022-26134: Confluence Pre-Auth Remote Code Execution via OGNL Injection   ",
+    "forks_count": 3,
+    "html_url": "https://github.com/whokilleddb/CVE-2022-26134-Confluence-RCE",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26134-Confluence-RCE",
+    "repo_owner": "whokilleddb",
+    "repotime": "2022-07-24, 07:12:44",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 15,
+    "date_started": "2022-06-28",
+    "date_updated": "2022-07-23",
+    "description": "Extract metadata with SSRF (Server-Side Request Forgery)",
+    "forks_count": 6,
+    "html_url": "https://github.com/akincibor/SSRFexploit",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "SSRFexploit",
+    "repo_owner": "akincibor",
+    "repotime": "2022-07-23, 12:18:18",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 130,
+    "date_started": "2021-05-24",
+    "date_updated": "2022-07-21",
+    "description": "A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I've written to be used in conjunction with these exploits.",
+    "forks_count": 14,
+    "html_url": "https://github.com/forrest-orr/Exploits",
+    "keywords": [
+        "uaf poc",
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "Windows uaf exploit",
+        "Windows uaf poc"
+    ],
+    "language": "C",
+    "repo_name": "Exploits",
+    "repo_owner": "forrest-orr",
+    "repotime": "2022-07-21, 03:01:37",
+    "stargazers_count": 121,
+    "watchers_count": 121
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-07-21",
+    "date_updated": "2022-07-21",
+    "description": "Msfconsole Exploit",
+    "forks_count": 2,
+    "html_url": "https://github.com/krdsploit/Remote-Code-Execution-PHP",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "Remote-Code-Execution-PHP",
+    "repo_owner": "krdsploit",
+    "repotime": "2022-07-21, 01:18:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2020-07-22",
+    "date_updated": "2022-07-18",
+    "description": "Network cybersecurity scripts written in Python, including MAC address changer, Network scanner, ARP spoofer, Packet sniffer, DNS spoofer, File interceptor, Code injector, Vulnerability Scanner, Backdoor, and more. Request for more functionality.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sheldon-Pang/Network-Security-Tools-Python",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Network-Security-Tools-Python",
+    "repo_owner": "Sheldon-Pang",
+    "repotime": "2022-07-18, 20:52:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-18",
+    "description": "A pre-authenticated RCE exploit for Inductive Automation Ignition",
+    "forks_count": 9,
+    "html_url": "https://github.com/sourceincite/randy",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "randy",
+    "repo_owner": "sourceincite",
+    "repotime": "2022-07-18, 11:12:27",
+    "stargazers_count": 45,
+    "watchers_count": 45
+}
+{
+    "commits_count": 436,
+    "date_started": "2017-03-09",
+    "date_updated": "2022-07-14",
+    "description": "for mass exploiting",
+    "forks_count": 155,
+    "html_url": "https://github.com/jm33-m0/mec",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "mec",
+    "repo_owner": "jm33-m0",
+    "repotime": "2022-07-14, 22:35:25",
+    "stargazers_count": 605,
+    "watchers_count": 605
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-14",
+    "description": "A simple python script to detect host header injections for both HTTP/HTTPS hostnames from a csv database.",
+    "forks_count": 0,
+    "html_url": "https://github.com/DHIRAL2908/Host-header-injection-checker",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "Host-header-injection-checker",
+    "repo_owner": "DHIRAL2908",
+    "repotime": "2022-07-14, 19:07:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-09-16",
+    "date_updated": "2022-07-14",
+    "description": "Cross-Side Scripting Payloads",
+    "forks_count": 0,
+    "html_url": "https://github.com/utkarsh-repo/xss-Payload",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "xss-Payload",
+    "repo_owner": "utkarsh-repo",
+    "repotime": "2022-07-14, 15:19:27",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 138,
+    "date_started": "2016-06-16",
+    "date_updated": "2022-07-14",
+    "description": "🇺🇦 Windows driver with usermode interface which can hide processes, file-system and registry objects, protect processes and etc",
+    "forks_count": 500,
+    "html_url": "https://github.com/JKornev/hidden",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C",
+    "repo_name": "hidden",
+    "repo_owner": "JKornev",
+    "repotime": "2022-07-14, 00:48:44",
+    "stargazers_count": 1932,
+    "watchers_count": 1932
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-07-13",
+    "date_updated": "2022-07-13",
+    "description": "A One Click Remote Code Execution PoC",
+    "forks_count": 1,
+    "html_url": "https://github.com/SleepTheGod/1ClickRCE",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "1ClickRCE",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2022-07-13, 11:58:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-07-13",
+    "date_updated": "2022-07-13",
+    "description": "spring data mongodb remote code execution | cve-2022-22980 poc",
+    "forks_count": 1,
+    "html_url": "https://github.com/Vulnmachines/Spring_cve-2022-22980",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "Spring_cve-2022-22980",
+    "repo_owner": "Vulnmachines",
+    "repotime": "2022-07-13, 19:43:51",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-07-13",
+    "date_updated": "2022-07-13",
+    "description": "Privesc &amp;quot;Done Right&amp;quot; is the collection of my personal notes of Windows/Linux Privilege Escalation techniques",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dirac231/PrivescDR",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "PrivescDR",
+    "repo_owner": "Dirac231",
+    "repotime": "2022-07-13, 15:07:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-11-03",
+    "date_updated": "2022-07-12",
+    "description": "CVE-2021-42669 - Remote code execution via unrestricted file upload vulnerability in the Engineers online portal system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xDeku/CVE-2021-42669",
+    "keywords": [
+        "remote code execution vulnerability",
+        "unrestricted file upload"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-42669",
+    "repo_owner": "0xDeku",
+    "repotime": "2022-07-12, 23:00:14",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-07-05",
+    "date_updated": "2022-07-12",
+    "description": "Unauthenticated Remote Code Execution for rpc.py server",
+    "forks_count": 2,
+    "html_url": "https://github.com/ehtec/rpcpy-exploit",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "rpcpy-exploit",
+    "repo_owner": "ehtec",
+    "repotime": "2022-07-12, 21:52:03",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 33,
+    "date_started": "2018-08-11",
+    "date_updated": "2022-07-11",
+    "description": "This tool generates gopher link for exploiting SSRF and gaining RCE in various servers",
+    "forks_count": 393,
+    "html_url": "https://github.com/tarunkant/Gopherus",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Gopherus",
+    "repo_owner": "tarunkant",
+    "repotime": "2022-07-11, 17:41:56",
+    "stargazers_count": 3159,
+    "watchers_count": 3159
+}
+{
+    "commits_count": 24,
+    "date_started": "2021-09-27",
+    "date_updated": "2022-07-11",
+    "description": "Bypass Windows UAC Tool",
+    "forks_count": 4,
+    "html_url": "https://github.com/ElliotAlderson51/Bypass-UAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Bypass-UAC",
+    "repo_owner": "ElliotAlderson51",
+    "repotime": "2022-07-11, 11:10:09",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-10-13",
+    "date_updated": "2022-07-11",
+    "description": "Keycloak 12.0.1 - 'request_uri ' Blind Server-Side Request Forgery (SSRF) (Unauthenticated) ",
+    "forks_count": 5,
+    "html_url": "https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "Keycloak-12.0.1-CVE-2020-10770",
+    "repo_owner": "ColdFusionX",
+    "repotime": "2022-07-11, 11:01:21",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-03-23",
+    "date_updated": "2022-07-10",
+    "description": "Sample code for my Pluralsight course on XML External Entity, XML Bomb and Deserialization attacks in .NET",
+    "forks_count": 0,
+    "html_url": "https://github.com/DavidCBerry13/XmlAndDeserializationAttacksCourse",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "JavaScript",
+    "repo_name": "XmlAndDeserializationAttacksCourse",
+    "repo_owner": "DavidCBerry13",
+    "repotime": "2022-07-10, 18:21:00",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 20,
+    "date_started": "2022-05-17",
+    "date_updated": "2022-07-10",
+    "description": "Our project aims to analyze and obtain an options investment strategy, having the Oil Futures (WTI Crude Oil) as underlying. The analysis is based on a Monte Carlo simulation that takes the historical data of the underlying from Yahoo Finance; it calculates its historical volatility and indicates its latest price (May 9, 2020). On the basis of the prices, the risk free rate and the maturity taken as reference (17 June 2020), it carries out “i” simulations, for a predetermined number of steps, estimating the average price at maturity. After running the Monte Carlo simulation, through the Black-Scholes-Merton model, we calculate the price of the options with the data of May 9, 2020. We also present an alternative calculation through the Black model (which are almost equal). Once the prices of the options have been calculated, we have evaluated which strategy to implement based on the options available on the market. We therefore opted for a Put Spread Ratio strategy which consists of buy...",
+    "forks_count": 3,
+    "html_url": "https://github.com/giuseppecangemi/quantfinance",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Python",
+    "repo_name": "quantfinance",
+    "repo_owner": "giuseppecangemi",
+    "repotime": "2022-07-10, 20:12:33",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-03-24",
+    "date_updated": "2022-07-10",
+    "description": "Amazon announced a new device called the Glow during its fall product launch event, a $250 video chatting gadget that allows children to virtually interact with loved ones by playing games and reading books together. Although the company has been selling the Echo Dot Kids Edition for years, it's rare for Amazon to develop an entirely new device designed specifically for children.   While it's new for Amazon, the general concept behind Glow might sound familiar -- especially if you've ever used the storytelling app Caribu or the Osmo brand of educational tablet accessories. That's because although they're different products, they share a lot of underlying qualities with Amazon's Glow. Caribu is designed to help kids play games and read stories with relatives remotely through an interactive video chatting platform, and Osmo is all about incorporating real-world game pieces into educational games you can play on a tablet.   Read more: Amazon unwraps privacy features as it tries to roll de...",
+    "forks_count": 0,
+    "html_url": "https://github.com/frankienhayesa/glowing-computing-machine",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": null,
+    "repo_name": "glowing-computing-machine",
+    "repo_owner": "frankienhayesa",
+    "repotime": "2022-07-10, 09:49:24",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-05-10",
+    "date_updated": "2022-07-09",
+    "description": "A &amp;quot;Exposed Dangerous Method or Function&amp;quot; or &amp;quot;Use of Hard-coded, Security-relevant Constants&amp;quot; vulnerability in PrintixService.exe, in Kofax Printix's &amp;quot;Printix Secure Cloud Print Management&amp;quot;, Version 1.3.1156.0 and below allows a Local Or Remote attacker the ability to override the &amp;quot;ProgramDir&amp;quot; registry value and point it to a directory that contains a malicious PrintixServiceTask.xml file. This allows an attacker the ability to escalate their privileges to a system session.",
+    "forks_count": 2,
+    "html_url": "https://github.com/ComparedArray/printix-CVE-2022-29553",
+    "keywords": [
+        "session vulnerability",
+        "escalation of privileges vulnerability",
+        "session attack"
+    ],
+    "language": "C#",
+    "repo_name": "printix-CVE-2022-29553",
+    "repo_owner": "ComparedArray",
+    "repotime": "2022-07-09, 16:16:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2022-07-04",
+    "date_updated": "2022-07-08",
+    "description": "A proof-of-concept way to forward a VNC websocket from proxmox to an unauthenticated PVE user",
+    "forks_count": 1,
+    "html_url": "https://github.com/WillNilges/proxstar-vnc-forwarder",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "proxstar-vnc-forwarder",
+    "repo_owner": "WillNilges",
+    "repotime": "2022-07-08, 14:19:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-07-08",
+    "date_updated": "2022-07-08",
+    "description": "Skip to content arysandi/kumpulan kode di termux Created 3 years ago • Report abuse Code Revisions 1 Stars 105 Forks 8 kumpulan kode di termux KUMPULAN CODE TERMUX LENGKAP   | SPAM CHAT WHATSAPP || nggk usah nyepam gw -_*   atau hp lu gw ledakin!!&amp;&#35;35;@vms $ pkg update &amp;amp;&amp;amp; pkg upgrade Setelah mengupdate dan mengupgrade termux ketikan perintah berikut : $ pkg install python2 (y/n pilih y) $ pkg install php (y/n pilih y) $ pkg install git (y/n pilih y) Setalah mengikuti perintah di atas waktu-nya kita clonning tool-nya : $ git clone https://github.com/siputra12/prank.git Setelah proses cloning selesai kita move on dari perintah di atas dan ketikan perintah ini : $ cd prank $ ls $ php wa.php Kemudian masukan Nomor WhatsApp yang kalian ingin spam contoh : 085710917169 kemudian enter pada pilihan y/n pilih y .. .welcome back to me catatan:)....  &amp;&#35;35;@vms          &amp;quot; jngan lupa subcribe pak *VEMAS DARK* -_-...  (:&amp;quot; &amp;quot;phising game&amp;quot; (mobile legends dan clash of clan) ...",
+    "forks_count": 6,
+    "html_url": "https://github.com/Rizalcahdemak/akun-termux",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "akun-termux",
+    "repo_owner": "Rizalcahdemak",
+    "repotime": "2022-07-08, 21:53:55",
+    "stargazers_count": 104,
+    "watchers_count": 104
+}
+{
+    "commits_count": 103,
+    "date_started": "2022-07-04",
+    "date_updated": "2022-07-07",
+    "description": "【Lazy Artifact】A graphical tool that collects urls in batches, and performs various nday detections on the collected urls in batches. It can be used for src mining, cnvd mining, 0day exploitation, building your own arsenal and other scenarios.",
+    "forks_count": 13,
+    "html_url": "https://github.com/W01fh4cker/Serein_Linux",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Serein_Linux",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2022-07-07, 11:24:07",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-07-06",
+    "date_updated": "2022-07-06",
+    "description": "The report &amp;quot;Global In-Vehicle Infotainment Market, By Vehicle Type (Passenger Cars and Commercial Vehicles), By Device Type (Bluetooth, Wi-Fi, and Long Term Evolution (LTE)), By Technology (Embedded Telematics, Tethered Telematics, and Integrated Telematics), and By Region (North America, Europe, Asia Pacific, Latin America, and Middle East &amp;amp; Africa) - Trends, Analysis and Forecast till 2030. High demand for rear-seat entertainment and smart cars coupled with a high rate of adoption of infotainment technology are the factors driving the growth of the global in-vehicle infotainment market. In the era of mobile phones and computers, customers demand more human-machine interface and low power usage from automobiles. To meet this needs of consumers, infotainment technology plays an important role in serving out with the best solutions for customers. Companies are focusing on various developments such as the Windows Embedded Automotive 7 platform developed by Microsoft and Atom pro...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Aduli113/In-Vehicle-Infotainment-Market",
+    "keywords": [
+        "Windows rce",
+        "Windows remote code execution analysis",
+        "Microsoft rce",
+        "Microsoft remote code execution analysis",
+        "remote code execution analysis",
+        "rce analysis",
+        "Windows remote code execution"
+    ],
+    "language": null,
+    "repo_name": "In-Vehicle-Infotainment-Market",
+    "repo_owner": "Aduli113",
+    "repotime": "2022-07-06, 10:03:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-06-24",
+    "date_updated": "2022-07-06",
+    "description": "Exploit code for Jira Mobile Rest Plugin SSRF (CVE-2022-26135)",
+    "forks_count": 18,
+    "html_url": "https://github.com/assetnote/jira-mobile-ssrf-exploit",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "jira-mobile-ssrf-exploit",
+    "repo_owner": "assetnote",
+    "repotime": "2022-07-06, 07:13:41",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}
+{
+    "commits_count": 15,
+    "date_started": "2022-05-31",
+    "date_updated": "2022-07-05",
+    "description": "A cheatsheet for exploiting server-side SVG rasterization. ",
+    "forks_count": 5,
+    "html_url": "https://github.com/yuriisanin/svg2raster-cheatsheet",
+    "keywords": [
+        "rce dos",
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "svg2raster-cheatsheet",
+    "repo_owner": "yuriisanin",
+    "repotime": "2022-07-05, 19:32:25",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-03-16",
+    "date_updated": "2022-07-05",
+    "description": "Multi-objective Log message Format Identification ",
+    "forks_count": 8,
+    "html_url": "https://github.com/SNTSVV/MoLFI",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "MoLFI",
+    "repo_owner": "SNTSVV",
+    "repotime": "2022-07-05, 17:09:36",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-07-05",
+    "date_updated": "2022-07-05",
+    "description": "Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE).",
+    "forks_count": 2,
+    "html_url": "https://github.com/Debajyoti0-0/CVE-2022-26134",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "Debajyoti0-0",
+    "repotime": "2022-07-05, 15:10:39",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 37,
+    "date_started": "2011-08-24",
+    "date_updated": "2022-07-03",
+    "description": "Secure session class (with Memcached extension class) that uses sha256 to generate signatures, preventing session hijacking.",
+    "forks_count": 2,
+    "html_url": "https://github.com/onassar/PHP-SecureSessions",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "PHP-SecureSessions",
+    "repo_owner": "onassar",
+    "repotime": "2022-07-03, 12:00:21",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-09-07",
+    "date_updated": "2022-07-03",
+    "description": "Code execution via corrupting mmap malloc chunks with ASLR bypass",
+    "forks_count": 2,
+    "html_url": "https://github.com/mdulin2/house-of-muney",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "C",
+    "repo_name": "house-of-muney",
+    "repo_owner": "mdulin2",
+    "repotime": "2022-07-03, 05:58:01",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}

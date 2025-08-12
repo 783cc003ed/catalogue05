@@ -1,0 +1,107 @@
+{
+    "commits_count": 19,
+    "date_started": "2020-07-06",
+    "date_updated": "2024-11-28",
+    "description": " A proof-of-concept Remote Desktop (RDP) session hijack utility",
+    "forks_count": 82,
+    "html_url": "https://github.com/bohops/SharpRDPHijack",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C#",
+    "repo_name": "SharpRDPHijack",
+    "repo_owner": "bohops",
+    "repotime": "2024-11-28, 01:08:58",
+    "stargazers_count": 487,
+    "watchers_count": 487
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-11-22",
+    "date_updated": "2024-11-22",
+    "description": "simple authentication system made with nextjs for session hijacking attack simulation",
+    "forks_count": 0,
+    "html_url": "https://github.com/AgungSukaAFK/simple-dvwa-auth-",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "TypeScript",
+    "repo_name": "simple-dvwa-auth-",
+    "repo_owner": "AgungSukaAFK",
+    "repotime": "2024-11-22, 21:07:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 40,
+    "date_started": "2021-04-22",
+    "date_updated": "2024-11-19",
+    "description": "Collection of Windows Privilege Escalation (Analyse/PoC/Exploit)",
+    "forks_count": 79,
+    "html_url": "https://github.com/ycdxsb/WindowsPrivilegeEscalation",
+    "keywords": [
+        "Win escalation of privileges poc",
+        "escalation of privileges poc",
+        "Win escalation of privileges",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges poc",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "WindowsPrivilegeEscalation",
+    "repo_owner": "ycdxsb",
+    "repotime": "2024-11-19, 21:39:12",
+    "stargazers_count": 420,
+    "watchers_count": 420
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-18",
+    "date_updated": "2024-11-18",
+    "description": "Source code of exploit for buffer overflow in Epp.sys kernel driver. This exploit leverages that buffer overflow to escalate privileges",
+    "forks_count": 0,
+    "html_url": "https://github.com/Amunius/EppLPE",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "C++",
+    "repo_name": "EppLPE",
+    "repo_owner": "Amunius",
+    "repotime": "2024-11-18, 15:23:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 269,
+    "date_started": "2021-09-08",
+    "date_updated": "2024-11-05",
+    "description": "Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022",
+    "forks_count": 75,
+    "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Automated-MUlti-UAC-Bypass",
+    "repo_owner": "x0xr00t",
+    "repotime": "2024-11-05, 13:45:21",
+    "stargazers_count": 447,
+    "watchers_count": 447
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-06-13",
+    "date_updated": "2024-11-02",
+    "description": "This project simulates the effects of a buffer overflow and privilege escalation attack on a Windows system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lyamss/Hakai",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C#",
+    "repo_name": "Hakai",
+    "repo_owner": "lyamss",
+    "repotime": "2024-11-02, 19:16:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

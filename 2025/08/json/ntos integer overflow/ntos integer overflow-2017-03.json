@@ -1,0 +1,85 @@
+{
+    "commits_count": 121,
+    "date_started": "2014-11-01",
+    "date_updated": "2017-03-31",
+    "description": "Sharing Economy app for college students built for UAF-Microsoft Hackathon. Built using Ionic with full JS Stack ",
+    "forks_count": 3,
+    "html_url": "https://github.com/qwo/itsdoneapp",
+    "keywords": [
+        "Microsoft uaf"
+    ],
+    "language": "JavaScript",
+    "repo_name": "itsdoneapp",
+    "repo_owner": "qwo",
+    "repotime": "2017-03-31, 11:25:39",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 19,
+    "date_started": "2016-11-20",
+    "date_updated": "2017-03-25",
+    "description": "SQL injection vulnerabilities in Stack Overflow PHP questions",
+    "forks_count": 22,
+    "html_url": "https://github.com/laurent22/so-sql-injections",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "so-sql-injections",
+    "repo_owner": "laurent22",
+    "repotime": "2017-03-25, 16:16:34",
+    "stargazers_count": 171,
+    "watchers_count": 171
+}
+{
+    "commits_count": 38,
+    "date_started": "2016-02-21",
+    "date_updated": "2017-03-14",
+    "description": "Rx based event bus that doesn't leak memory",
+    "forks_count": 0,
+    "html_url": "https://github.com/hansenji/PocketBus",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "Java",
+    "repo_name": "PocketBus",
+    "repo_owner": "hansenji",
+    "repotime": "2017-03-14, 09:27:09",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 235,
+    "date_started": "2012-10-31",
+    "date_updated": "2017-03-13",
+    "description": "Dynamic Code Injection Tool for Objective-C",
+    "forks_count": 121,
+    "html_url": "https://github.com/DyCI/dyci-main",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "dyci-main",
+    "repo_owner": "DyCI",
+    "repotime": "2017-03-13, 22:48:27",
+    "stargazers_count": 1116,
+    "watchers_count": 1116
+}
+{
+    "commits_count": 50,
+    "date_started": "2016-05-30",
+    "date_updated": "2017-03-04",
+    "description": "&amp;quot;Repeater&amp;quot; style XSS post-exploitation tool for mass browser control. Primarily a PoC to show why HttpOnly flag isn't a complete protection against session hijacking via XSS",
+    "forks_count": 48,
+    "html_url": "https://github.com/Danladi/HttpPwnly",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "HTML",
+    "repo_name": "HttpPwnly",
+    "repo_owner": "Danladi",
+    "repotime": "2017-03-04, 20:54:55",
+    "stargazers_count": 136,
+    "watchers_count": 136
+}

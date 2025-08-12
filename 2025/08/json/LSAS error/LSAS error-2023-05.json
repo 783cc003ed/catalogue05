@@ -1,0 +1,331 @@
+{
+    "commits_count": 7,
+    "date_started": "2023-02-16",
+    "date_updated": "2023-05-31",
+    "description": "Zero-day Vulnerability in ZKTEco biometric fingerprint reader.",
+    "forks_count": 1,
+    "html_url": "https://github.com/HritikThapa7/CVE-2023-31711",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-31711",
+    "repo_owner": "HritikThapa7",
+    "repotime": "2023-05-31, 22:00:36",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 69,
+    "date_started": "2021-03-05",
+    "date_updated": "2023-05-30",
+    "description": "Secure router with XSS and CSRF",
+    "forks_count": 144,
+    "html_url": "https://github.com/phprouter/main",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "main",
+    "repo_owner": "phprouter",
+    "repotime": "2023-05-30, 11:30:34",
+    "stargazers_count": 549,
+    "watchers_count": 549
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-05-30",
+    "date_updated": "2023-05-30",
+    "description": "the proof of concept written in Python for an unauthenticated malicious user can use a path traversal vulnerability to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups. This is a critical severity issue ",
+    "forks_count": 1,
+    "html_url": "https://github.com/Tornad0007/CVE-2023-2825-Gitlab",
+    "keywords": [
+        "path traversal vulnerability",
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-2825-Gitlab",
+    "repo_owner": "Tornad0007",
+    "repotime": "2023-05-30, 12:35:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-05-11",
+    "date_updated": "2023-05-27",
+    "description": "NYCU - Computer Security Capstone - Project01",
+    "forks_count": 0,
+    "html_url": "https://github.com/blunkx/IPsec-Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C",
+    "repo_name": "IPsec-Session-Hijacking",
+    "repo_owner": "blunkx",
+    "repotime": "2023-05-27, 11:21:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2019-02-26",
+    "date_updated": "2023-05-26",
+    "description": "A script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.",
+    "forks_count": 89,
+    "html_url": "https://github.com/RhinoSecurityLabs/GCPBucketBrute",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "GCPBucketBrute",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2023-05-26, 12:11:42",
+    "stargazers_count": 531,
+    "watchers_count": 531
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-05-25",
+    "date_updated": "2023-05-26",
+    "description": " web vulnerability scanner that performs concurrent scanning of multiple URLs for common vulnerabilities such as SQL injection, cross-site scripting (XSS), and directory traversal.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ihrishikesh0896/web-vulnerability-scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "web-vulnerability-scanner",
+    "repo_owner": "ihrishikesh0896",
+    "repotime": "2023-05-26, 01:10:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2022-05-28",
+    "date_updated": "2023-05-23",
+    "description": "Dll injection through code page id modification in registry. Based on jonas lykk research",
+    "forks_count": 26,
+    "html_url": "https://github.com/NtQuerySystemInformation/NlsCodeInjectionThroughRegistry",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "NlsCodeInjectionThroughRegistry",
+    "repo_owner": "NtQuerySystemInformation",
+    "repotime": "2023-05-23, 15:44:15",
+    "stargazers_count": 119,
+    "watchers_count": 119
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-05-21",
+    "date_updated": "2023-05-21",
+    "description": "Unauthenticated Remote Code Execution in PyLoad &amp;lt;0.5.0b3.dev31",
+    "forks_count": 3,
+    "html_url": "https://github.com/JacobEbben/CVE-2023-0297",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-0297",
+    "repo_owner": "JacobEbben",
+    "repotime": "2023-05-21, 19:15:18",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-05-18",
+    "date_updated": "2023-05-20",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/elliSzAt/XML-external-entity-XXE-injection",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XML-external-entity-XXE-injection",
+    "repo_owner": "elliSzAt",
+    "repotime": "2023-05-20, 18:17:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 392,
+    "date_started": "2021-03-27",
+    "date_updated": "2023-05-20",
+    "description": "How to develop your own zero day vulnerabilities for iOS",
+    "forks_count": 1,
+    "html_url": "https://github.com/faisalmemon/the-road-to-zero",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "TeX",
+    "repo_name": "the-road-to-zero",
+    "repo_owner": "faisalmemon",
+    "repotime": "2023-05-20, 09:44:26",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 22,
+    "date_started": "2023-05-05",
+    "date_updated": "2023-05-16",
+    "description": "Lfi Scan Tool",
+    "forks_count": 18,
+    "html_url": "https://github.com/capture0x/Lfi-Space",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "Lfi-Space",
+    "repo_owner": "capture0x",
+    "repotime": "2023-05-16, 07:51:05",
+    "stargazers_count": 110,
+    "watchers_count": 110
+}
+{
+    "commits_count": 40,
+    "date_started": "2022-07-03",
+    "date_updated": "2023-05-12",
+    "description": "Full disclosures for CVE ids, proofs of concept, exploits, 0day bugs and so on.",
+    "forks_count": 17,
+    "html_url": "https://github.com/j00sean/SecBugs",
+    "keywords": [
+        "0day exploit",
+        "0day proof of concept",
+        "0day disclosure",
+        "0day exploitation"
+    ],
+    "language": "HTML",
+    "repo_name": "SecBugs",
+    "repo_owner": "j00sean",
+    "repotime": "2023-05-12, 12:22:27",
+    "stargazers_count": 112,
+    "watchers_count": 112
+}
+{
+    "commits_count": 16,
+    "date_started": "2015-12-18",
+    "date_updated": "2023-05-11",
+    "description": "Nodejs application intentionally vulnerable to SSRF",
+    "forks_count": 11,
+    "html_url": "https://github.com/sethsec/Nodejs-SSRF-App",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Nodejs-SSRF-App",
+    "repo_owner": "sethsec",
+    "repotime": "2023-05-11, 20:55:25",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-05-12",
+    "date_updated": "2023-05-11",
+    "description": "F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB",
+    "forks_count": 6,
+    "html_url": "https://github.com/Zeyad-Azima/CVE-2022-1388",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2022-1388",
+    "repo_owner": "Zeyad-Azima",
+    "repotime": "2023-05-11, 10:54:53",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-08-13",
+    "date_updated": "2023-05-06",
+    "description": "[Archived] GPU Drops' captcha solving extension without affiliate tracking code injection",
+    "forks_count": 16,
+    "html_url": "https://github.com/Sqaaakoi/legacy-noptcha-patch-archived",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "legacy-noptcha-patch-archived",
+    "repo_owner": "Sqaaakoi",
+    "repotime": "2023-05-06, 19:47:08",
+    "stargazers_count": 196,
+    "watchers_count": 196
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-04-10",
+    "date_updated": "2023-05-05",
+    "description": "A rust static analysis tool for checking memory safety bug, eg. use after free, double free and dangling pointer ",
+    "forks_count": 0,
+    "html_url": "https://github.com/olleh-dlrow/rust-memory-check",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Rust",
+    "repo_name": "rust-memory-check",
+    "repo_owner": "olleh-dlrow",
+    "repotime": "2023-05-05, 09:33:37",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-01-05",
+    "date_updated": "2023-05-03",
+    "description": "PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti &amp;lt;= 1.2.22",
+    "forks_count": 8,
+    "html_url": "https://github.com/sAsPeCt488/CVE-2022-46169",
+    "keywords": [
+        "unauthenticated rce",
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-46169",
+    "repo_owner": "sAsPeCt488",
+    "repotime": "2023-05-03, 19:50:34",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 218,
+    "date_started": "2016-07-11",
+    "date_updated": "2023-05-02",
+    "description": " QRLJacking or Quick Response Code Login Jacking is a simple-but-nasty attack vector affecting all the applications that relays on “Login with QR code” feature as a secure way to login into accounts which aims for hijacking users session by attackers.",
+    "forks_count": 642,
+    "html_url": "https://github.com/OWASP/QRLJacking",
+    "keywords": [
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "QRLJacking",
+    "repo_owner": "OWASP",
+    "repotime": "2023-05-02, 22:17:30",
+    "stargazers_count": 1420,
+    "watchers_count": 1420
+}
+{
+    "commits_count": 34,
+    "date_started": "2023-04-30",
+    "date_updated": "2023-05-01",
+    "description": "GregsBestFriend process injection code created from the White Knight Labs Offensive Development course",
+    "forks_count": 35,
+    "html_url": "https://github.com/WKL-Sec/GregsBestFriend",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "GregsBestFriend",
+    "repo_owner": "WKL-Sec",
+    "repotime": "2023-05-01, 07:08:58",
+    "stargazers_count": 193,
+    "watchers_count": 193
+}

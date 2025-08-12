@@ -1,0 +1,1712 @@
+{
+    "commits_count": 41,
+    "date_started": "2022-12-12",
+    "date_updated": "2022-12-30",
+    "description": "This repository contains proof of concept for zero days and CVEs that were found by Omar Hashem through Security Research",
+    "forks_count": 21,
+    "html_url": "https://github.com/omarhashem123/Security-Research",
+    "keywords": [
+        "0day proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Security-Research",
+    "repo_owner": "omarhashem123",
+    "repotime": "2022-12-30, 19:26:22",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "In Eclipse Sphinx™ before version 0.13.1, Apache Xerces XML Parser was used without disabling processing of referenced external entities allowing the injection of arbitrary definitions which is able to access local files and expose their contents via HTTP requests. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-2838",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-2838",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 07:04:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "IBM MQ 8.0, (9.0, 9.1, 9.2 LTS), and (9.1 and 9.2 CD) are vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 226339. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-22489",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-22489",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 05:40:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "There is a code injection vulnerability in Esri Portal for ArcGIS versions 10.8.1 and below that may allow a remote, unauthenticated attacker to pass strings which could potentially cause arbitrary code execution. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38193",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38193",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 02:14:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 &amp;amp; 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-22911",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-22911",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 02:09:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "A SQL injection vulnerability in license_update.php in Mumara Classic through 2.93 allows a remote unauthenticated attacker to execute arbitrary SQL commands via the license parameter. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-43329",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-43329",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 02:07:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-30",
+    "description": "Memory leak in RTPS protocol dissector in Wireshark 3.4.0 and 3.2.0 to 3.2.8 allows denial of service via packet injection or crafted capture file. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-26420",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-26420",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 00:44:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-30",
+    "description": "Memory leak in Kafka protocol dissector in Wireshark 3.4.0 and 3.2.0 to 3.2.8 allows denial of service via packet injection or crafted capture file. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-26418",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-26418",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 00:44:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-30",
+    "description": "Memory leak in the dissection engine in Wireshark 3.4.0 allows denial of service via packet injection or crafted capture file. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-26419",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-26419",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 00:44:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "In MtkEmail, there is a possible escalation of privilege due to fragment injection. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07216598; Issue ID: ALPS07216598. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-26469",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-26469",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 22:39:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "The WP Users Exporter plugin for WordPress is vulnerable to CSV Injection in versions up to, and including, 1.4.2 via the 'Export Users' functionality. This makes it possible for authenticated attackers, such as a subscriber, to add untrusted input into profile information like First Names that will embed into the expo CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3026",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3026",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 22:39:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "The Ultimate SMS Notifications for WooCommerce plugin for WordPress is vulnerable to CSV Injection in versions up to, and including, 1.4.1 via the 'Export Utility' functionality. This makes it possible for authenticated attackers, such as a subscriber, to add untrusted input into billing information like their First Na CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-2429",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-2429",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:12:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Go before 1.14.14 and 1.15.x before 1.15.7 on Windows is vulnerable to Command Injection and remote code execution when using the &amp;quot;go get&amp;quot; command to fetch modules that make use of cgo (for example, cgo can execute a gcc program from an untrusted download). CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-3115",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-3115",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:58:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Digiwin BPM has a XML External Entity Injection (XXE) vulnerability due to insufficient validation for user input. An unauthenticated remote attacker can perform XML injection attack to access arbitrary system files. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32458",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32458",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:58:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A Host Header Injection vulnerability in Feehi CMS 2.1.1 may allow an attacker to spoof a particular header. This can be exploited by abusing password reset emails. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38796",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38796",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:10:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "CSV Injection in Create Contacts in EspoCRM 7.1.8 allows remote authenticated users to run system commands via creating contacts with payloads capable of executing system commands. Admin user exporting contacts in CSV file may end up executing the malicious system commands on his system. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38844",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38844",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 18:34:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "The Affiliates Manager WordPress plugin before 2.9.14 does not validate and sanitise the affiliate data, which could allow users registering as affiliate to perform CSV injection attacks against an admin exporting the data CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-2798",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-2798",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 17:50:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "The Mobile Events Manager WordPress plugin before 1.4.8 does not properly escape the Enquiry source field when exporting events, or the Paid for field when exporting transactions as CSV, leading to a CSV injection vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-1194",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-1194",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 17:49:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "The Ketchup Restaurant Reservations WordPress plugin through 1.0.0 does not validate and escape some reservation parameters before using them in SQL statements, which could allow unauthenticated attackers to perform SQL Injection attacks CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-2754",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-2754",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 17:02:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "This vulnerability of SecureGate is SQL-Injection using login without password. A path traversal vulnerability is also identified during file transfer. An attacker can take advantage of these vulnerabilities to perform various attacks such as obtaining privileges and executing remote code, thereby taking over the victi CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-23767",
+    "keywords": [
+        "path traversal vulnerability",
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-23767",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 15:43:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "In NOKIA 1350 OMS R14.2, multiple OS Command Injection vulnerabilities occurs. This vulnerability allow unauthenticated users to execute commands on the operating system. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39815",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39815",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 15:01:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Authenticated (author+) CSV Injection vulnerability in Export Post Info plugin &amp;lt;= 1.2.0 at WordPress. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38061",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38061",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 13:33:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "IBM Sterling Partner Engagement Manager 6.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 230017. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34348",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34348",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 13:29:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "ZKTeco Xiamen Information Technology ZKBio Time 8.0.7 Build: 20220721.14829 was discovered to contain a CSV injection vulnerability. This vulnerability allows attackers to execute arbitrary code via a crafted payload injected into the Content text field of the Add New Message module. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-40472",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-40472",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 11:32:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Spring Web Services, versions 2.4.3, 3.0.4, and older unsupported versions of all three projects, were susceptible to XML External Entity Injection (XXE) when receiving XML data from untrusted sources. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-3773",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-3773",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 10:43:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A stored CSV Injection vulnerability was reported in Lenovo XClarity Administrator (LXCA) versions prior to 2.5.0 that could allow an administrative user to store malformed data in LXCA Jobs and Event Log data, that could result in crafted formulas stored in an exported CSV file. The crafted formula is not executed on  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-6182",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-6182",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 05:17:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Archery v1.4.0 to v1.8.5 was discovered to contain a SQL injection vulnerability via the ThreadIDs parameter in the create_kill_session interface. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38540",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38540",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 04:29:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "In Splunk Enterprise versions before 8.1.2, the uri path to load a relative resource within a web page is vulnerable to path traversal. It allows an attacker to potentially inject arbitrary content into the web page (e.g., HTML Injection, XSS) or bypass SPL safeguards for risky commands. The attack is browser-based. An CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-26889",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-26889",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 03:07:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "The Import all XML, CSV &amp;amp; TXT WordPress plugin before 6.5.8 does not properly sanitise and escape imported data before using them back SQL statements, leading to SQL injection exploitable by high privilege users such as admin CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3243",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3243",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 01:51:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2022-12-29",
+    "description": "Multiple vulnerabilities in the web-based management interface of the Cisco Catalyst Passive Optical Network (PON) Series Switches Optical Network Terminal (ONT) could allow an unauthenticated, remote attacker to perform the following actions: Log in with a default credential if the Telnet protocol is enabled Perform c CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/karamMahmad/CVE-2021-40113",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-40113",
+    "repo_owner": "karamMahmad",
+    "repotime": "2022-12-29, 00:25:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the Remote Server functionality of Dream Report ODS Remote Connector 20.2.16900.0. A specially-crafted command injection can lead to elevated capabilities. An attacker can provide a malicious file to trigger this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-21957",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-21957",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 00:24:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-29",
+    "description": "Multiple vulnerabilities in the web-based management interface of Cisco Intersight Virtual Appliance could allow an authenticated, remote attacker to conduct a path traversal or command injection attack on an affected system. These vulnerabilities are due to insufficient input validation. An attacker could exploit thes CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-1617",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-1617",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 00:20:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-29",
+    "description": "Multiple vulnerabilities in the web-based management interface of Cisco Intersight Virtual Appliance could allow an authenticated, remote attacker to conduct a path traversal or command injection attack on an affected system. These vulnerabilities are due to insufficient input validation. An attacker could exploit thes CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-1618",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-1618",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 00:20:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Multiple vulnerabilities in the Cisco ATA 190 Series Analog Telephone Adapter Software could allow an attacker to perform a command injection attack resulting in remote code execution or cause a denial of service (DoS) condition on an affected device. For more information about these vulnerabilities, see the Details se CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-34710",
+    "keywords": [
+        "remote code execution denial of service",
+        "remote code execution dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-34710",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 23:46:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The Post to CSV by BestWebSoft WordPress plugin through 1.4.0 does not properly escape fields when exporting data as CSV, leading to a CSV injection CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3393",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3393",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 22:23:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "fexsrv in F*EX (aka Frams' Fast File EXchange) before fex-20160919_2 allows eval injection (for unauthenticated remote code execution). CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-15591",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-15591",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 21:36:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Due to improper input validation in the Feathers js library, it is possible to perform a SQL injection attack on the back-end database, in case the feathers-sequelize package is used. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-2422",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-2422",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 18:51:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Multiple vulnerabilities in Cisco Unified Communications Manager IM &amp;amp;amp; Presence Service (Unified CM IM&amp;amp;amp;P) could allow an attacker to conduct path traversal attacks and SQL injection attacks on an affected system. One of the SQL injection vulnerabilities that affects Unified CM IM&amp;amp;amp;P also affects Cisco Unified CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-1357",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-1357",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 18:04:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Due to improper sanitization MedData HBYS software suffers from a remote SQL injection vulnerability. An unauthenticated attacker with the web access is able to extract critical information from the system. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-43362",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-43362",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 18:04:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The LearnPress WordPress plugin before 4.1.7.2 unserialises user input in a REST API endpoint available to unauthenticated users, which could lead to PHP Object Injection when a suitable gadget is present, leadint to remote code execution (RCE). To successfully exploit this vulnerability attackers must have knowledge o CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3360",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3360",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 16:49:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Unrestricted Upload of File with Dangerous Type vulnerability in OpenNebula OpenNebula core on Linux allows File Content Injection. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-37426",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-37426",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 16:43:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The application was identified to have an CSV injection in data export functionality, allowing for malicious code to be embedded within export data and then triggered in exported data viewers. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-40294",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-40294",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 15:58:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A SQL injection vulnerability in the height and width parameter in NdkAdvancedCustomizationFields v3.5.0 allows unauthenticated attackers to exfiltrate database data. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-40839",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-40839",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 15:22:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "IBM Cognos Analytics 11.1.7, 11.2.0, and 11.2.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 233571. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36773",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36773",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 15:17:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "&amp;quot;IBM InfoSphere Information Server 11.7 is potentially vulnerable to CSV Injection. A remote attacker could execute arbitrary commands on the system, caused by improper validation of csv file contents. IBM X-Force ID: 223598.&amp;quot; CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-22425",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-22425",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 14:41:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "&amp;quot;IBM InfoSphere Information Server 11.7 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 236584.&amp;quot; CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-40747",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-40747",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 14:38:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "In Splunk Enterprise versions below 8.1.12, 8.2.9, and 9.0.2, an authenticated user can perform an extensible markup language (XML) external entity (XXE) injection via a custom View. The XXE injection causes Splunk Web to embed incorrect documents into an error. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-43570",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-43570",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:12:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "CSV Injection vulnerability in Activity Log Team Activity Log &amp;lt;= 2.8.3 on WordPress. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-27858",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-27858",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 12:36:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The Contact Form Plugin WordPress plugin before 4.3.13 does not validate and escape fields when exporting form entries as CSV, leading to a CSV injection CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3463",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3463",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 12:30:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "XML injection in the Intel(R) Quartus Prime Pro and Standard edition software may allow an unauthenticated user to potentially enable information disclosure via network access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-27233",
+    "keywords": [
+        "unauthenticated user",
+        "unauthenticated disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-27233",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 10:29:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The WPForms Pro WordPress plugin before 1.7.7 does not validate its form data when generating the exported CSV, which could lead to CSV injection. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3574",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3574",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 09:45:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "kkFileView v4.1.0 was discovered to contain a Server-Side Request Forgery (SSRF) via the component cn.keking.web.controller.OnlinePreviewController&amp;&#35;35;getCorsFile. This vulnerability allows attackers to force the application to make arbitrary requests via injection of crafted URLs into the url parameter. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-43140",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-43140",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 07:40:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Auth. (subscriber+) CSV Injection vulnerability in ProfileGrid plugin &amp;lt;= 5.1.6 on WordPress. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-41791",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-41791",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 06:23:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Sourcecodester Event Registration App v1.0 was discovered to contain multiple CSV injection vulnerabilities via the First Name, Contact and Remarks fields. These vulnerabilities allow attackers to execute arbitrary code via a crafted excel file. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-44830",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-44830",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 05:43:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The Contact Form 7 Database Addon WordPress plugin before 1.2.6.5 does not validate data when output it back in a CSV file, which could lead to CSV injection CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3634",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3634",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 05:43:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The Easy Digital Downloads WordPress plugin before 3.1.0.2 does not validate data when its output in a CSV file, which could lead to CSV injection. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3600",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3600",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 05:43:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Sourcegraph is a code intelligence platform. In versions prior to 4.1.0 a command Injection vulnerability existed in the gitserver service, present in all Sourcegraph deployments. This vulnerability was caused by a lack of input validation on the host parameter of the `/list-gitolite` endpoint. It was possible to send  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-41942",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-41942",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 05:34:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "An issue was discovered in Kaseya Unitrends Backup Appliance before 10.5.5. Two unauthenticated SQL injection vulnerabilities were discovered, allowing arbitrary SQL queries to be injected and executed under the postgres superuser account. Remote code execution was possible, leading to full access to the postgres user  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-43035",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-43035",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:53:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The Export customers list csv for WooCommerce, WordPress users csv, export Guest customer list WordPress plugin before 2.0.69 does not validate data when outputting it back in a CSV file, which could lead to CSV injection. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3603",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3603",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 03:38:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The Appointment Hour Booking Plugin for WordPress is vulnerable to CSV Injection in versions up to, and including, 1.3.72. This makes it possible for unauthenticated attackers to embed untrusted input into content during booking creation that may be exported as a CSV file when a site's administrator exports booking det CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-4034",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-4034",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 02:55:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "IBM Security Access Manager for Enterprise Single Sign-On 8.2.2 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 164555. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-4513",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-4513",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 02:08:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "IBM Business Automation Workflow 18.0.0.0, 18.0.0.1, 18.0.0.2, 19.0.0.1, and 19.0.0.2 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 162770. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-4424",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-4424",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 02:07:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "IBM Security Guardium Big Data Intelligence 4.0 (SonarG) is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 161419. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-4340",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-4340",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 02:07:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "IBM InfoSphere Global Name Management 5.0 and 6.0 and IBM InfoSphere Identity Insight 8.1 and 9.0 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 16289 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-4433",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-4433",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 02:07:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "IBM Sterling B2B Integrator Standard Edition 5.2.0 snf 6.0.0.0 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 156239. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-4043",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-4043",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 01:28:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-28",
+    "description": "The WP CSV Exporter WordPress plugin before 1.3.7 does not properly sanitise and escape some parameters before using them in a SQL statement, allowing high privilege users such as admin to perform SQL injection attacks CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3249",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3249",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 00:06:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-28",
+    "description": "IBM Daeja ViewONE Professional, Standard &amp;amp; Virtual 5.0.5 and 5.0.6 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 163620. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-4456",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-4456",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 00:01:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An XML external entity (XXE) injection vulnerability in Kwoksys Kwok Information Server before v2.9.5.SP31 allows remote authenticated users to conduct server-side request forgery (SSRF) attacks. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-45326",
+    "keywords": [
+        "xml external entity",
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-45326",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 22:38:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the openvpnServer0_tmp= parameter in the &amp;quot;/goform/net\\_Web\\_get_value CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-14432",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-14432",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 21:59:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the CN= parm in the &amp;quot;/goform/net_WebCSRGen&amp;quot; uri to trigger this vulne CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-12125",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-12125",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 21:59:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the remoteNetmask0= parameter in the &amp;quot;/goform/net\\_Web\\_get_value&amp;quot; ur CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-14434",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-14434",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 21:58:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the remoteNetwork0= parameter in the &amp;quot;/goform/net\\_Web\\_get_value&amp;quot; ur CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-14433",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-14433",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 21:58:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Improper Input Validation vulnerability in LiteSpeed Technologies OpenLiteSpeed Web Server and LiteSpeed Web Server dashboards allows Command Injection. This affects 1.7.0 versions before 1.7.16.1. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-0073",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-0073",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 21:16:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "IBM API Connect V10.0.0.0 through V10.0.5.0, V10.0.1.0 through V10.0.1.7, and V2018.4.1.0 through 2018.4.1.19 is vulnerable to HTTP header injection, caused by improper validation of input by the HOST headers. This could allow an attacker to conduct various attacks against the vulnerable system, including cross-site sc CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-38997",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-38997",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 18:37:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "There is a command injection vulnerability that could lead to unauthenticated remote code execution by sending specially crafted packets destined to the PAPI (Aruba Networks AP management protocol) UDP port (8211). Successful exploitation of this vulnerability results in the ability to execute arbitrary code as a privi CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-37897",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-37897",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 18:35:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Interspire Email Marketer through 6.5.1 allows SQL Injection via the surveys module. An unauthenticated attacker could successfully perform an attack to extract potentially sensitive information from the database if the survey id exists. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-44790",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-44790",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 18:29:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation, resulting in a root shell. An attacker can inject OS commands into the ip= parm in the &amp;quot;/goform/net_WebPingGetValue&amp;quot; URI to trigger t CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-12120",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-12120",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 18:28:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the rsakey\\_name= parm in the &amp;quot;/goform/WebRSAKEYGen&amp;quot; uri to trigger t CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-12121",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-12121",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 18:28:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Cross-site Scripting (XSS) is a client-side code injection attack. The attacker aims to execute malicious scripts in a web browser of the victim by including malicious code in a legitimate web page or web application. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3853",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3853",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 17:51:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "The Dokan WordPress plugin before 3.7.6 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by unauthenticated users CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3915",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3915",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 17:49:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "The WP CSV Exporter WordPress plugin before 1.3.7 does not properly escape the fields when exporting data as CSV, leading to a CSV injection vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3605",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3605",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 17:10:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "A vulnerability has been identified in Polarion ALM (All versions). The affected application contains a Host header injection vulnerability that could allow an attacker to spoof a Host header information and redirect users to malicious websites. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-46265",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-46265",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 17:06:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "The “puhttpsniff” service, which runs by default, is susceptible to command injection due to improperly sanitized user input. An unauthenticated attacker on the same network segment as the router can execute arbitrary commands on the device without authentication. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-47208",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-47208",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 15:14:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Improper Input Validation vulnerability in OTRS AG OTRS, OTRS AG ((OTRS)) Community Edition allows SQL Injection via TicketSearch Webservice This issue affects OTRS: from 7.0.1 before 7.0.40 Patch 1, from 8.0.1 before 8.0.28 Patch 1; ((OTRS)) Community Edition: from 6.0.1 through 6.0.34. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-4427",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-4427",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 15:09:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "The TablePress plugin 1.9.2 for WordPress allows tablepress[data] CSV injection by Editor users. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-20180",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-20180",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 15:07:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "The WooCommerce Dropshipping WordPress plugin before 4.4 does not properly sanitise and escape a parameter before using it in a SQL statement via a REST endpoint available to unauthenticated users, leading to a SQL injection CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3481",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3481",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 14:26:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An authenticated user can perform XML eXternal Entity injection in Management Console in Symantec Identity Manager 14.4 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-25628",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-25628",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 13:09:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Adobe Campaign version 7.3.1 (and earlier) and 8.3.9 (and earlier) are affected by a Server-Side Request Forgery (SSRF) vulnerability that could lead to arbitrary file system read. A low-privilege authenticated attacker can force the application to make arbitrary requests via injection of arbitrary URLs. Exploitation o CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42343",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42343",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 13:07:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An XML external entity (XXE) injection vulnerability in XML-RPC.NET before 2.5.0 allows remote authenticated users to conduct server-side request forgery (SSRF) attacks, as demonstrated by a pingback.aspx POST request. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-47514",
+    "keywords": [
+        "xml external entity",
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-47514",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 12:26:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "The JoomSport WordPress plugin before 5.2.8 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by unauthenticated users CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-4050",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-4050",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 12:23:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "A command injection vulnerability exists in Rocket.Chat-Desktop &amp;lt;3.8.14 that could allow an attacker to pass a malicious url of openInternalVideoChatWindow to shell.openExternal(), which may lead to remote code execution (internalVideoChatWindow.ts&amp;&#35;35;L17). To exploit the vulnerability, the internal video chat window must CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-44567",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution exploit",
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-44567",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 11:00:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "The IWS WordPress plugin through 1.0 does not properly escape a parameter before using it in a SQL statement via an AJAX action available to unauthenticated users, leading to an unauthenticated SQL injection. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-4117",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-4117",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 09:36:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "A SQL injection issue in the web API in TrueConf Server 5.2.0.10225 allows remote unauthenticated attackers to execute arbitrary SQL commands, ultimately leading to remote code execution. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-46764",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-46764",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 09:33:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-11-07",
+    "date_updated": "2022-12-19",
+    "description": "A bunch of Docker images vulnerable to privilege escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/DreadFog/privesc_challenges",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "privesc_challenges",
+    "repo_owner": "DreadFog",
+    "repotime": "2022-12-19, 17:08:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-10-08",
+    "date_updated": "2022-12-18",
+    "description": "This code is the demonstration of using path traversal to exploit a poorly coded upload file fuction for malicious code injection on to a web server.",
+    "forks_count": 0,
+    "html_url": "https://github.com/faisalkhan91/Insecure-File-Extraction",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Insecure-File-Extraction",
+    "repo_owner": "faisalkhan91",
+    "repotime": "2022-12-18, 20:56:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-09-01",
+    "date_updated": "2022-12-14",
+    "description": "Injection code repository for https://github.com/addi00000/empyrean",
+    "forks_count": 8,
+    "html_url": "https://github.com/addi00000/empyrean-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "empyrean-injection",
+    "repo_owner": "addi00000",
+    "repotime": "2022-12-14, 10:48:16",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-12-12",
+    "date_updated": "2022-12-12",
+    "description": "VMware NSX Manager XStream Unauthenticated Remote Code Execution Exploit ",
+    "forks_count": 0,
+    "html_url": "https://github.com/MRvirusIR/VMware-NSX-Manager-XStream",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Hack",
+    "repo_name": "VMware-NSX-Manager-XStream",
+    "repo_owner": "MRvirusIR",
+    "repotime": "2022-12-12, 13:30:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 21,
+    "date_started": "2022-12-09",
+    "date_updated": "2022-12-11",
+    "description": "[PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom)",
+    "forks_count": 20,
+    "html_url": "https://github.com/yuriisanin/CVE-2022-45025",
+    "keywords": [
+        "rce poc",
+        "rce exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-45025",
+    "repo_owner": "yuriisanin",
+    "repotime": "2022-12-11, 14:37:22",
+    "stargazers_count": 90,
+    "watchers_count": 90
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-24",
+    "date_updated": "2022-12-08",
+    "description": "A POC for the new injection technique, abusing windows fork API to evade EDRs. https://www.blackhat.com/eu-22/briefings/schedule/index.html&amp;&#35;35;dirty-vanity-a-new-approach-to-code-injection--edr-bypass-28417",
+    "forks_count": 89,
+    "html_url": "https://github.com/deepinstinct/Dirty-Vanity",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "Dirty-Vanity",
+    "repo_owner": "deepinstinct",
+    "repotime": "2022-12-08, 02:18:38",
+    "stargazers_count": 646,
+    "watchers_count": 646
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-11-21",
+    "date_updated": "2022-12-03",
+    "description": "Druva inSync Windows Client 6.6.3 - Local Privilege Escalation (PowerShell) RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-",
+    "repo_owner": "yevh",
+    "repotime": "2022-12-03, 13:45:32",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

@@ -1,0 +1,289 @@
+{
+    "commits_count": 152,
+    "date_started": "2011-11-29",
+    "date_updated": "2021-09-29",
+    "description": "Convert Markdown to HTML, with XSS protection",
+    "forks_count": 396,
+    "html_url": "https://github.com/snoyberg/markdown",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Haskell",
+    "repo_name": "markdown",
+    "repo_owner": "snoyberg",
+    "repotime": "2021-09-29, 08:17:34",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-09-23",
+    "date_updated": "2021-09-27",
+    "description": "iOS exploit (fixed in 14.7)",
+    "forks_count": 44,
+    "html_url": "https://github.com/illusionofchaos/ios-analyticsd-pre14.7-exploit",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Swift",
+    "repo_name": "ios-analyticsd-pre14.7-exploit",
+    "repo_owner": "illusionofchaos",
+    "repotime": "2021-09-27, 20:48:45",
+    "stargazers_count": 175,
+    "watchers_count": 175
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-09-23",
+    "date_updated": "2021-09-27",
+    "description": "iOS 15 0-day exploit (still works in 15.0.2)",
+    "forks_count": 57,
+    "html_url": "https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Swift",
+    "repo_name": "ios-nehelper-enum-apps-0day",
+    "repo_owner": "illusionofchaos",
+    "repotime": "2021-09-27, 20:48:38",
+    "stargazers_count": 171,
+    "watchers_count": 171
+}
+{
+    "commits_count": 36,
+    "date_started": "2015-09-18",
+    "date_updated": "2021-09-26",
+    "description": "Exploits by 1N3 @CrowdShield @xer0dayz @XeroSecurity",
+    "forks_count": 103,
+    "html_url": "https://github.com/1N3/Exploits",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Exploits",
+    "repo_owner": "1N3",
+    "repotime": "2021-09-26, 18:47:12",
+    "stargazers_count": 204,
+    "watchers_count": 204
+}
+{
+    "commits_count": 410,
+    "date_started": "2020-04-19",
+    "date_updated": "2021-09-25",
+    "description": "A phased, evasive Path Traversal + LFI scanning &amp;amp; exploitation tool in Python",
+    "forks_count": 24,
+    "html_url": "https://github.com/VainlyStrain/Vailyn",
+    "keywords": [
+        "lfi",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Vailyn",
+    "repo_owner": "VainlyStrain",
+    "repotime": "2021-09-25, 21:18:09",
+    "stargazers_count": 196,
+    "watchers_count": 196
+}
+{
+    "commits_count": 36,
+    "date_started": "2021-10-27",
+    "date_updated": "2021-09-24",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 11,
+    "html_url": "https://github.com/BrockOz/Final-Project",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution analysis",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "Final-Project",
+    "repo_owner": "BrockOz",
+    "repotime": "2021-09-24, 14:45:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-05-11",
+    "date_updated": "2021-09-21",
+    "description": "These are project resources for the live YouTube lectures. Includes dependency injection, git internals, code reviews and the system design contest.",
+    "forks_count": 81,
+    "html_url": "https://github.com/coding-parrot/youtube-projects",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "youtube-projects",
+    "repo_owner": "coding-parrot",
+    "repotime": "2021-09-21, 17:12:45",
+    "stargazers_count": 128,
+    "watchers_count": 128
+}
+{
+    "commits_count": 26,
+    "date_started": "2015-02-04",
+    "date_updated": "2021-09-20",
+    "description": "Static analysis tool for Golang that protects against SQL injections     ",
+    "forks_count": 46,
+    "html_url": "https://github.com/stripe-archive/safesql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "safesql",
+    "repo_owner": "stripe-archive",
+    "repotime": "2021-09-20, 17:02:47",
+    "stargazers_count": 562,
+    "watchers_count": 562
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-09-15",
+    "date_updated": "2021-09-15",
+    "description": " Automated Trading System (Stock Market) A Client-Server Based Trading System is to be designed with the following specifications. There will be a set of traders who will trade with each other in the automated system. There will be a Server which will register requests from traders for buying and selling quantities of Items. The Server will also match the buy with the sell requests from different traders based on certain price rules (as listed below). Traders will log on to the trading system through the trading client (assume Trader ID and password is stored in a file). They will have the option to view the currently available items (for buy/sell), their quantities and their prices. They will also send requests for buying and selling items and specify the quantity and price. Traders will also have the option to view their matched trades at any time. There are ten known items which the traders can trade in with their codes from 1 to 10. There will be a maximum of 5 traders (with codes ...",
+    "forks_count": 1,
+    "html_url": "https://github.com/vishal66959/Client-Server-Based-Automated-Trading-System-main",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "C",
+    "repo_name": "Client-Server-Based-Automated-Trading-System-main",
+    "repo_owner": "vishal66959",
+    "repotime": "2021-09-15, 12:31:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-07-03",
+    "date_updated": "2021-09-13",
+    "description": "PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits",
+    "forks_count": 40,
+    "html_url": "https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows lpe exploit",
+        "Windows rce",
+        "Windows lpe",
+        "Windows lpe vulnerability",
+        "Windows rce exploit",
+        "lpe vulnerability",
+        "rce exploitation",
+        "Windows rce proof of concept",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "rce proof of concept",
+        "rce vulnerability",
+        "lpe proof of concept",
+        "Windows lpe proof of concept",
+        "Windows rce vulnerability",
+        "lpe exploitation",
+        "rce exploit"
+    ],
+    "language": "C",
+    "repo_name": "PrintNightmare-CVE-2021-34527",
+    "repo_owner": "nemo-wq",
+    "repotime": "2021-09-13, 22:12:16",
+    "stargazers_count": 153,
+    "watchers_count": 153
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-09-07",
+    "date_updated": "2021-09-10",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Masum95/TCP-Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C",
+    "repo_name": "TCP-Session-Hijacking",
+    "repo_owner": "Masum95",
+    "repotime": "2021-09-10, 21:26:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-09-09",
+    "date_updated": "2021-09-10",
+    "description": "Übersicht remote command execution 0day exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/BoofSec/Ubersicht-rce-0day",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Ubersicht-rce-0day",
+    "repo_owner": "BoofSec",
+    "repotime": "2021-09-10, 08:45:09",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 18,
+    "date_started": "2020-04-02",
+    "date_updated": "2021-09-09",
+    "description": "Python bind shell single line code for both Unix and Windows, used to find and exploit RCE (ImageMagick, Ghostscript, ...)",
+    "forks_count": 8,
+    "html_url": "https://github.com/shelld3v/RCE-python-oneliner-payload",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows rce",
+        "rce exploitation",
+        "Windows rce exploit"
+    ],
+    "language": null,
+    "repo_name": "RCE-python-oneliner-payload",
+    "repo_owner": "shelld3v",
+    "repotime": "2021-09-09, 20:36:01",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-09-04",
+    "date_updated": "2021-09-04",
+    "description": "A Python replicated exploit for Webmin 1.580 /file/show.cgi Remote Code Execution",
+    "forks_count": 11,
+    "html_url": "https://github.com/JohnHammond/CVE-2012-2982",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2012-2982",
+    "repo_owner": "JohnHammond",
+    "repotime": "2021-09-04, 01:39:17",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-03-25",
+    "date_updated": "2021-09-04",
+    "description": "Vulnerability analysis and PoC for the Apache Tomcat - CGIServlet enableCmdLineArguments Remote Code Execution (RCE)",
+    "forks_count": 10,
+    "html_url": "https://github.com/jaiguptanick/CVE-2019-0232",
+    "keywords": [
+        "remote code execution analysis",
+        "rce analysis",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-0232",
+    "repo_owner": "jaiguptanick",
+    "repotime": "2021-09-04, 06:15:00",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}

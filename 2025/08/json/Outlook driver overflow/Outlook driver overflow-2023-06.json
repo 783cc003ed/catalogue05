@@ -1,0 +1,152 @@
+{
+    "commits_count": 10,
+    "date_started": "2023-06-28",
+    "date_updated": "2023-06-29",
+    "description": "Alpine hostapd-mana based RADIUS server",
+    "forks_count": 1,
+    "html_url": "https://github.com/sensepost/berate_radius",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Shell",
+    "repo_name": "berate_radius",
+    "repo_owner": "sensepost",
+    "repotime": "2023-06-29, 14:25:56",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 76,
+    "date_started": "2019-04-11",
+    "date_updated": "2023-06-22",
+    "description": "Exploit Development - Weaponized Exploit and Proof of Concepts (PoC) ",
+    "forks_count": 51,
+    "html_url": "https://github.com/VoidSec/Exploit-Development",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce poc",
+        "Windows lpe poc",
+        "Windows lpe exploit",
+        "Windows rce poc",
+        "rce exploit",
+        "0day poc",
+        "Windows rce",
+        "Windows lpe",
+        "0day proof of concept",
+        "lpe poc",
+        "Windows 0day exploit",
+        "rce exploitation",
+        "0day exploitation",
+        "Windows rce proof of concept",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Windows 0day proof of concept",
+        "Windows 0day exploitation",
+        "Windows 0day poc",
+        "Windows 0day",
+        "lpe proof of concept",
+        "0day exploit",
+        "rce proof of concept",
+        "Windows lpe proof of concept",
+        "Windows rce exploit",
+        "lpe exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Exploit-Development",
+    "repo_owner": "VoidSec",
+    "repotime": "2023-06-22, 22:49:44",
+    "stargazers_count": 228,
+    "watchers_count": 228
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-08-19",
+    "date_updated": "2023-06-20",
+    "description": "CVE-2018-19320 LPE Exploit",
+    "forks_count": 2,
+    "html_url": "https://github.com/hmnthabit/CVE-2018-19320-LPE",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2018-19320-LPE",
+    "repo_owner": "hmnthabit",
+    "repotime": "2023-06-20, 01:43:16",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 141,
+    "date_started": "2020-06-11",
+    "date_updated": "2023-06-17",
+    "description": "XRCross is a Reconstruction, Scanner, and a tool for penetration / BugBounty testing.  This tool was built to test (XSS|SSRF|CORS|SSTI|IDOR|RCE|LFI|SQLI) vulnerabilities",
+    "forks_count": 68,
+    "html_url": "https://github.com/pikpikcu/XRCross",
+    "keywords": [
+        "lfi",
+        "rce vulnerability",
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "XRCross",
+    "repo_owner": "pikpikcu",
+    "repotime": "2023-06-17, 23:38:40",
+    "stargazers_count": 337,
+    "watchers_count": 337
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-06-15",
+    "date_updated": "2023-06-15",
+    "description": "Used problem solving and reverse engineering to find the exploits for 10 binaries with ASLR turned on. Exploited the vulnerabilities in ASLR using Heap Buffer Overflows and Return Oriented Programming. Created the shellcode and deduced the NOP Slide required to overwrite the return address to point to the heap, text, data or bss regions.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ratangupta/Bypassing-ASLR",
+    "keywords": [
+        "aslr bypass exploitation",
+        "aslr bypass",
+        "aslr bypass exploit",
+        "aslr bypass vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Bypassing-ASLR",
+    "repo_owner": "ratangupta",
+    "repotime": "2023-06-15, 01:03:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-06-08",
+    "date_updated": "2023-06-08",
+    "description": "CVE-2023-21971 Connector/J RCE Analysis分析",
+    "forks_count": 2,
+    "html_url": "https://github.com/Avento/CVE-2023-21971_Analysis",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21971_Analysis",
+    "repo_owner": "Avento",
+    "repotime": "2023-06-08, 11:06:22",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 102,
+    "date_started": "2021-04-21",
+    "date_updated": "2023-06-02",
+    "description": "RevSuit is a flexible and powerful reverse connection platform designed for receiving connection from target host in penetration. ",
+    "forks_count": 68,
+    "html_url": "https://github.com/Li4n0/revsuit",
+    "keywords": [
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "revsuit",
+    "repo_owner": "Li4n0",
+    "repotime": "2023-06-02, 00:36:44",
+    "stargazers_count": 546,
+    "watchers_count": 546
+}

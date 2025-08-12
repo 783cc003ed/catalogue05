@@ -1,0 +1,171 @@
+{
+    "commits_count": 15,
+    "date_started": "2017-09-28",
+    "date_updated": "2017-08-29",
+    "description": "Powershell-based Windows Security Auditing Toolbox",
+    "forks_count": 1,
+    "html_url": "https://github.com/HarmJoy/WINspect",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "PowerShell",
+    "repo_name": "WINspect",
+    "repo_owner": "HarmJoy",
+    "repotime": "2017-08-29, 01:27:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2017-07-12",
+    "date_updated": "2017-08-24",
+    "description": "Linux based inter-process code injection without ptrace(2)",
+    "forks_count": 42,
+    "html_url": "https://github.com/AonCyberLabs/Cexigua",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Shell",
+    "repo_name": "Cexigua",
+    "repo_owner": "AonCyberLabs",
+    "repotime": "2017-08-24, 14:20:09",
+    "stargazers_count": 252,
+    "watchers_count": 252
+}
+{
+    "commits_count": 2,
+    "date_started": "2017-08-22",
+    "date_updated": "2017-08-22",
+    "description": "Setting Up an Angular 2 Environment Using Typescript, Npm and Webpack  PreviousNext  This Angular 2 tutorial serves for anyone looking to get up and running with Angular 2 and TypeScript fast. Angular 2 Beta  Udemy Last week I’ve read the great Angular 2 book from Ninja Squad. Therefore, I figured it was time to put pen to paper and start building Angular 2 applications using TypeScript. That’s why in this tutorial, we’ll learn how to start an Angular 2 project from scratch and go further by building a development environment with Webpack and more.  Getting Started  1. Developing and Building a TypeScript App Let’s start by building our first Angular 2 application using Typescript. First, make sure you have Node.js and npm installed. You can refer to the official website for more information about the installation procedure.  Then, install Typescript globally via npm by running the following command in your terminal :  1 2 3   npm install -g typescript   Once it is installed, we’ll set...",
+    "forks_count": 4,
+    "html_url": "https://github.com/krishnakumarsingh/angularjs2start",
+    "keywords": [
+        "Microsoft use after free",
+        "Chrome use after free"
+    ],
+    "language": null,
+    "repo_name": "angularjs2start",
+    "repo_owner": "krishnakumarsingh",
+    "repotime": "2017-08-22, 15:55:13",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 8,
+    "date_started": "2015-03-26",
+    "date_updated": "2017-08-15",
+    "description": "<no description>",
+    "forks_count": 27,
+    "html_url": "https://github.com/bluscreenofjeff/Metasploit-Resource-Scripts",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": null,
+    "repo_name": "Metasploit-Resource-Scripts",
+    "repo_owner": "bluscreenofjeff",
+    "repotime": "2017-08-15, 22:40:59",
+    "stargazers_count": 82,
+    "watchers_count": 82
+}
+{
+    "commits_count": 10,
+    "date_started": "2015-03-26",
+    "date_updated": "2017-08-15",
+    "description": "Scripts and resources for Red Teaming at CCDC competitions",
+    "forks_count": 26,
+    "html_url": "https://github.com/bluscreenofjeff/CCDC-Scripts",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Shell",
+    "repo_name": "CCDC-Scripts",
+    "repo_owner": "bluscreenofjeff",
+    "repotime": "2017-08-15, 22:40:08",
+    "stargazers_count": 101,
+    "watchers_count": 101
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-08-12",
+    "date_updated": "2017-08-12",
+    "description": "WordPress Plugin Advanced Video 1.0 - Local File Inclusion Update",
+    "forks_count": 1,
+    "html_url": "https://github.com/gtech/39646",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "39646",
+    "repo_owner": "gtech",
+    "repotime": "2017-08-12, 13:59:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-08-11",
+    "date_updated": "2017-08-09",
+    "description": "PoC - UAC bypass technique by James Forshaw",
+    "forks_count": 12,
+    "html_url": "https://github.com/SecurityResearchStaff/uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "uac",
+    "repo_owner": "SecurityResearchStaff",
+    "repotime": "2017-08-09, 07:58:42",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 28,
+    "date_started": "2017-03-08",
+    "date_updated": "2017-08-07",
+    "description": "The iOS Agent for the Needle Security Assessment Framework",
+    "forks_count": 21,
+    "html_url": "https://github.com/FSecureLABS/needle-agent",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Objective-C",
+    "repo_name": "needle-agent",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2017-08-07, 12:52:22",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-08-07",
+    "date_updated": "2017-08-07",
+    "description": "Tool is to check for Cache Deception Attack Both For Authenticated and UnAuthenticated Pages",
+    "forks_count": 22,
+    "html_url": "https://github.com/arbazkiraak/web-cache-deception-checker",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "web-cache-deception-checker",
+    "repo_owner": "arbazkiraak",
+    "repotime": "2017-08-07, 14:19:43",
+    "stargazers_count": 44,
+    "watchers_count": 44
+}
+{
+    "commits_count": 14,
+    "date_started": "2017-07-16",
+    "date_updated": "2017-08-02",
+    "description": "Burp extension to test for directory traversal attacks in insecure file uploads",
+    "forks_count": 6,
+    "html_url": "https://github.com/thec00n/Uploader",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": "Ruby",
+    "repo_name": "Uploader",
+    "repo_owner": "thec00n",
+    "repotime": "2017-08-02, 14:56:18",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

@@ -1,0 +1,558 @@
+{
+    "commits_count": 24,
+    "date_started": "2022-08-16",
+    "date_updated": "2022-11-30",
+    "description": "payMe is a technical solution initiated by some concerned Nigerians aimed to catalyze the innate desire in humans to fairly compete in an intellectual learning exercise. payMe is structured to more than engage users to learn but to incentivize users to be compelled to strive to achieve desired results on set targets. That in fact is the excelling value of payMe over competitions.  payMe is originally a web2 play-to-earn (P2E) gaming application upgraded to a hybrid platform by the adoption of the platform's native utility token for incentivizing success among the quizzers. Play-to-earn (P2E) games are online games that guarantee rewards with real-world value to players for completing given task in a contest with other players. It comes with different structure and rewarding system. In the blockchain ecosystem, these rewards can be in the form of in-game assets like crypto tokens, virtual land, as well as the game assets (weapons, tools etc.) and other NFTs. The advent of web3 and its d...",
+    "forks_count": 3,
+    "html_url": "https://github.com/payMeQuiz/payMe-Project",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "payMe-Project",
+    "repo_owner": "payMeQuiz",
+    "repotime": "2022-11-30, 10:20:49",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-02-07",
+    "date_updated": "2022-11-28",
+    "description": "一个包含php,java,python,C&amp;&#35;35;等各种语言版本的XXE漏洞Demo",
+    "forks_count": 182,
+    "html_url": "https://github.com/c0ny1/xxe-lab",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "xxe-lab",
+    "repo_owner": "c0ny1",
+    "repotime": "2022-11-28, 20:56:03",
+    "stargazers_count": 798,
+    "watchers_count": 798
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-03",
+    "date_updated": "2022-11-24",
+    "description": "Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6 ",
+    "forks_count": 1,
+    "html_url": "https://github.com/corelight/CVE-2022-3602",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Zeek",
+    "repo_name": "CVE-2022-3602",
+    "repo_owner": "corelight",
+    "repotime": "2022-11-24, 15:17:49",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-11-22",
+    "date_updated": "2022-11-22",
+    "description": "Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp;amp; Remote Code Execution PoC (CVE-2021-41773 &amp;amp; CVE-2021-42013)",
+    "forks_count": 0,
+    "html_url": "https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution",
+    "repo_owner": "blackn0te",
+    "repotime": "2022-11-22, 22:42:10",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-06-23",
+    "date_updated": "2022-11-21",
+    "description": "A small and fast bash script to automate LFI vulnerability.",
+    "forks_count": 9,
+    "html_url": "https://github.com/machine1337/lfiscan",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Shell",
+    "repo_name": "lfiscan",
+    "repo_owner": "machine1337",
+    "repotime": "2022-11-21, 11:51:49",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-11-20",
+    "date_updated": "2022-11-22",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/jesen9/session_hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "session_hijacking",
+    "repo_owner": "jesen9",
+    "repotime": "2022-11-22, 00:44:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2022-11-04",
+    "date_updated": "2022-11-21",
+    "description": "Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability) ",
+    "forks_count": 2,
+    "html_url": "https://github.com/cryxnet/CVE-2022-42889-RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-42889-RCE",
+    "repo_owner": "cryxnet",
+    "repotime": "2022-11-21, 11:16:57",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-11-20",
+    "date_updated": "2022-11-21",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/bPapan/TCP-Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "TCP-Session-Hijacking",
+    "repo_owner": "bPapan",
+    "repotime": "2022-11-21, 01:32:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-11-20",
+    "date_updated": "2022-11-20",
+    "description": "ARBITAR FILE UPLOAD LEADS TO &amp;quot;delete every file for Denial of Service (using 'rm -rf *.*' in the code), reverse connection (using '.asp' webshell), backdoor , Escalation of Privileges, etc&amp;quot;.",
+    "forks_count": 0,
+    "html_url": "https://github.com/huzaifahussain98/CVE-2020-23591",
+    "keywords": [
+        "escalation of privileges denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-23591",
+    "repo_owner": "huzaifahussain98",
+    "repotime": "2022-11-20, 23:17:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-04",
+    "date_updated": "2022-11-20",
+    "description": "Looking up pwned passwords the hard way - my first rust project so the code will be bad :)",
+    "forks_count": 0,
+    "html_url": "https://github.com/jordangomes/ispwned-rust",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Rust",
+    "repo_name": "ispwned-rust",
+    "repo_owner": "jordangomes",
+    "repotime": "2022-11-20, 13:45:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-19",
+    "date_updated": "2022-11-19",
+    "description": "A Command Line based python tool for exploit Zero-Day vulnerability in MSDT (Microsoft Support Diagnostic Tool) also know as 'Follina' CVE-2022-30190.",
+    "forks_count": 3,
+    "html_url": "https://github.com/0xAbbarhSF/FollinaXploit",
+    "keywords": [
+        "Microsoft zero-day exploit",
+        "Microsoft zero-day exploitation",
+        "Microsoft zero-day",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "Microsoft zero-day vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "FollinaXploit",
+    "repo_owner": "0xAbbarhSF",
+    "repotime": "2022-11-19, 19:41:57",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-08-05",
+    "date_updated": "2022-11-16",
+    "description": "VoteSystem1.0 has a vulnerability which allows an authenticated admin to upload a malicious  file and obtain a reverse shell/remote code execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Gurguii/-PoC-VotingSystem1.0-Authenticated-RCE-RSHELL",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "-PoC-VotingSystem1.0-Authenticated-RCE-RSHELL",
+    "repo_owner": "Gurguii",
+    "repotime": "2022-11-16, 20:11:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-10-17",
+    "date_updated": "2022-11-12",
+    "description": "&amp;&#35;35; TigerCite [TigerCite] Extension for citing websites in various formats  **The extension will be published on the Chrome Web Store and Firefox Add-ons   after a stable beta version is released.**      When it is published, it will be called `TigerCite` and will be free to use.  Feedback is appreciated, whether it's about the code or a suggestion",
+    "forks_count": 0,
+    "html_url": "https://github.com/Md-Sanaul-Haque-Shanto/TigerCite",
+    "keywords": [
+        "Chrome use after free"
+    ],
+    "language": null,
+    "repo_name": "TigerCite",
+    "repo_owner": "Md-Sanaul-Haque-Shanto",
+    "repotime": "2022-11-12, 22:42:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-05-17",
+    "date_updated": "2022-11-11",
+    "description": "Code for the IJCAI'19 paper  &amp;quot;Deep Session Interest Network for Click-Through Rate Prediction&amp;quot;",
+    "forks_count": 132,
+    "html_url": "https://github.com/shenweichen/DSIN",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "DSIN",
+    "repo_owner": "shenweichen",
+    "repotime": "2022-11-11, 13:11:13",
+    "stargazers_count": 445,
+    "watchers_count": 445
+}
+{
+    "commits_count": 33,
+    "date_started": "2020-09-22",
+    "date_updated": "2022-11-11",
+    "description": "Unrestricted File Upload in Simple Library Management System 1.0",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ko-kn3t/CVE-2020-25515",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-25515",
+    "repo_owner": "Ko-kn3t",
+    "repotime": "2022-11-11, 17:50:37",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 23,
+    "date_started": "2016-06-28",
+    "date_updated": "2022-11-09",
+    "description": "Started as arbitrary System Management Mode code execution exploit for Lenovo ThinkPad model line, ended as exploit for industry-wide 0day vulnerability in machines of many vendors",
+    "forks_count": 87,
+    "html_url": "https://github.com/Cr4sh/ThinkPwn",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": "C",
+    "repo_name": "ThinkPwn",
+    "repo_owner": "Cr4sh",
+    "repotime": "2022-11-09, 17:54:55",
+    "stargazers_count": 625,
+    "watchers_count": 625
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-11-09",
+    "date_updated": "2022-11-09",
+    "description": "The Digital Combo Lock is a device that allows a user to input 4-10 inputs  (hard coded by the programmer) and either unlocks if a correct input is placed or remains  locked if the password attempt was incorrect. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Cesar-Colina/Digital-Combination-Lock",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "C",
+    "repo_name": "Digital-Combination-Lock",
+    "repo_owner": "Cesar-Colina",
+    "repotime": "2022-11-09, 10:19:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 84,
+    "date_started": "2022-03-30",
+    "date_updated": "2022-11-09",
+    "description": "Spring4Shell Proof Of Concept/And vulnerable application CVE-2022-22965",
+    "forks_count": 108,
+    "html_url": "https://github.com/BobTheShoplifter/Spring4Shell-POC",
+    "keywords": [
+        "rce proof of concept",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Spring4Shell-POC",
+    "repo_owner": "BobTheShoplifter",
+    "repotime": "2022-11-09, 16:46:06",
+    "stargazers_count": 368,
+    "watchers_count": 368
+}
+{
+    "commits_count": 24,
+    "date_started": "2022-10-24",
+    "date_updated": "2022-11-09",
+    "description": "Oh no, stop this. You can see my local IP address 😲! Use `foundation` attribute against CRC32 lookup table to reveal local IP address of a Chrome/Chromium visitor.",
+    "forks_count": 5,
+    "html_url": "https://github.com/niespodd/webrtc-local-ip-leak",
+    "keywords": [
+        "Chromium address leak",
+        "Chrome address leak"
+    ],
+    "language": "HTML",
+    "repo_name": "webrtc-local-ip-leak",
+    "repo_owner": "niespodd",
+    "repotime": "2022-11-09, 09:45:09",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-05-23",
+    "date_updated": "2022-11-08",
+    "description": "Side-channel analysis on memory operations of Raspberry Pi 3.",
+    "forks_count": 0,
+    "html_url": "https://github.com/canaknesil/rpi3-memory-leakage",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Julia",
+    "repo_name": "rpi3-memory-leakage",
+    "repo_owner": "canaknesil",
+    "repotime": "2022-11-08, 12:17:58",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-11-05",
+    "date_updated": "2022-11-07",
+    "description": "CVE-2022-42889 (a.k.a. Text4Shell) RCE Proof of Concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/sunnyvale-it/CVE-2022-42889-PoC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2022-42889-PoC",
+    "repo_owner": "sunnyvale-it",
+    "repotime": "2022-11-07, 08:57:01",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-06",
+    "date_updated": "2022-11-07",
+    "description": "DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field",
+    "forks_count": 0,
+    "html_url": "https://github.com/HarleyDoo/CVE-2022-32548-RCE-POC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32548-RCE-POC",
+    "repo_owner": "HarleyDoo",
+    "repotime": "2022-11-07, 01:04:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-10-31",
+    "date_updated": "2022-11-05",
+    "description": "{VMware Cloud Foundation} remote code execution vulnerability via XStream (CVE-2021-39144)",
+    "forks_count": 5,
+    "html_url": "https://github.com/b3wT/CVE-2021-39144-XSTREAM-RCE",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-39144-XSTREAM-RCE",
+    "repo_owner": "b3wT",
+    "repotime": "2022-11-05, 10:39:37",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 0,
+    "date_started": "2017-04-06",
+    "date_updated": "2022-11-04",
+    "description": "Updated January 2016  Note on translation: These Website Terms of Service may have been translated into various languages for the convenience of Cash Loophole Users. While the translation is correct to the best of Cash Loophole knowledge, Cash Loophole is not responsible or liable in the event of an inaccuracy. English is the controlling language of these Terms of Service, and any translation has been prepared for you as a courtesy only. In the event of a conflict between the English-language version of these Terms of Service and a version that has been translated into another language, the English-language version shall control.  The Cash Loophole Website, is an online information service with downloadable software, provided by Cash Loophole, and is subject to the terms and conditions set forth below.  IMPORTANT: These terms and conditions constitute a legal agreement between you, the User (hereafter “You”, “Your”, or the “User”), and us, Cash Loophole, its affiliates, and all of thei...",
+    "forks_count": 0,
+    "html_url": "https://github.com/mdxedia/Awsome-Cash",
+    "keywords": [
+        "use after free exploit",
+        "use after free denial of service",
+        "hard coded password",
+        "use after free exploitation"
+    ],
+    "language": null,
+    "repo_name": "Awsome-Cash",
+    "repo_owner": "mdxedia",
+    "repotime": "2022-11-04, 23:24:51",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-09-30",
+    "date_updated": "2022-11-05",
+    "description": "Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG",
+    "forks_count": 1,
+    "html_url": "https://github.com/MSD-Gaming/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022",
+    "repo_owner": "MSD-Gaming",
+    "repotime": "2022-11-05, 02:58:16",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 28,
+    "date_started": "2022-04-20",
+    "date_updated": "2022-11-03",
+    "description": "Proof of concept code for Datadog Security Labs referenced exploits.",
+    "forks_count": 37,
+    "html_url": "https://github.com/DataDog/security-labs-pocs",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Shell",
+    "repo_name": "security-labs-pocs",
+    "repo_owner": "DataDog",
+    "repotime": "2022-11-03, 08:16:54",
+    "stargazers_count": 305,
+    "watchers_count": 305
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-08-31",
+    "date_updated": "2022-11-02",
+    "description": "Atomic swap proof of concept code",
+    "forks_count": 9,
+    "html_url": "https://github.com/GrinSwap/proof-of-concept",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Python",
+    "repo_name": "proof-of-concept",
+    "repo_owner": "GrinSwap",
+    "repotime": "2022-11-02, 08:25:30",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-09-06",
+    "date_updated": "2022-11-02",
+    "description": "A proof-of-concept jupyter extension which converts english queries into relevant python code",
+    "forks_count": 360,
+    "html_url": "https://github.com/deepklarity/jupyter-text2code",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "jupyter-text2code",
+    "repo_owner": "deepklarity",
+    "repotime": "2022-11-02, 07:05:23",
+    "stargazers_count": 2081,
+    "watchers_count": 2081
+}
+{
+    "commits_count": 3,
+    "date_started": "2013-03-22",
+    "date_updated": "2022-11-02",
+    "description": "Proof of concept Android WebView implementation based on Chromium code",
+    "forks_count": 445,
+    "html_url": "https://github.com/pwnall/chromeview",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Java",
+    "repo_name": "chromeview",
+    "repo_owner": "pwnall",
+    "repotime": "2022-11-02, 02:19:37",
+    "stargazers_count": 1673,
+    "watchers_count": 1673
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-10-13",
+    "date_updated": "2022-11-01",
+    "description": "SQLi in Daily Expense Manager 1.0 allows for injection of SQL queries, resulting in information disclosure and remote code execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/stefanhesselman/Daily-Expense-Manager-1.0-SQL-to-RCE",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "Daily-Expense-Manager-1.0-SQL-to-RCE",
+    "repo_owner": "stefanhesselman",
+    "repotime": "2022-11-01, 21:28:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-12-29",
+    "date_updated": "2022-11-01",
+    "description": "Executable that mutates its own code",
+    "forks_count": 106,
+    "html_url": "https://github.com/bytecode77/self-morphing-csharp-binary",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "C#",
+    "repo_name": "self-morphing-csharp-binary",
+    "repo_owner": "bytecode77",
+    "repotime": "2022-11-01, 11:16:54",
+    "stargazers_count": 341,
+    "watchers_count": 341
+}
+{
+    "commits_count": 3,
+    "date_started": "2016-10-22",
+    "date_updated": "2022-11-01",
+    "description": "Arbitrary SMM code execution exploit for industry-wide 0day vulnerability in AMI Aptio based firmwares",
+    "forks_count": 14,
+    "html_url": "https://github.com/Cr4sh/Aptiocalypsis",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Aptiocalypsis",
+    "repo_owner": "Cr4sh",
+    "repotime": "2022-11-01, 08:39:30",
+    "stargazers_count": 47,
+    "watchers_count": 47
+}

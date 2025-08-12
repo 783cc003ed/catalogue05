@@ -1,0 +1,436 @@
+{
+    "commits_count": 14,
+    "date_started": "2019-11-14",
+    "date_updated": "2021-12-31",
+    "description": "Blind SQL Injection Tool with Golang",
+    "forks_count": 24,
+    "html_url": "https://github.com/sadicann/andor",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "andor",
+    "repo_owner": "sadicann",
+    "repotime": "2021-12-31, 14:50:51",
+    "stargazers_count": 75,
+    "watchers_count": 75
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-01-14",
+    "date_updated": "2021-12-31",
+    "description": "An exhaustive list of all the possible ways you can chain your Blind SSRF vulnerability",
+    "forks_count": 114,
+    "html_url": "https://github.com/assetnote/blind-ssrf-chains",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "blind-ssrf-chains",
+    "repo_owner": "assetnote",
+    "repotime": "2021-12-31, 11:08:33",
+    "stargazers_count": 881,
+    "watchers_count": 881
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-12-28",
+    "date_updated": "2021-12-28",
+    "description": "Create a Signup page for taking input from the user such as Username, Password, etc. and a Submit button. The webpage should contain the following validations : * If user did not fill any field or put wrong length of password and clicked on the submit button, appropriate message should be displayed You have to design an interactive page having good CSS.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ankithduvvuri96/Signup-Page",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "Signup-Page",
+    "repo_owner": "ankithduvvuri96",
+    "repotime": "2021-12-28, 20:29:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-12-20",
+    "date_updated": "2021-12-22",
+    "description": "Log4j 漏洞本地检测脚本。 Scan all java processes on your host to check whether it's affected by log4j2 remote code execution vulnerability (CVE-2021-45046)",
+    "forks_count": 12,
+    "html_url": "https://github.com/lijiejie/log4j2_vul_local_scanner",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "log4j2_vul_local_scanner",
+    "repo_owner": "lijiejie",
+    "repotime": "2021-12-22, 14:24:36",
+    "stargazers_count": 85,
+    "watchers_count": 85
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-11-22",
+    "date_updated": "2021-12-21",
+    "description": "Пример уязвимости SSRF (Server-side request forgery)",
+    "forks_count": 0,
+    "html_url": "https://github.com/NikitaPetaichuk/web_security_ssrf_example",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "JavaScript",
+    "repo_name": "web_security_ssrf_example",
+    "repo_owner": "NikitaPetaichuk",
+    "repotime": "2021-12-21, 02:07:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-12-18",
+    "date_updated": "2021-12-20",
+    "description": "QRLJacking attack implementation in JavaScript. Steal QR login session from services like WhatsApp and Telegram.",
+    "forks_count": 2,
+    "html_url": "https://github.com/moh85/QRLJackingJS",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "QRLJackingJS",
+    "repo_owner": "moh85",
+    "repotime": "2021-12-20, 21:15:13",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-12-19",
+    "date_updated": "2021-12-19",
+    "description": "- Added: ConsoleWrite() preserves the @error and @extended. - Added: ConsoleWriteError() preserves the @error and @extended. - Added &amp;&#35;35;2938: Add &amp;quot;GetCount&amp;quot; to ControlCommand() - Added &amp;&#35;35;3539: FileGetTime() UTC. - Added &amp;&#35;35;3808: ProgressOn()/ProgressSet() - size of the progress window  - Fixed: Missing Opt(&amp;quot;SetExitCode&amp;quot;, 1) and AutoIt3 Exit codes in doc. - Fixed &amp;&#35;35;3211: Doc precision for hwnd parameter in Pixel*() functions. - Fixed &amp;&#35;35;3774: Doc precision about Null keyword comparison. - Fixed &amp;&#35;35;3579: DllStructGetData() doc precision. - Fixed &amp;&#35;35;3823: Language Reference - Variables typo. - Fixed &amp;&#35;35;3021: bad obj calling. - Fixed &amp;&#35;35;3106: StringIsFloat() doesn't accept a valid FP exponent. - Fixed &amp;&#35;35;3135: StdioClose memory leak.",
+    "forks_count": 0,
+    "html_url": "https://github.com/blackwellgilbertspkm/xponen",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": null,
+    "repo_name": "xponen",
+    "repo_owner": "blackwellgilbertspkm",
+    "repotime": "2021-12-19, 02:44:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-12-13",
+    "date_updated": "2021-12-17",
+    "description": "Nmap Log4Shell NSE script for discovery Apache Log4j RCE (CVE-2021-44228)",
+    "forks_count": 21,
+    "html_url": "https://github.com/giterlizzi/nmap-log4shell",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Lua",
+    "repo_name": "nmap-log4shell",
+    "repo_owner": "giterlizzi",
+    "repotime": "2021-12-17, 18:23:49",
+    "stargazers_count": 79,
+    "watchers_count": 79
+}
+{
+    "commits_count": 28,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-17",
+    "description": "Non intrusive log4j2 RCE vulnerability patch.",
+    "forks_count": 8,
+    "html_url": "https://github.com/Glavo/log4j-patch",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "log4j-patch",
+    "repo_owner": "Glavo",
+    "repotime": "2021-12-17, 20:32:10",
+    "stargazers_count": 65,
+    "watchers_count": 65
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-12-12",
+    "date_updated": "2021-12-17",
+    "description": "A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell",
+    "forks_count": 34,
+    "html_url": "https://github.com/cyberxml/log4j-poc",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "log4j-poc",
+    "repo_owner": "cyberxml",
+    "repotime": "2021-12-17, 04:12:25",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-16",
+    "description": "Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information",
+    "forks_count": 31,
+    "html_url": "https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept",
+    "keywords": [
+        "rce proof of concept",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "Log4J-RCE-Proof-Of-Concept",
+    "repo_owner": "HyCraftHD",
+    "repotime": "2021-12-16, 02:33:48",
+    "stargazers_count": 179,
+    "watchers_count": 179
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-15",
+    "description": "log4j rce test environment and poc",
+    "forks_count": 89,
+    "html_url": "https://github.com/leonjza/log4jpwn",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "log4jpwn",
+    "repo_owner": "leonjza",
+    "repotime": "2021-12-15, 19:17:43",
+    "stargazers_count": 311,
+    "watchers_count": 311
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-14",
+    "description": "A script that checks for vulnerable Log4j (CVE-2021-44228) systems using injection of the payload in common HTTP headers.",
+    "forks_count": 26,
+    "html_url": "https://github.com/NorthwaveSecurity/log4jcheck",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "log4jcheck",
+    "repo_owner": "NorthwaveSecurity",
+    "repotime": "2021-12-14, 16:16:10",
+    "stargazers_count": 126,
+    "watchers_count": 126
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-12-13",
+    "date_updated": "2021-12-13",
+    "description": "This is a proof-of-concept exploit for Log4j RCE Unauthenticated (CVE-2021-44228).",
+    "forks_count": 3,
+    "html_url": "https://github.com/pedrohavay/exploit-CVE-2021-44228",
+    "keywords": [
+        "rce proof of concept",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "exploit-CVE-2021-44228",
+    "repo_owner": "pedrohavay",
+    "repotime": "2021-12-13, 13:35:57",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-03-23",
+    "date_updated": "2021-12-13",
+    "description": "Scripts and tools to detect various vulnerabilites. Usually pulled together in the immediate aftermath of a zero day becoming public or POC/exploit code becoming available.",
+    "forks_count": 1,
+    "html_url": "https://github.com/tomquinn8/Detection",
+    "keywords": [
+        "zero-day poc",
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Detection",
+    "repo_owner": "tomquinn8",
+    "repotime": "2021-12-13, 10:58:58",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-12-12",
+    "date_updated": "2021-12-12",
+    "description": "Apache Druid remote code execution vulnerability - Apache Druid 远程代码执行漏洞利用 CVE-2021-25646",
+    "forks_count": 2,
+    "html_url": "https://github.com/j2ekim/CVE-2021-25646",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-25646",
+    "repo_owner": "j2ekim",
+    "repotime": "2021-12-12, 22:55:26",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-12",
+    "description": "Deploys an agent to fix  CVE-2021-44228 (Log4j RCE vulnerability) in a running JVM process",
+    "forks_count": 13,
+    "html_url": "https://github.com/simonis/Log4jPatch",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "Log4jPatch",
+    "repo_owner": "simonis",
+    "repotime": "2021-12-12, 11:32:57",
+    "stargazers_count": 108,
+    "watchers_count": 108
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-12-12",
+    "date_updated": "2021-12-12",
+    "description": "CVE-2021-44228(Apache Log4j Remote Code Execution）",
+    "forks_count": 0,
+    "html_url": "https://github.com/RK800-DEV/apache-log4j-poc",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "apache-log4j-poc",
+    "repo_owner": "RK800-DEV",
+    "repotime": "2021-12-12, 16:17:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-10-22",
+    "date_updated": "2021-12-12",
+    "description": "h2-jdbc(https://github.com/h2database/h2database/issues/3195) &amp;amp; mysql-jdbc(CVE-2021-2471) SQLXML XXE vulnerability reproduction.",
+    "forks_count": 6,
+    "html_url": "https://github.com/SecCoder-Security-Lab/jdbc-sqlxml-xxe",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "jdbc-sqlxml-xxe",
+    "repo_owner": "SecCoder-Security-Lab",
+    "repotime": "2021-12-12, 14:15:55",
+    "stargazers_count": 53,
+    "watchers_count": 53
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-12-12",
+    "date_updated": "2021-12-12",
+    "description": "A zero-day arbitrary code execution vulnerability in Log4j",
+    "forks_count": 0,
+    "html_url": "https://github.com/CyberControlNess/Log4j",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Log4j",
+    "repo_owner": "CyberControlNess",
+    "repotime": "2021-12-12, 02:38:23",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-12-11",
+    "date_updated": "2021-12-11",
+    "description": "Log4j-RCE (CVE-2021-44228) Proof of Concept",
+    "forks_count": 1,
+    "html_url": "https://github.com/WYSIIWYG/Log4J_0day_RCE",
+    "keywords": [
+        "rce proof of concept",
+        "0day proof of concept"
+    ],
+    "language": null,
+    "repo_name": "Log4J_0day_RCE",
+    "repo_owner": "WYSIIWYG",
+    "repotime": "2021-12-11, 21:31:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-12-10",
+    "date_updated": "2021-12-11",
+    "description": "log4j2 remote code execution or IP leakage exploit (with examples)",
+    "forks_count": 25,
+    "html_url": "https://github.com/ilsubyeega/log4j2-rce-exploit",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "rce exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "log4j2-rce-exploit",
+    "repo_owner": "ilsubyeega",
+    "repotime": "2021-12-11, 12:20:01",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 51,
+    "date_started": "2020-05-07",
+    "date_updated": "2021-12-08",
+    "description": "An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects",
+    "forks_count": 160,
+    "html_url": "https://github.com/ksharinarayanan/SSRFire",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "SSRFire",
+    "repo_owner": "ksharinarayanan",
+    "repotime": "2021-12-08, 09:52:11",
+    "stargazers_count": 964,
+    "watchers_count": 964
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-10-26",
+    "date_updated": "2021-12-04",
+    "description": "A reverse shell is a shell session established on a connection that is initiated from a remote machine, not from the local host. Attackers who successfully exploit a remote command execution vulnerability can use a reverse shell to obtain an interactive shell session on the target machine and continue their execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/punyaslokdutta/Reverse-Shell-scripts",
+    "keywords": [
+        "session vulnerability",
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Reverse-Shell-scripts",
+    "repo_owner": "punyaslokdutta",
+    "repotime": "2021-12-04, 23:39:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3311,
+    "date_started": "2021-11-28",
+    "date_updated": "2021-12-03",
+    "description": "Fork of amazon-ssm-agent that can run as any user in parallel with the official service.",
+    "forks_count": 2,
+    "html_url": "https://github.com/RhinoSecurityLabs/amazon-ssm-agent",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Go",
+    "repo_name": "amazon-ssm-agent",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2021-12-03, 10:18:49",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}

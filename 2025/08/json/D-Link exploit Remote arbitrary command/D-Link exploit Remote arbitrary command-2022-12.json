@@ -1,0 +1,1261 @@
+{
+    "commits_count": 41,
+    "date_started": "2022-12-12",
+    "date_updated": "2022-12-30",
+    "description": "This repository contains proof of concept for zero days and CVEs that were found by Omar Hashem through Security Research",
+    "forks_count": 21,
+    "html_url": "https://github.com/omarhashem123/Security-Research",
+    "keywords": [
+        "0day proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Security-Research",
+    "repo_owner": "omarhashem123",
+    "repotime": "2022-12-30, 19:26:22",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "A directory traversal vulnerability exists in the unzipDirectory functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to arbitrary command execution. An attacker can send an HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-30547",
+    "keywords": [
+        "directory traversal vulnerability",
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-30547",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 03:38:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "A SQL injection vulnerability in license_update.php in Mumara Classic through 2.93 allows a remote unauthenticated attacker to execute arbitrary SQL commands via the license parameter. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-43329",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-43329",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 02:07:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "A directory traversal vulnerability exists in the CMA CLI getenv command functionality of Garrett Metal Detectors’ iC Module CMA Version 5.0. A specially-crafted command line argument can lead to local file inclusion. An attacker can provide malicious input to trigger this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-21907",
+    "keywords": [
+        "directory traversal vulnerability",
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-21907",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 02:05:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "A directory traversal vulnerability exists in the CMA CLI setenv command of Garrett Metal Detectors’ iC Module CMA Version 5.0. An attacker can provide malicious input to trigger this vulnerability CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-21904",
+    "keywords": [
+        "directory traversal vulnerability",
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-21904",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 02:05:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "A use-after-free vulnerability was found in the am53c974 SCSI host bus adapter emulation of QEMU in versions before 6.0.0 during the handling of the 'Information Transfer' command (CMD_TI). This flaw allows a privileged guest user to crash the QEMU process on the host, resulting in a denial of service or potential code CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-35506",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-35506",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 01:33:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Deserialization of Untrusted Data vulnerability in the message processing component of Bitdefender GravityZone Console allows an attacker to pass unsafe commands to the environment. This issue affects: Bitdefender GravityZone Console On-Premise versions prior to 6.29.2-1. Bitdefender GravityZone Cloud Console versions  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-2830",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-2830",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 22:01:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Use of hard-coded credentials for the telnet server of CentreCOM AR260S V2 firmware versions prior to Ver.3.3.7 allows a remote unauthenticated attacker to execute an arbitrary OS command. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38394",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38394",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 20:41:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Go before 1.14.14 and 1.15.x before 1.15.7 on Windows is vulnerable to Command Injection and remote code execution when using the &amp;quot;go get&amp;quot; command to fetch modules that make use of cgo (for example, cgo can execute a gcc program from an untrusted download). CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-3115",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-3115",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:58:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Digiwin BPM’s function has insufficient validation for user input. An unauthenticated remote attacker can inject arbitrary SQL command to access, modify, delete database or disrupt service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32456",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32456",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:57:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "CSV Injection in Create Contacts in EspoCRM 7.1.8 allows remote authenticated users to run system commands via creating contacts with payloads capable of executing system commands. Admin user exporting contacts in CSV file may end up executing the malicious system commands on his system. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38844",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38844",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 18:34:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Memory corruption in kernel due to improper input validation while processing ION commands in Snapdragon Auto, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Wearables CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-25654",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-25654",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 17:51:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A local privilege escalation vulnerability in telnetd.real of Juniper Networks Junos OS may allow a locally authenticated shell user to escalate privileges and execute arbitrary commands as root. telnetd.real is shipped with setuid permissions enabled and is owned by the root user, allowing local users to run telnetd.r CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-0223",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-0223",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 17:44:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "In NOKIA 1350 OMS R14.2, multiple OS Command Injection vulnerabilities occurs. This vulnerability allow unauthenticated users to execute commands on the operating system. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39815",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39815",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 15:01:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A misconfiguration in the Service Mode profile directory of Clash for Windows v0.19.9 allows attackers to escalate privileges and execute arbitrary commands when Service Mode is activated. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-40126",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-40126",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 12:12:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A vulnerability was found in ImageMagick-7.0.11-5, where executing a crafted file with the convert command, ASAN detects memory leaks. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-3574",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-3574",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 12:09:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "This vulnerability could allow a remote attacker to execute remote commands with improper validation of parameters of certain API constructors. Remote attackers could use this vulnerability to execute malicious commands such as directory traversal. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-23770",
+    "keywords": [
+        "directory traversal vulnerability",
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-23770",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 03:10:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "In Splunk Enterprise versions before 8.1.2, the uri path to load a relative resource within a web page is vulnerable to path traversal. It allows an attacker to potentially inject arbitrary content into the web page (e.g., HTML Injection, XSS) or bypass SPL safeguards for risky commands. The attack is browser-based. An CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-26889",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-26889",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 03:07:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "MVPower CCTV DVR models, including TV-7104HE 1.8.4 115215B9 and TV7108HE, contain a web shell that is accessible via a /shell URI. A remote unauthenticated attacker can execute arbitrary operating system commands as root. This vulnerability has also been referred to as the &amp;quot;JAWS webserver RCE&amp;quot; because of the easily ide CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-20016",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-20016",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 01:44:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "SolarWinds Platform was susceptible to the Deserialization of Untrusted Data. This vulnerability allows a remote adversary with valid access to SolarWinds Web Console to execute arbitrary commands. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36958",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36958",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 01:10:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "SolarWinds Platform was susceptible to the Deserialization of Untrusted Data. This vulnerability allows a remote adversary with Orion admin-level account access to SolarWinds Web Console to execute arbitrary commands. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36957",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36957",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 01:10:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A relative path traversal attack in the B. Braun Melsungen AG SpaceCom Version L81/U61 and earlier, and the Data module compactplus Versions A10 and A11 allows attackers with service user privileges to upload arbitrary files. By uploading a specially crafted tar file an attacker can execute arbitrary commands. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-25150",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-25150",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 01:10:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "SolarWinds Platform was susceptible to the Deserialization of Untrusted Data. This vulnerability allows a remote adversary with Orion admin-level account access to SolarWinds Web Console to execute arbitrary commands. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38108",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38108",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 01:09:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2022-12-29",
+    "description": "Multiple vulnerabilities in the web-based management interface of the Cisco Catalyst Passive Optical Network (PON) Series Switches Optical Network Terminal (ONT) could allow an unauthenticated, remote attacker to perform the following actions: Log in with a default credential if the Telnet protocol is enabled Perform c CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/karamMahmad/CVE-2021-40113",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-40113",
+    "repo_owner": "karamMahmad",
+    "repotime": "2022-12-29, 00:25:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the Remote Server functionality of Dream Report ODS Remote Connector 20.2.16900.0. A specially-crafted command injection can lead to elevated capabilities. An attacker can provide a malicious file to trigger this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-21957",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-21957",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 00:24:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-29",
+    "description": "Multiple vulnerabilities in the web-based management interface of Cisco Intersight Virtual Appliance could allow an authenticated, remote attacker to conduct a path traversal or command injection attack on an affected system. These vulnerabilities are due to insufficient input validation. An attacker could exploit thes CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-1617",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-1617",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 00:20:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-29",
+    "description": "Multiple vulnerabilities in the web-based management interface of Cisco Intersight Virtual Appliance could allow an authenticated, remote attacker to conduct a path traversal or command injection attack on an affected system. These vulnerabilities are due to insufficient input validation. An attacker could exploit thes CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-1618",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-1618",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 00:20:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Multiple vulnerabilities in the Cisco ATA 190 Series Analog Telephone Adapter Software could allow an attacker to perform a command injection attack resulting in remote code execution or cause a denial of service (DoS) condition on an affected device. For more information about these vulnerabilities, see the Details se CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-34710",
+    "keywords": [
+        "remote code execution denial of service",
+        "remote code execution dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-34710",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 23:46:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "OMICARD EDM’s API function has insufficient validation for user input. An unauthenticated remote attacker can inject arbitrary SQL commands to access, modify, delete database or disrupt service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32964",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32964",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 22:21:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A hard-coded password vulnerability exists in the telnet functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9Z. Use of a hard-coded root password can lead to arbitrary command execution. An attacker can authenticate with hard-coded credentials to trigger this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-29889",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-29889",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 22:20:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "AVE DOMINAplus &amp;lt;=1.10.x suffers from an unauthenticated reboot command execution. Attackers can exploit this issue to cause a denial of service scenario. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-21996",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-21996",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 21:44:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A local privilege escalation vulnerability in Juniper Networks Junos OS and Junos OS Evolved allows a local, low-privileged user to cause the Juniper DHCP daemon (jdhcpd) process to crash, resulting in a Denial of Service (DoS), or execute arbitrary commands as root. Continued processing of malicious input will repeate CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-31359",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-31359",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 20:54:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A vulnerability in the Tool Command Language (Tcl) interpreter of Cisco IOS XE Software could allow an authenticated, local attacker to escalate from privilege level 15 to root-level privileges. This vulnerability is due to insufficient input validation of data that is passed into the Tcl interpreter. An attacker could CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-20676",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-20676",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 20:51:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Mail SQR Expert’s specific function has insufficient filtering for special characters. An unauthenticated remote attacker can exploit this vulnerability to perform arbitrary system command and disrupt service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-40741",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-40741",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 16:48:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "&amp;quot;IBM InfoSphere Information Server 11.7 is potentially vulnerable to CSV Injection. A remote attacker could execute arbitrary commands on the system, caused by improper validation of csv file contents. IBM X-Force ID: 223598.&amp;quot; CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-22425",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-22425",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 14:41:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "iSpy v7.2.2.0 is vulnerable to remote command execution via path traversal. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-29774",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-29774",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 14:01:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Unauthenticated remote code execution in OPTILINK OP-XT71000N, Hardware Version: V2.2 occurs when the attacker passes arbitrary commands with IP-ADDRESS using &amp;quot; | &amp;quot; to execute commands on &amp;quot; /diag_tracert_admin.asp &amp;quot; in the &amp;quot;PingTest&amp;quot; parameter that leads to command execution. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-23584",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-23584",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 05:36:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Sourcegraph is a code intelligence platform. In versions prior to 4.1.0 a command Injection vulnerability existed in the gitserver service, present in all Sourcegraph deployments. This vulnerability was caused by a lack of input validation on the host parameter of the `/list-gitolite` endpoint. It was possible to send  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-41942",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-41942",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 05:34:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "In Python (aka CPython) up to 3.10.8, the mailcap module does not add escape characters into commands discovered in the system mailcap file. This may allow attackers to inject shell commands into applications that call mailcap.findmatch with untrusted input (if they lack validation of user-provided filenames or argumen CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2015-20107",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2015-20107",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:59:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Relative path traversal in Druva inSync Windows Client 6.6.3 allows a local, unauthenticated attacker to execute arbitrary operating system commands with SYSTEM privileges. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-5752",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-5752",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:21:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A vulnerability in the CLI of Cisco Firepower Threat Defense (FTD) Software and Cisco FXOS Software could allow an authenticated, local attacker to execute arbitrary commands on the underlying operating system as root. This vulnerability is due to improper input validation for specific CLI commands. An attacker could e CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-20934",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-20934",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:18:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "SolarWinds Platform was susceptible to the Deserialization of Untrusted Data. This vulnerability allows a remote adversary with valid access to SolarWinds Web Console to execute arbitrary commands. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36964",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36964",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 02:56:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "All versions of package gitpython are vulnerable to Remote Code Execution (RCE) due to improper user input validation, which makes it possible to inject a maliciously crafted remote URL into the clone command. Exploiting this vulnerability is possible because the library makes external calls to git without sufficient s CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-24439",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-24439",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 23:21:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the openvpnServer0_tmp= parameter in the &amp;quot;/goform/net\\_Web\\_get_value CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-14432",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-14432",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 21:59:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the CN= parm in the &amp;quot;/goform/net_WebCSRGen&amp;quot; uri to trigger this vulne CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-12125",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-12125",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 21:59:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the remoteNetmask0= parameter in the &amp;quot;/goform/net\\_Web\\_get_value&amp;quot; ur CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-14434",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-14434",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 21:58:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the remoteNetwork0= parameter in the &amp;quot;/goform/net\\_Web\\_get_value&amp;quot; ur CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-14433",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-14433",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 21:58:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2017-05-26",
+    "date_updated": "2022-12-27",
+    "description": "SambaCry exploit and vulnerable container (CVE-2017-7494)",
+    "forks_count": 100,
+    "html_url": "https://github.com/opsxcq/exploit-CVE-2017-7494",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "exploit-CVE-2017-7494",
+    "repo_owner": "opsxcq",
+    "repotime": "2022-12-27, 15:25:09",
+    "stargazers_count": 381,
+    "watchers_count": 381
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Improper Input Validation vulnerability in LiteSpeed Technologies OpenLiteSpeed Web Server and LiteSpeed Web Server dashboards allows Command Injection. This affects 1.7.0 versions before 1.7.16.1. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-0073",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-0073",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 21:16:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "There are multiple unauthenticated directory traversal vulnerabilities in different FTP commands in uftpd FTP server versions 2.7 to 2.10 due to improper implementation of a chroot jail in common.c's compose_abspath function that can be abused to read or write to arbitrary files on the filesystem, leak process memory,  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-20277",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-20277",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 19:12:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "There is a command injection vulnerability that could lead to unauthenticated remote code execution by sending specially crafted packets destined to the PAPI (Aruba Networks AP management protocol) UDP port (8211). Successful exploitation of this vulnerability results in the ability to execute arbitrary code as a privi CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-37897",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-37897",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 18:35:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An authenticated path traversal vulnerability exists in the ArubaOS command line interface. Successful exploitation of the vulnerability results in the ability to delete arbitrary files on the underlying operating system. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-37906",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-37906",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 18:30:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation, resulting in a root shell. An attacker can inject OS commands into the ip= parm in the &amp;quot;/goform/net_WebPingGetValue&amp;quot; URI to trigger t CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-12120",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-12120",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 18:28:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the rsakey\\_name= parm in the &amp;quot;/goform/WebRSAKEYGen&amp;quot; uri to trigger t CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-12121",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-12121",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 18:28:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An authenticated path traversal vulnerability exists in the Aruba EdgeConnect Enterprise command line interface. Successful exploitation of this vulnerability results in the ability to read arbitrary files on the underlying operating system, including sensitive system files in Aruba EdgeConnect Enterprise Software vers CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-44532",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-44532",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 17:51:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "The “puhttpsniff” service, which runs by default, is susceptible to command injection due to improperly sanitized user input. An unauthenticated attacker on the same network segment as the router can execute arbitrary commands on the device without authentication. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-47208",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-47208",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 15:14:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "A potential security vulnerability has been identified in OMEN Gaming Hub and in HP Command Center which may allow escalation of privilege and/or denial of service. HP has released software updates to mitigate the potential vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-3919",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-3919",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 15:05:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "CONPROSYS HMI System (CHS) Ver.3.4.4?and earlier allows a remote unauthenticated attacker to execute an arbitrary OS command on the server where the product is running by sending a specially crafted request. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-44456",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-44456",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 12:24:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "During the plaintext phase of the STARTTLS connection setup, protocol commands could have been injected and evaluated within the encrypted session. This vulnerability affects Thunderbird &amp;lt; 78.7. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-15685",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-15685",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 11:46:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "A command injection vulnerability exists in Rocket.Chat-Desktop &amp;lt;3.8.14 that could allow an attacker to pass a malicious url of openInternalVideoChatWindow to shell.openExternal(), which may lead to remote code execution (internalVideoChatWindow.ts&amp;&#35;35;L17). To exploit the vulnerability, the internal video chat window must CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-44567",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution exploit",
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-44567",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 11:00:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "A SQL injection issue in the web API in TrueConf Server 5.2.0.10225 allows remote unauthenticated attackers to execute arbitrary SQL commands, ultimately leading to remote code execution. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-46764",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-46764",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 09:33:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 23,
+    "date_started": "2022-12-22",
+    "date_updated": "2022-12-26",
+    "description": "Exploits GitLab authenticated RCE vulnerability known as CVE-2022-2884.",
+    "forks_count": 5,
+    "html_url": "https://github.com/m3ssap0/gitlab_rce_cve-2022-2884",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "gitlab_rce_cve-2022-2884",
+    "repo_owner": "m3ssap0",
+    "repotime": "2022-12-26, 10:48:47",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-12-24",
+    "date_updated": "2022-12-24",
+    "description": "-- FOR EDUCATIONAL USE ONLY -- Proof-of-Concept RCE for CVE-2022-1388, plus some added functionality for blue and red teams",
+    "forks_count": 1,
+    "html_url": "https://github.com/vaelwolf/CVE-2022-1388",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-1388",
+    "repo_owner": "vaelwolf",
+    "repotime": "2022-12-24, 21:43:04",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-17",
+    "date_updated": "2022-12-17",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/dharma57/SessionHijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "SessionHijacking",
+    "repo_owner": "dharma57",
+    "repotime": "2022-12-17, 15:26:05",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 14,
+    "date_started": "2022-10-22",
+    "date_updated": "2022-12-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/User-XXI/WinScanLPE",
+    "keywords": [
+        "Win lpe"
+    ],
+    "language": "PowerShell",
+    "repo_name": "WinScanLPE",
+    "repo_owner": "User-XXI",
+    "repotime": "2022-12-14, 17:07:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-12-12",
+    "date_updated": "2022-12-12",
+    "description": "VMware NSX Manager XStream Unauthenticated Remote Code Execution Exploit ",
+    "forks_count": 0,
+    "html_url": "https://github.com/MRvirusIR/VMware-NSX-Manager-XStream",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Hack",
+    "repo_name": "VMware-NSX-Manager-XStream",
+    "repo_owner": "MRvirusIR",
+    "repotime": "2022-12-12, 13:30:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-06-07",
+    "date_updated": "2022-12-11",
+    "description": "CVE-2021-41773 | Apache HTTP Server 2.4.49 is vulnerable to Path Traversal and Remote Code execution attacks ",
+    "forks_count": 1,
+    "html_url": "https://github.com/Habib0x0/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability",
+        "path traversal attack",
+        "remote code execution vulnerability"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "Habib0x0",
+    "repotime": "2022-12-11, 20:02:11",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 21,
+    "date_started": "2022-12-09",
+    "date_updated": "2022-12-11",
+    "description": "[PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom)",
+    "forks_count": 20,
+    "html_url": "https://github.com/yuriisanin/CVE-2022-45025",
+    "keywords": [
+        "rce poc",
+        "rce exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-45025",
+    "repo_owner": "yuriisanin",
+    "repotime": "2022-12-11, 14:37:22",
+    "stargazers_count": 90,
+    "watchers_count": 90
+}
+{
+    "commits_count": 15,
+    "date_started": "2022-12-09",
+    "date_updated": "2022-12-10",
+    "description": "This repository contains all the slides, code and APK required to simulate the attacks demonstrated in the Null Kolkata session. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/falcnix/Hacking-a-Bluetooth-Device",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "C++",
+    "repo_name": "Hacking-a-Bluetooth-Device",
+    "repo_owner": "falcnix",
+    "repotime": "2022-12-10, 13:43:29",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 18,
+    "date_started": "2018-09-03",
+    "date_updated": "2022-12-05",
+    "description": "Primefaces &amp;lt;= 5.2.21, 5.3.8 or 6.0 - Remote Code Execution Exploit",
+    "forks_count": 25,
+    "html_url": "https://github.com/pimps/CVE-2017-1000486",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-1000486",
+    "repo_owner": "pimps",
+    "repotime": "2022-12-05, 06:32:52",
+    "stargazers_count": 91,
+    "watchers_count": 91
+}
+{
+    "commits_count": 20,
+    "date_started": "2022-12-04",
+    "date_updated": "2022-12-04",
+    "description": "For educational purposes only!",
+    "forks_count": 0,
+    "html_url": "https://github.com/lethal2/ZERO-DAY-DISCORD-EXPLOITS",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZERO-DAY-DISCORD-EXPLOITS",
+    "repo_owner": "lethal2",
+    "repotime": "2022-12-04, 12:31:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-11-21",
+    "date_updated": "2022-12-03",
+    "description": "Druva inSync Windows Client 6.6.3 - Local Privilege Escalation (PowerShell) RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-",
+    "repo_owner": "yevh",
+    "repotime": "2022-12-03, 13:45:32",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-10-04",
+    "date_updated": "2022-12-03",
+    "description": "Rusty Joomla RCE Exploit",
+    "forks_count": 20,
+    "html_url": "https://github.com/kiks7/rusty_joomla_rce",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Ruby",
+    "repo_name": "rusty_joomla_rce",
+    "repo_owner": "kiks7",
+    "repotime": "2022-12-03, 07:45:31",
+    "stargazers_count": 69,
+    "watchers_count": 69
+}

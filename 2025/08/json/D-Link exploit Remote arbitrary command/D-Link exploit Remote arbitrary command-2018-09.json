@@ -1,0 +1,85 @@
+{
+    "commits_count": 24,
+    "date_started": "2018-09-11",
+    "date_updated": "2018-09-28",
+    "description": "Windows10 &amp;amp; Windows Server 2016 LPE Exploit (use schedsvc!SchRpcSetSecurity())",
+    "forks_count": 54,
+    "html_url": "https://github.com/alpha1ab/Win2016LPE",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe exploit",
+        "Win lpe exploitation",
+        "Windows lpe",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Win lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Win2016LPE",
+    "repo_owner": "alpha1ab",
+    "repotime": "2018-09-28, 13:28:59",
+    "stargazers_count": 102,
+    "watchers_count": 102
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-09-21",
+    "date_updated": "2018-09-21",
+    "description": "Usage: python sqlmap.py [options] Options: -h, --help Show basic help message and exit -hh Show advanced help message and exit --version Show program's version number and exit -v VERBOSE Verbosity level: 0-6 (default 1) Target: At least one of these options has to be provided to define the target(s) -d DIRECT Connection string for direct database connection -u URL, --url=URL Target URL (e.g. &amp;quot;http://www.site.com/vuln.php?id=1&amp;quot;) -l LOGFILE Parse target(s) from Burp or WebScarab proxy log file -x SITEMAPURL Parse target(s) from remote sitemap(.xml) file -m BULKFILE Scan multiple targets given in a textual file -r REQUESTFILE Load HTTP request from a file -g GOOGLEDORK Process Google dork results as target URLs -c CONFIGFILE Load options from a configuration INI file Request: These options can be used to specify how to connect to the target URL --method=METHOD Force usage of given HTTP method (e.g. PUT) --data=DATA Data string to be sent through POST --param-del=PARA.. Character...",
+    "forks_count": 7,
+    "html_url": "https://github.com/HlaingPhyoAung/sqlmap",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "csv injection",
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "sqlmap",
+    "repo_owner": "HlaingPhyoAung",
+    "repotime": "2018-09-21, 04:51:04",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 12,
+    "date_started": "2017-09-14",
+    "date_updated": "2018-09-10",
+    "description": "Exploit toolkit CVE-2017-8759 - v1.0 is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft .NET Framework RCE. It could generate a malicious RTF file and deliver metasploit / meterpreter / other payload to victim without any complex configuration.",
+    "forks_count": 109,
+    "html_url": "https://github.com/bhdresh/CVE-2017-8759",
+    "keywords": [
+        "Microsoft rce exploitation",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-8759",
+    "repo_owner": "bhdresh",
+    "repotime": "2018-09-10, 20:25:11",
+    "stargazers_count": 316,
+    "watchers_count": 316
+}
+{
+    "commits_count": 33,
+    "date_started": "2018-03-13",
+    "date_updated": "2018-09-06",
+    "description": "Repo for FUZE project. I will also publish some Linux kernel LPE exploits for various real world kernel vulnerabilities here. the samples are uploaded for education purposes for red and blue teams.",
+    "forks_count": 111,
+    "html_url": "https://github.com/ww9210/Linux_kernel_exploits",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Linux_kernel_exploits",
+    "repo_owner": "ww9210",
+    "repotime": "2018-09-06, 20:02:34",
+    "stargazers_count": 498,
+    "watchers_count": 498
+}

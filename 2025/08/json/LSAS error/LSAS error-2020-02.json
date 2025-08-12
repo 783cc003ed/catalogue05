@@ -1,0 +1,141 @@
+{
+    "commits_count": 5,
+    "date_started": "2020-02-22",
+    "date_updated": "2020-02-22",
+    "description": "The official exploit for Cacti v1.2.8 Remote Code Execution CVE-2020-8813",
+    "forks_count": 20,
+    "html_url": "https://github.com/mhaskar/CVE-2020-8813",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-8813",
+    "repo_owner": "mhaskar",
+    "repotime": "2020-02-22, 18:33:31",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 67,
+    "date_started": "2018-02-10",
+    "date_updated": "2020-02-18",
+    "description": "UFO: Predictive Detection of Concurrency Use-After-Free Vulnerabilities",
+    "forks_count": 18,
+    "html_url": "https://github.com/parasol-aser/UFO",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "UFO",
+    "repo_owner": "parasol-aser",
+    "repotime": "2020-02-18, 15:47:49",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 24,
+    "date_started": "2015-11-15",
+    "date_updated": "2020-02-18",
+    "description": "From XSS to RCE 2.75 - Black Hat Europe Arsenal 2017 + Extras",
+    "forks_count": 84,
+    "html_url": "https://github.com/Varbaek/xsser",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xsser",
+    "repo_owner": "Varbaek",
+    "repotime": "2020-02-18, 20:57:19",
+    "stargazers_count": 425,
+    "watchers_count": 425
+}
+{
+    "commits_count": 15,
+    "date_started": "2020-02-17",
+    "date_updated": "2020-02-18",
+    "description": "OpenSMTPD version 6.6.2 remote code execution exploit",
+    "forks_count": 7,
+    "html_url": "https://github.com/superzerosec/cve-2020-7247",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2020-7247",
+    "repo_owner": "superzerosec",
+    "repotime": "2020-02-18, 14:57:19",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-02-11",
+    "date_updated": "2020-02-17",
+    "description": "UAC Bypass for windows",
+    "forks_count": 9,
+    "html_url": "https://github.com/Mrakovic-ORG/Privilege_Escalation",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "Privilege_Escalation",
+    "repo_owner": "Mrakovic-ORG",
+    "repotime": "2020-02-17, 12:27:22",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-08-03",
+    "date_updated": "2020-02-10",
+    "description": "Here I have implemented DHCP Spoofing attack for our Network security course sessional.",
+    "forks_count": 0,
+    "html_url": "https://github.com/shamiul94/DHCP-Spoofing-Attack-Network-Security",
+    "keywords": [
+        "spoofing session",
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "DHCP-Spoofing-Attack-Network-Security",
+    "repo_owner": "shamiul94",
+    "repotime": "2020-02-10, 09:14:15",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-02-02",
+    "date_updated": "2020-02-05",
+    "description": "an exploit tool for Thinkcmf RCE vulnerable",
+    "forks_count": 7,
+    "html_url": "https://github.com/bo1349/Thinkcmf_RCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Thinkcmf_RCE",
+    "repo_owner": "bo1349",
+    "repotime": "2020-02-05, 11:30:40",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-02-01",
+    "date_updated": "2020-02-01",
+    "description": "To help pentesting a site for LFI vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/IslaMukheef/LocalFileInclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "LocalFileInclusion",
+    "repo_owner": "IslaMukheef",
+    "repotime": "2020-02-01, 17:48:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
