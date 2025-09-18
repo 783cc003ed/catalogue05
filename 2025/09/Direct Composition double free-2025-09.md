@@ -1,3 +1,157 @@
+## DuckDuckgo search -> Direct Composition double free vulnerability
+`2025-09-17`
+
+* https://www.automox.com/blog/double-free-vulnerabilities-ghidra
+
+<blockquote>
+ DetectingPotentialDoubleFreeVulnerabilitiesinGhidra
+</blockquote>
+<blockquote>
+Ghidra and its scripting API are powerful tools for finding potentially vulnerable code. Follow these instructions to detect double-free vulnerabilities in your applications.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition double free vulnerability
+`2025-09-17`
+
+* https://book.hacktricks.wiki/en/binary-exploitation/libc-heap/double-free.html
+
+<blockquote>
+ DoubleFreeHackTricks
+</blockquote>
+<blockquote>
+But if you free another chunk in between, the double-free check is bypassed, causing corruption. Now, when you ask for new memory (using malloc), the allocator might give you a block that's been freed twice.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition double free
+`2025-09-17`
+
+* https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202105898?af=R
+
+<blockquote>
+ LeadFreeDoublePerovskiteCsWileyOnlineLibrary
+</blockquote>
+<blockquote>
+Cs 2 AgBiBr 6, as a benchmark lead-free double perovskite, has emerged as a promising alternative to lead-based perovskites because of its high stability, non-toxicity, exceptional optoelectronic properties, and multifunctionality. To encourage further research on Cs 2 AgBiBr 6 and its broad applications, in this review, its fundamental properties including the structure-property relation ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition double free
+`2025-09-17`
+
+* https://www.sciencedirect.com/science/article/pii/S092583882504678X
+
+<blockquote>
+ AnovelcobaltfreedoubleperovskitePrBaFe2O6δcathodefordirect
+</blockquote>
+<blockquote>
+The cathode material, as a key component of this system, possesses intrinsic properties that significantly impact the overall performance of the DA-PCFCs. To address the characteristics of ammonia fuel systems, this study synthesized a novel cobalt-free double perovskite cathode material, PrBaFe 2 O 6-δ (PBF), via the sol-gel method.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition double free
+`2025-09-17`
+
+* https://www.sciencedirect.com/science/article/pii/S0022459625001185
+
+<blockquote>
+ Adjustmentofthecompositionstructureandpropertiesofaleadfree
+</blockquote>
+<blockquote>
+This allowed us to establish a clear correlation between the material's composition, structure, and properties, laying the foundation for further research and application of Cs 4 CuSb 2 Cl 12 materials.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition double free
+`2025-09-17`
+
+* https://github.com/fafalone/DirectComposition
+
+<blockquote>
+ twinBASICDirectCompositionDemosGitHub
+</blockquote>
+<blockquote>
+This repository is to show off some basic demos of using DirectComposition/Direct2D in twinBASIC. Update (03 Mar 2024): .twinproj has been updated to use a more recent version of WinDevLib (formerly tbShellLib) due to errors in the package tB did not raise at the time this project was released. Update (19 Dec 2023): .twinproj updated to reference WinDevLib (formerly tbShellLib) 7.0-- this ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition double free
+`2025-09-17`
+
+* https://pubs.acs.org/doi/10.1021/acs.jpcc.5c03037
+
+<blockquote>
+ ExploringthePhotocatalyticPotentialofLeadFreeCs
+</blockquote>
+<blockquote>
+These findings offer valuable insights into the interplay between composition, water stability, and photocatalytic efficiency, providing a foundation for the rational design of advanced photocatalysts derived from lead-free metal halide double perovskites.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition double free
+`2025-09-17`
+
+* https://www.sciencedirect.com/science/article/pii/S002228602502602X
+
+<blockquote>
+ EffectofSb³Sm³CoDopinginLeadFreeDoubleScienceDirect
+</blockquote>
+<blockquote>
+A lead-free double perovskite, cesium sodium hexachloroscandate (Cs₂NaScCl₆), co-doped with Sb³⁺ and Sm³⁺, was synthesized via a hydrothermal method f…
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition double free
+`2025-09-17`
+
+* https://www.directv.com/myfree-directv/
+
+<blockquote>
+ WatchFreeTVwithMyFreeDIRECTVFreeLiveChannelsandMovies
+</blockquote>
+<blockquote>
+Find a selection of popular free channels, stream free live channels and On Demand content such as movies, TV shows, news and sports - all for free!
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition double free
+`2025-09-17`
+
+* https://www.sciencedirect.com/science/article/pii/S2211285524002714
+
+<blockquote>
+ BeyondleadhalideperovskitesCrystalstructurebandgaps
+</blockquote>
+<blockquote>
+These efforts have yielded a hysteresis-free halide double perovskite structure with outstanding stability and metal compositional flexibility. However, the power conversion efficiency of double perovskites is still modest owing to the inherent properties such as poor light harvesting and indirect bandgap.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition double free
+`2025-09-17`
+
+* https://www.sciencedirect.com/science/article/pii/S0925838820332941
+
+<blockquote>
+ CompositionoptimizationofleadfreedoubleperovskiteCs
+</blockquote>
+<blockquote>
+Abstract Recently, lead-free double perovskites is increasingly focused in view of the nontoxicity and stability compared to lead-halide perovskites. In this study, we optimized the composition of lead-free double perovskite Cs 2 AgIn 1-x Bi x Cl 6 nanocrystals (NCs) via an antisolvent recrystallization method at room-temperature.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> Direct Composition double free Protocol
 `2025-09-17`
 

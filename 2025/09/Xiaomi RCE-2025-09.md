@@ -1,6 +1,20 @@
 ## DuckDuckgo search -> Xiaomi RCE
 `2025-09-17`
 
+* https://beforeyoutake.com/news/new-launches/xiaomi-introduces-mijia-electric-rice-cooker-c1-pro-4l-quick-cooking-and-innovative-design-at-an-affordable-price/
+
+<blockquote>
+ XiaomiIntroducesMIJIAElectricRiceCookerC1Pro4LQuickCooking
+</blockquote>
+<blockquote>
+Xiaomi, a name synonymous with innovative technology, has once again surprised the culinary world with its latest offering - the MIJIA Electric Rice Cooker C1 Pro 4L. This cutting-edge kitchen companion has already made its debut in China, promising swift cooking times and a host of features to elevate your culinary experience.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Xiaomi RCE
+`2025-09-17`
+
 * https://gizcoupon.com/2023/04/05/xiaomi-mijia-mfb04m-rice-cooker-4l-review-versatile-cooking-tool/
 
 <blockquote>

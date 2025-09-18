@@ -1,6 +1,20 @@
 ## DuckDuckgo search -> TP-Link OS Command injection
 `2025-09-17`
 
+* https://www.tp-link.com/us/support/faq/4547/
+
+<blockquote>
+ Statementonauthenticatedandunauthenticatedcommandinjectionon
+</blockquote>
+<blockquote>
+Statement on command injection vulnerabilities in VIGI NVR models and their impact, with details on authenticated and unauthenticated scenarios.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link OS Command injection
+`2025-09-17`
+
 * https://amazon.nl
 
 <blockquote>

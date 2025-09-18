@@ -320,9 +320,9 @@ Automatic SQL injection and database takeover tool
     <td>Started: <code>2012-06-26 09:52:15+00:00</code></td>
     <td>Latest: <code>2025-09-15 00:03:04+02:00</code></td></tr>
 <tr><td>Commits: <code>10456</code></td>
-    <td>Stargazers: <code>35303</code></td>
-    <td>Watchers: <code>35303</code></td>
-    <td>Forks: <code>6041</code></td></tr>
+    <td>Stargazers: <code>35308</code></td>
+    <td>Watchers: <code>35308</code></td>
+    <td>Forks: <code>6043</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -386,8 +386,8 @@ Exodus Fake Balance - educational security tool for demonstrating wallet vulnera
     <td>Started: <code>2025-08-26 22:10:29+00:00</code></td>
     <td>Latest: <code>2025-08-26 18:12:19-04:00</code></td></tr>
 <tr><td>Commits: <code>2</code></td>
-    <td>Stargazers: <code>36</code></td>
-    <td>Watchers: <code>36</code></td>
+    <td>Stargazers: <code>37</code></td>
+    <td>Watchers: <code>37</code></td>
     <td>Forks: <code>9</code></td></tr>
 </table>
 Keywords: spoofing vulnerability
@@ -782,8 +782,8 @@ HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux
     <td>Started: <code>2015-05-28 08:24:56+00:00</code></td>
     <td>Latest: <code>2025-02-24 17:49:16+05:30</code></td></tr>
 <tr><td>Commits: <code>176</code></td>
-    <td>Stargazers: <code>2823</code></td>
-    <td>Watchers: <code>2823</code></td>
+    <td>Stargazers: <code>2824</code></td>
+    <td>Watchers: <code>2824</code></td>
     <td>Forks: <code>569</code></td></tr>
 </table>
 Keywords: vulnerability, Windows uaf vulnerability, uaf exploitation, Windows uaf exploitation, uaf vulnerability, Windows uaf
@@ -958,8 +958,8 @@ hack tools
     <td>Started: <code>2017-04-30 10:59:56+00:00</code></td>
     <td>Latest: <code>2024-09-23 23:27:19+02:00</code></td></tr>
 <tr><td>Commits: <code>302</code></td>
-    <td>Stargazers: <code>1139</code></td>
-    <td>Watchers: <code>1139</code></td>
+    <td>Stargazers: <code>1140</code></td>
+    <td>Watchers: <code>1140</code></td>
     <td>Forks: <code>495</code></td></tr>
 </table>
 Keywords: 0day exploit, 0day vulnerability
@@ -1090,8 +1090,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5870</code></td>
-    <td>Watchers: <code>5870</code></td>
+    <td>Stargazers: <code>5871</code></td>
+    <td>Watchers: <code>5871</code></td>
     <td>Forks: <code>703</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -1574,9 +1574,9 @@ XSS'OR - Hack with JavaScript.
     <td>Started: <code>2017-06-25 06:32:10+00:00</code></td>
     <td>Latest: <code>2020-08-19 10:27:51+08:00</code></td></tr>
 <tr><td>Commits: <code>40</code></td>
-    <td>Stargazers: <code>2190</code></td>
-    <td>Watchers: <code>2190</code></td>
-    <td>Forks: <code>380</code></td></tr>
+    <td>Stargazers: <code>2191</code></td>
+    <td>Watchers: <code>2191</code></td>
+    <td>Forks: <code>381</code></td></tr>
 </table>
 Keywords: xss
 

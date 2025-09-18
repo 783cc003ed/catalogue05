@@ -1,3 +1,31 @@
+## DuckDuckgo search -> Outlook driver
+`2025-09-17`
+
+* https://onedrive.live.com/login/
+
+<blockquote>
+ MicrosoftOneDrive
+</blockquote>
+<blockquote>
+Sign in to Microsoft OneDrive to access your files and collaborate with others securely.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook driver
+`2025-09-17`
+
+* https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=mjw23
+
+<blockquote>
+ IntelUniteAddInforMicrosoftOutlookDriverDetailsDellUS
+</blockquote>
+<blockquote>
+Intel Unite Add-In for Microsoft Outlook This file was automatically installed as part of a recent update. If you are experiencing any issues, you can manually download and reinstall.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> Outlook driver overflow
 `2025-09-17`
 

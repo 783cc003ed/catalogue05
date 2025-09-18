@@ -1,3 +1,31 @@
+## DuckDuckgo search -> SMB use after free vulnerability
+`2025-09-17`
+
+* https://www.techmonitor.ai/technology/cybersecurity/openai-o3-model-linux-security-threat
+
+<blockquote>
+ OpenAIso3modelhelpsidentifysignificantLinuxsecuritythreat
+</blockquote>
+<blockquote>
+This vulnerability was brought to light by cybersecurity researcher Sean Heelan, who leveraged the capabilities of OpenAI's o3 model. Officially confirmed on 20 May 2025, the vulnerability reveals a use-after-free issue in the SMB 'logoff' command handler, posing significant security risks.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB use after free vulnerability
+`2025-09-17`
+
+* https://linuxsecurity.com/news/security-vulnerabilities/remote-zero-day-linux-kernel-flaw-discovered-using-ai
+
+<blockquote>
+ RemoteZerodayLinuxKernelFlawDiscoveredUsingAI
+</blockquote>
+<blockquote>
+At the heart of CVE-2025-37899 is a use-after-free (UAF) flaw—a well-known category of memory safety issues with devastating potential. The bug resides in the ksmbd module, the kernel-space implementation of the SMB protocol introduced in modern Linux distributions to handle SMB3 communications more efficiently than user-space counterparts like Samba. Specifically, the flaw emerges in the ...
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> SMB use after free Protocol
 `2025-09-17`
 

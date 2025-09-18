@@ -1,3 +1,73 @@
+## DuckDuckgo search -> docx RCE
+`2025-09-17`
+
+* https://medium.com/@akashoffsec/how-i-found-rce-remote-code-execution-via-file-upload-7541816e5fc4
+
+<blockquote>
+ HowIFoundRCERemoteCodeExecutionviaFileUpload
+</blockquote>
+<blockquote>
+In this post, I'm going to explain how I found a Remote Code Execution (RCE) vulnerability by simply uploading a profile. But, It has some filtering checks on the server-side, we need to ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx RCE
+`2025-09-17`
+
+* https://github.com/Reeadmon/Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud/blob/main/README.md
+
+<blockquote>
+ OfficeExploitCve2025XmlDocDocxRceBuilderFudREADMEmdatmain
+</blockquote>
+<blockquote>
+Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud is a tool designed to exploit vulnerabilities in Microsoft Office documents for remote code execution. Office Exploit leverages weaknesses in Office applications to execute malicious code.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx RCE vulnerability
+`2025-09-17`
+
+* https://ikhaleelkhan.medium.com/microsoft-excel-ltsc-2024-vulnerability-leads-to-remote-code-execution-rce-what-you-need-to-4f3271964aed
+
+<blockquote>
+ MicrosoftExcelLTSC2024VulnerabilityLeadstoRemoteCodeExecution
+</blockquote>
+<blockquote>
+Author: nu11secur1ty Published: June 16, 2025 CVE References: CVE-2025-27751 | CVE-2025-47957 Introduction A critical Remote Code Execution (RCE) vulnerability has been discovered in Microsoft Excel LTSC 2024, with impacts reaching across Microsoft Office LTSC 2021 and Microsoft 365 Apps for Enterprise. Exploited via a malicious DOCX file, attackers can leverage this flaw to execute ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx RCE vulnerability
+`2025-09-17`
+
+* https://integrate-it.net
+
+<blockquote>
+ CyberSecurityDienstleisterBeratungCyberSecurity
+</blockquote>
+<blockquote>
+IT Sicherheitsberatung für maßgeschneiderte Sicherheitslösungen für KMUs &amp; NGOs. Vertrauen Sie auf unseren Expertenservice und erhöhen Sie Ihre IT-Sicherheit nachhaltig.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx RCE vulnerability
+`2025-09-17`
+
+* https://www.vicarius.io/vsociety/posts/ms-office-and-windows-html-rce-cve-2023-36884-36885
+
+<blockquote>
+ MSOfficeandWindowsHTMLRCECVE202336884Vicarius
+</blockquote>
+<blockquote>
+At the heart of this campaign was a zero-day vulnerability, designated as CVE-2023-36884, which allowed the attacker to exploit Windows search files through meticulously crafted Office Open eXtensible Markup Language (OOXML) documents featuring geopolitical lures related to the Ukraine World Congress (UWC).
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> docx RCE overflow
 `2025-09-17`
 

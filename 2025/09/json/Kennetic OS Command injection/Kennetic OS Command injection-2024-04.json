@@ -3,7 +3,7 @@
     "date_started": "2021-08-29",
     "date_updated": "2024-04-28",
     "description": "An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.",
-    "forks_count": 206,
+    "forks_count": 208,
     "html_url": "https://github.com/h4r5h1t/webcopilot",
     "keywords": [
         "rce vulnerability",
@@ -14,8 +14,8 @@
     "repo_name": "webcopilot",
     "repo_owner": "h4r5h1t",
     "repotime": "2024-04-28, 18:49:52",
-    "stargazers_count": 1239,
-    "watchers_count": 1239
+    "stargazers_count": 1250,
+    "watchers_count": 1250
 }
 {
     "commits_count": 5,

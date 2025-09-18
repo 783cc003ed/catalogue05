@@ -1,3 +1,73 @@
+## DuckDuckgo search -> Direct Composition LPE vulnerability
+`2025-09-17`
+
+* https://nvd.nist.gov/vuln/detail/CVE-2025-6018
+
+<blockquote>
+ NvdCve20256018
+</blockquote>
+<blockquote>
+A Local Privilege Escalation (LPE) vulnerability has been discovered in pam-config within Linux Pluggable Authentication Modules (PAM). This flaw allows an unprivileged local attacker (for example, a user logged in via SSH) to obtain the elevated privileges normally reserved for a physically present, &quot;allow_active&quot; user.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition LPE
+`2025-09-17`
+
+* https://pure.korea.ac.kr/en/publications/direct-write-e-beam-sub-micron-domain-engineering-in-liquid-phase-2
+
+<blockquote>
+ Directwriteebeamsubmicrondomainengineeringinliquidphase
+</blockquote>
+<blockquote>
+We have demonstrated sub-micron domain (∼200 nm) structures with a period ∼750 nm and ∼1.2 μm in liquid phase epitaxy (LPE) LiNbO 3 films on congruent LiNbO 3 substrates by using the direct-write e-beam domain engineering method. In comparison with single crystal congruent LiNbO 3 (CLN) and stoichiometric LiNbO 3 (SLN), we show that LPE LiNbO 3 (LPE LN) is the most promising material ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition LPE
+`2025-09-17`
+
+* https://www.sciencedirect.com/science/article/pii/S0038110123000783
+
+<blockquote>
+ ImprovedresponsivityanddetectivityofLPEHgCdTeScienceDirect
+</blockquote>
+<blockquote>
+This work introduces an effective way to improve the responsivity and detectivity of liquid phase epitaxy (LPE) HgCdTe avalanche focal plane array (FPA) for short-wavelength infrared (SWIR) signal detection by tuning the composition gradient.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition LPE
+`2025-09-17`
+
+* https://pure.korea.ac.kr/en/publications/direct-write-e-beam-submicron-domain-engineering-in-linbosub3sub-
+
+<blockquote>
+ DirectwriteEbeamsubmicrondomainengineeringinLiNbO
+</blockquote>
+<blockquote>
+To engineer domain structures in Z oriented LPE LiNbO 3 films, a direct-write electron beam poling was implemented. It is shown that we can engineer the domain structure of LPE LiNbO 3 films by using direct e-beam poling, even though the domain orientations of the film and the substrate are opposite.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition LPE
+`2025-09-17`
+
+* https://www.researchgate.net/publication/231770468_Direct-Write_E-beam_Submicron_Domain_Engineering_in_LiNbO3_Thin_Films_Grown_by_Liquid_Phase_Epitaxy
+
+<blockquote>
+ DirectWriteEbeamSubmicronDomainEngineeringinLiNbO3ThinFilms
+</blockquote>
+<blockquote>
+It is shown that we can engineer the domain structure of LPE LiNbO3 films by using direct e-beam poling, even though the domain orientations of the film and the substrate are opposite.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> Direct Composition LPE overflow
 `2025-09-17`
 
@@ -232,6 +302,76 @@ By using a direct-write e-beam technique with liquid phase epitaxy LiNbO 3 thin 
 </blockquote>
 <blockquote>
 This paper reports on growth and doping experiment of GaAs and AlGaAs layers fabricated by low-temperature liquid-phase epitaxy (LPE). We demonstrate precise layer composition and thickness ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition LPE vulnerability
+`2025-09-17`
+
+* https://nvd.nist.gov/vuln/detail/CVE-2025-6018
+
+<blockquote>
+ NvdCve20256018
+</blockquote>
+<blockquote>
+A Local Privilege Escalation (LPE) vulnerability has been discovered in pam-config within Linux Pluggable Authentication Modules (PAM). This flaw allows an unprivileged local attacker (for example, a user logged in via SSH) to obtain the elevated privileges normally reserved for a physically present, &quot;allow_active&quot; user.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition LPE
+`2025-09-17`
+
+* https://pure.korea.ac.kr/en/publications/direct-write-e-beam-sub-micron-domain-engineering-in-liquid-phase-2
+
+<blockquote>
+ Directwriteebeamsubmicrondomainengineeringinliquidphase
+</blockquote>
+<blockquote>
+We have demonstrated sub-micron domain (∼200 nm) structures with a period ∼750 nm and ∼1.2 μm in liquid phase epitaxy (LPE) LiNbO 3 films on congruent LiNbO 3 substrates by using the direct-write e-beam domain engineering method. In comparison with single crystal congruent LiNbO 3 (CLN) and stoichiometric LiNbO 3 (SLN), we show that LPE LiNbO 3 (LPE LN) is the most promising material ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition LPE
+`2025-09-17`
+
+* https://www.sciencedirect.com/science/article/pii/S0038110123000783
+
+<blockquote>
+ ImprovedresponsivityanddetectivityofLPEHgCdTeScienceDirect
+</blockquote>
+<blockquote>
+This work introduces an effective way to improve the responsivity and detectivity of liquid phase epitaxy (LPE) HgCdTe avalanche focal plane array (FPA) for short-wavelength infrared (SWIR) signal detection by tuning the composition gradient.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition LPE
+`2025-09-17`
+
+* https://pure.korea.ac.kr/en/publications/direct-write-e-beam-submicron-domain-engineering-in-linbosub3sub-
+
+<blockquote>
+ DirectwriteEbeamsubmicrondomainengineeringinLiNbO
+</blockquote>
+<blockquote>
+To engineer domain structures in Z oriented LPE LiNbO 3 films, a direct-write electron beam poling was implemented. It is shown that we can engineer the domain structure of LPE LiNbO 3 films by using direct e-beam poling, even though the domain orientations of the film and the substrate are opposite.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition LPE
+`2025-09-17`
+
+* https://www.researchgate.net/publication/231770468_Direct-Write_E-beam_Submicron_Domain_Engineering_in_LiNbO3_Thin_Films_Grown_by_Liquid_Phase_Epitaxy
+
+<blockquote>
+ DirectWriteEbeamSubmicronDomainEngineeringinLiNbO3ThinFilms
+</blockquote>
+<blockquote>
+It is shown that we can engineer the domain structure of LPE LiNbO3 films by using direct e-beam poling, even though the domain orientations of the film and the substrate are opposite.
 </blockquote>
 
 ---

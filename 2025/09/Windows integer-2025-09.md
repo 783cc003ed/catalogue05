@@ -1,3 +1,87 @@
+## DuckDuckgo search -> Windows integer vulnerability
+`2025-09-17`
+
+* https://windowsforum.com/threads/cve-2025-54110-urgent-windows-kernel-patch-mitigations.380229/
+
+<blockquote>
+ CVE202554110UrgentWindowsKernelPatchMitigations
+</blockquote>
+<blockquote>
+How integer overflow / wraparound vulnerabilities work in the kernel The programming root cause An integer overflow or wraparound occurs when arithmetic crosses the representable range of an integer type (for example, adding two 32-bit unsigned values that exceed 0xFFFFFFFF). When kernel code uses the result of that arithmetic to compute allocation sizes or copy lengths without validation, the ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows integer vulnerability
+`2025-09-17`
+
+* https://vuldb.com/?id.284091
+
+<blockquote>
+ MicrosoftWindowsuptoServer2025NTOSKernelintegeroverflow
+</blockquote>
+<blockquote>
+Summary info A vulnerability has been found in Microsoft Windows and classified as critical. Impacted is an unknown function of the component NT OS Kernel. Performing manipulation results in integer overflow. This vulnerability is identified as CVE-2024-43623. The attack is only possible with local access. There is not any exploit available.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows integer vulnerability
+`2025-09-17`
+
+* https://vuldb.com/?id.291780
+
+<blockquote>
+ MicrosoftWindowsuptoServer2025GDIintegeroverflow
+</blockquote>
+<blockquote>
+Summary info A vulnerability was found in Microsoft Windows. It has been declared as critical. Impacted is an unknown function of the component GDI+. The manipulation results in integer overflow. This vulnerability is known as CVE-2025-21338. It is possible to launch the attack remotely. No exploit is available.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows integer vulnerability
+`2025-09-17`
+
+* https://advisory.eventussecurity.com/advisory/security-flaw-in-windows-11-allows-privilege-escalation/
+
+<blockquote>
+ SecurityFlawinWindows11AllowsPrivilegeEscalation
+</blockquote>
+<blockquote>
+CVE-2024-38144: This integer overflow vulnerability in the CKSAutomationThunk::ThunkEnableEventIrp function of the ksthunk.sys driver, with a CVSS score of 9.1, enables local attackers to manipulate buffer sizes, causing heap overflow and allowing privilege escalation through arbitrary code execution.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows integer vulnerability
+`2025-09-17`
+
+* https://www.cvedetails.com/cve/CVE-2025-54110/
+
+<blockquote>
+ CVE202554110IntegeroverfloworwraparoundinWindowsKernel
+</blockquote>
+<blockquote>
+CVE-2025-54110 : Integer overflow or wraparound in Windows Kernel allows an authorized attacker to elevate privileges locally.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows integer vulnerability
+`2025-09-17`
+
+* https://windowsforum.com/threads/understanding-and-mitigating-cve-2025-49683-critical-virtualization-vulnerability-in-vhdx.372819/
+
+<blockquote>
+ UnderstandingandMitigatingCVE202549683CriticalVirtualization
+</blockquote>
+<blockquote>
+A New Threat Vector: Unpacking CVE-2025-49683 CVE-2025-49683 is characterized as an integer overflow or wraparound vulnerability within Microsoft's Virtual Hard Disk (VHDX) subsystem. According to Microsoft's official advisory, an attacker who successfully exploits this vulnerability could execute code locally with elevated privileges.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> Windows integer
 `2025-09-17`
 

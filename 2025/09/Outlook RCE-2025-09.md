@@ -1,3 +1,31 @@
+## DuckDuckgo search -> Outlook RCE Protocol
+`2025-09-17`
+
+* https://dphish.com/2024/02/21/forensics-detect-cve-2024-21413-microsoft-outlook-rce/
+
+<blockquote>
+ ForensicsDetectCVE202421413MicrosoftOutlookRCE
+</blockquote>
+<blockquote>
+Introduction CVE-2024-21413 is a vulnerability in the Microsoft Outlook application discovered by Checkpoint Research. Its impact ranges from leaking the local NTLM credentials to remote code execution by abusing how Outlook parses URLs.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook RCE
+`2025-09-17`
+
+* https://blog.barracuda.com/2024/08/19/threat-advisory-critical-zero-click-vulnerability-in-microsoft-outlook
+
+<blockquote>
+ CybersecurityThreatAdvisoryCriticalzeroclickvulnerabilityin
+</blockquote>
+<blockquote>
+A critical zero-click remote code execution (RCE) vulnerability, identified as CVE-2024-30103, was recently discovered in Microsoft Outlook. Learn more about the incident in this article.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> Outlook RCE vulnerability
 `2025-09-17`
 

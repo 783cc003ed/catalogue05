@@ -1,6 +1,20 @@
 ## DuckDuckgo search -> Asus zero-click
 `2025-09-17`
 
+* https://rog.asus.com/mice-mouse-pads/mice/ambidextrous/rog-strix-impact-ii-gundam-edition-model/
+
+<blockquote>
+ ROGStrixImpactIIGUNDAMEDITIONGamingMouse
+</blockquote>
+<blockquote>
+ROG Strix Impact II GUNDAM EDITION is an official Gundam licensed lightweight and ambidextrous gaming mouse co-designed by pro gamers. It features pivoted button mechanism for tactile and fast mouse clicks, and lightweight and soft rubber cable for minimum cable drag. It also features 6,200 dpi optical sensor with On-the-Fly DPI button to easily switch between four sensitivity levels ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Asus zero-click
+`2025-09-17`
+
 * https://www.asus.com/support/faq/1041464/
 
 <blockquote>

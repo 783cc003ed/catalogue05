@@ -1,9 +1,26 @@
 {
+    "commits_count": 2039,
+    "date_started": "2020-04-12",
+    "date_updated": "2025-09-18",
+    "description": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
+    "forks_count": 490,
+    "html_url": "https://github.com/hahwul/dalfox",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Go",
+    "repo_name": "dalfox",
+    "repo_owner": "hahwul",
+    "repotime": "2025-09-18, 07:56:34",
+    "stargazers_count": 4533,
+    "watchers_count": 4533
+}
+{
     "commits_count": 2205,
     "date_started": "2019-09-10",
     "date_updated": "2025-09-17",
     "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
-    "forks_count": 295,
+    "forks_count": 296,
     "html_url": "https://github.com/TongchengOpenSource/smart-doc",
     "keywords": [
         "code injection"
@@ -12,8 +29,8 @@
     "repo_name": "smart-doc",
     "repo_owner": "TongchengOpenSource",
     "repotime": "2025-09-17, 11:55:29",
-    "stargazers_count": 1571,
-    "watchers_count": 1571
+    "stargazers_count": 1572,
+    "watchers_count": 1572
 }
 {
     "commits_count": 1309,
@@ -65,15 +82,15 @@
     "repo_name": "jsoup",
     "repo_owner": "jhy",
     "repotime": "2025-09-16, 12:19:11",
-    "stargazers_count": 11244,
-    "watchers_count": 11244
+    "stargazers_count": 11243,
+    "watchers_count": 11243
 }
 {
     "commits_count": 10456,
     "date_started": "2012-06-26",
     "date_updated": "2025-09-15",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6041,
+    "forks_count": 6043,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -82,15 +99,15 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-09-15, 00:03:04",
-    "stargazers_count": 35303,
-    "watchers_count": 35303
+    "stargazers_count": 35308,
+    "watchers_count": 35308
 }
 {
     "commits_count": 141,
     "date_started": "2019-04-19",
     "date_updated": "2025-09-14",
     "description": "Top disclosed reports from HackerOne",
-    "forks_count": 869,
+    "forks_count": 871,
     "html_url": "https://github.com/reddelexc/hackerone-reports",
     "keywords": [
         "xxe",
@@ -100,8 +117,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-09-14, 21:12:20",
-    "stargazers_count": 4842,
-    "watchers_count": 4842
+    "stargazers_count": 4847,
+    "watchers_count": 4847
 }
 {
     "commits_count": 295,
@@ -136,21 +153,4 @@
     "repotime": "2025-09-12, 21:16:21",
     "stargazers_count": 27,
     "watchers_count": 27
-}
-{
-    "commits_count": 2037,
-    "date_started": "2020-04-12",
-    "date_updated": "2025-09-10",
-    "description": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
-    "forks_count": 490,
-    "html_url": "https://github.com/hahwul/dalfox",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Go",
-    "repo_name": "dalfox",
-    "repo_owner": "hahwul",
-    "repotime": "2025-09-10, 16:42:57",
-    "stargazers_count": 4533,
-    "watchers_count": 4533
 }

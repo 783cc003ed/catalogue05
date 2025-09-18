@@ -1,3 +1,31 @@
+## DuckDuckgo search -> Direct Composition BFS vulnerability
+`2025-09-17`
+
+* https://windowsforum.com/tags/bfs-vulnerability/
+
+<blockquote>
+ bfsvulnerabilityWindowsForum
+</blockquote>
+<blockquote>
+bfs vulnerability cve-2025-53142 edr detection endpoint hardening kernel exploitation kernel use-after-free least privilege local privilege escalation memory corruption microsoft bfs msrc advisory patch management ransomware risk security update guide windows security
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition BFS vulnerability
+`2025-09-17`
+
+* https://www.cvedetails.com/cve/CVE-2024-45778/
+
+<blockquote>
+ CVE202445778AstackoverflowflawwasfoundwhenreadingaBFS
+</blockquote>
+<blockquote>
+Vulnerability Details : CVE-2024-45778 A stack overflow flaw was found when reading a BFS file system. A crafted BFS filesystem may lead to an uncontrolled loop, causing grub2 to crash.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> Direct Composition BFS Protocol
 `2025-09-17`
 
@@ -666,6 +694,34 @@ The collective evidence firmly establishes that the intrinsic glass network char
 </blockquote>
 <blockquote>
 Detailed tutorial on Breadth First Search to improve your understanding of Algorithms. Also try practice problems to test &amp; improve your skill level.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition BFS vulnerability
+`2025-09-17`
+
+* https://windowsforum.com/tags/bfs-vulnerability/
+
+<blockquote>
+ bfsvulnerabilityWindowsForum
+</blockquote>
+<blockquote>
+bfs vulnerability cve-2025-53142 edr detection endpoint hardening kernel exploitation kernel use-after-free least privilege local privilege escalation memory corruption microsoft bfs msrc advisory patch management ransomware risk security update guide windows security
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition BFS vulnerability
+`2025-09-17`
+
+* https://www.cvedetails.com/cve/CVE-2024-45778/
+
+<blockquote>
+ CVE202445778AstackoverflowflawwasfoundwhenreadingaBFS
+</blockquote>
+<blockquote>
+Vulnerability Details : CVE-2024-45778 A stack overflow flaw was found when reading a BFS file system. A crafted BFS filesystem may lead to an uncontrolled loop, causing grub2 to crash.
 </blockquote>
 
 ---

@@ -1,6 +1,20 @@
 ## DuckDuckgo search -> TP-Link Execute arbitrary code
 `2025-09-17`
 
+* https://securityvulnerability.io/vulnerability/CVE-2025-9961
+
+<blockquote>
+ RemoteCodeExecutionVulnerabilityinTPLinkAX10andAX1500Routers
+</blockquote>
+<blockquote>
+A vulnerability has been identified in TP-Link AX10 and AX1500 routers, allowing an authenticated attacker to remotely execute arbitrary code via the CWMP binary.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-09-17`
+
 * https://www.cvedetails.com/cve/CVE-2024-54887/
 
 <blockquote>

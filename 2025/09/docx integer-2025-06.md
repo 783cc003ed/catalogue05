@@ -1477,6 +1477,50 @@ Keywords: control flow guard bypass
 ---
 
 # GitHub search -> docx integer
+# dalfox
+
+https://github.com/hahwul/dalfox
+<blockquote>
+🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>hahwul</code></td>
+    <td>Language: <code>Go</code></td>
+    <td>Started: <code>2020-04-12 07:04:10+00:00</code></td>
+    <td>Latest: <code>2025-09-18 07:56:34+09:00</code></td></tr>
+<tr><td>Commits: <code>2039</code></td>
+    <td>Stargazers: <code>4533</code></td>
+    <td>Watchers: <code>4533</code></td>
+    <td>Forks: <code>490</code></td></tr>
+</table>
+Keywords: xss
+
+---
+
+# GitHub search -> docx integer
+# CTF-walkthroughs
+
+https://github.com/Nish344/CTF-walkthroughs
+<blockquote>
+🔐 Cybersecurity Lab Reports &amp;amp; CTF Write-ups – Reconnaissance, exploitation, privilege escalation, and mitigation strategies 🛠️ | My curated archive of hacking challenges, vulnerability assessments, and hands-on security research 📂
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Nish344</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2025-08-10 17:35:52+00:00</code></td>
+    <td>Latest: <code>2025-09-17 11:29:13+00:00</code></td></tr>
+<tr><td>Commits: <code>155</code></td>
+    <td>Stargazers: <code>2</code></td>
+    <td>Watchers: <code>2</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: escalation of privileges exploit
+
+---
+
+# GitHub search -> docx integer
 # GarudRecon
 
 https://github.com/rix4uni/GarudRecon
@@ -1512,9 +1556,9 @@ Smart-doc is a java restful api document generation tool. Smart-doc is based on 
     <td>Started: <code>2019-09-10 01:23:13+00:00</code></td>
     <td>Latest: <code>2025-09-17 11:55:29+08:00</code></td></tr>
 <tr><td>Commits: <code>2205</code></td>
-    <td>Stargazers: <code>1571</code></td>
-    <td>Watchers: <code>1571</code></td>
-    <td>Forks: <code>295</code></td></tr>
+    <td>Stargazers: <code>1572</code></td>
+    <td>Watchers: <code>1572</code></td>
+    <td>Forks: <code>296</code></td></tr>
 </table>
 Keywords: code injection
 
@@ -1600,8 +1644,8 @@ jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS
     <td>Started: <code>2009-12-19 01:29:58+00:00</code></td>
     <td>Latest: <code>2025-09-16 12:19:11+10:00</code></td></tr>
 <tr><td>Commits: <code>2764</code></td>
-    <td>Stargazers: <code>11244</code></td>
-    <td>Watchers: <code>11244</code></td>
+    <td>Stargazers: <code>11243</code></td>
+    <td>Watchers: <code>11243</code></td>
     <td>Forks: <code>2255</code></td></tr>
 </table>
 Keywords: xss
@@ -1644,9 +1688,9 @@ Automatic SQL injection and database takeover tool
     <td>Started: <code>2012-06-26 09:52:15+00:00</code></td>
     <td>Latest: <code>2025-09-15 00:03:04+02:00</code></td></tr>
 <tr><td>Commits: <code>10456</code></td>
-    <td>Stargazers: <code>35303</code></td>
-    <td>Watchers: <code>35303</code></td>
-    <td>Forks: <code>6041</code></td></tr>
+    <td>Stargazers: <code>35308</code></td>
+    <td>Watchers: <code>35308</code></td>
+    <td>Forks: <code>6043</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -1666,9 +1710,9 @@ Top disclosed reports from HackerOne
     <td>Started: <code>2019-04-19 06:11:04+00:00</code></td>
     <td>Latest: <code>2025-09-14 21:12:20+04:00</code></td></tr>
 <tr><td>Commits: <code>141</code></td>
-    <td>Stargazers: <code>4842</code></td>
-    <td>Watchers: <code>4842</code></td>
-    <td>Forks: <code>869</code></td></tr>
+    <td>Stargazers: <code>4847</code></td>
+    <td>Watchers: <code>4847</code></td>
+    <td>Forks: <code>871</code></td></tr>
 </table>
 Keywords: xxe, ssrf
 
@@ -1715,50 +1759,6 @@ Create, edit and write a2l files with this rust crate
     <td>Forks: <code>15</code></td></tr>
 </table>
 Keywords: lfi
-
----
-
-# GitHub search -> docx integer
-# dalfox
-
-https://github.com/hahwul/dalfox
-<blockquote>
-🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>hahwul</code></td>
-    <td>Language: <code>Go</code></td>
-    <td>Started: <code>2020-04-12 07:04:10+00:00</code></td>
-    <td>Latest: <code>2025-09-10 16:42:57+09:00</code></td></tr>
-<tr><td>Commits: <code>2037</code></td>
-    <td>Stargazers: <code>4533</code></td>
-    <td>Watchers: <code>4533</code></td>
-    <td>Forks: <code>490</code></td></tr>
-</table>
-Keywords: xss
-
----
-
-# GitHub search -> docx integer
-# CTF-walkthroughs
-
-https://github.com/Nish344/CTF-walkthroughs
-<blockquote>
-🔐 Cybersecurity Lab Reports &amp;amp; CTF Write-ups – Reconnaissance, exploitation, privilege escalation, and mitigation strategies 🛠️ | My curated archive of hacking challenges, vulnerability assessments, and hands-on security research 📂
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>Nish344</code></td>
-    <td>Language: <code>None</code></td>
-    <td>Started: <code>2025-08-10 17:35:52+00:00</code></td>
-    <td>Latest: <code>2025-09-09 17:10:49+00:00</code></td></tr>
-<tr><td>Commits: <code>153</code></td>
-    <td>Stargazers: <code>2</code></td>
-    <td>Watchers: <code>2</code></td>
-    <td>Forks: <code>0</code></td></tr>
-</table>
-Keywords: escalation of privileges exploit
 
 ---
 
@@ -1864,8 +1864,8 @@ The extra fast, minimum code size, GC-free DI (Dependency Injection) library run
     <td>Started: <code>2020-06-02 11:57:34+00:00</code></td>
     <td>Latest: <code>2025-08-31 17:10:20+09:00</code></td></tr>
 <tr><td>Commits: <code>1405</code></td>
-    <td>Stargazers: <code>2479</code></td>
-    <td>Watchers: <code>2479</code></td>
+    <td>Stargazers: <code>2482</code></td>
+    <td>Watchers: <code>2482</code></td>
     <td>Forks: <code>218</code></td></tr>
 </table>
 Keywords: code injection
@@ -2480,9 +2480,9 @@ Repository for information about 0-days exploited in-the-wild.
     <td>Started: <code>2021-02-23 15:16:11+00:00</code></td>
     <td>Latest: <code>2025-07-08 11:51:33+02:00</code></td></tr>
 <tr><td>Commits: <code>136</code></td>
-    <td>Stargazers: <code>829</code></td>
-    <td>Watchers: <code>829</code></td>
-    <td>Forks: <code>84</code></td></tr>
+    <td>Stargazers: <code>830</code></td>
+    <td>Watchers: <code>830</code></td>
+    <td>Forks: <code>83</code></td></tr>
 </table>
 Keywords: 0day exploitation, 0day exploit
 
@@ -2766,9 +2766,9 @@ jSQL Injection is a Java application for automatic SQL database injection.
     <td>Started: <code>2012-07-18 18:07:09+00:00</code></td>
     <td>Latest: <code>2025-05-09 01:37:35+02:00</code></td></tr>
 <tr><td>Commits: <code>1550</code></td>
-    <td>Stargazers: <code>1677</code></td>
-    <td>Watchers: <code>1677</code></td>
-    <td>Forks: <code>435</code></td></tr>
+    <td>Stargazers: <code>1678</code></td>
+    <td>Watchers: <code>1678</code></td>
+    <td>Forks: <code>436</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -2810,9 +2810,9 @@ Most advanced XSS scanner.
     <td>Started: <code>2017-06-26 07:24:44+00:00</code></td>
     <td>Latest: <code>2025-04-26 14:17:06+05:30</code></td></tr>
 <tr><td>Commits: <code>478</code></td>
-    <td>Stargazers: <code>14309</code></td>
-    <td>Watchers: <code>14309</code></td>
-    <td>Forks: <code>2009</code></td></tr>
+    <td>Stargazers: <code>14311</code></td>
+    <td>Watchers: <code>14311</code></td>
+    <td>Forks: <code>2010</code></td></tr>
 </table>
 Keywords: xss
 
@@ -3228,8 +3228,8 @@ An advanced cross-platform tool that automates the process of detecting and expl
     <td>Started: <code>2022-10-01 11:21:50+00:00</code></td>
     <td>Latest: <code>2025-02-26 00:09:45+05:00</code></td></tr>
 <tr><td>Commits: <code>147</code></td>
-    <td>Stargazers: <code>3683</code></td>
-    <td>Watchers: <code>3683</code></td>
+    <td>Stargazers: <code>3685</code></td>
+    <td>Watchers: <code>3685</code></td>
     <td>Forks: <code>391</code></td></tr>
 </table>
 Keywords: sql injection
@@ -3272,8 +3272,8 @@ HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux
     <td>Started: <code>2015-05-28 08:24:56+00:00</code></td>
     <td>Latest: <code>2025-02-24 17:49:16+05:30</code></td></tr>
 <tr><td>Commits: <code>176</code></td>
-    <td>Stargazers: <code>2823</code></td>
-    <td>Watchers: <code>2823</code></td>
+    <td>Stargazers: <code>2824</code></td>
+    <td>Watchers: <code>2824</code></td>
     <td>Forks: <code>569</code></td></tr>
 </table>
 Keywords: vulnerability, Windows uaf vulnerability, uaf exploitation, Windows uaf exploitation, uaf vulnerability, Windows uaf
@@ -4680,8 +4680,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5870</code></td>
-    <td>Watchers: <code>5870</code></td>
+    <td>Stargazers: <code>5871</code></td>
+    <td>Watchers: <code>5871</code></td>
     <td>Forks: <code>703</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -4922,8 +4922,8 @@ the fastest and most powerful android decompiler(native tool working without Jav
     <td>Started: <code>2017-10-31 08:18:29+00:00</code></td>
     <td>Latest: <code>2023-09-11 12:59:51+08:00</code></td></tr>
 <tr><td>Commits: <code>250</code></td>
-    <td>Stargazers: <code>4557</code></td>
-    <td>Watchers: <code>4557</code></td>
+    <td>Stargazers: <code>4558</code></td>
+    <td>Watchers: <code>4558</code></td>
     <td>Forks: <code>554</code></td></tr>
 </table>
 Keywords: memory leak vulnerability
@@ -5318,8 +5318,8 @@ I have developed a malware program using the C programming language, which inclu
     <td>Started: <code>2023-04-24 09:03:51+00:00</code></td>
     <td>Latest: <code>2023-04-10 16:17:35+03:00</code></td></tr>
 <tr><td>Commits: <code>16</code></td>
-    <td>Stargazers: <code>0</code></td>
-    <td>Watchers: <code>0</code></td>
+    <td>Stargazers: <code>1</code></td>
+    <td>Watchers: <code>1</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: escalation of privileges exploitation, Win escalation of privileges, Windows escalation of privileges exploit, Win escalation of privileges exploitation, Win escalation of privileges exploit, escalation of privileges exploit, Windows escalation of privileges, Windows escalation of privileges exploitation
@@ -5472,8 +5472,8 @@ LFI to RCE via phpinfo() assistance or via controlled log file
     <td>Started: <code>2020-01-29 20:21:53+00:00</code></td>
     <td>Latest: <code>2023-02-08 19:37:59+01:00</code></td></tr>
 <tr><td>Commits: <code>24</code></td>
-    <td>Stargazers: <code>70</code></td>
-    <td>Watchers: <code>70</code></td>
+    <td>Stargazers: <code>71</code></td>
+    <td>Watchers: <code>71</code></td>
     <td>Forks: <code>12</code></td></tr>
 </table>
 Keywords: lfi
@@ -9014,8 +9014,8 @@ PowerForensics provides an all in one platform for live disk forensic analysis
     <td>Started: <code>2015-03-07 17:12:19+00:00</code></td>
     <td>Latest: <code>2018-04-20 03:34:59-07:00</code></td></tr>
 <tr><td>Commits: <code>272</code></td>
-    <td>Stargazers: <code>1417</code></td>
-    <td>Watchers: <code>1417</code></td>
+    <td>Stargazers: <code>1418</code></td>
+    <td>Watchers: <code>1418</code></td>
     <td>Forks: <code>283</code></td></tr>
 </table>
 Keywords: by_owner

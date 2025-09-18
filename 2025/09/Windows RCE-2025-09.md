@@ -1,3 +1,227 @@
+## DuckDuckgo search -> Windows RCE overflow
+`2025-09-17`
+
+* https://www.cvedetails.com/cve/CVE-2025-54113/
+
+<blockquote>
+ CVE202554113HeapbasedbufferoverflowinWindowsRoutingand
+</blockquote>
+<blockquote>
+Heap-based buffer overflow in Windows Routing and Remote Access Service (RRAS) allows an unauthorized attacker to execute code over a network.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE
+`2025-09-17`
+
+* https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/windows-recovery-environment--windows-re--technical-reference?view=windows-11
+
+<blockquote>
+ WindowsRecoveryEnvironmentWindowsREMicrosoftLearn
+</blockquote>
+<blockquote>
+Windows Recovery Environment (WinRE) is a recovery environment that can repair common causes of unbootable operating systems. WinRE is based on Windows Preinstallation Environment (Windows PE), and can be customized with additional drivers, languages, Windows PE Optional Components, and other troubleshooting and diagnostic tools.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE
+`2025-09-17`
+
+* https://informationsecurity.iu.edu/security-bulletins/bulletins-2024-08-14-remote-code-executon-windows-vuln.html
+
+<blockquote>
+ MicrosoftIPv6RemoteCodeExecutionVulnerability
+</blockquote>
+<blockquote>
+On August 13, 2024, Microsoft released patches for a variety of vulnerabilities, including one for a critical remote code execution (RCE) vulnerability in the IPv6 subsystem for Windows.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE
+`2025-09-17`
+
+* https://techcommunity.microsoft.com/discussions/microsoft-security/microsoft-windows-codecs-library-vulnerability-showing-up-on-scan-even-after-upd/3542814
+
+<blockquote>
+ MicrosoftWindowsCodecsLibraryVulnerabilityshowinguponscaneven
+</blockquote>
+<blockquote>
+This example is the Qualys QID 91866 Microsoft Windows Codecs Library HEVC Video and VP9 Extensions Remote Code Execution (RCE) Vulnerability for February 2022. I have updated all the relevant codecs, checked their current versions in PowerShell and confirmed with the CVE that they are up to date, but the VM keeps retrieving this in its scan.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE
+`2025-09-17`
+
+* https://cyberwarehub.com/blogs/cve-2025-21298-windows-ole-remote-code-execution-vulnerability
+
+<blockquote>
+ CVE202521298WindowsOLERemoteCodeExecutionVulnerability
+</blockquote>
+<blockquote>
+CVE-2025-21298 is a severe RCE vulnerability found in the OLE technology of several Windows versions, including Windows 10, Windows 11, and various Windows Server versions.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE
+`2025-09-17`
+
+* https://medium.com/@yuvasec/silent-intruders-0210ee5ff8f4
+
+<blockquote>
+ SilentIntrudersLearnhowattackersexploitWindowsRCEMedium
+</blockquote>
+<blockquote>
+This article dives deep into how RCE works in the Windows ecosystem, explores infamous real-world cases, explains how attackers exploit these flaws, and — most importantly — how you can defend ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE
+`2025-09-17`
+
+* https://darkwebinformer.com/alleged-sale-of-windows-zero-day-rce-exploit/
+
+<blockquote>
+ AllegedSaleofWindowsZeroDayRCEExploit
+</blockquote>
+<blockquote>
+📖 Overview A threat actor is advertising the sale of a Windows zero-day remote code execution (RCE) exploit. The actor claims the exploit provides kernel or high-privilege execution, stable reliability with a high success rate, and evasion of AV/EDR detection. They also state it is compatible with the latest Windows builds, suggesting it could pose a significant risk if legitimate.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE
+`2025-09-17`
+
+* https://learn.microsoft.com/en-us/answers/questions/1386444/how-to-fix-detection-of-old-version-of-microsoft-r
+
+<blockquote>
+ HowtofixdetectionofoldversionofMicrosoftRawImageExtension
+</blockquote>
+<blockquote>
+Hi, We have this problem with old version of Microsoft Raw Image Extension and VP9 Video Extension, even after we updated them, the old versions can be detected as installed. And when we tried to uninstall them, they remaine detected as installed. We had…
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE
+`2025-09-17`
+
+* https://github.com/SleepTheGod/WindowsRCE
+
+<blockquote>
+ GitHubSleepTheGodWindowsRCERCEPoCForWindows
+</blockquote>
+<blockquote>
+Windows RCE Proof of Concept Overview This repository contains a proof of concept script for demonstrating Remote Code Execution (RCE) capabilities on Windows systems using WebAssembly. The script, main.py, automates the setup and execution of a WebAssembly module built from C++ code.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE
+`2025-09-17`
+
+* https://censys.com/advisory/cve-2025-21298
+
+<blockquote>
+ January23AdvisoryWindowsOLEVulnerabilityRCECVE202521298
+</blockquote>
+<blockquote>
+Date of Disclosure (source): January 14, 2025 CVE-2025-21298 is a critical flaw in Windows Object Linking and Embedding (OLE) technology. This issue spans a wide range of systems, from Windows Server 2008 to 2025 and Windows 10/11, impacting both server installations (including Server Core) and desktop setups.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE Protocol
+`2025-09-17`
+
+* https://www.cve.news/cve-2024-49132/
+
+<blockquote>
+ CVE202449132WindowsRemoteDesktopServicesRemoteCodeExecution
+</blockquote>
+<blockquote>
+CVE-2024-49132 is a remote code execution (RCE) flaw in Microsoft's Remote Desktop Services. Attackers can craft special Remote Desktop Protocol (RDP) requests and send them over the network.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE Protocol
+`2025-09-17`
+
+* https://techcommunity.microsoft.com/blog/microsoft-security-blog/detecting-remote-code-execution-with-microsoft-advanced-threat-analytics/250448
+
+<blockquote>
+ DetectingremotecodeexecutionwithMicrosoftAdvancedThreat
+</blockquote>
+<blockquote>
+Attackers prefer to use RCE instead of Remote Desktop Protocol (RDP) to connect to machines as it gives them stealth access and take control or harvest credentials on remote machines, including Domain Controllers (DC).
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE Protocol
+`2025-09-17`
+
+* https://gbhackers.com/wormable-windows-ldap-rce-vulnerability/
+
+<blockquote>
+ HackersCanExploitWormableWindowsLDAPRCEVulnerabilityfor
+</blockquote>
+<blockquote>
+The exploit occurs within Windows LDAP when processing specially crafted network requests, allowing attackers to trigger a remote code execution (RCE) without requiring authentication or user interaction. This attack can spread in a worm-like fashion, propagating across unpatched systems on the same network.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE Protocol
+`2025-09-17`
+
+* https://www.blumira.com/blog/cve-2024-38063-windows-tcp/ip-remote-code-execution-vulnerability
+
+<blockquote>
+ CVE202438063WindowsTCPIPRemoteCodeExecutionVulnerability
+</blockquote>
+<blockquote>
+This vulnerability within the Windows TCP/IP stack could potentially allow for attackers to perform remote code execution (RCE) by flooding victim endpoints with IPv6 packets, triggering an integer underflow state. Windows based endpoints with IPv6 enabled are all potentially vulnerable to this exploit.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE Protocol
+`2025-09-17`
+
+* https://windowsforum.com/threads/cve-2024-43533-critical-rce-vulnerability-in-remote-desktop-client.343542/
+
+<blockquote>
+ CVE202443533CriticalRCEVulnerabilityinRemoteDesktopClient
+</blockquote>
+<blockquote>
+This vulnerability has raised alarms in the cybersecurity community due to its potential for remote code execution (RCE) exploits, posing significant risks to Windows users leveraging Remote Desktop Protocol (RDP) for remote connections. What Does This Mean for You?
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Windows RCE Protocol
+`2025-09-17`
+
+* https://windowsforum.com/threads/cve-2025-21241-critical-windows-rce-vulnerability-explained.349474/
+
+<blockquote>
+ CVE202521241CriticalWindowsRCEVulnerabilityExplained
+</blockquote>
+<blockquote>
+The vulnerability resides in the Windows Telephony Application Programming Interface (TAPI), a core layer responsible for enabling applications to utilize telecommunication features such as VoIP (Voice over Internet Protocol), conferencing software, and even classic dial-up modems (yes, those still exist in some corners of the enterprise world).
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> Windows RCE vulnerability
 `2025-09-17`
 

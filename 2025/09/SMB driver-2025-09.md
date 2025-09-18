@@ -1,3 +1,129 @@
+## DuckDuckgo search -> SMB driver overflow
+`2025-09-17`
+
+* https://stackoverflow.com/questions/5115959/easiest-way-to-implement-a-smb-redirector-for-windows
+
+<blockquote>
+ EasiestwaytoimplementaSMBredirectorforWindows
+</blockquote>
+<blockquote>
+This would work hand in hand with a driver? dll? that hooks into Windows as an SMB redirector, but scans a table of server names set up by netsubst instead of looking them up on the network in order to find out what to connect to.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB driver overflow
+`2025-09-17`
+
+* https://www.izoate.com/blog/windows-11-an-extended-error-has-occurred-fix-resolve-network-shares-mapped-drive-issue-smb-error/
+
+<blockquote>
+ Windows11AnExtendedErrorHasOccurredFixResolveNetworkShares
+</blockquote>
+<blockquote>
+This issue has become increasingly common after recent Windows 11 updates (23H2 and 24H2), where Microsoft introduced stricter security defaults for SMB (Server Message Block) connections. While these changes improve security, they can also cause older NAS devices, routers, or loosely configured servers to stop working as expected—surfacing this vague &quot;extended error&quot; message. The good ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB driver overflow
+`2025-09-17`
+
+* https://unix.stackexchange.com/questions/480557/samba-print-share-wont-allow-driver-upload-from-windows-machine
+
+<blockquote>
+ sambaprintsharewontallowdriveruploadfromWindowsmachine
+</blockquote>
+<blockquote>
+I am trying to use samba together with CUPS to share printers and their drivers for Windows machines in the network. Every time I try to upload Printer drivers from a Windows 10 machine via the
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB driver overflow
+`2025-09-17`
+
+* https://community.cisco.com/t5/network-security/sudden-windows-dcom-overflow-flood/m-p/939785
+
+<blockquote>
+ ReSuddenWindowsDCOMOverflowfloodCiscoCommunity
+</blockquote>
+<blockquote>
+All of these were fixed in S342 I think: The S342 signature update contains the following modified signature: PLATFORM SIGID SIGNAME ENGINE SEVERITY ENABLED DDTS 5.x, 6.x 5565.4 Print Spooler Service Overflow SERVICE-SMB-ADVANCED High True CSCsq99671 5.x, 6.x 5588.0 Windows DCOM Overflow SERVICE-SM...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB driver
+`2025-09-17`
+
+* https://docs.openshift.com/container-platform/4.16/storage/container_storage_interface/persistent-storage-csi-smb-cifs.html
+
+<blockquote>
+ Chapter5UsingContainerStorageInterfaceCSI
+</blockquote>
+<blockquote>
+CSI drivers are typically shipped as container images. These containers are not aware of OpenShift Container Platform where they run. To use CSI-compatible storage back end in OpenShift Container Platform, the cluster administrator must deploy several components that serve as a bridge between OpenShift Container Platform and the storage driver. The following diagram provides a high-level ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB driver
+`2025-09-17`
+
+* https://docs.openstack.org/cinder/latest/configuration/block-storage/drivers/windows-smb-volume-driver.html
+
+<blockquote>
+ WindowsSMBvolumedrivercinder2610dev148documentation
+</blockquote>
+<blockquote>
+The SMB volume driver relies on the nova assisted volume snapshots feature when snapshotting in-use volumes, as do other similar drivers using shared filesystems. By default, the Nova policy requires admin rights for this operation. You may provide Cinder specific credentials to be used when requesting Nova assisted volume snapshots, as shown ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB driver
+`2025-09-17`
+
+* https://www.iamchaichai.com/2023/02/01/install-smb-csi-driver-master-version-on-a-kubernetes-cluster/
+
+<blockquote>
+ InstallSMBCSIdrivermasterversiononaKubernetescluster
+</blockquote>
+<blockquote>
+example to install and use SMB csi driver on kubernetes cluster
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB driver
+`2025-09-17`
+
+* https://docs.openstack.org/cinder/rocky/configuration/block-storage/drivers/windows-smb-volume-driver.html
+
+<blockquote>
+ OpenStackDocsWindowsSMBvolumedriver
+</blockquote>
+<blockquote>
+Description ¶ The Windows SMB volume driver leverages pre-existing SMB shares, used to store volumes as virtual disk images. The main reasons to use the Windows SMB driver are: ease of management and use great integration with other Microsoft technologies (e.g. Hyper-V Failover Cluster) suitable for a various range of deployment types and sizes The cinder-volume service as well as the ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB driver
+`2025-09-17`
+
+* https://learn.microsoft.com/en-us/windows-server/storage/file-server/best-practices-analyzer/smb-open-file-sharing-ports
+
+<blockquote>
+ SMBFileandprintersharingportsshouldbeopen
+</blockquote>
+<blockquote>
+Learn how to keep file and printer sharing ports open for Server Message Block (SMB)-based network services and resolve the Best Practices Analyzer scan issue.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> SMB driver vulnerability
 `2025-09-17`
 

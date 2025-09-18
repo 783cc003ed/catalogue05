@@ -1,3 +1,339 @@
+## DuckDuckgo search -> D-Link poc
+`2025-09-17`
+
+* https://securityvulnerability.io/vulnerability/CVE-2025-10441
+
+<blockquote>
+ OSCommandInjectionVulnerabilityinDLinkRoutersCVE202510441
+</blockquote>
+<blockquote>
+Explore the OS Command Injection vulnerability affecting D-Link routers including DI-8100G, DI-8200G, and DI-8003G.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc
+`2025-09-17`
+
+* https://www.globalpointofcare.abbott/us/en/support/poc-link-connectivity-solution-for-id-now.html
+
+<blockquote>
+ POCLinkConnectivityToolforIDNOWAbbottPointofCare
+</blockquote>
+<blockquote>
+POC LINK FOR ID NOW™ PLATFORM SIMPLE. SECURE. REliable. FOR MORE INFORMATION, CONTACT YOUR ABBOTT REPRESENTATIVE OR TECHNICAL CONSULTANT Software upDATES as easy as 1-2-3 To update ID NOW™ Software remotely, contact your local Abbott Account Manager or Technical Consultant to connect the ID NOW™ Instrument and register with POC Link.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc
+`2025-09-17`
+
+* https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10435
+
+<blockquote>
+ DLinkTechnicalSupport
+</blockquote>
+<blockquote>
+The product has been identified as having multiple vulnerabilities. D-Link Corporation and D-Link North America (D-Link Systems, Inc.) recommend that all current users take one or more of the following actions: 1. Transition to a current-generation product that has active firmware development and customer support. 2. Perform comprehensive data ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc
+`2025-09-17`
+
+* https://bergfreunde.eu
+
+<blockquote>
+ POConlineBergfreundeeuOnlineShop
+</blockquote>
+<blockquote>
+Discover products by POC - well equipped for your adventure. At your service with advice and expertise: Bergfreunde.eu - Shop conveniently online now!
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc
+`2025-09-17`
+
+* https://bergzeit.de
+
+<blockquote>
+ POCPOCimBergzeitShopBergsportOnlineShop
+</blockquote>
+<blockquote>
+POC bei Bergzeit. Jetzt online bestellen! Unser Team testet Deine Bergsport- und Outdoor-Ausrüstung nach höchsten Ansprüchen.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc
+`2025-09-17`
+
+* https://nvd.nist.gov/vuln/detail/CVE-2025-5912
+
+<blockquote>
+ NvdCve20255912
+</blockquote>
+<blockquote>
+Information Technology Laboratory National Vulnerability DatabaseVulnerabilities
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc
+`2025-09-17`
+
+* https://berg-freunde.at
+
+<blockquote>
+ POCOnlineShopTopOutdoorBekleidung
+</blockquote>
+<blockquote>
+Bekleidung und Fahrradzubehör von POC. Sofort ab Lager lieferbar - kaufen!
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc
+`2025-09-17`
+
+* https://www.bleepingcomputer.com/news/security/d-link-wont-fix-critical-flaw-affecting-60-000-older-nas-devices/
+
+<blockquote>
+ DLinkwontfixcriticalflawaffecting60000olderNASdevices
+</blockquote>
+<blockquote>
+More than 60,000 D-Link network-attached storage devices that have reached end-of-life are vulnerable to a command injection vulnerability with a publicly available exploit.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc
+`2025-09-17`
+
+* https://supersales.nl
+
+<blockquote>
+ KortingopPocPocnog2dagensale
+</blockquote>
+<blockquote>
+Alle Sale items van POC op één pagina. Bekijk de nieuwste aanbiedingen van Poc
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc
+`2025-09-17`
+
+* https://www.labs.greynoise.io/grimoire/2024-06-25-dlink-again/
+
+<blockquote>
+ PermaVulnDLinkDIR859CVE20240769GreyNoiseLabs
+</blockquote>
+<blockquote>
+CVE-2024-0769 affects D-Link DIR-859 WiFi routers. All revisions, all firmware, and the product is End-of-Life (EOL) meaning it will never recieve a patch.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc
+`2025-09-17`
+
+* https://github.com/topics/d-link
+
+<blockquote>
+ dlinkGitHubTopicsGitHub
+</blockquote>
+<blockquote>
+proof-of-concept exploit scanner hacking systems exploits poc devices exploitation d-link command-injection remote-code-execution command-injections rce-exploit cve-2024-3273 Updated on Apr 9, 2024 Python
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc
+`2025-09-17`
+
+* https://bergfreunde.de
+
+<blockquote>
+ POCbeiBergfreundedeQualitätsBekleidungundBike
+</blockquote>
+<blockquote>
+Sichere Dir Outdoor Bekleidung und Fahrradzubehör von POC beim Outdoor Experten! Kaufe bei Bergfreunde.de - Wir stehen mit Service, Beratung und Kompetenz an Deiner Seite!
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc Authentication Bypass
+`2025-09-17`
+
+* https://securityaffairs.com/179354/security/u-s-cisa-adds-ami-megarac-spx-d-link-dir-859-routers-and-fortinet-fortios-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+
+<blockquote>
+ USCISAaddsAMIMegaRACSPxDLinkDIR859routersandFortinet
+</blockquote>
+<blockquote>
+CVE-2024-54085 AMI MegaRAC SPx Authentication Bypass by Spoofing Vulnerability CVE-2024-0769 D-Link DIR-859 Router Path Traversal Vulnerability CVE-2019-6693 Fortinet FortiOS Use of Hard-Coded Credentials Vulnerability The vulnerability CVE-2024-0769 is a path traversal issue that can lead to information disclosure.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc Authentication Bypass
+`2025-09-17`
+
+* https://github.com/emadshanab/goby-poc/blob/main/HP-iLO4-Login-Authentication-Bypass-(CVE-2017-12542).json
+
+<blockquote>
+ gobypocHPiLO4LoginAuthenticationBypassCVE201712542GitHub
+</blockquote>
+<blockquote>
+This repository comes from an Internet collection. Contribute to emadshanab/goby-poc development by creating an account on GitHub.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc Authentication Bypass
+`2025-09-17`
+
+* https://www.youtube.com/watch?v=T_IMjRnepbE
+
+<blockquote>
+ CVE202140655DLINKDIR605AuthenticationBypassVulnerability
+</blockquote>
+<blockquote>
+Exploit for information disclosure vulnerability to obtain user name and password by forging a request to the / getcfg.php page
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc OS Command injection
+`2025-09-17`
+
+* https://vulmon.com/vulnerabilitydetails?qid=CVE-2025-55583
+
+<blockquote>
+ CVE202555583UnauthenticatedOSCommandInjectioninDLinkDIR
+</blockquote>
+<blockquote>
+Vulnerability Summary D-Link DIR-868L B1 router firmware version FW2.05WWB02 has a serious security vulnerability in its fileaccess.cgi component. The /dws/api/UploadFile endpoint allows unauthenticated remote attackers to inject and execute arbitrary OS commands as root. This happens because the pre_api_arg parameter is passed directly to system-level shell execution functions without any ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc OS Command injection
+`2025-09-17`
+
+* https://securityvulnerability.io/vulnerability/CVE-2013-10050
+
+<blockquote>
+ OSCommandInjectioninDLinkRoutersCVE201310050
+</blockquote>
+<blockquote>
+An OS command injection vulnerability affects multiple D-Link routers, particularly DIR-300 rev A and DIR-615 rev D. This flaw allows authenticated users to exploit the tools_vct.xgi CGI endpoint by injecting arbitrary shell commands through the pingIp parameter.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc OS Command injection
+`2025-09-17`
+
+* https://www.cvedetails.com/cve/CVE-2024-10914/
+
+<blockquote>
+ CVE202410914AvulnerabilitywasfoundinDLinkDNS320DNS320LW
+</blockquote>
+<blockquote>
+The manipulation of the argument name leads to os command injection. The attack can be launched remotely. The complexity of an attack is rather high. The exploitation appears to be difficult. The exploit has been disclosed to the public and may be used.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc OS Command injection
+`2025-09-17`
+
+* https://secalerts.co/vulnerability/CVE-2025-9769
+
+<blockquote>
+ CVE20259769DLinkDI7400Gmngplatformaspsub478D28command
+</blockquote>
+<blockquote>
+A security flaw has been discovered in D-Link DI-7400G+ 19.12.25A1. Affected is the function sub_478D28 of the file /mng_platform.asp. The manipulation of the argument addr with the input `echo 12345 &gt; poc.txt` results in command injection. An attack on the physical device is feasible. The exploit has been released to the public and may be exploited.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc OS Command injection
+`2025-09-17`
+
+* https://securityonline.info/poc-published-critical-unauthenticated-command-injection-flaw-in-d-link-routers-cvss-9-8-no-patch/
+
+<blockquote>
+ PoCPublishedCriticalUnauthenticatedCommandInjectionFlawinD
+</blockquote>
+<blockquote>
+D-Link warns of a critical command injection flaw (CVSS 9.8) in its EOL DIR-series routers. A PoC is public, and since no patch is available, devices must be replaced.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc OS Command injection
+`2025-09-17`
+
+* https://github.com/JMS-Security/CVE-2025-25256-PoC
+
+<blockquote>
+ JMSSecurityCVE202525256PoCGitHub
+</blockquote>
+<blockquote>
+This repository contains a proof-of-concept (POC) for a critical unauthenticated command injection security flaw (CVE-2025-25256) was recently identified in Fortinet FortiSIEM. The issue allows an attacker to remotely run commands on the system without logging in. The problem is tied to the phMonitor that listens on port 7900 and has been rated 9.8/10 in severity.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc OS Command injection
+`2025-09-17`
+
+* https://github.com/killvxk/CVE-2024-10914-verylazytech/
+
+<blockquote>
+ POCCVE202410914CommandInjectionVulnerabilityinname
+</blockquote>
+<blockquote>
+The vulnerability is localized to the account_mgr.cgi script, particularly in the handling of the cgi_user_add command. The name parameter in this script does not adequately sanitize input, allowing for command execution. Read about it — CVE-2024-10914 Disclaimer: This Proof of Concept (POC) is made for educational and ethical testing purposes only. Usage of this tool for attacking targets ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc Auth Bypass
+`2025-09-17`
+
+* https://vulmon.com/vulnerabilitydetails?qid=CVE-2020-25078
+
+<blockquote>
+ CVE202025078vulmoncom
+</blockquote>
+<blockquote>
+Vendor Advisories Check Point Security Alerts: D-Link DCS-2530L Authentication Bypass (CVE-2020-25078) Check Point Reference: CPAI-2020-4203 Date Published: 14 Oct 2024 Severity: High ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> D-Link poc Auth Bypass
+`2025-09-17`
+
+* https://cvefeed.io/vuln/detail/CVE-2020-24579
+
+<blockquote>
+ CVE202024579DLinkDSL2888AUnauthenticatedAuthenticationBypass
+</blockquote>
+<blockquote>
+An issue was discovered on D-Link DSL-2888A devices with firmware prior to AU_2.31_V1.1.47ae55. An unauthenticated attacker could bypass authentication to access authenticated pages and functionality.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> D-Link poc zero-click
 `2025-09-17`
 

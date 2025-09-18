@@ -217,6 +217,94 @@ Keywords: control flow guard bypass
 ---
 
 # GitHub search -> win32k error
+# Nginx-Lua-Anti-DDoS
+
+https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS
+<blockquote>
+A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>C0nw0nk</code></td>
+    <td>Language: <code>Lua</code></td>
+    <td>Started: <code>2019-08-21 23:52:09+00:00</code></td>
+    <td>Latest: <code>2025-09-18 08:10:51+00:00</code></td></tr>
+<tr><td>Commits: <code>352</code></td>
+    <td>Stargazers: <code>1361</code></td>
+    <td>Watchers: <code>1361</code></td>
+    <td>Forks: <code>294</code></td></tr>
+</table>
+Keywords: xml external entity, session attack, zero-day dos, zero-day vulnerability, zero-day exploitation, session vulnerability, zero-day exploit
+
+---
+
+# GitHub search -> win32k error
+# dalfox
+
+https://github.com/hahwul/dalfox
+<blockquote>
+🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>hahwul</code></td>
+    <td>Language: <code>Go</code></td>
+    <td>Started: <code>2020-04-12 07:04:10+00:00</code></td>
+    <td>Latest: <code>2025-09-18 07:56:34+09:00</code></td></tr>
+<tr><td>Commits: <code>2039</code></td>
+    <td>Stargazers: <code>4533</code></td>
+    <td>Watchers: <code>4533</code></td>
+    <td>Forks: <code>490</code></td></tr>
+</table>
+Keywords: xss
+
+---
+
+# GitHub search -> win32k error
+# Gamal
+
+https://github.com/Fadavvi/Gamal
+<blockquote>
+A tiny flask app for helping red-teamers, purple teamers, and pentesters in delivery, data exfiltration, and some attacks (SSRF, XXE, XSS, Session Hijacking, Session Riding).
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Fadavvi</code></td>
+    <td>Language: <code>Python</code></td>
+    <td>Started: <code>2020-12-09 07:23:14+00:00</code></td>
+    <td>Latest: <code>2025-09-17 12:02:18+00:00</code></td></tr>
+<tr><td>Commits: <code>25</code></td>
+    <td>Stargazers: <code>8</code></td>
+    <td>Watchers: <code>8</code></td>
+    <td>Forks: <code>1</code></td></tr>
+</table>
+Keywords: session hijacking
+
+---
+
+# GitHub search -> win32k error
+# CTF-walkthroughs
+
+https://github.com/Nish344/CTF-walkthroughs
+<blockquote>
+🔐 Cybersecurity Lab Reports &amp;amp; CTF Write-ups – Reconnaissance, exploitation, privilege escalation, and mitigation strategies 🛠️ | My curated archive of hacking challenges, vulnerability assessments, and hands-on security research 📂
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Nish344</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2025-08-10 17:35:52+00:00</code></td>
+    <td>Latest: <code>2025-09-17 11:29:13+00:00</code></td></tr>
+<tr><td>Commits: <code>155</code></td>
+    <td>Stargazers: <code>2</code></td>
+    <td>Watchers: <code>2</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: escalation of privileges exploit
+
+---
+
+# GitHub search -> win32k error
 # SQL-Injection-Vulnerable-Login-form
 
 https://github.com/shamsher404/SQL-Injection-Vulnerable-Login-form
@@ -235,28 +323,6 @@ Insecure PHP+MySQL login lab (for offline classroom use only) — intentionally 
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: session vulnerability
-
----
-
-# GitHub search -> win32k error
-# Nginx-Lua-Anti-DDoS
-
-https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS
-<blockquote>
-A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>C0nw0nk</code></td>
-    <td>Language: <code>Lua</code></td>
-    <td>Started: <code>2019-08-21 23:52:09+00:00</code></td>
-    <td>Latest: <code>2025-09-17 06:26:34+00:00</code></td></tr>
-<tr><td>Commits: <code>340</code></td>
-    <td>Stargazers: <code>1360</code></td>
-    <td>Watchers: <code>1360</code></td>
-    <td>Forks: <code>294</code></td></tr>
-</table>
-Keywords: xml external entity, session attack, zero-day dos, zero-day vulnerability, zero-day exploitation, session vulnerability, zero-day exploit
 
 ---
 
@@ -318,9 +384,9 @@ Smart-doc is a java restful api document generation tool. Smart-doc is based on 
     <td>Started: <code>2019-09-10 01:23:13+00:00</code></td>
     <td>Latest: <code>2025-09-17 11:55:29+08:00</code></td></tr>
 <tr><td>Commits: <code>2205</code></td>
-    <td>Stargazers: <code>1571</code></td>
-    <td>Watchers: <code>1571</code></td>
-    <td>Forks: <code>295</code></td></tr>
+    <td>Stargazers: <code>1572</code></td>
+    <td>Watchers: <code>1572</code></td>
+    <td>Forks: <code>296</code></td></tr>
 </table>
 Keywords: code injection
 
@@ -516,33 +582,11 @@ jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS
     <td>Started: <code>2009-12-19 01:29:58+00:00</code></td>
     <td>Latest: <code>2025-09-16 12:19:11+10:00</code></td></tr>
 <tr><td>Commits: <code>2764</code></td>
-    <td>Stargazers: <code>11244</code></td>
-    <td>Watchers: <code>11244</code></td>
+    <td>Stargazers: <code>11243</code></td>
+    <td>Watchers: <code>11243</code></td>
     <td>Forks: <code>2255</code></td></tr>
 </table>
 Keywords: xss
-
----
-
-# GitHub search -> win32k error
-# Gamal
-
-https://github.com/Fadavvi/Gamal
-<blockquote>
-A tiny flask app for helping red-teamers, purple teamers, and pentesters in delivery, data exfiltration, and some attacks (SSRF, XXE, XSS, Session Hijacking, Session Riding).
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>Fadavvi</code></td>
-    <td>Language: <code>Python</code></td>
-    <td>Started: <code>2020-12-09 07:23:14+00:00</code></td>
-    <td>Latest: <code>2025-09-15 21:23:59+00:00</code></td></tr>
-<tr><td>Commits: <code>24</code></td>
-    <td>Stargazers: <code>8</code></td>
-    <td>Watchers: <code>8</code></td>
-    <td>Forks: <code>1</code></td></tr>
-</table>
-Keywords: session hijacking
 
 ---
 
@@ -582,9 +626,9 @@ Automatic SQL injection and database takeover tool
     <td>Started: <code>2012-06-26 09:52:15+00:00</code></td>
     <td>Latest: <code>2025-09-15 00:03:04+02:00</code></td></tr>
 <tr><td>Commits: <code>10456</code></td>
-    <td>Stargazers: <code>35303</code></td>
-    <td>Watchers: <code>35303</code></td>
-    <td>Forks: <code>6041</code></td></tr>
+    <td>Stargazers: <code>35308</code></td>
+    <td>Watchers: <code>35308</code></td>
+    <td>Forks: <code>6043</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -626,9 +670,9 @@ Top disclosed reports from HackerOne
     <td>Started: <code>2019-04-19 06:11:04+00:00</code></td>
     <td>Latest: <code>2025-09-14 21:12:20+04:00</code></td></tr>
 <tr><td>Commits: <code>141</code></td>
-    <td>Stargazers: <code>4842</code></td>
-    <td>Watchers: <code>4842</code></td>
-    <td>Forks: <code>869</code></td></tr>
+    <td>Stargazers: <code>4847</code></td>
+    <td>Watchers: <code>4847</code></td>
+    <td>Forks: <code>871</code></td></tr>
 </table>
 Keywords: xxe, ssrf
 
@@ -921,28 +965,6 @@ Keywords: Windows memory leak
 ---
 
 # GitHub search -> win32k error
-# dalfox
-
-https://github.com/hahwul/dalfox
-<blockquote>
-🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>hahwul</code></td>
-    <td>Language: <code>Go</code></td>
-    <td>Started: <code>2020-04-12 07:04:10+00:00</code></td>
-    <td>Latest: <code>2025-09-10 16:42:57+09:00</code></td></tr>
-<tr><td>Commits: <code>2037</code></td>
-    <td>Stargazers: <code>4533</code></td>
-    <td>Watchers: <code>4533</code></td>
-    <td>Forks: <code>490</code></td></tr>
-</table>
-Keywords: xss
-
----
-
-# GitHub search -> win32k error
 # poc
 
 https://github.com/Dark-life944/poc
@@ -983,28 +1005,6 @@ A lightweight chaos engineering demo with Docker Compose: Nginx → Flask → Re
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: csv injection
-
----
-
-# GitHub search -> win32k error
-# CTF-walkthroughs
-
-https://github.com/Nish344/CTF-walkthroughs
-<blockquote>
-🔐 Cybersecurity Lab Reports &amp;amp; CTF Write-ups – Reconnaissance, exploitation, privilege escalation, and mitigation strategies 🛠️ | My curated archive of hacking challenges, vulnerability assessments, and hands-on security research 📂
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>Nish344</code></td>
-    <td>Language: <code>None</code></td>
-    <td>Started: <code>2025-08-10 17:35:52+00:00</code></td>
-    <td>Latest: <code>2025-09-09 17:10:49+00:00</code></td></tr>
-<tr><td>Commits: <code>153</code></td>
-    <td>Stargazers: <code>2</code></td>
-    <td>Watchers: <code>2</code></td>
-    <td>Forks: <code>0</code></td></tr>
-</table>
-Keywords: escalation of privileges exploit
 
 ---
 
@@ -1616,8 +1616,8 @@ The extra fast, minimum code size, GC-free DI (Dependency Injection) library run
     <td>Started: <code>2020-06-02 11:57:34+00:00</code></td>
     <td>Latest: <code>2025-08-31 17:10:20+09:00</code></td></tr>
 <tr><td>Commits: <code>1405</code></td>
-    <td>Stargazers: <code>2479</code></td>
-    <td>Watchers: <code>2479</code></td>
+    <td>Stargazers: <code>2482</code></td>
+    <td>Watchers: <code>2482</code></td>
     <td>Forks: <code>218</code></td></tr>
 </table>
 Keywords: code injection
@@ -1726,8 +1726,8 @@ This repository contains all the XSS cheatsheet data to allow contributions from
     <td>Started: <code>2019-10-02 07:57:42+00:00</code></td>
     <td>Latest: <code>2025-08-28 15:59:41+01:00</code></td></tr>
 <tr><td>Commits: <code>176</code></td>
-    <td>Stargazers: <code>441</code></td>
-    <td>Watchers: <code>441</code></td>
+    <td>Stargazers: <code>442</code></td>
+    <td>Watchers: <code>442</code></td>
     <td>Forks: <code>87</code></td></tr>
 </table>
 Keywords: xss
@@ -2606,8 +2606,8 @@ A tool designed to exploit a privilege escalation vulnerability in the sudo prog
     <td>Started: <code>2018-12-07 21:08:02+00:00</code></td>
     <td>Latest: <code>2025-08-12 16:13:40+02:00</code></td></tr>
 <tr><td>Commits: <code>560</code></td>
-    <td>Stargazers: <code>2360</code></td>
-    <td>Watchers: <code>2360</code></td>
+    <td>Stargazers: <code>2359</code></td>
+    <td>Watchers: <code>2359</code></td>
     <td>Forks: <code>257</code></td></tr>
 </table>
 Keywords: escalation of privileges exploit, escalation of privileges vulnerability, escalation of privileges exploitation
@@ -3266,8 +3266,8 @@ This repository contains C++ code to load custom drivers by exploiting a vulnera
     <td>Started: <code>2025-01-24 16:38:15+00:00</code></td>
     <td>Latest: <code>2025-07-30 22:07:15+02:00</code></td></tr>
 <tr><td>Commits: <code>6</code></td>
-    <td>Stargazers: <code>13</code></td>
-    <td>Watchers: <code>13</code></td>
+    <td>Stargazers: <code>12</code></td>
+    <td>Watchers: <code>12</code></td>
     <td>Forks: <code>7</code></td></tr>
 </table>
 Keywords: patchguard bypass
@@ -3354,8 +3354,8 @@ Use after free in Windows Common Log File System Driver allows an authorized att
     <td>Started: <code>2025-07-30 08:04:27+00:00</code></td>
     <td>Latest: <code>2025-07-30 16:15:59+08:00</code></td></tr>
 <tr><td>Commits: <code>4</code></td>
-    <td>Stargazers: <code>10</code></td>
-    <td>Watchers: <code>10</code></td>
+    <td>Stargazers: <code>11</code></td>
+    <td>Watchers: <code>11</code></td>
     <td>Forks: <code>3</code></td></tr>
 </table>
 Keywords: Windows use after free, Windows use after free exploit, use after free exploit
@@ -4696,9 +4696,9 @@ Repository for information about 0-days exploited in-the-wild.
     <td>Started: <code>2021-02-23 15:16:11+00:00</code></td>
     <td>Latest: <code>2025-07-08 11:51:33+02:00</code></td></tr>
 <tr><td>Commits: <code>136</code></td>
-    <td>Stargazers: <code>829</code></td>
-    <td>Watchers: <code>829</code></td>
-    <td>Forks: <code>84</code></td></tr>
+    <td>Stargazers: <code>830</code></td>
+    <td>Watchers: <code>830</code></td>
+    <td>Forks: <code>83</code></td></tr>
 </table>
 Keywords: 0day exploitation, 0day exploit
 
@@ -5378,8 +5378,8 @@ MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStatio
     <td>Started: <code>2017-08-24 02:11:28+00:00</code></td>
     <td>Latest: <code>2025-06-20 20:13:40+02:00</code></td></tr>
 <tr><td>Commits: <code>549</code></td>
-    <td>Stargazers: <code>2728</code></td>
-    <td>Watchers: <code>2728</code></td>
+    <td>Stargazers: <code>2727</code></td>
+    <td>Watchers: <code>2727</code></td>
     <td>Forks: <code>155</code></td></tr>
 </table>
 Keywords: Windows memory leak
@@ -5422,8 +5422,8 @@ CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS d
     <td>Started: <code>2018-07-17 00:21:08+00:00</code></td>
     <td>Latest: <code>2025-06-20 08:19:51-05:00</code></td></tr>
 <tr><td>Commits: <code>743</code></td>
-    <td>Stargazers: <code>3330</code></td>
-    <td>Watchers: <code>3330</code></td>
+    <td>Stargazers: <code>3331</code></td>
+    <td>Watchers: <code>3331</code></td>
     <td>Forks: <code>701</code></td></tr>
 </table>
 Keywords: by_owner
@@ -6962,9 +6962,9 @@ jSQL Injection is a Java application for automatic SQL database injection.
     <td>Started: <code>2012-07-18 18:07:09+00:00</code></td>
     <td>Latest: <code>2025-05-09 01:37:35+02:00</code></td></tr>
 <tr><td>Commits: <code>1550</code></td>
-    <td>Stargazers: <code>1677</code></td>
-    <td>Watchers: <code>1677</code></td>
-    <td>Forks: <code>435</code></td></tr>
+    <td>Stargazers: <code>1678</code></td>
+    <td>Watchers: <code>1678</code></td>
+    <td>Forks: <code>436</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -7380,9 +7380,9 @@ Most advanced XSS scanner.
     <td>Started: <code>2017-06-26 07:24:44+00:00</code></td>
     <td>Latest: <code>2025-04-26 14:17:06+05:30</code></td></tr>
 <tr><td>Commits: <code>478</code></td>
-    <td>Stargazers: <code>14309</code></td>
-    <td>Watchers: <code>14309</code></td>
-    <td>Forks: <code>2009</code></td></tr>
+    <td>Stargazers: <code>14311</code></td>
+    <td>Watchers: <code>14311</code></td>
+    <td>Forks: <code>2010</code></td></tr>
 </table>
 Keywords: xss
 
@@ -7754,8 +7754,8 @@ Various techniques used to bypass SMEP in the Windows Kernel.
     <td>Started: <code>2025-04-20 18:25:28+00:00</code></td>
     <td>Latest: <code>2025-04-20 20:42:37+02:00</code></td></tr>
 <tr><td>Commits: <code>4</code></td>
-    <td>Stargazers: <code>14</code></td>
-    <td>Watchers: <code>14</code></td>
+    <td>Stargazers: <code>15</code></td>
+    <td>Watchers: <code>15</code></td>
     <td>Forks: <code>6</code></td></tr>
 </table>
 Keywords: smep bypass
@@ -10174,8 +10174,8 @@ An advanced cross-platform tool that automates the process of detecting and expl
     <td>Started: <code>2022-10-01 11:21:50+00:00</code></td>
     <td>Latest: <code>2025-02-26 00:09:45+05:00</code></td></tr>
 <tr><td>Commits: <code>147</code></td>
-    <td>Stargazers: <code>3683</code></td>
-    <td>Watchers: <code>3683</code></td>
+    <td>Stargazers: <code>3685</code></td>
+    <td>Watchers: <code>3685</code></td>
     <td>Forks: <code>391</code></td></tr>
 </table>
 Keywords: sql injection
@@ -10240,8 +10240,8 @@ HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux
     <td>Started: <code>2015-05-28 08:24:56+00:00</code></td>
     <td>Latest: <code>2025-02-24 17:49:16+05:30</code></td></tr>
 <tr><td>Commits: <code>176</code></td>
-    <td>Stargazers: <code>2823</code></td>
-    <td>Watchers: <code>2823</code></td>
+    <td>Stargazers: <code>2824</code></td>
+    <td>Watchers: <code>2824</code></td>
     <td>Forks: <code>569</code></td></tr>
 </table>
 Keywords: vulnerability, Windows uaf vulnerability, uaf exploitation, Windows uaf exploitation, uaf vulnerability, Windows uaf
@@ -10504,9 +10504,9 @@ A multi-threaded web vulnerability fuzzer for automated testing of common web ap
     <td>Started: <code>2025-02-14 22:15:05+00:00</code></td>
     <td>Latest: <code>2025-02-17 10:54:51+00:00</code></td></tr>
 <tr><td>Commits: <code>25</code></td>
-    <td>Stargazers: <code>2</code></td>
-    <td>Watchers: <code>2</code></td>
-    <td>Forks: <code>0</code></td></tr>
+    <td>Stargazers: <code>3</code></td>
+    <td>Watchers: <code>3</code></td>
+    <td>Forks: <code>1</code></td></tr>
 </table>
 Keywords: session vulnerability
 
@@ -11582,8 +11582,8 @@ K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/
     <td>Started: <code>2019-02-23 14:04:52+00:00</code></td>
     <td>Latest: <code>2025-01-25 14:32:49+08:00</code></td></tr>
 <tr><td>Commits: <code>441</code></td>
-    <td>Stargazers: <code>6061</code></td>
-    <td>Watchers: <code>6061</code></td>
+    <td>Stargazers: <code>6062</code></td>
+    <td>Watchers: <code>6062</code></td>
     <td>Forks: <code>2072</code></td></tr>
 </table>
 Keywords: 0day poc, 0day exploitation, 0day exploit, lpe exploit, rce exploit, lpe poc, lpe exploitation
@@ -11758,9 +11758,9 @@ Standalone man-in-the-middle attack framework used for phishing login credential
     <td>Started: <code>2018-07-10 09:59:52+00:00</code></td>
     <td>Latest: <code>2025-01-21 16:16:10+01:00</code></td></tr>
 <tr><td>Commits: <code>255</code></td>
-    <td>Stargazers: <code>13798</code></td>
-    <td>Watchers: <code>13798</code></td>
-    <td>Forks: <code>2401</code></td></tr>
+    <td>Stargazers: <code>13800</code></td>
+    <td>Watchers: <code>13800</code></td>
+    <td>Forks: <code>2402</code></td></tr>
 </table>
 Keywords: session attack
 
@@ -14376,8 +14376,8 @@ https://github.com/bohops/SharpRDPHijack
     <td>Started: <code>2020-07-06 02:59:46+00:00</code></td>
     <td>Latest: <code>2024-11-28 01:08:58-05:00</code></td></tr>
 <tr><td>Commits: <code>19</code></td>
-    <td>Stargazers: <code>492</code></td>
-    <td>Watchers: <code>492</code></td>
+    <td>Stargazers: <code>493</code></td>
+    <td>Watchers: <code>493</code></td>
     <td>Forks: <code>84</code></td></tr>
 </table>
 Keywords: session hijacking
@@ -15872,8 +15872,8 @@ hack tools
     <td>Started: <code>2017-04-30 10:59:56+00:00</code></td>
     <td>Latest: <code>2024-09-23 23:27:19+02:00</code></td></tr>
 <tr><td>Commits: <code>302</code></td>
-    <td>Stargazers: <code>1139</code></td>
-    <td>Watchers: <code>1139</code></td>
+    <td>Stargazers: <code>1140</code></td>
+    <td>Watchers: <code>1140</code></td>
     <td>Forks: <code>495</code></td></tr>
 </table>
 Keywords: 0day exploit, 0day vulnerability
@@ -17192,8 +17192,8 @@ A list of resources for those interested in getting started in bug bounties
     <td>Started: <code>2019-01-15 19:30:25+00:00</code></td>
     <td>Latest: <code>2024-07-23 10:01:39-07:00</code></td></tr>
 <tr><td>Commits: <code>93</code></td>
-    <td>Stargazers: <code>11512</code></td>
-    <td>Watchers: <code>11512</code></td>
+    <td>Stargazers: <code>11516</code></td>
+    <td>Watchers: <code>11516</code></td>
     <td>Forks: <code>1994</code></td></tr>
 </table>
 Keywords: ssrf
@@ -17522,8 +17522,8 @@ PoC - Remote Unauthenticated Code Execution Vulnerability in OpenSSH server (Sca
     <td>Started: <code>2024-07-02 18:32:46+00:00</code></td>
     <td>Latest: <code>2024-07-05 23:19:28+08:00</code></td></tr>
 <tr><td>Commits: <code>25</code></td>
-    <td>Stargazers: <code>87</code></td>
-    <td>Watchers: <code>87</code></td>
+    <td>Stargazers: <code>88</code></td>
+    <td>Watchers: <code>88</code></td>
     <td>Forks: <code>31</code></td></tr>
 </table>
 Keywords: remote code execution vulnerability, rce vulnerability, unauthenticated rce, remote code execution exploit, remote code execution poc, rce exploitation
@@ -19216,9 +19216,9 @@ An automation tool that enumerates subdomains then filters out xss, sqli, open r
     <td>Started: <code>2021-08-29 18:37:49+00:00</code></td>
     <td>Latest: <code>2024-04-28 18:49:52+05:30</code></td></tr>
 <tr><td>Commits: <code>60</code></td>
-    <td>Stargazers: <code>1239</code></td>
-    <td>Watchers: <code>1239</code></td>
-    <td>Forks: <code>206</code></td></tr>
+    <td>Stargazers: <code>1250</code></td>
+    <td>Watchers: <code>1250</code></td>
+    <td>Forks: <code>208</code></td></tr>
 </table>
 Keywords: rce vulnerability, lfi, ssrf
 
@@ -19260,9 +19260,9 @@ Windows LPE Nday
     <td>Started: <code>2024-04-26 01:06:43+00:00</code></td>
     <td>Latest: <code>2024-04-26 04:07:18+03:00</code></td></tr>
 <tr><td>Commits: <code>3</code></td>
-    <td>Stargazers: <code>29</code></td>
-    <td>Watchers: <code>29</code></td>
-    <td>Forks: <code>11</code></td></tr>
+    <td>Stargazers: <code>31</code></td>
+    <td>Watchers: <code>31</code></td>
+    <td>Forks: <code>12</code></td></tr>
 </table>
 Keywords: Windows lpe
 
@@ -19656,8 +19656,8 @@ Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers
     <td>Started: <code>2023-11-18 11:21:45+00:00</code></td>
     <td>Latest: <code>2024-03-31 05:32:28+05:00</code></td></tr>
 <tr><td>Commits: <code>19</code></td>
-    <td>Stargazers: <code>303</code></td>
-    <td>Watchers: <code>303</code></td>
+    <td>Stargazers: <code>304</code></td>
+    <td>Watchers: <code>304</code></td>
     <td>Forks: <code>53</code></td></tr>
 </table>
 Keywords: sql injection
@@ -19810,8 +19810,8 @@ Code injection on Android without ptrace
     <td>Started: <code>2024-02-21 21:23:49+00:00</code></td>
     <td>Latest: <code>2024-03-20 11:57:45+01:00</code></td></tr>
 <tr><td>Commits: <code>33</code></td>
-    <td>Stargazers: <code>254</code></td>
-    <td>Watchers: <code>254</code></td>
+    <td>Stargazers: <code>255</code></td>
+    <td>Watchers: <code>255</code></td>
     <td>Forks: <code>58</code></td></tr>
 </table>
 Keywords: code injection
@@ -21020,8 +21020,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5870</code></td>
-    <td>Watchers: <code>5870</code></td>
+    <td>Stargazers: <code>5871</code></td>
+    <td>Watchers: <code>5871</code></td>
     <td>Forks: <code>703</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -22472,8 +22472,8 @@ the fastest and most powerful android decompiler(native tool working without Jav
     <td>Started: <code>2017-10-31 08:18:29+00:00</code></td>
     <td>Latest: <code>2023-09-11 12:59:51+08:00</code></td></tr>
 <tr><td>Commits: <code>250</code></td>
-    <td>Stargazers: <code>4557</code></td>
-    <td>Watchers: <code>4557</code></td>
+    <td>Stargazers: <code>4558</code></td>
+    <td>Watchers: <code>4558</code></td>
     <td>Forks: <code>554</code></td></tr>
 </table>
 Keywords: memory leak vulnerability
@@ -23154,8 +23154,8 @@ Local file inclusion exploitation tool
     <td>Started: <code>2019-06-08 06:50:38+00:00</code></td>
     <td>Latest: <code>2023-07-24 15:25:11+05:30</code></td></tr>
 <tr><td>Commits: <code>34</code></td>
-    <td>Stargazers: <code>886</code></td>
-    <td>Watchers: <code>886</code></td>
+    <td>Stargazers: <code>887</code></td>
+    <td>Watchers: <code>887</code></td>
     <td>Forks: <code>112</code></td></tr>
 </table>
 Keywords: lfi, local file inclusion
@@ -24386,8 +24386,8 @@ I have developed a malware program using the C programming language, which inclu
     <td>Started: <code>2023-04-24 09:03:51+00:00</code></td>
     <td>Latest: <code>2023-04-10 16:17:35+03:00</code></td></tr>
 <tr><td>Commits: <code>16</code></td>
-    <td>Stargazers: <code>0</code></td>
-    <td>Watchers: <code>0</code></td>
+    <td>Stargazers: <code>1</code></td>
+    <td>Watchers: <code>1</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: escalation of privileges exploitation, Win escalation of privileges, Windows escalation of privileges exploit, Win escalation of privileges exploitation, Win escalation of privileges exploit, escalation of privileges exploit, Windows escalation of privileges, Windows escalation of privileges exploitation
@@ -24826,8 +24826,8 @@ Wiki to collect Red Team infrastructure hardening resources
     <td>Started: <code>2017-02-24 01:21:49+00:00</code></td>
     <td>Latest: <code>2023-03-09 12:53:32-08:00</code></td></tr>
 <tr><td>Commits: <code>116</code></td>
-    <td>Stargazers: <code>4348</code></td>
-    <td>Watchers: <code>4348</code></td>
+    <td>Stargazers: <code>4349</code></td>
+    <td>Watchers: <code>4349</code></td>
     <td>Forks: <code>912</code></td></tr>
 </table>
 Keywords: by_owner
@@ -25244,8 +25244,8 @@ LFI to RCE via phpinfo() assistance or via controlled log file
     <td>Started: <code>2020-01-29 20:21:53+00:00</code></td>
     <td>Latest: <code>2023-02-08 19:37:59+01:00</code></td></tr>
 <tr><td>Commits: <code>24</code></td>
-    <td>Stargazers: <code>70</code></td>
-    <td>Watchers: <code>70</code></td>
+    <td>Stargazers: <code>71</code></td>
+    <td>Watchers: <code>71</code></td>
     <td>Forks: <code>12</code></td></tr>
 </table>
 Keywords: lfi
@@ -25398,8 +25398,8 @@ bXSS is a utility which can be used by bug hunters and organizations to identify
     <td>Started: <code>2017-12-13 23:49:38+00:00</code></td>
     <td>Latest: <code>2023-01-17 16:45:07-08:00</code></td></tr>
 <tr><td>Commits: <code>170</code></td>
-    <td>Stargazers: <code>547</code></td>
-    <td>Watchers: <code>547</code></td>
+    <td>Stargazers: <code>548</code></td>
+    <td>Watchers: <code>548</code></td>
     <td>Forks: <code>65</code></td></tr>
 </table>
 Keywords: xss
@@ -29710,9 +29710,9 @@ HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors
     <td>Started: <code>2014-03-28 08:42:32+00:00</code></td>
     <td>Latest: <code>2022-02-23 17:46:18+01:00</code></td></tr>
 <tr><td>Commits: <code>90</code></td>
-    <td>Stargazers: <code>2884</code></td>
-    <td>Watchers: <code>2884</code></td>
-    <td>Forks: <code>420</code></td></tr>
+    <td>Stargazers: <code>2885</code></td>
+    <td>Watchers: <code>2885</code></td>
+    <td>Forks: <code>419</code></td></tr>
 </table>
 Keywords: xss
 
@@ -30480,8 +30480,8 @@ An exhaustive list of all the possible ways you can chain your Blind SSRF vulner
     <td>Started: <code>2021-01-14 21:20:41+00:00</code></td>
     <td>Latest: <code>2021-12-31 11:08:33+11:00</code></td></tr>
 <tr><td>Commits: <code>12</code></td>
-    <td>Stargazers: <code>898</code></td>
-    <td>Watchers: <code>898</code></td>
+    <td>Stargazers: <code>899</code></td>
+    <td>Watchers: <code>899</code></td>
     <td>Forks: <code>117</code></td></tr>
 </table>
 Keywords: ssrf
@@ -31844,9 +31844,9 @@ An easy-to-setup version of XSS Hunter. Sets up in five minutes and requires no 
     <td>Started: <code>2021-06-01 16:00:12+00:00</code></td>
     <td>Latest: <code>2021-09-16 22:43:16-07:00</code></td></tr>
 <tr><td>Commits: <code>6</code></td>
-    <td>Stargazers: <code>2043</code></td>
-    <td>Watchers: <code>2043</code></td>
-    <td>Forks: <code>389</code></td></tr>
+    <td>Stargazers: <code>2046</code></td>
+    <td>Watchers: <code>2046</code></td>
+    <td>Forks: <code>390</code></td></tr>
 </table>
 Keywords: xss
 
@@ -32350,8 +32350,8 @@ Exploitation for XSS
     <td>Started: <code>2016-05-18 13:12:03+00:00</code></td>
     <td>Latest: <code>2021-08-05 17:07:35+01:00</code></td></tr>
 <tr><td>Commits: <code>33</code></td>
-    <td>Stargazers: <code>723</code></td>
-    <td>Watchers: <code>723</code></td>
+    <td>Stargazers: <code>721</code></td>
+    <td>Watchers: <code>721</code></td>
     <td>Forks: <code>160</code></td></tr>
 </table>
 Keywords: xss
@@ -32922,9 +32922,9 @@ https://github.com/payloadbox/sql-injection-payload-list
     <td>Started: <code>2019-10-30 05:03:57+00:00</code></td>
     <td>Latest: <code>2021-06-09 20:45:57+03:00</code></td></tr>
 <tr><td>Commits: <code>16</code></td>
-    <td>Stargazers: <code>5801</code></td>
-    <td>Watchers: <code>5801</code></td>
-    <td>Forks: <code>1333</code></td></tr>
+    <td>Stargazers: <code>5824</code></td>
+    <td>Watchers: <code>5824</code></td>
+    <td>Forks: <code>1336</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -33912,8 +33912,8 @@ A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Pri
     <td>Started: <code>2018-07-27 13:48:09+00:00</code></td>
     <td>Latest: <code>2021-03-09 21:08:38+01:00</code></td></tr>
 <tr><td>Commits: <code>53</code></td>
-    <td>Stargazers: <code>2651</code></td>
-    <td>Watchers: <code>2651</code></td>
+    <td>Stargazers: <code>2654</code></td>
+    <td>Watchers: <code>2654</code></td>
     <td>Forks: <code>484</code></td></tr>
 </table>
 Keywords: Windows escalation of privileges
@@ -34352,9 +34352,9 @@ Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder
     <td>Started: <code>2020-03-23 18:04:36+00:00</code></td>
     <td>Latest: <code>2021-01-27 09:47:44+00:00</code></td></tr>
 <tr><td>Commits: <code>22</code></td>
-    <td>Stargazers: <code>600</code></td>
-    <td>Watchers: <code>600</code></td>
-    <td>Forks: <code>121</code></td></tr>
+    <td>Stargazers: <code>598</code></td>
+    <td>Watchers: <code>598</code></td>
+    <td>Forks: <code>122</code></td></tr>
 </table>
 Keywords: xss
 
@@ -35320,9 +35320,9 @@ XSS'OR - Hack with JavaScript.
     <td>Started: <code>2017-06-25 06:32:10+00:00</code></td>
     <td>Latest: <code>2020-08-19 10:27:51+08:00</code></td></tr>
 <tr><td>Commits: <code>40</code></td>
-    <td>Stargazers: <code>2190</code></td>
-    <td>Watchers: <code>2190</code></td>
-    <td>Forks: <code>380</code></td></tr>
+    <td>Stargazers: <code>2191</code></td>
+    <td>Watchers: <code>2191</code></td>
+    <td>Forks: <code>381</code></td></tr>
 </table>
 Keywords: xss
 
@@ -36046,8 +36046,8 @@ Miscellaneous exploit code
     <td>Started: <code>2015-03-05 11:15:07+00:00</code></td>
     <td>Latest: <code>2020-05-07 21:20:14+02:00</code></td></tr>
 <tr><td>Commits: <code>159</code></td>
-    <td>Stargazers: <code>1558</code></td>
-    <td>Watchers: <code>1558</code></td>
+    <td>Stargazers: <code>1557</code></td>
+    <td>Watchers: <code>1557</code></td>
     <td>Forks: <code>585</code></td></tr>
 </table>
 Keywords: Windows rce exploitation, rce poc, Windows rce poc, rce exploit, Windows rce, Windows rce exploit, rce exploitation
@@ -37828,8 +37828,8 @@ Undetectable Windows Payload Generation
     <td>Started: <code>2015-10-09 09:29:49+00:00</code></td>
     <td>Latest: <code>2019-07-12 14:51:39+01:00</code></td></tr>
 <tr><td>Commits: <code>401</code></td>
-    <td>Stargazers: <code>1603</code></td>
-    <td>Watchers: <code>1603</code></td>
+    <td>Stargazers: <code>1605</code></td>
+    <td>Watchers: <code>1605</code></td>
     <td>Forks: <code>331</code></td></tr>
 </table>
 Keywords: uac bypass
@@ -39830,9 +39830,9 @@ massive SQL injection vulnerability scanner
     <td>Started: <code>2015-06-11 16:04:41+00:00</code></td>
     <td>Latest: <code>2018-08-14 19:28:45+08:00</code></td></tr>
 <tr><td>Commits: <code>249</code></td>
-    <td>Stargazers: <code>1221</code></td>
-    <td>Watchers: <code>1221</code></td>
-    <td>Forks: <code>378</code></td></tr>
+    <td>Stargazers: <code>1222</code></td>
+    <td>Watchers: <code>1222</code></td>
+    <td>Forks: <code>379</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -40358,8 +40358,8 @@ PowerForensics provides an all in one platform for live disk forensic analysis
     <td>Started: <code>2015-03-07 17:12:19+00:00</code></td>
     <td>Latest: <code>2018-04-20 03:34:59-07:00</code></td></tr>
 <tr><td>Commits: <code>272</code></td>
-    <td>Stargazers: <code>1417</code></td>
-    <td>Watchers: <code>1417</code></td>
+    <td>Stargazers: <code>1418</code></td>
+    <td>Watchers: <code>1418</code></td>
     <td>Forks: <code>283</code></td></tr>
 </table>
 Keywords: by_owner
@@ -42646,8 +42646,8 @@ SQL injection challenge
     <td>Started: <code>2016-10-06 17:53:52+00:00</code></td>
     <td>Latest: <code>2017-01-19 21:16:45+01:00</code></td></tr>
 <tr><td>Commits: <code>9</code></td>
-    <td>Stargazers: <code>101</code></td>
-    <td>Watchers: <code>101</code></td>
+    <td>Stargazers: <code>100</code></td>
+    <td>Watchers: <code>100</code></td>
     <td>Forks: <code>6</code></td></tr>
 </table>
 Keywords: sql injection

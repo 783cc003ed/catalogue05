@@ -216,9 +216,9 @@ Smart-doc is a java restful api document generation tool. Smart-doc is based on 
     <td>Started: <code>2019-09-10 01:23:13+00:00</code></td>
     <td>Latest: <code>2025-09-17 11:55:29+08:00</code></td></tr>
 <tr><td>Commits: <code>2205</code></td>
-    <td>Stargazers: <code>1571</code></td>
-    <td>Watchers: <code>1571</code></td>
-    <td>Forks: <code>295</code></td></tr>
+    <td>Stargazers: <code>1572</code></td>
+    <td>Watchers: <code>1572</code></td>
+    <td>Forks: <code>296</code></td></tr>
 </table>
 Keywords: code injection
 
@@ -238,9 +238,9 @@ Automatic SQL injection and database takeover tool
     <td>Started: <code>2012-06-26 09:52:15+00:00</code></td>
     <td>Latest: <code>2025-09-15 00:03:04+02:00</code></td></tr>
 <tr><td>Commits: <code>10456</code></td>
-    <td>Stargazers: <code>35303</code></td>
-    <td>Watchers: <code>35303</code></td>
-    <td>Forks: <code>6041</code></td></tr>
+    <td>Stargazers: <code>35308</code></td>
+    <td>Watchers: <code>35308</code></td>
+    <td>Forks: <code>6043</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -656,9 +656,9 @@ Most advanced XSS scanner.
     <td>Started: <code>2017-06-26 07:24:44+00:00</code></td>
     <td>Latest: <code>2025-04-26 14:17:06+05:30</code></td></tr>
 <tr><td>Commits: <code>478</code></td>
-    <td>Stargazers: <code>14309</code></td>
-    <td>Watchers: <code>14309</code></td>
-    <td>Forks: <code>2009</code></td></tr>
+    <td>Stargazers: <code>14311</code></td>
+    <td>Watchers: <code>14311</code></td>
+    <td>Forks: <code>2010</code></td></tr>
 </table>
 Keywords: xss
 
@@ -1162,8 +1162,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5870</code></td>
-    <td>Watchers: <code>5870</code></td>
+    <td>Stargazers: <code>5871</code></td>
+    <td>Watchers: <code>5871</code></td>
     <td>Forks: <code>703</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -1404,8 +1404,8 @@ I have developed a malware program using the C programming language, which inclu
     <td>Started: <code>2023-04-24 09:03:51+00:00</code></td>
     <td>Latest: <code>2023-04-10 16:17:35+03:00</code></td></tr>
 <tr><td>Commits: <code>16</code></td>
-    <td>Stargazers: <code>0</code></td>
-    <td>Watchers: <code>0</code></td>
+    <td>Stargazers: <code>1</code></td>
+    <td>Watchers: <code>1</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: escalation of privileges exploitation, Win escalation of privileges, Windows escalation of privileges exploit, Win escalation of privileges exploitation, Win escalation of privileges exploit, escalation of privileges exploit, Windows escalation of privileges, Windows escalation of privileges exploitation

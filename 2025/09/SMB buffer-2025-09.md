@@ -1,3 +1,101 @@
+## DuckDuckgo search -> SMB buffer Protocol
+`2025-09-17`
+
+* https://live.paloaltonetworks.com/t5/community-blogs/why-is-smb-traffic-slow/ba-p/356471
+
+<blockquote>
+ WhyisSMBtrafficslowPaloAltoNetworks
+</blockquote>
+<blockquote>
+GlobalProtect SMB Traffic Slowness (discussion) GlobalProtect SSL VPN Slow SMB Transfers (discussion) Allow me to first explain why SMB is a bit of a special protocol and why it's behaving the way it is: SMB content is inspected differently compared to other protocols, like HTTP or FTP for example.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB buffer Protocol
+`2025-09-17`
+
+* https://rs-online.com
+
+<blockquote>
+ SaveonBufferSolutionsManyInStock
+</blockquote>
+<blockquote>
+Buffer Solutions In Stock at RS. Next Day Delivery Available. Many Products In Stock from Our Lowest Price. Start Saving Today.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB buffer Protocol
+`2025-09-17`
+
+* https://jumpcloud.com/it-index/what-is-server-message-block
+
+<blockquote>
+ WhatIsServerMessageBlockSMBATechnicalGuideJumpCloud
+</blockquote>
+<blockquote>
+Updated on May 9, 2025 Server Message Block (SMB) is a network protocol for sharing files, printers, and other resources within a LAN. It operates at the application layer of the OSI model and is widely used in Windows, with support for other systems. This guide covers how SMB works, its features, and use cases. Definition and Core Concepts Network File Sharing SMB provides a standard ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB buffer
+`2025-09-17`
+
+* https://www.joeboboutfitters.com/Armaspec-AR-15-Sound-Mitigation-Buffer-Gen-3-p/arma-258.htm
+
+<blockquote>
+ ArmaspecAR15SoundMitigationBufferGen3JoeBobOutfitters
+</blockquote>
+<blockquote>
+41 Reviews Product Code: ARMA-258 Armaspec Buffer Weight Armaspec Buffer Weight *: Qty: Description Learn More The Gen3 Sound Mitigation Buffer™ SMB™ is a single-stage captured drop-in replacement for your standard buffer and spring. The SMB™ is designed to keep the buffer spring from rubbing against the inner wall of the buffer tube ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB buffer
+`2025-09-17`
+
+* https://palmettostatearmory.com/armaspec-smb-gen-3-buffer-h3-kit-black-maximum-recoil-reduction-arm268-h3.html
+
+<blockquote>
+ ArmaspecSMBGen3BufferH3KitBlackPalmettoStateArmory
+</blockquote>
+<blockquote>
+The Armaspec SMB kit is the ultimate solution for assembling your rifle with precision and enhanced performance. This comprehensive kit includes our SMB (sound mitigation buffer), an advanced upgrade over standard OEM Mil-Spec buffer components. Engineered to minimize sound and manage recoil effectively, the SMB ensures a smoother shooting experience. Whether you're building a new rifle or ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB buffer
+`2025-09-17`
+
+* https://www.opticsplanet.com/armaspec-sound-mitigation-buffer-carbine-gen2.html
+
+<blockquote>
+ ArmaspecCSoundMitigationGen3BufferOpticsPlanet
+</blockquote>
+<blockquote>
+The Gen3 Sound Mitigation Buffer SMB is a captured single-stage drop-in replacement for your standard buffer and spring. The SMB is designed to keep the buffer spring from rubbing against the inner wall of the buffer tube providing smooth, quiet operation.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> SMB buffer
+`2025-09-17`
+
+* https://rs-online.com
+
+<blockquote>
+ SaveonBufferSolutionsWideRangeofBufferSolutions
+</blockquote>
+<blockquote>
+Buffer Solutions In Stock at RS. Next Day Delivery Available. Buy Buffer Solutions at RS from Our Lowest Price.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> SMB buffer overflow
 `2025-09-17`
 

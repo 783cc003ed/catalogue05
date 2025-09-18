@@ -1,3 +1,129 @@
+## DuckDuckgo search -> Microsoft Office driver overflow
+`2025-09-17`
+
+* https://community.spiceworks.com/t/legacy-app-error-on-windows-10-runtime-error-6-overflow/662776
+
+<blockquote>
+ LegacyApperroronWindows10RuntimeError6Overflow
+</blockquote>
+<blockquote>
+I think you're on the right track. Perhaps there is a Windows 10 versin of this 32-bit SQL driver. It would explain overflow. Possibly a 64-bit driver is returning a value too big for the application. collinoneill (Collin8612) July 19, 2018, 2:56pm 7
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Microsoft Office driver overflow
+`2025-09-17`
+
+* https://app.opencve.io/cve/CVE-2025-54910
+
+<blockquote>
+ CVE202554910VulnerabilityDetailsOpenCVE
+</blockquote>
+<blockquote>
+Heap-based buffer overflow in Microsoft Office allows an unauthorized attacker to execute code locally.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Microsoft Office driver overflow
+`2025-09-17`
+
+* https://nvd.nist.gov/vuln/detail/CVE-2025-54907
+
+<blockquote>
+ NvdCve202554907
+</blockquote>
+<blockquote>
+Information Technology Laboratory National Vulnerability DatabaseVulnerabilities
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Microsoft Office driver overflow
+`2025-09-17`
+
+* https://isc.sans.edu/diary/32270
+
+<blockquote>
+ MicrosoftPatchTuesdaySeptember2025SANSISC
+</blockquote>
+<blockquote>
+As part of its September patch Tuesday, Microsoft addressed 177 different vulnerabilities, 86 of which affect Microsoft products. None of the vulnerabilities has been exploited before today. Two of the vulnerabilities were already made public. Microsoft rates 13 of the vulnerabilities are critical. You will see a number of vulnerabilities without assigned severity. These vulnerabilities affect ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Microsoft Office driver
+`2025-09-17`
+
+* https://support.microsoft.com/en-us/office/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2
+
+<blockquote>
+ TroubleshootinstallingOfficeMicrosoftSupport
+</blockquote>
+<blockquote>
+The issues you encounter when trying to install Microsoft 365, or Office 2021, 2019, or 2016 and how you fix them depends on whether your product is part of an Office for home or Office for business plan. In addition, with Office for business plans only admins responsible for managing Microsoft 365 in their organization can do certain tasks. Therefore, admins should view the issues and ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Microsoft Office driver
+`2025-09-17`
+
+* https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/software-and-downloads/ms-office
+
+<blockquote>
+ Microsoft365MicrosoftOfficeSupportDellUS
+</blockquote>
+<blockquote>
+Install, activate, or troubleshoot Microsoft Office software coming with your Dell device or bought as a standalone license.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Microsoft Office driver
+`2025-09-17`
+
+* https://learn.microsoft.com/en-us/answers/questions/1658052/download-link-for-microsoft-ace-oledb-12-0
+
+<blockquote>
+ DownloadlinkforMicrosoftACEOLEDB120MicrosoftQA
+</blockquote>
+<blockquote>
+Describes an issue in which the drivers aren't visible when you attempt to create ODBC connections that utilize the Microsoft Office System Driver, such as connections to Access or Excel, on a 64-bit Operating system like Windows 7.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Microsoft Office driver
+`2025-09-17`
+
+* https://support.microsoft.com/en-us/office/download-and-install-microsoft-365-access-runtime-185c5a32-8ba9-491e-ac76-91cbe3ea09c9
+
+<blockquote>
+ DownloadandinstallMicrosoft365AccessRuntime
+</blockquote>
+<blockquote>
+Download the Microsoft 365 Access Runtime which allows you to run Microsoft 365 Access applications if you don't have the desktop version of Microsoft 365 Access and need to use an application built to run with Access 2010 or later.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Microsoft Office driver
+`2025-09-17`
+
+* https://www.dell.com/support/product-details/en-us/product/ms-365-cloud-solution-provider/drivers
+
+<blockquote>
+ SupportforMicrosoft365fromDellDriversDownloadsDellUS
+</blockquote>
+<blockquote>
+Get drivers and downloads for your Microsoft 365 from Dell. Download and install the latest drivers, firmware and software for Windows devices.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> Microsoft Office driver vulnerability
 `2025-09-17`
 

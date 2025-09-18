@@ -388,10 +388,10 @@ A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript
 <tr><td>Owner: <code>C0nw0nk</code></td>
     <td>Language: <code>Lua</code></td>
     <td>Started: <code>2019-08-21 23:52:09+00:00</code></td>
-    <td>Latest: <code>2025-09-17 06:26:34+00:00</code></td></tr>
-<tr><td>Commits: <code>340</code></td>
-    <td>Stargazers: <code>1360</code></td>
-    <td>Watchers: <code>1360</code></td>
+    <td>Latest: <code>2025-09-18 08:10:51+00:00</code></td></tr>
+<tr><td>Commits: <code>352</code></td>
+    <td>Stargazers: <code>1361</code></td>
+    <td>Watchers: <code>1361</code></td>
     <td>Forks: <code>294</code></td></tr>
 </table>
 Keywords: xml external entity, session attack, zero-day dos, zero-day vulnerability, zero-day exploitation, session vulnerability, zero-day exploit
@@ -434,9 +434,9 @@ Smart-doc is a java restful api document generation tool. Smart-doc is based on 
     <td>Started: <code>2019-09-10 01:23:13+00:00</code></td>
     <td>Latest: <code>2025-09-17 11:55:29+08:00</code></td></tr>
 <tr><td>Commits: <code>2205</code></td>
-    <td>Stargazers: <code>1571</code></td>
-    <td>Watchers: <code>1571</code></td>
-    <td>Forks: <code>295</code></td></tr>
+    <td>Stargazers: <code>1572</code></td>
+    <td>Watchers: <code>1572</code></td>
+    <td>Forks: <code>296</code></td></tr>
 </table>
 Keywords: code injection
 
@@ -522,9 +522,9 @@ Automatic SQL injection and database takeover tool
     <td>Started: <code>2012-06-26 09:52:15+00:00</code></td>
     <td>Latest: <code>2025-09-15 00:03:04+02:00</code></td></tr>
 <tr><td>Commits: <code>10456</code></td>
-    <td>Stargazers: <code>35303</code></td>
-    <td>Watchers: <code>35303</code></td>
-    <td>Forks: <code>6041</code></td></tr>
+    <td>Stargazers: <code>35308</code></td>
+    <td>Watchers: <code>35308</code></td>
+    <td>Forks: <code>6043</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -544,9 +544,9 @@ Top disclosed reports from HackerOne
     <td>Started: <code>2019-04-19 06:11:04+00:00</code></td>
     <td>Latest: <code>2025-09-14 21:12:20+04:00</code></td></tr>
 <tr><td>Commits: <code>141</code></td>
-    <td>Stargazers: <code>4842</code></td>
-    <td>Watchers: <code>4842</code></td>
-    <td>Forks: <code>869</code></td></tr>
+    <td>Stargazers: <code>4847</code></td>
+    <td>Watchers: <code>4847</code></td>
+    <td>Forks: <code>871</code></td></tr>
 </table>
 Keywords: xxe, ssrf
 
@@ -786,8 +786,8 @@ The extra fast, minimum code size, GC-free DI (Dependency Injection) library run
     <td>Started: <code>2020-06-02 11:57:34+00:00</code></td>
     <td>Latest: <code>2025-08-31 17:10:20+09:00</code></td></tr>
 <tr><td>Commits: <code>1405</code></td>
-    <td>Stargazers: <code>2479</code></td>
-    <td>Watchers: <code>2479</code></td>
+    <td>Stargazers: <code>2482</code></td>
+    <td>Watchers: <code>2482</code></td>
     <td>Forks: <code>218</code></td></tr>
 </table>
 Keywords: code injection
@@ -1182,8 +1182,8 @@ This repository contains C++ code to load custom drivers by exploiting a vulnera
     <td>Started: <code>2025-01-24 16:38:15+00:00</code></td>
     <td>Latest: <code>2025-07-30 22:07:15+02:00</code></td></tr>
 <tr><td>Commits: <code>6</code></td>
-    <td>Stargazers: <code>13</code></td>
-    <td>Watchers: <code>13</code></td>
+    <td>Stargazers: <code>12</code></td>
+    <td>Watchers: <code>12</code></td>
     <td>Forks: <code>7</code></td></tr>
 </table>
 Keywords: patchguard bypass
@@ -1204,8 +1204,8 @@ Use after free in Windows Common Log File System Driver allows an authorized att
     <td>Started: <code>2025-07-30 08:04:27+00:00</code></td>
     <td>Latest: <code>2025-07-30 16:15:59+08:00</code></td></tr>
 <tr><td>Commits: <code>4</code></td>
-    <td>Stargazers: <code>10</code></td>
-    <td>Watchers: <code>10</code></td>
+    <td>Stargazers: <code>11</code></td>
+    <td>Watchers: <code>11</code></td>
     <td>Forks: <code>3</code></td></tr>
 </table>
 Keywords: Windows use after free, Windows use after free exploit, use after free exploit
@@ -1512,9 +1512,9 @@ Repository for information about 0-days exploited in-the-wild.
     <td>Started: <code>2021-02-23 15:16:11+00:00</code></td>
     <td>Latest: <code>2025-07-08 11:51:33+02:00</code></td></tr>
 <tr><td>Commits: <code>136</code></td>
-    <td>Stargazers: <code>829</code></td>
-    <td>Watchers: <code>829</code></td>
-    <td>Forks: <code>84</code></td></tr>
+    <td>Stargazers: <code>830</code></td>
+    <td>Watchers: <code>830</code></td>
+    <td>Forks: <code>83</code></td></tr>
 </table>
 Keywords: 0day exploitation, 0day exploit
 
@@ -1908,9 +1908,9 @@ jSQL Injection is a Java application for automatic SQL database injection.
     <td>Started: <code>2012-07-18 18:07:09+00:00</code></td>
     <td>Latest: <code>2025-05-09 01:37:35+02:00</code></td></tr>
 <tr><td>Commits: <code>1550</code></td>
-    <td>Stargazers: <code>1677</code></td>
-    <td>Watchers: <code>1677</code></td>
-    <td>Forks: <code>435</code></td></tr>
+    <td>Stargazers: <code>1678</code></td>
+    <td>Watchers: <code>1678</code></td>
+    <td>Forks: <code>436</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -1974,9 +1974,9 @@ Most advanced XSS scanner.
     <td>Started: <code>2017-06-26 07:24:44+00:00</code></td>
     <td>Latest: <code>2025-04-26 14:17:06+05:30</code></td></tr>
 <tr><td>Commits: <code>478</code></td>
-    <td>Stargazers: <code>14309</code></td>
-    <td>Watchers: <code>14309</code></td>
-    <td>Forks: <code>2009</code></td></tr>
+    <td>Stargazers: <code>14311</code></td>
+    <td>Watchers: <code>14311</code></td>
+    <td>Forks: <code>2010</code></td></tr>
 </table>
 Keywords: xss
 
@@ -2018,8 +2018,8 @@ Various techniques used to bypass SMEP in the Windows Kernel.
     <td>Started: <code>2025-04-20 18:25:28+00:00</code></td>
     <td>Latest: <code>2025-04-20 20:42:37+02:00</code></td></tr>
 <tr><td>Commits: <code>4</code></td>
-    <td>Stargazers: <code>14</code></td>
-    <td>Watchers: <code>14</code></td>
+    <td>Stargazers: <code>15</code></td>
+    <td>Watchers: <code>15</code></td>
     <td>Forks: <code>6</code></td></tr>
 </table>
 Keywords: smep bypass
@@ -2238,8 +2238,8 @@ HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux
     <td>Started: <code>2015-05-28 08:24:56+00:00</code></td>
     <td>Latest: <code>2025-02-24 17:49:16+05:30</code></td></tr>
 <tr><td>Commits: <code>176</code></td>
-    <td>Stargazers: <code>2823</code></td>
-    <td>Watchers: <code>2823</code></td>
+    <td>Stargazers: <code>2824</code></td>
+    <td>Watchers: <code>2824</code></td>
     <td>Forks: <code>569</code></td></tr>
 </table>
 Keywords: vulnerability, Windows uaf vulnerability, uaf exploitation, Windows uaf exploitation, uaf vulnerability, Windows uaf
@@ -2656,8 +2656,8 @@ hack tools
     <td>Started: <code>2017-04-30 10:59:56+00:00</code></td>
     <td>Latest: <code>2024-09-23 23:27:19+02:00</code></td></tr>
 <tr><td>Commits: <code>302</code></td>
-    <td>Stargazers: <code>1139</code></td>
-    <td>Watchers: <code>1139</code></td>
+    <td>Stargazers: <code>1140</code></td>
+    <td>Watchers: <code>1140</code></td>
     <td>Forks: <code>495</code></td></tr>
 </table>
 Keywords: 0day exploit, 0day vulnerability
@@ -3360,8 +3360,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5870</code></td>
-    <td>Watchers: <code>5870</code></td>
+    <td>Stargazers: <code>5871</code></td>
+    <td>Watchers: <code>5871</code></td>
     <td>Forks: <code>703</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -4086,8 +4086,8 @@ I have developed a malware program using the C programming language, which inclu
     <td>Started: <code>2023-04-24 09:03:51+00:00</code></td>
     <td>Latest: <code>2023-04-10 16:17:35+03:00</code></td></tr>
 <tr><td>Commits: <code>16</code></td>
-    <td>Stargazers: <code>0</code></td>
-    <td>Watchers: <code>0</code></td>
+    <td>Stargazers: <code>1</code></td>
+    <td>Watchers: <code>1</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: escalation of privileges exploitation, Win escalation of privileges, Windows escalation of privileges exploit, Win escalation of privileges exploitation, Win escalation of privileges exploit, escalation of privileges exploit, Windows escalation of privileges, Windows escalation of privileges exploitation
@@ -8112,9 +8112,9 @@ massive SQL injection vulnerability scanner
     <td>Started: <code>2015-06-11 16:04:41+00:00</code></td>
     <td>Latest: <code>2018-08-14 19:28:45+08:00</code></td></tr>
 <tr><td>Commits: <code>249</code></td>
-    <td>Stargazers: <code>1221</code></td>
-    <td>Watchers: <code>1221</code></td>
-    <td>Forks: <code>378</code></td></tr>
+    <td>Stargazers: <code>1222</code></td>
+    <td>Watchers: <code>1222</code></td>
+    <td>Forks: <code>379</code></td></tr>
 </table>
 Keywords: sql injection
 

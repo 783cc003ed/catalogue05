@@ -1,6 +1,48 @@
 ## DuckDuckgo search -> Kennetic Remote arbitrary command
 `2025-09-17`
 
+* https://zeropath.com/blog/cve-2025-59359-chaos-mesh-os-command-injection-summary
+
+<blockquote>
+ ChaosMeshCVE202559359BriefSummaryofCriticalOSCommand
+</blockquote>
+<blockquote>
+This post provides a brief summary of CVE-2025-59359, a critical OS command injection vulnerability in the cleanTcs mutation of Chaos Mesh's Chaos Controller Manager. The flaw allows unauthenticated in-cluster attackers to execute arbitrary commands, potentially leading to remote code execution across Kubernetes clusters. Key technical details, affected versions, and references are included.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Kennetic Remote arbitrary command
+`2025-09-17`
+
+* https://cve.armis.com/cve-2025-50974
+
+<blockquote>
+ CVE202550974ArmisVulnerabilityIntelligenceDatabase
+</blockquote>
+<blockquote>
+The Calamaris log exporter CGI in IPFire 2.29 fails to properly sanitize user-supplied input before incorporating parameter values into a shell command. An unauthenticated remote attacker can inject arbitrary operating-system commands via shell metacharacters placed in parameters such as BYTE_UNIT, DAY_BEGIN, DAY_END, HIST_LEVEL, MONTH_BEGIN, MONTH_END, NUM_CONTENT, NUM_DOMAINS, NUM_HOSTS, NUM ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Kennetic Remote arbitrary command
+`2025-09-17`
+
+* https://www.cvedetails.com/cve/CVE-2025-10364/
+
+<blockquote>
+ CVE202510364TheEvertzSDVN3080ipx10GisaHighBandwidth
+</blockquote>
+<blockquote>
+CVE-2025-4009 covers the command injection in feature-transfer-import.php CVE-2025-10364 covers the command injection in feature-transfer-export.php Remote unauthenticated attackers can gain arbitrary command execution with elevated privileges ( root ) on affected devices.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Kennetic Remote arbitrary command
+`2025-09-17`
+
 * https://stackoverflow.com/questions/63637882/capistrano-3-execute-arbitrary-command-on-remote-server
 
 <blockquote>

@@ -1,3 +1,157 @@
+## DuckDuckgo search -> docx integer
+`2025-09-17`
+
+* https://coderivers.org/blog/pythondocx/
+
+<blockquote>
+ WorkingwithpythondocxCreatingManipulatingandOptimizingWord
+</blockquote>
+<blockquote>
+Working with python-docx: Creating, Manipulating, and Optimizing Word Documents in Python Introduction In the world of Python programming, having the ability to work with Microsoft Word documents is incredibly useful.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx integer
+`2025-09-17`
+
+* https://www.scribd.com/document/349088552/Integer-Word-Problems-1
+
+<blockquote>
+ IntegerWordProblemsPDFAreaTeachingMathematicsScribd
+</blockquote>
+<blockquote>
+Integer Word Problems (1) - Free download as Word Doc (.doc / .docx), PDF File (.pdf), Text File (.txt) or read online for free. This document provides a list of 47 multi-step word problems involving integers. The problems are divided into 7 sections and range from finding sums and differences of consecutive integers, to problems involving rates, ratios, and geometric shapes. Students are ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx integer
+`2025-09-17`
+
+* https://PDF
+
+<blockquote>
+ PDFMicrosoftWordINTEGERS1PAGEdocx
+</blockquote>
+<blockquote>
+INTEGER CHEAT SHEET Integers- A set of positive and negative whole numbers. They can be represented on a number line.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx integer
+`2025-09-17`
+
+* https://www.scribd.com/document/729436813/Integer-Word-Problems-Test-Practice
+
+<blockquote>
+ IntegerWordProblemsTestPracticePDFScribd
+</blockquote>
+<blockquote>
+Integer Word Problems - Test Practice - Free download as Word Doc (.doc / .docx), PDF File (.pdf), Text File (.txt) or read online for free. The document contains word problems involving adding and subtracting integers. For the adding integer problems, students are asked to write expressions and evaluate them to find total changes in values such as temperature, points in a game, and money in a ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx integer
+`2025-09-17`
+
+* https://medium.com/@lukas.forst/supercharge-your-word-reports-using-python-docx-template-4e9ebfc66b9e
+
+<blockquote>
+ DynamicDataandTablesPoweringUpYourDocumentswithpythondocx
+</blockquote>
+<blockquote>
+Python-docx-template is an incredibly versatile tool that can help you automate and streamline the creation of Word documents, saving you time and ensuring consistency across your documents.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx integer
+`2025-09-17`
+
+* https://learn.microsoft.com/en-us/office/open-xml/word/how-to-set-a-custom-property-in-a-word-processing-document
+
+<blockquote>
+ HowtoSetacustompropertyinawordprocessingdocument
+</blockquote>
+<blockquote>
+Learn how to use the classes in the Open XML SDK for Office to programmatically set a custom property in a word processing document.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx integer
+`2025-09-17`
+
+* https://www.geeksforgeeks.org/python/working-with-tables-python-docx-module/
+
+<blockquote>
+ WorkingwithTablesPythondocxModuleGeeksforGeeks
+</blockquote>
+<blockquote>
+Prerequisites: docx Word documents contain formatted text wrapped within three object levels. Lowest level- run objects, middle level- paragraph objects and highest level- document object. So, we cannot work with these documents using normal text editors. But, we can manipulate these word documents in python using the python-docx module.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx integer
+`2025-09-17`
+
+* https://products.groupdocs.app/conversion/numbers-to-docx
+
+<blockquote>
+ OnlineNUMBERStoDOCXconverterFreeGroupDocsApps
+</blockquote>
+<blockquote>
+Free online NUMBERS to DOCX converter. Convert NUMBERS to DOCX online for free. Secure and easy to use conversion tool.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx integer
+`2025-09-17`
+
+* https://www.scribd.com/document/807409208/Unit-3-docx
+
+<blockquote>
+ Unit3PDFIntegerComputerScienceDataType
+</blockquote>
+<blockquote>
+Unit 3.docx - Free download as PDF File (.pdf), Text File (.txt) or read online for free.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx integer
+`2025-09-17`
+
+* https://readthedocs.org/projects/docstest/downloads/pdf/latest/
+
+<blockquote>
+ pythondocxDocumentationReadtheDocs
+</blockquote>
+<blockquote>
+The API for python-docx is designed to make doing simple things simple, while allowing more complex results to be achieved with a modest and incremental investment of understanding.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx integer
+`2025-09-17`
+
+* https://PDF
+
+<blockquote>
+ PDFMicrosoftWordIntegerWARdocx7thGrademathwithMissClarke
+</blockquote>
+<blockquote>
+If the cards have the same value, it is WAR (ex: both black 8's). Each player lays down 3 additional cards facedown, and then turns over the next card. Determine which card is greater. The player with the greater card takes all 10 cards.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> docx integer vulnerability
 `2025-09-17`
 

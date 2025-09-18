@@ -2580,8 +2580,8 @@ A Tools Session Hijacking And Stealer Local Passcode Telegram Windows
     <td>Started: <code>2019-04-05 13:13:06+00:00</code></td>
     <td>Latest: <code>2020-04-03 19:51:48+04:30</code></td></tr>
 <tr><td>Commits: <code>40</code></td>
-    <td>Stargazers: <code>422</code></td>
-    <td>Watchers: <code>422</code></td>
+    <td>Stargazers: <code>421</code></td>
+    <td>Watchers: <code>421</code></td>
     <td>Forks: <code>104</code></td></tr>
 </table>
 Keywords: session hijacking
@@ -5390,8 +5390,8 @@ A Tools Session Hijacking And Stealer Local Passcode Telegram Windows
     <td>Started: <code>2019-04-05 13:13:06+00:00</code></td>
     <td>Latest: <code>2020-04-03 19:51:48+04:30</code></td></tr>
 <tr><td>Commits: <code>40</code></td>
-    <td>Stargazers: <code>422</code></td>
-    <td>Watchers: <code>422</code></td>
+    <td>Stargazers: <code>421</code></td>
+    <td>Watchers: <code>421</code></td>
     <td>Forks: <code>104</code></td></tr>
 </table>
 Keywords: session hijacking

@@ -1,3 +1,31 @@
+## DuckDuckgo search -> docx BFS vulnerability
+`2025-09-17`
+
+* https://cvefeed.io/vuln/detail/CVE-2024-45779
+
+<blockquote>
+ CVE202445779Grub2BFSFileSystemDriverIntegerOverflowHeap
+</blockquote>
+<blockquote>
+An integer overflow flaw was found in the BFS file system driver in grub2. When reading a file with an indirect extent map, grub2 fails to validate the number of extent entries to be read. A crafted or corrupted BFS filesystem may cause an integer overflow during the file reading, …
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx BFS vulnerability
+`2025-09-17`
+
+* https://www.cve.news/cve-2025-26629/
+
+<blockquote>
+ CVE202526629DeepDiveintoMicrosoftOfficeUseAfterFree
+</blockquote>
+<blockquote>
+CVE-2025-26629 Explained This vulnerability lives in the core document parsing functionality of Microsoft Office. Attackers can create a specially crafted Office document (like a Word DOCX or an Excel XLSX) that takes advantage of the Use-After-Free bug. Impact: *Steps an Attacker Takes:* 1.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> docx BFS
 `2025-09-17`
 
@@ -610,6 +638,34 @@ BFS basic idea: discovers all vertices at distance k from the source vertex befo
 </blockquote>
 <blockquote>
 This article introduces the core framework and code template of BFS (Breadth-First Search). The essence of the BFS algorithm is level-order traversal of a multi-branch tree, primarily used for finding the shortest path.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx BFS vulnerability
+`2025-09-17`
+
+* https://cvefeed.io/vuln/detail/CVE-2024-45779
+
+<blockquote>
+ CVE202445779Grub2BFSFileSystemDriverIntegerOverflowHeap
+</blockquote>
+<blockquote>
+An integer overflow flaw was found in the BFS file system driver in grub2. When reading a file with an indirect extent map, grub2 fails to validate the number of extent entries to be read. A crafted or corrupted BFS filesystem may cause an integer overflow during the file reading, …
+</blockquote>
+
+---
+
+## DuckDuckgo search -> docx BFS vulnerability
+`2025-09-17`
+
+* https://www.cve.news/cve-2025-26629/
+
+<blockquote>
+ CVE202526629DeepDiveintoMicrosoftOfficeUseAfterFree
+</blockquote>
+<blockquote>
+CVE-2025-26629 Explained This vulnerability lives in the core document parsing functionality of Microsoft Office. Attackers can create a specially crafted Office document (like a Word DOCX or an Excel XLSX) that takes advantage of the Use-After-Free bug. Impact: *Steps an Attacker Takes:* 1.
 </blockquote>
 
 ---

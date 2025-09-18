@@ -360,13 +360,35 @@ A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript
 <tr><td>Owner: <code>C0nw0nk</code></td>
     <td>Language: <code>Lua</code></td>
     <td>Started: <code>2019-08-21 23:52:09+00:00</code></td>
-    <td>Latest: <code>2025-09-17 06:26:34+00:00</code></td></tr>
-<tr><td>Commits: <code>340</code></td>
-    <td>Stargazers: <code>1360</code></td>
-    <td>Watchers: <code>1360</code></td>
+    <td>Latest: <code>2025-09-18 08:10:51+00:00</code></td></tr>
+<tr><td>Commits: <code>352</code></td>
+    <td>Stargazers: <code>1361</code></td>
+    <td>Watchers: <code>1361</code></td>
     <td>Forks: <code>294</code></td></tr>
 </table>
 Keywords: xml external entity, session attack, zero-day dos, zero-day vulnerability, zero-day exploitation, session vulnerability, zero-day exploit
+
+---
+
+# GitHub search -> Outlook buffer Protocol
+# CTF-walkthroughs
+
+https://github.com/Nish344/CTF-walkthroughs
+<blockquote>
+🔐 Cybersecurity Lab Reports &amp;amp; CTF Write-ups – Reconnaissance, exploitation, privilege escalation, and mitigation strategies 🛠️ | My curated archive of hacking challenges, vulnerability assessments, and hands-on security research 📂
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Nish344</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2025-08-10 17:35:52+00:00</code></td>
+    <td>Latest: <code>2025-09-17 11:29:13+00:00</code></td></tr>
+<tr><td>Commits: <code>155</code></td>
+    <td>Stargazers: <code>2</code></td>
+    <td>Watchers: <code>2</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: escalation of privileges exploit
 
 ---
 
@@ -384,9 +406,9 @@ Smart-doc is a java restful api document generation tool. Smart-doc is based on 
     <td>Started: <code>2019-09-10 01:23:13+00:00</code></td>
     <td>Latest: <code>2025-09-17 11:55:29+08:00</code></td></tr>
 <tr><td>Commits: <code>2205</code></td>
-    <td>Stargazers: <code>1571</code></td>
-    <td>Watchers: <code>1571</code></td>
-    <td>Forks: <code>295</code></td></tr>
+    <td>Stargazers: <code>1572</code></td>
+    <td>Watchers: <code>1572</code></td>
+    <td>Forks: <code>296</code></td></tr>
 </table>
 Keywords: code injection
 
@@ -494,8 +516,8 @@ jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS
     <td>Started: <code>2009-12-19 01:29:58+00:00</code></td>
     <td>Latest: <code>2025-09-16 12:19:11+10:00</code></td></tr>
 <tr><td>Commits: <code>2764</code></td>
-    <td>Stargazers: <code>11244</code></td>
-    <td>Watchers: <code>11244</code></td>
+    <td>Stargazers: <code>11243</code></td>
+    <td>Watchers: <code>11243</code></td>
     <td>Forks: <code>2255</code></td></tr>
 </table>
 Keywords: xss
@@ -516,9 +538,9 @@ Automatic SQL injection and database takeover tool
     <td>Started: <code>2012-06-26 09:52:15+00:00</code></td>
     <td>Latest: <code>2025-09-15 00:03:04+02:00</code></td></tr>
 <tr><td>Commits: <code>10456</code></td>
-    <td>Stargazers: <code>35303</code></td>
-    <td>Watchers: <code>35303</code></td>
-    <td>Forks: <code>6041</code></td></tr>
+    <td>Stargazers: <code>35308</code></td>
+    <td>Watchers: <code>35308</code></td>
+    <td>Forks: <code>6043</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -538,9 +560,9 @@ Top disclosed reports from HackerOne
     <td>Started: <code>2019-04-19 06:11:04+00:00</code></td>
     <td>Latest: <code>2025-09-14 21:12:20+04:00</code></td></tr>
 <tr><td>Commits: <code>141</code></td>
-    <td>Stargazers: <code>4842</code></td>
-    <td>Watchers: <code>4842</code></td>
-    <td>Forks: <code>869</code></td></tr>
+    <td>Stargazers: <code>4847</code></td>
+    <td>Watchers: <code>4847</code></td>
+    <td>Forks: <code>871</code></td></tr>
 </table>
 Keywords: xxe, ssrf
 
@@ -653,28 +675,6 @@ WebKit Heap Use-After-Free Proof-of-Concept (PoC) https://dark-life944.github.io
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: use after free poc
-
----
-
-# GitHub search -> Outlook buffer Protocol
-# CTF-walkthroughs
-
-https://github.com/Nish344/CTF-walkthroughs
-<blockquote>
-🔐 Cybersecurity Lab Reports &amp;amp; CTF Write-ups – Reconnaissance, exploitation, privilege escalation, and mitigation strategies 🛠️ | My curated archive of hacking challenges, vulnerability assessments, and hands-on security research 📂
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>Nish344</code></td>
-    <td>Language: <code>None</code></td>
-    <td>Started: <code>2025-08-10 17:35:52+00:00</code></td>
-    <td>Latest: <code>2025-09-09 17:10:49+00:00</code></td></tr>
-<tr><td>Commits: <code>153</code></td>
-    <td>Stargazers: <code>2</code></td>
-    <td>Watchers: <code>2</code></td>
-    <td>Forks: <code>0</code></td></tr>
-</table>
-Keywords: escalation of privileges exploit
 
 ---
 
@@ -824,8 +824,8 @@ The extra fast, minimum code size, GC-free DI (Dependency Injection) library run
     <td>Started: <code>2020-06-02 11:57:34+00:00</code></td>
     <td>Latest: <code>2025-08-31 17:10:20+09:00</code></td></tr>
 <tr><td>Commits: <code>1405</code></td>
-    <td>Stargazers: <code>2479</code></td>
-    <td>Watchers: <code>2479</code></td>
+    <td>Stargazers: <code>2482</code></td>
+    <td>Watchers: <code>2482</code></td>
     <td>Forks: <code>218</code></td></tr>
 </table>
 Keywords: code injection
@@ -1264,8 +1264,8 @@ Use after free in Windows Common Log File System Driver allows an authorized att
     <td>Started: <code>2025-07-30 08:04:27+00:00</code></td>
     <td>Latest: <code>2025-07-30 16:15:59+08:00</code></td></tr>
 <tr><td>Commits: <code>4</code></td>
-    <td>Stargazers: <code>10</code></td>
-    <td>Watchers: <code>10</code></td>
+    <td>Stargazers: <code>11</code></td>
+    <td>Watchers: <code>11</code></td>
     <td>Forks: <code>3</code></td></tr>
 </table>
 Keywords: Windows use after free, Windows use after free exploit, use after free exploit
@@ -1638,9 +1638,9 @@ Repository for information about 0-days exploited in-the-wild.
     <td>Started: <code>2021-02-23 15:16:11+00:00</code></td>
     <td>Latest: <code>2025-07-08 11:51:33+02:00</code></td></tr>
 <tr><td>Commits: <code>136</code></td>
-    <td>Stargazers: <code>829</code></td>
-    <td>Watchers: <code>829</code></td>
-    <td>Forks: <code>84</code></td></tr>
+    <td>Stargazers: <code>830</code></td>
+    <td>Watchers: <code>830</code></td>
+    <td>Forks: <code>83</code></td></tr>
 </table>
 Keywords: 0day exploitation, 0day exploit
 
@@ -1792,8 +1792,8 @@ MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStatio
     <td>Started: <code>2017-08-24 02:11:28+00:00</code></td>
     <td>Latest: <code>2025-06-20 20:13:40+02:00</code></td></tr>
 <tr><td>Commits: <code>549</code></td>
-    <td>Stargazers: <code>2728</code></td>
-    <td>Watchers: <code>2728</code></td>
+    <td>Stargazers: <code>2727</code></td>
+    <td>Watchers: <code>2727</code></td>
     <td>Forks: <code>155</code></td></tr>
 </table>
 Keywords: Windows memory leak
@@ -2320,8 +2320,8 @@ Various techniques used to bypass SMEP in the Windows Kernel.
     <td>Started: <code>2025-04-20 18:25:28+00:00</code></td>
     <td>Latest: <code>2025-04-20 20:42:37+02:00</code></td></tr>
 <tr><td>Commits: <code>4</code></td>
-    <td>Stargazers: <code>14</code></td>
-    <td>Watchers: <code>14</code></td>
+    <td>Stargazers: <code>15</code></td>
+    <td>Watchers: <code>15</code></td>
     <td>Forks: <code>6</code></td></tr>
 </table>
 Keywords: smep bypass
@@ -2760,8 +2760,8 @@ HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux
     <td>Started: <code>2015-05-28 08:24:56+00:00</code></td>
     <td>Latest: <code>2025-02-24 17:49:16+05:30</code></td></tr>
 <tr><td>Commits: <code>176</code></td>
-    <td>Stargazers: <code>2823</code></td>
-    <td>Watchers: <code>2823</code></td>
+    <td>Stargazers: <code>2824</code></td>
+    <td>Watchers: <code>2824</code></td>
     <td>Forks: <code>569</code></td></tr>
 </table>
 Keywords: vulnerability, Windows uaf vulnerability, uaf exploitation, Windows uaf exploitation, uaf vulnerability, Windows uaf
@@ -3024,8 +3024,8 @@ K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/
     <td>Started: <code>2019-02-23 14:04:52+00:00</code></td>
     <td>Latest: <code>2025-01-25 14:32:49+08:00</code></td></tr>
 <tr><td>Commits: <code>441</code></td>
-    <td>Stargazers: <code>6061</code></td>
-    <td>Watchers: <code>6061</code></td>
+    <td>Stargazers: <code>6062</code></td>
+    <td>Watchers: <code>6062</code></td>
     <td>Forks: <code>2072</code></td></tr>
 </table>
 Keywords: 0day poc, 0day exploitation, 0day exploit, lpe exploit, rce exploit, lpe poc, lpe exploitation
@@ -3574,8 +3574,8 @@ https://github.com/bohops/SharpRDPHijack
     <td>Started: <code>2020-07-06 02:59:46+00:00</code></td>
     <td>Latest: <code>2024-11-28 01:08:58-05:00</code></td></tr>
 <tr><td>Commits: <code>19</code></td>
-    <td>Stargazers: <code>492</code></td>
-    <td>Watchers: <code>492</code></td>
+    <td>Stargazers: <code>493</code></td>
+    <td>Watchers: <code>493</code></td>
     <td>Forks: <code>84</code></td></tr>
 </table>
 Keywords: session hijacking
@@ -3816,8 +3816,8 @@ hack tools
     <td>Started: <code>2017-04-30 10:59:56+00:00</code></td>
     <td>Latest: <code>2024-09-23 23:27:19+02:00</code></td></tr>
 <tr><td>Commits: <code>302</code></td>
-    <td>Stargazers: <code>1139</code></td>
-    <td>Watchers: <code>1139</code></td>
+    <td>Stargazers: <code>1140</code></td>
+    <td>Watchers: <code>1140</code></td>
     <td>Forks: <code>495</code></td></tr>
 </table>
 Keywords: 0day exploit, 0day vulnerability
@@ -4168,8 +4168,8 @@ A list of resources for those interested in getting started in bug bounties
     <td>Started: <code>2019-01-15 19:30:25+00:00</code></td>
     <td>Latest: <code>2024-07-23 10:01:39-07:00</code></td></tr>
 <tr><td>Commits: <code>93</code></td>
-    <td>Stargazers: <code>11512</code></td>
-    <td>Watchers: <code>11512</code></td>
+    <td>Stargazers: <code>11516</code></td>
+    <td>Watchers: <code>11516</code></td>
     <td>Forks: <code>1994</code></td></tr>
 </table>
 Keywords: ssrf
@@ -4520,9 +4520,9 @@ Windows LPE Nday
     <td>Started: <code>2024-04-26 01:06:43+00:00</code></td>
     <td>Latest: <code>2024-04-26 04:07:18+03:00</code></td></tr>
 <tr><td>Commits: <code>3</code></td>
-    <td>Stargazers: <code>29</code></td>
-    <td>Watchers: <code>29</code></td>
-    <td>Forks: <code>11</code></td></tr>
+    <td>Stargazers: <code>31</code></td>
+    <td>Watchers: <code>31</code></td>
+    <td>Forks: <code>12</code></td></tr>
 </table>
 Keywords: Windows lpe
 
@@ -4674,9 +4674,9 @@ Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086,
     <td>Started: <code>2024-03-20 21:16:41+00:00</code></td>
     <td>Latest: <code>2024-04-07 11:34:08+02:00</code></td></tr>
 <tr><td>Commits: <code>54</code></td>
-    <td>Stargazers: <code>2391</code></td>
-    <td>Watchers: <code>2391</code></td>
-    <td>Forks: <code>318</code></td></tr>
+    <td>Stargazers: <code>2392</code></td>
+    <td>Watchers: <code>2392</code></td>
+    <td>Forks: <code>319</code></td></tr>
 </table>
 Keywords: escalation of privileges poc, lpe exploit, escalation of privileges exploit, escalation of privileges exploitation, lpe exploitation, lpe proof of concept
 
@@ -4850,8 +4850,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5870</code></td>
-    <td>Watchers: <code>5870</code></td>
+    <td>Stargazers: <code>5871</code></td>
+    <td>Watchers: <code>5871</code></td>
     <td>Forks: <code>703</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -5554,8 +5554,8 @@ I have developed a malware program using the C programming language, which inclu
     <td>Started: <code>2023-04-24 09:03:51+00:00</code></td>
     <td>Latest: <code>2023-04-10 16:17:35+03:00</code></td></tr>
 <tr><td>Commits: <code>16</code></td>
-    <td>Stargazers: <code>0</code></td>
-    <td>Watchers: <code>0</code></td>
+    <td>Stargazers: <code>1</code></td>
+    <td>Watchers: <code>1</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: escalation of privileges exploitation, Win escalation of privileges, Windows escalation of privileges exploit, Win escalation of privileges exploitation, Win escalation of privileges exploit, escalation of privileges exploit, Windows escalation of privileges, Windows escalation of privileges exploitation
@@ -5664,8 +5664,8 @@ Wiki to collect Red Team infrastructure hardening resources
     <td>Started: <code>2017-02-24 01:21:49+00:00</code></td>
     <td>Latest: <code>2023-03-09 12:53:32-08:00</code></td></tr>
 <tr><td>Commits: <code>116</code></td>
-    <td>Stargazers: <code>4348</code></td>
-    <td>Watchers: <code>4348</code></td>
+    <td>Stargazers: <code>4349</code></td>
+    <td>Watchers: <code>4349</code></td>
     <td>Forks: <code>912</code></td></tr>
 </table>
 Keywords: by_owner
@@ -6016,8 +6016,8 @@ bXSS is a utility which can be used by bug hunters and organizations to identify
     <td>Started: <code>2017-12-13 23:49:38+00:00</code></td>
     <td>Latest: <code>2023-01-17 16:45:07-08:00</code></td></tr>
 <tr><td>Commits: <code>170</code></td>
-    <td>Stargazers: <code>547</code></td>
-    <td>Watchers: <code>547</code></td>
+    <td>Stargazers: <code>548</code></td>
+    <td>Watchers: <code>548</code></td>
     <td>Forks: <code>65</code></td></tr>
 </table>
 Keywords: xss
@@ -8942,8 +8942,8 @@ This repo is a fork from main repo and will usually have new features bundled fa
     <td>Started: <code>2022-01-04 01:26:21+00:00</code></td>
     <td>Latest: <code>2022-01-04 21:33:29+07:00</code></td></tr>
 <tr><td>Commits: <code>63</code></td>
-    <td>Stargazers: <code>39</code></td>
-    <td>Watchers: <code>39</code></td>
+    <td>Stargazers: <code>38</code></td>
+    <td>Watchers: <code>38</code></td>
     <td>Forks: <code>17</code></td></tr>
 </table>
 Keywords: empty string password
@@ -10746,8 +10746,8 @@ Miscellaneous exploit code
     <td>Started: <code>2015-03-05 11:15:07+00:00</code></td>
     <td>Latest: <code>2020-05-07 21:20:14+02:00</code></td></tr>
 <tr><td>Commits: <code>159</code></td>
-    <td>Stargazers: <code>1558</code></td>
-    <td>Watchers: <code>1558</code></td>
+    <td>Stargazers: <code>1557</code></td>
+    <td>Watchers: <code>1557</code></td>
     <td>Forks: <code>585</code></td></tr>
 </table>
 Keywords: Windows rce exploitation, rce poc, Windows rce poc, rce exploit, Windows rce, Windows rce exploit, rce exploitation
@@ -12066,8 +12066,8 @@ PowerForensics provides an all in one platform for live disk forensic analysis
     <td>Started: <code>2015-03-07 17:12:19+00:00</code></td>
     <td>Latest: <code>2018-04-20 03:34:59-07:00</code></td></tr>
 <tr><td>Commits: <code>272</code></td>
-    <td>Stargazers: <code>1417</code></td>
-    <td>Watchers: <code>1417</code></td>
+    <td>Stargazers: <code>1418</code></td>
+    <td>Watchers: <code>1418</code></td>
     <td>Forks: <code>283</code></td></tr>
 </table>
 Keywords: by_owner

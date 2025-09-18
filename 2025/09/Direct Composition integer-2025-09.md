@@ -1,3 +1,185 @@
+## DuckDuckgo search -> Direct Composition integer
+`2025-09-17`
+
+* https://arxiv.org/pdf/2406.16404
+
+<blockquote>
+ BijectionsbetweenVariantsofDyckPathsandIntegerCompositions
+</blockquote>
+<blockquote>
+A k-composition is an integer compositions whose parts come in k different colors with the restriction that the last part of the composition is of the first color; see [1]. We will consider only 3-compositions. Proposition 2.2. There exists a natural bijection between 3-compositions of n and pairs of compositions of n. Proof.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition integer
+`2025-09-17`
+
+* https://PDF
+
+<blockquote>
+ PDFIntroductionRutgersUniversity
+</blockquote>
+<blockquote>
+Introduction composition of an integer n is a representation of n as a sum of positive integers, for example the eight compositions of 4 are as follows: 4; 3 + 1; + 3; 2 + 2;
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition integer
+`2025-09-17`
+
+* https://math.stackexchange.com/questions/1999800/compositions-and-partitions
+
+<blockquote>
+ CompositionsandPartitionsMathematicsStackExchange
+</blockquote>
+<blockquote>
+For a nonnegative integer $n$, a composition of $n$ means a partition in which the order of the parts matters. For example, the compositions of $3$ are $3$, $2+1$, $1+2$, and $1+1+1$.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition integer
+`2025-09-17`
+
+* https://docs.oscar-system.org/stable/Combinatorics/EnumerativeCombinatorics/compositions/
+
+<blockquote>
+ CompositionsOscarjl
+</blockquote>
+<blockquote>
+Return the weak composition given by the integer sequence parts as an object of type WeakComposition {T}. If check is true (default), it is checked whether the given sequence defines a weak composition, that is, whether all elements of parts are non-negative.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition integer vulnerability
+`2025-09-17`
+
+* https://cwe.mitre.org/data/definitions/190.html
+
+<blockquote>
+ CWECWE190IntegerOverfloworWraparound418
+</blockquote>
+<blockquote>
+The product performs a calculation that can produce an integer overflow or wraparound when the logic assumes that the resulting value will always be larger than the original value. This occurs when an integer value is incremented to a value that is too large to store in the associated representation.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition integer vulnerability
+`2025-09-17`
+
+* https://systemweakness.com/from-overflow-to-underflow-a-deep-dive-into-integer-arithmetic-vulnerabilities-b0a4eba73a1a
+
+<blockquote>
+ FromOverflowtoUnderflowADeepDiveintoIntegerMedium
+</blockquote>
+<blockquote>
+This article contains explanations of Overflow and Underflow Integers, CWE's that are commonly used, code examples &amp; solutions to identifying and mitigating vulnerabilities related to integer overflows and underflows.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition integer vulnerability
+`2025-09-17`
+
+* https://link.springer.com/chapter/10.1007/978-981-99-7584-6_5
+
+<blockquote>
+ CompositionalVulnerabilityDetectionwithInsecuritySeparationLogic
+</blockquote>
+<blockquote>
+Underflow additionally identifies an out-of-bounds array access in the big integer library int31. This vulnerability we confirmed by fuzzing the affected code with libFuzzer and AddressSanitizer enabled, and was subsequently confirmed by the developer of the CTTK library.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition integer vulnerability
+`2025-09-17`
+
+* https://authenticone.com/integer-overflow-vulnerability-the-hidden-bug-behind-the-crash/
+
+<blockquote>
+ IntegerOverflowVulnerabilityTheHiddenBugbehindtheCrash
+</blockquote>
+<blockquote>
+In programming, when an integer overflows, the result wraps around to the other end of the range. For example, if a 32-bit unsigned integer (ranging from 0 to 4,294,967,295) reaches its maximum value and you add 1 to it, instead of resulting in 4,294,967,296, it will wrap around to 0. Why is this a Vulnerability?
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition integer vulnerability
+`2025-09-17`
+
+* https://PDF
+
+<blockquote>
+ PDFiodpUniversityofCaliforniaBerkeley
+</blockquote>
+<blockquote>
+This study shows each type of integer vulnerability is common in source code. We then describe how integer vulnerabili-ties can be exploited to gain control of a program.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition integer vulnerability
+`2025-09-17`
+
+* https://github.blog/security/vulnerability-research/hot-lava-a-case-study-in-hunting-for-network-integer-arithmetic-flaws/
+
+<blockquote>
+ HotlavaAcasestudyinhuntingfornetworkintegerarithmeticflaws
+</blockquote>
+<blockquote>
+We examine the dangers of network integer arithmetic based on a case study of security vulnerabilities reported to the ntop project.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition integer vulnerability
+`2025-09-17`
+
+* https://arxiv.org/html/2504.21480v1
+
+<blockquote>
+ AComprehensiveStudyofExploitablePatternsinSmartContractsFrom
+</blockquote>
+<blockquote>
+We focus on two prevalent and critical vulnerability types—reentrancy and integer overflow—by examining their underlying mechanisms, replicating attack scenarios, and assessing effective countermeasures.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition integer vulnerability
+`2025-09-17`
+
+* https://owasp.org/www-project-smart-contract-top-10/2023/en/src/SC02-integer-overflow-underflow.html
+
+<blockquote>
+ VulnerabilityIntegerOverflowandUnderflowOWASPFoundation
+</blockquote>
+<blockquote>
+Vulnerability: Integer Overflow and Underflow Description: Ethereum Virtual Machine (EVM) defines fixed-size data types for integers. This implies that the range of numbers that an integer variable can represent is finite.For instance, a &quot;uint8&quot; (unsigned integer of 8 bits; i.e., non-negative) can only store integers that fall between 0 and 255. The outcome of trying to store any value ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition integer vulnerability
+`2025-09-17`
+
+* https://medium.com/@dehvcurtis/integer-overflow-and-underflow-smart-contract-attack-craft-your-own-44019e9cf795
+
+<blockquote>
+ IntegerOverflowandUnderflowSmartContractAttackCraftYourOwn
+</blockquote>
+<blockquote>
+Conclusion Integer overflow and underflow vulnerabilities can severely compromise the integrity of a smart contract, leading to financial loss and exploitation.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> Direct Composition integer Protocol
 `2025-09-17`
 

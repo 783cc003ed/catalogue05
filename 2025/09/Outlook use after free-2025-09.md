@@ -1,3 +1,213 @@
+## DuckDuckgo search -> Outlook use after free vulnerability
+`2025-09-17`
+
+* https://www.ameeba.com/blog/cve-2025-53731-exploiting-use-after-free-vulnerability-in-microsoft-office/
+
+<blockquote>
+ CVE202553731ExploitingUseAfterFreeVulnerabilityinMicrosoft
+</blockquote>
+<blockquote>
+Mitigation Microsoft has already issued a vendor patch for this vulnerability. All users of Microsoft Office are strongly encouraged to apply this patch as soon as possible. In the absence of the patch, users can use a Web Application Firewall (WAF) or Intrusion Detection System (IDS) as a temporary mitigation measure.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free vulnerability
+`2025-09-17`
+
+* https://windowsforum.com/threads/cve-2025-53731-office-use-after-free-rce-and-patch-guide.377438/
+
+<blockquote>
+ CVE202553731OfficeUseAfterFreeRCEandPatchGuide
+</blockquote>
+<blockquote>
+Microsoft's Security Response Center has cataloged CVE-2025-53731 as a memory corruption vulnerability in Microsoft Office — a use-after-free bug that can allow an attacker to execute code locally on an affected system when a specially crafted Office file is processed. The advisory classifies the flaw as enabling code execution in the context of the logged-on user and flags the issue as ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free vulnerability
+`2025-09-17`
+
+* https://learn.microsoft.com/en-us/defender-office-365/responding-to-a-compromised-email-account
+
+<blockquote>
+ RespondingtoaCompromisedEmailAccountMicrosoftDefenderfor
+</blockquote>
+<blockquote>
+Learn how to recognize and respond to a compromised email account using tools available in Microsoft 365.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free
+`2025-09-17`
+
+* https://techcommunity.microsoft.com/discussions/outlookgeneral/mail--calendar-apps-will-be-replaced-with-new-outlook-for-windows-december-2024/3850309
+
+<blockquote>
+ MailCalendarAppsWillBeReplacedwithNewOutlookforWindows
+</blockquote>
+<blockquote>
+In the meantime, users are encouraged to try the New Outlook for Windows while they can switch back and forth between the Mail App and New Outlook versions. At the beginning of 2024, all Windows 11 devices will include the Free version of New Outlook for Windows as the default mailbox application.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free
+`2025-09-17`
+
+* https://meetergo.com/en/magazine/outlook-alternatives
+
+<blockquote>
+ TiredofOutlookThe19BestFreeAlternativesYoullLovein2025
+</blockquote>
+<blockquote>
+Looking for a free Outlook alternative? Discover our ultimate guide to the 19 best email clients for Windows, Mac &amp; more.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free
+`2025-09-17`
+
+* https://www.izoate.com/blog/classic-outlook-for-windows-11-download-how-to-install-revert-to-old-outlook-get-classic-outlook-on-windows-11/
+
+<blockquote>
+ ClassicOutlookforWindows11DownloadHowtoInstallReverttoOld
+</blockquote>
+<blockquote>
+Looking to download classic Outlook for Windows 11? Learn how to install, revert to old Outlook, and get the familiar classic Outlook interface to your windows 11 today.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free
+`2025-09-17`
+
+* https://apps.apple.com/us/app/microsoft-outlook/id951937596
+
+<blockquote>
+ MicrosoftOutlookontheAppStore
+</blockquote>
+<blockquote>
+Outlook lets you bring all your email accounts and calendars in one convenient spot. Whether it's staying on top of your inbox or scheduling the next big thing, we make it easy to be your most productive, organised and connected self.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free
+`2025-09-17`
+
+* https://lifehacker.com/tech/how-to-get-microsoft-365-for-free
+
+<blockquote>
+ CollegeStudentsCanNowGetMicrosoft365PersonalforFree
+</blockquote>
+<blockquote>
+Microsoft is now offering college students 12 months of Microsoft 365 Personal for free, and a 50% discount on a monthly subscription after that.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free
+`2025-09-17`
+
+* https://www.msn.com/en-us/news/technology/microsoft-is-killing-off-one-of-its-popular-outlook-apps-three-years-after-it-released/ar-AA1M3uz5
+
+<blockquote>
+ MicrosoftiskillingoffoneofitspopularOutlookappsthreeMSN
+</blockquote>
+<blockquote>
+It's bad news for people who aren't a fan of the direction Microsoft is going with Outlook. One of its popular mobile variants, Outlook Lite, garnered significant attention and downloads, becoming ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free
+`2025-09-17`
+
+* https://learn.microsoft.com/en-us/answers/questions/4590924/does-outlook-free-or-paid-and-how-to-free-from-out
+
+<blockquote>
+ DoesOutlookfreeorpaidandhowtofreefromOutlookifitspaid
+</blockquote>
+<blockquote>
+Hello. Is it free to create an Outlook account? How long this is free to use an Outlook account? If I correctly understand, Outlook is an email service like Gmail, and after registration to Outlook user gets an email address? If so, why I wasn't asked…
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free
+`2025-09-17`
+
+* https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook
+
+<blockquote>
+ MicrosoftOutlookformerlyHotmailFreeemailandcalendar
+</blockquote>
+<blockquote>
+Outlook for everyday email and calendars Stay on top of multiple accounts with email, calendars, and contacts in one place. Available on desktop, mobile, and web. Sign inCreate free accountSee plans and pricing
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free
+`2025-09-17`
+
+* https://support.microsoft.com/en-us/office/start-using-new-outlook-for-windows-4395454d-cb2f-4c16-bb24-fa4bb36650ae
+
+<blockquote>
+ StartusingnewOutlookforWindowsMicrosoftSupport
+</blockquote>
+<blockquote>
+Option 2 Download new Outlook from the Microsoft Store. Option 3 Use the pre-installed version of new Outlook on new devices running Windows 11 PC version 23H2, or when you upgrade to Windows 11 version 23H2 or later. If your account wasn't added automatically after downloading new Outlook, add it manually. Select an option to start using new ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free
+`2025-09-17`
+
+* https://www.makeuseof.com/microsoft-365-office-free-but-theres-a-catch/
+
+<blockquote>
+ YouCanNowUseMicrosoftOfficeforFreebutTheresaCatchMUO
+</blockquote>
+<blockquote>
+The company does offer Office Online for free (and there are plenty of reasons why you should use Office Online), but you have to use it within your browser and stay connected to the internet to do so.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free
+`2025-09-17`
+
+* https://support.microsoft.com/en-us/office/what-s-the-difference-between-a-microsoft-365-subscription-and-free-web-apps-36a2c67d-3488-4cad-ae9d-470d0086e2b9
+
+<blockquote>
+ WhatsthedifferencebetweenaMicrosoft365subscriptionandfreeweb
+</blockquote>
+<blockquote>
+If you see a Free badge after signing in with your Microsoft account at Microsoft365.com, it means you don't have an active Microsoft 365 Family or Personal subscription, but you do have access to the free web apps and online cloud storage. A Subscribed badge means you already have a Microsoft 365 subscription and can make use of all the benefits a subscription offers.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Outlook use after free
+`2025-09-17`
+
+* https://outlook.live.com/owa/?nlp=1&signup=1
+
+<blockquote>
+ CreateyourMicrosoftaccountOutlook
+</blockquote>
+<blockquote>
+Create a free Microsoft account to access Outlook email, calendar, and Office Online apps like Word, Excel, and PowerPoint.
+</blockquote>
+
+---
+
 ## DuckDuckgo search -> Outlook use after free Protocol
 `2025-09-17`
 

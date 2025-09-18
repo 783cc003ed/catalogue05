@@ -1,7 +1,7 @@
 {
-    "commits_count": 340,
+    "commits_count": 352,
     "date_started": "2019-08-21",
-    "date_updated": "2025-09-17",
+    "date_updated": "2025-09-18",
     "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
     "forks_count": 294,
     "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
@@ -17,9 +17,26 @@
     "language": "Lua",
     "repo_name": "Nginx-Lua-Anti-DDoS",
     "repo_owner": "C0nw0nk",
-    "repotime": "2025-09-17, 06:26:34",
-    "stargazers_count": 1360,
-    "watchers_count": 1360
+    "repotime": "2025-09-18, 08:10:51",
+    "stargazers_count": 1361,
+    "watchers_count": 1361
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-09-14",
+    "date_updated": "2025-09-16",
+    "description": "Platform for triage and tracking remediation of zero day vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/faz00li/zero-day",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "zero-day",
+    "repo_owner": "faz00li",
+    "repotime": "2025-09-16, 23:57:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 125,
@@ -43,7 +60,7 @@
     "date_started": "2019-09-10",
     "date_updated": "2025-09-17",
     "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
-    "forks_count": 295,
+    "forks_count": 296,
     "html_url": "https://github.com/TongchengOpenSource/smart-doc",
     "keywords": [
         "code injection"
@@ -52,8 +69,8 @@
     "repo_name": "smart-doc",
     "repo_owner": "TongchengOpenSource",
     "repotime": "2025-09-17, 11:55:29",
-    "stargazers_count": 1571,
-    "watchers_count": 1571
+    "stargazers_count": 1572,
+    "watchers_count": 1572
 }
 {
     "commits_count": 1309,
@@ -105,8 +122,8 @@
     "repo_name": "jsoup",
     "repo_owner": "jhy",
     "repotime": "2025-09-16, 12:19:11",
-    "stargazers_count": 11244,
-    "watchers_count": 11244
+    "stargazers_count": 11243,
+    "watchers_count": 11243
 }
 {
     "commits_count": 34,
@@ -130,7 +147,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2025-09-15",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6041,
+    "forks_count": 6043,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -139,15 +156,15 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-09-15, 00:03:04",
-    "stargazers_count": 35303,
-    "watchers_count": 35303
+    "stargazers_count": 35308,
+    "watchers_count": 35308
 }
 {
     "commits_count": 141,
     "date_started": "2019-04-19",
     "date_updated": "2025-09-14",
     "description": "Top disclosed reports from HackerOne",
-    "forks_count": 869,
+    "forks_count": 871,
     "html_url": "https://github.com/reddelexc/hackerone-reports",
     "keywords": [
         "xxe",
@@ -157,8 +174,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-09-14, 21:12:20",
-    "stargazers_count": 4842,
-    "watchers_count": 4842
+    "stargazers_count": 4847,
+    "watchers_count": 4847
 }
 {
     "commits_count": 295,
@@ -401,9 +418,9 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 340,
+    "commits_count": 352,
     "date_started": "2019-08-21",
-    "date_updated": "2025-09-17",
+    "date_updated": "2025-09-18",
     "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
     "forks_count": 294,
     "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
@@ -419,9 +436,26 @@
     "language": "Lua",
     "repo_name": "Nginx-Lua-Anti-DDoS",
     "repo_owner": "C0nw0nk",
-    "repotime": "2025-09-17, 06:26:34",
-    "stargazers_count": 1360,
-    "watchers_count": 1360
+    "repotime": "2025-09-18, 08:10:51",
+    "stargazers_count": 1361,
+    "watchers_count": 1361
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-09-14",
+    "date_updated": "2025-09-16",
+    "description": "Platform for triage and tracking remediation of zero day vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/faz00li/zero-day",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "zero-day",
+    "repo_owner": "faz00li",
+    "repotime": "2025-09-16, 23:57:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 125,
@@ -445,7 +479,7 @@
     "date_started": "2019-09-10",
     "date_updated": "2025-09-17",
     "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
-    "forks_count": 295,
+    "forks_count": 296,
     "html_url": "https://github.com/TongchengOpenSource/smart-doc",
     "keywords": [
         "code injection"
@@ -454,8 +488,8 @@
     "repo_name": "smart-doc",
     "repo_owner": "TongchengOpenSource",
     "repotime": "2025-09-17, 11:55:29",
-    "stargazers_count": 1571,
-    "watchers_count": 1571
+    "stargazers_count": 1572,
+    "watchers_count": 1572
 }
 {
     "commits_count": 1309,
@@ -507,8 +541,8 @@
     "repo_name": "jsoup",
     "repo_owner": "jhy",
     "repotime": "2025-09-16, 12:19:11",
-    "stargazers_count": 11244,
-    "watchers_count": 11244
+    "stargazers_count": 11243,
+    "watchers_count": 11243
 }
 {
     "commits_count": 34,
@@ -532,7 +566,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2025-09-15",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6041,
+    "forks_count": 6043,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -541,15 +575,15 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-09-15, 00:03:04",
-    "stargazers_count": 35303,
-    "watchers_count": 35303
+    "stargazers_count": 35308,
+    "watchers_count": 35308
 }
 {
     "commits_count": 141,
     "date_started": "2019-04-19",
     "date_updated": "2025-09-14",
     "description": "Top disclosed reports from HackerOne",
-    "forks_count": 869,
+    "forks_count": 871,
     "html_url": "https://github.com/reddelexc/hackerone-reports",
     "keywords": [
         "xxe",
@@ -559,8 +593,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-09-14, 21:12:20",
-    "stargazers_count": 4842,
-    "watchers_count": 4842
+    "stargazers_count": 4847,
+    "watchers_count": 4847
 }
 {
     "commits_count": 295,
