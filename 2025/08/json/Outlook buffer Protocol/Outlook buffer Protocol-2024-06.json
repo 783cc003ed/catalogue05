@@ -1,0 +1,315 @@
+{
+    "commits_count": 162,
+    "date_started": "2017-12-26",
+    "date_updated": "2024-06-28",
+    "description": "Java web common vulnerabilities and security code which is base on springboot and spring security",
+    "forks_count": 698,
+    "html_url": "https://github.com/JoyChou93/java-sec-code",
+    "keywords": [
+        "rce vulnerability",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "java-sec-code",
+    "repo_owner": "JoyChou93",
+    "repotime": "2024-06-28, 09:52:04",
+    "stargazers_count": 2567,
+    "watchers_count": 2567
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-08-14",
+    "date_updated": "2024-06-22",
+    "description": "Kernel exploits consisting mostly of privilege escalation attacks against core components of Linux distribtions",
+    "forks_count": 0,
+    "html_url": "https://github.com/dubniczky/Kernel-Exploits",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Kernel-Exploits",
+    "repo_owner": "dubniczky",
+    "repotime": "2024-06-22, 17:01:54",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-06-22",
+    "date_updated": "2024-06-22",
+    "description": "CVE-2023-23397: Remote Code Execution Vulnerability in Microsoft Outlook",
+    "forks_count": 0,
+    "html_url": "https://github.com/Symbolexe/CVE-2023-23397",
+    "keywords": [
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-23397",
+    "repo_owner": "Symbolexe",
+    "repotime": "2024-06-22, 17:57:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-03-21",
+    "date_updated": "2024-06-18",
+    "description": "An exploit for a Linux Kernel IPC Driver whose VM_MAYWRITE flag is not checked during its mmap implementation triggering an AAW and a Heap Overflow for LPE.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mutur4/Blunder-Kernel-Driver",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "Blunder-Kernel-Driver",
+    "repo_owner": "mutur4",
+    "repotime": "2024-06-18, 14:48:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-05-28",
+    "date_updated": "2024-06-02",
+    "description": "This PoC showcases how an attacker can exploit a CSRF vulnerability to upload a file to a victim's account without their knowledge. The attack leverages the victim's session or performs unauthorized actions on their behalf.",
+    "forks_count": 1,
+    "html_url": "https://github.com/mchklt/csrf-file-upload-poc",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "csrf-file-upload-poc",
+    "repo_owner": "mchklt",
+    "repotime": "2024-06-02, 18:31:04",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-05-31",
+    "date_updated": "2024-06-01",
+    "description": "NJS Sandbox Escape Exploit ",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xbigshaq/njs-vr",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "njs-vr",
+    "repo_owner": "0xbigshaq",
+    "repotime": "2024-06-01, 14:25:53",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 162,
+    "date_started": "2017-12-26",
+    "date_updated": "2024-06-28",
+    "description": "Java web common vulnerabilities and security code which is base on springboot and spring security",
+    "forks_count": 702,
+    "html_url": "https://github.com/JoyChou93/java-sec-code",
+    "keywords": [
+        "rce vulnerability",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "java-sec-code",
+    "repo_owner": "JoyChou93",
+    "repotime": "2024-06-28, 09:52:04",
+    "stargazers_count": 2578,
+    "watchers_count": 2578
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-08-14",
+    "date_updated": "2024-06-22",
+    "description": "Kernel exploits consisting mostly of privilege escalation attacks against core components of Linux distribtions",
+    "forks_count": 0,
+    "html_url": "https://github.com/dubniczky/Kernel-Exploits",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Kernel-Exploits",
+    "repo_owner": "dubniczky",
+    "repotime": "2024-06-22, 17:01:54",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-06-22",
+    "date_updated": "2024-06-22",
+    "description": "CVE-2023-23397: Remote Code Execution Vulnerability in Microsoft Outlook",
+    "forks_count": 0,
+    "html_url": "https://github.com/Symbolexe/CVE-2023-23397",
+    "keywords": [
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-23397",
+    "repo_owner": "Symbolexe",
+    "repotime": "2024-06-22, 17:57:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-03-21",
+    "date_updated": "2024-06-18",
+    "description": "An exploit for a Linux Kernel IPC Driver whose VM_MAYWRITE flag is not checked during its mmap implementation triggering an AAW and a Heap Overflow for LPE.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mutur4/Blunder-Kernel-Driver",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "Blunder-Kernel-Driver",
+    "repo_owner": "mutur4",
+    "repotime": "2024-06-18, 14:48:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-05-28",
+    "date_updated": "2024-06-02",
+    "description": "This PoC showcases how an attacker can exploit a CSRF vulnerability to upload a file to a victim's account without their knowledge. The attack leverages the victim's session or performs unauthorized actions on their behalf.",
+    "forks_count": 1,
+    "html_url": "https://github.com/mchklt/csrf-file-upload-poc",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "csrf-file-upload-poc",
+    "repo_owner": "mchklt",
+    "repotime": "2024-06-02, 18:31:04",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-05-31",
+    "date_updated": "2024-06-01",
+    "description": "NJS Sandbox Escape Exploit ",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xbigshaq/njs-vr",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "njs-vr",
+    "repo_owner": "0xbigshaq",
+    "repotime": "2024-06-01, 14:25:53",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 162,
+    "date_started": "2017-12-26",
+    "date_updated": "2024-06-28",
+    "description": "Java web common vulnerabilities and security code which is base on springboot and spring security",
+    "forks_count": 702,
+    "html_url": "https://github.com/JoyChou93/java-sec-code",
+    "keywords": [
+        "rce vulnerability",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "java-sec-code",
+    "repo_owner": "JoyChou93",
+    "repotime": "2024-06-28, 09:52:04",
+    "stargazers_count": 2579,
+    "watchers_count": 2579
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-08-14",
+    "date_updated": "2024-06-22",
+    "description": "Kernel exploits consisting mostly of privilege escalation attacks against core components of Linux distribtions",
+    "forks_count": 0,
+    "html_url": "https://github.com/dubniczky/Kernel-Exploits",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Kernel-Exploits",
+    "repo_owner": "dubniczky",
+    "repotime": "2024-06-22, 17:01:54",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-06-22",
+    "date_updated": "2024-06-22",
+    "description": "CVE-2023-23397: Remote Code Execution Vulnerability in Microsoft Outlook",
+    "forks_count": 0,
+    "html_url": "https://github.com/Symbolexe/CVE-2023-23397",
+    "keywords": [
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-23397",
+    "repo_owner": "Symbolexe",
+    "repotime": "2024-06-22, 17:57:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-03-21",
+    "date_updated": "2024-06-18",
+    "description": "An exploit for a Linux Kernel IPC Driver whose VM_MAYWRITE flag is not checked during its mmap implementation triggering an AAW and a Heap Overflow for LPE.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mutur4/Blunder-Kernel-Driver",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "Blunder-Kernel-Driver",
+    "repo_owner": "mutur4",
+    "repotime": "2024-06-18, 14:48:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-05-28",
+    "date_updated": "2024-06-02",
+    "description": "This PoC showcases how an attacker can exploit a CSRF vulnerability to upload a file to a victim's account without their knowledge. The attack leverages the victim's session or performs unauthorized actions on their behalf.",
+    "forks_count": 1,
+    "html_url": "https://github.com/mchklt/csrf-file-upload-poc",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "csrf-file-upload-poc",
+    "repo_owner": "mchklt",
+    "repotime": "2024-06-02, 18:31:04",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-05-31",
+    "date_updated": "2024-06-01",
+    "description": "NJS Sandbox Escape Exploit ",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xbigshaq/njs-vr",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "njs-vr",
+    "repo_owner": "0xbigshaq",
+    "repotime": "2024-06-01, 14:25:53",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}

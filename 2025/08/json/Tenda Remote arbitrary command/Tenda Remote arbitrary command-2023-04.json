@@ -1,0 +1,930 @@
+{
+    "commits_count": 15,
+    "date_started": "2019-11-19",
+    "date_updated": "2023-04-28",
+    "description": "🎯 XML External Entity (XXE) Injection Payload List",
+    "forks_count": 321,
+    "html_url": "https://github.com/payloadbox/xxe-injection-payload-list",
+    "keywords": [
+        "xml external entity",
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "xxe-injection-payload-list",
+    "repo_owner": "payloadbox",
+    "repotime": "2023-04-28, 23:49:11",
+    "stargazers_count": 1186,
+    "watchers_count": 1186
+}
+{
+    "commits_count": 20,
+    "date_started": "2020-06-27",
+    "date_updated": "2023-04-28",
+    "description": "🎯 Server Side Template Injection Payloads",
+    "forks_count": 141,
+    "html_url": "https://github.com/payloadbox/ssti-payloads",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "ssti-payloads",
+    "repo_owner": "payloadbox",
+    "repotime": "2023-04-28, 23:48:39",
+    "stargazers_count": 668,
+    "watchers_count": 668
+}
+{
+    "commits_count": 23,
+    "date_started": "2023-04-01",
+    "date_updated": "2023-04-27",
+    "description": "Authenticated Local File Inclusion to Remote Code Execution on SoftExpert Suite EQM.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Filiplain/LFI-to-RCE-SE-Suite-2.0",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Shell",
+    "repo_name": "LFI-to-RCE-SE-Suite-2.0",
+    "repo_owner": "Filiplain",
+    "repotime": "2023-04-27, 20:35:23",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 92,
+    "date_started": "2022-08-14",
+    "date_updated": "2023-04-19",
+    "description": "Social Media Website with SPA (Single Page Application) Frontend made with React.js and REST server with Express.js and MongoDB, it consist of Guest part for unauthenticated users and User part for authenticated users. The authentication is made with JWT (JSON Web Token). Both made by me",
+    "forks_count": 0,
+    "html_url": "https://github.com/instamenta/nft-social-media",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "nft-social-media",
+    "repo_owner": "instamenta",
+    "repotime": "2023-04-19, 16:43:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-08-28",
+    "date_updated": "2023-04-18",
+    "description": "Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present.",
+    "forks_count": 1,
+    "html_url": "https://github.com/dldygnl/CVE-2021-24741",
+    "keywords": [
+        "unauthenticated user",
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-24741",
+    "repo_owner": "dldygnl",
+    "repotime": "2023-04-18, 23:20:52",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 20,
+    "date_started": "2023-04-11",
+    "date_updated": "2023-04-12",
+    "description": "Textpattern v4.8.8 and Below are vulnerable to Unrestricted File Upload Leading to Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-26852-Textpattern-v4.8.8-and-",
+    "repo_owner": "leekenghwa",
+    "repotime": "2023-04-12, 11:29:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-04-10",
+    "date_updated": "2023-04-11",
+    "description": "This repository contains scripts and a short walkthrough of an RNA-Seq analysis pipeline, to be used by Dr. Jessica Glass's Genomics and Bioinformatics class at the University of Alaska Fairbanks.",
+    "forks_count": 1,
+    "html_url": "https://github.com/kmeaton/UAF_RNASeq_Lecture",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "R",
+    "repo_name": "UAF_RNASeq_Lecture",
+    "repo_owner": "kmeaton",
+    "repotime": "2023-04-11, 12:36:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2023-04-01",
+    "date_updated": "2023-04-11",
+    "description": "Demonstrating privilege escalation in Windows, enabling a normal user to gain SYSTEM NT AUTHORITY privileges through a combination of techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ahron-chet/Local-Windows-Privilege-escalation",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Win escalation of privileges"
+    ],
+    "language": "C#",
+    "repo_name": "Local-Windows-Privilege-escalation",
+    "repo_owner": "ahron-chet",
+    "repotime": "2023-04-11, 19:50:00",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-04-11",
+    "description": "Sushi すし, a shared object written in C language to perform LPE (Local Privilege Escalation) within vulnerable UNIX kernels using the LD_PRELOAD check. I'M NOT RESPONSIBLE FOR ANY MISUSE OF THIS PROGRAM, USE AT YOUR OWN RISK.",
+    "forks_count": 0,
+    "html_url": "https://github.com/not1cyyy/Sushi",
+    "keywords": [
+        "lpe vulnerability",
+        "escalation of privileges vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "Sushi",
+    "repo_owner": "not1cyyy",
+    "repotime": "2023-04-11, 03:46:19",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-04-24",
+    "date_updated": "2023-04-10",
+    "description": "I have developed a malware program using the C programming language, which includes various malicious features such as privilege escalation exploit, lsass dumper, reverse shell, keylogging, IAT hooking, DLL injection, and more. It should be noted that the program is constantly being updated, and some versions may not be fully functional.",
+    "forks_count": 0,
+    "html_url": "https://github.com/XiaoLaoMen/WindowsOffender",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "Win escalation of privileges",
+        "Windows escalation of privileges exploit",
+        "Win escalation of privileges exploitation",
+        "Win escalation of privileges exploit",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "WindowsOffender",
+    "repo_owner": "XiaoLaoMen",
+    "repotime": "2023-04-10, 16:17:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 29,
+    "date_started": "2022-07-09",
+    "date_updated": "2023-04-09",
+    "description": "Local File Inclusion To Remote Command Execution (PoC)",
+    "forks_count": 4,
+    "html_url": "https://github.com/0bfxgh0st/lfi2rce",
+    "keywords": [
+        "local file inclusion",
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi2rce",
+    "repo_owner": "0bfxgh0st",
+    "repotime": "2023-04-09, 21:28:24",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-04-09",
+    "date_updated": "2023-04-10",
+    "description": "Unauthenticated Remote Code Execution through eval injection in Searchor &amp;lt;= 2.4.1",
+    "forks_count": 0,
+    "html_url": "https://github.com/JacobEbben/Searchor_unauth_remote_code_execution",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Searchor_unauth_remote_code_execution",
+    "repo_owner": "JacobEbben",
+    "repotime": "2023-04-10, 01:33:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-04-07",
+    "date_updated": "2023-04-09",
+    "description": "Unauthenticated Remote Code Execution through authentication bypass and command injection in Cacti &amp;lt; 1.2.23 and &amp;lt; 1.3.0",
+    "forks_count": 1,
+    "html_url": "https://github.com/JacobEbben/CVE-2022-46169_unauth_remote_code_execution",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-46169_unauth_remote_code_execution",
+    "repo_owner": "JacobEbben",
+    "repotime": "2023-04-09, 13:02:59",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-12-14",
+    "date_updated": "2023-04-06",
+    "description": "A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.",
+    "forks_count": 54,
+    "html_url": "https://github.com/0xInfection/LogMePwn",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "LogMePwn",
+    "repo_owner": "0xInfection",
+    "repotime": "2023-04-06, 14:08:12",
+    "stargazers_count": 400,
+    "watchers_count": 400
+}
+{
+    "commits_count": 36,
+    "date_started": "2022-08-02",
+    "date_updated": "2023-04-05",
+    "description": "Exploits and reports for CVE-2022-38604",
+    "forks_count": 1,
+    "html_url": "https://github.com/LucaBarile/CVE-2022-38604",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "zero-day poc",
+        "zero-day disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2022-38604",
+    "repo_owner": "LucaBarile",
+    "repotime": "2023-04-05, 15:35:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-04-05",
+    "date_updated": "2023-04-05",
+    "description": "The first proof of concept of the Contao CMS RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/redteamsecurity2023/CVE-2022-26265",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26265",
+    "repo_owner": "redteamsecurity2023",
+    "repotime": "2023-04-05, 13:06:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-03-27",
+    "date_updated": "2023-04-05",
+    "description": "This is the exploitation vulnerability for Citrix Secure Acccess ",
+    "forks_count": 0,
+    "html_url": "https://github.com/sqrtZeroKnowledge/Citrix_Secure_Access_LPE_0DAY",
+    "keywords": [
+        "lpe vulnerability",
+        "lpe exploit",
+        "lpe exploitation",
+        "0day exploitation",
+        "0day vulnerability",
+        "0day exploit"
+    ],
+    "language": "C++",
+    "repo_name": "Citrix_Secure_Access_LPE_0DAY",
+    "repo_owner": "sqrtZeroKnowledge",
+    "repotime": "2023-04-05, 05:59:22",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 15,
+    "date_started": "2019-11-19",
+    "date_updated": "2023-04-28",
+    "description": "🎯 XML External Entity (XXE) Injection Payload List",
+    "forks_count": 322,
+    "html_url": "https://github.com/payloadbox/xxe-injection-payload-list",
+    "keywords": [
+        "xml external entity",
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "xxe-injection-payload-list",
+    "repo_owner": "payloadbox",
+    "repotime": "2023-04-28, 23:49:11",
+    "stargazers_count": 1195,
+    "watchers_count": 1195
+}
+{
+    "commits_count": 20,
+    "date_started": "2020-06-27",
+    "date_updated": "2023-04-28",
+    "description": "🎯 Server Side Template Injection Payloads",
+    "forks_count": 147,
+    "html_url": "https://github.com/payloadbox/ssti-payloads",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "ssti-payloads",
+    "repo_owner": "payloadbox",
+    "repotime": "2023-04-28, 23:48:39",
+    "stargazers_count": 685,
+    "watchers_count": 685
+}
+{
+    "commits_count": 23,
+    "date_started": "2023-04-01",
+    "date_updated": "2023-04-27",
+    "description": "Authenticated Local File Inclusion to Remote Code Execution on SoftExpert Suite EQM.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Filiplain/LFI-to-RCE-SE-Suite-2.0",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Shell",
+    "repo_name": "LFI-to-RCE-SE-Suite-2.0",
+    "repo_owner": "Filiplain",
+    "repotime": "2023-04-27, 20:35:23",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 92,
+    "date_started": "2022-08-14",
+    "date_updated": "2023-04-19",
+    "description": "Social Media Website with SPA (Single Page Application) Frontend made with React.js and REST server with Express.js and MongoDB, it consist of Guest part for unauthenticated users and User part for authenticated users. The authentication is made with JWT (JSON Web Token). Both made by me",
+    "forks_count": 0,
+    "html_url": "https://github.com/instamenta/nft-social-media",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "nft-social-media",
+    "repo_owner": "instamenta",
+    "repotime": "2023-04-19, 16:43:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-08-28",
+    "date_updated": "2023-04-18",
+    "description": "Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present.",
+    "forks_count": 1,
+    "html_url": "https://github.com/dldygnl/CVE-2021-24741",
+    "keywords": [
+        "unauthenticated user",
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-24741",
+    "repo_owner": "dldygnl",
+    "repotime": "2023-04-18, 23:20:52",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 20,
+    "date_started": "2023-04-11",
+    "date_updated": "2023-04-12",
+    "description": "Textpattern v4.8.8 and Below are vulnerable to Unrestricted File Upload Leading to Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-26852-Textpattern-v4.8.8-and-",
+    "repo_owner": "leekenghwa",
+    "repotime": "2023-04-12, 11:29:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-04-10",
+    "date_updated": "2023-04-11",
+    "description": "This repository contains scripts and a short walkthrough of an RNA-Seq analysis pipeline, to be used by Dr. Jessica Glass's Genomics and Bioinformatics class at the University of Alaska Fairbanks.",
+    "forks_count": 1,
+    "html_url": "https://github.com/kmeaton/UAF_RNASeq_Lecture",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "R",
+    "repo_name": "UAF_RNASeq_Lecture",
+    "repo_owner": "kmeaton",
+    "repotime": "2023-04-11, 12:36:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2023-04-01",
+    "date_updated": "2023-04-11",
+    "description": "Demonstrating privilege escalation in Windows, enabling a normal user to gain SYSTEM NT AUTHORITY privileges through a combination of techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ahron-chet/Local-Windows-Privilege-escalation",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Win escalation of privileges"
+    ],
+    "language": "C#",
+    "repo_name": "Local-Windows-Privilege-escalation",
+    "repo_owner": "ahron-chet",
+    "repotime": "2023-04-11, 19:50:00",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-04-11",
+    "description": "Sushi すし, a shared object written in C language to perform LPE (Local Privilege Escalation) within vulnerable UNIX kernels using the LD_PRELOAD check. I'M NOT RESPONSIBLE FOR ANY MISUSE OF THIS PROGRAM, USE AT YOUR OWN RISK.",
+    "forks_count": 0,
+    "html_url": "https://github.com/not1cyyy/Sushi",
+    "keywords": [
+        "lpe vulnerability",
+        "escalation of privileges vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "Sushi",
+    "repo_owner": "not1cyyy",
+    "repotime": "2023-04-11, 03:46:19",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-04-24",
+    "date_updated": "2023-04-10",
+    "description": "I have developed a malware program using the C programming language, which includes various malicious features such as privilege escalation exploit, lsass dumper, reverse shell, keylogging, IAT hooking, DLL injection, and more. It should be noted that the program is constantly being updated, and some versions may not be fully functional.",
+    "forks_count": 0,
+    "html_url": "https://github.com/XiaoLaoMen/WindowsOffender",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "Win escalation of privileges",
+        "Windows escalation of privileges exploit",
+        "Win escalation of privileges exploitation",
+        "Win escalation of privileges exploit",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "WindowsOffender",
+    "repo_owner": "XiaoLaoMen",
+    "repotime": "2023-04-10, 16:17:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 29,
+    "date_started": "2022-07-09",
+    "date_updated": "2023-04-09",
+    "description": "Local File Inclusion To Remote Command Execution (PoC)",
+    "forks_count": 4,
+    "html_url": "https://github.com/0bfxgh0st/lfi2rce",
+    "keywords": [
+        "local file inclusion",
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi2rce",
+    "repo_owner": "0bfxgh0st",
+    "repotime": "2023-04-09, 21:28:24",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-04-09",
+    "date_updated": "2023-04-10",
+    "description": "Unauthenticated Remote Code Execution through eval injection in Searchor &amp;lt;= 2.4.1",
+    "forks_count": 0,
+    "html_url": "https://github.com/JacobEbben/Searchor_unauth_remote_code_execution",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Searchor_unauth_remote_code_execution",
+    "repo_owner": "JacobEbben",
+    "repotime": "2023-04-10, 01:33:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-04-07",
+    "date_updated": "2023-04-09",
+    "description": "Unauthenticated Remote Code Execution through authentication bypass and command injection in Cacti &amp;lt; 1.2.23 and &amp;lt; 1.3.0",
+    "forks_count": 1,
+    "html_url": "https://github.com/JacobEbben/CVE-2022-46169_unauth_remote_code_execution",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-46169_unauth_remote_code_execution",
+    "repo_owner": "JacobEbben",
+    "repotime": "2023-04-09, 13:02:59",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-12-14",
+    "date_updated": "2023-04-06",
+    "description": "A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.",
+    "forks_count": 54,
+    "html_url": "https://github.com/0xInfection/LogMePwn",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "LogMePwn",
+    "repo_owner": "0xInfection",
+    "repotime": "2023-04-06, 14:08:12",
+    "stargazers_count": 400,
+    "watchers_count": 400
+}
+{
+    "commits_count": 36,
+    "date_started": "2022-08-02",
+    "date_updated": "2023-04-05",
+    "description": "Exploits and reports for CVE-2022-38604",
+    "forks_count": 1,
+    "html_url": "https://github.com/LucaBarile/CVE-2022-38604",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "zero-day poc",
+        "zero-day disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2022-38604",
+    "repo_owner": "LucaBarile",
+    "repotime": "2023-04-05, 15:35:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-04-05",
+    "date_updated": "2023-04-05",
+    "description": "The first proof of concept of the Contao CMS RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/redteamsecurity2023/CVE-2022-26265",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26265",
+    "repo_owner": "redteamsecurity2023",
+    "repotime": "2023-04-05, 13:06:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-03-27",
+    "date_updated": "2023-04-05",
+    "description": "This is the exploitation vulnerability for Citrix Secure Acccess ",
+    "forks_count": 0,
+    "html_url": "https://github.com/sqrtZeroKnowledge/Citrix_Secure_Access_LPE_0DAY",
+    "keywords": [
+        "lpe vulnerability",
+        "lpe exploit",
+        "lpe exploitation",
+        "0day exploitation",
+        "0day vulnerability",
+        "0day exploit"
+    ],
+    "language": "C++",
+    "repo_name": "Citrix_Secure_Access_LPE_0DAY",
+    "repo_owner": "sqrtZeroKnowledge",
+    "repotime": "2023-04-05, 05:59:22",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 15,
+    "date_started": "2019-11-19",
+    "date_updated": "2023-04-28",
+    "description": "🎯 XML External Entity (XXE) Injection Payload List",
+    "forks_count": 322,
+    "html_url": "https://github.com/payloadbox/xxe-injection-payload-list",
+    "keywords": [
+        "xml external entity",
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "xxe-injection-payload-list",
+    "repo_owner": "payloadbox",
+    "repotime": "2023-04-28, 23:49:11",
+    "stargazers_count": 1195,
+    "watchers_count": 1195
+}
+{
+    "commits_count": 20,
+    "date_started": "2020-06-27",
+    "date_updated": "2023-04-28",
+    "description": "🎯 Server Side Template Injection Payloads",
+    "forks_count": 147,
+    "html_url": "https://github.com/payloadbox/ssti-payloads",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "ssti-payloads",
+    "repo_owner": "payloadbox",
+    "repotime": "2023-04-28, 23:48:39",
+    "stargazers_count": 685,
+    "watchers_count": 685
+}
+{
+    "commits_count": 23,
+    "date_started": "2023-04-01",
+    "date_updated": "2023-04-27",
+    "description": "Authenticated Local File Inclusion to Remote Code Execution on SoftExpert Suite EQM.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Filiplain/LFI-to-RCE-SE-Suite-2.0",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Shell",
+    "repo_name": "LFI-to-RCE-SE-Suite-2.0",
+    "repo_owner": "Filiplain",
+    "repotime": "2023-04-27, 20:35:23",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 92,
+    "date_started": "2022-08-14",
+    "date_updated": "2023-04-19",
+    "description": "Social Media Website with SPA (Single Page Application) Frontend made with React.js and REST server with Express.js and MongoDB, it consist of Guest part for unauthenticated users and User part for authenticated users. The authentication is made with JWT (JSON Web Token). Both made by me",
+    "forks_count": 0,
+    "html_url": "https://github.com/instamenta/nft-social-media",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "nft-social-media",
+    "repo_owner": "instamenta",
+    "repotime": "2023-04-19, 16:43:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-08-28",
+    "date_updated": "2023-04-18",
+    "description": "Multiple SQL Injection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present.",
+    "forks_count": 1,
+    "html_url": "https://github.com/dldygnl/CVE-2021-24741",
+    "keywords": [
+        "unauthenticated user",
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-24741",
+    "repo_owner": "dldygnl",
+    "repotime": "2023-04-18, 23:20:52",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 20,
+    "date_started": "2023-04-11",
+    "date_updated": "2023-04-12",
+    "description": "Textpattern v4.8.8 and Below are vulnerable to Unrestricted File Upload Leading to Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-26852-Textpattern-v4.8.8-and-",
+    "repo_owner": "leekenghwa",
+    "repotime": "2023-04-12, 11:29:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-04-10",
+    "date_updated": "2023-04-11",
+    "description": "This repository contains scripts and a short walkthrough of an RNA-Seq analysis pipeline, to be used by Dr. Jessica Glass's Genomics and Bioinformatics class at the University of Alaska Fairbanks.",
+    "forks_count": 1,
+    "html_url": "https://github.com/kmeaton/UAF_RNASeq_Lecture",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "R",
+    "repo_name": "UAF_RNASeq_Lecture",
+    "repo_owner": "kmeaton",
+    "repotime": "2023-04-11, 12:36:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2023-04-01",
+    "date_updated": "2023-04-11",
+    "description": "Demonstrating privilege escalation in Windows, enabling a normal user to gain SYSTEM NT AUTHORITY privileges through a combination of techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ahron-chet/Local-Windows-Privilege-escalation",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Win escalation of privileges"
+    ],
+    "language": "C#",
+    "repo_name": "Local-Windows-Privilege-escalation",
+    "repo_owner": "ahron-chet",
+    "repotime": "2023-04-11, 19:50:00",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-04-11",
+    "description": "Sushi すし, a shared object written in C language to perform LPE (Local Privilege Escalation) within vulnerable UNIX kernels using the LD_PRELOAD check. I'M NOT RESPONSIBLE FOR ANY MISUSE OF THIS PROGRAM, USE AT YOUR OWN RISK.",
+    "forks_count": 0,
+    "html_url": "https://github.com/not1cyyy/Sushi",
+    "keywords": [
+        "lpe vulnerability",
+        "escalation of privileges vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "Sushi",
+    "repo_owner": "not1cyyy",
+    "repotime": "2023-04-11, 03:46:19",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-04-24",
+    "date_updated": "2023-04-10",
+    "description": "I have developed a malware program using the C programming language, which includes various malicious features such as privilege escalation exploit, lsass dumper, reverse shell, keylogging, IAT hooking, DLL injection, and more. It should be noted that the program is constantly being updated, and some versions may not be fully functional.",
+    "forks_count": 0,
+    "html_url": "https://github.com/XiaoLaoMen/WindowsOffender",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "Win escalation of privileges",
+        "Windows escalation of privileges exploit",
+        "Win escalation of privileges exploitation",
+        "Win escalation of privileges exploit",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "WindowsOffender",
+    "repo_owner": "XiaoLaoMen",
+    "repotime": "2023-04-10, 16:17:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 29,
+    "date_started": "2022-07-09",
+    "date_updated": "2023-04-09",
+    "description": "Local File Inclusion To Remote Command Execution (PoC)",
+    "forks_count": 4,
+    "html_url": "https://github.com/0bfxgh0st/lfi2rce",
+    "keywords": [
+        "local file inclusion",
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi2rce",
+    "repo_owner": "0bfxgh0st",
+    "repotime": "2023-04-09, 21:28:24",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-04-09",
+    "date_updated": "2023-04-10",
+    "description": "Unauthenticated Remote Code Execution through eval injection in Searchor &amp;lt;= 2.4.1",
+    "forks_count": 0,
+    "html_url": "https://github.com/JacobEbben/Searchor_unauth_remote_code_execution",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Searchor_unauth_remote_code_execution",
+    "repo_owner": "JacobEbben",
+    "repotime": "2023-04-10, 01:33:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-04-07",
+    "date_updated": "2023-04-09",
+    "description": "Unauthenticated Remote Code Execution through authentication bypass and command injection in Cacti &amp;lt; 1.2.23 and &amp;lt; 1.3.0",
+    "forks_count": 1,
+    "html_url": "https://github.com/JacobEbben/CVE-2022-46169_unauth_remote_code_execution",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-46169_unauth_remote_code_execution",
+    "repo_owner": "JacobEbben",
+    "repotime": "2023-04-09, 13:02:59",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-12-14",
+    "date_updated": "2023-04-06",
+    "description": "A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.",
+    "forks_count": 54,
+    "html_url": "https://github.com/0xInfection/LogMePwn",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "LogMePwn",
+    "repo_owner": "0xInfection",
+    "repotime": "2023-04-06, 14:08:12",
+    "stargazers_count": 400,
+    "watchers_count": 400
+}
+{
+    "commits_count": 36,
+    "date_started": "2022-08-02",
+    "date_updated": "2023-04-05",
+    "description": "Exploits and reports for CVE-2022-38604",
+    "forks_count": 1,
+    "html_url": "https://github.com/LucaBarile/CVE-2022-38604",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "zero-day poc",
+        "zero-day disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2022-38604",
+    "repo_owner": "LucaBarile",
+    "repotime": "2023-04-05, 15:35:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-04-05",
+    "date_updated": "2023-04-05",
+    "description": "The first proof of concept of the Contao CMS RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/redteamsecurity2023/CVE-2022-26265",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26265",
+    "repo_owner": "redteamsecurity2023",
+    "repotime": "2023-04-05, 13:06:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-03-27",
+    "date_updated": "2023-04-05",
+    "description": "This is the exploitation vulnerability for Citrix Secure Acccess ",
+    "forks_count": 0,
+    "html_url": "https://github.com/sqrtZeroKnowledge/Citrix_Secure_Access_LPE_0DAY",
+    "keywords": [
+        "lpe vulnerability",
+        "lpe exploit",
+        "lpe exploitation",
+        "0day exploitation",
+        "0day vulnerability",
+        "0day exploit"
+    ],
+    "language": "C++",
+    "repo_name": "Citrix_Secure_Access_LPE_0DAY",
+    "repo_owner": "sqrtZeroKnowledge",
+    "repotime": "2023-04-05, 05:59:22",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

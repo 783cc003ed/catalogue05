@@ -1,0 +1,474 @@
+{
+    "commits_count": 7,
+    "date_started": "2019-11-27",
+    "date_updated": "2021-05-31",
+    "description": "A plugin to help protect your app against csrf attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lingtalfi/Light_CsrfSession",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "Light_CsrfSession",
+    "repo_owner": "lingtalfi",
+    "repotime": "2021-05-31, 14:03:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-05-22",
+    "date_updated": "2021-05-27",
+    "description": "x64 Windows PatchGuard bypass, register process-creation callbacks from unsigned code",
+    "forks_count": 35,
+    "html_url": "https://github.com/kkent030315/NoPatchGuardCallback",
+    "keywords": [
+        "patchguard bypass",
+        "kpp bypass"
+    ],
+    "language": "C",
+    "repo_name": "NoPatchGuardCallback",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-05-27, 09:15:54",
+    "stargazers_count": 205,
+    "watchers_count": 205
+}
+{
+    "commits_count": 17,
+    "date_started": "2020-09-19",
+    "date_updated": "2021-05-24",
+    "description": "It is a SQL injection vulnerable project with demonstration. It is developed using PHP and MySQL technologies. It also contains a youtube link where fully demonstrated SQL Injection.",
+    "forks_count": 17,
+    "html_url": "https://github.com/inforkgodara/sql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "sql-injection",
+    "repo_owner": "inforkgodara",
+    "repotime": "2021-05-24, 01:04:16",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-05-21",
+    "description": "Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.",
+    "forks_count": 139,
+    "html_url": "https://github.com/0vercl0k/CVE-2021-31166",
+    "keywords": [
+        "use after free proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31166",
+    "repo_owner": "0vercl0k",
+    "repotime": "2021-05-21, 16:58:22",
+    "stargazers_count": 829,
+    "watchers_count": 829
+}
+{
+    "commits_count": 35,
+    "date_started": "2017-02-09",
+    "date_updated": "2021-05-15",
+    "description": "Ivan Ricart Borges - Test for didactic purposes of web pages vulnerables to SQL injection using dbo database user with xp_cmdshell execution permissions. Using patterns from Internet search engines to extract potentially vulnerable web addresses and test them by changing the GET parameters using invalid Transact-SQL conversion function to cause through unhandled errors by IIS web server to show critical information. If certain features are given and using advanced injection techniques a malicious attacker could gain control of the entire system by executing shell commands in the SQL database engine.",
+    "forks_count": 12,
+    "html_url": "https://github.com/iricartb/advanced-sql-injection-scanner",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "sql injection",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "C#",
+    "repo_name": "advanced-sql-injection-scanner",
+    "repo_owner": "iricartb",
+    "repotime": "2021-05-15, 13:57:27",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-05-12",
+    "date_updated": "2021-05-12",
+    "description": " ข้ามไปยังเนื้อหาหลักความช่วยเหลือเกี่ยวกับการช่วยเหลือพิเศษ  ความคิดเห็นเกี่ยวกับการเข้าถึงพิเศษ              โหมดการค้นหา  ทั้งหมด  วิดีโอ ข่าวสาร  ค้นรูป  Maps  เพิ่มเติม การตั้งค่า  เครื่องมือ ผลการค้นหา 8 รายการ (0.37 วินาที)  หรือคุณหมายถึง: file:///android_asset/tubemate/index.1 html ผลการค้นหา  ผลการค้นเว็บ   Solution: The connection to the server was unsuccessful ...  www.youtube.com › watch    2:13  App error: The connection to the server was unsuccessful. (file:///android_asset/www/index.html). It's ... 3 เม.ย. 2561 · อัปโหลดโดย Mr. Programmist  how to download YouTube videos on Android using ...  www.youtube.com › watch    3:53  Http://download.cnet.com/TubeMate-YouTube-Downloader/3000-2141_4-75672276.html. 27 มี.ค. 2560 · อัปโหลดโดย Dan Automation_Man  how to download any file on tubemate - YouTube  www.youtube.com › watch    4:04  how to download any file on tubemateyes you can download any file to tubemate/you can download video ... 17 เม.ย. 2560 · อัปโหลดโดย Mr Nabindar...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Colrightcontainer/-Google-toppagex-.ru-gmail.com-toppagex.ru.com-toppagex.ru",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "-Google-toppagex-.ru-gmail.com-toppagex.ru.com-toppagex.ru",
+    "repo_owner": "Colrightcontainer",
+    "repotime": "2021-05-12, 05:02:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-05-09",
+    "date_updated": "2021-05-10",
+    "description": "国光的手把手带你用 SSRF 打穿内网靶场源码",
+    "forks_count": 58,
+    "html_url": "https://github.com/sqlsec/ssrf-vuls",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "PHP",
+    "repo_name": "ssrf-vuls",
+    "repo_owner": "sqlsec",
+    "repotime": "2021-05-10, 09:56:19",
+    "stargazers_count": 392,
+    "watchers_count": 392
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-05-05",
+    "date_updated": "2021-05-05",
+    "description": "Spoofs CPALMS Certificate creation system",
+    "forks_count": 0,
+    "html_url": "https://github.com/Destroyer910/CPALMS-CertificateSpoofer",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "Python",
+    "repo_name": "CPALMS-CertificateSpoofer",
+    "repo_owner": "Destroyer910",
+    "repotime": "2021-05-05, 14:58:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-05-01",
+    "date_updated": "2021-05-01",
+    "description": "Local File Inclusion &amp;amp; Log Poisoning Enumeration Tool.",
+    "forks_count": 1,
+    "html_url": "https://github.com/marulecha/remLocLister",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Go",
+    "repo_name": "remLocLister",
+    "repo_owner": "marulecha",
+    "repotime": "2021-05-01, 20:19:26",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 7,
+    "date_started": "2019-11-27",
+    "date_updated": "2021-05-31",
+    "description": "A plugin to help protect your app against csrf attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lingtalfi/Light_CsrfSession",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "Light_CsrfSession",
+    "repo_owner": "lingtalfi",
+    "repotime": "2021-05-31, 14:03:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-05-22",
+    "date_updated": "2021-05-27",
+    "description": "x64 Windows PatchGuard bypass, register process-creation callbacks from unsigned code",
+    "forks_count": 35,
+    "html_url": "https://github.com/kkent030315/NoPatchGuardCallback",
+    "keywords": [
+        "patchguard bypass",
+        "kpp bypass"
+    ],
+    "language": "C",
+    "repo_name": "NoPatchGuardCallback",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-05-27, 09:15:54",
+    "stargazers_count": 205,
+    "watchers_count": 205
+}
+{
+    "commits_count": 17,
+    "date_started": "2020-09-19",
+    "date_updated": "2021-05-24",
+    "description": "It is a SQL injection vulnerable project with demonstration. It is developed using PHP and MySQL technologies. It also contains a youtube link where fully demonstrated SQL Injection.",
+    "forks_count": 17,
+    "html_url": "https://github.com/inforkgodara/sql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "sql-injection",
+    "repo_owner": "inforkgodara",
+    "repotime": "2021-05-24, 01:04:16",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-05-21",
+    "description": "Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.",
+    "forks_count": 139,
+    "html_url": "https://github.com/0vercl0k/CVE-2021-31166",
+    "keywords": [
+        "use after free proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31166",
+    "repo_owner": "0vercl0k",
+    "repotime": "2021-05-21, 16:58:22",
+    "stargazers_count": 829,
+    "watchers_count": 829
+}
+{
+    "commits_count": 35,
+    "date_started": "2017-02-09",
+    "date_updated": "2021-05-15",
+    "description": "Ivan Ricart Borges - Test for didactic purposes of web pages vulnerables to SQL injection using dbo database user with xp_cmdshell execution permissions. Using patterns from Internet search engines to extract potentially vulnerable web addresses and test them by changing the GET parameters using invalid Transact-SQL conversion function to cause through unhandled errors by IIS web server to show critical information. If certain features are given and using advanced injection techniques a malicious attacker could gain control of the entire system by executing shell commands in the SQL database engine.",
+    "forks_count": 12,
+    "html_url": "https://github.com/iricartb/advanced-sql-injection-scanner",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "sql injection",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "C#",
+    "repo_name": "advanced-sql-injection-scanner",
+    "repo_owner": "iricartb",
+    "repotime": "2021-05-15, 13:57:27",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-05-12",
+    "date_updated": "2021-05-12",
+    "description": " ข้ามไปยังเนื้อหาหลักความช่วยเหลือเกี่ยวกับการช่วยเหลือพิเศษ  ความคิดเห็นเกี่ยวกับการเข้าถึงพิเศษ              โหมดการค้นหา  ทั้งหมด  วิดีโอ ข่าวสาร  ค้นรูป  Maps  เพิ่มเติม การตั้งค่า  เครื่องมือ ผลการค้นหา 8 รายการ (0.37 วินาที)  หรือคุณหมายถึง: file:///android_asset/tubemate/index.1 html ผลการค้นหา  ผลการค้นเว็บ   Solution: The connection to the server was unsuccessful ...  www.youtube.com › watch    2:13  App error: The connection to the server was unsuccessful. (file:///android_asset/www/index.html). It's ... 3 เม.ย. 2561 · อัปโหลดโดย Mr. Programmist  how to download YouTube videos on Android using ...  www.youtube.com › watch    3:53  Http://download.cnet.com/TubeMate-YouTube-Downloader/3000-2141_4-75672276.html. 27 มี.ค. 2560 · อัปโหลดโดย Dan Automation_Man  how to download any file on tubemate - YouTube  www.youtube.com › watch    4:04  how to download any file on tubemateyes you can download any file to tubemate/you can download video ... 17 เม.ย. 2560 · อัปโหลดโดย Mr Nabindar...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Colrightcontainer/-Google-toppagex-.ru-gmail.com-toppagex.ru.com-toppagex.ru",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "-Google-toppagex-.ru-gmail.com-toppagex.ru.com-toppagex.ru",
+    "repo_owner": "Colrightcontainer",
+    "repotime": "2021-05-12, 05:02:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-05-09",
+    "date_updated": "2021-05-10",
+    "description": "国光的手把手带你用 SSRF 打穿内网靶场源码",
+    "forks_count": 58,
+    "html_url": "https://github.com/sqlsec/ssrf-vuls",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "PHP",
+    "repo_name": "ssrf-vuls",
+    "repo_owner": "sqlsec",
+    "repotime": "2021-05-10, 09:56:19",
+    "stargazers_count": 392,
+    "watchers_count": 392
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-05-05",
+    "date_updated": "2021-05-05",
+    "description": "Spoofs CPALMS Certificate creation system",
+    "forks_count": 0,
+    "html_url": "https://github.com/Destroyer910/CPALMS-CertificateSpoofer",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "Python",
+    "repo_name": "CPALMS-CertificateSpoofer",
+    "repo_owner": "Destroyer910",
+    "repotime": "2021-05-05, 14:58:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-05-01",
+    "date_updated": "2021-05-01",
+    "description": "Local File Inclusion &amp;amp; Log Poisoning Enumeration Tool.",
+    "forks_count": 1,
+    "html_url": "https://github.com/marulecha/remLocLister",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Go",
+    "repo_name": "remLocLister",
+    "repo_owner": "marulecha",
+    "repotime": "2021-05-01, 20:19:26",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 7,
+    "date_started": "2019-11-27",
+    "date_updated": "2021-05-31",
+    "description": "A plugin to help protect your app against csrf attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lingtalfi/Light_CsrfSession",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "Light_CsrfSession",
+    "repo_owner": "lingtalfi",
+    "repotime": "2021-05-31, 14:03:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-05-22",
+    "date_updated": "2021-05-27",
+    "description": "x64 Windows PatchGuard bypass, register process-creation callbacks from unsigned code",
+    "forks_count": 35,
+    "html_url": "https://github.com/kkent030315/NoPatchGuardCallback",
+    "keywords": [
+        "patchguard bypass",
+        "kpp bypass"
+    ],
+    "language": "C",
+    "repo_name": "NoPatchGuardCallback",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-05-27, 09:15:54",
+    "stargazers_count": 206,
+    "watchers_count": 206
+}
+{
+    "commits_count": 17,
+    "date_started": "2020-09-19",
+    "date_updated": "2021-05-24",
+    "description": "It is a SQL injection vulnerable project with demonstration. It is developed using PHP and MySQL technologies. It also contains a youtube link where fully demonstrated SQL Injection.",
+    "forks_count": 17,
+    "html_url": "https://github.com/inforkgodara/sql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "sql-injection",
+    "repo_owner": "inforkgodara",
+    "repotime": "2021-05-24, 01:04:16",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-05-21",
+    "description": "Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.",
+    "forks_count": 139,
+    "html_url": "https://github.com/0vercl0k/CVE-2021-31166",
+    "keywords": [
+        "use after free proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31166",
+    "repo_owner": "0vercl0k",
+    "repotime": "2021-05-21, 16:58:22",
+    "stargazers_count": 831,
+    "watchers_count": 831
+}
+{
+    "commits_count": 35,
+    "date_started": "2017-02-09",
+    "date_updated": "2021-05-15",
+    "description": "Ivan Ricart Borges - Test for didactic purposes of web pages vulnerables to SQL injection using dbo database user with xp_cmdshell execution permissions. Using patterns from Internet search engines to extract potentially vulnerable web addresses and test them by changing the GET parameters using invalid Transact-SQL conversion function to cause through unhandled errors by IIS web server to show critical information. If certain features are given and using advanced injection techniques a malicious attacker could gain control of the entire system by executing shell commands in the SQL database engine.",
+    "forks_count": 12,
+    "html_url": "https://github.com/iricartb/advanced-sql-injection-scanner",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "sql injection",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "C#",
+    "repo_name": "advanced-sql-injection-scanner",
+    "repo_owner": "iricartb",
+    "repotime": "2021-05-15, 13:57:27",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-05-12",
+    "date_updated": "2021-05-12",
+    "description": " ข้ามไปยังเนื้อหาหลักความช่วยเหลือเกี่ยวกับการช่วยเหลือพิเศษ  ความคิดเห็นเกี่ยวกับการเข้าถึงพิเศษ              โหมดการค้นหา  ทั้งหมด  วิดีโอ ข่าวสาร  ค้นรูป  Maps  เพิ่มเติม การตั้งค่า  เครื่องมือ ผลการค้นหา 8 รายการ (0.37 วินาที)  หรือคุณหมายถึง: file:///android_asset/tubemate/index.1 html ผลการค้นหา  ผลการค้นเว็บ   Solution: The connection to the server was unsuccessful ...  www.youtube.com › watch    2:13  App error: The connection to the server was unsuccessful. (file:///android_asset/www/index.html). It's ... 3 เม.ย. 2561 · อัปโหลดโดย Mr. Programmist  how to download YouTube videos on Android using ...  www.youtube.com › watch    3:53  Http://download.cnet.com/TubeMate-YouTube-Downloader/3000-2141_4-75672276.html. 27 มี.ค. 2560 · อัปโหลดโดย Dan Automation_Man  how to download any file on tubemate - YouTube  www.youtube.com › watch    4:04  how to download any file on tubemateyes you can download any file to tubemate/you can download video ... 17 เม.ย. 2560 · อัปโหลดโดย Mr Nabindar...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Colrightcontainer/-Google-toppagex-.ru-gmail.com-toppagex.ru.com-toppagex.ru",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "-Google-toppagex-.ru-gmail.com-toppagex.ru.com-toppagex.ru",
+    "repo_owner": "Colrightcontainer",
+    "repotime": "2021-05-12, 05:02:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-05-09",
+    "date_updated": "2021-05-10",
+    "description": "国光的手把手带你用 SSRF 打穿内网靶场源码",
+    "forks_count": 58,
+    "html_url": "https://github.com/sqlsec/ssrf-vuls",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "PHP",
+    "repo_name": "ssrf-vuls",
+    "repo_owner": "sqlsec",
+    "repotime": "2021-05-10, 09:56:19",
+    "stargazers_count": 396,
+    "watchers_count": 396
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-05-05",
+    "date_updated": "2021-05-05",
+    "description": "Spoofs CPALMS Certificate creation system",
+    "forks_count": 0,
+    "html_url": "https://github.com/Destroyer910/CPALMS-CertificateSpoofer",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "Python",
+    "repo_name": "CPALMS-CertificateSpoofer",
+    "repo_owner": "Destroyer910",
+    "repotime": "2021-05-05, 14:58:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-05-01",
+    "date_updated": "2021-05-01",
+    "description": "Local File Inclusion &amp;amp; Log Poisoning Enumeration Tool.",
+    "forks_count": 1,
+    "html_url": "https://github.com/marulecha/remLocLister",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Go",
+    "repo_name": "remLocLister",
+    "repo_owner": "marulecha",
+    "repotime": "2021-05-01, 20:19:26",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

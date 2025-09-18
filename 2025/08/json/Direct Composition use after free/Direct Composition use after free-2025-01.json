@@ -451,3 +451,909 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 4,
+    "date_started": "2025-01-29",
+    "date_updated": "2025-01-31",
+    "description": "GuardianPHP – A powerful PHP vulnerability scanner that detects security flaws like SQL Injection, XSS, RCE, LFI, and more. 🛡️ Secure your PHP applications with real-time static code analysis and fix vulnerabilities easily.",
+    "forks_count": 0,
+    "html_url": "https://github.com/OnyxDeveploment/GuardianPHP",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Python",
+    "repo_name": "GuardianPHP",
+    "repo_owner": "OnyxDeveploment",
+    "repotime": "2025-01-31, 22:22:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-01-31",
+    "description": "This repository contains a kernel exploit for PlayStation 4 firmware 6.72. The exploit leverages a vulnerability in the system kernel to achieve privilege escalation, allowing execution of unsigned code and jailbreak functionalities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yonicodedemon/YG2",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "YG2",
+    "repo_owner": "Yonicodedemon",
+    "repotime": "2025-01-31, 17:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-08-11",
+    "date_updated": "2025-01-31",
+    "description": "A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin &amp;lt; 1.997.",
+    "forks_count": 34,
+    "html_url": "https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
+    "repo_owner": "p0dalirius",
+    "repotime": "2025-01-31, 10:36:28",
+    "stargazers_count": 115,
+    "watchers_count": 115
+}
+{
+    "commits_count": 37,
+    "date_started": "2021-10-26",
+    "date_updated": "2025-01-31",
+    "description": "How to exploit a double free vulnerability in 2021. Use After Free for Dummies",
+    "forks_count": 66,
+    "html_url": "https://github.com/stong/how-to-exploit-a-double-free",
+    "keywords": [
+        "use after free exploit",
+        "use after free vulnerability",
+        "use after free exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "how-to-exploit-a-double-free",
+    "repo_owner": "stong",
+    "repotime": "2025-01-31, 03:45:57",
+    "stargazers_count": 1361,
+    "watchers_count": 1361
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-01-30",
+    "date_updated": "2025-01-30",
+    "description": "The EventON WordPress plugin before 4.5.5, EventON WordPress plugin before 2.2.7 do not have authorisation in an AJAX action, allowing unauthenticated users to retrieve email addresses of any users on the blog",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nxploited/CVE-2024-0235-PoC",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-0235-PoC",
+    "repo_owner": "Nxploited",
+    "repotime": "2025-01-30, 19:49:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 54,
+    "date_started": "2022-06-20",
+    "date_updated": "2025-01-30",
+    "description": "A Complete SSRF (Server Side Request Forgery) Scanner.",
+    "forks_count": 6,
+    "html_url": "https://github.com/Dancas93/SSRF-Scanner",
+    "keywords": [
+        "ssrf",
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Scanner",
+    "repo_owner": "Dancas93",
+    "repotime": "2025-01-30, 15:59:06",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-01-29",
+    "date_updated": "2025-01-28",
+    "description": "Zero-Day Exploit Leak which allows you to get **admin** access to their database. Including user infos.",
+    "forks_count": 0,
+    "html_url": "https://github.com/LiamG53/AuthixEmulator",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "AuthixEmulator",
+    "repo_owner": "LiamG53",
+    "repotime": "2025-01-28, 23:06:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2020-09-14",
+    "date_updated": "2025-01-27",
+    "description": "CanIBeSpoofed is a console project utilising functionality built for the https://caniphish.com/free-phishing-tools/email-spoofing-test website. This project facilitates scanning of domains to gain visibility over email supply chain and SPF/DMARC vulnerabilities.",
+    "forks_count": 8,
+    "html_url": "https://github.com/CanIPhish/CanIBeSpoofed",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C#",
+    "repo_name": "CanIBeSpoofed",
+    "repo_owner": "CanIPhish",
+    "repotime": "2025-01-27, 07:47:04",
+    "stargazers_count": 47,
+    "watchers_count": 47
+}
+{
+    "commits_count": 441,
+    "date_started": "2019-02-23",
+    "date_updated": "2025-01-25",
+    "description": "K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
+    "forks_count": 2071,
+    "html_url": "https://github.com/k8gege/K8tools",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit",
+        "lpe exploit",
+        "rce exploit",
+        "lpe poc",
+        "lpe exploitation"
+    ],
+    "language": "PowerShell",
+    "repo_name": "K8tools",
+    "repo_owner": "k8gege",
+    "repotime": "2025-01-25, 14:32:49",
+    "stargazers_count": 6033,
+    "watchers_count": 6033
+}
+{
+    "commits_count": 221,
+    "date_started": "2023-01-25",
+    "date_updated": "2025-01-22",
+    "description": "<no description>",
+    "forks_count": 130,
+    "html_url": "https://github.com/trufflesecurity/xsshunter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "SCSS",
+    "repo_name": "xsshunter",
+    "repo_owner": "trufflesecurity",
+    "repotime": "2025-01-22, 15:35:19",
+    "stargazers_count": 471,
+    "watchers_count": 471
+}
+{
+    "commits_count": 255,
+    "date_started": "2018-07-10",
+    "date_updated": "2025-01-21",
+    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "forks_count": 2316,
+    "html_url": "https://github.com/kgretzky/evilginx2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Go",
+    "repo_name": "evilginx2",
+    "repo_owner": "kgretzky",
+    "repotime": "2025-01-21, 16:16:10",
+    "stargazers_count": 13320,
+    "watchers_count": 13320
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-11-20",
+    "date_updated": "2025-01-20",
+    "description": "LFI Fuzzer automates the detection of Local File Inclusion (LFI) vulnerabilities in web apps by appending common file paths to a target URL, supporting custom paths, traversal, and multithreading.",
+    "forks_count": 0,
+    "html_url": "https://github.com/3rr0r-505/LFI-fuzz3r",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "LFI-fuzz3r",
+    "repo_owner": "3rr0r-505",
+    "repotime": "2025-01-20, 22:02:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 75,
+    "date_started": "2022-05-08",
+    "date_updated": "2025-01-19",
+    "description": "An XSS exploitation command-line interface and payload generator.",
+    "forks_count": 192,
+    "html_url": "https://github.com/t3l3machus/toxssin",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "toxssin",
+    "repo_owner": "t3l3machus",
+    "repotime": "2025-01-19, 17:24:50",
+    "stargazers_count": 1384,
+    "watchers_count": 1384
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-05-09",
+    "date_updated": "2025-01-18",
+    "description": "This is a simple repository of the tools that I use for Windows privilege escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jsimsynack/windows-privesc-tools",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Win escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "windows-privesc-tools",
+    "repo_owner": "Jsimsynack",
+    "repotime": "2025-01-18, 21:20:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-18",
+    "date_updated": "2025-01-17",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/ByteBrew101/Bypassing-PatchGuard-And-DSE-Tutorial",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": null,
+    "repo_name": "Bypassing-PatchGuard-And-DSE-Tutorial",
+    "repo_owner": "ByteBrew101",
+    "repotime": "2025-01-17, 21:24:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-01-18",
+    "date_updated": "2025-01-18",
+    "description": "An educational project to explore and understand path traversal vulnerabilities. It includes five interactive labs with challenges and solutions to practice file path security. Features include file upload scenarios, secure coding examples, and Burp Suite integration for testing. Ideal for hands-on learning and improving cybersecurity skills.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AkkiKumarDR18/flask-path-traversal-labs",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "flask-path-traversal-labs",
+    "repo_owner": "AkkiKumarDR18",
+    "repotime": "2025-01-18, 10:01:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 46,
+    "date_started": "2024-09-13",
+    "date_updated": "2025-01-17",
+    "description": "Educational project implementing ARP spoofing for network security learning. Demonstrates Man-in-the-Middle attacks by exploiting ARP protocol vulnerabilities in IPv4 networks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/eprei/42_ft_malcolm",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "42_ft_malcolm",
+    "repo_owner": "eprei",
+    "repotime": "2025-01-17, 17:10:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 265,
+    "date_started": "2023-12-14",
+    "date_updated": "2025-01-11",
+    "description": "Modloader/Injector/Decompiler that supports ingame code injection for Balatro (Linux/Windows/Mac)",
+    "forks_count": 20,
+    "html_url": "https://github.com/balamod/balamod",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Rust",
+    "repo_name": "balamod",
+    "repo_owner": "balamod",
+    "repotime": "2025-01-11, 12:09:02",
+    "stargazers_count": 140,
+    "watchers_count": 140
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-11",
+    "date_updated": "2025-01-11",
+    "description": "A Python script to detect CVE-2024-41713, a directory traversal vulnerability in Apache HTTP Server, enabling unauthorized access to restricted resources. This tool is for educational purposes and authorized testing only. Unauthorized usage is unethical and illegal.",
+    "forks_count": 0,
+    "html_url": "https://github.com/amanverma-wsu/CVE-2024-41713-Scan",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-41713-Scan",
+    "repo_owner": "amanverma-wsu",
+    "repotime": "2025-01-11, 08:16:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-01-07",
+    "date_updated": "2025-01-07",
+    "description": "A Pinterest-style app where authenticated users can log in with GitHub, link and manage images, and view a personal image wall. Unauthenticated users can browse public image walls. Broken images are replaced with placeholders.",
+    "forks_count": 0,
+    "html_url": "https://github.com/davidecarluccio/pinterest-clone",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "pinterest-clone",
+    "repo_owner": "davidecarluccio",
+    "repotime": "2025-01-07, 18:02:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2025-01-05",
+    "date_updated": "2025-01-06",
+    "description": "Oprlet is a powerful and flexible tool designed to perform automated vulnerability checks on websites, helping you identify potential security weaknesses. The scanner supports SQL Injection, XSS, and Directory Traversal vulnerabilities, utilizing comprehensive payloads for thorough scanning.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fathiashik/oprlet",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "oprlet",
+    "repo_owner": "fathiashik",
+    "repotime": "2025-01-06, 17:12:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-01-05",
+    "date_updated": "2025-01-06",
+    "description": "For this fun data analysis, I used a free 2017 agricultural dataset. After reviewing, cleaning, and reorganizing the raw data, I embarked on a meticulous trial-and-error process to create accurate, informative, and well-presented descriptive statistics using Python programming",
+    "forks_count": 0,
+    "html_url": "https://github.com/AlonOrnai/Agricultural-Hyperbands-Data-analysis",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Python",
+    "repo_name": "Agricultural-Hyperbands-Data-analysis",
+    "repo_owner": "AlonOrnai",
+    "repotime": "2025-01-06, 15:11:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 195,
+    "date_started": "2018-02-27",
+    "date_updated": "2025-01-06",
+    "description": "SQL injection protection module",
+    "forks_count": 62,
+    "html_url": "https://github.com/nearform/sql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sql",
+    "repo_owner": "nearform",
+    "repotime": "2025-01-06, 13:13:21",
+    "stargazers_count": 218,
+    "watchers_count": 218
+}
+{
+    "commits_count": 244,
+    "date_started": "2020-08-01",
+    "date_updated": "2025-01-04",
+    "description": "Remote command shell application written in C&amp;&#35;35; targeting the .NET 9.0 runtime.",
+    "forks_count": 6,
+    "html_url": "https://github.com/vandavey/DotnetCat",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C#",
+    "repo_name": "DotnetCat",
+    "repo_owner": "vandavey",
+    "repotime": "2025-01-04, 15:30:03",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 12,
+    "date_started": "2025-01-03",
+    "date_updated": "2025-01-03",
+    "description": "This is Simple Social Media analyst  which is langflow Ai system which uses  RAG ( Retrieval-Augmented generation ) to analysis and retrieval information from document. Dataset is stored as astra DB. after data is upload in flow its split in chuck. default Open ai modal is used But you can use free ai model like ollama or Hugging face.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Digitalspy12/SocialMedia_analyst_LevelSupermind-Hackathon_2024",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Python",
+    "repo_name": "SocialMedia_analyst_LevelSupermind-Hackathon_2024",
+    "repo_owner": "Digitalspy12",
+    "repotime": "2025-01-03, 15:46:05",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-12-31",
+    "date_updated": "2025-01-02",
+    "description": "Solution for ingesting large Excel/CSV datasets into LLMs. Aims to chunk, query, and aggregate data efficiently—so to quickly analyze massive datasets without typical LLM issues.",
+    "forks_count": 0,
+    "html_url": "https://github.com/aryadhruv/llm-tabular-data-injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "llm-tabular-data-injection",
+    "repo_owner": "aryadhruv",
+    "repotime": "2025-01-02, 20:37:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-29",
+    "date_updated": "2025-01-31",
+    "description": "GuardianPHP – A powerful PHP vulnerability scanner that detects security flaws like SQL Injection, XSS, RCE, LFI, and more. 🛡️ Secure your PHP applications with real-time static code analysis and fix vulnerabilities easily.",
+    "forks_count": 0,
+    "html_url": "https://github.com/OnyxDeveploment/GuardianPHP",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Python",
+    "repo_name": "GuardianPHP",
+    "repo_owner": "OnyxDeveploment",
+    "repotime": "2025-01-31, 22:22:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-01-31",
+    "description": "This repository contains a kernel exploit for PlayStation 4 firmware 6.72. The exploit leverages a vulnerability in the system kernel to achieve privilege escalation, allowing execution of unsigned code and jailbreak functionalities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yonicodedemon/YG2",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "YG2",
+    "repo_owner": "Yonicodedemon",
+    "repotime": "2025-01-31, 17:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-08-11",
+    "date_updated": "2025-01-31",
+    "description": "A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin &amp;lt; 1.997.",
+    "forks_count": 34,
+    "html_url": "https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
+    "repo_owner": "p0dalirius",
+    "repotime": "2025-01-31, 10:36:28",
+    "stargazers_count": 115,
+    "watchers_count": 115
+}
+{
+    "commits_count": 37,
+    "date_started": "2021-10-26",
+    "date_updated": "2025-01-31",
+    "description": "How to exploit a double free vulnerability in 2021. Use After Free for Dummies",
+    "forks_count": 66,
+    "html_url": "https://github.com/stong/how-to-exploit-a-double-free",
+    "keywords": [
+        "use after free exploit",
+        "use after free vulnerability",
+        "use after free exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "how-to-exploit-a-double-free",
+    "repo_owner": "stong",
+    "repotime": "2025-01-31, 03:45:57",
+    "stargazers_count": 1363,
+    "watchers_count": 1363
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-01-30",
+    "date_updated": "2025-01-30",
+    "description": "The EventON WordPress plugin before 4.5.5, EventON WordPress plugin before 2.2.7 do not have authorisation in an AJAX action, allowing unauthenticated users to retrieve email addresses of any users on the blog",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nxploited/CVE-2024-0235-PoC",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-0235-PoC",
+    "repo_owner": "Nxploited",
+    "repotime": "2025-01-30, 19:49:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 54,
+    "date_started": "2022-06-20",
+    "date_updated": "2025-01-30",
+    "description": "A Complete SSRF (Server Side Request Forgery) Scanner.",
+    "forks_count": 6,
+    "html_url": "https://github.com/Dancas93/SSRF-Scanner",
+    "keywords": [
+        "ssrf",
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Scanner",
+    "repo_owner": "Dancas93",
+    "repotime": "2025-01-30, 15:59:06",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-01-29",
+    "date_updated": "2025-01-28",
+    "description": "Zero-Day Exploit Leak which allows you to get **admin** access to their database. Including user infos.",
+    "forks_count": 0,
+    "html_url": "https://github.com/LiamG53/AuthixEmulator",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "AuthixEmulator",
+    "repo_owner": "LiamG53",
+    "repotime": "2025-01-28, 23:06:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2020-09-14",
+    "date_updated": "2025-01-27",
+    "description": "CanIBeSpoofed is a console project utilising functionality built for the https://caniphish.com/free-phishing-tools/email-spoofing-test website. This project facilitates scanning of domains to gain visibility over email supply chain and SPF/DMARC vulnerabilities.",
+    "forks_count": 8,
+    "html_url": "https://github.com/CanIPhish/CanIBeSpoofed",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C#",
+    "repo_name": "CanIBeSpoofed",
+    "repo_owner": "CanIPhish",
+    "repotime": "2025-01-27, 07:47:04",
+    "stargazers_count": 47,
+    "watchers_count": 47
+}
+{
+    "commits_count": 441,
+    "date_started": "2019-02-23",
+    "date_updated": "2025-01-25",
+    "description": "K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
+    "forks_count": 2071,
+    "html_url": "https://github.com/k8gege/K8tools",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit",
+        "lpe exploit",
+        "rce exploit",
+        "lpe poc",
+        "lpe exploitation"
+    ],
+    "language": "PowerShell",
+    "repo_name": "K8tools",
+    "repo_owner": "k8gege",
+    "repotime": "2025-01-25, 14:32:49",
+    "stargazers_count": 6041,
+    "watchers_count": 6041
+}
+{
+    "commits_count": 221,
+    "date_started": "2023-01-25",
+    "date_updated": "2025-01-22",
+    "description": "<no description>",
+    "forks_count": 136,
+    "html_url": "https://github.com/trufflesecurity/xsshunter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "SCSS",
+    "repo_name": "xsshunter",
+    "repo_owner": "trufflesecurity",
+    "repotime": "2025-01-22, 15:35:19",
+    "stargazers_count": 481,
+    "watchers_count": 481
+}
+{
+    "commits_count": 255,
+    "date_started": "2018-07-10",
+    "date_updated": "2025-01-21",
+    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "forks_count": 2375,
+    "html_url": "https://github.com/kgretzky/evilginx2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Go",
+    "repo_name": "evilginx2",
+    "repo_owner": "kgretzky",
+    "repotime": "2025-01-21, 16:16:10",
+    "stargazers_count": 13630,
+    "watchers_count": 13630
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-11-20",
+    "date_updated": "2025-01-20",
+    "description": "LFI Fuzzer automates the detection of Local File Inclusion (LFI) vulnerabilities in web apps by appending common file paths to a target URL, supporting custom paths, traversal, and multithreading.",
+    "forks_count": 0,
+    "html_url": "https://github.com/3rr0r-505/LFI-fuzz3r",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "LFI-fuzz3r",
+    "repo_owner": "3rr0r-505",
+    "repotime": "2025-01-20, 22:02:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 75,
+    "date_started": "2022-05-08",
+    "date_updated": "2025-01-19",
+    "description": "An XSS exploitation command-line interface and payload generator.",
+    "forks_count": 192,
+    "html_url": "https://github.com/t3l3machus/toxssin",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "toxssin",
+    "repo_owner": "t3l3machus",
+    "repotime": "2025-01-19, 17:24:50",
+    "stargazers_count": 1391,
+    "watchers_count": 1391
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-05-09",
+    "date_updated": "2025-01-18",
+    "description": "This is a simple repository of the tools that I use for Windows privilege escalation",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jsimsynack/windows-privesc-tools",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Win escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "windows-privesc-tools",
+    "repo_owner": "Jsimsynack",
+    "repotime": "2025-01-18, 21:20:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-18",
+    "date_updated": "2025-01-17",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/ByteBrew101/Bypassing-PatchGuard-And-DSE-Tutorial",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": null,
+    "repo_name": "Bypassing-PatchGuard-And-DSE-Tutorial",
+    "repo_owner": "ByteBrew101",
+    "repotime": "2025-01-17, 21:24:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-01-18",
+    "date_updated": "2025-01-18",
+    "description": "An educational project to explore and understand path traversal vulnerabilities. It includes five interactive labs with challenges and solutions to practice file path security. Features include file upload scenarios, secure coding examples, and Burp Suite integration for testing. Ideal for hands-on learning and improving cybersecurity skills.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AkkiKumarDR18/flask-path-traversal-labs",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "flask-path-traversal-labs",
+    "repo_owner": "AkkiKumarDR18",
+    "repotime": "2025-01-18, 10:01:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 46,
+    "date_started": "2024-09-13",
+    "date_updated": "2025-01-17",
+    "description": "Educational project implementing ARP spoofing for network security learning. Demonstrates Man-in-the-Middle attacks by exploiting ARP protocol vulnerabilities in IPv4 networks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/eprei/42_ft_malcolm",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "42_ft_malcolm",
+    "repo_owner": "eprei",
+    "repotime": "2025-01-17, 17:10:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 265,
+    "date_started": "2023-12-14",
+    "date_updated": "2025-01-11",
+    "description": "Modloader/Injector/Decompiler that supports ingame code injection for Balatro (Linux/Windows/Mac)",
+    "forks_count": 20,
+    "html_url": "https://github.com/balamod/balamod",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Rust",
+    "repo_name": "balamod",
+    "repo_owner": "balamod",
+    "repotime": "2025-01-11, 12:09:02",
+    "stargazers_count": 140,
+    "watchers_count": 140
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-11",
+    "date_updated": "2025-01-11",
+    "description": "A Python script to detect CVE-2024-41713, a directory traversal vulnerability in Apache HTTP Server, enabling unauthorized access to restricted resources. This tool is for educational purposes and authorized testing only. Unauthorized usage is unethical and illegal.",
+    "forks_count": 0,
+    "html_url": "https://github.com/amanverma-wsu/CVE-2024-41713-Scan",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-41713-Scan",
+    "repo_owner": "amanverma-wsu",
+    "repotime": "2025-01-11, 08:16:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-01-07",
+    "date_updated": "2025-01-07",
+    "description": "A Pinterest-style app where authenticated users can log in with GitHub, link and manage images, and view a personal image wall. Unauthenticated users can browse public image walls. Broken images are replaced with placeholders.",
+    "forks_count": 0,
+    "html_url": "https://github.com/davidecarluccio/pinterest-clone",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "pinterest-clone",
+    "repo_owner": "davidecarluccio",
+    "repotime": "2025-01-07, 18:02:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2025-01-05",
+    "date_updated": "2025-01-06",
+    "description": "Oprlet is a powerful and flexible tool designed to perform automated vulnerability checks on websites, helping you identify potential security weaknesses. The scanner supports SQL Injection, XSS, and Directory Traversal vulnerabilities, utilizing comprehensive payloads for thorough scanning.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fathiashik/oprlet",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "oprlet",
+    "repo_owner": "fathiashik",
+    "repotime": "2025-01-06, 17:12:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-01-05",
+    "date_updated": "2025-01-06",
+    "description": "For this fun data analysis, I used a free 2017 agricultural dataset. After reviewing, cleaning, and reorganizing the raw data, I embarked on a meticulous trial-and-error process to create accurate, informative, and well-presented descriptive statistics using Python programming",
+    "forks_count": 0,
+    "html_url": "https://github.com/AlonOrnai/Agricultural-Hyperbands-Data-analysis",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Python",
+    "repo_name": "Agricultural-Hyperbands-Data-analysis",
+    "repo_owner": "AlonOrnai",
+    "repotime": "2025-01-06, 15:11:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 195,
+    "date_started": "2018-02-27",
+    "date_updated": "2025-01-06",
+    "description": "SQL injection protection module",
+    "forks_count": 62,
+    "html_url": "https://github.com/nearform/sql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sql",
+    "repo_owner": "nearform",
+    "repotime": "2025-01-06, 13:13:21",
+    "stargazers_count": 218,
+    "watchers_count": 218
+}
+{
+    "commits_count": 244,
+    "date_started": "2020-08-01",
+    "date_updated": "2025-01-04",
+    "description": "Remote command shell application written in C&amp;&#35;35; targeting the .NET 9.0 runtime.",
+    "forks_count": 6,
+    "html_url": "https://github.com/vandavey/DotnetCat",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C#",
+    "repo_name": "DotnetCat",
+    "repo_owner": "vandavey",
+    "repotime": "2025-01-04, 15:30:03",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 12,
+    "date_started": "2025-01-03",
+    "date_updated": "2025-01-03",
+    "description": "This is Simple Social Media analyst  which is langflow Ai system which uses  RAG ( Retrieval-Augmented generation ) to analysis and retrieval information from document. Dataset is stored as astra DB. after data is upload in flow its split in chuck. default Open ai modal is used But you can use free ai model like ollama or Hugging face.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Digitalspy12/SocialMedia_analyst_LevelSupermind-Hackathon_2024",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Python",
+    "repo_name": "SocialMedia_analyst_LevelSupermind-Hackathon_2024",
+    "repo_owner": "Digitalspy12",
+    "repotime": "2025-01-03, 15:46:05",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-12-31",
+    "date_updated": "2025-01-02",
+    "description": "Solution for ingesting large Excel/CSV datasets into LLMs. Aims to chunk, query, and aggregate data efficiently—so to quickly analyze massive datasets without typical LLM issues.",
+    "forks_count": 0,
+    "html_url": "https://github.com/aryadhruv/llm-tabular-data-injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "llm-tabular-data-injection",
+    "repo_owner": "aryadhruv",
+    "repotime": "2025-01-02, 20:37:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

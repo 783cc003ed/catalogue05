@@ -1,0 +1,879 @@
+{
+    "commits_count": 2,
+    "date_started": "2021-08-31",
+    "date_updated": "2021-08-31",
+    "description": "bypass UAC even when configured to always notify user",
+    "forks_count": 11,
+    "html_url": "https://github.com/wilszdev/SchtasksUacBypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "SchtasksUacBypass",
+    "repo_owner": "wilszdev",
+    "repotime": "2021-08-31, 19:46:28",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 37,
+    "date_started": "2016-05-30",
+    "date_updated": "2021-08-30",
+    "description": "The XSS Hunter service - a portable version of XSSHunter.com",
+    "forks_count": 305,
+    "html_url": "https://github.com/mandatoryprogrammer/xsshunter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xsshunter",
+    "repo_owner": "mandatoryprogrammer",
+    "repotime": "2021-08-30, 15:48:22",
+    "stargazers_count": 1532,
+    "watchers_count": 1532
+}
+{
+    "commits_count": 69,
+    "date_started": "2021-04-07",
+    "date_updated": "2021-08-26",
+    "description": "Select a task: ============= - 1 ) Option 1  (Full Network) 2 ) Option 2  (ESTABLISHED) 3 ) Option 3  (Show PID by Port) 4 ) Option 4  (Task Killer) 5 ) Option 5  (System Info) 6 ) Option 6  (Run ProcessHacker) 7 ) Option 7  (ip details) 8 ) Option 8  (People Search) 9 ) Option 9  (VPN) 10) Option 10 (Chat) 11) Option 11 (Pocket Tools) 12) Option 12 (Spoof) 13) Option 13 (search) 14) Option 14 (vulnerabilities search) 15) Option 15 (Fix Windows 10) 16) Option 16 (Clean Windows 10) 17) Option 17 (SEA Anti-MoSquIToes XP 2.0) 18) Option 18 (Moskito Expert) 19) Option 19 (Anti Mosquito.exe) [Inaudible for most of humans] 20) Option 20 (My Favorite Song) 21) Option 21 (Dig into recycle bin) 22) Option 22 (ProcessExplorer) 23) Option 23 (Process lister portable) 24) Option 24 (SecurityTaskManager) 25) Option 25 (hidden_process_finder_portable) 26) Option 26 (connections_viewer_setup) 27) Option 27 (TechToolStore) 28) Option 28 (Ultimate Forensics Outflow) 29) Option 29 (Dart Forensics Tool) ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Himel-Sarkar/finder",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Batchfile",
+    "repo_name": "finder",
+    "repo_owner": "Himel-Sarkar",
+    "repotime": "2021-08-26, 04:10:08",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-07-28",
+    "date_updated": "2021-08-24",
+    "description": "Proof of Concept for the WP Super Cache 1.7.1 WordPress Plugin RCE vulnerability. Credit for finding the bug to @m0ze",
+    "forks_count": 3,
+    "html_url": "https://github.com/Stef-Lan/WP-Super-Cache-1.7.1-RCE",
+    "keywords": [
+        "rce proof of concept",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "WP-Super-Cache-1.7.1-RCE",
+    "repo_owner": "Stef-Lan",
+    "repotime": "2021-08-24, 05:05:33",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-08-13",
+    "date_updated": "2021-08-20",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 1,
+    "html_url": "https://github.com/patricknakayama/Red_vs_Blue_Team",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Red_vs_Blue_Team",
+    "repo_owner": "patricknakayama",
+    "repotime": "2021-08-20, 21:46:41",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-08-16",
+    "date_updated": "2021-08-19",
+    "description": "Website path traversal vulnerability scanner.",
+    "forks_count": 1,
+    "html_url": "https://github.com/I2rys/BWPT",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "BWPT",
+    "repo_owner": "I2rys",
+    "repotime": "2021-08-19, 21:51:53",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 28,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-08-17",
+    "description": "Remote Code Execution EJS Web Applications using express-fileupload",
+    "forks_count": 8,
+    "html_url": "https://github.com/boiledsteak/EJS-Exploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "EJS-Exploit",
+    "repo_owner": "boiledsteak",
+    "repotime": "2021-08-17, 13:50:02",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 21,
+    "date_started": "2021-08-09",
+    "date_updated": "2021-08-17",
+    "description": "Manage your Django sessions differently for authenticated and unauthenticated users - with minimal configuration required",
+    "forks_count": 0,
+    "html_url": "https://github.com/Aristotle-Metadata-Enterprises/django-dual-sessions",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "django-dual-sessions",
+    "repo_owner": "Aristotle-Metadata-Enterprises",
+    "repotime": "2021-08-17, 11:57:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-12-29",
+    "date_updated": "2021-08-16",
+    "description": "Spoof a watching session on Twitch.tv",
+    "forks_count": 0,
+    "html_url": "https://github.com/aidan-walden/Twitch-Rewards-Farmer",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "TypeScript",
+    "repo_name": "Twitch-Rewards-Farmer",
+    "repo_owner": "aidan-walden",
+    "repotime": "2021-08-16, 19:06:33",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-08-16",
+    "date_updated": "2021-08-16",
+    "description": "CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability",
+    "forks_count": 14,
+    "html_url": "https://github.com/p2-98/CVE-2021-34473",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-34473",
+    "repo_owner": "p2-98",
+    "repotime": "2021-08-16, 12:00:06",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-08-07",
+    "date_updated": "2021-08-16",
+    "description": "Cobalt Strike beacon object file implementation for trusted path UAC bypass. The target executable will be called without involving &amp;quot;cmd.exe&amp;quot; by using DCOM object.",
+    "forks_count": 40,
+    "html_url": "https://github.com/netero1010/TrustedPath-UACBypass-BOF",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "TrustedPath-UACBypass-BOF",
+    "repo_owner": "netero1010",
+    "repotime": "2021-08-16, 15:49:54",
+    "stargazers_count": 140,
+    "watchers_count": 140
+}
+{
+    "commits_count": 15,
+    "date_started": "2019-10-26",
+    "date_updated": "2021-08-10",
+    "description": "C&amp;&#35;35; tool for UAC bypasses",
+    "forks_count": 56,
+    "html_url": "https://github.com/FatRodzianko/SharpBypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "SharpBypassUAC",
+    "repo_owner": "FatRodzianko",
+    "repotime": "2021-08-10, 18:30:34",
+    "stargazers_count": 439,
+    "watchers_count": 439
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-07-22",
+    "date_updated": "2021-08-10",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sia200/windows-rce-options",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": null,
+    "repo_name": "windows-rce-options",
+    "repo_owner": "Sia200",
+    "repotime": "2021-08-10, 13:50:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 44,
+    "date_started": "2020-12-21",
+    "date_updated": "2021-08-09",
+    "description": "Big-Papa is a remote cookie stealer which can then be used for session hijacking and Bypassing 2 Factor Authentication",
+    "forks_count": 25,
+    "html_url": "https://github.com/vrikodar/Big-Papa",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "Big-Papa",
+    "repo_owner": "vrikodar",
+    "repotime": "2021-08-09, 08:35:56",
+    "stargazers_count": 103,
+    "watchers_count": 103
+}
+{
+    "commits_count": 33,
+    "date_started": "2016-05-18",
+    "date_updated": "2021-08-05",
+    "description": "Exploitation for XSS",
+    "forks_count": 161,
+    "html_url": "https://github.com/nettitude/xss_payloads",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "xss_payloads",
+    "repo_owner": "nettitude",
+    "repotime": "2021-08-05, 17:07:35",
+    "stargazers_count": 721,
+    "watchers_count": 721
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-07-13",
+    "date_updated": "2021-08-03",
+    "description": "Bypass UAC at any level by abusing the Program Compatibility Assistant with RPC, WDI, and more Windows components",
+    "forks_count": 41,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity8-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "byeintegrity8-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-08-03, 19:39:18",
+    "stargazers_count": 268,
+    "watchers_count": 268
+}
+{
+    "commits_count": 0,
+    "date_started": "2013-05-18",
+    "date_updated": "2021-08-02",
+    "description": "&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; &amp;&#35;35; +------------------------------------------------------+ &amp;&#35;35; &amp;&#35;35; |                       Notes                          | &amp;&#35;35; &amp;&#35;35; +------------------------------------------------------+ &amp;&#35;35; &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;  &amp;&#35;35; If you want to use special characters in this document, such as accented letters, you MUST save the file as UTF-8, not ANSI. &amp;&#35;35; If you receive an error when Essentials loads, ensure...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Altiruss/Altiruss",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "Altiruss",
+    "repo_owner": "Altiruss",
+    "repotime": "2021-08-02, 23:29:55",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-08-31",
+    "date_updated": "2021-08-31",
+    "description": "bypass UAC even when configured to always notify user",
+    "forks_count": 11,
+    "html_url": "https://github.com/wilszdev/SchtasksUacBypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "SchtasksUacBypass",
+    "repo_owner": "wilszdev",
+    "repotime": "2021-08-31, 19:46:28",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 37,
+    "date_started": "2016-05-30",
+    "date_updated": "2021-08-30",
+    "description": "The XSS Hunter service - a portable version of XSSHunter.com",
+    "forks_count": 305,
+    "html_url": "https://github.com/mandatoryprogrammer/xsshunter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xsshunter",
+    "repo_owner": "mandatoryprogrammer",
+    "repotime": "2021-08-30, 15:48:22",
+    "stargazers_count": 1532,
+    "watchers_count": 1532
+}
+{
+    "commits_count": 69,
+    "date_started": "2021-04-07",
+    "date_updated": "2021-08-26",
+    "description": "Select a task: ============= - 1 ) Option 1  (Full Network) 2 ) Option 2  (ESTABLISHED) 3 ) Option 3  (Show PID by Port) 4 ) Option 4  (Task Killer) 5 ) Option 5  (System Info) 6 ) Option 6  (Run ProcessHacker) 7 ) Option 7  (ip details) 8 ) Option 8  (People Search) 9 ) Option 9  (VPN) 10) Option 10 (Chat) 11) Option 11 (Pocket Tools) 12) Option 12 (Spoof) 13) Option 13 (search) 14) Option 14 (vulnerabilities search) 15) Option 15 (Fix Windows 10) 16) Option 16 (Clean Windows 10) 17) Option 17 (SEA Anti-MoSquIToes XP 2.0) 18) Option 18 (Moskito Expert) 19) Option 19 (Anti Mosquito.exe) [Inaudible for most of humans] 20) Option 20 (My Favorite Song) 21) Option 21 (Dig into recycle bin) 22) Option 22 (ProcessExplorer) 23) Option 23 (Process lister portable) 24) Option 24 (SecurityTaskManager) 25) Option 25 (hidden_process_finder_portable) 26) Option 26 (connections_viewer_setup) 27) Option 27 (TechToolStore) 28) Option 28 (Ultimate Forensics Outflow) 29) Option 29 (Dart Forensics Tool) ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Himel-Sarkar/finder",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Batchfile",
+    "repo_name": "finder",
+    "repo_owner": "Himel-Sarkar",
+    "repotime": "2021-08-26, 04:10:08",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-07-28",
+    "date_updated": "2021-08-24",
+    "description": "Proof of Concept for the WP Super Cache 1.7.1 WordPress Plugin RCE vulnerability. Credit for finding the bug to @m0ze",
+    "forks_count": 3,
+    "html_url": "https://github.com/Stef-Lan/WP-Super-Cache-1.7.1-RCE",
+    "keywords": [
+        "rce proof of concept",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "WP-Super-Cache-1.7.1-RCE",
+    "repo_owner": "Stef-Lan",
+    "repotime": "2021-08-24, 05:05:33",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-08-13",
+    "date_updated": "2021-08-20",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 1,
+    "html_url": "https://github.com/patricknakayama/Red_vs_Blue_Team",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Red_vs_Blue_Team",
+    "repo_owner": "patricknakayama",
+    "repotime": "2021-08-20, 21:46:41",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-08-16",
+    "date_updated": "2021-08-19",
+    "description": "Website path traversal vulnerability scanner.",
+    "forks_count": 1,
+    "html_url": "https://github.com/I2rys/BWPT",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "BWPT",
+    "repo_owner": "I2rys",
+    "repotime": "2021-08-19, 21:51:53",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 28,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-08-17",
+    "description": "Remote Code Execution EJS Web Applications using express-fileupload",
+    "forks_count": 8,
+    "html_url": "https://github.com/boiledsteak/EJS-Exploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "EJS-Exploit",
+    "repo_owner": "boiledsteak",
+    "repotime": "2021-08-17, 13:50:02",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 21,
+    "date_started": "2021-08-09",
+    "date_updated": "2021-08-17",
+    "description": "Manage your Django sessions differently for authenticated and unauthenticated users - with minimal configuration required",
+    "forks_count": 0,
+    "html_url": "https://github.com/Aristotle-Metadata-Enterprises/django-dual-sessions",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "django-dual-sessions",
+    "repo_owner": "Aristotle-Metadata-Enterprises",
+    "repotime": "2021-08-17, 11:57:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-12-29",
+    "date_updated": "2021-08-16",
+    "description": "Spoof a watching session on Twitch.tv",
+    "forks_count": 0,
+    "html_url": "https://github.com/aidan-walden/Twitch-Rewards-Farmer",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "TypeScript",
+    "repo_name": "Twitch-Rewards-Farmer",
+    "repo_owner": "aidan-walden",
+    "repotime": "2021-08-16, 19:06:33",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-08-16",
+    "date_updated": "2021-08-16",
+    "description": "CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability",
+    "forks_count": 14,
+    "html_url": "https://github.com/p2-98/CVE-2021-34473",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-34473",
+    "repo_owner": "p2-98",
+    "repotime": "2021-08-16, 12:00:06",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-08-07",
+    "date_updated": "2021-08-16",
+    "description": "Cobalt Strike beacon object file implementation for trusted path UAC bypass. The target executable will be called without involving &amp;quot;cmd.exe&amp;quot; by using DCOM object.",
+    "forks_count": 40,
+    "html_url": "https://github.com/netero1010/TrustedPath-UACBypass-BOF",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "TrustedPath-UACBypass-BOF",
+    "repo_owner": "netero1010",
+    "repotime": "2021-08-16, 15:49:54",
+    "stargazers_count": 140,
+    "watchers_count": 140
+}
+{
+    "commits_count": 15,
+    "date_started": "2019-10-26",
+    "date_updated": "2021-08-10",
+    "description": "C&amp;&#35;35; tool for UAC bypasses",
+    "forks_count": 56,
+    "html_url": "https://github.com/FatRodzianko/SharpBypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "SharpBypassUAC",
+    "repo_owner": "FatRodzianko",
+    "repotime": "2021-08-10, 18:30:34",
+    "stargazers_count": 439,
+    "watchers_count": 439
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-07-22",
+    "date_updated": "2021-08-10",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sia200/windows-rce-options",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": null,
+    "repo_name": "windows-rce-options",
+    "repo_owner": "Sia200",
+    "repotime": "2021-08-10, 13:50:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 44,
+    "date_started": "2020-12-21",
+    "date_updated": "2021-08-09",
+    "description": "Big-Papa is a remote cookie stealer which can then be used for session hijacking and Bypassing 2 Factor Authentication",
+    "forks_count": 25,
+    "html_url": "https://github.com/vrikodar/Big-Papa",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "Big-Papa",
+    "repo_owner": "vrikodar",
+    "repotime": "2021-08-09, 08:35:56",
+    "stargazers_count": 103,
+    "watchers_count": 103
+}
+{
+    "commits_count": 33,
+    "date_started": "2016-05-18",
+    "date_updated": "2021-08-05",
+    "description": "Exploitation for XSS",
+    "forks_count": 161,
+    "html_url": "https://github.com/nettitude/xss_payloads",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "xss_payloads",
+    "repo_owner": "nettitude",
+    "repotime": "2021-08-05, 17:07:35",
+    "stargazers_count": 721,
+    "watchers_count": 721
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-07-13",
+    "date_updated": "2021-08-03",
+    "description": "Bypass UAC at any level by abusing the Program Compatibility Assistant with RPC, WDI, and more Windows components",
+    "forks_count": 41,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity8-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "byeintegrity8-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-08-03, 19:39:18",
+    "stargazers_count": 268,
+    "watchers_count": 268
+}
+{
+    "commits_count": 0,
+    "date_started": "2013-05-18",
+    "date_updated": "2021-08-02",
+    "description": "&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; &amp;&#35;35; +------------------------------------------------------+ &amp;&#35;35; &amp;&#35;35; |                       Notes                          | &amp;&#35;35; &amp;&#35;35; +------------------------------------------------------+ &amp;&#35;35; &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;  &amp;&#35;35; If you want to use special characters in this document, such as accented letters, you MUST save the file as UTF-8, not ANSI. &amp;&#35;35; If you receive an error when Essentials loads, ensure...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Altiruss/Altiruss",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "Altiruss",
+    "repo_owner": "Altiruss",
+    "repotime": "2021-08-02, 23:29:55",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-08-31",
+    "date_updated": "2021-08-31",
+    "description": "bypass UAC even when configured to always notify user",
+    "forks_count": 11,
+    "html_url": "https://github.com/wilszdev/SchtasksUacBypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "SchtasksUacBypass",
+    "repo_owner": "wilszdev",
+    "repotime": "2021-08-31, 19:46:28",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 37,
+    "date_started": "2016-05-30",
+    "date_updated": "2021-08-30",
+    "description": "The XSS Hunter service - a portable version of XSSHunter.com",
+    "forks_count": 307,
+    "html_url": "https://github.com/mandatoryprogrammer/xsshunter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xsshunter",
+    "repo_owner": "mandatoryprogrammer",
+    "repotime": "2021-08-30, 15:48:22",
+    "stargazers_count": 1534,
+    "watchers_count": 1534
+}
+{
+    "commits_count": 69,
+    "date_started": "2021-04-07",
+    "date_updated": "2021-08-26",
+    "description": "Select a task: ============= - 1 ) Option 1  (Full Network) 2 ) Option 2  (ESTABLISHED) 3 ) Option 3  (Show PID by Port) 4 ) Option 4  (Task Killer) 5 ) Option 5  (System Info) 6 ) Option 6  (Run ProcessHacker) 7 ) Option 7  (ip details) 8 ) Option 8  (People Search) 9 ) Option 9  (VPN) 10) Option 10 (Chat) 11) Option 11 (Pocket Tools) 12) Option 12 (Spoof) 13) Option 13 (search) 14) Option 14 (vulnerabilities search) 15) Option 15 (Fix Windows 10) 16) Option 16 (Clean Windows 10) 17) Option 17 (SEA Anti-MoSquIToes XP 2.0) 18) Option 18 (Moskito Expert) 19) Option 19 (Anti Mosquito.exe) [Inaudible for most of humans] 20) Option 20 (My Favorite Song) 21) Option 21 (Dig into recycle bin) 22) Option 22 (ProcessExplorer) 23) Option 23 (Process lister portable) 24) Option 24 (SecurityTaskManager) 25) Option 25 (hidden_process_finder_portable) 26) Option 26 (connections_viewer_setup) 27) Option 27 (TechToolStore) 28) Option 28 (Ultimate Forensics Outflow) 29) Option 29 (Dart Forensics Tool) ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Himel-Sarkar/finder",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Batchfile",
+    "repo_name": "finder",
+    "repo_owner": "Himel-Sarkar",
+    "repotime": "2021-08-26, 04:10:08",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-07-28",
+    "date_updated": "2021-08-24",
+    "description": "Proof of Concept for the WP Super Cache 1.7.1 WordPress Plugin RCE vulnerability. Credit for finding the bug to @m0ze",
+    "forks_count": 3,
+    "html_url": "https://github.com/Stef-Lan/WP-Super-Cache-1.7.1-RCE",
+    "keywords": [
+        "rce proof of concept",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "WP-Super-Cache-1.7.1-RCE",
+    "repo_owner": "Stef-Lan",
+    "repotime": "2021-08-24, 05:05:33",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-08-13",
+    "date_updated": "2021-08-20",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 1,
+    "html_url": "https://github.com/patricknakayama/Red_vs_Blue_Team",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Red_vs_Blue_Team",
+    "repo_owner": "patricknakayama",
+    "repotime": "2021-08-20, 21:46:41",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-08-16",
+    "date_updated": "2021-08-19",
+    "description": "Website path traversal vulnerability scanner.",
+    "forks_count": 1,
+    "html_url": "https://github.com/I2rys/BWPT",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "BWPT",
+    "repo_owner": "I2rys",
+    "repotime": "2021-08-19, 21:51:53",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 28,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-08-17",
+    "description": "Remote Code Execution EJS Web Applications using express-fileupload",
+    "forks_count": 8,
+    "html_url": "https://github.com/boiledsteak/EJS-Exploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "EJS-Exploit",
+    "repo_owner": "boiledsteak",
+    "repotime": "2021-08-17, 13:50:02",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 21,
+    "date_started": "2021-08-09",
+    "date_updated": "2021-08-17",
+    "description": "Manage your Django sessions differently for authenticated and unauthenticated users - with minimal configuration required",
+    "forks_count": 0,
+    "html_url": "https://github.com/Aristotle-Metadata-Enterprises/django-dual-sessions",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "django-dual-sessions",
+    "repo_owner": "Aristotle-Metadata-Enterprises",
+    "repotime": "2021-08-17, 11:57:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-12-29",
+    "date_updated": "2021-08-16",
+    "description": "Spoof a watching session on Twitch.tv",
+    "forks_count": 0,
+    "html_url": "https://github.com/aidan-walden/Twitch-Rewards-Farmer",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "TypeScript",
+    "repo_name": "Twitch-Rewards-Farmer",
+    "repo_owner": "aidan-walden",
+    "repotime": "2021-08-16, 19:06:33",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-08-16",
+    "date_updated": "2021-08-16",
+    "description": "CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability",
+    "forks_count": 14,
+    "html_url": "https://github.com/p2-98/CVE-2021-34473",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-34473",
+    "repo_owner": "p2-98",
+    "repotime": "2021-08-16, 12:00:06",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-08-07",
+    "date_updated": "2021-08-16",
+    "description": "Cobalt Strike beacon object file implementation for trusted path UAC bypass. The target executable will be called without involving &amp;quot;cmd.exe&amp;quot; by using DCOM object.",
+    "forks_count": 40,
+    "html_url": "https://github.com/netero1010/TrustedPath-UACBypass-BOF",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "TrustedPath-UACBypass-BOF",
+    "repo_owner": "netero1010",
+    "repotime": "2021-08-16, 15:49:54",
+    "stargazers_count": 140,
+    "watchers_count": 140
+}
+{
+    "commits_count": 15,
+    "date_started": "2019-10-26",
+    "date_updated": "2021-08-10",
+    "description": "C&amp;&#35;35; tool for UAC bypasses",
+    "forks_count": 57,
+    "html_url": "https://github.com/FatRodzianko/SharpBypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "SharpBypassUAC",
+    "repo_owner": "FatRodzianko",
+    "repotime": "2021-08-10, 18:30:34",
+    "stargazers_count": 440,
+    "watchers_count": 440
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-07-22",
+    "date_updated": "2021-08-10",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sia200/windows-rce-options",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": null,
+    "repo_name": "windows-rce-options",
+    "repo_owner": "Sia200",
+    "repotime": "2021-08-10, 13:50:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 44,
+    "date_started": "2020-12-21",
+    "date_updated": "2021-08-09",
+    "description": "Big-Papa is a remote cookie stealer which can then be used for session hijacking and Bypassing 2 Factor Authentication",
+    "forks_count": 25,
+    "html_url": "https://github.com/vrikodar/Big-Papa",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "Big-Papa",
+    "repo_owner": "vrikodar",
+    "repotime": "2021-08-09, 08:35:56",
+    "stargazers_count": 104,
+    "watchers_count": 104
+}
+{
+    "commits_count": 33,
+    "date_started": "2016-05-18",
+    "date_updated": "2021-08-05",
+    "description": "Exploitation for XSS",
+    "forks_count": 161,
+    "html_url": "https://github.com/nettitude/xss_payloads",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "xss_payloads",
+    "repo_owner": "nettitude",
+    "repotime": "2021-08-05, 17:07:35",
+    "stargazers_count": 722,
+    "watchers_count": 722
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-07-13",
+    "date_updated": "2021-08-03",
+    "description": "Bypass UAC at any level by abusing the Program Compatibility Assistant with RPC, WDI, and more Windows components",
+    "forks_count": 41,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity8-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "byeintegrity8-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-08-03, 19:39:18",
+    "stargazers_count": 268,
+    "watchers_count": 268
+}
+{
+    "commits_count": 0,
+    "date_started": "2013-05-18",
+    "date_updated": "2021-08-02",
+    "description": "&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; &amp;&#35;35; +------------------------------------------------------+ &amp;&#35;35; &amp;&#35;35; |                       Notes                          | &amp;&#35;35; &amp;&#35;35; +------------------------------------------------------+ &amp;&#35;35; &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35;  &amp;&#35;35; If you want to use special characters in this document, such as accented letters, you MUST save the file as UTF-8, not ANSI. &amp;&#35;35; If you receive an error when Essentials loads, ensure...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Altiruss/Altiruss",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "Altiruss",
+    "repo_owner": "Altiruss",
+    "repotime": "2021-08-02, 23:29:55",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

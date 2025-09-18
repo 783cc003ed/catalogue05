@@ -1,0 +1,534 @@
+{
+    "commits_count": 7,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-27",
+    "description": "UAC bypass for x64 Windows 7 - 11",
+    "forks_count": 156,
+    "html_url": "https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "iscsicpl_bypassUAC",
+    "repo_owner": "hackerhouse-opensource",
+    "repotime": "2022-07-27, 10:48:24",
+    "stargazers_count": 811,
+    "watchers_count": 811
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-07-23",
+    "date_updated": "2022-07-23",
+    "description": "EventViewer Bypass Uac Bof",
+    "forks_count": 4,
+    "html_url": "https://github.com/Libraggbond/EventViewerBypassUacBof",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "EventViewerBypassUacBof",
+    "repo_owner": "Libraggbond",
+    "repotime": "2022-07-23, 12:44:34",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 130,
+    "date_started": "2021-05-24",
+    "date_updated": "2022-07-21",
+    "description": "A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I've written to be used in conjunction with these exploits.",
+    "forks_count": 14,
+    "html_url": "https://github.com/forrest-orr/Exploits",
+    "keywords": [
+        "uaf poc",
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "Windows uaf exploit",
+        "Windows uaf poc"
+    ],
+    "language": "C",
+    "repo_name": "Exploits",
+    "repo_owner": "forrest-orr",
+    "repotime": "2022-07-21, 03:01:37",
+    "stargazers_count": 121,
+    "watchers_count": 121
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-18",
+    "description": "A pre-authenticated RCE exploit for Inductive Automation Ignition",
+    "forks_count": 9,
+    "html_url": "https://github.com/sourceincite/randy",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "randy",
+    "repo_owner": "sourceincite",
+    "repotime": "2022-07-18, 11:12:27",
+    "stargazers_count": 45,
+    "watchers_count": 45
+}
+{
+    "commits_count": 436,
+    "date_started": "2017-03-09",
+    "date_updated": "2022-07-14",
+    "description": "for mass exploiting",
+    "forks_count": 155,
+    "html_url": "https://github.com/jm33-m0/mec",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "mec",
+    "repo_owner": "jm33-m0",
+    "repotime": "2022-07-14, 22:35:25",
+    "stargazers_count": 605,
+    "watchers_count": 605
+}
+{
+    "commits_count": 138,
+    "date_started": "2016-06-16",
+    "date_updated": "2022-07-14",
+    "description": "🇺🇦 Windows driver with usermode interface which can hide processes, file-system and registry objects, protect processes and etc",
+    "forks_count": 500,
+    "html_url": "https://github.com/JKornev/hidden",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C",
+    "repo_name": "hidden",
+    "repo_owner": "JKornev",
+    "repotime": "2022-07-14, 00:48:44",
+    "stargazers_count": 1932,
+    "watchers_count": 1932
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.",
+    "forks_count": 1,
+    "html_url": "https://github.com/expFlash/CVE-2009-4049",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2009-4049",
+    "repo_owner": "expFlash",
+    "repotime": "2022-07-10, 00:18:22",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fengjixuchui/CVE-2009-4049",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2009-4049",
+    "repo_owner": "fengjixuchui",
+    "repotime": "2022-07-10, 00:18:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2011-08-24",
+    "date_updated": "2022-07-03",
+    "description": "Secure session class (with Memcached extension class) that uses sha256 to generate signatures, preventing session hijacking.",
+    "forks_count": 2,
+    "html_url": "https://github.com/onassar/PHP-SecureSessions",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "PHP-SecureSessions",
+    "repo_owner": "onassar",
+    "repotime": "2022-07-03, 12:00:21",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-09-07",
+    "date_updated": "2022-07-03",
+    "description": "Code execution via corrupting mmap malloc chunks with ASLR bypass",
+    "forks_count": 2,
+    "html_url": "https://github.com/mdulin2/house-of-muney",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "C",
+    "repo_name": "house-of-muney",
+    "repo_owner": "mdulin2",
+    "repotime": "2022-07-03, 05:58:01",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-27",
+    "description": "UAC bypass for x64 Windows 7 - 11",
+    "forks_count": 156,
+    "html_url": "https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "iscsicpl_bypassUAC",
+    "repo_owner": "hackerhouse-opensource",
+    "repotime": "2022-07-27, 10:48:24",
+    "stargazers_count": 811,
+    "watchers_count": 811
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-07-23",
+    "date_updated": "2022-07-23",
+    "description": "EventViewer Bypass Uac Bof",
+    "forks_count": 4,
+    "html_url": "https://github.com/Libraggbond/EventViewerBypassUacBof",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "EventViewerBypassUacBof",
+    "repo_owner": "Libraggbond",
+    "repotime": "2022-07-23, 12:44:34",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 130,
+    "date_started": "2021-05-24",
+    "date_updated": "2022-07-21",
+    "description": "A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I've written to be used in conjunction with these exploits.",
+    "forks_count": 14,
+    "html_url": "https://github.com/forrest-orr/Exploits",
+    "keywords": [
+        "uaf poc",
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "Windows uaf exploit",
+        "Windows uaf poc"
+    ],
+    "language": "C",
+    "repo_name": "Exploits",
+    "repo_owner": "forrest-orr",
+    "repotime": "2022-07-21, 03:01:37",
+    "stargazers_count": 121,
+    "watchers_count": 121
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-18",
+    "description": "A pre-authenticated RCE exploit for Inductive Automation Ignition",
+    "forks_count": 9,
+    "html_url": "https://github.com/sourceincite/randy",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "randy",
+    "repo_owner": "sourceincite",
+    "repotime": "2022-07-18, 11:12:27",
+    "stargazers_count": 45,
+    "watchers_count": 45
+}
+{
+    "commits_count": 436,
+    "date_started": "2017-03-09",
+    "date_updated": "2022-07-14",
+    "description": "for mass exploiting",
+    "forks_count": 155,
+    "html_url": "https://github.com/jm33-m0/mec",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "mec",
+    "repo_owner": "jm33-m0",
+    "repotime": "2022-07-14, 22:35:25",
+    "stargazers_count": 605,
+    "watchers_count": 605
+}
+{
+    "commits_count": 138,
+    "date_started": "2016-06-16",
+    "date_updated": "2022-07-14",
+    "description": "🇺🇦 Windows driver with usermode interface which can hide processes, file-system and registry objects, protect processes and etc",
+    "forks_count": 500,
+    "html_url": "https://github.com/JKornev/hidden",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C",
+    "repo_name": "hidden",
+    "repo_owner": "JKornev",
+    "repotime": "2022-07-14, 00:48:44",
+    "stargazers_count": 1934,
+    "watchers_count": 1934
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.",
+    "forks_count": 1,
+    "html_url": "https://github.com/expFlash/CVE-2009-4049",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2009-4049",
+    "repo_owner": "expFlash",
+    "repotime": "2022-07-10, 00:18:22",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fengjixuchui/CVE-2009-4049",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2009-4049",
+    "repo_owner": "fengjixuchui",
+    "repotime": "2022-07-10, 00:18:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2011-08-24",
+    "date_updated": "2022-07-03",
+    "description": "Secure session class (with Memcached extension class) that uses sha256 to generate signatures, preventing session hijacking.",
+    "forks_count": 2,
+    "html_url": "https://github.com/onassar/PHP-SecureSessions",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "PHP-SecureSessions",
+    "repo_owner": "onassar",
+    "repotime": "2022-07-03, 12:00:21",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-09-07",
+    "date_updated": "2022-07-03",
+    "description": "Code execution via corrupting mmap malloc chunks with ASLR bypass",
+    "forks_count": 2,
+    "html_url": "https://github.com/mdulin2/house-of-muney",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "C",
+    "repo_name": "house-of-muney",
+    "repo_owner": "mdulin2",
+    "repotime": "2022-07-03, 05:58:01",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-27",
+    "description": "UAC bypass for x64 Windows 7 - 11",
+    "forks_count": 156,
+    "html_url": "https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "iscsicpl_bypassUAC",
+    "repo_owner": "hackerhouse-opensource",
+    "repotime": "2022-07-27, 10:48:24",
+    "stargazers_count": 813,
+    "watchers_count": 813
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-07-23",
+    "date_updated": "2022-07-23",
+    "description": "EventViewer Bypass Uac Bof",
+    "forks_count": 4,
+    "html_url": "https://github.com/Libraggbond/EventViewerBypassUacBof",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "EventViewerBypassUacBof",
+    "repo_owner": "Libraggbond",
+    "repotime": "2022-07-23, 12:44:34",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 130,
+    "date_started": "2021-05-24",
+    "date_updated": "2022-07-21",
+    "description": "A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I've written to be used in conjunction with these exploits.",
+    "forks_count": 14,
+    "html_url": "https://github.com/forrest-orr/Exploits",
+    "keywords": [
+        "uaf poc",
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "Windows uaf exploit",
+        "Windows uaf poc"
+    ],
+    "language": "C",
+    "repo_name": "Exploits",
+    "repo_owner": "forrest-orr",
+    "repotime": "2022-07-21, 03:01:37",
+    "stargazers_count": 121,
+    "watchers_count": 121
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-18",
+    "description": "A pre-authenticated RCE exploit for Inductive Automation Ignition",
+    "forks_count": 9,
+    "html_url": "https://github.com/sourceincite/randy",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "randy",
+    "repo_owner": "sourceincite",
+    "repotime": "2022-07-18, 11:12:27",
+    "stargazers_count": 45,
+    "watchers_count": 45
+}
+{
+    "commits_count": 436,
+    "date_started": "2017-03-09",
+    "date_updated": "2022-07-14",
+    "description": "for mass exploiting",
+    "forks_count": 155,
+    "html_url": "https://github.com/jm33-m0/mec",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "mec",
+    "repo_owner": "jm33-m0",
+    "repotime": "2022-07-14, 22:35:25",
+    "stargazers_count": 605,
+    "watchers_count": 605
+}
+{
+    "commits_count": 138,
+    "date_started": "2016-06-16",
+    "date_updated": "2022-07-14",
+    "description": "🇺🇦 Windows driver with usermode interface which can hide processes, file-system and registry objects, protect processes and etc",
+    "forks_count": 500,
+    "html_url": "https://github.com/JKornev/hidden",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C",
+    "repo_name": "hidden",
+    "repo_owner": "JKornev",
+    "repotime": "2022-07-14, 00:48:44",
+    "stargazers_count": 1933,
+    "watchers_count": 1933
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.",
+    "forks_count": 1,
+    "html_url": "https://github.com/expFlash/CVE-2009-4049",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2009-4049",
+    "repo_owner": "expFlash",
+    "repotime": "2022-07-10, 00:18:22",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fengjixuchui/CVE-2009-4049",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2009-4049",
+    "repo_owner": "fengjixuchui",
+    "repotime": "2022-07-10, 00:18:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2011-08-24",
+    "date_updated": "2022-07-03",
+    "description": "Secure session class (with Memcached extension class) that uses sha256 to generate signatures, preventing session hijacking.",
+    "forks_count": 2,
+    "html_url": "https://github.com/onassar/PHP-SecureSessions",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "PHP-SecureSessions",
+    "repo_owner": "onassar",
+    "repotime": "2022-07-03, 12:00:21",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-09-07",
+    "date_updated": "2022-07-03",
+    "description": "Code execution via corrupting mmap malloc chunks with ASLR bypass",
+    "forks_count": 2,
+    "html_url": "https://github.com/mdulin2/house-of-muney",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "C",
+    "repo_name": "house-of-muney",
+    "repo_owner": "mdulin2",
+    "repotime": "2022-07-03, 05:58:01",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}

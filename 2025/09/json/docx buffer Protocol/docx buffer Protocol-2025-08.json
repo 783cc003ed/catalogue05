@@ -1,0 +1,375 @@
+{
+    "commits_count": 6,
+    "date_started": "2025-08-31",
+    "date_updated": "2025-08-31",
+    "description": "Remediation of Microsoft Teams RCE vulnerability (Plugin ID: 250276, Aug 2025) with before/after evidence.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kamgreen50/STIG-Teams-RCE-Aug2025",
+    "keywords": [
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "STIG-Teams-RCE-Aug2025",
+    "repo_owner": "Kamgreen50",
+    "repotime": "2025-08-31, 13:11:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1405,
+    "date_started": "2020-06-02",
+    "date_updated": "2025-08-31",
+    "description": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
+    "forks_count": 218,
+    "html_url": "https://github.com/hadashiA/VContainer",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "VContainer",
+    "repo_owner": "hadashiA",
+    "repotime": "2025-08-31, 17:10:20",
+    "stargazers_count": 2479,
+    "watchers_count": 2479
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-08-30",
+    "date_updated": "2025-08-29",
+    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
+    "forks_count": 0,
+    "html_url": "https://github.com/5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": null,
+    "repo_name": "glass-cage-i18-2025-24085-and-cve-2025-24201",
+    "repo_owner": "5ky9uy",
+    "repotime": "2025-08-29, 20:20:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-08-17",
+    "date_updated": "2025-08-25",
+    "description": "mchammer: a proof-of-concept for synthesizing hardware machine check exceptions (MCE) to explore processor exploitation, MCA analysis, and privilege escalation. 🔨",
+    "forks_count": 0,
+    "html_url": "https://github.com/M-c-tech-dev/mchammer",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "mchammer",
+    "repo_owner": "M-c-tech-dev",
+    "repotime": "2025-08-25, 23:32:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 194,
+    "date_started": "2013-11-05",
+    "date_updated": "2025-08-25",
+    "description": "Command line tool to edit resources of exe",
+    "forks_count": 205,
+    "html_url": "https://github.com/electron/rcedit",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C++",
+    "repo_name": "rcedit",
+    "repo_owner": "electron",
+    "repotime": "2025-08-25, 17:47:36",
+    "stargazers_count": 1960,
+    "watchers_count": 1960
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-08-23",
+    "date_updated": "2025-08-24",
+    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
+    "forks_count": 1,
+    "html_url": "https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": null,
+    "repo_name": "Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
+    "repo_owner": "JGoyd",
+    "repotime": "2025-08-24, 18:10:43",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-17",
+    "date_updated": "2025-08-24",
+    "description": "CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by a malicious audio file via iMessage/SMS. Exploitation bypassed Blastdoor, enabled kernel escalation (CVE-2025-31201), and allowed token theft until patched in iOS 18.4.1 (Apr 16, 2025).",
+    "forks_count": 0,
+    "html_url": "https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
+    "keywords": [
+        "rce disclosure",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
+    "repo_owner": "JGoyd",
+    "repotime": "2025-08-24, 15:52:32",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 99,
+    "date_started": "2025-08-24",
+    "date_updated": "2025-08-24",
+    "description": "Research project: Ensemble Deep Learning vs Traditional Signature-Based Methods for Zero-Day Malware Detection: A Comparative Analysis Using Behavioral Feature Extraction",
+    "forks_count": 0,
+    "html_url": "https://github.com/prashaant1926/ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa",
+    "repo_owner": "prashaant1926",
+    "repotime": "2025-08-24, 10:24:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 42625,
+    "date_started": "2025-08-24",
+    "date_updated": "2025-08-24",
+    "description": "Modified GLIBC to protect Use after free vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/Md-Monowarul-Amin/Glbc-Modified",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "Makefile",
+    "repo_name": "Glbc-Modified",
+    "repo_owner": "Md-Monowarul-Amin",
+    "repotime": "2025-08-24, 21:45:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-08-24",
+    "date_updated": "2025-08-24",
+    "description": "A practical walkthrough for exploiting a known vulnerability in the Easy File Sharing Web Server 7.2 to gain a remote Meterpreter session on a Windows 7 target. This lab is designed for penetration testing practice and education in a controlled environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/asdfrlife/Easy-File-Sharing-7.2-Exploit-Walkthrough",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Easy-File-Sharing-7.2-Exploit-Walkthrough",
+    "repo_owner": "asdfrlife",
+    "repotime": "2025-08-24, 13:23:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 54,
+    "date_started": "2025-01-06",
+    "date_updated": "2025-08-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/federico-zanca/KernelExploit-UAF-to-OOB",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "C",
+    "repo_name": "KernelExploit-UAF-to-OOB",
+    "repo_owner": "federico-zanca",
+    "repotime": "2025-08-24, 00:19:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-07-30",
+    "date_updated": "2025-08-22",
+    "description": "This project focuses on performing network forensic analysis on a captured &amp;quot;.pcap&amp;quot; file using Wiresharks Tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/shankarsharma507/Post-Attack-Network-Session-Analysis-of-PCAP-Files-using-Wiresahrk",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Post-Attack-Network-Session-Analysis-of-PCAP-Files-using-Wiresahrk",
+    "repo_owner": "shankarsharma507",
+    "repotime": "2025-08-22, 11:19:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-06-03",
+    "date_updated": "2025-08-21",
+    "description": "Collection of shellcode injection and execution techniques",
+    "forks_count": 7,
+    "html_url": "https://github.com/11philip22/code-Injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "code-Injection",
+    "repo_owner": "11philip22",
+    "repotime": "2025-08-21, 11:26:48",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 25,
+    "date_started": "2025-08-11",
+    "date_updated": "2025-08-20",
+    "description": "A Neovim plugin that detects memory leaks in C code using AI and clang-tidy. Automatically runs analysis on save and displays concise, AI-generated summaries as inline virtual text diagnostics.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tgben/cleakr",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Lua",
+    "repo_name": "cleakr",
+    "repo_owner": "tgben",
+    "repotime": "2025-08-20, 15:11:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 232,
+    "date_started": "2018-12-19",
+    "date_updated": "2025-08-20",
+    "description": "TypeScript clients for databases that prevent SQL Injection",
+    "forks_count": 46,
+    "html_url": "https://github.com/ForbesLindesay/atdatabases",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "TypeScript",
+    "repo_name": "atdatabases",
+    "repo_owner": "ForbesLindesay",
+    "repotime": "2025-08-20, 11:11:16",
+    "stargazers_count": 627,
+    "watchers_count": 627
+}
+{
+    "commits_count": 65,
+    "date_started": "2025-08-16",
+    "date_updated": "2025-08-16",
+    "description": "A Cyberpunk Hacking &amp;amp; SaaS Strategy Game. ZeroDay Syndicate is a cyberpunk management &amp;amp; hacking sim.   You buy servers, run SaaS businesses, discover Zero-Day Exploits (ZDEs), and wage digital warfare against AI competitors (or other players). ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Razsk/ZeroDay-Syndicate",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "ZeroDay-Syndicate",
+    "repo_owner": "Razsk",
+    "repotime": "2025-08-16, 21:23:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2025-08-14",
+    "date_updated": "2025-08-15",
+    "description": "TCP/IP hijack using PCAP and LIBNET library for capturing and injection TCP/IP packages - This code simply spoof victim ip anddress , and send TCP/IP packet to DST using RST flag , so Victim mashine loose access to the internet , Fundamental of how to fully hijack a session , Use it ethically",
+    "forks_count": 0,
+    "html_url": "https://github.com/Amir-hrn/TCP-IP-Hijack-via-RST-signal-",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "C",
+    "repo_name": "TCP-IP-Hijack-via-RST-signal-",
+    "repo_owner": "Amir-hrn",
+    "repotime": "2025-08-15, 14:08:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1404,
+    "date_started": "2016-11-14",
+    "date_updated": "2025-08-14",
+    "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (&amp;quot;transparent&amp;quot;) encryption. SQL, NoSQL.",
+    "forks_count": 132,
+    "html_url": "https://github.com/cossacklabs/acra",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "acra",
+    "repo_owner": "cossacklabs",
+    "repotime": "2025-08-14, 18:32:28",
+    "stargazers_count": 1428,
+    "watchers_count": 1428
+}
+{
+    "commits_count": 20,
+    "date_started": "2025-08-07",
+    "date_updated": "2025-08-13",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/YohanLB09/Zero-Day-Vulnerability-Investigation-MSHTML",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Zero-Day-Vulnerability-Investigation-MSHTML",
+    "repo_owner": "YohanLB09",
+    "repotime": "2025-08-13, 08:18:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-08-06",
+    "date_updated": "2025-08-06",
+    "description": "Analyzed malware behavior using Wireshark and Process Monitor, identifying system and network indicators of compromise. Investigated Windows Registry alterations by malware for persistence, stealth, and privilege escalation in a controlled lab setup.  ",
+    "forks_count": 0,
+    "html_url": "https://github.com/sreejannn/Malware-Behaviour-Analysis-Windows-Registry-Investigation",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "Malware-Behaviour-Analysis-Windows-Registry-Investigation",
+    "repo_owner": "sreejannn",
+    "repotime": "2025-08-06, 14:36:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 68,
+    "date_started": "2025-07-23",
+    "date_updated": "2025-08-06",
+    "description": "Multi-agent LLM ensemble for automated zero-day vulnerability detection.   Thompson Sampling optimization, 21+ evidence sources, 5 specialized   agents.",
+    "forks_count": 1,
+    "html_url": "https://github.com/lodetomasi/zero-day-llm-ensemble",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "zero-day-llm-ensemble",
+    "repo_owner": "lodetomasi",
+    "repotime": "2025-08-06, 08:47:04",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 37,
+    "date_started": "2025-08-02",
+    "date_updated": "2025-08-02",
+    "description": "A curated collection of binary exploitation techniques with PoC exploits. Covers stack-based ROP chains, ASLR bypass methods, and heap exploits. Clean, educational, and real-world focused.",
+    "forks_count": 0,
+    "html_url": "https://github.com/r4xis/exploit-techniques-poc-archive",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": "Python",
+    "repo_name": "exploit-techniques-poc-archive",
+    "repo_owner": "r4xis",
+    "repotime": "2025-08-02, 17:52:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

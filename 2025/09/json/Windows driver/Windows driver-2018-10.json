@@ -1,0 +1,17 @@
+{
+    "commits_count": 4,
+    "date_started": "2018-10-15",
+    "date_updated": "2018-10-15",
+    "description": "PoC + Docker Environment for Python PIL/Pillow Remote Shell Command Execution via Ghostscript CVE-2018-16509",
+    "forks_count": 13,
+    "html_url": "https://github.com/farisv/PIL-RCE-Ghostscript-CVE-2018-16509",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "PIL-RCE-Ghostscript-CVE-2018-16509",
+    "repo_owner": "farisv",
+    "repotime": "2018-10-15, 16:19:47",
+    "stargazers_count": 59,
+    "watchers_count": 59
+}

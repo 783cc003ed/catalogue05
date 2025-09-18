@@ -205,3 +205,348 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 5,
+    "date_started": "2025-01-08",
+    "date_updated": "2025-06-29",
+    "description": "Escape macOS Sandbox using sharedfilelistd exploit",
+    "forks_count": 10,
+    "html_url": "https://github.com/wh1te4ever/CVE-2024-54498-PoC",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2024-54498-PoC",
+    "repo_owner": "wh1te4ever",
+    "repotime": "2025-06-29, 07:57:45",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 138,
+    "date_started": "2019-04-19",
+    "date_updated": "2025-06-21",
+    "description": "Top disclosed reports from HackerOne",
+    "forks_count": 843,
+    "html_url": "https://github.com/reddelexc/hackerone-reports",
+    "keywords": [
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "hackerone-reports",
+    "repo_owner": "reddelexc",
+    "repotime": "2025-06-21, 21:21:52",
+    "stargazers_count": 4655,
+    "watchers_count": 4655
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-20",
+    "date_updated": "2025-06-20",
+    "description": "This is a proof-of-concept Metasploit module exploit for CVE-2015-1578, a buffer overflow vulnerability in Achat 0.150 beta7 on Windows. Exploitation leads to remote code execution via a crafted UDP packet.",
+    "forks_count": 0,
+    "html_url": "https://github.com/yaldobaoth/CVE-2015-1578-PoC-Metasploit",
+    "keywords": [
+        "Windows remote code execution exploit",
+        "remote code execution proof of concept"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2015-1578-PoC-Metasploit",
+    "repo_owner": "yaldobaoth",
+    "repotime": "2025-06-20, 16:12:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 549,
+    "date_started": "2017-08-24",
+    "date_updated": "2025-06-20",
+    "description": "MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 3/4/5, Nintendo Switch, Android and other platforms",
+    "forks_count": 155,
+    "html_url": "https://github.com/RudjiGames/MTuner",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C++",
+    "repo_name": "MTuner",
+    "repo_owner": "RudjiGames",
+    "repotime": "2025-06-20, 20:13:40",
+    "stargazers_count": 2717,
+    "watchers_count": 2717
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-05-19",
+    "date_updated": "2025-06-20",
+    "description": "Second security project of the reverse engineering branch of the 42 post common core. This project is meant to exploit 32 bit ELF binaries in order to escalate privilege.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vicente118/Rainfall",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Rainfall",
+    "repo_owner": "Vicente118",
+    "repotime": "2025-06-20, 20:00:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 178,
+    "date_started": "2024-05-30",
+    "date_updated": "2025-06-20",
+    "description": "Fourth evolution of Code Injection for Xcode",
+    "forks_count": 7,
+    "html_url": "https://github.com/johnno1962/InjectionNext",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "InjectionNext",
+    "repo_owner": "johnno1962",
+    "repotime": "2025-06-20, 19:36:40",
+    "stargazers_count": 185,
+    "watchers_count": 185
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-07-28",
+    "date_updated": "2025-06-17",
+    "description": "Explotación de BufferOverflow al binario de correos locales Slmail 5.5, ataque Dos con RCE y persistencia en un Windows 7 x86",
+    "forks_count": 0,
+    "html_url": "https://github.com/liandd/Buffer_overflow_slmail",
+    "keywords": [
+        "rce dos"
+    ],
+    "language": "Python",
+    "repo_name": "Buffer_overflow_slmail",
+    "repo_owner": "liandd",
+    "repotime": "2025-06-17, 20:38:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-15",
+    "date_updated": "2025-06-16",
+    "description": "This project is a research-oriented and educational simulation  designed to demonstrate the concept of a sandbox escape vulnerability  within Google Chrome (version 134.0.6998.177), leveraging improper handle , validation via Mojo IPC.",
+    "forks_count": 0,
+    "html_url": "https://github.com/byteReaper77/CVE-2025-2783",
+    "keywords": [
+        "Chrome sandbox escape"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2025-2783",
+    "repo_owner": "byteReaper77",
+    "repotime": "2025-06-16, 03:42:08",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 692,
+    "date_started": "2014-09-18",
+    "date_updated": "2025-06-09",
+    "description": "<no description>",
+    "forks_count": 86,
+    "html_url": "https://github.com/naver/lucy-xss-filter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "lucy-xss-filter",
+    "repo_owner": "naver",
+    "repotime": "2025-06-09, 06:53:14",
+    "stargazers_count": 332,
+    "watchers_count": 332
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-08",
+    "date_updated": "2025-06-08",
+    "description": "discovered zero day/CVEs exploits on the nubia redmagic 9spro models, 9.06.2025",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sh1r0ko11/redmagic-9spro-exploits",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "redmagic-9spro-exploits",
+    "repo_owner": "Sh1r0ko11",
+    "repotime": "2025-06-08, 19:58:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-02",
+    "date_updated": "2025-06-02",
+    "description": "Demonstrate exploitation of a format string vulnerability in a C program, despite developer attempts to &amp;quot;patch&amp;quot; the bug. This project highlights how improper use of printf() can still allow attackers to leak sensitive memory content, such as flags, directly from the stack.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArtemCyberLab/Project-FlagVault-v2.1-Reopened-Secrets",
+    "keywords": [
+        "memory leak exploit"
+    ],
+    "language": null,
+    "repo_name": "Project-FlagVault-v2.1-Reopened-Secrets",
+    "repo_owner": "ArtemCyberLab",
+    "repotime": "2025-06-02, 21:02:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-01-08",
+    "date_updated": "2025-06-29",
+    "description": "Escape macOS Sandbox using sharedfilelistd exploit",
+    "forks_count": 10,
+    "html_url": "https://github.com/wh1te4ever/CVE-2024-54498-PoC",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2024-54498-PoC",
+    "repo_owner": "wh1te4ever",
+    "repotime": "2025-06-29, 07:57:45",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-20",
+    "date_updated": "2025-06-20",
+    "description": "This is a proof-of-concept Metasploit module exploit for CVE-2015-1578, a buffer overflow vulnerability in Achat 0.150 beta7 on Windows. Exploitation leads to remote code execution via a crafted UDP packet.",
+    "forks_count": 0,
+    "html_url": "https://github.com/yaldobaoth/CVE-2015-1578-PoC-Metasploit",
+    "keywords": [
+        "Windows remote code execution exploit",
+        "remote code execution proof of concept"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2015-1578-PoC-Metasploit",
+    "repo_owner": "yaldobaoth",
+    "repotime": "2025-06-20, 16:12:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 549,
+    "date_started": "2017-08-24",
+    "date_updated": "2025-06-20",
+    "description": "MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 3/4/5, Nintendo Switch, Android and other platforms",
+    "forks_count": 155,
+    "html_url": "https://github.com/RudjiGames/MTuner",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C++",
+    "repo_name": "MTuner",
+    "repo_owner": "RudjiGames",
+    "repotime": "2025-06-20, 20:13:40",
+    "stargazers_count": 2717,
+    "watchers_count": 2717
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-05-19",
+    "date_updated": "2025-06-20",
+    "description": "Second security project of the reverse engineering branch of the 42 post common core. This project is meant to exploit 32 bit ELF binaries in order to escalate privilege.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vicente118/Rainfall",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Rainfall",
+    "repo_owner": "Vicente118",
+    "repotime": "2025-06-20, 20:00:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-07-28",
+    "date_updated": "2025-06-17",
+    "description": "Explotación de BufferOverflow al binario de correos locales Slmail 5.5, ataque Dos con RCE y persistencia en un Windows 7 x86",
+    "forks_count": 0,
+    "html_url": "https://github.com/liandd/Buffer_overflow_slmail",
+    "keywords": [
+        "rce dos"
+    ],
+    "language": "Python",
+    "repo_name": "Buffer_overflow_slmail",
+    "repo_owner": "liandd",
+    "repotime": "2025-06-17, 20:38:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-15",
+    "date_updated": "2025-06-16",
+    "description": "This project is a research-oriented and educational simulation  designed to demonstrate the concept of a sandbox escape vulnerability  within Google Chrome (version 134.0.6998.177), leveraging improper handle , validation via Mojo IPC.",
+    "forks_count": 0,
+    "html_url": "https://github.com/byteReaper77/CVE-2025-2783",
+    "keywords": [
+        "Chrome sandbox escape"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2025-2783",
+    "repo_owner": "byteReaper77",
+    "repotime": "2025-06-16, 03:42:08",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 692,
+    "date_started": "2014-09-18",
+    "date_updated": "2025-06-09",
+    "description": "<no description>",
+    "forks_count": 86,
+    "html_url": "https://github.com/naver/lucy-xss-filter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "lucy-xss-filter",
+    "repo_owner": "naver",
+    "repotime": "2025-06-09, 06:53:14",
+    "stargazers_count": 332,
+    "watchers_count": 332
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-08",
+    "date_updated": "2025-06-08",
+    "description": "discovered zero day/CVEs exploits on the nubia redmagic 9spro models, 9.06.2025",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sh1r0ko11/redmagic-9spro-exploits",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "redmagic-9spro-exploits",
+    "repo_owner": "Sh1r0ko11",
+    "repotime": "2025-06-08, 19:58:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-02",
+    "date_updated": "2025-06-02",
+    "description": "Demonstrate exploitation of a format string vulnerability in a C program, despite developer attempts to &amp;quot;patch&amp;quot; the bug. This project highlights how improper use of printf() can still allow attackers to leak sensitive memory content, such as flags, directly from the stack.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArtemCyberLab/Project-FlagVault-v2.1-Reopened-Secrets",
+    "keywords": [
+        "memory leak exploit"
+    ],
+    "language": null,
+    "repo_name": "Project-FlagVault-v2.1-Reopened-Secrets",
+    "repo_owner": "ArtemCyberLab",
+    "repotime": "2025-06-02, 21:02:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

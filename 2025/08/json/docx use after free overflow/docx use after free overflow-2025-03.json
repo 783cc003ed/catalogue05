@@ -1,0 +1,627 @@
+{
+    "commits_count": 5,
+    "date_started": "2025-03-23",
+    "date_updated": "2025-03-30",
+    "description": "Powerful static analysis tool for .NET, quickly identifies potential memory leaks related to incorrect implementations of the IDisposable interface.",
+    "forks_count": 0,
+    "html_url": "https://github.com/gcarlossuarez/IDisposableLeakAnalyzer",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C#",
+    "repo_name": "IDisposableLeakAnalyzer",
+    "repo_owner": "gcarlossuarez",
+    "repotime": "2025-03-30, 16:41:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-03-28",
+    "description": "Directory Traversal Scanner 是一个高性能的目录遍历漏洞扫描工具，专门用于检测和验证 Web 应用程序中的路径遍历漏洞。通过异步并发扫描和智能 WAF 绕过技术，帮助安全研究人员快速发现潜在的安全隐患。Directory Traversal Scanner is a high-performance security tool designed to detect and verify path traversal vulnerabilities in web applications. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/kingjly/Directory-Traversal-Scanner",
+    "keywords": [
+        "directory traversal vulnerability",
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Directory-Traversal-Scanner",
+    "repo_owner": "kingjly",
+    "repotime": "2025-03-28, 09:47:48",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 23,
+    "date_started": "2024-11-28",
+    "date_updated": "2025-03-27",
+    "description": "Detect SSRF within Caido",
+    "forks_count": 4,
+    "html_url": "https://github.com/caido-community/quickssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "TypeScript",
+    "repo_name": "quickssrf",
+    "repo_owner": "caido-community",
+    "repotime": "2025-03-27, 12:28:22",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 105,
+    "date_started": "2024-10-28",
+    "date_updated": "2025-03-26",
+    "description": "Predict customer revenue in the GStore using Google Analytics data by implementing a two-stage machine learning framework.  Classification identifies potential buyers, and Regression forecasts revenue by analyzing user behavior, session details, and acquisition channels.",
+    "forks_count": 0,
+    "html_url": "https://github.com/PaolaGaray/GA-CustomerRevenuePrediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "GA-CustomerRevenuePrediction",
+    "repo_owner": "PaolaGaray",
+    "repotime": "2025-03-26, 14:35:24",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-03-26",
+    "date_updated": "2025-03-26",
+    "description": "ZeroHuntAI is an advanced source code vulnerability scanner designed to detect potential zero-day vulnerabilities in your codebase. It combines static code analysis with pattern matching and AI evaluation to identify security issues before they can be exploited.",
+    "forks_count": 0,
+    "html_url": "https://github.com/absholi7ly/ZeroHuntAI",
+    "keywords": [
+        "zero-day analysis",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroHuntAI",
+    "repo_owner": "absholi7ly",
+    "repotime": "2025-03-26, 06:46:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-22",
+    "date_updated": "2025-03-23",
+    "description": "**Kioptrix-Level1-Writeup** is a detailed walkthrough of the **Kioptrix Level 1 CTF challenge**, covering **reconnaissance, exploitation, and privilege escalation** to gain root access. This write-up includes step-by-step commands, tool usage, and findings, making it a great resource for beginners in penetration testing. 🚀",
+    "forks_count": 0,
+    "html_url": "https://github.com/Omkar443/Kioptrix-Level1-Writeup",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Kioptrix-Level1-Writeup",
+    "repo_owner": "Omkar443",
+    "repotime": "2025-03-23, 00:37:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1663,
+    "date_started": "2018-06-13",
+    "date_updated": "2025-03-20",
+    "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+    "forks_count": 735,
+    "html_url": "https://github.com/RhinoSecurityLabs/pacu",
+    "keywords": [
+        "exploitation",
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "pacu",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2025-03-20, 14:08:56",
+    "stargazers_count": 4703,
+    "watchers_count": 4703
+}
+{
+    "commits_count": 47,
+    "date_started": "2024-03-04",
+    "date_updated": "2025-03-20",
+    "description": "A  web application built using the MERN stack that allows authenticated users to send and view messages along with sender details and timestamps, while unauthenticated users can only view messages without sender details.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AtmaniChouaib22/Members-Only",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "Members-Only",
+    "repo_owner": "AtmaniChouaib22",
+    "repotime": "2025-03-20, 12:38:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 52,
+    "date_started": "2015-06-30",
+    "date_updated": "2025-03-19",
+    "description": "My collection of exploit development skeletons for fuzzing, overwriting the stack, remote code execution, etc.",
+    "forks_count": 7,
+    "html_url": "https://github.com/shipcod3/sploitchits",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Classic ASP",
+    "repo_name": "sploitchits",
+    "repo_owner": "shipcod3",
+    "repotime": "2025-03-19, 18:15:10",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-17",
+    "date_updated": "2025-03-18",
+    "description": "【Hello-CTF labs】一个ssrf的综合靶场，包含RCE，SQL注入，Tomcat，Redis，MySQL提权等ssrf攻击场景",
+    "forks_count": 3,
+    "html_url": "https://github.com/ProbiusOfficial/ssrf-labs",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "ssrf-labs",
+    "repo_owner": "ProbiusOfficial",
+    "repotime": "2025-03-18, 11:25:21",
+    "stargazers_count": 65,
+    "watchers_count": 65
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-02-08",
+    "date_updated": "2025-03-08",
+    "description": "A natural language file search tool that uses LLMs to help you find files by describing what you're looking for.",
+    "forks_count": 2,
+    "html_url": "https://github.com/Mahrkeenerh/lfind",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "lfind",
+    "repo_owner": "Mahrkeenerh",
+    "repotime": "2025-03-08, 22:10:22",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-03-03",
+    "date_updated": "2025-03-04",
+    "description": "This repository contains a comprehensive analysis of cybersecurity threats, including malware, phishing, DDoS attacks, insider threats, and zero-day exploits. It provides code simulations, threat analysis, and mitigation strategies to enhance security awareness.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Qb7354vm/cybersecurity-threats-report",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "cybersecurity-threats-report",
+    "repo_owner": "Qb7354vm",
+    "repotime": "2025-03-04, 18:53:38",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-23",
+    "date_updated": "2025-03-30",
+    "description": "Powerful static analysis tool for .NET, quickly identifies potential memory leaks related to incorrect implementations of the IDisposable interface.",
+    "forks_count": 0,
+    "html_url": "https://github.com/gcarlossuarez/IDisposableLeakAnalyzer",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C#",
+    "repo_name": "IDisposableLeakAnalyzer",
+    "repo_owner": "gcarlossuarez",
+    "repotime": "2025-03-30, 16:41:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-03-28",
+    "description": "Directory Traversal Scanner 是一个高性能的目录遍历漏洞扫描工具，专门用于检测和验证 Web 应用程序中的路径遍历漏洞。通过异步并发扫描和智能 WAF 绕过技术，帮助安全研究人员快速发现潜在的安全隐患。Directory Traversal Scanner is a high-performance security tool designed to detect and verify path traversal vulnerabilities in web applications. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/kingjly/Directory-Traversal-Scanner",
+    "keywords": [
+        "directory traversal vulnerability",
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Directory-Traversal-Scanner",
+    "repo_owner": "kingjly",
+    "repotime": "2025-03-28, 09:47:48",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 23,
+    "date_started": "2024-11-28",
+    "date_updated": "2025-03-27",
+    "description": "Detect SSRF within Caido",
+    "forks_count": 4,
+    "html_url": "https://github.com/caido-community/quickssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "TypeScript",
+    "repo_name": "quickssrf",
+    "repo_owner": "caido-community",
+    "repotime": "2025-03-27, 12:28:22",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 105,
+    "date_started": "2024-10-28",
+    "date_updated": "2025-03-26",
+    "description": "Predict customer revenue in the GStore using Google Analytics data by implementing a two-stage machine learning framework.  Classification identifies potential buyers, and Regression forecasts revenue by analyzing user behavior, session details, and acquisition channels.",
+    "forks_count": 0,
+    "html_url": "https://github.com/PaolaGaray/GA-CustomerRevenuePrediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "GA-CustomerRevenuePrediction",
+    "repo_owner": "PaolaGaray",
+    "repotime": "2025-03-26, 14:35:24",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-03-26",
+    "date_updated": "2025-03-26",
+    "description": "ZeroHuntAI is an advanced source code vulnerability scanner designed to detect potential zero-day vulnerabilities in your codebase. It combines static code analysis with pattern matching and AI evaluation to identify security issues before they can be exploited.",
+    "forks_count": 0,
+    "html_url": "https://github.com/absholi7ly/ZeroHuntAI",
+    "keywords": [
+        "zero-day analysis",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroHuntAI",
+    "repo_owner": "absholi7ly",
+    "repotime": "2025-03-26, 06:46:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-22",
+    "date_updated": "2025-03-23",
+    "description": "**Kioptrix-Level1-Writeup** is a detailed walkthrough of the **Kioptrix Level 1 CTF challenge**, covering **reconnaissance, exploitation, and privilege escalation** to gain root access. This write-up includes step-by-step commands, tool usage, and findings, making it a great resource for beginners in penetration testing. 🚀",
+    "forks_count": 0,
+    "html_url": "https://github.com/Omkar443/Kioptrix-Level1-Writeup",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Kioptrix-Level1-Writeup",
+    "repo_owner": "Omkar443",
+    "repotime": "2025-03-23, 00:37:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1663,
+    "date_started": "2018-06-13",
+    "date_updated": "2025-03-20",
+    "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+    "forks_count": 735,
+    "html_url": "https://github.com/RhinoSecurityLabs/pacu",
+    "keywords": [
+        "exploitation",
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "pacu",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2025-03-20, 14:08:56",
+    "stargazers_count": 4703,
+    "watchers_count": 4703
+}
+{
+    "commits_count": 47,
+    "date_started": "2024-03-04",
+    "date_updated": "2025-03-20",
+    "description": "A  web application built using the MERN stack that allows authenticated users to send and view messages along with sender details and timestamps, while unauthenticated users can only view messages without sender details.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AtmaniChouaib22/Members-Only",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "Members-Only",
+    "repo_owner": "AtmaniChouaib22",
+    "repotime": "2025-03-20, 12:38:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 52,
+    "date_started": "2015-06-30",
+    "date_updated": "2025-03-19",
+    "description": "My collection of exploit development skeletons for fuzzing, overwriting the stack, remote code execution, etc.",
+    "forks_count": 7,
+    "html_url": "https://github.com/shipcod3/sploitchits",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Classic ASP",
+    "repo_name": "sploitchits",
+    "repo_owner": "shipcod3",
+    "repotime": "2025-03-19, 18:15:10",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-17",
+    "date_updated": "2025-03-18",
+    "description": "【Hello-CTF labs】一个ssrf的综合靶场，包含RCE，SQL注入，Tomcat，Redis，MySQL提权等ssrf攻击场景",
+    "forks_count": 3,
+    "html_url": "https://github.com/ProbiusOfficial/ssrf-labs",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "ssrf-labs",
+    "repo_owner": "ProbiusOfficial",
+    "repotime": "2025-03-18, 11:25:21",
+    "stargazers_count": 65,
+    "watchers_count": 65
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-02-08",
+    "date_updated": "2025-03-08",
+    "description": "A natural language file search tool that uses LLMs to help you find files by describing what you're looking for.",
+    "forks_count": 2,
+    "html_url": "https://github.com/Mahrkeenerh/lfind",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "lfind",
+    "repo_owner": "Mahrkeenerh",
+    "repotime": "2025-03-08, 22:10:22",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-03-03",
+    "date_updated": "2025-03-04",
+    "description": "This repository contains a comprehensive analysis of cybersecurity threats, including malware, phishing, DDoS attacks, insider threats, and zero-day exploits. It provides code simulations, threat analysis, and mitigation strategies to enhance security awareness.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Qb7354vm/cybersecurity-threats-report",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "cybersecurity-threats-report",
+    "repo_owner": "Qb7354vm",
+    "repotime": "2025-03-04, 18:53:38",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-23",
+    "date_updated": "2025-03-30",
+    "description": "Powerful static analysis tool for .NET, quickly identifies potential memory leaks related to incorrect implementations of the IDisposable interface.",
+    "forks_count": 0,
+    "html_url": "https://github.com/gcarlossuarez/IDisposableLeakAnalyzer",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C#",
+    "repo_name": "IDisposableLeakAnalyzer",
+    "repo_owner": "gcarlossuarez",
+    "repotime": "2025-03-30, 16:41:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-03-28",
+    "description": "Directory Traversal Scanner 是一个高性能的目录遍历漏洞扫描工具，专门用于检测和验证 Web 应用程序中的路径遍历漏洞。通过异步并发扫描和智能 WAF 绕过技术，帮助安全研究人员快速发现潜在的安全隐患。Directory Traversal Scanner is a high-performance security tool designed to detect and verify path traversal vulnerabilities in web applications. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/kingjly/Directory-Traversal-Scanner",
+    "keywords": [
+        "directory traversal vulnerability",
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Directory-Traversal-Scanner",
+    "repo_owner": "kingjly",
+    "repotime": "2025-03-28, 09:47:48",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 23,
+    "date_started": "2024-11-28",
+    "date_updated": "2025-03-27",
+    "description": "Detect SSRF within Caido",
+    "forks_count": 4,
+    "html_url": "https://github.com/caido-community/quickssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "TypeScript",
+    "repo_name": "quickssrf",
+    "repo_owner": "caido-community",
+    "repotime": "2025-03-27, 12:28:22",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 105,
+    "date_started": "2024-10-28",
+    "date_updated": "2025-03-26",
+    "description": "Predict customer revenue in the GStore using Google Analytics data by implementing a two-stage machine learning framework.  Classification identifies potential buyers, and Regression forecasts revenue by analyzing user behavior, session details, and acquisition channels.",
+    "forks_count": 0,
+    "html_url": "https://github.com/PaolaGaray/GA-CustomerRevenuePrediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "GA-CustomerRevenuePrediction",
+    "repo_owner": "PaolaGaray",
+    "repotime": "2025-03-26, 14:35:24",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-03-26",
+    "date_updated": "2025-03-26",
+    "description": "ZeroHuntAI is an advanced source code vulnerability scanner designed to detect potential zero-day vulnerabilities in your codebase. It combines static code analysis with pattern matching and AI evaluation to identify security issues before they can be exploited.",
+    "forks_count": 0,
+    "html_url": "https://github.com/absholi7ly/ZeroHuntAI",
+    "keywords": [
+        "zero-day analysis",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroHuntAI",
+    "repo_owner": "absholi7ly",
+    "repotime": "2025-03-26, 06:46:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-22",
+    "date_updated": "2025-03-23",
+    "description": "**Kioptrix-Level1-Writeup** is a detailed walkthrough of the **Kioptrix Level 1 CTF challenge**, covering **reconnaissance, exploitation, and privilege escalation** to gain root access. This write-up includes step-by-step commands, tool usage, and findings, making it a great resource for beginners in penetration testing. 🚀",
+    "forks_count": 0,
+    "html_url": "https://github.com/Omkar443/Kioptrix-Level1-Writeup",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Kioptrix-Level1-Writeup",
+    "repo_owner": "Omkar443",
+    "repotime": "2025-03-23, 00:37:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1663,
+    "date_started": "2018-06-13",
+    "date_updated": "2025-03-20",
+    "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+    "forks_count": 735,
+    "html_url": "https://github.com/RhinoSecurityLabs/pacu",
+    "keywords": [
+        "exploitation",
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "pacu",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2025-03-20, 14:08:56",
+    "stargazers_count": 4703,
+    "watchers_count": 4703
+}
+{
+    "commits_count": 47,
+    "date_started": "2024-03-04",
+    "date_updated": "2025-03-20",
+    "description": "A  web application built using the MERN stack that allows authenticated users to send and view messages along with sender details and timestamps, while unauthenticated users can only view messages without sender details.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AtmaniChouaib22/Members-Only",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "Members-Only",
+    "repo_owner": "AtmaniChouaib22",
+    "repotime": "2025-03-20, 12:38:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 52,
+    "date_started": "2015-06-30",
+    "date_updated": "2025-03-19",
+    "description": "My collection of exploit development skeletons for fuzzing, overwriting the stack, remote code execution, etc.",
+    "forks_count": 7,
+    "html_url": "https://github.com/shipcod3/sploitchits",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Classic ASP",
+    "repo_name": "sploitchits",
+    "repo_owner": "shipcod3",
+    "repotime": "2025-03-19, 18:15:10",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-17",
+    "date_updated": "2025-03-18",
+    "description": "【Hello-CTF labs】一个ssrf的综合靶场，包含RCE，SQL注入，Tomcat，Redis，MySQL提权等ssrf攻击场景",
+    "forks_count": 3,
+    "html_url": "https://github.com/ProbiusOfficial/ssrf-labs",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "ssrf-labs",
+    "repo_owner": "ProbiusOfficial",
+    "repotime": "2025-03-18, 11:25:21",
+    "stargazers_count": 69,
+    "watchers_count": 69
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-02-08",
+    "date_updated": "2025-03-08",
+    "description": "A natural language file search tool that uses LLMs to help you find files by describing what you're looking for.",
+    "forks_count": 2,
+    "html_url": "https://github.com/Mahrkeenerh/lfind",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "lfind",
+    "repo_owner": "Mahrkeenerh",
+    "repotime": "2025-03-08, 22:10:22",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-03-03",
+    "date_updated": "2025-03-04",
+    "description": "This repository contains a comprehensive analysis of cybersecurity threats, including malware, phishing, DDoS attacks, insider threats, and zero-day exploits. It provides code simulations, threat analysis, and mitigation strategies to enhance security awareness.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Qb7354vm/cybersecurity-threats-report",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "cybersecurity-threats-report",
+    "repo_owner": "Qb7354vm",
+    "repotime": "2025-03-04, 18:53:38",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

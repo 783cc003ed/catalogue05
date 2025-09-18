@@ -1,0 +1,64 @@
+{
+    "commits_count": 22,
+    "date_started": "2017-09-22",
+    "date_updated": "2021-11-29",
+    "description": "Exploiting Python PIL Module Command Execution Vulnerability",
+    "forks_count": 14,
+    "html_url": "https://github.com/neargle/PIL-RCE-By-GhostButt",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PIL-RCE-By-GhostButt",
+    "repo_owner": "neargle",
+    "repotime": "2021-11-29, 18:51:11",
+    "stargazers_count": 56,
+    "watchers_count": 56
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-16",
+    "date_updated": "2021-11-11",
+    "description": "Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE)",
+    "forks_count": 95,
+    "html_url": "https://github.com/ly4k/CallbackHell",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CallbackHell",
+    "repo_owner": "ly4k",
+    "repotime": "2021-11-11, 18:09:56",
+    "stargazers_count": 472,
+    "watchers_count": 472
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-10-25",
+    "date_updated": "2021-11-05",
+    "description": "LPE exploit for a UAF in Windows (CVE-2021-40449).",
+    "forks_count": 15,
+    "html_url": "https://github.com/hakivvi/CVE-2021-40449",
+    "keywords": [
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows uaf exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Windows uaf exploit",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-40449",
+    "repo_owner": "hakivvi",
+    "repotime": "2021-11-05, 07:54:09",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}

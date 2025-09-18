@@ -1,0 +1,428 @@
+{
+    "commits_count": 26,
+    "date_started": "2019-06-04",
+    "date_updated": "2023-06-30",
+    "description": "Lonely x64 binary to Bypass Win10 UAC utilizing ALPC method with [command line]",
+    "forks_count": 6,
+    "html_url": "https://github.com/w4fz5uck5/LonelyALPC-BypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "LonelyALPC-BypassUAC",
+    "repo_owner": "w4fz5uck5",
+    "repotime": "2023-06-30, 20:03:24",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-06-29",
+    "date_updated": "2023-06-29",
+    "description": "POC for unauthenticated RCE in Aspect Unified Installation Assistant by Aspect Software found in 2021.",
+    "forks_count": 1,
+    "html_url": "https://github.com/bugch3ck/AspectInstallAssistantRCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "C#",
+    "repo_name": "AspectInstallAssistantRCE",
+    "repo_owner": "bugch3ck",
+    "repotime": "2023-06-29, 23:59:59",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-06-21",
+    "date_updated": "2023-06-29",
+    "description": "An personal password protected journal that stores encrypted entries in a storage file. No hard coded password!",
+    "forks_count": 0,
+    "html_url": "https://github.com/Brady-Higgins/Encryption_Journal",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "Encryption_Journal",
+    "repo_owner": "Brady-Higgins",
+    "repotime": "2023-06-29, 15:37:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-06-28",
+    "date_updated": "2023-06-29",
+    "description": "Alpine hostapd-mana based RADIUS server",
+    "forks_count": 1,
+    "html_url": "https://github.com/sensepost/berate_radius",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Shell",
+    "repo_name": "berate_radius",
+    "repo_owner": "sensepost",
+    "repotime": "2023-06-29, 14:25:56",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 20,
+    "date_started": "2023-04-04",
+    "date_updated": "2023-06-27",
+    "description": "Binary encrpytion and injection tool that bypasses windows defender using process hollowing + QueeUserAPC",
+    "forks_count": 0,
+    "html_url": "https://github.com/CryptedNanomate/Depth",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "Depth",
+    "repo_owner": "CryptedNanomate",
+    "repotime": "2023-06-27, 11:47:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-06-25",
+    "date_updated": "2023-06-25",
+    "description": "金蝶云星空 Kingdee-erp-Unserialize-RCE POC&amp;amp;&amp;amp;EXP",
+    "forks_count": 9,
+    "html_url": "https://github.com/Sweelg/Kingdee-erp-Unserialize-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "Kingdee-erp-Unserialize-RCE",
+    "repo_owner": "Sweelg",
+    "repotime": "2023-06-25, 22:47:41",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 21,
+    "date_started": "2023-06-08",
+    "date_updated": "2023-06-24",
+    "description": "Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities",
+    "forks_count": 10,
+    "html_url": "https://github.com/Chocapikk/LFIHunt",
+    "keywords": [
+        "local file inclusion",
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "LFIHunt",
+    "repo_owner": "Chocapikk",
+    "repotime": "2023-06-24, 15:56:47",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 76,
+    "date_started": "2019-04-11",
+    "date_updated": "2023-06-22",
+    "description": "Exploit Development - Weaponized Exploit and Proof of Concepts (PoC) ",
+    "forks_count": 51,
+    "html_url": "https://github.com/VoidSec/Exploit-Development",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce poc",
+        "Windows lpe poc",
+        "Windows lpe exploit",
+        "Windows rce poc",
+        "rce exploit",
+        "0day poc",
+        "Windows rce",
+        "Windows lpe",
+        "0day proof of concept",
+        "lpe poc",
+        "Windows 0day exploit",
+        "rce exploitation",
+        "0day exploitation",
+        "Windows rce proof of concept",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Windows 0day proof of concept",
+        "Windows 0day exploitation",
+        "Windows 0day poc",
+        "Windows 0day",
+        "lpe proof of concept",
+        "0day exploit",
+        "rce proof of concept",
+        "Windows lpe proof of concept",
+        "Windows rce exploit",
+        "lpe exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Exploit-Development",
+    "repo_owner": "VoidSec",
+    "repotime": "2023-06-22, 22:49:44",
+    "stargazers_count": 227,
+    "watchers_count": 227
+}
+{
+    "commits_count": 15,
+    "date_started": "2020-11-05",
+    "date_updated": "2023-06-21",
+    "description": "Analysis and exploitation of an use-after-free in ProFTPd",
+    "forks_count": 4,
+    "html_url": "https://github.com/ptef/CVE-2020-9273",
+    "keywords": [
+        "use after free analysis",
+        "use after free exploitation",
+        "use after free exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2020-9273",
+    "repo_owner": "ptef",
+    "repotime": "2023-06-21, 12:55:30",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 141,
+    "date_started": "2020-06-11",
+    "date_updated": "2023-06-17",
+    "description": "XRCross is a Reconstruction, Scanner, and a tool for penetration / BugBounty testing.  This tool was built to test (XSS|SSRF|CORS|SSTI|IDOR|RCE|LFI|SQLI) vulnerabilities",
+    "forks_count": 69,
+    "html_url": "https://github.com/pikpikcu/XRCross",
+    "keywords": [
+        "lfi",
+        "rce vulnerability",
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "XRCross",
+    "repo_owner": "pikpikcu",
+    "repotime": "2023-06-17, 23:38:40",
+    "stargazers_count": 341,
+    "watchers_count": 341
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-06-17",
+    "date_updated": "2023-06-17",
+    "description": "Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.",
+    "forks_count": 50,
+    "html_url": "https://github.com/assetnote/surf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "surf",
+    "repo_owner": "assetnote",
+    "repotime": "2023-06-17, 17:49:59",
+    "stargazers_count": 671,
+    "watchers_count": 671
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-05-07",
+    "date_updated": "2023-06-14",
+    "description": "Automated Tool for Testing Header Based Blind SQL Injection",
+    "forks_count": 67,
+    "html_url": "https://github.com/SAPT01/HBSQLI",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "HBSQLI",
+    "repo_owner": "SAPT01",
+    "repotime": "2023-06-14, 21:48:38",
+    "stargazers_count": 286,
+    "watchers_count": 286
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-06-13",
+    "date_updated": "2023-06-14",
+    "description": "node package to use ssrfproxy.com for protection against server side request forgery",
+    "forks_count": 0,
+    "html_url": "https://github.com/henryoswald/ssrfproxy-node",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "TypeScript",
+    "repo_name": "ssrfproxy-node",
+    "repo_owner": "henryoswald",
+    "repotime": "2023-06-14, 10:53:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-06-05",
+    "date_updated": "2023-06-13",
+    "description": "LFI / RCE Unauthenticated - Apache 2.4.49 &amp;amp; 2.4.50",
+    "forks_count": 0,
+    "html_url": "https://github.com/sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50",
+    "repo_owner": "sergiovks",
+    "repotime": "2023-06-13, 14:11:52",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-06-12",
+    "date_updated": "2023-06-12",
+    "description": "Python Exploit Unauthenticated Upload Leading to Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/buka-pitch/Exploit-for-WordPress-Theme-Workreap-2.2.2",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Exploit-for-WordPress-Theme-Workreap-2.2.2",
+    "repo_owner": "buka-pitch",
+    "repotime": "2023-06-12, 17:08:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-06-12",
+    "date_updated": "2023-06-12",
+    "description": " This repository contains a Python script that checks WordPress websites for the CVE-2022-3590 vulnerability, which exploits an unauthenticated blind Server-Side Request Forgery (SSRF) in the WordPress pingback feature.",
+    "forks_count": 3,
+    "html_url": "https://github.com/hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-3590-WordPress-Vulnerability-Scanner",
+    "repo_owner": "hxlxmjxbbxs",
+    "repotime": "2023-06-12, 14:25:51",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 391,
+    "date_started": "2021-11-26",
+    "date_updated": "2023-06-09",
+    "description": "利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点",
+    "forks_count": 386,
+    "html_url": "https://github.com/tr0uble-mAker/POC-bomber",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "POC-bomber",
+    "repo_owner": "tr0uble-mAker",
+    "repotime": "2023-06-09, 21:20:09",
+    "stargazers_count": 2347,
+    "watchers_count": 2347
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-06-08",
+    "date_updated": "2023-06-09",
+    "description": "Proof of Concept Code for CVE-2023-32353: Local privilege escalation via iTunes in Windows",
+    "forks_count": 2,
+    "html_url": "https://github.com/86x/CVE-2023-32353-PoC",
+    "keywords": [
+        "escalation of privileges proof of concept",
+        "escalation of privileges poc",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges proof of concept",
+        "Windows escalation of privileges poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2023-32353-PoC",
+    "repo_owner": "86x",
+    "repotime": "2023-06-09, 09:33:36",
+    "stargazers_count": 35,
+    "watchers_count": 35
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-06-08",
+    "date_updated": "2023-06-08",
+    "description": "Exploiting SQL Injection vulnerability",
+    "forks_count": 387,
+    "html_url": "https://github.com/gowriganeshns/sqlinjection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sqlinjection",
+    "repo_owner": "gowriganeshns",
+    "repotime": "2023-06-08, 19:13:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-06-08",
+    "date_updated": "2023-06-08",
+    "description": "CVE: 2021-42013 Tested on: 2.4.49 and 2.4.50 Description: Path Traversal or Remote Code Execution vulnerabilities  in Apache 2.4.49 and 2.4.50",
+    "forks_count": 1,
+    "html_url": "https://github.com/cybfar/cve-2021-42013-httpd",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "cve-2021-42013-httpd",
+    "repo_owner": "cybfar",
+    "repotime": "2023-06-08, 10:34:05",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-06-06",
+    "date_updated": "2023-06-08",
+    "description": "CVE-2023-25157 - GeoServer SQL Injection - PoC",
+    "forks_count": 34,
+    "html_url": "https://github.com/win3zz/CVE-2023-25157",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-25157",
+    "repo_owner": "win3zz",
+    "repotime": "2023-06-08, 14:35:21",
+    "stargazers_count": 170,
+    "watchers_count": 170
+}
+{
+    "commits_count": 44,
+    "date_started": "2023-06-01",
+    "date_updated": "2023-06-07",
+    "description": "CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit",
+    "forks_count": 21,
+    "html_url": "https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-33246_RocketMQ_RCE_EXPLOIT",
+    "repo_owner": "Malayke",
+    "repotime": "2023-06-07, 21:07:30",
+    "stargazers_count": 102,
+    "watchers_count": 102
+}
+{
+    "commits_count": 102,
+    "date_started": "2021-04-21",
+    "date_updated": "2023-06-02",
+    "description": "RevSuit is a flexible and powerful reverse connection platform designed for receiving connection from target host in penetration. ",
+    "forks_count": 70,
+    "html_url": "https://github.com/Li4n0/revsuit",
+    "keywords": [
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "revsuit",
+    "repo_owner": "Li4n0",
+    "repotime": "2023-06-02, 00:36:44",
+    "stargazers_count": 552,
+    "watchers_count": 552
+}

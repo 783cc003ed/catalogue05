@@ -49,3 +49,105 @@
     "stargazers_count": 3,
     "watchers_count": 3
 }
+{
+    "commits_count": 2,
+    "date_started": "2017-06-27",
+    "date_updated": "2017-06-27",
+    "description": "PHPMailer &amp;lt; 5.2.20 with Exim MTA - Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/michaelwalkerfl/literate-winner",
+    "keywords": [
+        "Win remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "literate-winner",
+    "repo_owner": "michaelwalkerfl",
+    "repotime": "2017-06-27, 02:24:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2017-06-26",
+    "date_updated": "2017-06-26",
+    "description": "POC trying to replicate a node.js memory leak",
+    "forks_count": 0,
+    "html_url": "https://github.com/noblesamurai/memory-leak-poc",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "JavaScript",
+    "repo_name": "memory-leak-poc",
+    "repo_owner": "noblesamurai",
+    "repotime": "2017-06-26, 14:17:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2017-06-03",
+    "date_updated": "2017-06-04",
+    "description": "PoC of Android ION device causing UAF",
+    "forks_count": 1,
+    "html_url": "https://github.com/superguo/poc-ion-uaf",
+    "keywords": [
+        "uaf poc"
+    ],
+    "language": "C",
+    "repo_name": "poc-ion-uaf",
+    "repo_owner": "superguo",
+    "repotime": "2017-06-04, 00:47:12",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 2,
+    "date_started": "2017-06-27",
+    "date_updated": "2017-06-27",
+    "description": "PHPMailer &amp;lt; 5.2.20 with Exim MTA - Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/michaelwalkerfl/literate-winner",
+    "keywords": [
+        "Win remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "literate-winner",
+    "repo_owner": "michaelwalkerfl",
+    "repotime": "2017-06-27, 02:24:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2017-06-26",
+    "date_updated": "2017-06-26",
+    "description": "POC trying to replicate a node.js memory leak",
+    "forks_count": 0,
+    "html_url": "https://github.com/noblesamurai/memory-leak-poc",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "JavaScript",
+    "repo_name": "memory-leak-poc",
+    "repo_owner": "noblesamurai",
+    "repotime": "2017-06-26, 14:17:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2017-06-03",
+    "date_updated": "2017-06-04",
+    "description": "PoC of Android ION device causing UAF",
+    "forks_count": 1,
+    "html_url": "https://github.com/superguo/poc-ion-uaf",
+    "keywords": [
+        "uaf poc"
+    ],
+    "language": "C",
+    "repo_name": "poc-ion-uaf",
+    "repo_owner": "superguo",
+    "repotime": "2017-06-04, 00:47:12",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

@@ -1,0 +1,1263 @@
+{
+    "commits_count": 3,
+    "date_started": "2025-02-27",
+    "date_updated": "2025-02-27",
+    "description": "You can download and install Microsoft Word 2021 for free here",
+    "forks_count": 0,
+    "html_url": "https://github.com/dulmaransorvanec/microsoft-word-2021",
+    "keywords": [
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "microsoft-word-2021",
+    "repo_owner": "dulmaransorvanec",
+    "repotime": "2025-02-27, 05:35:53",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 152,
+    "date_started": "2010-01-09",
+    "date_updated": "2025-02-27",
+    "description": "A database resource control interface for Ruby that lets you avoid hard coding your passwords",
+    "forks_count": 0,
+    "html_url": "https://github.com/djberg96/dbi-dbrc",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Ruby",
+    "repo_name": "dbi-dbrc",
+    "repo_owner": "djberg96",
+    "repotime": "2025-02-27, 06:40:48",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-02-27",
+    "date_updated": "2025-02-27",
+    "description": "**Problem Statement:**   Uber faces challenges in managing rides, payments, drivers, and city-specific issues. To stay competitive and expand, it needs in-depth data analysis to address revenue leaks, driver performance, and high cancellation rates. This project uses SQL to explore operational data and uncover insights for improved efficiency.",
+    "forks_count": 0,
+    "html_url": "https://github.com/drish08/Uber-Data-Analysis",
+    "keywords": [
+        "address leak analysis"
+    ],
+    "language": "TSQL",
+    "repo_name": "Uber-Data-Analysis",
+    "repo_owner": "drish08",
+    "repotime": "2025-02-27, 16:58:38",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 118,
+    "date_started": "2018-10-15",
+    "date_updated": "2025-02-26",
+    "description": "Automatic SSRF fuzzer and exploitation tool",
+    "forks_count": 547,
+    "html_url": "https://github.com/swisskyrepo/SSRFmap",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRFmap",
+    "repo_owner": "swisskyrepo",
+    "repotime": "2025-02-26, 20:38:36",
+    "stargazers_count": 3251,
+    "watchers_count": 3251
+}
+{
+    "commits_count": 147,
+    "date_started": "2022-10-01",
+    "date_updated": "2025-02-26",
+    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+    "forks_count": 375,
+    "html_url": "https://github.com/r0oth3x49/ghauri",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "ghauri",
+    "repo_owner": "r0oth3x49",
+    "repotime": "2025-02-26, 00:09:45",
+    "stargazers_count": 3598,
+    "watchers_count": 3598
+}
+{
+    "commits_count": 4725,
+    "date_started": "2017-05-29",
+    "date_updated": "2025-02-25",
+    "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
+    "forks_count": 167,
+    "html_url": "https://github.com/airbus-seclab/bincat",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "OCaml",
+    "repo_name": "bincat",
+    "repo_owner": "airbus-seclab",
+    "repotime": "2025-02-25, 17:53:49",
+    "stargazers_count": 1821,
+    "watchers_count": 1821
+}
+{
+    "commits_count": 22,
+    "date_started": "2023-11-19",
+    "date_updated": "2025-02-24",
+    "description": "xxe漏洞靶场",
+    "forks_count": 0,
+    "html_url": "https://github.com/mcc0624/XXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "CSS",
+    "repo_name": "XXE",
+    "repo_owner": "mcc0624",
+    "repotime": "2025-02-24, 23:50:44",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 176,
+    "date_started": "2015-05-28",
+    "date_updated": "2025-02-24",
+    "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
+    "forks_count": 564,
+    "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
+    "keywords": [
+        "vulnerability",
+        "Windows uaf vulnerability",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "uaf vulnerability",
+        "Windows uaf"
+    ],
+    "language": "C",
+    "repo_name": "HackSysExtremeVulnerableDriver",
+    "repo_owner": "hacksysteam",
+    "repotime": "2025-02-24, 17:49:16",
+    "stargazers_count": 2765,
+    "watchers_count": 2765
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-12-04",
+    "date_updated": "2025-02-22",
+    "description": "A Proof-of-Concept (PoC) exploit for CVE-2018-16763 (Fuel CMS - Preauthenticated Remote Code Execution).",
+    "forks_count": 0,
+    "html_url": "https://github.com/saccles/CVE_2018_16763_Proof_of_Concept",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE_2018_16763_Proof_of_Concept",
+    "repo_owner": "saccles",
+    "repotime": "2025-02-22, 18:12:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-01-04",
+    "date_updated": "2025-02-23",
+    "description": "WPF Partial Trust Security Article 10 minutes to read In general, Internet applications should be restricted from having direct access to critical system resources, to prevent malicious damage. By default, HTML and client-side scripting languages are not able to access critical system resources. Because Windows Presentation Foundation (WPF) browser-hosted applications can be launched from the browser, they should conform to a similar set of restrictions. To enforce these restrictions, WPF relies on both Code Access Security (CAS) and ClickOnce (see WPF Security Strategy - Platform Security). By default, browser-hosted applications request the Internet zone CAS set of permissions, irrespective of whether they are launched from the Internet, the local intranet, or the local computer. Applications that run with anything less than the full set of permissions are said to be running with partial trust. WPF provides a wide variety of support to ensure that as much functionality as possible ca...",
+    "forks_count": 4,
+    "html_url": "https://github.com/lhai36366/lhai36366",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "lhai36366",
+    "repo_owner": "lhai36366",
+    "repotime": "2025-02-23, 05:22:29",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 296,
+    "date_started": "2022-09-03",
+    "date_updated": "2025-02-17",
+    "description": "Tests URLs for Local File Inclusion (LFI), Remote File Inclusion (RFI),   SQL injection (SQLi), and Cross Site Scripting (XSS), Server Side Template Injection (SSTI), and Open Redirects.",
+    "forks_count": 19,
+    "html_url": "https://github.com/ronin-rb/ronin-vulns",
+    "keywords": [
+        "local file inclusion",
+        "cross-side-scripting"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-vulns",
+    "repo_owner": "ronin-rb",
+    "repotime": "2025-02-17, 13:24:05",
+    "stargazers_count": 78,
+    "watchers_count": 78
+}
+{
+    "commits_count": 939,
+    "date_started": "2010-01-30",
+    "date_updated": "2025-02-14",
+    "description": "A Ruby DSL for crafting SQL Injections",
+    "forks_count": 5,
+    "html_url": "https://github.com/ronin-rb/ronin-code-sql",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-code-sql",
+    "repo_owner": "ronin-rb",
+    "repotime": "2025-02-14, 23:52:21",
+    "stargazers_count": 46,
+    "watchers_count": 46
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-12",
+    "date_updated": "2025-02-12",
+    "description": "A C-based security exploitation toolkit demonstrating buffer overflow attacks. It manipulates stack memory, injects shellcode, and redirects execution using ROP techniques, GDB debugging, and memory corruption analysis.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SiddarthaBoreddy/buffer-overflow-exploit",
+    "keywords": [
+        "corruption overflow exploit"
+    ],
+    "language": "Python",
+    "repo_name": "buffer-overflow-exploit",
+    "repo_owner": "SiddarthaBoreddy",
+    "repotime": "2025-02-12, 12:29:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-08-01",
+    "date_updated": "2025-02-11",
+    "description": "RayV Lite LFI &amp;amp; LLSI project support files.",
+    "forks_count": 5,
+    "html_url": "https://github.com/ProjectLOREM/RayVLite",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "SystemVerilog",
+    "repo_name": "RayVLite",
+    "repo_owner": "ProjectLOREM",
+    "repotime": "2025-02-11, 20:05:56",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-09",
+    "date_updated": "2025-02-09",
+    "description": "This script scans a given IP address for network vulnerabilities, including open TCP/UDP ports, OS fingerprinting, SSL/TLS security checks, ARP spoofing detection, and service banner grabbing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/theamitsiingh/Network-Vulnerability-Scanner",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Network-Vulnerability-Scanner",
+    "repo_owner": "theamitsiingh",
+    "repotime": "2025-02-09, 15:26:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-07",
+    "date_updated": "2025-02-07",
+    "description": "Cityworks deserialization of untrusted data vulnerability Detection",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2025-0994",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-0994",
+    "repo_owner": "rxerium",
+    "repotime": "2025-02-07, 14:15:32",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 79,
+    "date_started": "2023-04-10",
+    "date_updated": "2025-02-06",
+    "description": "Analysis of vulnerabilities from security audit | CVEs",
+    "forks_count": 0,
+    "html_url": "https://github.com/dipa96/daysbeyond-archive",
+    "keywords": [
+        "zero-day exploit",
+        "0day analysis",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "zero-day analysis",
+        "0day poc",
+        "0day vulnerability",
+        "zero-day poc"
+    ],
+    "language": "Java",
+    "repo_name": "daysbeyond-archive",
+    "repo_owner": "dipa96",
+    "repotime": "2025-02-06, 12:00:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-02-06",
+    "description": "The project focuses on implementing authentication and authorization features, allowing users to create posts and view posts from other users. Only authenticated users can see the authors of the posts, while unauthenticated users can only view the content without knowing who wrote it.",
+    "forks_count": 0,
+    "html_url": "https://github.com/devashishchakraborty/members-only",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "EJS",
+    "repo_name": "members-only",
+    "repo_owner": "devashishchakraborty",
+    "repotime": "2025-02-06, 03:59:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-02-05",
+    "description": "Unauthenticated Remote Code Execution (RCE) - Poultry Farm Management System v1.0 ",
+    "forks_count": 0,
+    "html_url": "https://github.com/hacksudo/Unauthenticated-Remote-Code-Execution-RCE-Poultry-Farm-Management-System-v1.0",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Unauthenticated-Remote-Code-Execution-RCE-Poultry-Farm-Management-System-v1.0",
+    "repo_owner": "hacksudo",
+    "repotime": "2025-02-05, 21:22:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-20",
+    "date_updated": "2025-02-05",
+    "description": "PID Scanner allows you to scan process IDs (PIDs) on a vulnerable server to detect specific ports using a directory traversal vulnerability.",
+    "forks_count": 0,
+    "html_url": "https://github.com/The-Real-Virus/Pid-Scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Pid-Scanner",
+    "repo_owner": "The-Real-Virus",
+    "repotime": "2025-02-05, 15:14:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 244,
+    "date_started": "2021-08-24",
+    "date_updated": "2025-02-04",
+    "description": "Protect untrusted requests from SSRF",
+    "forks_count": 3,
+    "html_url": "https://github.com/hanover-computing/got-ssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "TypeScript",
+    "repo_name": "got-ssrf",
+    "repo_owner": "hanover-computing",
+    "repotime": "2025-02-04, 21:24:57",
+    "stargazers_count": 50,
+    "watchers_count": 50
+}
+{
+    "commits_count": 56,
+    "date_started": "2025-01-30",
+    "date_updated": "2025-02-04",
+    "description": "Comprehensive Security Controls: This repository outlines robust best practices including cryptographic key rotation, CSRF protection, input validation, and session hardening. It addresses common vulnerabilities like XSS, brute-force attacks, and weak encryption.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dillon-Duncan/APDS_Banking",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "APDS_Banking",
+    "repo_owner": "Dillon-Duncan",
+    "repotime": "2025-02-04, 14:35:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 388,
+    "date_started": "2018-08-11",
+    "date_updated": "2025-02-03",
+    "description": "Script for orchestrating mana rogue WiFi Access Points.",
+    "forks_count": 35,
+    "html_url": "https://github.com/sensepost/berate_ap",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Shell",
+    "repo_name": "berate_ap",
+    "repo_owner": "sensepost",
+    "repotime": "2025-02-03, 11:46:09",
+    "stargazers_count": 244,
+    "watchers_count": 244
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-27",
+    "date_updated": "2025-02-27",
+    "description": "You can download and install Microsoft Word 2021 for free here",
+    "forks_count": 0,
+    "html_url": "https://github.com/dulmaransorvanec/microsoft-word-2021",
+    "keywords": [
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "microsoft-word-2021",
+    "repo_owner": "dulmaransorvanec",
+    "repotime": "2025-02-27, 05:35:53",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 152,
+    "date_started": "2010-01-09",
+    "date_updated": "2025-02-27",
+    "description": "A database resource control interface for Ruby that lets you avoid hard coding your passwords",
+    "forks_count": 0,
+    "html_url": "https://github.com/djberg96/dbi-dbrc",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Ruby",
+    "repo_name": "dbi-dbrc",
+    "repo_owner": "djberg96",
+    "repotime": "2025-02-27, 06:40:48",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-02-27",
+    "date_updated": "2025-02-27",
+    "description": "**Problem Statement:**   Uber faces challenges in managing rides, payments, drivers, and city-specific issues. To stay competitive and expand, it needs in-depth data analysis to address revenue leaks, driver performance, and high cancellation rates. This project uses SQL to explore operational data and uncover insights for improved efficiency.",
+    "forks_count": 0,
+    "html_url": "https://github.com/drish08/Uber-Data-Analysis",
+    "keywords": [
+        "address leak analysis"
+    ],
+    "language": "TSQL",
+    "repo_name": "Uber-Data-Analysis",
+    "repo_owner": "drish08",
+    "repotime": "2025-02-27, 16:58:38",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 118,
+    "date_started": "2018-10-15",
+    "date_updated": "2025-02-26",
+    "description": "Automatic SSRF fuzzer and exploitation tool",
+    "forks_count": 547,
+    "html_url": "https://github.com/swisskyrepo/SSRFmap",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRFmap",
+    "repo_owner": "swisskyrepo",
+    "repotime": "2025-02-26, 20:38:36",
+    "stargazers_count": 3251,
+    "watchers_count": 3251
+}
+{
+    "commits_count": 147,
+    "date_started": "2022-10-01",
+    "date_updated": "2025-02-26",
+    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+    "forks_count": 375,
+    "html_url": "https://github.com/r0oth3x49/ghauri",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "ghauri",
+    "repo_owner": "r0oth3x49",
+    "repotime": "2025-02-26, 00:09:45",
+    "stargazers_count": 3598,
+    "watchers_count": 3598
+}
+{
+    "commits_count": 4725,
+    "date_started": "2017-05-29",
+    "date_updated": "2025-02-25",
+    "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
+    "forks_count": 166,
+    "html_url": "https://github.com/airbus-seclab/bincat",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "OCaml",
+    "repo_name": "bincat",
+    "repo_owner": "airbus-seclab",
+    "repotime": "2025-02-25, 17:53:49",
+    "stargazers_count": 1820,
+    "watchers_count": 1820
+}
+{
+    "commits_count": 22,
+    "date_started": "2023-11-19",
+    "date_updated": "2025-02-24",
+    "description": "xxe漏洞靶场",
+    "forks_count": 0,
+    "html_url": "https://github.com/mcc0624/XXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "CSS",
+    "repo_name": "XXE",
+    "repo_owner": "mcc0624",
+    "repotime": "2025-02-24, 23:50:44",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 176,
+    "date_started": "2015-05-28",
+    "date_updated": "2025-02-24",
+    "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
+    "forks_count": 565,
+    "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
+    "keywords": [
+        "vulnerability",
+        "Windows uaf vulnerability",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "uaf vulnerability",
+        "Windows uaf"
+    ],
+    "language": "C",
+    "repo_name": "HackSysExtremeVulnerableDriver",
+    "repo_owner": "hacksysteam",
+    "repotime": "2025-02-24, 17:49:16",
+    "stargazers_count": 2793,
+    "watchers_count": 2793
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-12-04",
+    "date_updated": "2025-02-22",
+    "description": "A Proof-of-Concept (PoC) exploit for CVE-2018-16763 (Fuel CMS - Preauthenticated Remote Code Execution).",
+    "forks_count": 0,
+    "html_url": "https://github.com/saccles/CVE_2018_16763_Proof_of_Concept",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE_2018_16763_Proof_of_Concept",
+    "repo_owner": "saccles",
+    "repotime": "2025-02-22, 18:12:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-01-04",
+    "date_updated": "2025-02-23",
+    "description": "WPF Partial Trust Security Article 10 minutes to read In general, Internet applications should be restricted from having direct access to critical system resources, to prevent malicious damage. By default, HTML and client-side scripting languages are not able to access critical system resources. Because Windows Presentation Foundation (WPF) browser-hosted applications can be launched from the browser, they should conform to a similar set of restrictions. To enforce these restrictions, WPF relies on both Code Access Security (CAS) and ClickOnce (see WPF Security Strategy - Platform Security). By default, browser-hosted applications request the Internet zone CAS set of permissions, irrespective of whether they are launched from the Internet, the local intranet, or the local computer. Applications that run with anything less than the full set of permissions are said to be running with partial trust. WPF provides a wide variety of support to ensure that as much functionality as possible ca...",
+    "forks_count": 4,
+    "html_url": "https://github.com/lhai36366/lhai36366",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "lhai36366",
+    "repo_owner": "lhai36366",
+    "repotime": "2025-02-23, 05:22:29",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 296,
+    "date_started": "2022-09-03",
+    "date_updated": "2025-02-17",
+    "description": "Tests URLs for Local File Inclusion (LFI), Remote File Inclusion (RFI),   SQL injection (SQLi), and Cross Site Scripting (XSS), Server Side Template Injection (SSTI), and Open Redirects.",
+    "forks_count": 19,
+    "html_url": "https://github.com/ronin-rb/ronin-vulns",
+    "keywords": [
+        "local file inclusion",
+        "cross-side-scripting"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-vulns",
+    "repo_owner": "ronin-rb",
+    "repotime": "2025-02-17, 13:24:05",
+    "stargazers_count": 79,
+    "watchers_count": 79
+}
+{
+    "commits_count": 939,
+    "date_started": "2010-01-30",
+    "date_updated": "2025-02-14",
+    "description": "A Ruby DSL for crafting SQL Injections",
+    "forks_count": 5,
+    "html_url": "https://github.com/ronin-rb/ronin-code-sql",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-code-sql",
+    "repo_owner": "ronin-rb",
+    "repotime": "2025-02-14, 23:52:21",
+    "stargazers_count": 46,
+    "watchers_count": 46
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-12",
+    "date_updated": "2025-02-12",
+    "description": "A C-based security exploitation toolkit demonstrating buffer overflow attacks. It manipulates stack memory, injects shellcode, and redirects execution using ROP techniques, GDB debugging, and memory corruption analysis.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SiddarthaBoreddy/buffer-overflow-exploit",
+    "keywords": [
+        "corruption overflow exploit"
+    ],
+    "language": "Python",
+    "repo_name": "buffer-overflow-exploit",
+    "repo_owner": "SiddarthaBoreddy",
+    "repotime": "2025-02-12, 12:29:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-08-01",
+    "date_updated": "2025-02-11",
+    "description": "RayV Lite LFI &amp;amp; LLSI project support files.",
+    "forks_count": 5,
+    "html_url": "https://github.com/ProjectLOREM/RayVLite",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "SystemVerilog",
+    "repo_name": "RayVLite",
+    "repo_owner": "ProjectLOREM",
+    "repotime": "2025-02-11, 20:05:56",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-09",
+    "date_updated": "2025-02-09",
+    "description": "This script scans a given IP address for network vulnerabilities, including open TCP/UDP ports, OS fingerprinting, SSL/TLS security checks, ARP spoofing detection, and service banner grabbing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/theamitsiingh/Network-Vulnerability-Scanner",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Network-Vulnerability-Scanner",
+    "repo_owner": "theamitsiingh",
+    "repotime": "2025-02-09, 15:26:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-07",
+    "date_updated": "2025-02-07",
+    "description": "Cityworks deserialization of untrusted data vulnerability Detection",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2025-0994",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-0994",
+    "repo_owner": "rxerium",
+    "repotime": "2025-02-07, 14:15:32",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 79,
+    "date_started": "2023-04-10",
+    "date_updated": "2025-02-06",
+    "description": "Analysis of vulnerabilities from security audit | CVEs",
+    "forks_count": 0,
+    "html_url": "https://github.com/dipa96/daysbeyond-archive",
+    "keywords": [
+        "zero-day exploit",
+        "0day analysis",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "zero-day analysis",
+        "0day poc",
+        "0day vulnerability",
+        "zero-day poc"
+    ],
+    "language": "Java",
+    "repo_name": "daysbeyond-archive",
+    "repo_owner": "dipa96",
+    "repotime": "2025-02-06, 12:00:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-02-06",
+    "description": "The project focuses on implementing authentication and authorization features, allowing users to create posts and view posts from other users. Only authenticated users can see the authors of the posts, while unauthenticated users can only view the content without knowing who wrote it.",
+    "forks_count": 0,
+    "html_url": "https://github.com/devashishchakraborty/members-only",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "EJS",
+    "repo_name": "members-only",
+    "repo_owner": "devashishchakraborty",
+    "repotime": "2025-02-06, 03:59:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-02-05",
+    "description": "Unauthenticated Remote Code Execution (RCE) - Poultry Farm Management System v1.0 ",
+    "forks_count": 0,
+    "html_url": "https://github.com/hacksudo/Unauthenticated-Remote-Code-Execution-RCE-Poultry-Farm-Management-System-v1.0",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Unauthenticated-Remote-Code-Execution-RCE-Poultry-Farm-Management-System-v1.0",
+    "repo_owner": "hacksudo",
+    "repotime": "2025-02-05, 21:22:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-20",
+    "date_updated": "2025-02-05",
+    "description": "PID Scanner allows you to scan process IDs (PIDs) on a vulnerable server to detect specific ports using a directory traversal vulnerability.",
+    "forks_count": 0,
+    "html_url": "https://github.com/The-Real-Virus/Pid-Scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Pid-Scanner",
+    "repo_owner": "The-Real-Virus",
+    "repotime": "2025-02-05, 15:14:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 244,
+    "date_started": "2021-08-24",
+    "date_updated": "2025-02-04",
+    "description": "Protect untrusted requests from SSRF",
+    "forks_count": 3,
+    "html_url": "https://github.com/hanover-computing/got-ssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "TypeScript",
+    "repo_name": "got-ssrf",
+    "repo_owner": "hanover-computing",
+    "repotime": "2025-02-04, 21:24:57",
+    "stargazers_count": 50,
+    "watchers_count": 50
+}
+{
+    "commits_count": 56,
+    "date_started": "2025-01-30",
+    "date_updated": "2025-02-04",
+    "description": "Comprehensive Security Controls: This repository outlines robust best practices including cryptographic key rotation, CSRF protection, input validation, and session hardening. It addresses common vulnerabilities like XSS, brute-force attacks, and weak encryption.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dillon-Duncan/APDS_Banking",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "APDS_Banking",
+    "repo_owner": "Dillon-Duncan",
+    "repotime": "2025-02-04, 14:35:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 388,
+    "date_started": "2018-08-11",
+    "date_updated": "2025-02-03",
+    "description": "Script for orchestrating mana rogue WiFi Access Points.",
+    "forks_count": 35,
+    "html_url": "https://github.com/sensepost/berate_ap",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Shell",
+    "repo_name": "berate_ap",
+    "repo_owner": "sensepost",
+    "repotime": "2025-02-03, 11:46:09",
+    "stargazers_count": 244,
+    "watchers_count": 244
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-27",
+    "date_updated": "2025-02-27",
+    "description": "You can download and install Microsoft Word 2021 for free here",
+    "forks_count": 0,
+    "html_url": "https://github.com/dulmaransorvanec/microsoft-word-2021",
+    "keywords": [
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "microsoft-word-2021",
+    "repo_owner": "dulmaransorvanec",
+    "repotime": "2025-02-27, 05:35:53",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 152,
+    "date_started": "2010-01-09",
+    "date_updated": "2025-02-27",
+    "description": "A database resource control interface for Ruby that lets you avoid hard coding your passwords",
+    "forks_count": 0,
+    "html_url": "https://github.com/djberg96/dbi-dbrc",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Ruby",
+    "repo_name": "dbi-dbrc",
+    "repo_owner": "djberg96",
+    "repotime": "2025-02-27, 06:40:48",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-02-27",
+    "date_updated": "2025-02-27",
+    "description": "**Problem Statement:**   Uber faces challenges in managing rides, payments, drivers, and city-specific issues. To stay competitive and expand, it needs in-depth data analysis to address revenue leaks, driver performance, and high cancellation rates. This project uses SQL to explore operational data and uncover insights for improved efficiency.",
+    "forks_count": 0,
+    "html_url": "https://github.com/drish08/Uber-Data-Analysis",
+    "keywords": [
+        "address leak analysis"
+    ],
+    "language": "TSQL",
+    "repo_name": "Uber-Data-Analysis",
+    "repo_owner": "drish08",
+    "repotime": "2025-02-27, 16:58:38",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 118,
+    "date_started": "2018-10-15",
+    "date_updated": "2025-02-26",
+    "description": "Automatic SSRF fuzzer and exploitation tool",
+    "forks_count": 550,
+    "html_url": "https://github.com/swisskyrepo/SSRFmap",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRFmap",
+    "repo_owner": "swisskyrepo",
+    "repotime": "2025-02-26, 20:38:36",
+    "stargazers_count": 3294,
+    "watchers_count": 3294
+}
+{
+    "commits_count": 147,
+    "date_started": "2022-10-01",
+    "date_updated": "2025-02-26",
+    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+    "forks_count": 381,
+    "html_url": "https://github.com/r0oth3x49/ghauri",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "ghauri",
+    "repo_owner": "r0oth3x49",
+    "repotime": "2025-02-26, 00:09:45",
+    "stargazers_count": 3636,
+    "watchers_count": 3636
+}
+{
+    "commits_count": 4725,
+    "date_started": "2017-05-29",
+    "date_updated": "2025-02-25",
+    "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
+    "forks_count": 165,
+    "html_url": "https://github.com/airbus-seclab/bincat",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "OCaml",
+    "repo_name": "bincat",
+    "repo_owner": "airbus-seclab",
+    "repotime": "2025-02-25, 17:53:49",
+    "stargazers_count": 1820,
+    "watchers_count": 1820
+}
+{
+    "commits_count": 22,
+    "date_started": "2023-11-19",
+    "date_updated": "2025-02-24",
+    "description": "xxe漏洞靶场",
+    "forks_count": 0,
+    "html_url": "https://github.com/mcc0624/XXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "CSS",
+    "repo_name": "XXE",
+    "repo_owner": "mcc0624",
+    "repotime": "2025-02-24, 23:50:44",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 176,
+    "date_started": "2015-05-28",
+    "date_updated": "2025-02-24",
+    "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
+    "forks_count": 565,
+    "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
+    "keywords": [
+        "vulnerability",
+        "Windows uaf vulnerability",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "uaf vulnerability",
+        "Windows uaf"
+    ],
+    "language": "C",
+    "repo_name": "HackSysExtremeVulnerableDriver",
+    "repo_owner": "hacksysteam",
+    "repotime": "2025-02-24, 17:49:16",
+    "stargazers_count": 2793,
+    "watchers_count": 2793
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-12-04",
+    "date_updated": "2025-02-22",
+    "description": "A Proof-of-Concept (PoC) exploit for CVE-2018-16763 (Fuel CMS - Preauthenticated Remote Code Execution).",
+    "forks_count": 0,
+    "html_url": "https://github.com/saccles/CVE_2018_16763_Proof_of_Concept",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE_2018_16763_Proof_of_Concept",
+    "repo_owner": "saccles",
+    "repotime": "2025-02-22, 18:12:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-01-04",
+    "date_updated": "2025-02-23",
+    "description": "WPF Partial Trust Security Article 10 minutes to read In general, Internet applications should be restricted from having direct access to critical system resources, to prevent malicious damage. By default, HTML and client-side scripting languages are not able to access critical system resources. Because Windows Presentation Foundation (WPF) browser-hosted applications can be launched from the browser, they should conform to a similar set of restrictions. To enforce these restrictions, WPF relies on both Code Access Security (CAS) and ClickOnce (see WPF Security Strategy - Platform Security). By default, browser-hosted applications request the Internet zone CAS set of permissions, irrespective of whether they are launched from the Internet, the local intranet, or the local computer. Applications that run with anything less than the full set of permissions are said to be running with partial trust. WPF provides a wide variety of support to ensure that as much functionality as possible ca...",
+    "forks_count": 4,
+    "html_url": "https://github.com/lhai36366/lhai36366",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "lhai36366",
+    "repo_owner": "lhai36366",
+    "repotime": "2025-02-23, 05:22:29",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 296,
+    "date_started": "2022-09-03",
+    "date_updated": "2025-02-17",
+    "description": "Tests URLs for Local File Inclusion (LFI), Remote File Inclusion (RFI),   SQL injection (SQLi), and Cross Site Scripting (XSS), Server Side Template Injection (SSTI), and Open Redirects.",
+    "forks_count": 19,
+    "html_url": "https://github.com/ronin-rb/ronin-vulns",
+    "keywords": [
+        "local file inclusion",
+        "cross-side-scripting"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-vulns",
+    "repo_owner": "ronin-rb",
+    "repotime": "2025-02-17, 13:24:05",
+    "stargazers_count": 79,
+    "watchers_count": 79
+}
+{
+    "commits_count": 939,
+    "date_started": "2010-01-30",
+    "date_updated": "2025-02-14",
+    "description": "A Ruby DSL for crafting SQL Injections",
+    "forks_count": 5,
+    "html_url": "https://github.com/ronin-rb/ronin-code-sql",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-code-sql",
+    "repo_owner": "ronin-rb",
+    "repotime": "2025-02-14, 23:52:21",
+    "stargazers_count": 46,
+    "watchers_count": 46
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-12",
+    "date_updated": "2025-02-12",
+    "description": "A C-based security exploitation toolkit demonstrating buffer overflow attacks. It manipulates stack memory, injects shellcode, and redirects execution using ROP techniques, GDB debugging, and memory corruption analysis.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SiddarthaBoreddy/buffer-overflow-exploit",
+    "keywords": [
+        "corruption overflow exploit"
+    ],
+    "language": "Python",
+    "repo_name": "buffer-overflow-exploit",
+    "repo_owner": "SiddarthaBoreddy",
+    "repotime": "2025-02-12, 12:29:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-08-01",
+    "date_updated": "2025-02-11",
+    "description": "RayV Lite LFI &amp;amp; LLSI project support files.",
+    "forks_count": 5,
+    "html_url": "https://github.com/ProjectLOREM/RayVLite",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "SystemVerilog",
+    "repo_name": "RayVLite",
+    "repo_owner": "ProjectLOREM",
+    "repotime": "2025-02-11, 20:05:56",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-09",
+    "date_updated": "2025-02-09",
+    "description": "This script scans a given IP address for network vulnerabilities, including open TCP/UDP ports, OS fingerprinting, SSL/TLS security checks, ARP spoofing detection, and service banner grabbing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/theamitsiingh/Network-Vulnerability-Scanner",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Network-Vulnerability-Scanner",
+    "repo_owner": "theamitsiingh",
+    "repotime": "2025-02-09, 15:26:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-07",
+    "date_updated": "2025-02-07",
+    "description": "Cityworks deserialization of untrusted data vulnerability Detection",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2025-0994",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-0994",
+    "repo_owner": "rxerium",
+    "repotime": "2025-02-07, 14:15:32",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 79,
+    "date_started": "2023-04-10",
+    "date_updated": "2025-02-06",
+    "description": "Analysis of vulnerabilities from security audit | CVEs",
+    "forks_count": 0,
+    "html_url": "https://github.com/dipa96/daysbeyond-archive",
+    "keywords": [
+        "zero-day exploit",
+        "0day analysis",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "zero-day analysis",
+        "0day poc",
+        "0day vulnerability",
+        "zero-day poc"
+    ],
+    "language": "Java",
+    "repo_name": "daysbeyond-archive",
+    "repo_owner": "dipa96",
+    "repotime": "2025-02-06, 12:00:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-02-06",
+    "description": "The project focuses on implementing authentication and authorization features, allowing users to create posts and view posts from other users. Only authenticated users can see the authors of the posts, while unauthenticated users can only view the content without knowing who wrote it.",
+    "forks_count": 0,
+    "html_url": "https://github.com/devashishchakraborty/members-only",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "EJS",
+    "repo_name": "members-only",
+    "repo_owner": "devashishchakraborty",
+    "repotime": "2025-02-06, 03:59:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-02-05",
+    "description": "Unauthenticated Remote Code Execution (RCE) - Poultry Farm Management System v1.0 ",
+    "forks_count": 0,
+    "html_url": "https://github.com/hacksudo/Unauthenticated-Remote-Code-Execution-RCE-Poultry-Farm-Management-System-v1.0",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Unauthenticated-Remote-Code-Execution-RCE-Poultry-Farm-Management-System-v1.0",
+    "repo_owner": "hacksudo",
+    "repotime": "2025-02-05, 21:22:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-20",
+    "date_updated": "2025-02-05",
+    "description": "PID Scanner allows you to scan process IDs (PIDs) on a vulnerable server to detect specific ports using a directory traversal vulnerability.",
+    "forks_count": 0,
+    "html_url": "https://github.com/The-Real-Virus/Pid-Scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Pid-Scanner",
+    "repo_owner": "The-Real-Virus",
+    "repotime": "2025-02-05, 15:14:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 244,
+    "date_started": "2021-08-24",
+    "date_updated": "2025-02-04",
+    "description": "Protect untrusted requests from SSRF",
+    "forks_count": 3,
+    "html_url": "https://github.com/hanover-computing/got-ssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "TypeScript",
+    "repo_name": "got-ssrf",
+    "repo_owner": "hanover-computing",
+    "repotime": "2025-02-04, 21:24:57",
+    "stargazers_count": 50,
+    "watchers_count": 50
+}
+{
+    "commits_count": 56,
+    "date_started": "2025-01-30",
+    "date_updated": "2025-02-04",
+    "description": "Comprehensive Security Controls: This repository outlines robust best practices including cryptographic key rotation, CSRF protection, input validation, and session hardening. It addresses common vulnerabilities like XSS, brute-force attacks, and weak encryption.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dillon-Duncan/APDS_Banking",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "APDS_Banking",
+    "repo_owner": "Dillon-Duncan",
+    "repotime": "2025-02-04, 14:35:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 388,
+    "date_started": "2018-08-11",
+    "date_updated": "2025-02-03",
+    "description": "Script for orchestrating mana rogue WiFi Access Points.",
+    "forks_count": 35,
+    "html_url": "https://github.com/sensepost/berate_ap",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Shell",
+    "repo_name": "berate_ap",
+    "repo_owner": "sensepost",
+    "repotime": "2025-02-03, 11:46:09",
+    "stargazers_count": 244,
+    "watchers_count": 244
+}

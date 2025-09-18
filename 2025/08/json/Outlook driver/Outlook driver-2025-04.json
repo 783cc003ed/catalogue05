@@ -1,0 +1,590 @@
+{
+    "commits_count": 4,
+    "date_started": "2025-04-30",
+    "date_updated": "2025-04-30",
+    "description": "Windows kernel library for direct process notification registration, bypassing PatchGuard detection",
+    "forks_count": 0,
+    "html_url": "https://github.com/izcarti/ShadowCallback",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "ShadowCallback",
+    "repo_owner": "izcarti",
+    "repotime": "2025-04-30, 17:20:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-23",
+    "date_updated": "2025-04-23",
+    "description": "Critical client-side vulnerability: full credit card data, password, and ID stored in plaintext in sessionStorage.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pkieszek/credit-card-leak-web-storage",
+    "keywords": [
+        "password plaintext storage"
+    ],
+    "language": null,
+    "repo_name": "credit-card-leak-web-storage",
+    "repo_owner": "pkieszek",
+    "repotime": "2025-04-23, 13:09:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 35,
+    "date_started": "2024-07-07",
+    "date_updated": "2025-04-22",
+    "description": "As the name implies, this allows you to strike back against something. Namely in this case, Windows Defender and the memory leak of an antivirus program/process that Microsoft Defender is (MsMpEng.exe..AKA Antimalware Service Executable. ) ",
+    "forks_count": 1,
+    "html_url": "https://github.com/julerobb1/TheUserStrikesBack",
+    "keywords": [
+        "Microsoft memory leak",
+        "Windows memory leak"
+    ],
+    "language": "Batchfile",
+    "repo_name": "TheUserStrikesBack",
+    "repo_owner": "julerobb1",
+    "repotime": "2025-04-22, 17:55:25",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 253,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-04-21",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 119,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-04-21, 11:07:40",
+    "stargazers_count": 405,
+    "watchers_count": 405
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-20",
+    "date_updated": "2025-04-20",
+    "description": "Various techniques used to bypass SMEP in the Windows Kernel.",
+    "forks_count": 3,
+    "html_url": "https://github.com/r0keb/Smep-Bypass",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Smep-Bypass",
+    "repo_owner": "r0keb",
+    "repotime": "2025-04-20, 20:42:37",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-03-29",
+    "date_updated": "2025-04-17",
+    "description": "Kairos is a next-generation, red-team-oriented Windows kernel defense neutralization framework. It combines traditional runtime patching with UEFI persistence, hypervisor-level surveillance, and Secure Kernel deception.",
+    "forks_count": 1,
+    "html_url": "https://github.com/sondernextdoor/Kairos",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "Kairos",
+    "repo_owner": "sondernextdoor",
+    "repotime": "2025-04-17, 21:42:05",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1403,
+    "date_started": "2016-11-14",
+    "date_updated": "2025-04-17",
+    "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (&amp;quot;transparent&amp;quot;) encryption. SQL, NoSQL.",
+    "forks_count": 131,
+    "html_url": "https://github.com/cossacklabs/acra",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "acra",
+    "repo_owner": "cossacklabs",
+    "repotime": "2025-04-17, 13:21:23",
+    "stargazers_count": 1411,
+    "watchers_count": 1411
+}
+{
+    "commits_count": 131,
+    "date_started": "2024-09-13",
+    "date_updated": "2025-04-16",
+    "description": "best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect",
+    "forks_count": 282,
+    "html_url": "https://github.com/coffinxp/loxs",
+    "keywords": [
+        "lfi",
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "loxs",
+    "repo_owner": "coffinxp",
+    "repotime": "2025-04-16, 14:13:53",
+    "stargazers_count": 1246,
+    "watchers_count": 1246
+}
+{
+    "commits_count": 358,
+    "date_started": "2025-04-11",
+    "date_updated": "2025-04-16",
+    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Lastorex/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "repo_owner": "Lastorex",
+    "repotime": "2025-04-16, 11:27:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-05-03",
+    "date_updated": "2025-04-10",
+    "description": "&amp;quot;AMSI WRITE RAID&amp;quot; Vulnerability that leads to an effective AMSI BYPASS",
+    "forks_count": 52,
+    "html_url": "https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "AMSI-WRITE-RAID-BYPASS",
+    "repo_owner": "V-i-x-x",
+    "repotime": "2025-04-10, 17:59:30",
+    "stargazers_count": 292,
+    "watchers_count": 292
+}
+{
+    "commits_count": 341,
+    "date_started": "2025-04-05",
+    "date_updated": "2025-04-09",
+    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ponishtk/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "repo_owner": "Ponishtk",
+    "repotime": "2025-04-09, 17:58:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2024-09-06",
+    "date_updated": "2025-04-05",
+    "description": "Automation tool to testing and confirm the xss vulnerability.",
+    "forks_count": 48,
+    "html_url": "https://github.com/iamunixtz/LazyXss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "LazyXss",
+    "repo_owner": "iamunixtz",
+    "repotime": "2025-04-05, 09:28:00",
+    "stargazers_count": 272,
+    "watchers_count": 272
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-30",
+    "date_updated": "2025-04-30",
+    "description": "Windows kernel library for direct process notification registration, bypassing PatchGuard detection",
+    "forks_count": 0,
+    "html_url": "https://github.com/izcarti/ShadowCallback",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "ShadowCallback",
+    "repo_owner": "izcarti",
+    "repotime": "2025-04-30, 17:20:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-23",
+    "date_updated": "2025-04-23",
+    "description": "Critical client-side vulnerability: full credit card data, password, and ID stored in plaintext in sessionStorage.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pkieszek/credit-card-leak-web-storage",
+    "keywords": [
+        "password plaintext storage"
+    ],
+    "language": null,
+    "repo_name": "credit-card-leak-web-storage",
+    "repo_owner": "pkieszek",
+    "repotime": "2025-04-23, 13:09:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 35,
+    "date_started": "2024-07-07",
+    "date_updated": "2025-04-22",
+    "description": "As the name implies, this allows you to strike back against something. Namely in this case, Windows Defender and the memory leak of an antivirus program/process that Microsoft Defender is (MsMpEng.exe..AKA Antimalware Service Executable. ) ",
+    "forks_count": 1,
+    "html_url": "https://github.com/julerobb1/TheUserStrikesBack",
+    "keywords": [
+        "Microsoft memory leak",
+        "Windows memory leak"
+    ],
+    "language": "Batchfile",
+    "repo_name": "TheUserStrikesBack",
+    "repo_owner": "julerobb1",
+    "repotime": "2025-04-22, 17:55:25",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 253,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-04-21",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 119,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-04-21, 11:07:40",
+    "stargazers_count": 405,
+    "watchers_count": 405
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-20",
+    "date_updated": "2025-04-20",
+    "description": "Various techniques used to bypass SMEP in the Windows Kernel.",
+    "forks_count": 3,
+    "html_url": "https://github.com/r0keb/Smep-Bypass",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Smep-Bypass",
+    "repo_owner": "r0keb",
+    "repotime": "2025-04-20, 20:42:37",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-03-29",
+    "date_updated": "2025-04-17",
+    "description": "Kairos is a next-generation, red-team-oriented Windows kernel defense neutralization framework. It combines traditional runtime patching with UEFI persistence, hypervisor-level surveillance, and Secure Kernel deception.",
+    "forks_count": 1,
+    "html_url": "https://github.com/sondernextdoor/Kairos",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "Kairos",
+    "repo_owner": "sondernextdoor",
+    "repotime": "2025-04-17, 21:42:05",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1403,
+    "date_started": "2016-11-14",
+    "date_updated": "2025-04-17",
+    "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (&amp;quot;transparent&amp;quot;) encryption. SQL, NoSQL.",
+    "forks_count": 131,
+    "html_url": "https://github.com/cossacklabs/acra",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "acra",
+    "repo_owner": "cossacklabs",
+    "repotime": "2025-04-17, 13:21:23",
+    "stargazers_count": 1411,
+    "watchers_count": 1411
+}
+{
+    "commits_count": 131,
+    "date_started": "2024-09-13",
+    "date_updated": "2025-04-16",
+    "description": "best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect",
+    "forks_count": 282,
+    "html_url": "https://github.com/coffinxp/loxs",
+    "keywords": [
+        "lfi",
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "loxs",
+    "repo_owner": "coffinxp",
+    "repotime": "2025-04-16, 14:13:53",
+    "stargazers_count": 1246,
+    "watchers_count": 1246
+}
+{
+    "commits_count": 358,
+    "date_started": "2025-04-11",
+    "date_updated": "2025-04-16",
+    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Lastorex/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "repo_owner": "Lastorex",
+    "repotime": "2025-04-16, 11:27:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-05-03",
+    "date_updated": "2025-04-10",
+    "description": "&amp;quot;AMSI WRITE RAID&amp;quot; Vulnerability that leads to an effective AMSI BYPASS",
+    "forks_count": 52,
+    "html_url": "https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "AMSI-WRITE-RAID-BYPASS",
+    "repo_owner": "V-i-x-x",
+    "repotime": "2025-04-10, 17:59:30",
+    "stargazers_count": 294,
+    "watchers_count": 294
+}
+{
+    "commits_count": 341,
+    "date_started": "2025-04-05",
+    "date_updated": "2025-04-09",
+    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ponishtk/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "repo_owner": "Ponishtk",
+    "repotime": "2025-04-09, 17:58:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2024-09-06",
+    "date_updated": "2025-04-05",
+    "description": "Automation tool to testing and confirm the xss vulnerability.",
+    "forks_count": 48,
+    "html_url": "https://github.com/iamunixtz/LazyXss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "LazyXss",
+    "repo_owner": "iamunixtz",
+    "repotime": "2025-04-05, 09:28:00",
+    "stargazers_count": 272,
+    "watchers_count": 272
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-30",
+    "date_updated": "2025-04-30",
+    "description": "Windows kernel library for direct process notification registration, bypassing PatchGuard detection",
+    "forks_count": 0,
+    "html_url": "https://github.com/izcarti/ShadowCallback",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "ShadowCallback",
+    "repo_owner": "izcarti",
+    "repotime": "2025-04-30, 17:20:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-23",
+    "date_updated": "2025-04-23",
+    "description": "Critical client-side vulnerability: full credit card data, password, and ID stored in plaintext in sessionStorage.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pkieszek/credit-card-leak-web-storage",
+    "keywords": [
+        "password plaintext storage"
+    ],
+    "language": null,
+    "repo_name": "credit-card-leak-web-storage",
+    "repo_owner": "pkieszek",
+    "repotime": "2025-04-23, 13:09:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 35,
+    "date_started": "2024-07-07",
+    "date_updated": "2025-04-22",
+    "description": "As the name implies, this allows you to strike back against something. Namely in this case, Windows Defender and the memory leak of an antivirus program/process that Microsoft Defender is (MsMpEng.exe..AKA Antimalware Service Executable. ) ",
+    "forks_count": 1,
+    "html_url": "https://github.com/julerobb1/TheUserStrikesBack",
+    "keywords": [
+        "Microsoft memory leak",
+        "Windows memory leak"
+    ],
+    "language": "Batchfile",
+    "repo_name": "TheUserStrikesBack",
+    "repo_owner": "julerobb1",
+    "repotime": "2025-04-22, 17:55:25",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 253,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-04-21",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 119,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-04-21, 11:07:40",
+    "stargazers_count": 405,
+    "watchers_count": 405
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-20",
+    "date_updated": "2025-04-20",
+    "description": "Various techniques used to bypass SMEP in the Windows Kernel.",
+    "forks_count": 3,
+    "html_url": "https://github.com/r0keb/Smep-Bypass",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Smep-Bypass",
+    "repo_owner": "r0keb",
+    "repotime": "2025-04-20, 20:42:37",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-03-29",
+    "date_updated": "2025-04-17",
+    "description": "Kairos is a next-generation, red-team-oriented Windows kernel defense neutralization framework. It combines traditional runtime patching with UEFI persistence, hypervisor-level surveillance, and Secure Kernel deception.",
+    "forks_count": 1,
+    "html_url": "https://github.com/sondernextdoor/Kairos",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "Kairos",
+    "repo_owner": "sondernextdoor",
+    "repotime": "2025-04-17, 21:42:05",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 131,
+    "date_started": "2024-09-13",
+    "date_updated": "2025-04-16",
+    "description": "best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect",
+    "forks_count": 289,
+    "html_url": "https://github.com/coffinxp/loxs",
+    "keywords": [
+        "lfi",
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "loxs",
+    "repo_owner": "coffinxp",
+    "repotime": "2025-04-16, 14:13:53",
+    "stargazers_count": 1288,
+    "watchers_count": 1288
+}
+{
+    "commits_count": 358,
+    "date_started": "2025-04-11",
+    "date_updated": "2025-04-16",
+    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Lastorex/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "repo_owner": "Lastorex",
+    "repotime": "2025-04-16, 11:27:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-05-03",
+    "date_updated": "2025-04-10",
+    "description": "&amp;quot;AMSI WRITE RAID&amp;quot; Vulnerability that leads to an effective AMSI BYPASS",
+    "forks_count": 52,
+    "html_url": "https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "AMSI-WRITE-RAID-BYPASS",
+    "repo_owner": "V-i-x-x",
+    "repotime": "2025-04-10, 17:59:30",
+    "stargazers_count": 294,
+    "watchers_count": 294
+}
+{
+    "commits_count": 341,
+    "date_started": "2025-04-05",
+    "date_updated": "2025-04-09",
+    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ponishtk/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "repo_owner": "Ponishtk",
+    "repotime": "2025-04-09, 17:58:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -1,0 +1,334 @@
+{
+    "commits_count": 11,
+    "date_started": "2024-01-31",
+    "date_updated": "2024-09-28",
+    "description": "PoCs of RCEs against open source C2 servers",
+    "forks_count": 18,
+    "html_url": "https://github.com/IncludeSecurity/c2-vulnerabilities",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "c2-vulnerabilities",
+    "repo_owner": "IncludeSecurity",
+    "repotime": "2024-09-28, 15:51:50",
+    "stargazers_count": 87,
+    "watchers_count": 87
+}
+{
+    "commits_count": 302,
+    "date_started": "2017-04-30",
+    "date_updated": "2024-09-23",
+    "description": "hack tools",
+    "forks_count": 495,
+    "html_url": "https://github.com/hacktoolspack/hack-tools",
+    "keywords": [
+        "0day exploit",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "hack-tools",
+    "repo_owner": "hacktoolspack",
+    "repotime": "2024-09-23, 23:27:19",
+    "stargazers_count": 1139,
+    "watchers_count": 1139
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-08-26",
+    "date_updated": "2024-09-22",
+    "description": "Developed a fully functional dynamic website using HTML, CSS, JavaScript, and PHP for server-side programming. Designed in Figma, the website includes user registration, login, booking management, and secure sessions. Security measures such as SQL injection and cross-site scripting prevention were also implemented for enhanced protection.",
+    "forks_count": 0,
+    "html_url": "https://github.com/aroon-sekar/Tooneland---Events-Booking-Website",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "PHP",
+    "repo_name": "Tooneland---Events-Booking-Website",
+    "repo_owner": "aroon-sekar",
+    "repotime": "2024-09-22, 11:58:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-01-25",
+    "date_updated": "2024-09-21",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/yealvarez/CSV-Injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CSV-Injection",
+    "repo_owner": "yealvarez",
+    "repotime": "2024-09-21, 19:17:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-09-21",
+    "date_updated": "2024-09-21",
+    "description": "A set of vulnerability scanner applications. The applications are designed to scan for common vulnerabilities such as XSS, SQL Injection, Session Hijacking, Sensitive Data Exposure, Security Misconfiguration, RFI, LFI, Directory Traversal and CSRF. It was developed for educational purposes and unauthorized use should be avoided.",
+    "forks_count": 0,
+    "html_url": "https://github.com/KaanTuran28/Cyber--Security-Scanners-Demo",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "Cyber--Security-Scanners-Demo",
+    "repo_owner": "KaanTuran28",
+    "repotime": "2024-09-21, 20:03:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-09-19",
+    "date_updated": "2024-09-19",
+    "description": "This report identifies critical vulnerabilities in the Google Gruyere web application, including XSSI, Path Traversal, DoS, and Code Execution. It provides proofs of concept and recommendations for mitigating these risks to enhance overall application security. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Cyb3rscrib/Gruyere",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Gruyere",
+    "repo_owner": "Cyb3rscrib",
+    "repotime": "2024-09-19, 21:41:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-02-25",
+    "date_updated": "2024-09-17",
+    "description": "A privilege escalation vulnerability exists in Windows due to a flaw in the implementation of the Atom Table. An attacker could exploit this vulnerability by injecting malicious code into the Atom Table and hijacking a legitimate thread to execute the code in the context of a higher privileged process.",
+    "forks_count": 5,
+    "html_url": "https://github.com/SleepTheGod/Windows-Atom-Table-Hijacking",
+    "keywords": [
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges vulnerability",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges exploit",
+        "Win escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "Win escalation of privileges",
+        "Win escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "Win escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Windows-Atom-Table-Hijacking",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2024-09-17, 17:27:23",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 64,
+    "date_started": "2012-12-15",
+    "date_updated": "2024-09-17",
+    "description": "Cross Site &amp;quot;Scripter&amp;quot; (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.",
+    "forks_count": 252,
+    "html_url": "https://github.com/epsylon/xsser",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xsser",
+    "repo_owner": "epsylon",
+    "repotime": "2024-09-17, 09:58:12",
+    "stargazers_count": 1359,
+    "watchers_count": 1359
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-09-14",
+    "date_updated": "2024-09-16",
+    "description": "VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503 and CVE-2024-8504)",
+    "forks_count": 5,
+    "html_url": "https://github.com/Chocapikk/CVE-2024-8504",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-8504",
+    "repo_owner": "Chocapikk",
+    "repotime": "2024-09-16, 01:34:05",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-09-13",
+    "date_updated": "2024-09-13",
+    "description": "New 0day found in Microsoft, Linux among other OS, 0day consists of an exploit/helper, which assists with 100% accuracy in the injection of any Malware!",
+    "forks_count": 0,
+    "html_url": "https://github.com/AlbedoPrime/Exploit-Poison",
+    "keywords": [
+        "Microsoft 0day"
+    ],
+    "language": "Python",
+    "repo_name": "Exploit-Poison",
+    "repo_owner": "AlbedoPrime",
+    "repotime": "2024-09-13, 13:15:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-09-13",
+    "date_updated": "2024-09-13",
+    "description": "🚨 Just completed an incident report on Event ID 217: Apache OFBiz Auth Bypass and Code Injection 0-Day (CVE-2023-51467). This critical vulnerability allows attackers to bypass authentication and execute code remotely! Stay vigilant and ensure your systems are patched! Big thanks to LetsDefend.io for the platform to practice real-world scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AhmedMansour93/Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-",
+    "repo_owner": "AhmedMansour93",
+    "repotime": "2024-09-13, 14:48:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-09-11",
+    "date_updated": "2024-09-11",
+    "description": "A Server-Side Request Forgery (SSRF) in Chatgpt",
+    "forks_count": 0,
+    "html_url": "https://github.com/gh-ost00/SSRF_Vulnerability",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "SSRF_Vulnerability",
+    "repo_owner": "gh-ost00",
+    "repotime": "2024-09-11, 14:03:19",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-09-10",
+    "date_updated": "2024-09-10",
+    "description": "Final Capstone Project - Cloud Security, Malware Analysis, Phishing, and Zero-Day Attack Prevention.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MarepalliRakesh/Capstone_Project",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": null,
+    "repo_name": "Capstone_Project",
+    "repo_owner": "MarepalliRakesh",
+    "repotime": "2024-09-10, 15:42:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 44,
+    "date_started": "2024-07-03",
+    "date_updated": "2024-09-09",
+    "description": "ASUS wifi router RCE vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/BTtea/CVE-2018-14714-RCE-exploit",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-14714-RCE-exploit",
+    "repo_owner": "BTtea",
+    "repotime": "2024-09-09, 21:34:21",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-09-06",
+    "date_updated": "2024-09-07",
+    "description": "SPIP BigUp Plugin Unauthenticated RCE",
+    "forks_count": 4,
+    "html_url": "https://github.com/Chocapikk/CVE-2024-8517",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-8517",
+    "repo_owner": "Chocapikk",
+    "repotime": "2024-09-07, 04:12:04",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-08-27",
+    "date_updated": "2024-09-06",
+    "description": "A 1 Liner SQL Injection Attack using SQLMAP and various parameters that helps quickly check for a vulnerabilities during Bug Bounty",
+    "forks_count": 10,
+    "html_url": "https://github.com/blackhatethicalhacking/SQL-INJECTION-PWN",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Shell",
+    "repo_name": "SQL-INJECTION-PWN",
+    "repo_owner": "blackhatethicalhacking",
+    "repotime": "2024-09-06, 16:34:31",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-03-02",
+    "date_updated": "2024-09-06",
+    "description": "Checks for SSRF using built-in custom Payloads after fetching URLs from Multiple Passive Sources &amp;amp; applying complex patterns aimed at SSRF",
+    "forks_count": 25,
+    "html_url": "https://github.com/blackhatethicalhacking/SSRFPwned",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "SSRFPwned",
+    "repo_owner": "blackhatethicalhacking",
+    "repotime": "2024-09-06, 16:12:31",
+    "stargazers_count": 125,
+    "watchers_count": 125
+}
+{
+    "commits_count": 51,
+    "date_started": "2020-07-11",
+    "date_updated": "2024-09-04",
+    "description": "Inject python code into a running python process",
+    "forks_count": 12,
+    "html_url": "https://github.com/kmaork/hypno",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "hypno",
+    "repo_owner": "kmaork",
+    "repotime": "2024-09-04, 14:05:39",
+    "stargazers_count": 100,
+    "watchers_count": 100
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-09-04",
+    "date_updated": "2024-09-04",
+    "description": "Its a simple vulnerability scanner build using Python. For scanning command injection, SQL injection, Cross-Site Request Forgery, Cross Site Scripting and directory traversal vulnerability. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/CodeTitan7/simple-vulnerability-scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "simple-vulnerability-scanner",
+    "repo_owner": "CodeTitan7",
+    "repotime": "2024-09-04, 18:14:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

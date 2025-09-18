@@ -1,0 +1,156 @@
+{
+    "commits_count": 2205,
+    "date_started": "2019-09-10",
+    "date_updated": "2025-09-17",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 295,
+    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "TongchengOpenSource",
+    "repotime": "2025-09-17, 11:55:29",
+    "stargazers_count": 1571,
+    "watchers_count": 1571
+}
+{
+    "commits_count": 1309,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-09-17",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 122,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-09-17, 01:07:22",
+    "stargazers_count": 704,
+    "watchers_count": 704
+}
+{
+    "commits_count": 105,
+    "date_started": "2025-08-15",
+    "date_updated": "2025-09-16",
+    "description": "My code and notes for &amp;quot;From Day Zero to Zero Day&amp;quot;, a book on vulnerability research by Eugene Lim.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xdea/from-day-zero-to-zero-day",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "from-day-zero-to-zero-day",
+    "repo_owner": "0xdea",
+    "repotime": "2025-09-16, 15:34:47",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2764,
+    "date_started": "2009-12-19",
+    "date_updated": "2025-09-16",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2255,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2025-09-16, 12:19:11",
+    "stargazers_count": 11244,
+    "watchers_count": 11244
+}
+{
+    "commits_count": 10456,
+    "date_started": "2012-06-26",
+    "date_updated": "2025-09-15",
+    "description": "Automatic SQL injection and database takeover tool",
+    "forks_count": 6041,
+    "html_url": "https://github.com/sqlmapproject/sqlmap",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmap",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2025-09-15, 00:03:04",
+    "stargazers_count": 35303,
+    "watchers_count": 35303
+}
+{
+    "commits_count": 141,
+    "date_started": "2019-04-19",
+    "date_updated": "2025-09-14",
+    "description": "Top disclosed reports from HackerOne",
+    "forks_count": 869,
+    "html_url": "https://github.com/reddelexc/hackerone-reports",
+    "keywords": [
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "hackerone-reports",
+    "repo_owner": "reddelexc",
+    "repotime": "2025-09-14, 21:12:20",
+    "stargazers_count": 4842,
+    "watchers_count": 4842
+}
+{
+    "commits_count": 295,
+    "date_started": "2020-12-17",
+    "date_updated": "2025-09-12",
+    "description": "🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration.",
+    "forks_count": 2,
+    "html_url": "https://github.com/TomerAberbach/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "TypeScript",
+    "repo_name": "lfi",
+    "repo_owner": "TomerAberbach",
+    "repotime": "2025-09-12, 18:48:38",
+    "stargazers_count": 347,
+    "watchers_count": 347
+}
+{
+    "commits_count": 186,
+    "date_started": "2021-05-26",
+    "date_updated": "2025-09-12",
+    "description": "Create, edit and write a2l files with this rust crate",
+    "forks_count": 15,
+    "html_url": "https://github.com/DanielT/a2lfile",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Rust",
+    "repo_name": "a2lfile",
+    "repo_owner": "DanielT",
+    "repotime": "2025-09-12, 21:16:21",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 2037,
+    "date_started": "2020-04-12",
+    "date_updated": "2025-09-10",
+    "description": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
+    "forks_count": 490,
+    "html_url": "https://github.com/hahwul/dalfox",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Go",
+    "repo_name": "dalfox",
+    "repo_owner": "hahwul",
+    "repotime": "2025-09-10, 16:42:57",
+    "stargazers_count": 4533,
+    "watchers_count": 4533
+}

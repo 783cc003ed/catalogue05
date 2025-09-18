@@ -288,3 +288,583 @@
     "stargazers_count": 5,
     "watchers_count": 5
 }
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "IBM Maximo Asset Management 7.6 is vulnerable to CSV injection, which could allow a remote authenticated attacker to execute arbirary commands on the system. IBM X-Force ID: 161680. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-4364",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-4364",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 18:30:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "A vulnerability in the web-based management interface of Cisco Identity Services Engine could allow an authenticated, remote attacker to inject arbitrary commands on the underlying operating system. This vulnerability is due to improper validation of user input within requests as part of the web-based management interf CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-20964",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-20964",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 19:04:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-01-23",
+    "date_updated": "2023-01-24",
+    "description": "I found a vulnerability in supbrocess module, this vulnerability can be exploited to exploit a RCE (Remote Code Execution)",
+    "forks_count": 0,
+    "html_url": "https://github.com/mauricelambert/PythonSubprocessVulnerabilityPOC",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution exploit",
+        "Windows rce poc",
+        "Windows rce exploitation",
+        "Windows rce",
+        "Windows remote code execution",
+        "Windows remote code execution exploitation",
+        "Windows rce vulnerability",
+        "remote code execution poc",
+        "Windows remote code execution poc",
+        "remote code execution vulnerability",
+        "Windows rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "PythonSubprocessVulnerabilityPOC",
+    "repo_owner": "mauricelambert",
+    "repotime": "2023-01-24, 11:24:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-23",
+    "date_updated": "2023-01-23",
+    "description": "Alotcer - AR7088H-A firmware version 16.10.3 Command execution Improper validation of unspecified input field may allow Authenticated command execution. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-46372",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-46372",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-23, 18:22:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-09-21",
+    "date_updated": "2023-01-21",
+    "description": "Bitbucket CVE-2022-36804 unauthenticated remote command execution",
+    "forks_count": 3,
+    "html_url": "https://github.com/kljunowsky/CVE-2022-36804-POC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-36804-POC",
+    "repo_owner": "kljunowsky",
+    "repotime": "2023-01-21, 03:14:15",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-09",
+    "date_updated": "2023-01-21",
+    "description": "CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server",
+    "forks_count": 13,
+    "html_url": "https://github.com/kljunowsky/CVE-2022-41040-POC",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-41040-POC",
+    "repo_owner": "kljunowsky",
+    "repotime": "2023-01-21, 02:57:59",
+    "stargazers_count": 89,
+    "watchers_count": 89
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-01-15",
+    "date_updated": "2023-01-20",
+    "description": "Cacti: Unauthenticated Remote Code Execution Exploit in Ruby ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Habib0x0/CVE-2022-46169",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "remote code execution exploitation"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2022-46169",
+    "repo_owner": "Habib0x0",
+    "repotime": "2023-01-20, 11:10:38",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-08-28",
+    "date_updated": "2023-01-19",
+    "description": "A path traversal in smbserver.py allows an attacker to read/write arbitrary files on the server.",
+    "forks_count": 1,
+    "html_url": "https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write",
+    "repo_owner": "p0dalirius",
+    "repotime": "2023-01-19, 00:05:55",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 170,
+    "date_started": "2017-12-13",
+    "date_updated": "2023-01-17",
+    "description": "bXSS is a utility which can be used by bug hunters and organizations to identify Blind Cross-Site Scripting.",
+    "forks_count": 65,
+    "html_url": "https://github.com/LewisArdern/bXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "bXSS",
+    "repo_owner": "LewisArdern",
+    "repotime": "2023-01-17, 16:45:07",
+    "stargazers_count": 540,
+    "watchers_count": 540
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-15",
+    "date_updated": "2023-01-16",
+    "description": "A reverse shell, also known as a remote shell or “connect-back shell,” takes advantage of the target system’s vulnerabilities to initiate a shell session and then access the victim’s computer. The goal is to connect to a remote computer and redirect the input and output connections of the target system’s shell so the attacker can access it remotely",
+    "forks_count": 0,
+    "html_url": "https://github.com/gauravdhruv/reverse-shell",
+    "keywords": [
+        "session vulnerability",
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "reverse-shell",
+    "repo_owner": "gauravdhruv",
+    "repotime": "2023-01-16, 01:35:01",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-11",
+    "date_updated": "2023-01-11",
+    "description": "nhttpd in Nostromo before 2.1 is vulnerable to a path traversal that may allow an attacker to execute arbitrary commands on the remote server. The vulnerability occurs when the homedirs option is used. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-48253",
+    "keywords": [
+        "path traversal vulnerability",
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-48253",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-11, 07:52:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-07",
+    "date_updated": "2023-01-07",
+    "description": "Proof of concept for the command injection vulnerability affecting the ZTE MF286R router, including an RCE exploit.",
+    "forks_count": 4,
+    "html_url": "https://github.com/v0lp3/CVE-2022-39073",
+    "keywords": [
+        "rce proof of concept",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-39073",
+    "repo_owner": "v0lp3",
+    "repotime": "2023-01-07, 21:54:00",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-06",
+    "date_updated": "2023-01-07",
+    "description": "CVE-2022-44877 Centos Web Panel 7 Unauthenticated Remote Code Execution",
+    "forks_count": 1,
+    "html_url": "https://github.com/komomon/CVE-2022-44877-RCE",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-44877-RCE",
+    "repo_owner": "komomon",
+    "repotime": "2023-01-07, 01:00:01",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-01-05",
+    "date_updated": "2023-01-05",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/El-Palomo/Server-Side-Request-Forgery---RootMe",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "Server-Side-Request-Forgery---RootMe",
+    "repo_owner": "El-Palomo",
+    "repotime": "2023-01-05, 22:15:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-01-04",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/jiajunleong/Directory-Traversal-Attack",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "Directory-Traversal-Attack",
+    "repo_owner": "jiajunleong",
+    "repotime": "2023-01-04, 18:46:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-06-25",
+    "date_updated": "2023-01-03",
+    "description": "A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution.",
+    "forks_count": 2,
+    "html_url": "https://github.com/kahla-sec/CVE-2021-27850_POC",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2021-27850_POC",
+    "repo_owner": "kahla-sec",
+    "repotime": "2023-01-03, 14:46:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "IBM Maximo Asset Management 7.6 is vulnerable to CSV injection, which could allow a remote authenticated attacker to execute arbirary commands on the system. IBM X-Force ID: 161680. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-4364",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-4364",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 18:30:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-26",
+    "date_updated": "2023-01-26",
+    "description": "A vulnerability in the web-based management interface of Cisco Identity Services Engine could allow an authenticated, remote attacker to inject arbitrary commands on the underlying operating system. This vulnerability is due to improper validation of user input within requests as part of the web-based management interf CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-20964",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-20964",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-26, 19:04:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-01-23",
+    "date_updated": "2023-01-24",
+    "description": "I found a vulnerability in supbrocess module, this vulnerability can be exploited to exploit a RCE (Remote Code Execution)",
+    "forks_count": 0,
+    "html_url": "https://github.com/mauricelambert/PythonSubprocessVulnerabilityPOC",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution exploit",
+        "Windows rce poc",
+        "Windows rce exploitation",
+        "Windows rce",
+        "Windows remote code execution",
+        "Windows remote code execution exploitation",
+        "Windows rce vulnerability",
+        "remote code execution poc",
+        "Windows remote code execution poc",
+        "remote code execution vulnerability",
+        "Windows rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "PythonSubprocessVulnerabilityPOC",
+    "repo_owner": "mauricelambert",
+    "repotime": "2023-01-24, 11:24:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-23",
+    "date_updated": "2023-01-23",
+    "description": "Alotcer - AR7088H-A firmware version 16.10.3 Command execution Improper validation of unspecified input field may allow Authenticated command execution. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-46372",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-46372",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-23, 18:22:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-09-21",
+    "date_updated": "2023-01-21",
+    "description": "Bitbucket CVE-2022-36804 unauthenticated remote command execution",
+    "forks_count": 3,
+    "html_url": "https://github.com/kljunowsky/CVE-2022-36804-POC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-36804-POC",
+    "repo_owner": "kljunowsky",
+    "repotime": "2023-01-21, 03:14:15",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-09",
+    "date_updated": "2023-01-21",
+    "description": "CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server",
+    "forks_count": 12,
+    "html_url": "https://github.com/kljunowsky/CVE-2022-41040-POC",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-41040-POC",
+    "repo_owner": "kljunowsky",
+    "repotime": "2023-01-21, 02:57:59",
+    "stargazers_count": 90,
+    "watchers_count": 90
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-01-15",
+    "date_updated": "2023-01-20",
+    "description": "Cacti: Unauthenticated Remote Code Execution Exploit in Ruby ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Habib0x0/CVE-2022-46169",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "remote code execution exploitation"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2022-46169",
+    "repo_owner": "Habib0x0",
+    "repotime": "2023-01-20, 11:10:38",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-08-28",
+    "date_updated": "2023-01-19",
+    "description": "A path traversal in smbserver.py allows an attacker to read/write arbitrary files on the server.",
+    "forks_count": 1,
+    "html_url": "https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write",
+    "repo_owner": "p0dalirius",
+    "repotime": "2023-01-19, 00:05:55",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 170,
+    "date_started": "2017-12-13",
+    "date_updated": "2023-01-17",
+    "description": "bXSS is a utility which can be used by bug hunters and organizations to identify Blind Cross-Site Scripting.",
+    "forks_count": 65,
+    "html_url": "https://github.com/LewisArdern/bXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "bXSS",
+    "repo_owner": "LewisArdern",
+    "repotime": "2023-01-17, 16:45:07",
+    "stargazers_count": 542,
+    "watchers_count": 542
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-15",
+    "date_updated": "2023-01-16",
+    "description": "A reverse shell, also known as a remote shell or “connect-back shell,” takes advantage of the target system’s vulnerabilities to initiate a shell session and then access the victim’s computer. The goal is to connect to a remote computer and redirect the input and output connections of the target system’s shell so the attacker can access it remotely",
+    "forks_count": 0,
+    "html_url": "https://github.com/gauravdhruv/reverse-shell",
+    "keywords": [
+        "session vulnerability",
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "reverse-shell",
+    "repo_owner": "gauravdhruv",
+    "repotime": "2023-01-16, 01:35:01",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-11",
+    "date_updated": "2023-01-11",
+    "description": "nhttpd in Nostromo before 2.1 is vulnerable to a path traversal that may allow an attacker to execute arbitrary commands on the remote server. The vulnerability occurs when the homedirs option is used. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-48253",
+    "keywords": [
+        "path traversal vulnerability",
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-48253",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-11, 07:52:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-07",
+    "date_updated": "2023-01-07",
+    "description": "Proof of concept for the command injection vulnerability affecting the ZTE MF286R router, including an RCE exploit.",
+    "forks_count": 4,
+    "html_url": "https://github.com/v0lp3/CVE-2022-39073",
+    "keywords": [
+        "rce proof of concept",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-39073",
+    "repo_owner": "v0lp3",
+    "repotime": "2023-01-07, 21:54:00",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-06",
+    "date_updated": "2023-01-07",
+    "description": "CVE-2022-44877 Centos Web Panel 7 Unauthenticated Remote Code Execution",
+    "forks_count": 1,
+    "html_url": "https://github.com/komomon/CVE-2022-44877-RCE",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-44877-RCE",
+    "repo_owner": "komomon",
+    "repotime": "2023-01-07, 01:00:01",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-01-05",
+    "date_updated": "2023-01-05",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/El-Palomo/Server-Side-Request-Forgery---RootMe",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "Server-Side-Request-Forgery---RootMe",
+    "repo_owner": "El-Palomo",
+    "repotime": "2023-01-05, 22:15:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-01-04",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/jiajunleong/Directory-Traversal-Attack",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "Directory-Traversal-Attack",
+    "repo_owner": "jiajunleong",
+    "repotime": "2023-01-04, 18:46:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-06-25",
+    "date_updated": "2023-01-03",
+    "description": "A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution.",
+    "forks_count": 2,
+    "html_url": "https://github.com/kahla-sec/CVE-2021-27850_POC",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2021-27850_POC",
+    "repo_owner": "kahla-sec",
+    "repotime": "2023-01-03, 14:46:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

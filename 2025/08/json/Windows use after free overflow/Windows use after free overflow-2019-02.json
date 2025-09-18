@@ -1,0 +1,159 @@
+{
+    "commits_count": 3,
+    "date_started": "2019-02-21",
+    "date_updated": "2019-02-21",
+    "description": "contrived buffer overflow vulnerability - use ROP to leak address of libc",
+    "forks_count": 0,
+    "html_url": "https://github.com/arca-lignea-infosec/buffer-overflow-exploit",
+    "keywords": [
+        "address leak vulnerability",
+        "address leak exploit"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "buffer-overflow-exploit",
+    "repo_owner": "arca-lignea-infosec",
+    "repotime": "2019-02-21, 16:04:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2202,
+    "date_started": "2019-02-13",
+    "date_updated": "2019-02-13",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/webmontagks/Local-File-Inclusion-Remote-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Local-File-Inclusion-Remote-File-Inclusion",
+    "repo_owner": "webmontagks",
+    "repotime": "2019-02-13, 11:33:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 150,
+    "date_started": "2017-12-13",
+    "date_updated": "2019-02-07",
+    "description": "Red-team tool to hook libc read syscall with a buffer overflow vulnerability.",
+    "forks_count": 6,
+    "html_url": "https://github.com/PLEXSolutions/readhook",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "C",
+    "repo_name": "readhook",
+    "repo_owner": "PLEXSolutions",
+    "repotime": "2019-02-07, 11:51:18",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-02-21",
+    "date_updated": "2019-02-21",
+    "description": "contrived buffer overflow vulnerability - use ROP to leak address of libc",
+    "forks_count": 0,
+    "html_url": "https://github.com/arca-lignea-infosec/buffer-overflow-exploit",
+    "keywords": [
+        "address leak vulnerability",
+        "address leak exploit"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "buffer-overflow-exploit",
+    "repo_owner": "arca-lignea-infosec",
+    "repotime": "2019-02-21, 16:04:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2202,
+    "date_started": "2019-02-13",
+    "date_updated": "2019-02-13",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/webmontagks/Local-File-Inclusion-Remote-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Local-File-Inclusion-Remote-File-Inclusion",
+    "repo_owner": "webmontagks",
+    "repotime": "2019-02-13, 11:33:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 150,
+    "date_started": "2017-12-13",
+    "date_updated": "2019-02-07",
+    "description": "Red-team tool to hook libc read syscall with a buffer overflow vulnerability.",
+    "forks_count": 6,
+    "html_url": "https://github.com/PLEXSolutions/readhook",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "C",
+    "repo_name": "readhook",
+    "repo_owner": "PLEXSolutions",
+    "repotime": "2019-02-07, 11:51:18",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-02-21",
+    "date_updated": "2019-02-21",
+    "description": "contrived buffer overflow vulnerability - use ROP to leak address of libc",
+    "forks_count": 0,
+    "html_url": "https://github.com/arca-lignea-infosec/buffer-overflow-exploit",
+    "keywords": [
+        "address leak vulnerability",
+        "address leak exploit"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "buffer-overflow-exploit",
+    "repo_owner": "arca-lignea-infosec",
+    "repotime": "2019-02-21, 16:04:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2202,
+    "date_started": "2019-02-13",
+    "date_updated": "2019-02-13",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/webmontagks/Local-File-Inclusion-Remote-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Local-File-Inclusion-Remote-File-Inclusion",
+    "repo_owner": "webmontagks",
+    "repotime": "2019-02-13, 11:33:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 150,
+    "date_started": "2017-12-13",
+    "date_updated": "2019-02-07",
+    "description": "Red-team tool to hook libc read syscall with a buffer overflow vulnerability.",
+    "forks_count": 6,
+    "html_url": "https://github.com/PLEXSolutions/readhook",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "C",
+    "repo_name": "readhook",
+    "repo_owner": "PLEXSolutions",
+    "repotime": "2019-02-07, 11:51:18",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}

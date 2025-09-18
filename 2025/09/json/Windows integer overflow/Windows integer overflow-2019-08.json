@@ -1,0 +1,36 @@
+{
+    "commits_count": 9,
+    "date_started": "2019-08-19",
+    "date_updated": "2019-08-17",
+    "description": "Exploiting stored XSS vulnerability to hijack sessions",
+    "forks_count": 1,
+    "html_url": "https://github.com/zenzue/XSS-Session-Hijacking-Simulator",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking vulnerability",
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "XSS-Session-Hijacking-Simulator",
+    "repo_owner": "zenzue",
+    "repotime": "2019-08-17, 19:17:35",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 16,
+    "date_started": "2019-08-13",
+    "date_updated": "2019-08-15",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/Gu4rana/Using_ROP_Bypassing_DEP",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Python",
+    "repo_name": "Using_ROP_Bypassing_DEP",
+    "repo_owner": "Gu4rana",
+    "repotime": "2019-08-15, 23:52:10",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}

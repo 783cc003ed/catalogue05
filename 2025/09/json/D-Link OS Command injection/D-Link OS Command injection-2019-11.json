@@ -1,0 +1,137 @@
+{
+    "commits_count": 18,
+    "date_started": "2019-11-14",
+    "date_updated": "2019-11-29",
+    "description": "Using this script, you can enumerate Usernames and passwords of Nosql(mongodb) injecion vulnerable web applications. ",
+    "forks_count": 36,
+    "html_url": "https://github.com/an0nlk/Nosql-MongoDB-injection-username-password-enumeration",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "Nosql-MongoDB-injection-username-password-enumeration",
+    "repo_owner": "an0nlk",
+    "repotime": "2019-11-29, 12:56:20",
+    "stargazers_count": 172,
+    "watchers_count": 172
+}
+{
+    "commits_count": 31,
+    "date_started": "2019-04-15",
+    "date_updated": "2019-11-27",
+    "description": "Apache Tomcat Remote Code Execution on Windows",
+    "forks_count": 55,
+    "html_url": "https://github.com/pyn3rd/CVE-2019-0232",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Batchfile",
+    "repo_name": "CVE-2019-0232",
+    "repo_owner": "pyn3rd",
+    "repotime": "2019-11-27, 15:39:39",
+    "stargazers_count": 187,
+    "watchers_count": 187
+}
+{
+    "commits_count": 32,
+    "date_started": "2019-10-29",
+    "date_updated": "2019-11-24",
+    "description": "PE Binary Shellcode Injector - Automated code cave discovery, shellcode injection, ASLR bypass, x86/x64 compatible",
+    "forks_count": 19,
+    "html_url": "https://github.com/ins1gn1a/Frampton",
+    "keywords": [
+        "aslr bypass",
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "Frampton",
+    "repo_owner": "ins1gn1a",
+    "repotime": "2019-11-24, 22:34:47",
+    "stargazers_count": 77,
+    "watchers_count": 77
+}
+{
+    "commits_count": 7,
+    "date_started": "2019-01-03",
+    "date_updated": "2019-11-22",
+    "description": "A tool that finds and scan sites for sql injection vulnerability",
+    "forks_count": 36,
+    "html_url": "https://github.com/Bitwise-01/SQL-scanner",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "SQL-scanner",
+    "repo_owner": "Bitwise-01",
+    "repotime": "2019-11-22, 13:39:31",
+    "stargazers_count": 157,
+    "watchers_count": 157
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-11-19",
+    "date_updated": "2019-11-20",
+    "description": "Scripts that can be used to exploit CVE-2019-15972 which was an Authenticated SQLi issue in Cisco Unified Call Manager (UCM).",
+    "forks_count": 8,
+    "html_url": "https://github.com/FSecureLABS/Cisco-UCM-SQLi-Scripts",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "Cisco-UCM-SQLi-Scripts",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2019-11-20, 10:05:54",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 183,
+    "date_started": "2019-08-04",
+    "date_updated": "2019-11-17",
+    "description": "Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.",
+    "forks_count": 107,
+    "html_url": "https://github.com/RhinoSecurityLabs/ccat",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "ccat",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2019-11-17, 11:16:23",
+    "stargazers_count": 641,
+    "watchers_count": 641
+}
+{
+    "commits_count": 13,
+    "date_started": "2019-10-29",
+    "date_updated": "2019-11-11",
+    "description": "Short PHP script with sample Postman queries to demonstrate XML External Entities (XXE) for the &amp;quot;Secure Software Engineering&amp;quot; (SSE) lecture at Hochschule Mannheim",
+    "forks_count": 1,
+    "html_url": "https://github.com/Mall0c/sse-xxe",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "PHP",
+    "repo_name": "sse-xxe",
+    "repo_owner": "Mall0c",
+    "repotime": "2019-11-11, 15:06:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 21,
+    "date_started": "2018-10-31",
+    "date_updated": "2019-11-02",
+    "description": "Batch Create XML Files using csv injection",
+    "forks_count": 0,
+    "html_url": "https://github.com/csprance/batch-create-items",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "TypeScript",
+    "repo_name": "batch-create-items",
+    "repo_owner": "csprance",
+    "repotime": "2019-11-02, 19:11:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

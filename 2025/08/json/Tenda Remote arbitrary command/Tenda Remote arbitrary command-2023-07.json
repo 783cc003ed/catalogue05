@@ -1,0 +1,522 @@
+{
+    "commits_count": 1,
+    "date_started": "2023-07-30",
+    "date_updated": "2023-07-30",
+    "description": "Telnet Session Hijacking &amp;amp; Command Injection Tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xP1ckl3d/TelJack",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "TelJack",
+    "repo_owner": "0xP1ckl3d",
+    "repotime": "2023-07-30, 10:03:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-07-16",
+    "date_updated": "2023-07-29",
+    "description": "Vibrant Pdf-Manager is a website where you can upload your pdfs/view them share secure access to your pdfs with authenticated users as well as share access with unauthenticated users by generating unique keys. users can also comment / reply on pdfs  ",
+    "forks_count": 0,
+    "html_url": "https://github.com/AnkurPrabhu/Vibrant-PDF-Manager",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Vibrant-PDF-Manager",
+    "repo_owner": "AnkurPrabhu",
+    "repotime": "2023-07-29, 21:13:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 541,
+    "date_started": "2013-10-21",
+    "date_updated": "2023-07-28",
+    "description": "Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns",
+    "forks_count": 420,
+    "html_url": "https://github.com/v3n0m-Scanner/V3n0M-Scanner",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "V3n0M-Scanner",
+    "repo_owner": "v3n0m-Scanner",
+    "repotime": "2023-07-28, 15:05:27",
+    "stargazers_count": 1526,
+    "watchers_count": 1526
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-07-27",
+    "date_updated": "2023-07-27",
+    "description": "CI Way of Modifying Window's File Details using rcedit within a easy to use Github Action",
+    "forks_count": 1,
+    "html_url": "https://github.com/Bioblaze/rcedit-action",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": null,
+    "repo_name": "rcedit-action",
+    "repo_owner": "Bioblaze",
+    "repotime": "2023-07-27, 14:28:00",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-24",
+    "date_updated": "2023-07-24",
+    "description": "A comprehensive website vulnerability scanner script, built in Python, which checks for various vulnerabilities like SQL Injection, XSS, Command Injection, LFI, HTTP verb tampering, File Upload vulnerabilities, Session Fixation, HTTP Parameter Pollution, IDOR, Directory Traversal, and CORS Misconfiguration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mylesgamez/Python-Website-Vulnerability-Scanner",
+    "keywords": [
+        "directory traversal vulnerability",
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Python-Website-Vulnerability-Scanner",
+    "repo_owner": "mylesgamez",
+    "repotime": "2023-07-24, 15:41:23",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 118,
+    "date_started": "2023-06-13",
+    "date_updated": "2023-07-22",
+    "description": "𝗥𝗮𝗱𝗵𝗲 is a tool that automatically enumerates subdomains, checks if they are live, and finds &amp;quot;Unauthenticated cache purge&amp;quot; and &amp;quot;Server-Side Request Forgery (SSRF)&amp;quot; vulnerabilities or issues.",
+    "forks_count": 0,
+    "html_url": "https://github.com/R4HUL-INDIAN/Radhe",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Shell",
+    "repo_name": "Radhe",
+    "repo_owner": "R4HUL-INDIAN",
+    "repotime": "2023-07-22, 17:33:15",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-06-29",
+    "date_updated": "2023-07-12",
+    "description": "Linux kernel LPE practice with an NPD vulnerability",
+    "forks_count": 9,
+    "html_url": "https://github.com/TurtleARM/CVE-2023-3338-DECPwn",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2023-3338-DECPwn",
+    "repo_owner": "TurtleARM",
+    "repotime": "2023-07-12, 01:13:09",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-07-09",
+    "date_updated": "2023-07-09",
+    "description": "A Directory Traversal attack (also known as path traversal) aims to access files and directories that are stored outside the intended folder.",
+    "forks_count": 1,
+    "html_url": "https://github.com/AXRoux/Ghost-Path-Traversal-CVE-2023-32235-",
+    "keywords": [
+        "directory traversal attack",
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Ghost-Path-Traversal-CVE-2023-32235-",
+    "repo_owner": "AXRoux",
+    "repotime": "2023-07-09, 16:03:22",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-04-06",
+    "date_updated": "2023-07-07",
+    "description": "GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept)",
+    "forks_count": 3,
+    "html_url": "https://github.com/Avento/CVE-2023-0669",
+    "keywords": [
+        "rce proof of concept",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-0669",
+    "repo_owner": "Avento",
+    "repotime": "2023-07-07, 18:42:46",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 17,
+    "date_started": "2022-04-22",
+    "date_updated": "2023-07-05",
+    "description": "一个漏洞利用工具仓库",
+    "forks_count": 77,
+    "html_url": "https://github.com/Threekiii/Awesome-Exploit",
+    "keywords": [
+        "rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "Awesome-Exploit",
+    "repo_owner": "Threekiii",
+    "repotime": "2023-07-05, 09:49:54",
+    "stargazers_count": 322,
+    "watchers_count": 322
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-07-30",
+    "date_updated": "2023-07-30",
+    "description": "Telnet Session Hijacking &amp;amp; Command Injection Tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xP1ckl3d/TelJack",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "TelJack",
+    "repo_owner": "0xP1ckl3d",
+    "repotime": "2023-07-30, 10:03:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-07-16",
+    "date_updated": "2023-07-29",
+    "description": "Vibrant Pdf-Manager is a website where you can upload your pdfs/view them share secure access to your pdfs with authenticated users as well as share access with unauthenticated users by generating unique keys. users can also comment / reply on pdfs  ",
+    "forks_count": 0,
+    "html_url": "https://github.com/AnkurPrabhu/Vibrant-PDF-Manager",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Vibrant-PDF-Manager",
+    "repo_owner": "AnkurPrabhu",
+    "repotime": "2023-07-29, 21:13:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 541,
+    "date_started": "2013-10-21",
+    "date_updated": "2023-07-28",
+    "description": "Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns",
+    "forks_count": 420,
+    "html_url": "https://github.com/v3n0m-Scanner/V3n0M-Scanner",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "V3n0M-Scanner",
+    "repo_owner": "v3n0m-Scanner",
+    "repotime": "2023-07-28, 15:05:27",
+    "stargazers_count": 1526,
+    "watchers_count": 1526
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-07-27",
+    "date_updated": "2023-07-27",
+    "description": "CI Way of Modifying Window's File Details using rcedit within a easy to use Github Action",
+    "forks_count": 1,
+    "html_url": "https://github.com/Bioblaze/rcedit-action",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": null,
+    "repo_name": "rcedit-action",
+    "repo_owner": "Bioblaze",
+    "repotime": "2023-07-27, 14:28:00",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-24",
+    "date_updated": "2023-07-24",
+    "description": "A comprehensive website vulnerability scanner script, built in Python, which checks for various vulnerabilities like SQL Injection, XSS, Command Injection, LFI, HTTP verb tampering, File Upload vulnerabilities, Session Fixation, HTTP Parameter Pollution, IDOR, Directory Traversal, and CORS Misconfiguration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mylesgamez/Python-Website-Vulnerability-Scanner",
+    "keywords": [
+        "directory traversal vulnerability",
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Python-Website-Vulnerability-Scanner",
+    "repo_owner": "mylesgamez",
+    "repotime": "2023-07-24, 15:41:23",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 118,
+    "date_started": "2023-06-13",
+    "date_updated": "2023-07-22",
+    "description": "𝗥𝗮𝗱𝗵𝗲 is a tool that automatically enumerates subdomains, checks if they are live, and finds &amp;quot;Unauthenticated cache purge&amp;quot; and &amp;quot;Server-Side Request Forgery (SSRF)&amp;quot; vulnerabilities or issues.",
+    "forks_count": 0,
+    "html_url": "https://github.com/R4HUL-INDIAN/Radhe",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Shell",
+    "repo_name": "Radhe",
+    "repo_owner": "R4HUL-INDIAN",
+    "repotime": "2023-07-22, 17:33:15",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-06-29",
+    "date_updated": "2023-07-12",
+    "description": "Linux kernel LPE practice with an NPD vulnerability",
+    "forks_count": 9,
+    "html_url": "https://github.com/TurtleARM/CVE-2023-3338-DECPwn",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2023-3338-DECPwn",
+    "repo_owner": "TurtleARM",
+    "repotime": "2023-07-12, 01:13:09",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-07-09",
+    "date_updated": "2023-07-09",
+    "description": "A Directory Traversal attack (also known as path traversal) aims to access files and directories that are stored outside the intended folder.",
+    "forks_count": 1,
+    "html_url": "https://github.com/AXRoux/Ghost-Path-Traversal-CVE-2023-32235-",
+    "keywords": [
+        "directory traversal attack",
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Ghost-Path-Traversal-CVE-2023-32235-",
+    "repo_owner": "AXRoux",
+    "repotime": "2023-07-09, 16:03:22",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-04-06",
+    "date_updated": "2023-07-07",
+    "description": "GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept)",
+    "forks_count": 3,
+    "html_url": "https://github.com/Avento/CVE-2023-0669",
+    "keywords": [
+        "rce proof of concept",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-0669",
+    "repo_owner": "Avento",
+    "repotime": "2023-07-07, 18:42:46",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 17,
+    "date_started": "2022-04-22",
+    "date_updated": "2023-07-05",
+    "description": "一个漏洞利用工具仓库",
+    "forks_count": 77,
+    "html_url": "https://github.com/Threekiii/Awesome-Exploit",
+    "keywords": [
+        "rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "Awesome-Exploit",
+    "repo_owner": "Threekiii",
+    "repotime": "2023-07-05, 09:49:54",
+    "stargazers_count": 322,
+    "watchers_count": 322
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-07-30",
+    "date_updated": "2023-07-30",
+    "description": "Telnet Session Hijacking &amp;amp; Command Injection Tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xP1ckl3d/TelJack",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "TelJack",
+    "repo_owner": "0xP1ckl3d",
+    "repotime": "2023-07-30, 10:03:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-07-16",
+    "date_updated": "2023-07-29",
+    "description": "Vibrant Pdf-Manager is a website where you can upload your pdfs/view them share secure access to your pdfs with authenticated users as well as share access with unauthenticated users by generating unique keys. users can also comment / reply on pdfs  ",
+    "forks_count": 0,
+    "html_url": "https://github.com/AnkurPrabhu/Vibrant-PDF-Manager",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Vibrant-PDF-Manager",
+    "repo_owner": "AnkurPrabhu",
+    "repotime": "2023-07-29, 21:13:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 541,
+    "date_started": "2013-10-21",
+    "date_updated": "2023-07-28",
+    "description": "Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns",
+    "forks_count": 419,
+    "html_url": "https://github.com/v3n0m-Scanner/V3n0M-Scanner",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "V3n0M-Scanner",
+    "repo_owner": "v3n0m-Scanner",
+    "repotime": "2023-07-28, 15:05:27",
+    "stargazers_count": 1534,
+    "watchers_count": 1534
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-07-27",
+    "date_updated": "2023-07-27",
+    "description": "CI Way of Modifying Window's File Details using rcedit within a easy to use Github Action",
+    "forks_count": 1,
+    "html_url": "https://github.com/Bioblaze/rcedit-action",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": null,
+    "repo_name": "rcedit-action",
+    "repo_owner": "Bioblaze",
+    "repotime": "2023-07-27, 14:28:00",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-24",
+    "date_updated": "2023-07-24",
+    "description": "A comprehensive website vulnerability scanner script, built in Python, which checks for various vulnerabilities like SQL Injection, XSS, Command Injection, LFI, HTTP verb tampering, File Upload vulnerabilities, Session Fixation, HTTP Parameter Pollution, IDOR, Directory Traversal, and CORS Misconfiguration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mylesgamez/Python-Website-Vulnerability-Scanner",
+    "keywords": [
+        "directory traversal vulnerability",
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Python-Website-Vulnerability-Scanner",
+    "repo_owner": "mylesgamez",
+    "repotime": "2023-07-24, 15:41:23",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 118,
+    "date_started": "2023-06-13",
+    "date_updated": "2023-07-22",
+    "description": "𝗥𝗮𝗱𝗵𝗲 is a tool that automatically enumerates subdomains, checks if they are live, and finds &amp;quot;Unauthenticated cache purge&amp;quot; and &amp;quot;Server-Side Request Forgery (SSRF)&amp;quot; vulnerabilities or issues.",
+    "forks_count": 0,
+    "html_url": "https://github.com/R4HUL-INDIAN/Radhe",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Shell",
+    "repo_name": "Radhe",
+    "repo_owner": "R4HUL-INDIAN",
+    "repotime": "2023-07-22, 17:33:15",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-06-29",
+    "date_updated": "2023-07-12",
+    "description": "Linux kernel LPE practice with an NPD vulnerability",
+    "forks_count": 9,
+    "html_url": "https://github.com/TurtleARM/CVE-2023-3338-DECPwn",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2023-3338-DECPwn",
+    "repo_owner": "TurtleARM",
+    "repotime": "2023-07-12, 01:13:09",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-07-09",
+    "date_updated": "2023-07-09",
+    "description": "A Directory Traversal attack (also known as path traversal) aims to access files and directories that are stored outside the intended folder.",
+    "forks_count": 1,
+    "html_url": "https://github.com/AXRoux/Ghost-Path-Traversal-CVE-2023-32235-",
+    "keywords": [
+        "directory traversal attack",
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Ghost-Path-Traversal-CVE-2023-32235-",
+    "repo_owner": "AXRoux",
+    "repotime": "2023-07-09, 16:03:22",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-04-06",
+    "date_updated": "2023-07-07",
+    "description": "GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept)",
+    "forks_count": 3,
+    "html_url": "https://github.com/Avento/CVE-2023-0669",
+    "keywords": [
+        "rce proof of concept",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-0669",
+    "repo_owner": "Avento",
+    "repotime": "2023-07-07, 18:42:46",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 17,
+    "date_started": "2022-04-22",
+    "date_updated": "2023-07-05",
+    "description": "一个漏洞利用工具仓库",
+    "forks_count": 77,
+    "html_url": "https://github.com/Threekiii/Awesome-Exploit",
+    "keywords": [
+        "rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "Awesome-Exploit",
+    "repo_owner": "Threekiii",
+    "repotime": "2023-07-05, 09:49:54",
+    "stargazers_count": 322,
+    "watchers_count": 322
+}

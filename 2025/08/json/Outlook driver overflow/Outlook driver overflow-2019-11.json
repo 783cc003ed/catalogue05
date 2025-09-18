@@ -46,3 +46,99 @@
     "stargazers_count": 638,
     "watchers_count": 638
 }
+{
+    "commits_count": 1,
+    "date_started": "2019-11-18",
+    "date_updated": "2019-11-18",
+    "description": "BlueKeep is a use-after-free vulnerability, meaning that the program tries to use memory after it is supposed to have discarded it. The vulnerability lies in termdd.sys, which is the RDP kernel driver. A user can exploit this by opening an RDP connection to a remote computer called a channel – in this case a default RDP channel called MS_T210 – and sending specially crafted data to it. The exploit runs code on Windows XP, they said, but warned that it would probably crash Windows 7 or Server 2008 machines. By sending a specially crafted packet an attacker is able to set the value for the Channel ID to something the RDP service isn’t expecting, this causes a memory corruption bug that will create the conditions for Remote Code Execution to occur. Should the attacker choose to follow up with packets designed to take advantage of this flaw remote code execution can be achieved with System user privileges. There are no payloads. This is just a PoC. HOWEVER it is easily ported to an exploit...",
+    "forks_count": 0,
+    "html_url": "https://github.com/sherlocksecurity/Bluekeep-POC",
+    "keywords": [
+        "Windows use after free poc",
+        "Windows use after free exploit",
+        "use after free vulnerability",
+        "Windows remote code execution",
+        "Windows remote code execution poc",
+        "Windows remote code execution vulnerability",
+        "remote code execution poc",
+        "use after free exploit",
+        "Windows remote code execution exploit",
+        "Windows use after free exploitation",
+        "Windows use after free",
+        "Windows use after free vulnerability",
+        "use after free exploitation",
+        "Windows remote code execution exploitation",
+        "use after free poc"
+    ],
+    "language": null,
+    "repo_name": "Bluekeep-POC",
+    "repo_owner": "sherlocksecurity",
+    "repotime": "2019-11-18, 02:21:29",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 183,
+    "date_started": "2019-08-04",
+    "date_updated": "2019-11-17",
+    "description": "Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.",
+    "forks_count": 107,
+    "html_url": "https://github.com/RhinoSecurityLabs/ccat",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "ccat",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2019-11-17, 11:16:23",
+    "stargazers_count": 639,
+    "watchers_count": 639
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-11-18",
+    "date_updated": "2019-11-18",
+    "description": "BlueKeep is a use-after-free vulnerability, meaning that the program tries to use memory after it is supposed to have discarded it. The vulnerability lies in termdd.sys, which is the RDP kernel driver. A user can exploit this by opening an RDP connection to a remote computer called a channel – in this case a default RDP channel called MS_T210 – and sending specially crafted data to it. The exploit runs code on Windows XP, they said, but warned that it would probably crash Windows 7 or Server 2008 machines. By sending a specially crafted packet an attacker is able to set the value for the Channel ID to something the RDP service isn’t expecting, this causes a memory corruption bug that will create the conditions for Remote Code Execution to occur. Should the attacker choose to follow up with packets designed to take advantage of this flaw remote code execution can be achieved with System user privileges. There are no payloads. This is just a PoC. HOWEVER it is easily ported to an exploit...",
+    "forks_count": 0,
+    "html_url": "https://github.com/sherlocksecurity/Bluekeep-POC",
+    "keywords": [
+        "Windows use after free poc",
+        "Windows use after free exploit",
+        "use after free vulnerability",
+        "Windows remote code execution",
+        "Windows remote code execution poc",
+        "Windows remote code execution vulnerability",
+        "remote code execution poc",
+        "use after free exploit",
+        "Windows remote code execution exploit",
+        "Windows use after free exploitation",
+        "Windows use after free",
+        "Windows use after free vulnerability",
+        "use after free exploitation",
+        "Windows remote code execution exploitation",
+        "use after free poc"
+    ],
+    "language": null,
+    "repo_name": "Bluekeep-POC",
+    "repo_owner": "sherlocksecurity",
+    "repotime": "2019-11-18, 02:21:29",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 183,
+    "date_started": "2019-08-04",
+    "date_updated": "2019-11-17",
+    "description": "Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.",
+    "forks_count": 107,
+    "html_url": "https://github.com/RhinoSecurityLabs/ccat",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "ccat",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2019-11-17, 11:16:23",
+    "stargazers_count": 639,
+    "watchers_count": 639
+}

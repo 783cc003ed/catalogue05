@@ -1,0 +1,483 @@
+{
+    "commits_count": 36,
+    "date_started": "2020-02-09",
+    "date_updated": "2024-12-31",
+    "description": "PoCs of (outdated) privilege escalation vulnerability",
+    "forks_count": 6,
+    "html_url": "https://github.com/ScriptKiddieTutorials/Bypass-UAC",
+    "keywords": [
+        "uac bypass",
+        "escalation of privileges poc"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Bypass-UAC",
+    "repo_owner": "ScriptKiddieTutorials",
+    "repotime": "2024-12-31, 22:47:32",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 286,
+    "date_started": "2021-02-26",
+    "date_updated": "2024-12-31",
+    "description": "Local File Inclusion discovery and exploitation tool",
+    "forks_count": 40,
+    "html_url": "https://github.com/hansmach1ne/LFImap",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "LFImap",
+    "repo_owner": "hansmach1ne",
+    "repotime": "2024-12-31, 01:13:47",
+    "stargazers_count": 324,
+    "watchers_count": 324
+}
+{
+    "commits_count": 23,
+    "date_started": "2024-09-26",
+    "date_updated": "2024-12-29",
+    "description": "0day exploits",
+    "forks_count": 1,
+    "html_url": "https://github.com/0xs1ash/Exploits",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Exploits",
+    "repo_owner": "0xs1ash",
+    "repotime": "2024-12-29, 15:00:43",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 40,
+    "date_started": "2024-12-23",
+    "date_updated": "2024-12-28",
+    "description": "An educational project featuring a vulnerable and patched Turkish financial news website to learn about web security, demonstrating XSS, SQL Injection, CWE-863, SSRF, Path Traversal, and Unrestricted File Upload vulnerabilities with fixes",
+    "forks_count": 0,
+    "html_url": "https://github.com/mbatinefe/TurkishFinancialNews",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "PHP",
+    "repo_name": "TurkishFinancialNews",
+    "repo_owner": "mbatinefe",
+    "repotime": "2024-12-28, 23:44:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-12-28",
+    "date_updated": "2024-12-28",
+    "description": "This repository is only for basic training on session hijacking.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rdabbaghi/Session_Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": null,
+    "repo_name": "Session_Hijacking",
+    "repo_owner": "Rdabbaghi",
+    "repotime": "2024-12-28, 08:22:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-12-27",
+    "date_updated": "2024-12-27",
+    "description": "Path Traversal automation vulnerability scanner tool.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pwnosec/ApachSAL",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "ApachSAL",
+    "repo_owner": "pwnosec",
+    "repotime": "2024-12-27, 21:07:15",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 51,
+    "date_started": "2023-11-24",
+    "date_updated": "2024-12-23",
+    "description": "Binary Exploitation Skill. Gain RCE from arbitrary write.",
+    "forks_count": 16,
+    "html_url": "https://github.com/n132/Libc-GOT-Hijacking",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Libc-GOT-Hijacking",
+    "repo_owner": "n132",
+    "repotime": "2024-12-23, 15:54:52",
+    "stargazers_count": 229,
+    "watchers_count": 229
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-12-20",
+    "date_updated": "2024-12-23",
+    "description": "Unauthenticated RCE on CraftCMS when PHP `register_argc_argv` config setting is enabled",
+    "forks_count": 14,
+    "html_url": "https://github.com/Chocapikk/CVE-2024-56145",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-56145",
+    "repo_owner": "Chocapikk",
+    "repotime": "2024-12-23, 13:51:54",
+    "stargazers_count": 47,
+    "watchers_count": 47
+}
+{
+    "commits_count": 32,
+    "date_started": "2024-12-13",
+    "date_updated": "2024-12-20",
+    "description": "A critical vulnerability, CVE-2024-53677, has been identified in the popular Apache Struts framework, potentially allowing attackers to execute arbitrary code remotely. This vulnerability arises from flaws in the file upload logic, which can be exploited to perform path traversal and malicious file uploads.",
+    "forks_count": 31,
+    "html_url": "https://github.com/TAM-K592/CVE-2024-53677-S2-067",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-53677-S2-067",
+    "repo_owner": "TAM-K592",
+    "repotime": "2024-12-20, 18:05:15",
+    "stargazers_count": 92,
+    "watchers_count": 92
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-19",
+    "date_updated": "2024-12-19",
+    "description": "Improper Input Validation in Express.js POST route.  Vulnerable to malicious data causing unexpected behavior or errors.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Express-js--Improper-Input-Validation-in-POST-Route-qf6em",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Express-js--Improper-Input-Validation-in-POST-Route-qf6em",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-19, 19:40:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4657,
+    "date_started": "2023-07-05",
+    "date_updated": "2024-12-19",
+    "description": "The Common Vulnerabilities Exposures (CVE) Database",
+    "forks_count": 14,
+    "html_url": "https://github.com/justakazh/CVE_Database",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE_Database",
+    "repo_owner": "justakazh",
+    "repotime": "2024-12-19, 10:15:20",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-12-18",
+    "date_updated": "2024-12-18",
+    "description": "Server Side Request Forgery Tester",
+    "forks_count": 0,
+    "html_url": "https://github.com/fish-hue/SSRF",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF",
+    "repo_owner": "fish-hue",
+    "repotime": "2024-12-18, 17:00:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 49,
+    "date_started": "2024-11-20",
+    "date_updated": "2024-12-18",
+    "description": "A counterstrike .cfg-framework to dynamically load annotations-files. (bypass the 100 node limit)",
+    "forks_count": 0,
+    "html_url": "https://github.com/xLeiti/Annotations-Chunk-Loader-Cs2",
+    "keywords": [
+        "cfg bypass"
+    ],
+    "language": null,
+    "repo_name": "Annotations-Chunk-Loader-Cs2",
+    "repo_owner": "xLeiti",
+    "repotime": "2024-12-18, 23:42:10",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-12-18",
+    "date_updated": "2024-12-18",
+    "description": "A critical vulnerability, CVE-2024-53677, has been identified in the popular Apache Struts framework, potentially allowing attackers to execute arbitrary code remotely. This vulnerability arises from flaws in the file upload logic, which can be exploited to perform path traversal and malicious file uploads.",
+    "forks_count": 0,
+    "html_url": "https://github.com/XiaomingX/CVE-2024-53677-S2-067",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-53677-S2-067",
+    "repo_owner": "XiaomingX",
+    "repotime": "2024-12-18, 10:08:00",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 29,
+    "date_started": "2021-02-04",
+    "date_updated": "2024-12-17",
+    "description": "Sweetuu is a Advance Shell which can be used to achieve RCE easily through LFI &amp;amp; RFI. For easy wins in bug bounty, upload sweetuu instead of any other php code.",
+    "forks_count": 1,
+    "html_url": "https://github.com/cspshivam/sweetuu",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "PHP",
+    "repo_name": "sweetuu",
+    "repo_owner": "cspshivam",
+    "repotime": "2024-12-17, 02:02:11",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 21,
+    "date_started": "2024-10-19",
+    "date_updated": "2024-12-16",
+    "description": "Exploit for Grafana arbitrary file-read and RCE (CVE-2024-9264)",
+    "forks_count": 18,
+    "html_url": "https://github.com/nollium/CVE-2024-9264",
+    "keywords": [
+        "rce vulnerability",
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-9264",
+    "repo_owner": "nollium",
+    "repotime": "2024-12-16, 21:15:28",
+    "stargazers_count": 125,
+    "watchers_count": 125
+}
+{
+    "commits_count": 254,
+    "date_started": "2021-05-08",
+    "date_updated": "2024-12-16",
+    "description": "LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) vulnerabilities on a server.",
+    "forks_count": 26,
+    "html_url": "https://github.com/kostas-pa/LFITester",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "LFITester",
+    "repo_owner": "kostas-pa",
+    "repotime": "2024-12-16, 05:31:04",
+    "stargazers_count": 109,
+    "watchers_count": 109
+}
+{
+    "commits_count": 46,
+    "date_started": "2024-08-11",
+    "date_updated": "2024-12-15",
+    "description": "Test/stress tool for Windows that creates typical application faults, like a memory leak, freezes ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/codingABI/appFaults",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C++",
+    "repo_name": "appFaults",
+    "repo_owner": "codingABI",
+    "repotime": "2024-12-15, 16:37:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-12-14",
+    "date_updated": "2024-12-14",
+    "description": "ALFA v4 TESLA Remote Code Execution",
+    "forks_count": 1,
+    "html_url": "https://github.com/wongalus7/alfashell-unauthenticated-rce",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "alfashell-unauthenticated-rce",
+    "repo_owner": "wongalus7",
+    "repotime": "2024-12-14, 18:37:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 28,
+    "date_started": "2024-11-13",
+    "date_updated": "2024-12-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/zyr1on/WebMin-1.890-Unauthenticated-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "WebMin-1.890-Unauthenticated-RCE",
+    "repo_owner": "zyr1on",
+    "repotime": "2024-12-14, 09:49:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-12-12",
+    "date_updated": "2024-12-12",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/SimonSiefke/chrome-devtools-memory-leak",
+    "keywords": [
+        "Chrome memory leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "chrome-devtools-memory-leak",
+    "repo_owner": "SimonSiefke",
+    "repotime": "2024-12-12, 23:53:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 241,
+    "date_started": "2024-08-14",
+    "date_updated": "2024-12-10",
+    "description": "Webpage for Bueler's course in numerical analysis (MATH 426) at UAF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bueler/numerical",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "numerical",
+    "repo_owner": "bueler",
+    "repotime": "2024-12-10, 17:42:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-07-28",
+    "date_updated": "2024-12-10",
+    "description": "Pen Hunter is a comprehensive vulnerability scanning tool designed for penetration testers, security researchers and bug bounties. it automates the process of collecting subdomains and URLs and tests them for various vulnerabilities including XSS, SQL Injection, Local File Inclusion, Open Redirect, Server-Side Request Forgery, CSRF, and RCE.",
+    "forks_count": 4,
+    "html_url": "https://github.com/cc1a2b/PenHunter",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Shell",
+    "repo_name": "PenHunter",
+    "repo_owner": "cc1a2b",
+    "repotime": "2024-12-10, 21:47:39",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 28,
+    "date_started": "2024-10-20",
+    "date_updated": "2024-12-08",
+    "description": "Have you ever successfully found a vulnerability that is exploitable after going through the stages of →Information GATHERING → Enumeration → Exploitation using Metersploit, after successfully gaining access to the target host; only to find that your meterpreter session from this pivot point is not stable?",
+    "forks_count": 1,
+    "html_url": "https://github.com/fort3/Ipivot",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Ipivot",
+    "repo_owner": "fort3",
+    "repotime": "2024-12-08, 09:42:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-12-06",
+    "date_updated": "2024-12-07",
+    "description": "CVE-2024-10914 D-Link Remote Code Execution (RCE)",
+    "forks_count": 0,
+    "html_url": "https://github.com/redspy-sec/D-Link",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "D-Link",
+    "repo_owner": "redspy-sec",
+    "repotime": "2024-12-07, 13:02:30",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-11-30",
+    "date_updated": "2024-12-05",
+    "description": "This application manages database entities using the Guice IoC framework for dependency injection and the DAO pattern for database access. It features flexible database configuration through embedded .properties or external XML files and uses the Factory Pattern to dynamically configure database connections.",
+    "forks_count": 0,
+    "html_url": "https://github.com/LeiZhou-Dip-Ing/DB_Operate_DAO",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Java",
+    "repo_name": "DB_Operate_DAO",
+    "repo_owner": "LeiZhou-Dip-Ing",
+    "repotime": "2024-12-05, 09:47:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2024-11-11",
+    "date_updated": "2024-12-02",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/rcmcphee/RCE_Static_Analysis_Tool",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Python",
+    "repo_name": "RCE_Static_Analysis_Tool",
+    "repo_owner": "rcmcphee",
+    "repotime": "2024-12-02, 10:03:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 56,
+    "date_started": "2015-05-16",
+    "date_updated": "2024-12-01",
+    "description": "Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods.",
+    "forks_count": 319,
+    "html_url": "https://github.com/enjoiz/XXEinjector",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Ruby",
+    "repo_name": "XXEinjector",
+    "repo_owner": "enjoiz",
+    "repotime": "2024-12-01, 16:25:27",
+    "stargazers_count": 1669,
+    "watchers_count": 1669
+}

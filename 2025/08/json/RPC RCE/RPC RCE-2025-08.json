@@ -1,0 +1,68 @@
+{
+    "commits_count": 6,
+    "date_started": "2025-07-13",
+    "date_updated": "2025-08-03",
+    "description": "Malicious-ONNX is a proof-of-concept (PoC) demonstrating how ONNX model files can be weaponized using metadata-based payload injection. The attack leverages the metadata_props field to embed an obfuscated Python-based script, enabling remote code execution (RCE) and data exfiltration upon model loading.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Michael-Obs66/RCE-Via-Metadata-ONNX-Model",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "RCE-Via-Metadata-ONNX-Model",
+    "repo_owner": "Michael-Obs66",
+    "repotime": "2025-08-03, 11:26:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-07-13",
+    "date_updated": "2025-08-03",
+    "description": "Malicious-ONNX is a proof-of-concept (PoC) demonstrating how ONNX model files can be weaponized using metadata-based payload injection. The attack leverages the metadata_props field to embed an obfuscated Python-based script, enabling remote code execution (RCE) and data exfiltration upon model loading.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Michael-Obs66/RCE-Via-Metadata-ONNX-Model",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "RCE-Via-Metadata-ONNX-Model",
+    "repo_owner": "Michael-Obs66",
+    "repotime": "2025-08-03, 11:26:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2188,
+    "date_started": "2019-09-10",
+    "date_updated": "2025-08-20",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 294,
+    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "TongchengOpenSource",
+    "repotime": "2025-08-20, 19:43:47",
+    "stargazers_count": 1539,
+    "watchers_count": 1539
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-07-13",
+    "date_updated": "2025-08-03",
+    "description": "Malicious-ONNX is a proof-of-concept (PoC) demonstrating how ONNX model files can be weaponized using metadata-based payload injection. The attack leverages the metadata_props field to embed an obfuscated Python-based script, enabling remote code execution (RCE) and data exfiltration upon model loading.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Michael-Obs66/RCE-Via-Metadata-ONNX-Model",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "RCE-Via-Metadata-ONNX-Model",
+    "repo_owner": "Michael-Obs66",
+    "repotime": "2025-08-03, 11:26:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

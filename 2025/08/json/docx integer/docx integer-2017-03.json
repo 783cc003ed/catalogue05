@@ -66,3 +66,139 @@
     "stargazers_count": 136,
     "watchers_count": 136
 }
+{
+    "commits_count": 9,
+    "date_started": "2017-03-08",
+    "date_updated": "2017-03-23",
+    "description": "Apache Struts Remote Code Execution",
+    "forks_count": 6,
+    "html_url": "https://github.com/Svti/StrutsExploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Java",
+    "repo_name": "StrutsExploit",
+    "repo_owner": "Svti",
+    "repotime": "2017-03-23, 13:22:51",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 38,
+    "date_started": "2016-02-21",
+    "date_updated": "2017-03-14",
+    "description": "Rx based event bus that doesn't leak memory",
+    "forks_count": 0,
+    "html_url": "https://github.com/hansenji/PocketBus",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "Java",
+    "repo_name": "PocketBus",
+    "repo_owner": "hansenji",
+    "repotime": "2017-03-14, 09:27:09",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 235,
+    "date_started": "2012-10-31",
+    "date_updated": "2017-03-13",
+    "description": "Dynamic Code Injection Tool for Objective-C",
+    "forks_count": 121,
+    "html_url": "https://github.com/DyCI/dyci-main",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "dyci-main",
+    "repo_owner": "DyCI",
+    "repotime": "2017-03-13, 22:48:27",
+    "stargazers_count": 1116,
+    "watchers_count": 1116
+}
+{
+    "commits_count": 50,
+    "date_started": "2016-05-30",
+    "date_updated": "2017-03-04",
+    "description": "&amp;quot;Repeater&amp;quot; style XSS post-exploitation tool for mass browser control. Primarily a PoC to show why HttpOnly flag isn't a complete protection against session hijacking via XSS",
+    "forks_count": 48,
+    "html_url": "https://github.com/Danladi/HttpPwnly",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "HTML",
+    "repo_name": "HttpPwnly",
+    "repo_owner": "Danladi",
+    "repotime": "2017-03-04, 20:54:55",
+    "stargazers_count": 136,
+    "watchers_count": 136
+}
+{
+    "commits_count": 9,
+    "date_started": "2017-03-08",
+    "date_updated": "2017-03-23",
+    "description": "Apache Struts Remote Code Execution",
+    "forks_count": 6,
+    "html_url": "https://github.com/Svti/StrutsExploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Java",
+    "repo_name": "StrutsExploit",
+    "repo_owner": "Svti",
+    "repotime": "2017-03-23, 13:22:51",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 38,
+    "date_started": "2016-02-21",
+    "date_updated": "2017-03-14",
+    "description": "Rx based event bus that doesn't leak memory",
+    "forks_count": 0,
+    "html_url": "https://github.com/hansenji/PocketBus",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "Java",
+    "repo_name": "PocketBus",
+    "repo_owner": "hansenji",
+    "repotime": "2017-03-14, 09:27:09",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 235,
+    "date_started": "2012-10-31",
+    "date_updated": "2017-03-13",
+    "description": "Dynamic Code Injection Tool for Objective-C",
+    "forks_count": 122,
+    "html_url": "https://github.com/DyCI/dyci-main",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "dyci-main",
+    "repo_owner": "DyCI",
+    "repotime": "2017-03-13, 22:48:27",
+    "stargazers_count": 1117,
+    "watchers_count": 1117
+}
+{
+    "commits_count": 50,
+    "date_started": "2016-05-30",
+    "date_updated": "2017-03-04",
+    "description": "&amp;quot;Repeater&amp;quot; style XSS post-exploitation tool for mass browser control. Primarily a PoC to show why HttpOnly flag isn't a complete protection against session hijacking via XSS",
+    "forks_count": 48,
+    "html_url": "https://github.com/Danladi/HttpPwnly",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "HTML",
+    "repo_name": "HttpPwnly",
+    "repo_owner": "Danladi",
+    "repotime": "2017-03-04, 20:54:55",
+    "stargazers_count": 136,
+    "watchers_count": 136
+}

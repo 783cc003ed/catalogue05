@@ -199,3 +199,405 @@
     "stargazers_count": 8,
     "watchers_count": 8
 }
+{
+    "commits_count": 2,
+    "date_started": "2021-09-29",
+    "date_updated": "2021-09-30",
+    "description": "According to researchers with Rapid7, over 110,000 devices appear on internet, which run stable Samba versions, while 92,500 seem to run unstable Samba versions, for which there is no fix. The newest Samba models, including the models 4.6.x before 4.6.4, 4.5.x before 4.5.10 and 3.5.0 before 4.4.13, was impacted by this error. May 24, 2017, Samba released version 4.6.4, which fixes a serious remote code execution vulnerability, vulnerability number CVE-2017-7494, which affected Samba 3.5.0 onwards.  Vulnerability number: CVE-2017-7494 Severity Rating: High Affected software:     • Samba Version &amp;lt; 4.6.4     • Samba Version &amp;lt; 4.5.10     • Samba Version &amp;lt; 4.4.14  Unaffected software:     • Samba Version = 4.6.4     • Samba Version = 4.5.10     • Samba Version = 4.4.14",
+    "forks_count": 0,
+    "html_url": "https://github.com/adjaliya/-CVE-2017-7494-Samba-Exploit-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "-CVE-2017-7494-Samba-Exploit-POC",
+    "repo_owner": "adjaliya",
+    "repotime": "2021-09-30, 02:05:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 36,
+    "date_started": "2015-09-18",
+    "date_updated": "2021-09-26",
+    "description": "Exploits by 1N3 @CrowdShield @xer0dayz @XeroSecurity",
+    "forks_count": 103,
+    "html_url": "https://github.com/1N3/Exploits",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Exploits",
+    "repo_owner": "1N3",
+    "repotime": "2021-09-26, 18:47:12",
+    "stargazers_count": 204,
+    "watchers_count": 204
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-20",
+    "date_updated": "2021-09-26",
+    "description": "CVE-2021-38647 - POC to exploit unauthenticated RCE &amp;&#35;35;OMIGOD",
+    "forks_count": 21,
+    "html_url": "https://github.com/AlteredSecurity/CVE-2021-38647",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce exploitation",
+        "unauthenticated rce"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2021-38647",
+    "repo_owner": "AlteredSecurity",
+    "repotime": "2021-09-26, 10:06:33",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-09-16",
+    "date_updated": "2021-09-16",
+    "description": "A PoC exploit for CVE-2021-38647 RCE in OMI",
+    "forks_count": 7,
+    "html_url": "https://github.com/Immersive-Labs-Sec/cve-2021-38647",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2021-38647",
+    "repo_owner": "Immersive-Labs-Sec",
+    "repotime": "2021-09-16, 15:50:52",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-15",
+    "date_updated": "2021-09-15",
+    "description": "CVE-2021-38647 POC for RCE",
+    "forks_count": 5,
+    "html_url": "https://github.com/midoxnet/CVE-2021-38647",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-38647",
+    "repo_owner": "midoxnet",
+    "repotime": "2021-09-15, 22:48:10",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-09-03",
+    "date_updated": "2021-09-15",
+    "description": "Discord exploit allowing you to be unbannable.",
+    "forks_count": 1,
+    "html_url": "https://github.com/dehoisted/Ban-Immunity",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Ban-Immunity",
+    "repo_owner": "dehoisted",
+    "repotime": "2021-09-15, 15:31:16",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-07-03",
+    "date_updated": "2021-09-13",
+    "description": "PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits",
+    "forks_count": 40,
+    "html_url": "https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows lpe exploit",
+        "Windows rce",
+        "Windows lpe",
+        "Windows lpe vulnerability",
+        "Windows rce exploit",
+        "lpe vulnerability",
+        "rce exploitation",
+        "Windows rce proof of concept",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "rce proof of concept",
+        "rce vulnerability",
+        "lpe proof of concept",
+        "Windows lpe proof of concept",
+        "Windows rce vulnerability",
+        "lpe exploitation",
+        "rce exploit"
+    ],
+    "language": "C",
+    "repo_name": "PrintNightmare-CVE-2021-34527",
+    "repo_owner": "nemo-wq",
+    "repotime": "2021-09-13, 22:12:16",
+    "stargazers_count": 153,
+    "watchers_count": 153
+}
+{
+    "commits_count": 18,
+    "date_started": "2020-04-02",
+    "date_updated": "2021-09-09",
+    "description": "Python bind shell single line code for both Unix and Windows, used to find and exploit RCE (ImageMagick, Ghostscript, ...)",
+    "forks_count": 8,
+    "html_url": "https://github.com/shelld3v/RCE-python-oneliner-payload",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows rce",
+        "rce exploitation",
+        "Windows rce exploit"
+    ],
+    "language": null,
+    "repo_name": "RCE-python-oneliner-payload",
+    "repo_owner": "shelld3v",
+    "repotime": "2021-09-09, 20:36:01",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-03-25",
+    "date_updated": "2021-09-04",
+    "description": "Vulnerability analysis and PoC for the Apache Tomcat - CGIServlet enableCmdLineArguments Remote Code Execution (RCE)",
+    "forks_count": 10,
+    "html_url": "https://github.com/jaiguptanick/CVE-2019-0232",
+    "keywords": [
+        "remote code execution analysis",
+        "rce analysis",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-0232",
+    "repo_owner": "jaiguptanick",
+    "repotime": "2021-09-04, 06:15:00",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 129,
+    "date_started": "2021-08-05",
+    "date_updated": "2021-09-01",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology",
+    "keywords": [
+        "0day vulnerability",
+        "0day analysis"
+    ],
+    "language": null,
+    "repo_name": "0day-security-software-vulnerability-analysis-technology",
+    "repo_owner": "git3345678git",
+    "repotime": "2021-09-01, 22:33:42",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-09-29",
+    "date_updated": "2021-09-30",
+    "description": "According to researchers with Rapid7, over 110,000 devices appear on internet, which run stable Samba versions, while 92,500 seem to run unstable Samba versions, for which there is no fix. The newest Samba models, including the models 4.6.x before 4.6.4, 4.5.x before 4.5.10 and 3.5.0 before 4.4.13, was impacted by this error. May 24, 2017, Samba released version 4.6.4, which fixes a serious remote code execution vulnerability, vulnerability number CVE-2017-7494, which affected Samba 3.5.0 onwards.  Vulnerability number: CVE-2017-7494 Severity Rating: High Affected software:     • Samba Version &amp;lt; 4.6.4     • Samba Version &amp;lt; 4.5.10     • Samba Version &amp;lt; 4.4.14  Unaffected software:     • Samba Version = 4.6.4     • Samba Version = 4.5.10     • Samba Version = 4.4.14",
+    "forks_count": 0,
+    "html_url": "https://github.com/adjaliya/-CVE-2017-7494-Samba-Exploit-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "-CVE-2017-7494-Samba-Exploit-POC",
+    "repo_owner": "adjaliya",
+    "repotime": "2021-09-30, 02:05:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 36,
+    "date_started": "2015-09-18",
+    "date_updated": "2021-09-26",
+    "description": "Exploits by 1N3 @CrowdShield @xer0dayz @XeroSecurity",
+    "forks_count": 103,
+    "html_url": "https://github.com/1N3/Exploits",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Exploits",
+    "repo_owner": "1N3",
+    "repotime": "2021-09-26, 18:47:12",
+    "stargazers_count": 204,
+    "watchers_count": 204
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-20",
+    "date_updated": "2021-09-26",
+    "description": "CVE-2021-38647 - POC to exploit unauthenticated RCE &amp;&#35;35;OMIGOD",
+    "forks_count": 21,
+    "html_url": "https://github.com/AlteredSecurity/CVE-2021-38647",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce exploitation",
+        "unauthenticated rce"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2021-38647",
+    "repo_owner": "AlteredSecurity",
+    "repotime": "2021-09-26, 10:06:33",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-09-16",
+    "date_updated": "2021-09-16",
+    "description": "A PoC exploit for CVE-2021-38647 RCE in OMI",
+    "forks_count": 7,
+    "html_url": "https://github.com/Immersive-Labs-Sec/cve-2021-38647",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2021-38647",
+    "repo_owner": "Immersive-Labs-Sec",
+    "repotime": "2021-09-16, 15:50:52",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-15",
+    "date_updated": "2021-09-15",
+    "description": "CVE-2021-38647 POC for RCE",
+    "forks_count": 5,
+    "html_url": "https://github.com/midoxnet/CVE-2021-38647",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-38647",
+    "repo_owner": "midoxnet",
+    "repotime": "2021-09-15, 22:48:10",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-09-03",
+    "date_updated": "2021-09-15",
+    "description": "Discord exploit allowing you to be unbannable.",
+    "forks_count": 1,
+    "html_url": "https://github.com/dehoisted/Ban-Immunity",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Ban-Immunity",
+    "repo_owner": "dehoisted",
+    "repotime": "2021-09-15, 15:31:16",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-07-03",
+    "date_updated": "2021-09-13",
+    "description": "PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits",
+    "forks_count": 40,
+    "html_url": "https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows lpe exploit",
+        "Windows rce",
+        "Windows lpe",
+        "Windows lpe vulnerability",
+        "Windows rce exploit",
+        "lpe vulnerability",
+        "rce exploitation",
+        "Windows rce proof of concept",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "rce proof of concept",
+        "rce vulnerability",
+        "lpe proof of concept",
+        "Windows lpe proof of concept",
+        "Windows rce vulnerability",
+        "lpe exploitation",
+        "rce exploit"
+    ],
+    "language": "C",
+    "repo_name": "PrintNightmare-CVE-2021-34527",
+    "repo_owner": "nemo-wq",
+    "repotime": "2021-09-13, 22:12:16",
+    "stargazers_count": 152,
+    "watchers_count": 152
+}
+{
+    "commits_count": 18,
+    "date_started": "2020-04-02",
+    "date_updated": "2021-09-09",
+    "description": "Python bind shell single line code for both Unix and Windows, used to find and exploit RCE (ImageMagick, Ghostscript, ...)",
+    "forks_count": 8,
+    "html_url": "https://github.com/shelld3v/RCE-python-oneliner-payload",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows rce",
+        "rce exploitation",
+        "Windows rce exploit"
+    ],
+    "language": null,
+    "repo_name": "RCE-python-oneliner-payload",
+    "repo_owner": "shelld3v",
+    "repotime": "2021-09-09, 20:36:01",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-03-25",
+    "date_updated": "2021-09-04",
+    "description": "Vulnerability analysis and PoC for the Apache Tomcat - CGIServlet enableCmdLineArguments Remote Code Execution (RCE)",
+    "forks_count": 10,
+    "html_url": "https://github.com/jaiguptanick/CVE-2019-0232",
+    "keywords": [
+        "remote code execution analysis",
+        "rce analysis",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-0232",
+    "repo_owner": "jaiguptanick",
+    "repotime": "2021-09-04, 06:15:00",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 129,
+    "date_started": "2021-08-05",
+    "date_updated": "2021-09-01",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology",
+    "keywords": [
+        "0day vulnerability",
+        "0day analysis"
+    ],
+    "language": null,
+    "repo_name": "0day-security-software-vulnerability-analysis-technology",
+    "repo_owner": "git3345678git",
+    "repotime": "2021-09-01, 22:33:42",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}

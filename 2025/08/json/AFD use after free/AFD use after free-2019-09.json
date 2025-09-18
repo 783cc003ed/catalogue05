@@ -1,0 +1,324 @@
+{
+    "commits_count": 1,
+    "date_started": "2019-09-25",
+    "date_updated": "2019-09-25",
+    "description": "Overview  In this project, we will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. We will write code to import the data and answer interesting questions about it by computing descriptive statistics. We will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.  What Software Do I Need?  To complete this project, the following software requirements apply:  We should have Python 3, NumPy, and pandas installed Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs (image: Wikipedia) Bike Share Data Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they ca...",
+    "forks_count": 1,
+    "html_url": "https://github.com/RamlathH/BIke-Sharing-System",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "HTML",
+    "repo_name": "BIke-Sharing-System",
+    "repo_owner": "RamlathH",
+    "repotime": "2019-09-25, 21:25:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-06-29",
+    "date_updated": "2019-09-25",
+    "description": "CollabOzark is a simple tool which helps the researchers track SSRF, RCE, Blind XSS, XXE, External Resource Access payloads triggers.",
+    "forks_count": 33,
+    "html_url": "https://github.com/securityidiots/CollabOzark",
+    "keywords": [
+        "ssrf",
+        "xxe"
+    ],
+    "language": "PHP",
+    "repo_name": "CollabOzark",
+    "repo_owner": "securityidiots",
+    "repotime": "2019-09-25, 11:38:18",
+    "stargazers_count": 137,
+    "watchers_count": 137
+}
+{
+    "commits_count": 107,
+    "date_started": "2019-09-20",
+    "date_updated": "2019-09-20",
+    "description": "Writing 50 POC's for exploits from scratch as practice for OSCE, all BOF. Including: Vannila, SEH, egghunters, ASLR/DEP/NX bypassing",
+    "forks_count": 1,
+    "html_url": "https://github.com/catsmells/Windows-Exploit-Development-practice",
+    "keywords": [
+        "dep bypass",
+        "Win aslr bypass",
+        "Windows aslr bypass exploitation",
+        "Windows aslr bypass",
+        "aslr bypass exploitation",
+        "Win aslr bypass exploit",
+        "aslr bypass",
+        "Windows aslr bypass exploit",
+        "aslr bypass poc",
+        "aslr bypass exploit",
+        "Windows aslr bypass poc",
+        "Win aslr bypass poc",
+        "Win aslr bypass exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Windows-Exploit-Development-practice",
+    "repo_owner": "catsmells",
+    "repotime": "2019-09-20, 02:31:30",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 9,
+    "date_started": "2019-09-07",
+    "date_updated": "2019-09-16",
+    "description": "initial exploit for CVE-2019-0708, BlueKeep CVE-2019-0708 BlueKeep RDP Remote Windows Kernel Use After Free  The RDP termdd.sys driver improperly handles binds to internal-only channel MS_T120, allowing a malformed Disconnect Provider Indication message to cause use-after-free. With a controllable data/size remote nonpaged pool spray, an indirect call gadget of the freed channel is used to achieve arbitrary code execution.",
+    "forks_count": 15,
+    "html_url": "https://github.com/wqsemc/CVE-2019-0708",
+    "keywords": [
+        "Windows use after free",
+        "Windows remote code execution",
+        "Windows use after free exploit",
+        "use after free exploitation",
+        "remote code execution exploitation",
+        "Windows remote code execution exploit",
+        "Windows remote code execution exploitation",
+        "Windows use after free exploitation",
+        "use after free exploit",
+        "remote code execution exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2019-0708",
+    "repo_owner": "wqsemc",
+    "repotime": "2019-09-16, 18:35:56",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 12,
+    "date_started": "2019-09-12",
+    "date_updated": "2019-09-12",
+    "description": "Repository to hold Kernel code that can be used in exploitation or LPE's",
+    "forks_count": 0,
+    "html_url": "https://github.com/jstigerwalt/Frantic",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "Assembly",
+    "repo_name": "Frantic",
+    "repo_owner": "jstigerwalt",
+    "repotime": "2019-09-12, 16:08:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-09-25",
+    "date_updated": "2019-09-25",
+    "description": "Overview  In this project, we will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. We will write code to import the data and answer interesting questions about it by computing descriptive statistics. We will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.  What Software Do I Need?  To complete this project, the following software requirements apply:  We should have Python 3, NumPy, and pandas installed Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs (image: Wikipedia) Bike Share Data Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they ca...",
+    "forks_count": 1,
+    "html_url": "https://github.com/RamlathH/BIke-Sharing-System",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "HTML",
+    "repo_name": "BIke-Sharing-System",
+    "repo_owner": "RamlathH",
+    "repotime": "2019-09-25, 21:25:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-06-29",
+    "date_updated": "2019-09-25",
+    "description": "CollabOzark is a simple tool which helps the researchers track SSRF, RCE, Blind XSS, XXE, External Resource Access payloads triggers.",
+    "forks_count": 33,
+    "html_url": "https://github.com/securityidiots/CollabOzark",
+    "keywords": [
+        "ssrf",
+        "xxe"
+    ],
+    "language": "PHP",
+    "repo_name": "CollabOzark",
+    "repo_owner": "securityidiots",
+    "repotime": "2019-09-25, 11:38:18",
+    "stargazers_count": 137,
+    "watchers_count": 137
+}
+{
+    "commits_count": 107,
+    "date_started": "2019-09-20",
+    "date_updated": "2019-09-20",
+    "description": "Writing 50 POC's for exploits from scratch as practice for OSCE, all BOF. Including: Vannila, SEH, egghunters, ASLR/DEP/NX bypassing",
+    "forks_count": 1,
+    "html_url": "https://github.com/catsmells/Windows-Exploit-Development-practice",
+    "keywords": [
+        "dep bypass",
+        "Win aslr bypass",
+        "Windows aslr bypass exploitation",
+        "Windows aslr bypass",
+        "aslr bypass exploitation",
+        "Win aslr bypass exploit",
+        "aslr bypass",
+        "Windows aslr bypass exploit",
+        "aslr bypass poc",
+        "aslr bypass exploit",
+        "Windows aslr bypass poc",
+        "Win aslr bypass poc",
+        "Win aslr bypass exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Windows-Exploit-Development-practice",
+    "repo_owner": "catsmells",
+    "repotime": "2019-09-20, 02:31:30",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 9,
+    "date_started": "2019-09-07",
+    "date_updated": "2019-09-16",
+    "description": "initial exploit for CVE-2019-0708, BlueKeep CVE-2019-0708 BlueKeep RDP Remote Windows Kernel Use After Free  The RDP termdd.sys driver improperly handles binds to internal-only channel MS_T120, allowing a malformed Disconnect Provider Indication message to cause use-after-free. With a controllable data/size remote nonpaged pool spray, an indirect call gadget of the freed channel is used to achieve arbitrary code execution.",
+    "forks_count": 15,
+    "html_url": "https://github.com/wqsemc/CVE-2019-0708",
+    "keywords": [
+        "Windows use after free",
+        "Windows remote code execution",
+        "Windows use after free exploit",
+        "use after free exploitation",
+        "remote code execution exploitation",
+        "Windows remote code execution exploit",
+        "Windows remote code execution exploitation",
+        "Windows use after free exploitation",
+        "use after free exploit",
+        "remote code execution exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2019-0708",
+    "repo_owner": "wqsemc",
+    "repotime": "2019-09-16, 18:35:56",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 12,
+    "date_started": "2019-09-12",
+    "date_updated": "2019-09-12",
+    "description": "Repository to hold Kernel code that can be used in exploitation or LPE's",
+    "forks_count": 0,
+    "html_url": "https://github.com/jstigerwalt/Frantic",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "Assembly",
+    "repo_name": "Frantic",
+    "repo_owner": "jstigerwalt",
+    "repotime": "2019-09-12, 16:08:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-09-25",
+    "date_updated": "2019-09-25",
+    "description": "Overview  In this project, we will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. We will write code to import the data and answer interesting questions about it by computing descriptive statistics. We will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.  What Software Do I Need?  To complete this project, the following software requirements apply:  We should have Python 3, NumPy, and pandas installed Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs (image: Wikipedia) Bike Share Data Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they ca...",
+    "forks_count": 1,
+    "html_url": "https://github.com/RamlathH/BIke-Sharing-System",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "HTML",
+    "repo_name": "BIke-Sharing-System",
+    "repo_owner": "RamlathH",
+    "repotime": "2019-09-25, 21:25:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-06-29",
+    "date_updated": "2019-09-25",
+    "description": "CollabOzark is a simple tool which helps the researchers track SSRF, RCE, Blind XSS, XXE, External Resource Access payloads triggers.",
+    "forks_count": 33,
+    "html_url": "https://github.com/securityidiots/CollabOzark",
+    "keywords": [
+        "ssrf",
+        "xxe"
+    ],
+    "language": "PHP",
+    "repo_name": "CollabOzark",
+    "repo_owner": "securityidiots",
+    "repotime": "2019-09-25, 11:38:18",
+    "stargazers_count": 137,
+    "watchers_count": 137
+}
+{
+    "commits_count": 107,
+    "date_started": "2019-09-20",
+    "date_updated": "2019-09-20",
+    "description": "Writing 50 POC's for exploits from scratch as practice for OSCE, all BOF. Including: Vannila, SEH, egghunters, ASLR/DEP/NX bypassing",
+    "forks_count": 1,
+    "html_url": "https://github.com/catsmells/Windows-Exploit-Development-practice",
+    "keywords": [
+        "dep bypass",
+        "Win aslr bypass",
+        "Windows aslr bypass exploitation",
+        "Windows aslr bypass",
+        "aslr bypass exploitation",
+        "Win aslr bypass exploit",
+        "aslr bypass",
+        "Windows aslr bypass exploit",
+        "aslr bypass poc",
+        "aslr bypass exploit",
+        "Windows aslr bypass poc",
+        "Win aslr bypass poc",
+        "Win aslr bypass exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Windows-Exploit-Development-practice",
+    "repo_owner": "catsmells",
+    "repotime": "2019-09-20, 02:31:30",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 9,
+    "date_started": "2019-09-07",
+    "date_updated": "2019-09-16",
+    "description": "initial exploit for CVE-2019-0708, BlueKeep CVE-2019-0708 BlueKeep RDP Remote Windows Kernel Use After Free  The RDP termdd.sys driver improperly handles binds to internal-only channel MS_T120, allowing a malformed Disconnect Provider Indication message to cause use-after-free. With a controllable data/size remote nonpaged pool spray, an indirect call gadget of the freed channel is used to achieve arbitrary code execution.",
+    "forks_count": 15,
+    "html_url": "https://github.com/wqsemc/CVE-2019-0708",
+    "keywords": [
+        "Windows use after free",
+        "Windows remote code execution",
+        "Windows use after free exploit",
+        "use after free exploitation",
+        "remote code execution exploitation",
+        "Windows remote code execution exploit",
+        "Windows remote code execution exploitation",
+        "Windows use after free exploitation",
+        "use after free exploit",
+        "remote code execution exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2019-0708",
+    "repo_owner": "wqsemc",
+    "repotime": "2019-09-16, 18:35:56",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 12,
+    "date_started": "2019-09-12",
+    "date_updated": "2019-09-12",
+    "description": "Repository to hold Kernel code that can be used in exploitation or LPE's",
+    "forks_count": 0,
+    "html_url": "https://github.com/jstigerwalt/Frantic",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "Assembly",
+    "repo_name": "Frantic",
+    "repo_owner": "jstigerwalt",
+    "repotime": "2019-09-12, 16:08:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

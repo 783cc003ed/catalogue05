@@ -207,3 +207,421 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 55,
+    "date_started": "2020-01-02",
+    "date_updated": "2021-10-28",
+    "description": "A very insecure web shop to demonstrate and make aware of XSS, SQLi and Session Hijacking attacks and how to protect against them.",
+    "forks_count": 0,
+    "html_url": "https://github.com/melanievogel/web-security",
+    "keywords": [
+        "session hijacking attack",
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "web-security",
+    "repo_owner": "melanievogel",
+    "repotime": "2021-10-28, 16:06:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-20",
+    "date_updated": "2021-10-28",
+    "description": "windows 10 14393 LPE",
+    "forks_count": 46,
+    "html_url": "https://github.com/KaLendsi/CVE-2021-40449-Exploit",
+    "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-40449-Exploit",
+    "repo_owner": "KaLendsi",
+    "repotime": "2021-10-28, 11:51:09",
+    "stargazers_count": 96,
+    "watchers_count": 96
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-10-23",
+    "date_updated": "2021-10-25",
+    "description": "zimbra nginx lpe exploit",
+    "forks_count": 5,
+    "html_url": "https://github.com/darrenmartyn/zimbra-hinginx",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "Shell",
+    "repo_name": "zimbra-hinginx",
+    "repo_owner": "darrenmartyn",
+    "repotime": "2021-10-25, 11:01:28",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-08-28",
+    "date_updated": "2021-10-24",
+    "description": "A memory leak exploit I discovered in 2019 while playing around with WiFi 802.11 Signal Beacons and how android improperly parses and displays the packets in the WiFi menu in Settings",
+    "forks_count": 0,
+    "html_url": "https://github.com/ripmeep/android-memory-leak",
+    "keywords": [
+        "memory leak exploit"
+    ],
+    "language": "C",
+    "repo_name": "android-memory-leak",
+    "repo_owner": "ripmeep",
+    "repotime": "2021-10-24, 17:46:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-24",
+    "date_updated": "2021-10-24",
+    "description": "1-Project Title “Library Management System (L_I_B_R_A)” The “Library Management System” has been developed to override the problems prevailing in the practicing manual system. This software is supported to eliminate and in some cases reduce the hardship faced by this existing system. Moreover this system is designed for the particular need of the institution to carry out operating in a smooth and effective manner. 2-Domain Library management institutional management non-profitable organization. 3-Problem of Statement In our existing system all the transaction of books are done manually, so taking more time for a transaction like borrowing a book or returning a book and also for searching of member and books. Another major disadvantage is that to preparing the list of book borrowed and the available book in the library will take more time, currently it is doing as a day process for verifying all records. So after conducting he feasibility study we decided to make the manual library mana...",
+    "forks_count": 4,
+    "html_url": "https://github.com/uttkarshparmar50/LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
+    "repo_owner": "uttkarshparmar50",
+    "repotime": "2021-10-24, 18:33:25",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 206,
+    "date_started": "2017-02-01",
+    "date_updated": "2021-10-20",
+    "description": "Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.",
+    "forks_count": 87,
+    "html_url": "https://github.com/tijme/angularjs-csti-scanner",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "Python",
+    "repo_name": "angularjs-csti-scanner",
+    "repo_owner": "tijme",
+    "repotime": "2021-10-20, 17:19:50",
+    "stargazers_count": 317,
+    "watchers_count": 317
+}
+{
+    "commits_count": 20,
+    "date_started": "2016-10-26",
+    "date_updated": "2021-10-13",
+    "description": "Automated Python Code Injection Tool",
+    "forks_count": 23,
+    "html_url": "https://github.com/sethsec/PyCodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "PyCodeInjection",
+    "repo_owner": "sethsec",
+    "repotime": "2021-10-13, 14:37:25",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-09-23",
+    "date_updated": "2021-10-12",
+    "description": "iOS gamed exploit (fixed in 15.0.2)",
+    "forks_count": 82,
+    "html_url": "https://github.com/illusionofchaos/ios-gamed-0day",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Objective-C",
+    "repo_name": "ios-gamed-0day",
+    "repo_owner": "illusionofchaos",
+    "repotime": "2021-10-12, 23:02:45",
+    "stargazers_count": 438,
+    "watchers_count": 438
+}
+{
+    "commits_count": 16,
+    "date_started": "2021-08-17",
+    "date_updated": "2021-10-12",
+    "description": "Some Attacks of Exchange SSRF ProxyLogon&amp;amp;ProxyShell",
+    "forks_count": 34,
+    "html_url": "https://github.com/Jumbo-WJB/Exchange_SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Exchange_SSRF",
+    "repo_owner": "Jumbo-WJB",
+    "repotime": "2021-10-12, 10:17:09",
+    "stargazers_count": 166,
+    "watchers_count": 166
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-10-09",
+    "date_updated": "2021-10-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Murasame-nc/CVE-2020-0796-LPE-POC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2020-0796-LPE-POC",
+    "repo_owner": "Murasame-nc",
+    "repotime": "2021-10-09, 16:24:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-10-06",
+    "date_updated": "2021-10-08",
+    "description": "Path Traversal vulnerability in Apache 2.4.49",
+    "forks_count": 1,
+    "html_url": "https://github.com/PentesterGuruji/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "PentesterGuruji",
+    "repotime": "2021-10-08, 01:09:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-05",
+    "date_updated": "2021-10-06",
+    "description": "A online food ordering website build using Angular Framework and used REST API with JSON server. The Aim of this project is to the order food through web app.UI is designed with the hr Angular material. New Customer have to register before ordering some food and login with same username and password after he can logout. Validation is done before storing the data. Error handing is done at UI level for user wrong input and it will display proper message so that customer can understand.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pssanjana/Online-Food-Ordering-Website",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "Online-Food-Ordering-Website",
+    "repo_owner": "pssanjana",
+    "repotime": "2021-10-06, 08:21:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 55,
+    "date_started": "2020-01-02",
+    "date_updated": "2021-10-28",
+    "description": "A very insecure web shop to demonstrate and make aware of XSS, SQLi and Session Hijacking attacks and how to protect against them.",
+    "forks_count": 0,
+    "html_url": "https://github.com/melanievogel/web-security",
+    "keywords": [
+        "session hijacking attack",
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "web-security",
+    "repo_owner": "melanievogel",
+    "repotime": "2021-10-28, 16:06:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-20",
+    "date_updated": "2021-10-28",
+    "description": "windows 10 14393 LPE",
+    "forks_count": 46,
+    "html_url": "https://github.com/KaLendsi/CVE-2021-40449-Exploit",
+    "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-40449-Exploit",
+    "repo_owner": "KaLendsi",
+    "repotime": "2021-10-28, 11:51:09",
+    "stargazers_count": 96,
+    "watchers_count": 96
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-10-23",
+    "date_updated": "2021-10-25",
+    "description": "zimbra nginx lpe exploit",
+    "forks_count": 5,
+    "html_url": "https://github.com/darrenmartyn/zimbra-hinginx",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "Shell",
+    "repo_name": "zimbra-hinginx",
+    "repo_owner": "darrenmartyn",
+    "repotime": "2021-10-25, 11:01:28",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-08-28",
+    "date_updated": "2021-10-24",
+    "description": "A memory leak exploit I discovered in 2019 while playing around with WiFi 802.11 Signal Beacons and how android improperly parses and displays the packets in the WiFi menu in Settings",
+    "forks_count": 0,
+    "html_url": "https://github.com/ripmeep/android-memory-leak",
+    "keywords": [
+        "memory leak exploit"
+    ],
+    "language": "C",
+    "repo_name": "android-memory-leak",
+    "repo_owner": "ripmeep",
+    "repotime": "2021-10-24, 17:46:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-24",
+    "date_updated": "2021-10-24",
+    "description": "1-Project Title “Library Management System (L_I_B_R_A)” The “Library Management System” has been developed to override the problems prevailing in the practicing manual system. This software is supported to eliminate and in some cases reduce the hardship faced by this existing system. Moreover this system is designed for the particular need of the institution to carry out operating in a smooth and effective manner. 2-Domain Library management institutional management non-profitable organization. 3-Problem of Statement In our existing system all the transaction of books are done manually, so taking more time for a transaction like borrowing a book or returning a book and also for searching of member and books. Another major disadvantage is that to preparing the list of book borrowed and the available book in the library will take more time, currently it is doing as a day process for verifying all records. So after conducting he feasibility study we decided to make the manual library mana...",
+    "forks_count": 4,
+    "html_url": "https://github.com/uttkarshparmar50/LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
+    "repo_owner": "uttkarshparmar50",
+    "repotime": "2021-10-24, 18:33:25",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 206,
+    "date_started": "2017-02-01",
+    "date_updated": "2021-10-20",
+    "description": "Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.",
+    "forks_count": 87,
+    "html_url": "https://github.com/tijme/angularjs-csti-scanner",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "Python",
+    "repo_name": "angularjs-csti-scanner",
+    "repo_owner": "tijme",
+    "repotime": "2021-10-20, 17:19:50",
+    "stargazers_count": 317,
+    "watchers_count": 317
+}
+{
+    "commits_count": 20,
+    "date_started": "2016-10-26",
+    "date_updated": "2021-10-13",
+    "description": "Automated Python Code Injection Tool",
+    "forks_count": 23,
+    "html_url": "https://github.com/sethsec/PyCodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "PyCodeInjection",
+    "repo_owner": "sethsec",
+    "repotime": "2021-10-13, 14:37:25",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-09-23",
+    "date_updated": "2021-10-12",
+    "description": "iOS gamed exploit (fixed in 15.0.2)",
+    "forks_count": 82,
+    "html_url": "https://github.com/illusionofchaos/ios-gamed-0day",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Objective-C",
+    "repo_name": "ios-gamed-0day",
+    "repo_owner": "illusionofchaos",
+    "repotime": "2021-10-12, 23:02:45",
+    "stargazers_count": 438,
+    "watchers_count": 438
+}
+{
+    "commits_count": 16,
+    "date_started": "2021-08-17",
+    "date_updated": "2021-10-12",
+    "description": "Some Attacks of Exchange SSRF ProxyLogon&amp;amp;ProxyShell",
+    "forks_count": 34,
+    "html_url": "https://github.com/Jumbo-WJB/Exchange_SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Exchange_SSRF",
+    "repo_owner": "Jumbo-WJB",
+    "repotime": "2021-10-12, 10:17:09",
+    "stargazers_count": 167,
+    "watchers_count": 167
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-10-09",
+    "date_updated": "2021-10-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Murasame-nc/CVE-2020-0796-LPE-POC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2020-0796-LPE-POC",
+    "repo_owner": "Murasame-nc",
+    "repotime": "2021-10-09, 16:24:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-10-06",
+    "date_updated": "2021-10-08",
+    "description": "Path Traversal vulnerability in Apache 2.4.49",
+    "forks_count": 1,
+    "html_url": "https://github.com/PentesterGuruji/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "PentesterGuruji",
+    "repotime": "2021-10-08, 01:09:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-05",
+    "date_updated": "2021-10-06",
+    "description": "A online food ordering website build using Angular Framework and used REST API with JSON server. The Aim of this project is to the order food through web app.UI is designed with the hr Angular material. New Customer have to register before ordering some food and login with same username and password after he can logout. Validation is done before storing the data. Error handing is done at UI level for user wrong input and it will display proper message so that customer can understand.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pssanjana/Online-Food-Ordering-Website",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "Online-Food-Ordering-Website",
+    "repo_owner": "pssanjana",
+    "repotime": "2021-10-06, 08:21:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

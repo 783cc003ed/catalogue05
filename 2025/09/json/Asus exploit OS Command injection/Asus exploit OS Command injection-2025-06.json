@@ -1,0 +1,534 @@
+{
+    "commits_count": 3,
+    "date_started": "2025-06-30",
+    "date_updated": "2025-06-30",
+    "description": "This PoC script provides a complete automated exploit path for the Joomla Content History SQL Injection vulnerability — from prefix detection to admin session hijacking — helping pentesters and security researchers verify and demonstrate the severity of the issue.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kaotickj/JoomHeist",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "JoomHeist",
+    "repo_owner": "kaotickj",
+    "repotime": "2025-06-30, 22:56:09",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-05-29",
+    "date_updated": "2025-06-29",
+    "description": "Malware exploit analysis for UAF, DEP, ASLR",
+    "forks_count": 0,
+    "html_url": "https://github.com/joewux/malware-exploit-analysis",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": null,
+    "repo_name": "malware-exploit-analysis",
+    "repo_owner": "joewux",
+    "repotime": "2025-06-29, 22:44:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2018-01-15",
+    "date_updated": "2025-06-28",
+    "description": "Slui File Handler Hijack UAC Bypass Local Privilege Escalation",
+    "forks_count": 36,
+    "html_url": "https://github.com/bytecode77/slui-file-handler-hijack-privilege-escalation",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "slui-file-handler-hijack-privilege-escalation",
+    "repo_owner": "bytecode77",
+    "repotime": "2025-06-28, 12:37:51",
+    "stargazers_count": 94,
+    "watchers_count": 94
+}
+{
+    "commits_count": 42,
+    "date_started": "2025-01-03",
+    "date_updated": "2025-06-27",
+    "description": "SQL Injection Scout 是一个用于 Burp Suite 的扩展，专为帮助安全研究人员和开发人员检测和分析 SQL 注入漏洞而设计。该扩展提供了丰富的配置选项和直观的用户界面，便于用户自定义扫描和分析过程。",
+    "forks_count": 10,
+    "html_url": "https://github.com/JaveleyQAQ/SQL-Injection-Scout",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "SQL-Injection-Scout",
+    "repo_owner": "JaveleyQAQ",
+    "repotime": "2025-06-27, 07:56:00",
+    "stargazers_count": 191,
+    "watchers_count": 191
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-06-24",
+    "date_updated": "2025-06-25",
+    "description": " Write-ups for PortSwigger Web Security Academy labs focused on File Path Traversal vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/vgod-sec/Wsa-path-traversal-labs-writeup",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Wsa-path-traversal-labs-writeup",
+    "repo_owner": "vgod-sec",
+    "repotime": "2025-06-25, 15:44:11",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-25",
+    "date_updated": "2025-06-25",
+    "description": "An unauthenticated command injection RCE on Maltrail 0.53",
+    "forks_count": 0,
+    "html_url": "https://github.com/Z3R0-0x30/Maltrail_0.53_RCE_Exploit",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Maltrail_0.53_RCE_Exploit",
+    "repo_owner": "Z3R0-0x30",
+    "repotime": "2025-06-25, 01:21:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-24",
+    "date_updated": "2025-06-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/SwapnilRanbhise/XML-External-Entity-Injection-XXE-",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XML-External-Entity-Injection-XXE-",
+    "repo_owner": "SwapnilRanbhise",
+    "repotime": "2025-06-24, 17:27:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-06-19",
+    "date_updated": "2025-06-24",
+    "description": "WDMT is a command-line tool that helps developers safely remove large development files without risking important data. It features protections against symlink attacks and path traversal, making cleanup both secure and efficient. 🛠️💻",
+    "forks_count": 0,
+    "html_url": "https://github.com/SpritofCreate/wdmt",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Go",
+    "repo_name": "wdmt",
+    "repo_owner": "SpritofCreate",
+    "repotime": "2025-06-24, 03:10:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-06-21",
+    "date_updated": "2025-06-21",
+    "description": "Kin Scanner è un tool Python che scansiona siti web per vulnerabilità comuni come XSS, SQL Injection e directory traversal. Fornisce anche informazioni sugli header di sicurezza e pagine accessibili.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kinhal/website-vulnerability-scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "website-vulnerability-scanner",
+    "repo_owner": "kinhal",
+    "repotime": "2025-06-21, 17:34:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-13",
+    "date_updated": "2025-06-20",
+    "description": "Code for the paper &amp;quot;Defeating Prompt Injections by Design&amp;quot;",
+    "forks_count": 14,
+    "html_url": "https://github.com/google-research/camel-prompt-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "camel-prompt-injection",
+    "repo_owner": "google-research",
+    "repotime": "2025-06-20, 15:59:27",
+    "stargazers_count": 114,
+    "watchers_count": 114
+}
+{
+    "commits_count": 743,
+    "date_started": "2018-07-17",
+    "date_updated": "2025-06-20",
+    "description": "CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool",
+    "forks_count": 701,
+    "html_url": "https://github.com/RhinoSecurityLabs/cloudgoat",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "cloudgoat",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2025-06-20, 08:19:51",
+    "stargazers_count": 3329,
+    "watchers_count": 3329
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-06-20",
+    "date_updated": "2025-06-20",
+    "description": "ASP.NET Core Web API, CsvHelper, LINQ, C&amp;&#35;35;, JSON, Dependency Injection Designed and developed a RESTful Web API that allows faculty to upload student score sheets in CSV format and automatically calculates per-student average percentages, assigns letter grades (A–F), and computes class-level statistics such as average and standard deviation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mohankumarcodes/GradeSheetApp",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "C#",
+    "repo_name": "GradeSheetApp",
+    "repo_owner": "mohankumarcodes",
+    "repotime": "2025-06-20, 10:14:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-06-18",
+    "date_updated": "2025-06-20",
+    "description": "Proof-of-Concept for CVE-2025-33053  Exploiting WebDAV with .url file delivery to demonstrate realistic remote code execution. Includes a decoy PDF payload and a video-only showcase of potential command-and-control capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept",
+    "keywords": [
+        "rce proof of concept",
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept",
+    "repo_owner": "kra1t0",
+    "repotime": "2025-06-20, 01:53:36",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-17",
+    "date_updated": "2025-06-17",
+    "description": "A Next.js app demonstrating web security concepts with real-world examples of SQL Injection and XSS. Includes both vulnerable and secure modes, user authentication, customer management, and modern security features like password complexity, session management, and login protection. Designed for hands-on learning and testing of web vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Avichai98/Communication-ltd",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "TypeScript",
+    "repo_name": "Communication-ltd",
+    "repo_owner": "Avichai98",
+    "repotime": "2025-06-17, 23:25:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-06-14",
+    "date_updated": "2025-06-17",
+    "description": "A College ERP system with Role-Based Access Control (RBAC) and data encryption, designed for testing security vulnerabilities like SQL injection, phishing, spoofing, and penetration testing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sukrut10k/rbac-college-erp",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "rbac-college-erp",
+    "repo_owner": "Sukrut10k",
+    "repotime": "2025-06-17, 00:06:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-16",
+    "date_updated": "2025-06-16",
+    "description": "The WIMP website co-construction management platform from HAMASTAR Technology has a SQL Injection vulnerability, allowing unauthenticated remote attackers to inject arbitrary SQL commands to read, modify, and delete database contents.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yuri08loveElaina/CVE_2025_6169",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE_2025_6169",
+    "repo_owner": "Yuri08loveElaina",
+    "repotime": "2025-06-16, 15:04:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-15",
+    "date_updated": "2025-06-16",
+    "description": "This project is a research-oriented and educational simulation  designed to demonstrate the concept of a sandbox escape vulnerability  within Google Chrome (version 134.0.6998.177), leveraging improper handle , validation via Mojo IPC.",
+    "forks_count": 0,
+    "html_url": "https://github.com/byteReaper77/CVE-2025-2783",
+    "keywords": [
+        "Chrome sandbox escape"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2025-2783",
+    "repo_owner": "byteReaper77",
+    "repotime": "2025-06-16, 03:42:08",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-13",
+    "date_updated": "2025-06-13",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/mbanyamer/-Windows-11-SMB-Client-RCE-Privilege-Escalation-Exploit-Using-DNS-Poisoning-NTLM-Relay-RPC-Coercion",
+    "keywords": [
+        "Win rce",
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "-Windows-11-SMB-Client-RCE-Privilege-Escalation-Exploit-Using-DNS-Poisoning-NTLM-Relay-RPC-Coercion",
+    "repo_owner": "mbanyamer",
+    "repotime": "2025-06-13, 20:36:48",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 161,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-06-13",
+    "description": "Quantum zero-day exploit Hunting for vulnerabilities as small as a quantum particle ",
+    "forks_count": 2,
+    "html_url": "https://github.com/Cyberheroess/Quze",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Quze",
+    "repo_owner": "Cyberheroess",
+    "repotime": "2025-06-13, 18:26:59",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-01-02",
+    "date_updated": "2025-06-13",
+    "description": "Cacti Unauthenticated Command Injection",
+    "forks_count": 2,
+    "html_url": "https://github.com/SystemVll/CVE-2022-46169",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-46169",
+    "repo_owner": "SystemVll",
+    "repotime": "2025-06-13, 01:59:37",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 802,
+    "date_started": "2013-06-25",
+    "date_updated": "2025-06-12",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 213,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2025-06-12, 12:20:40",
+    "stargazers_count": 1649,
+    "watchers_count": 1649
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-05-02",
+    "date_updated": "2025-06-12",
+    "description": "RainbowSQL is very fast dork&amp;amp;SQL injection scanner.",
+    "forks_count": 20,
+    "html_url": "https://github.com/syrex1013/RainbowSQL",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "C#",
+    "repo_name": "RainbowSQL",
+    "repo_owner": "syrex1013",
+    "repotime": "2025-06-12, 10:15:10",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-11",
+    "date_updated": "2025-06-11",
+    "description": "his is a simple Python-based GUI tool built with Tkinter that scans a web page for two common security vulnerabilities:  ✅ XXE (XML External Entity) Injection   ✅ SQL Injection  💡 The tool allows users to input a URL and scans the page content for specific patterns that match known exploit signatures.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SaroorCyber/-xxe-sqli-detector",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "-xxe-sqli-detector",
+    "repo_owner": "SaroorCyber",
+    "repotime": "2025-06-11, 21:12:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-06-11",
+    "date_updated": "2025-06-11",
+    "description": "A Flask-based Website Vulnerability Scanner detecting SQLi, XSS, CSRF, IDOR, RFI, Directory Traversal, Open Redirect, and Security Header issues. Includes user/admin roles, scan history, PDF reports, contact form, and real-time vulnerability scanning with database integration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/thivisha17/Website-Vulnerabilities-Scanners",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "Website-Vulnerabilities-Scanners",
+    "repo_owner": "thivisha17",
+    "repotime": "2025-06-11, 17:31:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 692,
+    "date_started": "2014-09-18",
+    "date_updated": "2025-06-09",
+    "description": "<no description>",
+    "forks_count": 86,
+    "html_url": "https://github.com/naver/lucy-xss-filter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "lucy-xss-filter",
+    "repo_owner": "naver",
+    "repotime": "2025-06-09, 06:53:14",
+    "stargazers_count": 332,
+    "watchers_count": 332
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-08",
+    "date_updated": "2025-06-08",
+    "description": "A unified exploitation framework for various vulnerabilities in CuteNews CMS (XSS ,RCE, HTML Injection , Info Disclosure, Arbitrary File Upload)",
+    "forks_count": 0,
+    "html_url": "https://github.com/byteReaper77/XenoCute",
+    "keywords": [
+        "rce disclosure"
+    ],
+    "language": "C",
+    "repo_name": "XenoCute",
+    "repo_owner": "byteReaper77",
+    "repotime": "2025-06-08, 07:50:44",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 23,
+    "date_started": "2025-06-05",
+    "date_updated": "2025-06-05",
+    "description": "A curated collection of my personal walkthroughs and writeups for Hack The Box (HTB) machines and challenges. Includes detailed steps for enumeration, exploitation, privilege escalation, and post-exploitation analysis. The goal is to reinforce core penetration testing concepts and develop structured methodologies for OSCP-like environments.",
+    "forks_count": 0,
+    "html_url": "https://github.com/shanky528/HTB-Challenges-Walkthroughs",
+    "keywords": [
+        "escalation of privileges analysis",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "HTB-Challenges-Walkthroughs",
+    "repo_owner": "shanky528",
+    "repotime": "2025-06-05, 18:21:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-06-04",
+    "date_updated": "2025-06-04",
+    "description": "Code execution/injection technique using DLL PEB module structure manipulation",
+    "forks_count": 27,
+    "html_url": "https://github.com/RWXstoned/LdrShuffle",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "LdrShuffle",
+    "repo_owner": "RWXstoned",
+    "repotime": "2025-06-04, 15:23:48",
+    "stargazers_count": 173,
+    "watchers_count": 173
+}
+{
+    "commits_count": 1739,
+    "date_started": "2025-05-01",
+    "date_updated": "2025-06-04",
+    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Vazminz/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution exploitation",
+        "Windows remote code execution exploit"
+    ],
+    "language": "C++",
+    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "repo_owner": "Vazminz",
+    "repotime": "2025-06-04, 06:55:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 169,
+    "date_started": "2018-12-18",
+    "date_updated": "2025-06-03",
+    "description": "Proof-of-Concept exploits for CVEs found by the team at Rhino Security Labs",
+    "forks_count": 248,
+    "html_url": "https://github.com/RhinoSecurityLabs/CVEs",
+    "keywords": [
+        "proof-of-concept",
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "CVEs",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2025-06-03, 20:34:21",
+    "stargazers_count": 873,
+    "watchers_count": 873
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-06-01",
+    "date_updated": "2025-06-01",
+    "description": "Vulnerability scanning is the process of automatically inspecting systems, networks, or applications to identify known security weaknesses. These scans help detect misconfigurations, outdated software, missing patches, and vulnerabilities such as SQL injection, XSS, and privilege escalation risks",
+    "forks_count": 0,
+    "html_url": "https://github.com/mahahex/vulnerability-scanning",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vulnerability-scanning",
+    "repo_owner": "mahahex",
+    "repotime": "2025-06-01, 15:15:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

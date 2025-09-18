@@ -121,3 +121,249 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 13,
+    "date_started": "2019-10-27",
+    "date_updated": "2019-10-28",
+    "description": "ASLR bypass in Chrome version 77",
+    "forks_count": 6,
+    "html_url": "https://github.com/bindecy/ohsmap",
+    "keywords": [
+        "aslr bypass",
+        "Chrome aslr bypass"
+    ],
+    "language": "JavaScript",
+    "repo_name": "ohsmap",
+    "repo_owner": "bindecy",
+    "repotime": "2019-10-28, 15:14:23",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-03-08",
+    "date_updated": "2019-10-26",
+    "description": "CVE-2018-17246 - Kibana LFI &amp;lt; 6.4.3 &amp;amp; 5.6.13",
+    "forks_count": 15,
+    "html_url": "https://github.com/mpgn/CVE-2018-17246",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-17246",
+    "repo_owner": "mpgn",
+    "repotime": "2019-10-26, 15:28:33",
+    "stargazers_count": 63,
+    "watchers_count": 63
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-10-25",
+    "date_updated": "2019-10-25",
+    "description": "alternative exploits for VulnServer.exe (ROP DEP bypass, ROP WinExec, Omelette EggHunter..)",
+    "forks_count": 0,
+    "html_url": "https://github.com/Potato-Industries/alternative-vulnserver-exploits",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Python",
+    "repo_name": "alternative-vulnserver-exploits",
+    "repo_owner": "Potato-Industries",
+    "repotime": "2019-10-25, 14:55:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-06-12",
+    "date_updated": "2019-10-21",
+    "description": "LPE Exploit For CVE-2019-12181 (Serv-U FTP 15.1.6)",
+    "forks_count": 2,
+    "html_url": "https://github.com/mavlevin/CVE-2019-12181",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2019-12181",
+    "repo_owner": "mavlevin",
+    "repotime": "2019-10-21, 00:36:22",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-10-12",
+    "date_updated": "2019-10-14",
+    "description": "Insecure deserialization POC on .NET Framework applications. Attack vectors leads to RCE (Remote Code Execution)",
+    "forks_count": 3,
+    "html_url": "https://github.com/indrefi/Insecure-Deserialization-.NET-RCE",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Insecure-Deserialization-.NET-RCE",
+    "repo_owner": "indrefi",
+    "repotime": "2019-10-14, 00:23:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-10-06",
+    "date_updated": "2019-10-07",
+    "description": "Hosting proof of concept exploit code of the remote code execution vulnerabilities in the IcedTea-Web Java webstart implementation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/irsl/icedtea-web-vulnerabilities",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "icedtea-web-vulnerabilities",
+    "repo_owner": "irsl",
+    "repotime": "2019-10-07, 09:00:52",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 9,
+    "date_started": "2018-10-29",
+    "date_updated": "2019-10-01",
+    "description": "A small game engine built on the Windows Command Prompt.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rhysboer/RCEngine",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C++",
+    "repo_name": "RCEngine",
+    "repo_owner": "rhysboer",
+    "repotime": "2019-10-01, 16:45:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2019-10-27",
+    "date_updated": "2019-10-28",
+    "description": "ASLR bypass in Chrome version 77",
+    "forks_count": 6,
+    "html_url": "https://github.com/bindecy/ohsmap",
+    "keywords": [
+        "aslr bypass",
+        "Chrome aslr bypass"
+    ],
+    "language": "JavaScript",
+    "repo_name": "ohsmap",
+    "repo_owner": "bindecy",
+    "repotime": "2019-10-28, 15:14:23",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-03-08",
+    "date_updated": "2019-10-26",
+    "description": "CVE-2018-17246 - Kibana LFI &amp;lt; 6.4.3 &amp;amp; 5.6.13",
+    "forks_count": 14,
+    "html_url": "https://github.com/mpgn/CVE-2018-17246",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-17246",
+    "repo_owner": "mpgn",
+    "repotime": "2019-10-26, 15:28:33",
+    "stargazers_count": 65,
+    "watchers_count": 65
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-10-25",
+    "date_updated": "2019-10-25",
+    "description": "alternative exploits for VulnServer.exe (ROP DEP bypass, ROP WinExec, Omelette EggHunter..)",
+    "forks_count": 0,
+    "html_url": "https://github.com/Potato-Industries/alternative-vulnserver-exploits",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Python",
+    "repo_name": "alternative-vulnserver-exploits",
+    "repo_owner": "Potato-Industries",
+    "repotime": "2019-10-25, 14:55:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-06-12",
+    "date_updated": "2019-10-21",
+    "description": "LPE Exploit For CVE-2019-12181 (Serv-U FTP 15.1.6)",
+    "forks_count": 2,
+    "html_url": "https://github.com/mavlevin/CVE-2019-12181",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2019-12181",
+    "repo_owner": "mavlevin",
+    "repotime": "2019-10-21, 00:36:22",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-10-12",
+    "date_updated": "2019-10-14",
+    "description": "Insecure deserialization POC on .NET Framework applications. Attack vectors leads to RCE (Remote Code Execution)",
+    "forks_count": 3,
+    "html_url": "https://github.com/indrefi/Insecure-Deserialization-.NET-RCE",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Insecure-Deserialization-.NET-RCE",
+    "repo_owner": "indrefi",
+    "repotime": "2019-10-14, 00:23:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-10-06",
+    "date_updated": "2019-10-07",
+    "description": "Hosting proof of concept exploit code of the remote code execution vulnerabilities in the IcedTea-Web Java webstart implementation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/irsl/icedtea-web-vulnerabilities",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "icedtea-web-vulnerabilities",
+    "repo_owner": "irsl",
+    "repotime": "2019-10-07, 09:00:52",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 9,
+    "date_started": "2018-10-29",
+    "date_updated": "2019-10-01",
+    "description": "A small game engine built on the Windows Command Prompt.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rhysboer/RCEngine",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C++",
+    "repo_name": "RCEngine",
+    "repo_owner": "rhysboer",
+    "repotime": "2019-10-01, 16:45:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -1,0 +1,34 @@
+{
+    "commits_count": 8,
+    "date_started": "2020-07-09",
+    "date_updated": "2022-01-16",
+    "description": "&amp;&#35;35; Intellifotainment assist” – Smart HMI for passenger cars  To run the program, download all files and save them in the same directory. After that, simply run 'Master.py' in the terminal.  At the moment, the program will only run in linux based systems.    &amp;&#35;35; The Idea Infotainment systems have come a long way since the first set of dashboards installed in cars. Through our idea, we aim to create a Human Machine interaction model that takes infotainment systems to a new level. The driver tends to get distracted from the road while performing secondary tasks such as changing the music track, locking/unlocking the door while driving etc. Our system shall enable the driver to focus only on driving. Controlling the secondary tasks will be much easier. Our product primarily comprises of 5 modules:  1)  Attention and drowsiness detection: - A camera shall be present on the dashboard, in front of the driver, behind the steering wheel. Through digital image processing techniques , using ...",
+    "forks_count": 8,
+    "html_url": "https://github.com/Nishant-Wadhwani/Intelligent-Infotainment-System-for-Automobiles",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Intelligent-Infotainment-System-for-Automobiles",
+    "repo_owner": "Nishant-Wadhwani",
+    "repotime": "2022-01-16, 13:16:56",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 63,
+    "date_started": "2022-01-04",
+    "date_updated": "2022-01-04",
+    "description": "This repo is a fork from main repo and will usually have new features bundled faster than main repo (and maybe bundle some bugs, too).  &amp;&#35;35; Unofficial Facebook Chat API &amp;lt;img alt=&amp;quot;version&amp;quot; src=&amp;quot;https://img.shields.io/github/package-json/v/ProCoderMew/fca-unofficial?label=github&amp;amp;style=flat-square&amp;quot;&amp;gt;  Facebook now has an official API for chat bots [here](https://developers.facebook.com/docs/messenger-platform).  This API is the only way to automate chat functionalities on a user account. We do this by emulating the browser. This means doing the exact same GET/POST requests and tricking Facebook into thinking we're accessing the website normally. Because we're doing it this way, this API won't work with an auth token but requires the credentials of a Facebook account.  _Disclaimer_: We are not responsible if your account gets banned for spammy activities such as sending lots of messages to people you don't know, sending messages very quickly, sending spammy l...",
+    "forks_count": 17,
+    "html_url": "https://github.com/Tinkprocodes/fca-unofficial",
+    "keywords": [
+        "empty string password"
+    ],
+    "language": "JavaScript",
+    "repo_name": "fca-unofficial",
+    "repo_owner": "Tinkprocodes",
+    "repotime": "2022-01-04, 21:33:29",
+    "stargazers_count": 39,
+    "watchers_count": 39
+}

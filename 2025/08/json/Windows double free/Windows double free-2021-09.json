@@ -1,0 +1,1068 @@
+{
+    "commits_count": 96,
+    "date_started": "2021-09-09",
+    "date_updated": "2021-09-30",
+    "description": "Automatic patching of use after free security vulnerabilities by applying LLVM compiler transformation ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Microsvuln/llvm-automemfix",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "llvm-automemfix",
+    "repo_owner": "Microsvuln",
+    "repotime": "2021-09-30, 18:33:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-09-08",
+    "date_updated": "2021-09-29",
+    "description": "Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444",
+    "forks_count": 7,
+    "html_url": "https://github.com/ozergoker/CVE-2021-40444",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-40444",
+    "repo_owner": "ozergoker",
+    "repotime": "2021-09-29, 14:39:26",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 152,
+    "date_started": "2011-11-29",
+    "date_updated": "2021-09-29",
+    "description": "Convert Markdown to HTML, with XSS protection",
+    "forks_count": 396,
+    "html_url": "https://github.com/snoyberg/markdown",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Haskell",
+    "repo_name": "markdown",
+    "repo_owner": "snoyberg",
+    "repotime": "2021-09-29, 08:17:34",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}
+{
+    "commits_count": 36,
+    "date_started": "2015-09-18",
+    "date_updated": "2021-09-26",
+    "description": "Exploits by 1N3 @CrowdShield @xer0dayz @XeroSecurity",
+    "forks_count": 103,
+    "html_url": "https://github.com/1N3/Exploits",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Exploits",
+    "repo_owner": "1N3",
+    "repotime": "2021-09-26, 18:47:12",
+    "stargazers_count": 204,
+    "watchers_count": 204
+}
+{
+    "commits_count": 410,
+    "date_started": "2020-04-19",
+    "date_updated": "2021-09-25",
+    "description": "A phased, evasive Path Traversal + LFI scanning &amp;amp; exploitation tool in Python",
+    "forks_count": 24,
+    "html_url": "https://github.com/VainlyStrain/Vailyn",
+    "keywords": [
+        "lfi",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Vailyn",
+    "repo_owner": "VainlyStrain",
+    "repotime": "2021-09-25, 21:18:09",
+    "stargazers_count": 196,
+    "watchers_count": 196
+}
+{
+    "commits_count": 36,
+    "date_started": "2021-10-27",
+    "date_updated": "2021-09-24",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 11,
+    "html_url": "https://github.com/BrockOz/Final-Project",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution analysis",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "Final-Project",
+    "repo_owner": "BrockOz",
+    "repotime": "2021-09-24, 14:45:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 81,
+    "date_started": "2021-09-14",
+    "date_updated": "2021-09-22",
+    "description": "jQuery powered applications and services with absolute minimum fuss. A cross-platform JavaScript library optimized to do the common scripting functions with fewer lines of code. jQuery for cross-platform feature-rich scripting to handle client-side scripting of HTML.",
+    "forks_count": 0,
+    "html_url": "https://github.com/abdibedaso/jQuery",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "jQuery",
+    "repo_owner": "abdibedaso",
+    "repotime": "2021-09-22, 21:19:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2015-02-04",
+    "date_updated": "2021-09-20",
+    "description": "Static analysis tool for Golang that protects against SQL injections     ",
+    "forks_count": 46,
+    "html_url": "https://github.com/stripe-archive/safesql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "safesql",
+    "repo_owner": "stripe-archive",
+    "repotime": "2021-09-20, 17:02:47",
+    "stargazers_count": 562,
+    "watchers_count": 562
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-09-20",
+    "date_updated": "2021-09-20",
+    "description": "&amp;&#35;35; free-agario-bots Free open source agar.io bots  [Join our Discord](https://discord.gg/SDMNEcJ)  &amp;&#35;35;&amp;&#35;35; Usage [Video tutorial for Windows](https://www.youtube.com/watch?v=TkihvNIpiTw)   Windows ------- 1. Install [Node.js](https://nodejs.org) 2. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension on your browser 3. Download the bots files from this repository as a ZIP and extract them on a folder 4. Run `install.bat` and wait for it to close by itself 5. Run `server.bat` and leave it open 6. Copy and paste the contents of either [`free-agario-bots.vanilla.user.js`](https://github.com/xN3BULA/free-agario-bots/raw/master/free-agario-bots.vanilla.user.js) or [`free-agario-bots.ogario.user.js`](https://github.com/xN3BULA/free-agario-bots/raw/master/free-agario-bots.ogario.user.js) into a new Tampermonkey userscript and save it 7. Go to [agar.io](https://agar.io) with 1 of the 2 userscripts enabled and click &amp;quo...",
+    "forks_count": 0,
+    "html_url": "https://github.com/mergim122/asd",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "asd",
+    "repo_owner": "mergim122",
+    "repotime": "2021-09-20, 16:55:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-09-15",
+    "date_updated": "2021-09-15",
+    "description": " Automated Trading System (Stock Market) A Client-Server Based Trading System is to be designed with the following specifications. There will be a set of traders who will trade with each other in the automated system. There will be a Server which will register requests from traders for buying and selling quantities of Items. The Server will also match the buy with the sell requests from different traders based on certain price rules (as listed below). Traders will log on to the trading system through the trading client (assume Trader ID and password is stored in a file). They will have the option to view the currently available items (for buy/sell), their quantities and their prices. They will also send requests for buying and selling items and specify the quantity and price. Traders will also have the option to view their matched trades at any time. There are ten known items which the traders can trade in with their codes from 1 to 10. There will be a maximum of 5 traders (with codes ...",
+    "forks_count": 1,
+    "html_url": "https://github.com/vishal66959/Client-Server-Based-Automated-Trading-System-main",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "C",
+    "repo_name": "Client-Server-Based-Automated-Trading-System-main",
+    "repo_owner": "vishal66959",
+    "repotime": "2021-09-15, 12:31:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 18,
+    "date_started": "2020-04-02",
+    "date_updated": "2021-09-09",
+    "description": "Python bind shell single line code for both Unix and Windows, used to find and exploit RCE (ImageMagick, Ghostscript, ...)",
+    "forks_count": 8,
+    "html_url": "https://github.com/shelld3v/RCE-python-oneliner-payload",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows rce",
+        "rce exploitation",
+        "Windows rce exploit"
+    ],
+    "language": null,
+    "repo_name": "RCE-python-oneliner-payload",
+    "repo_owner": "shelld3v",
+    "repotime": "2021-09-09, 20:36:01",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-09-06",
+    "date_updated": "2021-09-08",
+    "description": "It is a mini project based HTML, CSS and JAVASCRIPT . It is basically a sudoku game which validates the user input, gives error on wrong answers, indicates duplicity, highlights the respective cells , columns and rows on single and double clicks. It has three modes to play in- easy, medium, hard . You can also reset the entire game or have a peek at the solution incase you cannot figure it out. It shows modals on winning, incase of alert or on loosing. Allover it a mini sudoku game, hope you guys like it !!",
+    "forks_count": 0,
+    "html_url": "https://github.com/Maheti/Sudoku-Game",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Sudoku-Game",
+    "repo_owner": "Maheti",
+    "repotime": "2021-09-08, 01:01:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-08-30",
+    "date_updated": "2021-09-07",
+    "description": "About lichess dev lichess.org is a free/libre, open-source chess server powered by volunteers and donations.  In 2017, Official began work on Lichess as a hobby project. The site was simple at the beginning, not even checking to see if moves were legal. He made the site open source, which means anyone is free to read the source code and make contributions. Gradually, the site improved and collected users as an enthusiastic volunteer staff assembled to help Thibault build and maintain the site.Vlounteer's may can fork on our Git project  Today, Lichess users play more than a million games every day. Lichess is one of the most popular chess websites in the world while remaining 100% free. Most “free” websites subsist by selling ads or selling user data. Others do it by putting all the good stuff behind paywalls. Lichess does none of these things and never will. With no investors demanding profits, Lichess staff can focus on improving the site as their only goal.  Despite Lichess's humble...",
+    "forks_count": 3,
+    "html_url": "https://github.com/LichessModerator/lichessdev",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Python",
+    "repo_name": "lichessdev",
+    "repo_owner": "LichessModerator",
+    "repotime": "2021-09-07, 19:31:20",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-09-14",
+    "date_updated": "2021-09-06",
+    "description": "Likelihood-Free Inference for Gravitational Waves",
+    "forks_count": 18,
+    "html_url": "https://github.com/stephengreen/lfi-gw",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "lfi-gw",
+    "repo_owner": "stephengreen",
+    "repotime": "2021-09-06, 11:27:26",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-06",
+    "date_updated": "2021-09-05",
+    "description": "Elastix remote code execution exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/k4miyo/FreePBX-Elastix-RCE-exploit",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "FreePBX-Elastix-RCE-exploit",
+    "repo_owner": "k4miyo",
+    "repotime": "2021-09-05, 21:04:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-05-25",
+    "date_updated": "2021-09-03",
+    "description": "This is a boot2root VM and is a continuation of the Basic Pentesting series. This series is designed to help newcomers to penetration testing develop pentesting skills and have fun exploring part of the offensive side of security.  VirtualBox is the recommended platform for this challenge (though it should also work with VMware -- however, I haven’t tested that).  This VM is a moderate step up in difficulty from the first entry in this series. If you’ve solved the first entry and have tried a few other beginner-oriented challenges, this VM should be a good next step. Once again, this challenge contains multiple initial exploitation vectors and privilege escalation vulnerabilities.  Your goal is to remotely attack the VM, gain root privileges, and read the flag located at /root/flag.txt. Once you’ve finished, try to find other vectors you might have missed! If you’d like to send me a link to your writeup, enjoyed the VM or have questions or feedback, feel free to contact me at: josiah@v...",
+    "forks_count": 5,
+    "html_url": "https://github.com/vshaliii/Basic-Pentesting-2-Vulnhub-Walkthrough",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Basic-Pentesting-2-Vulnhub-Walkthrough",
+    "repo_owner": "vshaliii",
+    "repotime": "2021-09-03, 11:40:14",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-07-29",
+    "date_updated": "2021-09-03",
+    "description": "A List Of ZeroDay Vulnerabilities Discovered By Byron Taaka (4dbyron). As they are Mostly still Active and Unpatched at the time of Inclusion, Only Listing is done, without any finer details of the vulnerabilty. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/4dbyron/zero-days_4dbyron",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "zero-days_4dbyron",
+    "repo_owner": "4dbyron",
+    "repotime": "2021-09-03, 01:10:36",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-08-26",
+    "date_updated": "2021-09-02",
+    "description": "EXPLOIT",
+    "forks_count": 0,
+    "html_url": "https://github.com/klodi667/0day-EXPLOIT",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "0day-EXPLOIT",
+    "repo_owner": "klodi667",
+    "repotime": "2021-09-02, 11:01:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 129,
+    "date_started": "2021-08-05",
+    "date_updated": "2021-09-01",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology",
+    "keywords": [
+        "0day vulnerability",
+        "0day analysis"
+    ],
+    "language": null,
+    "repo_name": "0day-security-software-vulnerability-analysis-technology",
+    "repo_owner": "git3345678git",
+    "repotime": "2021-09-01, 22:33:42",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-01",
+    "date_updated": "2021-09-01",
+    "description": "Exploit for Elastix 2.2.0 and FreePBX 2.10.0 based on CVE-2012-4869 vulnerability working on Python3",
+    "forks_count": 0,
+    "html_url": "https://github.com/bitc0de/Elastix-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Elastix-Remote-Code-Execution",
+    "repo_owner": "bitc0de",
+    "repotime": "2021-09-01, 15:16:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 96,
+    "date_started": "2021-09-09",
+    "date_updated": "2021-09-30",
+    "description": "Automatic patching of use after free security vulnerabilities by applying LLVM compiler transformation ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Microsvuln/llvm-automemfix",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "llvm-automemfix",
+    "repo_owner": "Microsvuln",
+    "repotime": "2021-09-30, 18:33:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-09-08",
+    "date_updated": "2021-09-29",
+    "description": "Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444",
+    "forks_count": 7,
+    "html_url": "https://github.com/ozergoker/CVE-2021-40444",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-40444",
+    "repo_owner": "ozergoker",
+    "repotime": "2021-09-29, 14:39:26",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 152,
+    "date_started": "2011-11-29",
+    "date_updated": "2021-09-29",
+    "description": "Convert Markdown to HTML, with XSS protection",
+    "forks_count": 396,
+    "html_url": "https://github.com/snoyberg/markdown",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Haskell",
+    "repo_name": "markdown",
+    "repo_owner": "snoyberg",
+    "repotime": "2021-09-29, 08:17:34",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}
+{
+    "commits_count": 36,
+    "date_started": "2015-09-18",
+    "date_updated": "2021-09-26",
+    "description": "Exploits by 1N3 @CrowdShield @xer0dayz @XeroSecurity",
+    "forks_count": 103,
+    "html_url": "https://github.com/1N3/Exploits",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Exploits",
+    "repo_owner": "1N3",
+    "repotime": "2021-09-26, 18:47:12",
+    "stargazers_count": 204,
+    "watchers_count": 204
+}
+{
+    "commits_count": 410,
+    "date_started": "2020-04-19",
+    "date_updated": "2021-09-25",
+    "description": "A phased, evasive Path Traversal + LFI scanning &amp;amp; exploitation tool in Python",
+    "forks_count": 24,
+    "html_url": "https://github.com/VainlyStrain/Vailyn",
+    "keywords": [
+        "lfi",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Vailyn",
+    "repo_owner": "VainlyStrain",
+    "repotime": "2021-09-25, 21:18:09",
+    "stargazers_count": 196,
+    "watchers_count": 196
+}
+{
+    "commits_count": 36,
+    "date_started": "2021-10-27",
+    "date_updated": "2021-09-24",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 11,
+    "html_url": "https://github.com/BrockOz/Final-Project",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution analysis",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "Final-Project",
+    "repo_owner": "BrockOz",
+    "repotime": "2021-09-24, 14:45:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 81,
+    "date_started": "2021-09-14",
+    "date_updated": "2021-09-22",
+    "description": "jQuery powered applications and services with absolute minimum fuss. A cross-platform JavaScript library optimized to do the common scripting functions with fewer lines of code. jQuery for cross-platform feature-rich scripting to handle client-side scripting of HTML.",
+    "forks_count": 0,
+    "html_url": "https://github.com/abdibedaso/jQuery",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "jQuery",
+    "repo_owner": "abdibedaso",
+    "repotime": "2021-09-22, 21:19:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2015-02-04",
+    "date_updated": "2021-09-20",
+    "description": "Static analysis tool for Golang that protects against SQL injections     ",
+    "forks_count": 46,
+    "html_url": "https://github.com/stripe-archive/safesql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "safesql",
+    "repo_owner": "stripe-archive",
+    "repotime": "2021-09-20, 17:02:47",
+    "stargazers_count": 562,
+    "watchers_count": 562
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-09-20",
+    "date_updated": "2021-09-20",
+    "description": "&amp;&#35;35; free-agario-bots Free open source agar.io bots  [Join our Discord](https://discord.gg/SDMNEcJ)  &amp;&#35;35;&amp;&#35;35; Usage [Video tutorial for Windows](https://www.youtube.com/watch?v=TkihvNIpiTw)   Windows ------- 1. Install [Node.js](https://nodejs.org) 2. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension on your browser 3. Download the bots files from this repository as a ZIP and extract them on a folder 4. Run `install.bat` and wait for it to close by itself 5. Run `server.bat` and leave it open 6. Copy and paste the contents of either [`free-agario-bots.vanilla.user.js`](https://github.com/xN3BULA/free-agario-bots/raw/master/free-agario-bots.vanilla.user.js) or [`free-agario-bots.ogario.user.js`](https://github.com/xN3BULA/free-agario-bots/raw/master/free-agario-bots.ogario.user.js) into a new Tampermonkey userscript and save it 7. Go to [agar.io](https://agar.io) with 1 of the 2 userscripts enabled and click &amp;quo...",
+    "forks_count": 0,
+    "html_url": "https://github.com/mergim122/asd",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "asd",
+    "repo_owner": "mergim122",
+    "repotime": "2021-09-20, 16:55:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-09-15",
+    "date_updated": "2021-09-15",
+    "description": " Automated Trading System (Stock Market) A Client-Server Based Trading System is to be designed with the following specifications. There will be a set of traders who will trade with each other in the automated system. There will be a Server which will register requests from traders for buying and selling quantities of Items. The Server will also match the buy with the sell requests from different traders based on certain price rules (as listed below). Traders will log on to the trading system through the trading client (assume Trader ID and password is stored in a file). They will have the option to view the currently available items (for buy/sell), their quantities and their prices. They will also send requests for buying and selling items and specify the quantity and price. Traders will also have the option to view their matched trades at any time. There are ten known items which the traders can trade in with their codes from 1 to 10. There will be a maximum of 5 traders (with codes ...",
+    "forks_count": 1,
+    "html_url": "https://github.com/vishal66959/Client-Server-Based-Automated-Trading-System-main",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "C",
+    "repo_name": "Client-Server-Based-Automated-Trading-System-main",
+    "repo_owner": "vishal66959",
+    "repotime": "2021-09-15, 12:31:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 18,
+    "date_started": "2020-04-02",
+    "date_updated": "2021-09-09",
+    "description": "Python bind shell single line code for both Unix and Windows, used to find and exploit RCE (ImageMagick, Ghostscript, ...)",
+    "forks_count": 8,
+    "html_url": "https://github.com/shelld3v/RCE-python-oneliner-payload",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows rce",
+        "rce exploitation",
+        "Windows rce exploit"
+    ],
+    "language": null,
+    "repo_name": "RCE-python-oneliner-payload",
+    "repo_owner": "shelld3v",
+    "repotime": "2021-09-09, 20:36:01",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-09-06",
+    "date_updated": "2021-09-08",
+    "description": "It is a mini project based HTML, CSS and JAVASCRIPT . It is basically a sudoku game which validates the user input, gives error on wrong answers, indicates duplicity, highlights the respective cells , columns and rows on single and double clicks. It has three modes to play in- easy, medium, hard . You can also reset the entire game or have a peek at the solution incase you cannot figure it out. It shows modals on winning, incase of alert or on loosing. Allover it a mini sudoku game, hope you guys like it !!",
+    "forks_count": 0,
+    "html_url": "https://github.com/Maheti/Sudoku-Game",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Sudoku-Game",
+    "repo_owner": "Maheti",
+    "repotime": "2021-09-08, 01:01:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-08-30",
+    "date_updated": "2021-09-07",
+    "description": "About lichess dev lichess.org is a free/libre, open-source chess server powered by volunteers and donations.  In 2017, Official began work on Lichess as a hobby project. The site was simple at the beginning, not even checking to see if moves were legal. He made the site open source, which means anyone is free to read the source code and make contributions. Gradually, the site improved and collected users as an enthusiastic volunteer staff assembled to help Thibault build and maintain the site.Vlounteer's may can fork on our Git project  Today, Lichess users play more than a million games every day. Lichess is one of the most popular chess websites in the world while remaining 100% free. Most “free” websites subsist by selling ads or selling user data. Others do it by putting all the good stuff behind paywalls. Lichess does none of these things and never will. With no investors demanding profits, Lichess staff can focus on improving the site as their only goal.  Despite Lichess's humble...",
+    "forks_count": 3,
+    "html_url": "https://github.com/LichessModerator/lichessdev",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Python",
+    "repo_name": "lichessdev",
+    "repo_owner": "LichessModerator",
+    "repotime": "2021-09-07, 19:31:20",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-09-14",
+    "date_updated": "2021-09-06",
+    "description": "Likelihood-Free Inference for Gravitational Waves",
+    "forks_count": 18,
+    "html_url": "https://github.com/stephengreen/lfi-gw",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "lfi-gw",
+    "repo_owner": "stephengreen",
+    "repotime": "2021-09-06, 11:27:26",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-06",
+    "date_updated": "2021-09-05",
+    "description": "Elastix remote code execution exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/k4miyo/FreePBX-Elastix-RCE-exploit",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "FreePBX-Elastix-RCE-exploit",
+    "repo_owner": "k4miyo",
+    "repotime": "2021-09-05, 21:04:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-05-25",
+    "date_updated": "2021-09-03",
+    "description": "This is a boot2root VM and is a continuation of the Basic Pentesting series. This series is designed to help newcomers to penetration testing develop pentesting skills and have fun exploring part of the offensive side of security.  VirtualBox is the recommended platform for this challenge (though it should also work with VMware -- however, I haven’t tested that).  This VM is a moderate step up in difficulty from the first entry in this series. If you’ve solved the first entry and have tried a few other beginner-oriented challenges, this VM should be a good next step. Once again, this challenge contains multiple initial exploitation vectors and privilege escalation vulnerabilities.  Your goal is to remotely attack the VM, gain root privileges, and read the flag located at /root/flag.txt. Once you’ve finished, try to find other vectors you might have missed! If you’d like to send me a link to your writeup, enjoyed the VM or have questions or feedback, feel free to contact me at: josiah@v...",
+    "forks_count": 5,
+    "html_url": "https://github.com/vshaliii/Basic-Pentesting-2-Vulnhub-Walkthrough",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Basic-Pentesting-2-Vulnhub-Walkthrough",
+    "repo_owner": "vshaliii",
+    "repotime": "2021-09-03, 11:40:14",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-07-29",
+    "date_updated": "2021-09-03",
+    "description": "A List Of ZeroDay Vulnerabilities Discovered By Byron Taaka (4dbyron). As they are Mostly still Active and Unpatched at the time of Inclusion, Only Listing is done, without any finer details of the vulnerabilty. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/4dbyron/zero-days_4dbyron",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "zero-days_4dbyron",
+    "repo_owner": "4dbyron",
+    "repotime": "2021-09-03, 01:10:36",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-08-26",
+    "date_updated": "2021-09-02",
+    "description": "EXPLOIT",
+    "forks_count": 0,
+    "html_url": "https://github.com/klodi667/0day-EXPLOIT",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "0day-EXPLOIT",
+    "repo_owner": "klodi667",
+    "repotime": "2021-09-02, 11:01:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 129,
+    "date_started": "2021-08-05",
+    "date_updated": "2021-09-01",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology",
+    "keywords": [
+        "0day vulnerability",
+        "0day analysis"
+    ],
+    "language": null,
+    "repo_name": "0day-security-software-vulnerability-analysis-technology",
+    "repo_owner": "git3345678git",
+    "repotime": "2021-09-01, 22:33:42",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-01",
+    "date_updated": "2021-09-01",
+    "description": "Exploit for Elastix 2.2.0 and FreePBX 2.10.0 based on CVE-2012-4869 vulnerability working on Python3",
+    "forks_count": 0,
+    "html_url": "https://github.com/bitc0de/Elastix-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Elastix-Remote-Code-Execution",
+    "repo_owner": "bitc0de",
+    "repotime": "2021-09-01, 15:16:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 96,
+    "date_started": "2021-09-09",
+    "date_updated": "2021-09-30",
+    "description": "Automatic patching of use after free security vulnerabilities by applying LLVM compiler transformation ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Microsvuln/llvm-automemfix",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "llvm-automemfix",
+    "repo_owner": "Microsvuln",
+    "repotime": "2021-09-30, 18:33:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-09-08",
+    "date_updated": "2021-09-29",
+    "description": "Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444",
+    "forks_count": 7,
+    "html_url": "https://github.com/ozergoker/CVE-2021-40444",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-40444",
+    "repo_owner": "ozergoker",
+    "repotime": "2021-09-29, 14:39:26",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 152,
+    "date_started": "2011-11-29",
+    "date_updated": "2021-09-29",
+    "description": "Convert Markdown to HTML, with XSS protection",
+    "forks_count": 394,
+    "html_url": "https://github.com/snoyberg/markdown",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Haskell",
+    "repo_name": "markdown",
+    "repo_owner": "snoyberg",
+    "repotime": "2021-09-29, 08:17:34",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}
+{
+    "commits_count": 36,
+    "date_started": "2015-09-18",
+    "date_updated": "2021-09-26",
+    "description": "Exploits by 1N3 @CrowdShield @xer0dayz @XeroSecurity",
+    "forks_count": 103,
+    "html_url": "https://github.com/1N3/Exploits",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Exploits",
+    "repo_owner": "1N3",
+    "repotime": "2021-09-26, 18:47:12",
+    "stargazers_count": 204,
+    "watchers_count": 204
+}
+{
+    "commits_count": 410,
+    "date_started": "2020-04-19",
+    "date_updated": "2021-09-25",
+    "description": "A phased, evasive Path Traversal + LFI scanning &amp;amp; exploitation tool in Python",
+    "forks_count": 24,
+    "html_url": "https://github.com/VainlyStrain/Vailyn",
+    "keywords": [
+        "lfi",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Vailyn",
+    "repo_owner": "VainlyStrain",
+    "repotime": "2021-09-25, 21:18:09",
+    "stargazers_count": 198,
+    "watchers_count": 198
+}
+{
+    "commits_count": 36,
+    "date_started": "2021-10-27",
+    "date_updated": "2021-09-24",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 11,
+    "html_url": "https://github.com/BrockOz/Final-Project",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution analysis",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "Final-Project",
+    "repo_owner": "BrockOz",
+    "repotime": "2021-09-24, 14:45:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 81,
+    "date_started": "2021-09-14",
+    "date_updated": "2021-09-22",
+    "description": "jQuery powered applications and services with absolute minimum fuss. A cross-platform JavaScript library optimized to do the common scripting functions with fewer lines of code. jQuery for cross-platform feature-rich scripting to handle client-side scripting of HTML.",
+    "forks_count": 0,
+    "html_url": "https://github.com/abdibedaso/jQuery",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "jQuery",
+    "repo_owner": "abdibedaso",
+    "repotime": "2021-09-22, 21:19:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2015-02-04",
+    "date_updated": "2021-09-20",
+    "description": "Static analysis tool for Golang that protects against SQL injections     ",
+    "forks_count": 46,
+    "html_url": "https://github.com/stripe-archive/safesql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "safesql",
+    "repo_owner": "stripe-archive",
+    "repotime": "2021-09-20, 17:02:47",
+    "stargazers_count": 563,
+    "watchers_count": 563
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-09-20",
+    "date_updated": "2021-09-20",
+    "description": "&amp;&#35;35; free-agario-bots Free open source agar.io bots  [Join our Discord](https://discord.gg/SDMNEcJ)  &amp;&#35;35;&amp;&#35;35; Usage [Video tutorial for Windows](https://www.youtube.com/watch?v=TkihvNIpiTw)   Windows ------- 1. Install [Node.js](https://nodejs.org) 2. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension on your browser 3. Download the bots files from this repository as a ZIP and extract them on a folder 4. Run `install.bat` and wait for it to close by itself 5. Run `server.bat` and leave it open 6. Copy and paste the contents of either [`free-agario-bots.vanilla.user.js`](https://github.com/xN3BULA/free-agario-bots/raw/master/free-agario-bots.vanilla.user.js) or [`free-agario-bots.ogario.user.js`](https://github.com/xN3BULA/free-agario-bots/raw/master/free-agario-bots.ogario.user.js) into a new Tampermonkey userscript and save it 7. Go to [agar.io](https://agar.io) with 1 of the 2 userscripts enabled and click &amp;quo...",
+    "forks_count": 0,
+    "html_url": "https://github.com/mergim122/asd",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "asd",
+    "repo_owner": "mergim122",
+    "repotime": "2021-09-20, 16:55:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-09-15",
+    "date_updated": "2021-09-15",
+    "description": " Automated Trading System (Stock Market) A Client-Server Based Trading System is to be designed with the following specifications. There will be a set of traders who will trade with each other in the automated system. There will be a Server which will register requests from traders for buying and selling quantities of Items. The Server will also match the buy with the sell requests from different traders based on certain price rules (as listed below). Traders will log on to the trading system through the trading client (assume Trader ID and password is stored in a file). They will have the option to view the currently available items (for buy/sell), their quantities and their prices. They will also send requests for buying and selling items and specify the quantity and price. Traders will also have the option to view their matched trades at any time. There are ten known items which the traders can trade in with their codes from 1 to 10. There will be a maximum of 5 traders (with codes ...",
+    "forks_count": 1,
+    "html_url": "https://github.com/vishal66959/Client-Server-Based-Automated-Trading-System-main",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "C",
+    "repo_name": "Client-Server-Based-Automated-Trading-System-main",
+    "repo_owner": "vishal66959",
+    "repotime": "2021-09-15, 12:31:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 18,
+    "date_started": "2020-04-02",
+    "date_updated": "2021-09-09",
+    "description": "Python bind shell single line code for both Unix and Windows, used to find and exploit RCE (ImageMagick, Ghostscript, ...)",
+    "forks_count": 8,
+    "html_url": "https://github.com/shelld3v/RCE-python-oneliner-payload",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows rce",
+        "rce exploitation",
+        "Windows rce exploit"
+    ],
+    "language": null,
+    "repo_name": "RCE-python-oneliner-payload",
+    "repo_owner": "shelld3v",
+    "repotime": "2021-09-09, 20:36:01",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-09-06",
+    "date_updated": "2021-09-08",
+    "description": "It is a mini project based HTML, CSS and JAVASCRIPT . It is basically a sudoku game which validates the user input, gives error on wrong answers, indicates duplicity, highlights the respective cells , columns and rows on single and double clicks. It has three modes to play in- easy, medium, hard . You can also reset the entire game or have a peek at the solution incase you cannot figure it out. It shows modals on winning, incase of alert or on loosing. Allover it a mini sudoku game, hope you guys like it !!",
+    "forks_count": 0,
+    "html_url": "https://github.com/Maheti/Sudoku-Game",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Sudoku-Game",
+    "repo_owner": "Maheti",
+    "repotime": "2021-09-08, 01:01:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-08-30",
+    "date_updated": "2021-09-07",
+    "description": "About lichess dev lichess.org is a free/libre, open-source chess server powered by volunteers and donations.  In 2017, Official began work on Lichess as a hobby project. The site was simple at the beginning, not even checking to see if moves were legal. He made the site open source, which means anyone is free to read the source code and make contributions. Gradually, the site improved and collected users as an enthusiastic volunteer staff assembled to help Thibault build and maintain the site.Vlounteer's may can fork on our Git project  Today, Lichess users play more than a million games every day. Lichess is one of the most popular chess websites in the world while remaining 100% free. Most “free” websites subsist by selling ads or selling user data. Others do it by putting all the good stuff behind paywalls. Lichess does none of these things and never will. With no investors demanding profits, Lichess staff can focus on improving the site as their only goal.  Despite Lichess's humble...",
+    "forks_count": 3,
+    "html_url": "https://github.com/LichessModerator/lichessdev",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Python",
+    "repo_name": "lichessdev",
+    "repo_owner": "LichessModerator",
+    "repotime": "2021-09-07, 19:31:20",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-09-14",
+    "date_updated": "2021-09-06",
+    "description": "Likelihood-Free Inference for Gravitational Waves",
+    "forks_count": 18,
+    "html_url": "https://github.com/stephengreen/lfi-gw",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "lfi-gw",
+    "repo_owner": "stephengreen",
+    "repotime": "2021-09-06, 11:27:26",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-06",
+    "date_updated": "2021-09-05",
+    "description": "Elastix remote code execution exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/k4miyo/FreePBX-Elastix-RCE-exploit",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "FreePBX-Elastix-RCE-exploit",
+    "repo_owner": "k4miyo",
+    "repotime": "2021-09-05, 21:04:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-05-25",
+    "date_updated": "2021-09-03",
+    "description": "This is a boot2root VM and is a continuation of the Basic Pentesting series. This series is designed to help newcomers to penetration testing develop pentesting skills and have fun exploring part of the offensive side of security.  VirtualBox is the recommended platform for this challenge (though it should also work with VMware -- however, I haven’t tested that).  This VM is a moderate step up in difficulty from the first entry in this series. If you’ve solved the first entry and have tried a few other beginner-oriented challenges, this VM should be a good next step. Once again, this challenge contains multiple initial exploitation vectors and privilege escalation vulnerabilities.  Your goal is to remotely attack the VM, gain root privileges, and read the flag located at /root/flag.txt. Once you’ve finished, try to find other vectors you might have missed! If you’d like to send me a link to your writeup, enjoyed the VM or have questions or feedback, feel free to contact me at: josiah@v...",
+    "forks_count": 5,
+    "html_url": "https://github.com/vshaliii/Basic-Pentesting-2-Vulnhub-Walkthrough",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Basic-Pentesting-2-Vulnhub-Walkthrough",
+    "repo_owner": "vshaliii",
+    "repotime": "2021-09-03, 11:40:14",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-07-29",
+    "date_updated": "2021-09-03",
+    "description": "A List Of ZeroDay Vulnerabilities Discovered By Byron Taaka (4dbyron). As they are Mostly still Active and Unpatched at the time of Inclusion, Only Listing is done, without any finer details of the vulnerabilty. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/4dbyron/zero-days_4dbyron",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "zero-days_4dbyron",
+    "repo_owner": "4dbyron",
+    "repotime": "2021-09-03, 01:10:36",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-08-26",
+    "date_updated": "2021-09-02",
+    "description": "EXPLOIT",
+    "forks_count": 0,
+    "html_url": "https://github.com/klodi667/0day-EXPLOIT",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "0day-EXPLOIT",
+    "repo_owner": "klodi667",
+    "repotime": "2021-09-02, 11:01:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 129,
+    "date_started": "2021-08-05",
+    "date_updated": "2021-09-01",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology",
+    "keywords": [
+        "0day vulnerability",
+        "0day analysis"
+    ],
+    "language": null,
+    "repo_name": "0day-security-software-vulnerability-analysis-technology",
+    "repo_owner": "git3345678git",
+    "repotime": "2021-09-01, 22:33:42",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-01",
+    "date_updated": "2021-09-01",
+    "description": "Exploit for Elastix 2.2.0 and FreePBX 2.10.0 based on CVE-2012-4869 vulnerability working on Python3",
+    "forks_count": 0,
+    "html_url": "https://github.com/bitc0de/Elastix-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Elastix-Remote-Code-Execution",
+    "repo_owner": "bitc0de",
+    "repotime": "2021-09-01, 15:16:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -1,0 +1,906 @@
+{
+    "commits_count": 7,
+    "date_started": "2022-03-30",
+    "date_updated": "2022-03-31",
+    "description": "<no description>",
+    "forks_count": 20,
+    "html_url": "https://github.com/Retrospected/spring-rce-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "spring-rce-poc",
+    "repo_owner": "Retrospected",
+    "repotime": "2022-03-31, 14:04:53",
+    "stargazers_count": 86,
+    "watchers_count": 86
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-31",
+    "date_updated": "2022-03-31",
+    "description": "This repo is mainly for Zero Day Vulnerablities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/netwrkspider/PoC-Vault",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day poc"
+    ],
+    "language": "YARA",
+    "repo_name": "PoC-Vault",
+    "repo_owner": "netwrkspider",
+    "repotime": "2022-03-31, 11:51:52",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 43,
+    "date_started": "2021-02-11",
+    "date_updated": "2022-03-30",
+    "description": "👻 [PoC] TyranoScript 5.13b - Arbitrary Code Execution (0day)",
+    "forks_count": 0,
+    "html_url": "https://github.com/satoki/tyranoscript_vulnerability",
+    "keywords": [
+        "0day exploit",
+        "0day poc",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "tyranoscript_vulnerability",
+    "repo_owner": "satoki",
+    "repotime": "2022-03-30, 16:41:55",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-30",
+    "date_updated": "2022-03-29",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/fbion/spring-spel-0day-poc-1",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "spring-spel-0day-poc-1",
+    "repo_owner": "fbion",
+    "repotime": "2022-03-29, 22:04:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-03-26",
+    "date_updated": "2022-03-28",
+    "description": "spring-cloud-function SpEL RCE复现环境&amp;amp;poc",
+    "forks_count": 10,
+    "html_url": "https://github.com/Pizz33/Spring-Cloud-Function-SpEL",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "Spring-Cloud-Function-SpEL",
+    "repo_owner": "Pizz33",
+    "repotime": "2022-03-28, 23:42:03",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-26",
+    "date_updated": "2022-03-27",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/iBLISSLabs/Blind-Server-Side-Request-Forgery-in-Wordpress-External-Media-without-Import",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "Blind-Server-Side-Request-Forgery-in-Wordpress-External-Media-without-Import",
+    "repo_owner": "iBLISSLabs",
+    "repotime": "2022-03-27, 03:39:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-26",
+    "date_updated": "2022-03-27",
+    "description": "spring-cloud-function SpEL RCE, Vultarget &amp;amp; Poc",
+    "forks_count": 39,
+    "html_url": "https://github.com/cckuailong/spring-cloud-function-SpEL-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "spring-cloud-function-SpEL-RCE",
+    "repo_owner": "cckuailong",
+    "repotime": "2022-03-27, 09:46:46",
+    "stargazers_count": 135,
+    "watchers_count": 135
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-03-13",
+    "date_updated": "2022-03-26",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/shikari00007/Pluck-CMS-Pluck-4.7.16-Theme-Upload-Remote-Code-Execution-Authenticated--POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Pluck-CMS-Pluck-4.7.16-Theme-Upload-Remote-Code-Execution-Authenticated--POC",
+    "repo_owner": "shikari00007",
+    "repotime": "2022-03-26, 14:55:02",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-22",
+    "date_updated": "2022-03-26",
+    "description": "Remote Code Execution (RCE)",
+    "forks_count": 1,
+    "html_url": "https://github.com/shikari00007/Atom-CMS-2.0---File-Upload-Remote-Code-Execution-Un-Authenticated-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Atom-CMS-2.0---File-Upload-Remote-Code-Execution-Un-Authenticated-POC",
+    "repo_owner": "shikari00007",
+    "repotime": "2022-03-26, 14:53:10",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-03-15",
+    "date_updated": "2022-03-25",
+    "description": "CVE-2019-0708 (BlueKeep) proof of concept allowing pre-auth RCE on Windows7",
+    "forks_count": 22,
+    "html_url": "https://github.com/RICSecLab/CVE-2019-0708",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-0708",
+    "repo_owner": "RICSecLab",
+    "repotime": "2022-03-25, 15:46:40",
+    "stargazers_count": 140,
+    "watchers_count": 140
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-03-20",
+    "date_updated": "2022-03-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/iBLISSLabs/Server-Side-Request-Forgery-SSRF-on-EXMAGE---WordPress-Image-Links",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "Server-Side-Request-Forgery-SSRF-on-EXMAGE---WordPress-Image-Links",
+    "repo_owner": "iBLISSLabs",
+    "repotime": "2022-03-24, 22:51:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-12-21",
+    "date_updated": "2022-03-22",
+    "description": "Laravel RCE exploit. CVE-2018-15133",
+    "forks_count": 13,
+    "html_url": "https://github.com/pwnedshell/Larascript",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Larascript",
+    "repo_owner": "pwnedshell",
+    "repotime": "2022-03-22, 18:56:41",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-22",
+    "date_updated": "2022-03-22",
+    "description": "漏洞概念证明及利用工具，主要基于Poc-bomber等优秀框架，分享一些0day和HW工具",
+    "forks_count": 3,
+    "html_url": "https://github.com/Lay0us/Poc_Exp",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "Poc_Exp",
+    "repo_owner": "Lay0us",
+    "repotime": "2022-03-22, 14:42:31",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-03-07",
+    "date_updated": "2022-03-21",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/D4rkP0w4r/AeroCMS-Unrestricted-File-Upload-POC",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "AeroCMS-Unrestricted-File-Upload-POC",
+    "repo_owner": "D4rkP0w4r",
+    "repotime": "2022-03-21, 18:13:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-03-11",
+    "date_updated": "2022-03-21",
+    "description": "Seowon SLR-120S42G RCE Exploit / Remote Code Execution (Unauthenticated)",
+    "forks_count": 3,
+    "html_url": "https://github.com/TAPESH-TEAM/CVE-2020-17456-Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-17456-Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated",
+    "repo_owner": "TAPESH-TEAM",
+    "repotime": "2022-03-21, 03:16:16",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-11-02",
+    "date_updated": "2022-03-20",
+    "description": "Zero-day and N-day security vulnerability notes, analysis, and proof-of-concepts",
+    "forks_count": 79,
+    "html_url": "https://github.com/alisaesage/Disclosures",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day analysis",
+        "zero-day disclosure",
+        "zero-day proof of concept"
+    ],
+    "language": "HTML",
+    "repo_name": "Disclosures",
+    "repo_owner": "alisaesage",
+    "repotime": "2022-03-20, 23:58:26",
+    "stargazers_count": 427,
+    "watchers_count": 427
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-12-10",
+    "date_updated": "2022-03-18",
+    "description": "log4j2 rce、poc",
+    "forks_count": 41,
+    "html_url": "https://github.com/dbgee/log4j2_rce",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "log4j2_rce",
+    "repo_owner": "dbgee",
+    "repotime": "2022-03-18, 15:27:13",
+    "stargazers_count": 101,
+    "watchers_count": 101
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-03-11",
+    "date_updated": "2022-03-18",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/D4rkP0w4r/Musical-World-Unrestricted-File-Upload-RCE-POC",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Musical-World-Unrestricted-File-Upload-RCE-POC",
+    "repo_owner": "D4rkP0w4r",
+    "repotime": "2022-03-18, 02:44:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-17",
+    "date_updated": "2022-03-17",
+    "description": "Apache APISIX 2.12.1 Remote Code Execution by IP restriction bypass and using default admin AIP token",
+    "forks_count": 0,
+    "html_url": "https://github.com/kavishkagihan/CVE-2022-24112-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-24112-POC",
+    "repo_owner": "kavishkagihan",
+    "repotime": "2022-03-17, 13:54:53",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-03-16",
+    "date_updated": "2022-03-16",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/D4rkP0w4r/sms-Unrestricted-File-Upload-RCE-POC",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "sms-Unrestricted-File-Upload-RCE-POC",
+    "repo_owner": "D4rkP0w4r",
+    "repotime": "2022-03-16, 22:32:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-03-15",
+    "date_updated": "2022-03-15",
+    "description": "Sleirsgoevy: PoC for the FontFaceSet vulnerability, which was wrongly classified as a use-after-free. Works only on PC for now. Please check if this prints &amp;quot;failed to guess...&amp;quot; for you. Especially interested in reports from 9.00.",
+    "forks_count": 0,
+    "html_url": "https://github.com/crump-youtube/900Test",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "900Test",
+    "repo_owner": "crump-youtube",
+    "repotime": "2022-03-15, 12:37:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-14",
+    "date_updated": "2022-03-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/D4rkP0w4r/Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC",
+    "repo_owner": "D4rkP0w4r",
+    "repotime": "2022-03-14, 16:59:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-03-14",
+    "date_updated": "2022-03-14",
+    "description": "Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587",
+    "forks_count": 11,
+    "html_url": "https://github.com/ZZ-SOCMAP/CVE-2021-35587",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-35587",
+    "repo_owner": "ZZ-SOCMAP",
+    "repotime": "2022-03-14, 13:06:55",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-11",
+    "date_updated": "2022-03-11",
+    "description": "LPE on linux kernel based on CVE-2017-14954, CVE-2017-18344, CVE-2017-5123",
+    "forks_count": 1,
+    "html_url": "https://github.com/echo-devim/exploit_linux_kernel4.13",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "exploit_linux_kernel4.13",
+    "repo_owner": "echo-devim",
+    "repotime": "2022-03-11, 14:06:43",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 28,
+    "date_started": "2022-02-17",
+    "date_updated": "2022-03-04",
+    "description": "CNVD-2022-10270/CNVD-2022-03672",
+    "forks_count": 3,
+    "html_url": "https://github.com/Wrin9/sunflower_RCE_POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "sunflower_RCE_POC",
+    "repo_owner": "Wrin9",
+    "repotime": "2022-03-04, 14:56:12",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-12-13",
+    "date_updated": "2022-03-02",
+    "description": "A PoC for CVE-2021-44827 - authenticated remote code execution in Tp-link Archer C20i",
+    "forks_count": 0,
+    "html_url": "https://github.com/full-disclosure/CVE-2021-44827",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-44827",
+    "repo_owner": "full-disclosure",
+    "repotime": "2022-03-02, 18:36:35",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-03-30",
+    "date_updated": "2022-03-31",
+    "description": "<no description>",
+    "forks_count": 20,
+    "html_url": "https://github.com/Retrospected/spring-rce-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "spring-rce-poc",
+    "repo_owner": "Retrospected",
+    "repotime": "2022-03-31, 14:04:53",
+    "stargazers_count": 86,
+    "watchers_count": 86
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-31",
+    "date_updated": "2022-03-31",
+    "description": "This repo is mainly for Zero Day Vulnerablities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/netwrkspider/PoC-Vault",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day poc"
+    ],
+    "language": "YARA",
+    "repo_name": "PoC-Vault",
+    "repo_owner": "netwrkspider",
+    "repotime": "2022-03-31, 11:51:52",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 43,
+    "date_started": "2021-02-11",
+    "date_updated": "2022-03-30",
+    "description": "👻 [PoC] TyranoScript 5.13b - Arbitrary Code Execution (0day)",
+    "forks_count": 0,
+    "html_url": "https://github.com/satoki/tyranoscript_vulnerability",
+    "keywords": [
+        "0day exploit",
+        "0day poc",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "tyranoscript_vulnerability",
+    "repo_owner": "satoki",
+    "repotime": "2022-03-30, 16:41:55",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-30",
+    "date_updated": "2022-03-29",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/fbion/spring-spel-0day-poc-1",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "spring-spel-0day-poc-1",
+    "repo_owner": "fbion",
+    "repotime": "2022-03-29, 22:04:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-03-26",
+    "date_updated": "2022-03-28",
+    "description": "spring-cloud-function SpEL RCE复现环境&amp;amp;poc",
+    "forks_count": 10,
+    "html_url": "https://github.com/Pizz33/Spring-Cloud-Function-SpEL",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "Spring-Cloud-Function-SpEL",
+    "repo_owner": "Pizz33",
+    "repotime": "2022-03-28, 23:42:03",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-26",
+    "date_updated": "2022-03-27",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/iBLISSLabs/Blind-Server-Side-Request-Forgery-in-Wordpress-External-Media-without-Import",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "Blind-Server-Side-Request-Forgery-in-Wordpress-External-Media-without-Import",
+    "repo_owner": "iBLISSLabs",
+    "repotime": "2022-03-27, 03:39:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-26",
+    "date_updated": "2022-03-27",
+    "description": "spring-cloud-function SpEL RCE, Vultarget &amp;amp; Poc",
+    "forks_count": 39,
+    "html_url": "https://github.com/cckuailong/spring-cloud-function-SpEL-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "spring-cloud-function-SpEL-RCE",
+    "repo_owner": "cckuailong",
+    "repotime": "2022-03-27, 09:46:46",
+    "stargazers_count": 135,
+    "watchers_count": 135
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-03-13",
+    "date_updated": "2022-03-26",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/shikari00007/Pluck-CMS-Pluck-4.7.16-Theme-Upload-Remote-Code-Execution-Authenticated--POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Pluck-CMS-Pluck-4.7.16-Theme-Upload-Remote-Code-Execution-Authenticated--POC",
+    "repo_owner": "shikari00007",
+    "repotime": "2022-03-26, 14:55:02",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-22",
+    "date_updated": "2022-03-26",
+    "description": "Remote Code Execution (RCE)",
+    "forks_count": 1,
+    "html_url": "https://github.com/shikari00007/Atom-CMS-2.0---File-Upload-Remote-Code-Execution-Un-Authenticated-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Atom-CMS-2.0---File-Upload-Remote-Code-Execution-Un-Authenticated-POC",
+    "repo_owner": "shikari00007",
+    "repotime": "2022-03-26, 14:53:10",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-03-15",
+    "date_updated": "2022-03-25",
+    "description": "CVE-2019-0708 (BlueKeep) proof of concept allowing pre-auth RCE on Windows7",
+    "forks_count": 22,
+    "html_url": "https://github.com/RICSecLab/CVE-2019-0708",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-0708",
+    "repo_owner": "RICSecLab",
+    "repotime": "2022-03-25, 15:46:40",
+    "stargazers_count": 140,
+    "watchers_count": 140
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-03-20",
+    "date_updated": "2022-03-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/iBLISSLabs/Server-Side-Request-Forgery-SSRF-on-EXMAGE---WordPress-Image-Links",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "Server-Side-Request-Forgery-SSRF-on-EXMAGE---WordPress-Image-Links",
+    "repo_owner": "iBLISSLabs",
+    "repotime": "2022-03-24, 22:51:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-12-21",
+    "date_updated": "2022-03-22",
+    "description": "Laravel RCE exploit. CVE-2018-15133",
+    "forks_count": 13,
+    "html_url": "https://github.com/pwnedshell/Larascript",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Larascript",
+    "repo_owner": "pwnedshell",
+    "repotime": "2022-03-22, 18:56:41",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-22",
+    "date_updated": "2022-03-22",
+    "description": "漏洞概念证明及利用工具，主要基于Poc-bomber等优秀框架，分享一些0day和HW工具",
+    "forks_count": 3,
+    "html_url": "https://github.com/Lay0us/Poc_Exp",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "Poc_Exp",
+    "repo_owner": "Lay0us",
+    "repotime": "2022-03-22, 14:42:31",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-03-07",
+    "date_updated": "2022-03-21",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/D4rkP0w4r/AeroCMS-Unrestricted-File-Upload-POC",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "AeroCMS-Unrestricted-File-Upload-POC",
+    "repo_owner": "D4rkP0w4r",
+    "repotime": "2022-03-21, 18:13:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-03-11",
+    "date_updated": "2022-03-21",
+    "description": "Seowon SLR-120S42G RCE Exploit / Remote Code Execution (Unauthenticated)",
+    "forks_count": 3,
+    "html_url": "https://github.com/TAPESH-TEAM/CVE-2020-17456-Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-17456-Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated",
+    "repo_owner": "TAPESH-TEAM",
+    "repotime": "2022-03-21, 03:16:16",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-11-02",
+    "date_updated": "2022-03-20",
+    "description": "Zero-day and N-day security vulnerability notes, analysis, and proof-of-concepts",
+    "forks_count": 79,
+    "html_url": "https://github.com/alisaesage/Disclosures",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day analysis",
+        "zero-day disclosure",
+        "zero-day proof of concept"
+    ],
+    "language": "HTML",
+    "repo_name": "Disclosures",
+    "repo_owner": "alisaesage",
+    "repotime": "2022-03-20, 23:58:26",
+    "stargazers_count": 427,
+    "watchers_count": 427
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-12-10",
+    "date_updated": "2022-03-18",
+    "description": "log4j2 rce、poc",
+    "forks_count": 41,
+    "html_url": "https://github.com/dbgee/log4j2_rce",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "log4j2_rce",
+    "repo_owner": "dbgee",
+    "repotime": "2022-03-18, 15:27:13",
+    "stargazers_count": 101,
+    "watchers_count": 101
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-03-11",
+    "date_updated": "2022-03-18",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/D4rkP0w4r/Musical-World-Unrestricted-File-Upload-RCE-POC",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Musical-World-Unrestricted-File-Upload-RCE-POC",
+    "repo_owner": "D4rkP0w4r",
+    "repotime": "2022-03-18, 02:44:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-17",
+    "date_updated": "2022-03-17",
+    "description": "Apache APISIX 2.12.1 Remote Code Execution by IP restriction bypass and using default admin AIP token",
+    "forks_count": 0,
+    "html_url": "https://github.com/kavishkagihan/CVE-2022-24112-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-24112-POC",
+    "repo_owner": "kavishkagihan",
+    "repotime": "2022-03-17, 13:54:53",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-03-16",
+    "date_updated": "2022-03-16",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/D4rkP0w4r/sms-Unrestricted-File-Upload-RCE-POC",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "sms-Unrestricted-File-Upload-RCE-POC",
+    "repo_owner": "D4rkP0w4r",
+    "repotime": "2022-03-16, 22:32:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-03-15",
+    "date_updated": "2022-03-15",
+    "description": "Sleirsgoevy: PoC for the FontFaceSet vulnerability, which was wrongly classified as a use-after-free. Works only on PC for now. Please check if this prints &amp;quot;failed to guess...&amp;quot; for you. Especially interested in reports from 9.00.",
+    "forks_count": 0,
+    "html_url": "https://github.com/crump-youtube/900Test",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "900Test",
+    "repo_owner": "crump-youtube",
+    "repotime": "2022-03-15, 12:37:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-14",
+    "date_updated": "2022-03-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/D4rkP0w4r/Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC",
+    "repo_owner": "D4rkP0w4r",
+    "repotime": "2022-03-14, 16:59:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-03-14",
+    "date_updated": "2022-03-14",
+    "description": "Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587",
+    "forks_count": 11,
+    "html_url": "https://github.com/ZZ-SOCMAP/CVE-2021-35587",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-35587",
+    "repo_owner": "ZZ-SOCMAP",
+    "repotime": "2022-03-14, 13:06:55",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-11",
+    "date_updated": "2022-03-11",
+    "description": "LPE on linux kernel based on CVE-2017-14954, CVE-2017-18344, CVE-2017-5123",
+    "forks_count": 1,
+    "html_url": "https://github.com/echo-devim/exploit_linux_kernel4.13",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "exploit_linux_kernel4.13",
+    "repo_owner": "echo-devim",
+    "repotime": "2022-03-11, 14:06:43",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 28,
+    "date_started": "2022-02-17",
+    "date_updated": "2022-03-04",
+    "description": "CNVD-2022-10270/CNVD-2022-03672",
+    "forks_count": 3,
+    "html_url": "https://github.com/Wrin9/sunflower_RCE_POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "sunflower_RCE_POC",
+    "repo_owner": "Wrin9",
+    "repotime": "2022-03-04, 14:56:12",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-12-13",
+    "date_updated": "2022-03-02",
+    "description": "A PoC for CVE-2021-44827 - authenticated remote code execution in Tp-link Archer C20i",
+    "forks_count": 0,
+    "html_url": "https://github.com/full-disclosure/CVE-2021-44827",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-44827",
+    "repo_owner": "full-disclosure",
+    "repotime": "2022-03-02, 18:36:35",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

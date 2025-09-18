@@ -1,0 +1,120 @@
+{
+    "commits_count": 7,
+    "date_started": "2024-10-23",
+    "date_updated": "2024-10-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "repo_owner": "Bogdy88",
+    "repotime": "2024-10-23, 01:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-10-06",
+    "date_updated": "2024-10-14",
+    "description": "&amp;quot;Walkthrough of the 'Westwild: 2' boot2root challenge from VulnHub, demonstrating penetration testing techniques and privilege escalation methods. Includes detailed steps for enumeration, exploitation, and flag capture.&amp;quot;",
+    "forks_count": 0,
+    "html_url": "https://github.com/yaseenibnakhtar/WESTWILD-2.0",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "WESTWILD-2.0",
+    "repo_owner": "yaseenibnakhtar",
+    "repotime": "2024-10-14, 15:20:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-08-25",
+    "date_updated": "2024-10-10",
+    "description": "LPE Exploits of windows drivers",
+    "forks_count": 0,
+    "html_url": "https://github.com/nu1lptr0/LPE_Windows_Exploitation",
+    "keywords": [
+        "Windows lpe",
+        "Win lpe"
+    ],
+    "language": "C",
+    "repo_name": "LPE_Windows_Exploitation",
+    "repo_owner": "nu1lptr0",
+    "repotime": "2024-10-10, 22:32:41",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-09",
+    "description": "solution of path traversal vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/nadamohamedabdelrahman/portSwigger_pathTraversal",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "portSwigger_pathTraversal",
+    "repo_owner": "nadamohamedabdelrahman",
+    "repotime": "2024-10-09, 18:22:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-09-30",
+    "date_updated": "2024-10-02",
+    "description": "I have completed a full-stack application using Next.js, TypeScript, Clerk for authentication, shadcn/ui for user interfaces, Supabase for cloud data storage, and Stripe for payments. The app features three user roles: public users (unauthenticated), authenticated users (account holders), and admins (who can create products).",
+    "forks_count": 0,
+    "html_url": "https://github.com/AbdirashidAbdullahiAhmed/next-store",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "next-store",
+    "repo_owner": "AbdirashidAbdullahiAhmed",
+    "repotime": "2024-10-02, 14:25:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-02",
+    "date_updated": "2024-10-02",
+    "description": "An exploration of buffer overflow vulnerabilities, bypassing Address Space Layout Randomization (ASLR), and heap overflow attacks using real-world exploit techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fekk1i/Buffer-Overflow-ASLR-and-Heap-Overflow-Attacks",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": null,
+    "repo_name": "Buffer-Overflow-ASLR-and-Heap-Overflow-Attacks",
+    "repo_owner": "fekk1i",
+    "repotime": "2024-10-02, 12:53:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-04-24",
+    "date_updated": "2024-10-02",
+    "description": "A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.",
+    "forks_count": 0,
+    "html_url": "https://github.com/readloud/PrivEsc",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "PrivEsc",
+    "repo_owner": "readloud",
+    "repotime": "2024-10-02, 04:02:06",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

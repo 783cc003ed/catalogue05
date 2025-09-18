@@ -1,0 +1,125 @@
+{
+    "commits_count": 12,
+    "date_started": "2019-02-28",
+    "date_updated": "2020-11-27",
+    "description": "PHP auto indexer: the tool against directory traversal security vulnerability. It recursively adds a index.php file in all given directories.",
+    "forks_count": 2,
+    "html_url": "https://github.com/zapalm/auto-indexer",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "auto-indexer",
+    "repo_owner": "zapalm",
+    "repotime": "2020-11-27, 16:37:45",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-11-21",
+    "date_updated": "2020-11-20",
+    "description": "Return to Libc exploit with format string vulnerability, bypass ASLR, NX, and Stack Canary",
+    "forks_count": 0,
+    "html_url": "https://github.com/teleplayer123/ROP-Format-Exploit",
+    "keywords": [
+        "aslr bypass",
+        "aslr bypass vulnerability",
+        "aslr bypass exploitation",
+        "aslr bypass exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ROP-Format-Exploit",
+    "repo_owner": "teleplayer123",
+    "repotime": "2020-11-20, 19:51:44",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-11-20",
+    "date_updated": "2020-11-20",
+    "description": "Walkthrough on exploiting a Linux machine. Enumerate Samba for shares, manipulate a vulnerable version of proftpd and escalate your privileges with path variable manipulation. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Eutectico/Kenobi",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Kenobi",
+    "repo_owner": "Eutectico",
+    "repotime": "2020-11-20, 11:50:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-11-28",
+    "date_updated": "2020-11-19",
+    "description": "Automatically Preventing Code Injection Attacks on Node.js",
+    "forks_count": 8,
+    "html_url": "https://github.com/sola-da/Synode",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "Synode",
+    "repo_owner": "sola-da",
+    "repotime": "2020-11-19, 18:14:16",
+    "stargazers_count": 78,
+    "watchers_count": 78
+}
+{
+    "commits_count": 62,
+    "date_started": "2020-11-15",
+    "date_updated": "2020-11-18",
+    "description": "Docker image to exploit RCE, try for pentest methods and test container security solutions (trivy, falco and etc.) ",
+    "forks_count": 42,
+    "html_url": "https://github.com/Swordfish-Security/Pentest-In-Docker",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "Pentest-In-Docker",
+    "repo_owner": "Swordfish-Security",
+    "repotime": "2020-11-18, 13:18:26",
+    "stargazers_count": 90,
+    "watchers_count": 90
+}
+{
+    "commits_count": 18,
+    "date_started": "2020-11-10",
+    "date_updated": "2020-11-17",
+    "description": "A docker credential helper for plaintext storage of passwords. Use with caution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dougrday/docker-credential-plaintext",
+    "keywords": [
+        "password plaintext storage"
+    ],
+    "language": "JavaScript",
+    "repo_name": "docker-credential-plaintext",
+    "repo_owner": "dougrday",
+    "repotime": "2020-11-17, 09:04:59",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-11-13",
+    "date_updated": "2020-11-13",
+    "description": "Vulnerability Description of CVE-2020-15349",
+    "forks_count": 1,
+    "html_url": "https://github.com/Traxes/Forklift_LPE",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "Objective-C",
+    "repo_name": "Forklift_LPE",
+    "repo_owner": "Traxes",
+    "repotime": "2020-11-13, 14:41:37",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}

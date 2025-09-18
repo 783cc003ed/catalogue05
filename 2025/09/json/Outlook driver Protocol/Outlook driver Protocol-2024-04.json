@@ -1,0 +1,17 @@
+{
+    "commits_count": 4,
+    "date_started": "2024-04-15",
+    "date_updated": "2024-04-15",
+    "description": "CVE-2024-1642470 is a critical vulnerability discovered in the Windows USB Generic Parent Driver. The vulnerability arises due to improper input validation within the driver's IOCTL handling mechanism. As a result, remote attackers can execute arbitrary code via crafted IOCTL requests, potentially leading to system compromise.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Symbolexe/CVE-2024-1642470",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2024-1642470",
+    "repo_owner": "Symbolexe",
+    "repotime": "2024-04-15, 21:24:39",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

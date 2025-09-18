@@ -137,3 +137,281 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 235,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-14",
+    "description": "Documentation of strategies and methods for the OSCP exam ranging from target enumeration, vulnerability assessment, exploits, to privilege escalation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/airadulescu/Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "repo_owner": "airadulescu",
+    "repotime": "2023-02-14, 02:02:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-09",
+    "date_updated": "2023-02-09",
+    "description": "IBM Sterling Secure Proxy 6.0.3 is vulnerable to HTTP header injection, caused by improper validation of input by the HOST headers. This could allow an attacker to conduct various attacks against the vulnerable system, including cross-site scripting, cache poisoning or session hijacking. IBM X-Force ID: 230523. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34362",
+    "keywords": [
+        "session hijacking attack",
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34362",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-09, 16:15:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-07",
+    "date_updated": "2023-02-07",
+    "description": "In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-31575",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-31575",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-07, 01:06:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-07",
+    "date_updated": "2023-02-07",
+    "description": "In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-31574",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-31574",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-07, 01:06:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-07",
+    "date_updated": "2023-02-07",
+    "description": "In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-31573",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-31573",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-07, 01:06:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-04",
+    "date_updated": "2023-02-04",
+    "description": "resources/cmd.php in FusionPBX up to 4.5.7 suffers from a command injection vulnerability due to a lack of input validation, which allows authenticated administrative attackers to execute any commands on the host as www-data. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-16965",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-16965",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-04, 01:21:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "A formula injection vulnerability exists in Tenable.sc due to improper validation of user-supplied input before returning it to users. An authenticated attacker could leverage the reporting system to export reports containing formulas, which would then require a victim to approve and execute on a host. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-24493",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-24493",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 19:23:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-01",
+    "date_updated": "2023-02-01",
+    "description": "Memory leak in the NFS dissector in Wireshark 4.0.0 to 4.0.2 and 3.6.0 to 3.6.10 and allows denial of service via packet injection or crafted capture file CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0417",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0417",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-01, 19:04:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 235,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-14",
+    "description": "Documentation of strategies and methods for the OSCP exam ranging from target enumeration, vulnerability assessment, exploits, to privilege escalation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/airadulescu/Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "repo_owner": "airadulescu",
+    "repotime": "2023-02-14, 02:02:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-09",
+    "date_updated": "2023-02-09",
+    "description": "IBM Sterling Secure Proxy 6.0.3 is vulnerable to HTTP header injection, caused by improper validation of input by the HOST headers. This could allow an attacker to conduct various attacks against the vulnerable system, including cross-site scripting, cache poisoning or session hijacking. IBM X-Force ID: 230523. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34362",
+    "keywords": [
+        "session hijacking attack",
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34362",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-09, 16:15:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-07",
+    "date_updated": "2023-02-07",
+    "description": "In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-31575",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-31575",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-07, 01:06:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-07",
+    "date_updated": "2023-02-07",
+    "description": "In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-31574",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-31574",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-07, 01:06:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-07",
+    "date_updated": "2023-02-07",
+    "description": "In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-31573",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-31573",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-07, 01:06:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-04",
+    "date_updated": "2023-02-04",
+    "description": "resources/cmd.php in FusionPBX up to 4.5.7 suffers from a command injection vulnerability due to a lack of input validation, which allows authenticated administrative attackers to execute any commands on the host as www-data. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-16965",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-16965",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-04, 01:21:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "A formula injection vulnerability exists in Tenable.sc due to improper validation of user-supplied input before returning it to users. An authenticated attacker could leverage the reporting system to export reports containing formulas, which would then require a victim to approve and execute on a host. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-24493",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-24493",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 19:23:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-01",
+    "date_updated": "2023-02-01",
+    "description": "Memory leak in the NFS dissector in Wireshark 4.0.0 to 4.0.2 and 3.6.0 to 3.6.10 and allows denial of service via packet injection or crafted capture file CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0417",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0417",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-01, 19:04:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

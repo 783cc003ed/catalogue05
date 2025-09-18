@@ -1,0 +1,519 @@
+{
+    "commits_count": 10,
+    "date_started": "2020-10-16",
+    "date_updated": "2020-10-31",
+    "description": "JXA script to allow programmatic persistence via macOS Calendar.app alerts.",
+    "forks_count": 5,
+    "html_url": "https://github.com/FSecureLABS/CalendarPersist",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CalendarPersist",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2020-10-31, 14:29:35",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-10-29",
+    "date_updated": "2020-10-29",
+    "description": "<no description>",
+    "forks_count": 6,
+    "html_url": "https://github.com/iustin24/SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "SSRF",
+    "repo_owner": "iustin24",
+    "repotime": "2020-10-29, 23:53:30",
+    "stargazers_count": 34,
+    "watchers_count": 34
+}
+{
+    "commits_count": 85,
+    "date_started": "2015-11-18",
+    "date_updated": "2020-10-28",
+    "description": "UAF IceBridge Alaska Altimetry analysis scripts",
+    "forks_count": 1,
+    "html_url": "https://github.com/aaarendt/Alaska-altimetry",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Alaska-altimetry",
+    "repo_owner": "aaarendt",
+    "repotime": "2020-10-28, 12:03:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-10-27",
+    "date_updated": "2020-10-27",
+    "description": "windows 10 local privilege escalation",
+    "forks_count": 5,
+    "html_url": "https://github.com/kenemar/windows-lpe",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe"
+    ],
+    "language": "HTML",
+    "repo_name": "windows-lpe",
+    "repo_owner": "kenemar",
+    "repotime": "2020-10-27, 20:28:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-10-15",
+    "date_updated": "2020-10-21",
+    "description": "PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility)",
+    "forks_count": 35,
+    "html_url": "https://github.com/0neb1n/CVE-2020-16947",
+    "keywords": [
+        "Microsoft rce poc",
+        "Microsoft rce",
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-16947",
+    "repo_owner": "0neb1n",
+    "repotime": "2020-10-21, 05:09:57",
+    "stargazers_count": 124,
+    "watchers_count": 124
+}
+{
+    "commits_count": 25,
+    "date_started": "2020-09-20",
+    "date_updated": "2020-10-17",
+    "description": "An open source command line interface link checker that will look for dead links.  Made for DPS909 for release 0.1",
+    "forks_count": 4,
+    "html_url": "https://github.com/Supercraft888/lFinder",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "JavaScript",
+    "repo_name": "lFinder",
+    "repo_owner": "Supercraft888",
+    "repotime": "2020-10-17, 22:05:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-10-12",
+    "date_updated": "2020-10-13",
+    "description": "A shot code to Bypass UAC in Windows.",
+    "forks_count": 10,
+    "html_url": "https://github.com/avi7611/UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "UAC-Bypass",
+    "repo_owner": "avi7611",
+    "repotime": "2020-10-13, 10:24:59",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-09-27",
+    "date_updated": "2020-10-12",
+    "description": "Unrestricted File Uploads",
+    "forks_count": 0,
+    "html_url": "https://github.com/yashmahaja/Unrestricted-File-upload",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Unrestricted-File-upload",
+    "repo_owner": "yashmahaja",
+    "repotime": "2020-10-12, 01:36:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-10-05",
+    "date_updated": "2020-10-07",
+    "description": "This repo has a core LWC component that validates a customer identity and open up UX for file upload, importantly as an unauthenticated guest user. Typical use case in Loan Origination scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sriram-venkatraman/FileUpload",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "FileUpload",
+    "repo_owner": "sriram-venkatraman",
+    "repotime": "2020-10-07, 12:00:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-09-25",
+    "date_updated": "2020-10-01",
+    "description": "Java Spring based Server Side Request Forgery (SSRF) examples",
+    "forks_count": 0,
+    "html_url": "https://github.com/GeekMasher/ssrf-java",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Java",
+    "repo_name": "ssrf-java",
+    "repo_owner": "GeekMasher",
+    "repotime": "2020-10-01, 13:07:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2020-10-16",
+    "date_updated": "2020-10-31",
+    "description": "JXA script to allow programmatic persistence via macOS Calendar.app alerts.",
+    "forks_count": 5,
+    "html_url": "https://github.com/FSecureLABS/CalendarPersist",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CalendarPersist",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2020-10-31, 14:29:35",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-10-29",
+    "date_updated": "2020-10-29",
+    "description": "<no description>",
+    "forks_count": 6,
+    "html_url": "https://github.com/iustin24/SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "SSRF",
+    "repo_owner": "iustin24",
+    "repotime": "2020-10-29, 23:53:30",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 85,
+    "date_started": "2015-11-18",
+    "date_updated": "2020-10-28",
+    "description": "UAF IceBridge Alaska Altimetry analysis scripts",
+    "forks_count": 1,
+    "html_url": "https://github.com/aaarendt/Alaska-altimetry",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Alaska-altimetry",
+    "repo_owner": "aaarendt",
+    "repotime": "2020-10-28, 12:03:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-10-27",
+    "date_updated": "2020-10-27",
+    "description": "windows 10 local privilege escalation",
+    "forks_count": 5,
+    "html_url": "https://github.com/kenemar/windows-lpe",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe"
+    ],
+    "language": "HTML",
+    "repo_name": "windows-lpe",
+    "repo_owner": "kenemar",
+    "repotime": "2020-10-27, 20:28:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-10-15",
+    "date_updated": "2020-10-21",
+    "description": "PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility)",
+    "forks_count": 35,
+    "html_url": "https://github.com/0neb1n/CVE-2020-16947",
+    "keywords": [
+        "Microsoft rce poc",
+        "Microsoft rce",
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-16947",
+    "repo_owner": "0neb1n",
+    "repotime": "2020-10-21, 05:09:57",
+    "stargazers_count": 124,
+    "watchers_count": 124
+}
+{
+    "commits_count": 25,
+    "date_started": "2020-09-20",
+    "date_updated": "2020-10-17",
+    "description": "An open source command line interface link checker that will look for dead links.  Made for DPS909 for release 0.1",
+    "forks_count": 4,
+    "html_url": "https://github.com/Supercraft888/lFinder",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "JavaScript",
+    "repo_name": "lFinder",
+    "repo_owner": "Supercraft888",
+    "repotime": "2020-10-17, 22:05:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-10-12",
+    "date_updated": "2020-10-13",
+    "description": "A shot code to Bypass UAC in Windows.",
+    "forks_count": 10,
+    "html_url": "https://github.com/avi7611/UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "UAC-Bypass",
+    "repo_owner": "avi7611",
+    "repotime": "2020-10-13, 10:24:59",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-09-27",
+    "date_updated": "2020-10-12",
+    "description": "Unrestricted File Uploads",
+    "forks_count": 0,
+    "html_url": "https://github.com/yashmahaja/Unrestricted-File-upload",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Unrestricted-File-upload",
+    "repo_owner": "yashmahaja",
+    "repotime": "2020-10-12, 01:36:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-10-05",
+    "date_updated": "2020-10-07",
+    "description": "This repo has a core LWC component that validates a customer identity and open up UX for file upload, importantly as an unauthenticated guest user. Typical use case in Loan Origination scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sriram-venkatraman/FileUpload",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "FileUpload",
+    "repo_owner": "sriram-venkatraman",
+    "repotime": "2020-10-07, 12:00:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-09-25",
+    "date_updated": "2020-10-01",
+    "description": "Java Spring based Server Side Request Forgery (SSRF) examples",
+    "forks_count": 0,
+    "html_url": "https://github.com/GeekMasher/ssrf-java",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Java",
+    "repo_name": "ssrf-java",
+    "repo_owner": "GeekMasher",
+    "repotime": "2020-10-01, 13:07:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2020-10-16",
+    "date_updated": "2020-10-31",
+    "description": "JXA script to allow programmatic persistence via macOS Calendar.app alerts.",
+    "forks_count": 5,
+    "html_url": "https://github.com/FSecureLABS/CalendarPersist",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CalendarPersist",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2020-10-31, 14:29:35",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-10-29",
+    "date_updated": "2020-10-29",
+    "description": "<no description>",
+    "forks_count": 6,
+    "html_url": "https://github.com/iustin24/SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "SSRF",
+    "repo_owner": "iustin24",
+    "repotime": "2020-10-29, 23:53:30",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 85,
+    "date_started": "2015-11-18",
+    "date_updated": "2020-10-28",
+    "description": "UAF IceBridge Alaska Altimetry analysis scripts",
+    "forks_count": 1,
+    "html_url": "https://github.com/aaarendt/Alaska-altimetry",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Alaska-altimetry",
+    "repo_owner": "aaarendt",
+    "repotime": "2020-10-28, 12:03:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-10-27",
+    "date_updated": "2020-10-27",
+    "description": "windows 10 local privilege escalation",
+    "forks_count": 5,
+    "html_url": "https://github.com/kenemar/windows-lpe",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe"
+    ],
+    "language": "HTML",
+    "repo_name": "windows-lpe",
+    "repo_owner": "kenemar",
+    "repotime": "2020-10-27, 20:28:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-10-15",
+    "date_updated": "2020-10-21",
+    "description": "PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility)",
+    "forks_count": 35,
+    "html_url": "https://github.com/0neb1n/CVE-2020-16947",
+    "keywords": [
+        "Microsoft rce poc",
+        "Microsoft rce",
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-16947",
+    "repo_owner": "0neb1n",
+    "repotime": "2020-10-21, 05:09:57",
+    "stargazers_count": 123,
+    "watchers_count": 123
+}
+{
+    "commits_count": 25,
+    "date_started": "2020-09-20",
+    "date_updated": "2020-10-17",
+    "description": "An open source command line interface link checker that will look for dead links.  Made for DPS909 for release 0.1",
+    "forks_count": 4,
+    "html_url": "https://github.com/Supercraft888/lFinder",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "JavaScript",
+    "repo_name": "lFinder",
+    "repo_owner": "Supercraft888",
+    "repotime": "2020-10-17, 22:05:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-10-12",
+    "date_updated": "2020-10-13",
+    "description": "A shot code to Bypass UAC in Windows.",
+    "forks_count": 10,
+    "html_url": "https://github.com/avi7611/UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "UAC-Bypass",
+    "repo_owner": "avi7611",
+    "repotime": "2020-10-13, 10:24:59",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-09-27",
+    "date_updated": "2020-10-12",
+    "description": "Unrestricted File Uploads",
+    "forks_count": 0,
+    "html_url": "https://github.com/yashmahaja/Unrestricted-File-upload",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Unrestricted-File-upload",
+    "repo_owner": "yashmahaja",
+    "repotime": "2020-10-12, 01:36:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-10-05",
+    "date_updated": "2020-10-07",
+    "description": "This repo has a core LWC component that validates a customer identity and open up UX for file upload, importantly as an unauthenticated guest user. Typical use case in Loan Origination scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sriram-venkatraman/FileUpload",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "FileUpload",
+    "repo_owner": "sriram-venkatraman",
+    "repotime": "2020-10-07, 12:00:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-09-25",
+    "date_updated": "2020-10-01",
+    "description": "Java Spring based Server Side Request Forgery (SSRF) examples",
+    "forks_count": 0,
+    "html_url": "https://github.com/GeekMasher/ssrf-java",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Java",
+    "repo_name": "ssrf-java",
+    "repo_owner": "GeekMasher",
+    "repotime": "2020-10-01, 13:07:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

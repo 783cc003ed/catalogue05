@@ -1,0 +1,18 @@
+{
+    "commits_count": 4,
+    "date_started": "2023-11-16",
+    "date_updated": "2023-11-23",
+    "description": "LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
+    "forks_count": 12,
+    "html_url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
+    "keywords": [
+        "lpe vulnerability",
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "io_uring_LPE-CVE-2023-2598",
+    "repo_owner": "ysanatomic",
+    "repotime": "2023-11-23, 20:36:52",
+    "stargazers_count": 92,
+    "watchers_count": 92
+}

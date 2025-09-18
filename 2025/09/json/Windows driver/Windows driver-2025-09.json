@@ -1,0 +1,284 @@
+{
+    "commits_count": 340,
+    "date_started": "2019-08-21",
+    "date_updated": "2025-09-17",
+    "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
+    "forks_count": 294,
+    "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+    "keywords": [
+        "xml external entity",
+        "session attack",
+        "zero-day dos",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "session vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Nginx-Lua-Anti-DDoS",
+    "repo_owner": "C0nw0nk",
+    "repotime": "2025-09-17, 06:26:34",
+    "stargazers_count": 1360,
+    "watchers_count": 1360
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-09-17",
+    "date_updated": "2025-09-17",
+    "description": "Simulated exploitation and mitigation of CVE-2025-54918 (Windows NTLM flaw). Includes detection scripts, Ansible patching, and CI/CD hardening. Demonstrates privilege escalation from low-level access to SYSTEM in hybrid cloud environments.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mrk336/From-Foothold-to-Domain-Admin-Weaponizing-CVE-2025-54918-in-Real-World-DevOps",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "From-Foothold-to-Domain-Admin-Weaponizing-CVE-2025-54918-in-Real-World-DevOps",
+    "repo_owner": "mrk336",
+    "repotime": "2025-09-17, 05:14:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1309,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-09-17",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 122,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-09-17, 01:07:22",
+    "stargazers_count": 704,
+    "watchers_count": 704
+}
+{
+    "commits_count": 215,
+    "date_started": "2024-05-30",
+    "date_updated": "2025-09-16",
+    "description": "Fourth evolution of Code Injection for Xcode",
+    "forks_count": 9,
+    "html_url": "https://github.com/johnno1962/InjectionNext",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "InjectionNext",
+    "repo_owner": "johnno1962",
+    "repotime": "2025-09-16, 21:11:34",
+    "stargazers_count": 217,
+    "watchers_count": 217
+}
+{
+    "commits_count": 834,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-09-15",
+    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Watkionoz/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "repo_owner": "Watkionoz",
+    "repotime": "2025-09-15, 13:44:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10456,
+    "date_started": "2012-06-26",
+    "date_updated": "2025-09-15",
+    "description": "Automatic SQL injection and database takeover tool",
+    "forks_count": 6041,
+    "html_url": "https://github.com/sqlmapproject/sqlmap",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmap",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2025-09-15, 00:03:04",
+    "stargazers_count": 35303,
+    "watchers_count": 35303
+}
+{
+    "commits_count": 141,
+    "date_started": "2019-04-19",
+    "date_updated": "2025-09-14",
+    "description": "Top disclosed reports from HackerOne",
+    "forks_count": 869,
+    "html_url": "https://github.com/reddelexc/hackerone-reports",
+    "keywords": [
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "hackerone-reports",
+    "repo_owner": "reddelexc",
+    "repotime": "2025-09-14, 21:12:20",
+    "stargazers_count": 4842,
+    "watchers_count": 4842
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-06-30",
+    "date_updated": "2025-09-14",
+    "description": "This is a simple and benign Go script that red teamers can drop and attempt execution to test RCE on Windows/Linux machines",
+    "forks_count": 0,
+    "html_url": "https://github.com/maverick-doan/rce-checker",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Go",
+    "repo_name": "rce-checker",
+    "repo_owner": "maverick-doan",
+    "repotime": "2025-09-14, 13:19:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 135,
+    "date_started": "2022-07-27",
+    "date_updated": "2025-09-14",
+    "description": "Simple python script supported with BurpBouty profile that helps you to detect SQL injection &amp;quot;Error based&amp;quot; by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.",
+    "forks_count": 112,
+    "html_url": "https://github.com/eslam3kl/SQLiDetector",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Clojure",
+    "repo_name": "SQLiDetector",
+    "repo_owner": "eslam3kl",
+    "repotime": "2025-09-14, 02:25:48",
+    "stargazers_count": 621,
+    "watchers_count": 621
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-09-12",
+    "date_updated": "2025-09-11",
+    "description": "A comprehensive Python tool for scanning websites for common web vulnerabilities including SQL injection, XSS, CSRF, open redirects, and directory traversal attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/jimmyyyly/Web-Vulnerability-Scanner",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "Web-Vulnerability-Scanner",
+    "repo_owner": "jimmyyyly",
+    "repotime": "2025-09-11, 20:55:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2025-08-12",
+    "date_updated": "2025-09-11",
+    "description": "Windows 11 24H2 Runtime PatchGuard Bypass",
+    "forks_count": 17,
+    "html_url": "https://github.com/NeoMaster831/kurasagi",
+    "keywords": [
+        "patchguard bypass",
+        "kpp bypass"
+    ],
+    "language": "C++",
+    "repo_name": "kurasagi",
+    "repo_owner": "NeoMaster831",
+    "repotime": "2025-09-11, 22:17:15",
+    "stargazers_count": 183,
+    "watchers_count": 183
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-09-09",
+    "date_updated": "2025-09-09",
+    "description": "A lightweight chaos engineering demo with Docker Compose: Nginx → Flask → Redis stack with automated fault injection, recovery measurement, and CSV reporting + web visualization.",
+    "forks_count": 0,
+    "html_url": "https://github.com/shri-124/docker-chaos-lite",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "docker-chaos-lite",
+    "repo_owner": "shri-124",
+    "repotime": "2025-09-09, 19:55:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 608,
+    "date_started": "2024-09-27",
+    "date_updated": "2025-09-07",
+    "description": "Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.",
+    "forks_count": 1,
+    "html_url": "https://github.com/francescolonardo/pentest-machine-writeups",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "pentest-machine-writeups",
+    "repo_owner": "francescolonardo",
+    "repotime": "2025-09-07, 18:27:47",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 134,
+    "date_started": "2024-09-13",
+    "date_updated": "2025-09-05",
+    "description": "best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect",
+    "forks_count": 292,
+    "html_url": "https://github.com/coffinxp/loxs",
+    "keywords": [
+        "lfi",
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "loxs",
+    "repo_owner": "coffinxp",
+    "repotime": "2025-09-05, 14:11:21",
+    "stargazers_count": 1313,
+    "watchers_count": 1313
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-07-16",
+    "date_updated": "2025-09-04",
+    "description": "kernel ASLR bypasses",
+    "forks_count": 0,
+    "html_url": "https://github.com/rzdhop/NokASLR",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "C",
+    "repo_name": "NokASLR",
+    "repo_owner": "rzdhop",
+    "repotime": "2025-09-04, 15:57:36",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-08-28",
+    "date_updated": "2025-09-03",
+    "description": "A research-focused archive of publicly disclosed Windows zero-day vulnerabilities.  This project summarizes CVEs, disclosure timelines, vendor advisories, and defensive mitigations.  ⚠️ No exploit code included — educational and defensive use only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/giriaryan694-a11y/exposed-win-zero-days",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": "HTML",
+    "repo_name": "exposed-win-zero-days",
+    "repo_owner": "giriaryan694-a11y",
+    "repotime": "2025-09-03, 20:48:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

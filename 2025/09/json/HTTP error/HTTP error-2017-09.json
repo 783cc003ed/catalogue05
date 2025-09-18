@@ -1,0 +1,156 @@
+{
+    "commits_count": 252,
+    "date_started": "2017-09-28",
+    "date_updated": "2017-09-28",
+    "description": "PowerSploit - A PowerShell Post-Exploitation Framework",
+    "forks_count": 0,
+    "html_url": "https://github.com/HarmJoy/PowerSploit",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "PowerShell",
+    "repo_name": "PowerSploit",
+    "repo_owner": "HarmJoy",
+    "repotime": "2017-09-28, 16:35:41",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2016-08-24",
+    "date_updated": "2017-09-28",
+    "description": "Run executables from memory, over the network, on Windows, Linux, OpenVMS... routers... spaceships... toasters etc.",
+    "forks_count": 34,
+    "html_url": "https://github.com/XiphosResearch/netelf",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C",
+    "repo_name": "netelf",
+    "repo_owner": "XiphosResearch",
+    "repotime": "2017-09-28, 18:42:39",
+    "stargazers_count": 283,
+    "watchers_count": 283
+}
+{
+    "commits_count": 11,
+    "date_started": "2017-08-25",
+    "date_updated": "2017-09-26",
+    "description": "Security Testing Tool to identify whether a list of common log files, which may be used for log poisoning, can be accessed from an known local file inclusion vulnerability.",
+    "forks_count": 5,
+    "html_url": "https://github.com/B2dfir/LinuxPoisonableLogFinder",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "LinuxPoisonableLogFinder",
+    "repo_owner": "B2dfir",
+    "repotime": "2017-09-26, 23:24:49",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 40,
+    "date_started": "2016-08-28",
+    "date_updated": "2017-09-22",
+    "description": "Automatic SQL injection with Charles and sqlmap api",
+    "forks_count": 282,
+    "html_url": "https://github.com/0xbug/SQLiScanner",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "SQLiScanner",
+    "repo_owner": "0xbug",
+    "repotime": "2017-09-22, 12:37:50",
+    "stargazers_count": 814,
+    "watchers_count": 814
+}
+{
+    "commits_count": 19,
+    "date_started": "2017-09-14",
+    "date_updated": "2017-09-21",
+    "description": "CVE-2017-8759 Remote Code Execution Vulnerability On SOAP WDSL - Microsoft .NET Framework 4.6.2  Microsoft .NET Framework 4.6.1  Microsoft .NET Framework 3.5.1  Microsoft .NET Framework 4.7  Microsoft .NET Framework 4.6  Microsoft .NET Framework 4.5.2  Microsoft .NET Framework 3.5",
+    "forks_count": 6,
+    "html_url": "https://github.com/homjxi0e/CVE-2017-8759_-SOAP_WSDL",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-8759_-SOAP_WSDL",
+    "repo_owner": "homjxi0e",
+    "repotime": "2017-09-21, 12:41:37",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-09-13",
+    "date_updated": "2017-09-13",
+    "description": "Sender Policy Framework (SPF) is an email validation system designed to prevent email spam by detecting email spoofing, a common vulnerability, by verifying sender IP addresses.",
+    "forks_count": 2,
+    "html_url": "https://github.com/digixone/ZPX-SPF-Generator",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "ZPX-SPF-Generator",
+    "repo_owner": "digixone",
+    "repotime": "2017-09-13, 11:34:47",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 106,
+    "date_started": "2017-07-01",
+    "date_updated": "2017-09-13",
+    "description": "&amp;quot;Luckily, there are underground 0day exploits for FTPD for path traversal.&amp;quot; &amp;&#35;35;FakeNews &amp;&#35;35;DotDotWontPwn",
+    "forks_count": 43,
+    "html_url": "https://github.com/MAVProxyUser/P0VsRedHerring",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Ruby",
+    "repo_name": "P0VsRedHerring",
+    "repo_owner": "MAVProxyUser",
+    "repotime": "2017-09-13, 09:26:20",
+    "stargazers_count": 111,
+    "watchers_count": 111
+}
+{
+    "commits_count": 5,
+    "date_started": "2017-09-06",
+    "date_updated": "2017-09-06",
+    "description": "One of  Best Path traversal and PRL attack tools  by TS/SCI Security (year 2008). Also tool is included on BackTrack 4 and OWASP Phoenix/Tools Project.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ivan-Markovic/DFF",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "PHP",
+    "repo_name": "DFF",
+    "repo_owner": "Ivan-Markovic",
+    "repotime": "2017-09-06, 13:37:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2015-05-14",
+    "date_updated": "2017-09-04",
+    "description": "One-off scripts",
+    "forks_count": 20,
+    "html_url": "https://github.com/bluscreenofjeff/Scripts",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Shell",
+    "repo_name": "Scripts",
+    "repo_owner": "bluscreenofjeff",
+    "repotime": "2017-09-04, 16:39:01",
+    "stargazers_count": 52,
+    "watchers_count": 52
+}

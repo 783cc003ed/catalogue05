@@ -227,3 +227,461 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 27,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-01-31",
+    "description": "This repository contains a kernel exploit for PlayStation 4 firmware 6.72. The exploit leverages a vulnerability in the system kernel to achieve privilege escalation, allowing execution of unsigned code and jailbreak functionalities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yonicodedemon/YG2",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "YG2",
+    "repo_owner": "Yonicodedemon",
+    "repotime": "2025-01-31, 17:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-01-31",
+    "description": "Integer overflow in assembly instruction leading to potential memory corruption or crash.  The mov instruction with an address calculation is vulnerable if the ecx register value is unexpectedly large.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Integer-Overflow-in-Assembly-mov-Instruction-5aq3i",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "Integer-Overflow-in-Assembly-mov-Instruction-5aq3i",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-31, 12:46:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2021-10-26",
+    "date_updated": "2025-01-31",
+    "description": "How to exploit a double free vulnerability in 2021. Use After Free for Dummies",
+    "forks_count": 66,
+    "html_url": "https://github.com/stong/how-to-exploit-a-double-free",
+    "keywords": [
+        "use after free exploit",
+        "use after free vulnerability",
+        "use after free exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "how-to-exploit-a-double-free",
+    "repo_owner": "stong",
+    "repotime": "2025-01-31, 03:45:57",
+    "stargazers_count": 1361,
+    "watchers_count": 1361
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-03-02",
+    "date_updated": "2025-01-29",
+    "description": "A modern and secure authentication system built with PHP and MySQL, featuring user registration, password management, and a beautiful UI designed with Tailwind CSS. This application emphasizes security with password hashing, session management, and protection against common vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/abhi963007/SecureAuth-Pro",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "SecureAuth-Pro",
+    "repo_owner": "abhi963007",
+    "repotime": "2025-01-29, 00:24:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 97,
+    "date_started": "2013-10-01",
+    "date_updated": "2025-01-25",
+    "description": "CRUD Application in JavaScript A Create, Read, Update, and Delete (CRUD) application built using JavaScript. Demonstrates foundational web development concepts, including DOM manipulation, RESTful operations, and frontend logic.  Relevant for understanding vulnerabilities in web applications, such as XSS, SQLi, and session management flaws.",
+    "forks_count": 0,
+    "html_url": "https://github.com/LuCamachoJr/CRUD-Application-in-JavaScript",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CRUD-Application-in-JavaScript",
+    "repo_owner": "LuCamachoJr",
+    "repotime": "2025-01-25, 08:55:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 441,
+    "date_started": "2019-02-23",
+    "date_updated": "2025-01-25",
+    "description": "K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
+    "forks_count": 2071,
+    "html_url": "https://github.com/k8gege/K8tools",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit",
+        "lpe exploit",
+        "rce exploit",
+        "lpe poc",
+        "lpe exploitation"
+    ],
+    "language": "PowerShell",
+    "repo_name": "K8tools",
+    "repo_owner": "k8gege",
+    "repotime": "2025-01-25, 14:32:49",
+    "stargazers_count": 6033,
+    "watchers_count": 6033
+}
+{
+    "commits_count": 221,
+    "date_started": "2023-01-25",
+    "date_updated": "2025-01-22",
+    "description": "<no description>",
+    "forks_count": 130,
+    "html_url": "https://github.com/trufflesecurity/xsshunter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "SCSS",
+    "repo_name": "xsshunter",
+    "repo_owner": "trufflesecurity",
+    "repotime": "2025-01-22, 15:35:19",
+    "stargazers_count": 471,
+    "watchers_count": 471
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-21",
+    "date_updated": "2025-01-21",
+    "description": "Assembly buffer overflow vulnerability: The code attempts to store the sum of two values into a memory location that might not be large enough, leading to potential data corruption or program crashes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Assembly-Buffer-Overflow-Vulnerability-g5z4i",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "Assembly-Buffer-Overflow-Vulnerability-g5z4i",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-21, 11:12:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-01-11",
+    "date_updated": "2025-01-12",
+    "description": "CVE-2025-0282 is a critical vulnerability found in Ivanti Connect Secure, allowing Remote Command Execution (RCE) through a buffer overflow exploit.",
+    "forks_count": 13,
+    "html_url": "https://github.com/absholi7ly/CVE-2025-0282-Ivanti-exploit",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-0282-Ivanti-exploit",
+    "repo_owner": "absholi7ly",
+    "repotime": "2025-01-12, 01:54:06",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-08",
+    "date_updated": "2025-01-08",
+    "description": "Assembly code contains potential buffer overflow and segmentation fault vulnerabilities due to lack of input validation and address verification.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Uncommon-Assembly-Code-Errors--Buffer-Overflow-and-Segmentation-Fault-w41z5",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Assembly",
+    "repo_name": "Uncommon-Assembly-Code-Errors--Buffer-Overflow-and-Segmentation-Fault-w41z5",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-08, 20:04:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-07",
+    "date_updated": "2025-01-07",
+    "description": "This Hack code demonstrates an infinite recursion error that arises when calculating the factorial of a negative number.  The function lacks input validation to handle negative values, leading to a stack overflow.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Hack--Infinite-Recursion-in-Factorial-Function-33uv7",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Hack--Infinite-Recursion-in-Factorial-Function-33uv7",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-07, 10:08:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 244,
+    "date_started": "2020-08-01",
+    "date_updated": "2025-01-04",
+    "description": "Remote command shell application written in C&amp;&#35;35; targeting the .NET 9.0 runtime.",
+    "forks_count": 6,
+    "html_url": "https://github.com/vandavey/DotnetCat",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C#",
+    "repo_name": "DotnetCat",
+    "repo_owner": "vandavey",
+    "repotime": "2025-01-04, 15:30:03",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-04",
+    "date_updated": "2025-01-04",
+    "description": "Stack Overflow in Recursive Function due to Lack of Input Validation",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Hack-Recursive-Function-Stack-Overflow-8coue",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Hack-Recursive-Function-Stack-Overflow-8coue",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-04, 09:08:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 27,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-01-31",
+    "description": "This repository contains a kernel exploit for PlayStation 4 firmware 6.72. The exploit leverages a vulnerability in the system kernel to achieve privilege escalation, allowing execution of unsigned code and jailbreak functionalities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yonicodedemon/YG2",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "YG2",
+    "repo_owner": "Yonicodedemon",
+    "repotime": "2025-01-31, 17:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-01-31",
+    "description": "Integer overflow in assembly instruction leading to potential memory corruption or crash.  The mov instruction with an address calculation is vulnerable if the ecx register value is unexpectedly large.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Integer-Overflow-in-Assembly-mov-Instruction-5aq3i",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "Integer-Overflow-in-Assembly-mov-Instruction-5aq3i",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-31, 12:46:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2021-10-26",
+    "date_updated": "2025-01-31",
+    "description": "How to exploit a double free vulnerability in 2021. Use After Free for Dummies",
+    "forks_count": 66,
+    "html_url": "https://github.com/stong/how-to-exploit-a-double-free",
+    "keywords": [
+        "use after free exploit",
+        "use after free vulnerability",
+        "use after free exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "how-to-exploit-a-double-free",
+    "repo_owner": "stong",
+    "repotime": "2025-01-31, 03:45:57",
+    "stargazers_count": 1363,
+    "watchers_count": 1363
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-03-02",
+    "date_updated": "2025-01-29",
+    "description": "A modern and secure authentication system built with PHP and MySQL, featuring user registration, password management, and a beautiful UI designed with Tailwind CSS. This application emphasizes security with password hashing, session management, and protection against common vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/abhi963007/SecureAuth-Pro",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "SecureAuth-Pro",
+    "repo_owner": "abhi963007",
+    "repotime": "2025-01-29, 00:24:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 97,
+    "date_started": "2013-10-01",
+    "date_updated": "2025-01-25",
+    "description": "CRUD Application in JavaScript A Create, Read, Update, and Delete (CRUD) application built using JavaScript. Demonstrates foundational web development concepts, including DOM manipulation, RESTful operations, and frontend logic.  Relevant for understanding vulnerabilities in web applications, such as XSS, SQLi, and session management flaws.",
+    "forks_count": 0,
+    "html_url": "https://github.com/LuCamachoJr/CRUD-Application-in-JavaScript",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CRUD-Application-in-JavaScript",
+    "repo_owner": "LuCamachoJr",
+    "repotime": "2025-01-25, 08:55:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 441,
+    "date_started": "2019-02-23",
+    "date_updated": "2025-01-25",
+    "description": "K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
+    "forks_count": 2071,
+    "html_url": "https://github.com/k8gege/K8tools",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit",
+        "lpe exploit",
+        "rce exploit",
+        "lpe poc",
+        "lpe exploitation"
+    ],
+    "language": "PowerShell",
+    "repo_name": "K8tools",
+    "repo_owner": "k8gege",
+    "repotime": "2025-01-25, 14:32:49",
+    "stargazers_count": 6041,
+    "watchers_count": 6041
+}
+{
+    "commits_count": 221,
+    "date_started": "2023-01-25",
+    "date_updated": "2025-01-22",
+    "description": "<no description>",
+    "forks_count": 136,
+    "html_url": "https://github.com/trufflesecurity/xsshunter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "SCSS",
+    "repo_name": "xsshunter",
+    "repo_owner": "trufflesecurity",
+    "repotime": "2025-01-22, 15:35:19",
+    "stargazers_count": 481,
+    "watchers_count": 481
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-21",
+    "date_updated": "2025-01-21",
+    "description": "Assembly buffer overflow vulnerability: The code attempts to store the sum of two values into a memory location that might not be large enough, leading to potential data corruption or program crashes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Assembly-Buffer-Overflow-Vulnerability-g5z4i",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "Assembly-Buffer-Overflow-Vulnerability-g5z4i",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-21, 11:12:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-01-11",
+    "date_updated": "2025-01-12",
+    "description": "CVE-2025-0282 is a critical vulnerability found in Ivanti Connect Secure, allowing Remote Command Execution (RCE) through a buffer overflow exploit.",
+    "forks_count": 13,
+    "html_url": "https://github.com/absholi7ly/CVE-2025-0282-Ivanti-exploit",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-0282-Ivanti-exploit",
+    "repo_owner": "absholi7ly",
+    "repotime": "2025-01-12, 01:54:06",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-08",
+    "date_updated": "2025-01-08",
+    "description": "Assembly code contains potential buffer overflow and segmentation fault vulnerabilities due to lack of input validation and address verification.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Uncommon-Assembly-Code-Errors--Buffer-Overflow-and-Segmentation-Fault-w41z5",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Assembly",
+    "repo_name": "Uncommon-Assembly-Code-Errors--Buffer-Overflow-and-Segmentation-Fault-w41z5",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-08, 20:04:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-07",
+    "date_updated": "2025-01-07",
+    "description": "This Hack code demonstrates an infinite recursion error that arises when calculating the factorial of a negative number.  The function lacks input validation to handle negative values, leading to a stack overflow.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Hack--Infinite-Recursion-in-Factorial-Function-33uv7",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Hack--Infinite-Recursion-in-Factorial-Function-33uv7",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-07, 10:08:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 244,
+    "date_started": "2020-08-01",
+    "date_updated": "2025-01-04",
+    "description": "Remote command shell application written in C&amp;&#35;35; targeting the .NET 9.0 runtime.",
+    "forks_count": 6,
+    "html_url": "https://github.com/vandavey/DotnetCat",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C#",
+    "repo_name": "DotnetCat",
+    "repo_owner": "vandavey",
+    "repotime": "2025-01-04, 15:30:03",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-04",
+    "date_updated": "2025-01-04",
+    "description": "Stack Overflow in Recursive Function due to Lack of Input Validation",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Hack-Recursive-Function-Stack-Overflow-8coue",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Hack-Recursive-Function-Stack-Overflow-8coue",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-04, 09:08:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

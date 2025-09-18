@@ -193,3 +193,393 @@
     "stargazers_count": 3,
     "watchers_count": 3
 }
+{
+    "commits_count": 33,
+    "date_started": "2019-08-23",
+    "date_updated": "2019-08-23",
+    "description": "Toolkit to detect and keep track on Blind XSS, XXE &amp;amp; SSRF",
+    "forks_count": 73,
+    "html_url": "https://github.com/SpiderMate/B-XSSRF",
+    "keywords": [
+        "xss",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "PHP",
+    "repo_name": "B-XSSRF",
+    "repo_owner": "SpiderMate",
+    "repotime": "2019-08-23, 16:20:04",
+    "stargazers_count": 293,
+    "watchers_count": 293
+}
+{
+    "commits_count": 24,
+    "date_started": "2018-08-09",
+    "date_updated": "2019-08-22",
+    "description": "Live hunting of code injection techniques",
+    "forks_count": 90,
+    "html_url": "https://github.com/marcosd4h/memhunter",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "memhunter",
+    "repo_owner": "marcosd4h",
+    "repotime": "2019-08-22, 12:46:34",
+    "stargazers_count": 383,
+    "watchers_count": 383
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-08-20",
+    "date_updated": "2019-08-20",
+    "description": "Basically Just ported the bash shell scanner into a mass like python module poc",
+    "forks_count": 2,
+    "html_url": "https://github.com/devcoinfet/Webmin-1.920-Unauthenticated-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Webmin-1.920-Unauthenticated-RCE",
+    "repo_owner": "devcoinfet",
+    "repotime": "2019-08-20, 12:05:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2019-08-19",
+    "date_updated": "2019-08-17",
+    "description": "Exploiting stored XSS vulnerability to hijack sessions",
+    "forks_count": 1,
+    "html_url": "https://github.com/zenzue/XSS-Session-Hijacking-Simulator",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking vulnerability",
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "XSS-Session-Hijacking-Simulator",
+    "repo_owner": "zenzue",
+    "repotime": "2019-08-17, 19:17:35",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-08-16",
+    "date_updated": "2019-08-16",
+    "description": "Zimbra RCE PoC - CVE-2019-9670 XXE/SSRF",
+    "forks_count": 14,
+    "html_url": "https://github.com/rek7/Zimbra-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Zimbra-RCE",
+    "repo_owner": "rek7",
+    "repotime": "2019-08-16, 01:54:15",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-08-12",
+    "date_updated": "2019-08-12",
+    "description": "Steam Windows Client Local Privilege Escalation 0day",
+    "forks_count": 0,
+    "html_url": "https://github.com/kn6869610/Steam-Windows-Client-Local-Privilege-Escalation-0day",
+    "keywords": [
+        "Windows 0day",
+        "Win 0day"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Steam-Windows-Client-Local-Privilege-Escalation-0day",
+    "repo_owner": "kn6869610",
+    "repotime": "2019-08-12, 11:14:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 193,
+    "date_started": "2017-08-01",
+    "date_updated": "2019-08-12",
+    "description": "Unknown Key Share Attacks on uses of Transport Layer Security with the Session Description Protocol (SDP)",
+    "forks_count": 0,
+    "html_url": "https://github.com/martinthomson/sdp-uks",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Makefile",
+    "repo_name": "sdp-uks",
+    "repo_owner": "martinthomson",
+    "repotime": "2019-08-12, 12:04:09",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-05-09",
+    "date_updated": "2019-08-10",
+    "description": "Local File Inclusion to RCE via File Upload ",
+    "forks_count": 0,
+    "html_url": "https://github.com/laztname/notAcms",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "notAcms",
+    "repo_owner": "laztname",
+    "repotime": "2019-08-10, 00:09:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 68,
+    "date_started": "2016-11-03",
+    "date_updated": "2019-08-08",
+    "description": "Exploits written by the Rhino Security Labs team",
+    "forks_count": 295,
+    "html_url": "https://github.com/RhinoSecurityLabs/Security-Research",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "Security-Research",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2019-08-08, 13:28:37",
+    "stargazers_count": 1083,
+    "watchers_count": 1083
+}
+{
+    "commits_count": 20,
+    "date_started": "2019-03-02",
+    "date_updated": "2019-08-03",
+    "description": "A better version of my xssfinder tool - scans for different types of xss on a list of urls.",
+    "forks_count": 52,
+    "html_url": "https://github.com/Damian89/extended-xss-search",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "extended-xss-search",
+    "repo_owner": "Damian89",
+    "repotime": "2019-08-03, 21:33:13",
+    "stargazers_count": 182,
+    "watchers_count": 182
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-08-01",
+    "date_updated": "2019-08-01",
+    "description": "Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious scripts are injected into otherwise benign and trusted websites. XSS attacks occur when an attacker uses a web application to send malicious code, generally in the form of a browser side script, to a different end user. Flaws that allow these attacks to succeed are quite widespread and occur anywhere a web application uses input from a user within the output it generates without validating or encoding it.   An attacker can use XSS to send a malicious script to an unsuspecting user. The end user’s browser has no way to know that the script should not be trusted, and will execute the script. Because it thinks the script came from a trusted source, the malicious script can access any cookies, session tokens, or other sensitive information retained by the browser and used with that site. These scripts can even rewrite the content of the HTML page.   These 3 types of XSS are defined as follows:    Stored XSS (AK...",
+    "forks_count": 2,
+    "html_url": "https://github.com/17BCE0951/XSS-Scanner",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-Scanner",
+    "repo_owner": "17BCE0951",
+    "repotime": "2019-08-01, 20:35:13",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 33,
+    "date_started": "2019-08-23",
+    "date_updated": "2019-08-23",
+    "description": "Toolkit to detect and keep track on Blind XSS, XXE &amp;amp; SSRF",
+    "forks_count": 73,
+    "html_url": "https://github.com/SpiderMate/B-XSSRF",
+    "keywords": [
+        "xss",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "PHP",
+    "repo_name": "B-XSSRF",
+    "repo_owner": "SpiderMate",
+    "repotime": "2019-08-23, 16:20:04",
+    "stargazers_count": 294,
+    "watchers_count": 294
+}
+{
+    "commits_count": 24,
+    "date_started": "2018-08-09",
+    "date_updated": "2019-08-22",
+    "description": "Live hunting of code injection techniques",
+    "forks_count": 90,
+    "html_url": "https://github.com/marcosd4h/memhunter",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "memhunter",
+    "repo_owner": "marcosd4h",
+    "repotime": "2019-08-22, 12:46:34",
+    "stargazers_count": 383,
+    "watchers_count": 383
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-08-20",
+    "date_updated": "2019-08-20",
+    "description": "Basically Just ported the bash shell scanner into a mass like python module poc",
+    "forks_count": 2,
+    "html_url": "https://github.com/devcoinfet/Webmin-1.920-Unauthenticated-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Webmin-1.920-Unauthenticated-RCE",
+    "repo_owner": "devcoinfet",
+    "repotime": "2019-08-20, 12:05:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2019-08-19",
+    "date_updated": "2019-08-17",
+    "description": "Exploiting stored XSS vulnerability to hijack sessions",
+    "forks_count": 1,
+    "html_url": "https://github.com/zenzue/XSS-Session-Hijacking-Simulator",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking vulnerability",
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "XSS-Session-Hijacking-Simulator",
+    "repo_owner": "zenzue",
+    "repotime": "2019-08-17, 19:17:35",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-08-16",
+    "date_updated": "2019-08-16",
+    "description": "Zimbra RCE PoC - CVE-2019-9670 XXE/SSRF",
+    "forks_count": 14,
+    "html_url": "https://github.com/rek7/Zimbra-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Zimbra-RCE",
+    "repo_owner": "rek7",
+    "repotime": "2019-08-16, 01:54:15",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-08-12",
+    "date_updated": "2019-08-12",
+    "description": "Steam Windows Client Local Privilege Escalation 0day",
+    "forks_count": 0,
+    "html_url": "https://github.com/kn6869610/Steam-Windows-Client-Local-Privilege-Escalation-0day",
+    "keywords": [
+        "Windows 0day",
+        "Win 0day"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Steam-Windows-Client-Local-Privilege-Escalation-0day",
+    "repo_owner": "kn6869610",
+    "repotime": "2019-08-12, 11:14:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 193,
+    "date_started": "2017-08-01",
+    "date_updated": "2019-08-12",
+    "description": "Unknown Key Share Attacks on uses of Transport Layer Security with the Session Description Protocol (SDP)",
+    "forks_count": 0,
+    "html_url": "https://github.com/martinthomson/sdp-uks",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Makefile",
+    "repo_name": "sdp-uks",
+    "repo_owner": "martinthomson",
+    "repotime": "2019-08-12, 12:04:09",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-05-09",
+    "date_updated": "2019-08-10",
+    "description": "Local File Inclusion to RCE via File Upload ",
+    "forks_count": 0,
+    "html_url": "https://github.com/laztname/notAcms",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "notAcms",
+    "repo_owner": "laztname",
+    "repotime": "2019-08-10, 00:09:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 68,
+    "date_started": "2016-11-03",
+    "date_updated": "2019-08-08",
+    "description": "Exploits written by the Rhino Security Labs team",
+    "forks_count": 295,
+    "html_url": "https://github.com/RhinoSecurityLabs/Security-Research",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "Security-Research",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2019-08-08, 13:28:37",
+    "stargazers_count": 1082,
+    "watchers_count": 1082
+}
+{
+    "commits_count": 20,
+    "date_started": "2019-03-02",
+    "date_updated": "2019-08-03",
+    "description": "A better version of my xssfinder tool - scans for different types of xss on a list of urls.",
+    "forks_count": 52,
+    "html_url": "https://github.com/Damian89/extended-xss-search",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "extended-xss-search",
+    "repo_owner": "Damian89",
+    "repotime": "2019-08-03, 21:33:13",
+    "stargazers_count": 182,
+    "watchers_count": 182
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-08-01",
+    "date_updated": "2019-08-01",
+    "description": "Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious scripts are injected into otherwise benign and trusted websites. XSS attacks occur when an attacker uses a web application to send malicious code, generally in the form of a browser side script, to a different end user. Flaws that allow these attacks to succeed are quite widespread and occur anywhere a web application uses input from a user within the output it generates without validating or encoding it.   An attacker can use XSS to send a malicious script to an unsuspecting user. The end user’s browser has no way to know that the script should not be trusted, and will execute the script. Because it thinks the script came from a trusted source, the malicious script can access any cookies, session tokens, or other sensitive information retained by the browser and used with that site. These scripts can even rewrite the content of the HTML page.   These 3 types of XSS are defined as follows:    Stored XSS (AK...",
+    "forks_count": 2,
+    "html_url": "https://github.com/17BCE0951/XSS-Scanner",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-Scanner",
+    "repo_owner": "17BCE0951",
+    "repotime": "2019-08-01, 20:35:13",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

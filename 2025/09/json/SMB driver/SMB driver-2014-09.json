@@ -1,0 +1,18 @@
+{
+    "commits_count": 29,
+    "date_started": "2014-08-15",
+    "date_updated": "2014-09-04",
+    "description": "A tool for detecting XML External Entity (XXE) vulnerabilities in Java applications",
+    "forks_count": 20,
+    "html_url": "https://github.com/ssexxe/XXEBugFind",
+    "keywords": [
+        "xml external entity",
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "XXEBugFind",
+    "repo_owner": "ssexxe",
+    "repotime": "2014-09-04, 22:57:44",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}

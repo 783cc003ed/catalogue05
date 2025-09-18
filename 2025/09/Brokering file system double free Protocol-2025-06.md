@@ -1,0 +1,36 @@
+## DuckDuckgo search -> Brokering file system double free Protocol
+`2025-06-19`
+
+* https://nvd.nist.gov/vuln/detail/CVE-2024-28907
+
+<blockquote>
+ Cve202428907Nvd
+</blockquote>
+<blockquote>
+Microsoft Brokering File System Elevation of Privilege Vulnerability. Metrics CVSS Version 4.0 CVSS Version 3.x CVSS Version 2.0 NVD enrichment efforts reference publicly available information to associate vector strings. ...
+</blockquote>
+
+---
+
+# GitHub search -> Brokering file system double free Protocol
+# xssValidator
+
+https://github.com/NetSPI/xssValidator
+<blockquote>
+This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>NetSPI</code></td>
+    <td>Language: <code>Java</code></td>
+    <td>Started: <code>2014-01-11 02:46:41+00:00</code></td>
+    <td>Latest: <code>2022-02-24 15:00:10-05:00</code></td></tr>
+<tr><td>Commits: <code>115</code></td>
+    <td>Stargazers: <code>416</code></td>
+    <td>Watchers: <code>416</code></td>
+    <td>Forks: <code>158</code></td></tr>
+</table>
+Keywords: xss
+
+---
+

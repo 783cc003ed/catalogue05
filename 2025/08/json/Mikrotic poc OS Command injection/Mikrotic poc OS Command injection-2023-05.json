@@ -222,3 +222,413 @@
     "stargazers_count": 193,
     "watchers_count": 193
 }
+{
+    "commits_count": 4,
+    "date_started": "2023-05-30",
+    "date_updated": "2023-05-30",
+    "description": "injecting a shellcode into another process on a Windows system",
+    "forks_count": 0,
+    "html_url": "https://github.com/younevsky/0day_process_injection",
+    "keywords": [
+        "Windows 0day"
+    ],
+    "language": "C",
+    "repo_name": "0day_process_injection",
+    "repo_owner": "younevsky",
+    "repotime": "2023-05-30, 01:59:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 59,
+    "date_started": "2022-06-17",
+    "date_updated": "2023-05-27",
+    "description": "Rusty Shellcode Reflective DLL Injection (sRDI) - A 4KB reflective loader for Position-Independent Code (PIC) generation in Rust (Codename: Venom)",
+    "forks_count": 36,
+    "html_url": "https://github.com/memN0ps/srdi-rs",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Rust",
+    "repo_name": "srdi-rs",
+    "repo_owner": "memN0ps",
+    "repotime": "2023-05-27, 15:11:51",
+    "stargazers_count": 282,
+    "watchers_count": 282
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-05-25",
+    "date_updated": "2023-05-26",
+    "description": " web vulnerability scanner that performs concurrent scanning of multiple URLs for common vulnerabilities such as SQL injection, cross-site scripting (XSS), and directory traversal.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ihrishikesh0896/web-vulnerability-scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "web-vulnerability-scanner",
+    "repo_owner": "ihrishikesh0896",
+    "repotime": "2023-05-26, 01:10:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2022-05-28",
+    "date_updated": "2023-05-23",
+    "description": "Dll injection through code page id modification in registry. Based on jonas lykk research",
+    "forks_count": 26,
+    "html_url": "https://github.com/NtQuerySystemInformation/NlsCodeInjectionThroughRegistry",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "NlsCodeInjectionThroughRegistry",
+    "repo_owner": "NtQuerySystemInformation",
+    "repotime": "2023-05-23, 15:44:15",
+    "stargazers_count": 119,
+    "watchers_count": 119
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-05-18",
+    "date_updated": "2023-05-20",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/elliSzAt/XML-external-entity-XXE-injection",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XML-external-entity-XXE-injection",
+    "repo_owner": "elliSzAt",
+    "repotime": "2023-05-20, 18:17:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 56,
+    "date_started": "2023-05-06",
+    "date_updated": "2023-05-17",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Llam-a/XML-external-entity-XXE-injection",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XML-external-entity-XXE-injection",
+    "repo_owner": "Llam-a",
+    "repotime": "2023-05-17, 20:00:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-05-12",
+    "date_updated": "2023-05-14",
+    "description": "A simple PoC for CVE-2022-46169 a.k.a Cacti Unauthenticated Command Injection, a vulnerability allows an unauthenticated user to execute arbitrary code on a server running Cacti prior from version 1.2.17 to 1.2.22",
+    "forks_count": 2,
+    "html_url": "https://github.com/Rickster5555/EH2-PoC",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "EH2-PoC",
+    "repo_owner": "Rickster5555",
+    "repotime": "2023-05-14, 20:36:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-05-08",
+    "date_updated": "2023-05-08",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/tripiod8/XML_EXTERNAL_ENTITY_ATTACK",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "HTML",
+    "repo_name": "XML_EXTERNAL_ENTITY_ATTACK",
+    "repo_owner": "tripiod8",
+    "repotime": "2023-05-08, 12:42:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 92,
+    "date_started": "2012-04-09",
+    "date_updated": "2023-05-08",
+    "description": "a Joomla! and WordPress Security script that automatically scans the Joomla! or Wordpress files for some patterns and &amp;quot;fingerprints&amp;quot; of malware, trojans or other injections into PHP code",
+    "forks_count": 105,
+    "html_url": "https://github.com/btoplak/Joomla-Anti-Malware-Scan-Script--JAMSS-",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PHP",
+    "repo_name": "Joomla-Anti-Malware-Scan-Script--JAMSS-",
+    "repo_owner": "btoplak",
+    "repotime": "2023-05-08, 12:26:14",
+    "stargazers_count": 143,
+    "watchers_count": 143
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-08-13",
+    "date_updated": "2023-05-06",
+    "description": "[Archived] GPU Drops' captcha solving extension without affiliate tracking code injection",
+    "forks_count": 16,
+    "html_url": "https://github.com/Sqaaakoi/legacy-noptcha-patch-archived",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "legacy-noptcha-patch-archived",
+    "repo_owner": "Sqaaakoi",
+    "repotime": "2023-05-06, 19:47:08",
+    "stargazers_count": 196,
+    "watchers_count": 196
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-01-05",
+    "date_updated": "2023-05-03",
+    "description": "PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti &amp;lt;= 1.2.22",
+    "forks_count": 8,
+    "html_url": "https://github.com/sAsPeCt488/CVE-2022-46169",
+    "keywords": [
+        "unauthenticated rce",
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-46169",
+    "repo_owner": "sAsPeCt488",
+    "repotime": "2023-05-03, 19:50:34",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 34,
+    "date_started": "2023-04-30",
+    "date_updated": "2023-05-01",
+    "description": "GregsBestFriend process injection code created from the White Knight Labs Offensive Development course",
+    "forks_count": 35,
+    "html_url": "https://github.com/WKL-Sec/GregsBestFriend",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "GregsBestFriend",
+    "repo_owner": "WKL-Sec",
+    "repotime": "2023-05-01, 07:08:58",
+    "stargazers_count": 193,
+    "watchers_count": 193
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-05-30",
+    "date_updated": "2023-05-30",
+    "description": "injecting a shellcode into another process on a Windows system",
+    "forks_count": 0,
+    "html_url": "https://github.com/younevsky/0day_process_injection",
+    "keywords": [
+        "Windows 0day"
+    ],
+    "language": "C",
+    "repo_name": "0day_process_injection",
+    "repo_owner": "younevsky",
+    "repotime": "2023-05-30, 01:59:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 59,
+    "date_started": "2022-06-17",
+    "date_updated": "2023-05-27",
+    "description": "Rusty Shellcode Reflective DLL Injection (sRDI) - A 4KB reflective loader for Position-Independent Code (PIC) generation in Rust (Codename: Venom)",
+    "forks_count": 36,
+    "html_url": "https://github.com/memN0ps/srdi-rs",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Rust",
+    "repo_name": "srdi-rs",
+    "repo_owner": "memN0ps",
+    "repotime": "2023-05-27, 15:11:51",
+    "stargazers_count": 282,
+    "watchers_count": 282
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-05-25",
+    "date_updated": "2023-05-26",
+    "description": " web vulnerability scanner that performs concurrent scanning of multiple URLs for common vulnerabilities such as SQL injection, cross-site scripting (XSS), and directory traversal.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ihrishikesh0896/web-vulnerability-scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "web-vulnerability-scanner",
+    "repo_owner": "ihrishikesh0896",
+    "repotime": "2023-05-26, 01:10:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2022-05-28",
+    "date_updated": "2023-05-23",
+    "description": "Dll injection through code page id modification in registry. Based on jonas lykk research",
+    "forks_count": 26,
+    "html_url": "https://github.com/NtQuerySystemInformation/NlsCodeInjectionThroughRegistry",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "NlsCodeInjectionThroughRegistry",
+    "repo_owner": "NtQuerySystemInformation",
+    "repotime": "2023-05-23, 15:44:15",
+    "stargazers_count": 119,
+    "watchers_count": 119
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-05-18",
+    "date_updated": "2023-05-20",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/elliSzAt/XML-external-entity-XXE-injection",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XML-external-entity-XXE-injection",
+    "repo_owner": "elliSzAt",
+    "repotime": "2023-05-20, 18:17:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 56,
+    "date_started": "2023-05-06",
+    "date_updated": "2023-05-17",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Llam-a/XML-external-entity-XXE-injection",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XML-external-entity-XXE-injection",
+    "repo_owner": "Llam-a",
+    "repotime": "2023-05-17, 20:00:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-05-12",
+    "date_updated": "2023-05-14",
+    "description": "A simple PoC for CVE-2022-46169 a.k.a Cacti Unauthenticated Command Injection, a vulnerability allows an unauthenticated user to execute arbitrary code on a server running Cacti prior from version 1.2.17 to 1.2.22",
+    "forks_count": 2,
+    "html_url": "https://github.com/Rickster5555/EH2-PoC",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "EH2-PoC",
+    "repo_owner": "Rickster5555",
+    "repotime": "2023-05-14, 20:36:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-05-08",
+    "date_updated": "2023-05-08",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/tripiod8/XML_EXTERNAL_ENTITY_ATTACK",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "HTML",
+    "repo_name": "XML_EXTERNAL_ENTITY_ATTACK",
+    "repo_owner": "tripiod8",
+    "repotime": "2023-05-08, 12:42:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 92,
+    "date_started": "2012-04-09",
+    "date_updated": "2023-05-08",
+    "description": "a Joomla! and WordPress Security script that automatically scans the Joomla! or Wordpress files for some patterns and &amp;quot;fingerprints&amp;quot; of malware, trojans or other injections into PHP code",
+    "forks_count": 105,
+    "html_url": "https://github.com/btoplak/Joomla-Anti-Malware-Scan-Script--JAMSS-",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PHP",
+    "repo_name": "Joomla-Anti-Malware-Scan-Script--JAMSS-",
+    "repo_owner": "btoplak",
+    "repotime": "2023-05-08, 12:26:14",
+    "stargazers_count": 143,
+    "watchers_count": 143
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-08-13",
+    "date_updated": "2023-05-06",
+    "description": "[Archived] GPU Drops' captcha solving extension without affiliate tracking code injection",
+    "forks_count": 16,
+    "html_url": "https://github.com/Sqaaakoi/legacy-noptcha-patch-archived",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "legacy-noptcha-patch-archived",
+    "repo_owner": "Sqaaakoi",
+    "repotime": "2023-05-06, 19:47:08",
+    "stargazers_count": 196,
+    "watchers_count": 196
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-01-05",
+    "date_updated": "2023-05-03",
+    "description": "PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti &amp;lt;= 1.2.22",
+    "forks_count": 8,
+    "html_url": "https://github.com/sAsPeCt488/CVE-2022-46169",
+    "keywords": [
+        "unauthenticated rce",
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-46169",
+    "repo_owner": "sAsPeCt488",
+    "repotime": "2023-05-03, 19:50:34",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 34,
+    "date_started": "2023-04-30",
+    "date_updated": "2023-05-01",
+    "description": "GregsBestFriend process injection code created from the White Knight Labs Offensive Development course",
+    "forks_count": 35,
+    "html_url": "https://github.com/WKL-Sec/GregsBestFriend",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "GregsBestFriend",
+    "repo_owner": "WKL-Sec",
+    "repotime": "2023-05-01, 07:08:58",
+    "stargazers_count": 193,
+    "watchers_count": 193
+}

@@ -50,3 +50,107 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 11,
+    "date_started": "2022-09-27",
+    "date_updated": "2022-09-29",
+    "description": "Fix a memory leak in SharedMemory on Windows",
+    "forks_count": 1,
+    "html_url": "https://github.com/amsikking/shm_win_patch",
+    "keywords": [
+        "Windows memory leak",
+        "Win memory leak"
+    ],
+    "language": "Python",
+    "repo_name": "shm_win_patch",
+    "repo_owner": "amsikking",
+    "repotime": "2022-09-29, 09:35:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 110,
+    "date_started": "2020-10-23",
+    "date_updated": "2022-09-04",
+    "description": "A cheat sheet that contains advanced queries for SQL Injection of all types.",
+    "forks_count": 684,
+    "html_url": "https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "Advanced-SQL-Injection-Cheatsheet",
+    "repo_owner": "kleiton0x00",
+    "repotime": "2022-09-04, 17:36:34",
+    "stargazers_count": 3026,
+    "watchers_count": 3026
+}
+{
+    "commits_count": 14,
+    "date_started": "2022-07-01",
+    "date_updated": "2022-09-01",
+    "description": "Chegou a hora de pegar todo o conhecimento adquirido nos módulos anteriores e aplicar em um projeto real! Neste módulo, construímos um projeto que se integra com a API desenvolvida no Módulo 4 utilizando um Client HTTP que construímos do zero utilizando a fetch API do próprio JavaScript. Além disso, trabalhamos com validação de formulários, controlled e uncontrolled components, Modais, Portais, entramos à fundo no que é CORS, tratamentos de erros do JavaScript e da API, analisamos o código fonte do React para entender o funcionamento dos Hooks, abordamos patterns como Service e EventEmitter, dicas de UI/UX e prevenção de Memory Leaks, animações e muito mais! E claro: usando apenas os pacotes necessários, aqui fazemos tudo na mão!",
+    "forks_count": 0,
+    "html_url": "https://github.com/andreattamatheus/my-contacts-frontend",
+    "keywords": [
+        "memory leak dos"
+    ],
+    "language": "JavaScript",
+    "repo_name": "my-contacts-frontend",
+    "repo_owner": "andreattamatheus",
+    "repotime": "2022-09-01, 14:28:57",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-09-27",
+    "date_updated": "2022-09-29",
+    "description": "Fix a memory leak in SharedMemory on Windows",
+    "forks_count": 1,
+    "html_url": "https://github.com/amsikking/shm_win_patch",
+    "keywords": [
+        "Windows memory leak",
+        "Win memory leak"
+    ],
+    "language": "Python",
+    "repo_name": "shm_win_patch",
+    "repo_owner": "amsikking",
+    "repotime": "2022-09-29, 09:35:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 110,
+    "date_started": "2020-10-23",
+    "date_updated": "2022-09-04",
+    "description": "A cheat sheet that contains advanced queries for SQL Injection of all types.",
+    "forks_count": 685,
+    "html_url": "https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "Advanced-SQL-Injection-Cheatsheet",
+    "repo_owner": "kleiton0x00",
+    "repotime": "2022-09-04, 17:36:34",
+    "stargazers_count": 3038,
+    "watchers_count": 3038
+}
+{
+    "commits_count": 14,
+    "date_started": "2022-07-01",
+    "date_updated": "2022-09-01",
+    "description": "Chegou a hora de pegar todo o conhecimento adquirido nos módulos anteriores e aplicar em um projeto real! Neste módulo, construímos um projeto que se integra com a API desenvolvida no Módulo 4 utilizando um Client HTTP que construímos do zero utilizando a fetch API do próprio JavaScript. Além disso, trabalhamos com validação de formulários, controlled e uncontrolled components, Modais, Portais, entramos à fundo no que é CORS, tratamentos de erros do JavaScript e da API, analisamos o código fonte do React para entender o funcionamento dos Hooks, abordamos patterns como Service e EventEmitter, dicas de UI/UX e prevenção de Memory Leaks, animações e muito mais! E claro: usando apenas os pacotes necessários, aqui fazemos tudo na mão!",
+    "forks_count": 0,
+    "html_url": "https://github.com/andreattamatheus/my-contacts-frontend",
+    "keywords": [
+        "memory leak dos"
+    ],
+    "language": "JavaScript",
+    "repo_name": "my-contacts-frontend",
+    "repo_owner": "andreattamatheus",
+    "repotime": "2022-09-01, 14:28:57",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

@@ -1,0 +1,1068 @@
+{
+    "commits_count": 1327,
+    "date_started": "2016-03-27",
+    "date_updated": "2022-10-31",
+    "description": "Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",
+    "forks_count": 1071,
+    "html_url": "https://github.com/future-architect/vuls",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "vuls",
+    "repo_owner": "future-architect",
+    "repotime": "2022-10-31, 21:14:20",
+    "stargazers_count": 9593,
+    "watchers_count": 9593
+}
+{
+    "commits_count": 2907,
+    "date_started": "2013-05-22",
+    "date_updated": "2022-10-30",
+    "description": "Free web-application vulnerability and version scanner",
+    "forks_count": 114,
+    "html_url": "https://github.com/fgeek/pyfiscan",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "pyfiscan",
+    "repo_owner": "fgeek",
+    "repotime": "2022-10-30, 15:19:49",
+    "stargazers_count": 494,
+    "watchers_count": 494
+}
+{
+    "commits_count": 335,
+    "date_started": "2015-06-12",
+    "date_updated": "2022-10-29",
+    "description": "Free offline maps with routing functions and more ...",
+    "forks_count": 65,
+    "html_url": "https://github.com/junjunguo/PocketMaps",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Java",
+    "repo_name": "PocketMaps",
+    "repo_owner": "junjunguo",
+    "repotime": "2022-10-29, 16:00:34",
+    "stargazers_count": 198,
+    "watchers_count": 198
+}
+{
+    "commits_count": 51,
+    "date_started": "2018-04-23",
+    "date_updated": "2022-10-29",
+    "description": "🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List",
+    "forks_count": 1819,
+    "html_url": "https://github.com/payloadbox/xss-payload-list",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "xss-payload-list",
+    "repo_owner": "payloadbox",
+    "repotime": "2022-10-29, 12:49:04",
+    "stargazers_count": 7269,
+    "watchers_count": 7269
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-29",
+    "date_updated": "2022-10-28",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Koogleblitz/UAF-Overflow-Exploits",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "C",
+    "repo_name": "UAF-Overflow-Exploits",
+    "repo_owner": "Koogleblitz",
+    "repotime": "2022-10-28, 19:30:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 86,
+    "date_started": "2014-06-27",
+    "date_updated": "2022-10-28",
+    "description": "A collection of PHP exploit scripts, found when investigating hacked servers. These are stored for educational purposes and to test fuzzers and vulnerability scanners. Feel free to contribute.",
+    "forks_count": 243,
+    "html_url": "https://github.com/mattiasgeniar/php-exploit-scripts",
+    "keywords": [
+        "exploit"
+    ],
+    "language": "PHP",
+    "repo_name": "php-exploit-scripts",
+    "repo_owner": "mattiasgeniar",
+    "repotime": "2022-10-28, 23:26:47",
+    "stargazers_count": 766,
+    "watchers_count": 766
+}
+{
+    "commits_count": 34,
+    "date_started": "2021-05-07",
+    "date_updated": "2022-10-27",
+    "description": "Advanced phishing tool:boom: used for session &amp;amp; credential grabbing and bypassing 2FA using man-in-the-middle attack :skull_and_crossbones: with standalone reverse proxy server.",
+    "forks_count": 26,
+    "html_url": "https://github.com/cipheras/cipherginx",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "cipherginx",
+    "repo_owner": "cipheras",
+    "repotime": "2022-10-27, 14:10:34",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-24",
+    "date_updated": "2022-10-24",
+    "description": "Performed RCE through LFI and log poisoning against vulnerable web servers and performed privilege escalation by manipulating process UIDs of binaries with SETUID capabilities.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Meowmycks/OSCPprep-Durian",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "OSCPprep-Durian",
+    "repo_owner": "Meowmycks",
+    "repotime": "2022-10-24, 21:20:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-06-30",
+    "date_updated": "2022-10-23",
+    "description": "Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520",
+    "forks_count": 3,
+    "html_url": "https://github.com/patois/winmagic_sd",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "Win 0day exploitation",
+        "Win 0day poc",
+        "0day poc",
+        "Win 0day",
+        "Win 0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "winmagic_sd",
+    "repo_owner": "patois",
+    "repotime": "2022-10-23, 11:28:38",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-05-16",
+    "date_updated": "2022-10-21",
+    "description": "Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table  1862-Add-Travis-CI-migration-table (&amp;&#35;35;1869, Iixixi/ZachryTylerWood&amp;&#35;35;102, THEBOLCK79/docs&amp;&#35;35;1, sbnbhk/docs&amp;&#35;35;1) @martin389 martin389 committed on Dec 9, 2020 2 parents 2f9ec0c + 1588f50 commit 1a56ed136914e522f3a23ecc2be1c49f479a1a6a Showing 501 changed files with 5,397 additions and 1,362 deletions.   2  .github/allowed-actions.js  @@ -30,7 +30,7 @@ module.exports = [   'rachmari/labeler@832d42ec5523f3c6d46e8168de71cd54363e3e2e',   'repo-sync/github-sync@3832fe8e2be32372e1b3970bbae8e7079edeec88',   'repo-sync/pull-request@33777245b1aace1a58c87a29c90321aa7a74bd7d',   'rtCamp/action-slack-notify@e17352feaf9aee300bf0ebc1dfbf467d80438815',   'someimportantcompany/github-actions-slack-message@0b470c14b39da4260ed9e3f9a4f1298a74ccdefd',   'tjenkinson/gh-action-auto-merge-dependency-updates@cee2ac0',   'EndBug/add-...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sfedfcv/redesigned-pancake",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Windows remote code execution",
+        "Windows use after free",
+        "Microsoft use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "redesigned-pancake",
+    "repo_owner": "Sfedfcv",
+    "repotime": "2022-10-21, 21:13:35",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-04-16",
+    "date_updated": "2022-10-18",
+    "description": "NICEHASH PLATFORM TERMS OF USE AND NICEHASH MINING TERMS OF SERVICE   PLEASE READ THESE NICEHASH PLATFORM TERMS OF USE AND NICEHASH MINING TERMS OF SERVICE (“Terms”) CAREFULLY BEFORE USING THE THE PLATFORM OR SERVICES DESCRIBED HEREIN. BY SELECTING “I AGREE”, ACCESSING THE PLATFORM, USING NICEHASH MINING SERVICES OR DOWNLOADING OR USING NICEHASH MINING SOFTWARE, YOU ARE ACKNOWLEDGING THAT YOU HAVE READ THESE TERMS, AS AMENDED FROM TIME TO TIME, AND YOU ARE AGREEING TO BE BOUND BY THEM. IF YOU DO NOT AGREE TO THESE TERMS, OR ANY SUBSEQUENT AMENDMENTS, CHANGES OR UPDATES, DO NOT ACCESS THE PLATFORM, USE NICEHASH MINING SERVICES OR USE THE NICEHASH MINING SOFTWARE.   GENERAL  These Terms apply to users of the NiceHash Platform (“Platform” and NiceHash Mining Services (“Services”) which are provided to you by NICEHASH Ltd, company organized and existing under the laws of the British Virgin Islands, with registered address at Intershore Chambers, Road Town, Tortola, British Virgin Islands, ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rastaman4e/-1",
+    "keywords": [
+        "use after free disclosure",
+        "Windows use after free exploit",
+        "Windows use after free",
+        "use after free denial of service",
+        "Windows use after free denial of service",
+        "use after free exploitation"
+    ],
+    "language": null,
+    "repo_name": "-1",
+    "repo_owner": "Rastaman4e",
+    "repotime": "2022-10-18, 15:03:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-12-30",
+    "date_updated": "2022-10-13",
+    "description": "Jan 3, 2022 - lecture on code coverage, unit tests, and dependency injection",
+    "forks_count": 87,
+    "html_url": "https://github.com/oregon-state-innovation-lab/cs561-swift",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "cs561-swift",
+    "repo_owner": "oregon-state-innovation-lab",
+    "repotime": "2022-10-13, 17:03:28",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 17,
+    "date_started": "2022-10-03",
+    "date_updated": "2022-10-13",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/SudheeraAbhisheka/UAF_Vulnerability-",
+    "keywords": [
+        "uaf vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "UAF_Vulnerability-",
+    "repo_owner": "SudheeraAbhisheka",
+    "repotime": "2022-10-13, 01:25:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-10-12",
+    "date_updated": "2022-10-12",
+    "description": "UAF exploit code",
+    "forks_count": 0,
+    "html_url": "https://github.com/KASTboi/UAF",
+    "keywords": [
+        "uaf exploit",
+        "uaf exploitation"
+    ],
+    "language": "C",
+    "repo_name": "UAF",
+    "repo_owner": "KASTboi",
+    "repotime": "2022-10-12, 17:31:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2020-03-08",
+    "date_updated": "2022-10-11",
+    "description": " &amp;lt;!doctype html&amp;gt; &amp;lt;html lang='en'&amp;gt;   &amp;lt;head&amp;gt;     &amp;lt;!-- Meta Properties --&amp;gt;     &amp;lt;meta charset='UTF-8'&amp;gt;     &amp;lt;title&amp;gt;surviv.io - 2d battle royale game&amp;lt;/title&amp;gt;     &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover, user-scalable=no&amp;quot;&amp;gt;     &amp;lt;link rel=&amp;quot;manifest&amp;quot; href=&amp;quot;manifest.json&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;mobile-web-app-capable&amp;quot; content=&amp;quot;yes&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;apple-mobile-web-app-capable&amp;quot; content=&amp;quot;yes&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;apple-mobile-web-app-title&amp;quot; content=&amp;quot;surviv.io&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;apple-mobile-web-app-status-bar-style&amp;quot; content=&amp;quot;black-translucent&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;application-name&amp;quot; content=&amp;quot;surviv.io&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;Like games such as Player Un...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ronald106/Surviv.io",
+    "keywords": [
+        "Windows use after free",
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "Surviv.io",
+    "repo_owner": "Ronald106",
+    "repotime": "2022-10-11, 12:07:49",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 18,
+    "date_started": "2019-10-17",
+    "date_updated": "2022-10-09",
+    "description": "Windows / Linux Local Privilege Escalation Workshop",
+    "forks_count": 472,
+    "html_url": "https://github.com/sagishahar/lpeworkshop",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "Batchfile",
+    "repo_name": "lpeworkshop",
+    "repo_owner": "sagishahar",
+    "repotime": "2022-10-09, 12:34:28",
+    "stargazers_count": 1982,
+    "watchers_count": 1982
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-01-03",
+    "date_updated": "2022-10-05",
+    "description": "Welcome to Hyper Bot ! Create your own permanent Hyper Bot ( runs on Heroku, no Lc0 ) If you want to create your own permanent bot, do the following:  Sign up to GitHub https://github.com/join , if you have not already.  With your GitHub account visit https://github.com/hyperchessbot/hyperbot , then click on Fork.  Create a BOT account if you do not already have one. To create one use an account that has not played any games yet, log into this account, then visit https://hypereasy.herokuapp.com/auth/lichess/bot , approve oauth and then on the page you are taken to click on 'Request upgrade to bot'.  Create an API access token with your BOT account at https://lichess.org/account/oauth/token ( should have scopes Read incoming challenges / Create, accept, decline challenges / Play games with the bot API )  Sign up to Heroku https://signup.heroku.com/ , if you have not already.  At Heroku create a new app using New / Create new app. Choose Europe for region.  In the app's dashboard go to t...",
+    "forks_count": 0,
+    "html_url": "https://github.com/armankarimpour/HyperChessArman",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "HyperChessArman",
+    "repo_owner": "armankarimpour",
+    "repotime": "2022-10-05, 18:25:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-11-02",
+    "date_updated": "2022-10-03",
+    "description": "Path Traversal Attack",
+    "forks_count": 1,
+    "html_url": "https://github.com/HowProgrammingWorks/PathTraversal",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "JavaScript",
+    "repo_name": "PathTraversal",
+    "repo_owner": "HowProgrammingWorks",
+    "repotime": "2022-10-03, 23:07:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 39,
+    "date_started": "2022-09-25",
+    "date_updated": "2022-10-01",
+    "description": "Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. This repo. contains documentation of the Exploits during my practice session. For further information, check README file.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MahirLabibUtso/DVWA-Practice",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "DVWA-Practice",
+    "repo_owner": "MahirLabibUtso",
+    "repotime": "2022-10-01, 22:57:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-09-30",
+    "date_updated": "2022-10-01",
+    "description": "Zeroday Microsoft Exchange Server checker (Virtual Patching checker)",
+    "forks_count": 17,
+    "html_url": "https://github.com/VNCERT-CC/0dayex-checker",
+    "keywords": [
+        "Microsoft 0day"
+    ],
+    "language": "Go",
+    "repo_name": "0dayex-checker",
+    "repo_owner": "VNCERT-CC",
+    "repotime": "2022-10-01, 09:47:07",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}
+{
+    "commits_count": 1327,
+    "date_started": "2016-03-27",
+    "date_updated": "2022-10-31",
+    "description": "Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",
+    "forks_count": 1071,
+    "html_url": "https://github.com/future-architect/vuls",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "vuls",
+    "repo_owner": "future-architect",
+    "repotime": "2022-10-31, 21:14:20",
+    "stargazers_count": 9593,
+    "watchers_count": 9593
+}
+{
+    "commits_count": 2907,
+    "date_started": "2013-05-22",
+    "date_updated": "2022-10-30",
+    "description": "Free web-application vulnerability and version scanner",
+    "forks_count": 114,
+    "html_url": "https://github.com/fgeek/pyfiscan",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "pyfiscan",
+    "repo_owner": "fgeek",
+    "repotime": "2022-10-30, 15:19:49",
+    "stargazers_count": 494,
+    "watchers_count": 494
+}
+{
+    "commits_count": 335,
+    "date_started": "2015-06-12",
+    "date_updated": "2022-10-29",
+    "description": "Free offline maps with routing functions and more ...",
+    "forks_count": 65,
+    "html_url": "https://github.com/junjunguo/PocketMaps",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Java",
+    "repo_name": "PocketMaps",
+    "repo_owner": "junjunguo",
+    "repotime": "2022-10-29, 16:00:34",
+    "stargazers_count": 198,
+    "watchers_count": 198
+}
+{
+    "commits_count": 51,
+    "date_started": "2018-04-23",
+    "date_updated": "2022-10-29",
+    "description": "🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List",
+    "forks_count": 1838,
+    "html_url": "https://github.com/payloadbox/xss-payload-list",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "xss-payload-list",
+    "repo_owner": "payloadbox",
+    "repotime": "2022-10-29, 12:49:04",
+    "stargazers_count": 7408,
+    "watchers_count": 7408
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-29",
+    "date_updated": "2022-10-28",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Koogleblitz/UAF-Overflow-Exploits",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "C",
+    "repo_name": "UAF-Overflow-Exploits",
+    "repo_owner": "Koogleblitz",
+    "repotime": "2022-10-28, 19:30:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 86,
+    "date_started": "2014-06-27",
+    "date_updated": "2022-10-28",
+    "description": "A collection of PHP exploit scripts, found when investigating hacked servers. These are stored for educational purposes and to test fuzzers and vulnerability scanners. Feel free to contribute.",
+    "forks_count": 243,
+    "html_url": "https://github.com/mattiasgeniar/php-exploit-scripts",
+    "keywords": [
+        "exploit"
+    ],
+    "language": "PHP",
+    "repo_name": "php-exploit-scripts",
+    "repo_owner": "mattiasgeniar",
+    "repotime": "2022-10-28, 23:26:47",
+    "stargazers_count": 766,
+    "watchers_count": 766
+}
+{
+    "commits_count": 34,
+    "date_started": "2021-05-07",
+    "date_updated": "2022-10-27",
+    "description": "Advanced phishing tool:boom: used for session &amp;amp; credential grabbing and bypassing 2FA using man-in-the-middle attack :skull_and_crossbones: with standalone reverse proxy server.",
+    "forks_count": 26,
+    "html_url": "https://github.com/cipheras/cipherginx",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "cipherginx",
+    "repo_owner": "cipheras",
+    "repotime": "2022-10-27, 14:10:34",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-24",
+    "date_updated": "2022-10-24",
+    "description": "Performed RCE through LFI and log poisoning against vulnerable web servers and performed privilege escalation by manipulating process UIDs of binaries with SETUID capabilities.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Meowmycks/OSCPprep-Durian",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "OSCPprep-Durian",
+    "repo_owner": "Meowmycks",
+    "repotime": "2022-10-24, 21:20:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-06-30",
+    "date_updated": "2022-10-23",
+    "description": "Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520",
+    "forks_count": 3,
+    "html_url": "https://github.com/patois/winmagic_sd",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "Win 0day exploitation",
+        "Win 0day poc",
+        "0day poc",
+        "Win 0day",
+        "Win 0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "winmagic_sd",
+    "repo_owner": "patois",
+    "repotime": "2022-10-23, 11:28:38",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-05-16",
+    "date_updated": "2022-10-21",
+    "description": "Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table  1862-Add-Travis-CI-migration-table (&amp;&#35;35;1869, Iixixi/ZachryTylerWood&amp;&#35;35;102, THEBOLCK79/docs&amp;&#35;35;1, sbnbhk/docs&amp;&#35;35;1) @martin389 martin389 committed on Dec 9, 2020 2 parents 2f9ec0c + 1588f50 commit 1a56ed136914e522f3a23ecc2be1c49f479a1a6a Showing 501 changed files with 5,397 additions and 1,362 deletions.   2  .github/allowed-actions.js  @@ -30,7 +30,7 @@ module.exports = [   'rachmari/labeler@832d42ec5523f3c6d46e8168de71cd54363e3e2e',   'repo-sync/github-sync@3832fe8e2be32372e1b3970bbae8e7079edeec88',   'repo-sync/pull-request@33777245b1aace1a58c87a29c90321aa7a74bd7d',   'rtCamp/action-slack-notify@e17352feaf9aee300bf0ebc1dfbf467d80438815',   'someimportantcompany/github-actions-slack-message@0b470c14b39da4260ed9e3f9a4f1298a74ccdefd',   'tjenkinson/gh-action-auto-merge-dependency-updates@cee2ac0',   'EndBug/add-...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sfedfcv/redesigned-pancake",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Windows remote code execution",
+        "Windows use after free",
+        "Microsoft use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "redesigned-pancake",
+    "repo_owner": "Sfedfcv",
+    "repotime": "2022-10-21, 21:13:35",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-04-16",
+    "date_updated": "2022-10-18",
+    "description": "NICEHASH PLATFORM TERMS OF USE AND NICEHASH MINING TERMS OF SERVICE   PLEASE READ THESE NICEHASH PLATFORM TERMS OF USE AND NICEHASH MINING TERMS OF SERVICE (“Terms”) CAREFULLY BEFORE USING THE THE PLATFORM OR SERVICES DESCRIBED HEREIN. BY SELECTING “I AGREE”, ACCESSING THE PLATFORM, USING NICEHASH MINING SERVICES OR DOWNLOADING OR USING NICEHASH MINING SOFTWARE, YOU ARE ACKNOWLEDGING THAT YOU HAVE READ THESE TERMS, AS AMENDED FROM TIME TO TIME, AND YOU ARE AGREEING TO BE BOUND BY THEM. IF YOU DO NOT AGREE TO THESE TERMS, OR ANY SUBSEQUENT AMENDMENTS, CHANGES OR UPDATES, DO NOT ACCESS THE PLATFORM, USE NICEHASH MINING SERVICES OR USE THE NICEHASH MINING SOFTWARE.   GENERAL  These Terms apply to users of the NiceHash Platform (“Platform” and NiceHash Mining Services (“Services”) which are provided to you by NICEHASH Ltd, company organized and existing under the laws of the British Virgin Islands, with registered address at Intershore Chambers, Road Town, Tortola, British Virgin Islands, ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rastaman4e/-1",
+    "keywords": [
+        "use after free disclosure",
+        "Windows use after free exploit",
+        "Windows use after free",
+        "use after free denial of service",
+        "Windows use after free denial of service",
+        "use after free exploitation"
+    ],
+    "language": null,
+    "repo_name": "-1",
+    "repo_owner": "Rastaman4e",
+    "repotime": "2022-10-18, 15:03:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-12-30",
+    "date_updated": "2022-10-13",
+    "description": "Jan 3, 2022 - lecture on code coverage, unit tests, and dependency injection",
+    "forks_count": 87,
+    "html_url": "https://github.com/oregon-state-innovation-lab/cs561-swift",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "cs561-swift",
+    "repo_owner": "oregon-state-innovation-lab",
+    "repotime": "2022-10-13, 17:03:28",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 17,
+    "date_started": "2022-10-03",
+    "date_updated": "2022-10-13",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/SudheeraAbhisheka/UAF_Vulnerability-",
+    "keywords": [
+        "uaf vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "UAF_Vulnerability-",
+    "repo_owner": "SudheeraAbhisheka",
+    "repotime": "2022-10-13, 01:25:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-10-12",
+    "date_updated": "2022-10-12",
+    "description": "UAF exploit code",
+    "forks_count": 0,
+    "html_url": "https://github.com/KASTboi/UAF",
+    "keywords": [
+        "uaf exploit",
+        "uaf exploitation"
+    ],
+    "language": "C",
+    "repo_name": "UAF",
+    "repo_owner": "KASTboi",
+    "repotime": "2022-10-12, 17:31:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2020-03-08",
+    "date_updated": "2022-10-11",
+    "description": " &amp;lt;!doctype html&amp;gt; &amp;lt;html lang='en'&amp;gt;   &amp;lt;head&amp;gt;     &amp;lt;!-- Meta Properties --&amp;gt;     &amp;lt;meta charset='UTF-8'&amp;gt;     &amp;lt;title&amp;gt;surviv.io - 2d battle royale game&amp;lt;/title&amp;gt;     &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover, user-scalable=no&amp;quot;&amp;gt;     &amp;lt;link rel=&amp;quot;manifest&amp;quot; href=&amp;quot;manifest.json&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;mobile-web-app-capable&amp;quot; content=&amp;quot;yes&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;apple-mobile-web-app-capable&amp;quot; content=&amp;quot;yes&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;apple-mobile-web-app-title&amp;quot; content=&amp;quot;surviv.io&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;apple-mobile-web-app-status-bar-style&amp;quot; content=&amp;quot;black-translucent&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;application-name&amp;quot; content=&amp;quot;surviv.io&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;Like games such as Player Un...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ronald106/Surviv.io",
+    "keywords": [
+        "Windows use after free",
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "Surviv.io",
+    "repo_owner": "Ronald106",
+    "repotime": "2022-10-11, 12:07:49",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 18,
+    "date_started": "2019-10-17",
+    "date_updated": "2022-10-09",
+    "description": "Windows / Linux Local Privilege Escalation Workshop",
+    "forks_count": 472,
+    "html_url": "https://github.com/sagishahar/lpeworkshop",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "Batchfile",
+    "repo_name": "lpeworkshop",
+    "repo_owner": "sagishahar",
+    "repotime": "2022-10-09, 12:34:28",
+    "stargazers_count": 1983,
+    "watchers_count": 1983
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-01-03",
+    "date_updated": "2022-10-05",
+    "description": "Welcome to Hyper Bot ! Create your own permanent Hyper Bot ( runs on Heroku, no Lc0 ) If you want to create your own permanent bot, do the following:  Sign up to GitHub https://github.com/join , if you have not already.  With your GitHub account visit https://github.com/hyperchessbot/hyperbot , then click on Fork.  Create a BOT account if you do not already have one. To create one use an account that has not played any games yet, log into this account, then visit https://hypereasy.herokuapp.com/auth/lichess/bot , approve oauth and then on the page you are taken to click on 'Request upgrade to bot'.  Create an API access token with your BOT account at https://lichess.org/account/oauth/token ( should have scopes Read incoming challenges / Create, accept, decline challenges / Play games with the bot API )  Sign up to Heroku https://signup.heroku.com/ , if you have not already.  At Heroku create a new app using New / Create new app. Choose Europe for region.  In the app's dashboard go to t...",
+    "forks_count": 0,
+    "html_url": "https://github.com/armankarimpour/HyperChessArman",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "HyperChessArman",
+    "repo_owner": "armankarimpour",
+    "repotime": "2022-10-05, 18:25:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-11-02",
+    "date_updated": "2022-10-03",
+    "description": "Path Traversal Attack",
+    "forks_count": 1,
+    "html_url": "https://github.com/HowProgrammingWorks/PathTraversal",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "JavaScript",
+    "repo_name": "PathTraversal",
+    "repo_owner": "HowProgrammingWorks",
+    "repotime": "2022-10-03, 23:07:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 39,
+    "date_started": "2022-09-25",
+    "date_updated": "2022-10-01",
+    "description": "Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. This repo. contains documentation of the Exploits during my practice session. For further information, check README file.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MahirLabibUtso/DVWA-Practice",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "DVWA-Practice",
+    "repo_owner": "MahirLabibUtso",
+    "repotime": "2022-10-01, 22:57:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-09-30",
+    "date_updated": "2022-10-01",
+    "description": "Zeroday Microsoft Exchange Server checker (Virtual Patching checker)",
+    "forks_count": 17,
+    "html_url": "https://github.com/VNCERT-CC/0dayex-checker",
+    "keywords": [
+        "Microsoft 0day"
+    ],
+    "language": "Go",
+    "repo_name": "0dayex-checker",
+    "repo_owner": "VNCERT-CC",
+    "repotime": "2022-10-01, 09:47:07",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}
+{
+    "commits_count": 1327,
+    "date_started": "2016-03-27",
+    "date_updated": "2022-10-31",
+    "description": "Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",
+    "forks_count": 1071,
+    "html_url": "https://github.com/future-architect/vuls",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "vuls",
+    "repo_owner": "future-architect",
+    "repotime": "2022-10-31, 21:14:20",
+    "stargazers_count": 9593,
+    "watchers_count": 9593
+}
+{
+    "commits_count": 2907,
+    "date_started": "2013-05-22",
+    "date_updated": "2022-10-30",
+    "description": "Free web-application vulnerability and version scanner",
+    "forks_count": 114,
+    "html_url": "https://github.com/fgeek/pyfiscan",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "pyfiscan",
+    "repo_owner": "fgeek",
+    "repotime": "2022-10-30, 15:19:49",
+    "stargazers_count": 494,
+    "watchers_count": 494
+}
+{
+    "commits_count": 335,
+    "date_started": "2015-06-12",
+    "date_updated": "2022-10-29",
+    "description": "Free offline maps with routing functions and more ...",
+    "forks_count": 65,
+    "html_url": "https://github.com/junjunguo/PocketMaps",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Java",
+    "repo_name": "PocketMaps",
+    "repo_owner": "junjunguo",
+    "repotime": "2022-10-29, 16:00:34",
+    "stargazers_count": 198,
+    "watchers_count": 198
+}
+{
+    "commits_count": 51,
+    "date_started": "2018-04-23",
+    "date_updated": "2022-10-29",
+    "description": "🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List",
+    "forks_count": 1840,
+    "html_url": "https://github.com/payloadbox/xss-payload-list",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "xss-payload-list",
+    "repo_owner": "payloadbox",
+    "repotime": "2022-10-29, 12:49:04",
+    "stargazers_count": 7409,
+    "watchers_count": 7409
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-29",
+    "date_updated": "2022-10-28",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Koogleblitz/UAF-Overflow-Exploits",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "C",
+    "repo_name": "UAF-Overflow-Exploits",
+    "repo_owner": "Koogleblitz",
+    "repotime": "2022-10-28, 19:30:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 86,
+    "date_started": "2014-06-27",
+    "date_updated": "2022-10-28",
+    "description": "A collection of PHP exploit scripts, found when investigating hacked servers. These are stored for educational purposes and to test fuzzers and vulnerability scanners. Feel free to contribute.",
+    "forks_count": 243,
+    "html_url": "https://github.com/mattiasgeniar/php-exploit-scripts",
+    "keywords": [
+        "exploit"
+    ],
+    "language": "PHP",
+    "repo_name": "php-exploit-scripts",
+    "repo_owner": "mattiasgeniar",
+    "repotime": "2022-10-28, 23:26:47",
+    "stargazers_count": 766,
+    "watchers_count": 766
+}
+{
+    "commits_count": 34,
+    "date_started": "2021-05-07",
+    "date_updated": "2022-10-27",
+    "description": "Advanced phishing tool:boom: used for session &amp;amp; credential grabbing and bypassing 2FA using man-in-the-middle attack :skull_and_crossbones: with standalone reverse proxy server.",
+    "forks_count": 26,
+    "html_url": "https://github.com/cipheras/cipherginx",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "cipherginx",
+    "repo_owner": "cipheras",
+    "repotime": "2022-10-27, 14:10:34",
+    "stargazers_count": 89,
+    "watchers_count": 89
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-24",
+    "date_updated": "2022-10-24",
+    "description": "Performed RCE through LFI and log poisoning against vulnerable web servers and performed privilege escalation by manipulating process UIDs of binaries with SETUID capabilities.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Meowmycks/OSCPprep-Durian",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "OSCPprep-Durian",
+    "repo_owner": "Meowmycks",
+    "repotime": "2022-10-24, 21:20:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-06-30",
+    "date_updated": "2022-10-23",
+    "description": "Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520",
+    "forks_count": 3,
+    "html_url": "https://github.com/patois/winmagic_sd",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "Win 0day exploitation",
+        "Win 0day poc",
+        "0day poc",
+        "Win 0day",
+        "Win 0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "winmagic_sd",
+    "repo_owner": "patois",
+    "repotime": "2022-10-23, 11:28:38",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-05-16",
+    "date_updated": "2022-10-21",
+    "description": "Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table  1862-Add-Travis-CI-migration-table (&amp;&#35;35;1869, Iixixi/ZachryTylerWood&amp;&#35;35;102, THEBOLCK79/docs&amp;&#35;35;1, sbnbhk/docs&amp;&#35;35;1) @martin389 martin389 committed on Dec 9, 2020 2 parents 2f9ec0c + 1588f50 commit 1a56ed136914e522f3a23ecc2be1c49f479a1a6a Showing 501 changed files with 5,397 additions and 1,362 deletions.   2  .github/allowed-actions.js  @@ -30,7 +30,7 @@ module.exports = [   'rachmari/labeler@832d42ec5523f3c6d46e8168de71cd54363e3e2e',   'repo-sync/github-sync@3832fe8e2be32372e1b3970bbae8e7079edeec88',   'repo-sync/pull-request@33777245b1aace1a58c87a29c90321aa7a74bd7d',   'rtCamp/action-slack-notify@e17352feaf9aee300bf0ebc1dfbf467d80438815',   'someimportantcompany/github-actions-slack-message@0b470c14b39da4260ed9e3f9a4f1298a74ccdefd',   'tjenkinson/gh-action-auto-merge-dependency-updates@cee2ac0',   'EndBug/add-...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sfedfcv/redesigned-pancake",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Windows remote code execution",
+        "Windows use after free",
+        "Microsoft use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "redesigned-pancake",
+    "repo_owner": "Sfedfcv",
+    "repotime": "2022-10-21, 21:13:35",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-04-16",
+    "date_updated": "2022-10-18",
+    "description": "NICEHASH PLATFORM TERMS OF USE AND NICEHASH MINING TERMS OF SERVICE   PLEASE READ THESE NICEHASH PLATFORM TERMS OF USE AND NICEHASH MINING TERMS OF SERVICE (“Terms”) CAREFULLY BEFORE USING THE THE PLATFORM OR SERVICES DESCRIBED HEREIN. BY SELECTING “I AGREE”, ACCESSING THE PLATFORM, USING NICEHASH MINING SERVICES OR DOWNLOADING OR USING NICEHASH MINING SOFTWARE, YOU ARE ACKNOWLEDGING THAT YOU HAVE READ THESE TERMS, AS AMENDED FROM TIME TO TIME, AND YOU ARE AGREEING TO BE BOUND BY THEM. IF YOU DO NOT AGREE TO THESE TERMS, OR ANY SUBSEQUENT AMENDMENTS, CHANGES OR UPDATES, DO NOT ACCESS THE PLATFORM, USE NICEHASH MINING SERVICES OR USE THE NICEHASH MINING SOFTWARE.   GENERAL  These Terms apply to users of the NiceHash Platform (“Platform” and NiceHash Mining Services (“Services”) which are provided to you by NICEHASH Ltd, company organized and existing under the laws of the British Virgin Islands, with registered address at Intershore Chambers, Road Town, Tortola, British Virgin Islands, ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rastaman4e/-1",
+    "keywords": [
+        "use after free disclosure",
+        "Windows use after free exploit",
+        "Windows use after free",
+        "use after free denial of service",
+        "Windows use after free denial of service",
+        "use after free exploitation"
+    ],
+    "language": null,
+    "repo_name": "-1",
+    "repo_owner": "Rastaman4e",
+    "repotime": "2022-10-18, 15:03:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-12-30",
+    "date_updated": "2022-10-13",
+    "description": "Jan 3, 2022 - lecture on code coverage, unit tests, and dependency injection",
+    "forks_count": 87,
+    "html_url": "https://github.com/oregon-state-innovation-lab/cs561-swift",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "cs561-swift",
+    "repo_owner": "oregon-state-innovation-lab",
+    "repotime": "2022-10-13, 17:03:28",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 17,
+    "date_started": "2022-10-03",
+    "date_updated": "2022-10-13",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/SudheeraAbhisheka/UAF_Vulnerability-",
+    "keywords": [
+        "uaf vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "UAF_Vulnerability-",
+    "repo_owner": "SudheeraAbhisheka",
+    "repotime": "2022-10-13, 01:25:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-10-12",
+    "date_updated": "2022-10-12",
+    "description": "UAF exploit code",
+    "forks_count": 0,
+    "html_url": "https://github.com/KASTboi/UAF",
+    "keywords": [
+        "uaf exploit",
+        "uaf exploitation"
+    ],
+    "language": "C",
+    "repo_name": "UAF",
+    "repo_owner": "KASTboi",
+    "repotime": "2022-10-12, 17:31:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2020-03-08",
+    "date_updated": "2022-10-11",
+    "description": " &amp;lt;!doctype html&amp;gt; &amp;lt;html lang='en'&amp;gt;   &amp;lt;head&amp;gt;     &amp;lt;!-- Meta Properties --&amp;gt;     &amp;lt;meta charset='UTF-8'&amp;gt;     &amp;lt;title&amp;gt;surviv.io - 2d battle royale game&amp;lt;/title&amp;gt;     &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover, user-scalable=no&amp;quot;&amp;gt;     &amp;lt;link rel=&amp;quot;manifest&amp;quot; href=&amp;quot;manifest.json&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;mobile-web-app-capable&amp;quot; content=&amp;quot;yes&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;apple-mobile-web-app-capable&amp;quot; content=&amp;quot;yes&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;apple-mobile-web-app-title&amp;quot; content=&amp;quot;surviv.io&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;apple-mobile-web-app-status-bar-style&amp;quot; content=&amp;quot;black-translucent&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;application-name&amp;quot; content=&amp;quot;surviv.io&amp;quot;&amp;gt;     &amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;Like games such as Player Un...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ronald106/Surviv.io",
+    "keywords": [
+        "Windows use after free",
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "Surviv.io",
+    "repo_owner": "Ronald106",
+    "repotime": "2022-10-11, 12:07:49",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 18,
+    "date_started": "2019-10-17",
+    "date_updated": "2022-10-09",
+    "description": "Windows / Linux Local Privilege Escalation Workshop",
+    "forks_count": 471,
+    "html_url": "https://github.com/sagishahar/lpeworkshop",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "Batchfile",
+    "repo_name": "lpeworkshop",
+    "repo_owner": "sagishahar",
+    "repotime": "2022-10-09, 12:34:28",
+    "stargazers_count": 1986,
+    "watchers_count": 1986
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-01-03",
+    "date_updated": "2022-10-05",
+    "description": "Welcome to Hyper Bot ! Create your own permanent Hyper Bot ( runs on Heroku, no Lc0 ) If you want to create your own permanent bot, do the following:  Sign up to GitHub https://github.com/join , if you have not already.  With your GitHub account visit https://github.com/hyperchessbot/hyperbot , then click on Fork.  Create a BOT account if you do not already have one. To create one use an account that has not played any games yet, log into this account, then visit https://hypereasy.herokuapp.com/auth/lichess/bot , approve oauth and then on the page you are taken to click on 'Request upgrade to bot'.  Create an API access token with your BOT account at https://lichess.org/account/oauth/token ( should have scopes Read incoming challenges / Create, accept, decline challenges / Play games with the bot API )  Sign up to Heroku https://signup.heroku.com/ , if you have not already.  At Heroku create a new app using New / Create new app. Choose Europe for region.  In the app's dashboard go to t...",
+    "forks_count": 0,
+    "html_url": "https://github.com/armankarimpour/HyperChessArman",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "HyperChessArman",
+    "repo_owner": "armankarimpour",
+    "repotime": "2022-10-05, 18:25:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-11-02",
+    "date_updated": "2022-10-03",
+    "description": "Path Traversal Attack",
+    "forks_count": 1,
+    "html_url": "https://github.com/HowProgrammingWorks/PathTraversal",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "JavaScript",
+    "repo_name": "PathTraversal",
+    "repo_owner": "HowProgrammingWorks",
+    "repotime": "2022-10-03, 23:07:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 39,
+    "date_started": "2022-09-25",
+    "date_updated": "2022-10-01",
+    "description": "Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. This repo. contains documentation of the Exploits during my practice session. For further information, check README file.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MahirLabibUtso/DVWA-Practice",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "DVWA-Practice",
+    "repo_owner": "MahirLabibUtso",
+    "repotime": "2022-10-01, 22:57:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-09-30",
+    "date_updated": "2022-10-01",
+    "description": "Zeroday Microsoft Exchange Server checker (Virtual Patching checker)",
+    "forks_count": 17,
+    "html_url": "https://github.com/VNCERT-CC/0dayex-checker",
+    "keywords": [
+        "Microsoft 0day"
+    ],
+    "language": "Go",
+    "repo_name": "0dayex-checker",
+    "repo_owner": "VNCERT-CC",
+    "repotime": "2022-10-01, 09:47:07",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}

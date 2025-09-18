@@ -331,3 +331,669 @@
     "stargazers_count": 5,
     "watchers_count": 5
 }
+{
+    "commits_count": 3,
+    "date_started": "2021-07-29",
+    "date_updated": "2021-07-29",
+    "description": "Google Chrome Use After Free vulnerability reported by S4E Team",
+    "forks_count": 4,
+    "html_url": "https://github.com/s4eio/CVE-2021-30573-PoC-Google-Chrome",
+    "keywords": [
+        "Chrome use after free vulnerability",
+        "use after free poc",
+        "Chrome use after free",
+        "use after free vulnerability",
+        "Chrome use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2021-30573-PoC-Google-Chrome",
+    "repo_owner": "s4eio",
+    "repotime": "2021-07-29, 16:18:37",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-07-28",
+    "date_updated": "2021-07-28",
+    "description": "This is a reference implementation of paper Bringing Old Photos Back to Life, CVPR2020 (Oral) by Ziyu Wan1, Bo Zhang2, Dongdong Chen3, Pan Zhang4, Dong Chen2, Jing Liao1, Fang Wen2 City University of Hong Kong, Microsoft Research Asia, Microsoft Cloud AI, 4 USTC   After placing an old photo restore example in this group I got several requests for doing the work for their personal image or some important historic image they have. Doing it individually is a time taken job hence I have created this colab notebook for the same.  Through this colab notebook we have tried to make a simple free web based old photo editor so that this can be easily used by any person with limited technical knowledge. And this appears like a web page for restoring their personal photos. Click on the play button at the corner of each code block. There are two code blocks. The first one is to download pre trained models, hence it takes some time. This first block needs to be executed only once for a session. The ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/shatadal88/Simple-Old-photo-restore-",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Simple-Old-photo-restore-",
+    "repo_owner": "shatadal88",
+    "repotime": "2021-07-28, 15:14:41",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-06-03",
+    "date_updated": "2021-07-27",
+    "description": "Collection of shellcode injection and execution techniques",
+    "forks_count": 7,
+    "html_url": "https://github.com/11philip22/CodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "CodeInjection",
+    "repo_owner": "11philip22",
+    "repotime": "2021-07-27, 11:42:34",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-07-27",
+    "date_updated": "2021-07-27",
+    "description": "Google Measurement Controller-Controller Data Protection Terms The Measurement Services customer agreeing to these terms (“Customer”) has entered into an agreement with either Google or a third party reseller (as applicable) for the provision of the Measurement Services (as amended from time to time, the “Agreement”) through which services user interface Customer has enabled the Data Sharing Setting.  These Google Measurement Controller-Controller Data Protection Terms (“Controller Terms”) are entered into by Google and Customer. Where the Agreement is between Customer and Google, these Controller Terms supplement the Agreement. Where the Agreement is between Customer and a third party reseller, these Controller Terms form a separate agreement between Google and Customer.  For the avoidance of doubt, the provision of the Measurement Services is governed by the Agreement. These Controller Terms set out the data protection provisions relating to the Data Sharing Setting only but do not o...",
+    "forks_count": 0,
+    "html_url": "https://github.com/NestieGuilas/Additional-terms-applicable-to-data-shared-with-Google",
+    "keywords": [
+        "use after free proof of concept"
+    ],
+    "language": null,
+    "repo_name": "Additional-terms-applicable-to-data-shared-with-Google",
+    "repo_owner": "NestieGuilas",
+    "repotime": "2021-07-27, 07:25:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-07-26",
+    "date_updated": "2021-07-26",
+    "description": " 9 Email Marketing Tips For Content Marketers Even “agnostics” regarding email marketing can't hash out the following evidence - the average ROI from this promotional practice is close to 3,800%. Measureless opportunities to scale up and relative cheapness, compared to other reaching-out channels, are the two reasons why the email marketing is fair-haired by businesses. However, this is not about the price and physical extent alone.  The chief advantage is a better alignment of communication with customers. If you hope a certain content strategy brings desirable results, overlooking the quality of mailing messages will be a sorry pitfall. Always keep in mind that newsletters, welcome, retention, and other emails are not just a brand's facade - but a powerful tool for generating conversions. By joining sides of email and content strategies, you can come up with synergy from both. In this guide, we’ll cover a few recommendations for content marketers on how to write email messages that w...",
+    "forks_count": 0,
+    "html_url": "https://github.com/ZulqarnainZilli/-9-Email-Marketing-Tips-For-Content-Marketers",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "-9-Email-Marketing-Tips-For-Content-Marketers",
+    "repo_owner": "ZulqarnainZilli",
+    "repotime": "2021-07-26, 08:52:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 71,
+    "date_started": "2017-08-19",
+    "date_updated": "2021-07-22",
+    "description": "Web-Security-Learning",
+    "forks_count": 1018,
+    "html_url": "https://github.com/CHYbeta/Web-Security-Learning",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "Web-Security-Learning",
+    "repo_owner": "CHYbeta",
+    "repotime": "2021-07-22, 12:56:40",
+    "stargazers_count": 4247,
+    "watchers_count": 4247
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-07-16",
+    "date_updated": "2021-07-17",
+    "description": "             GNU AFFERO GENERAL PUBLIC LICENSE                        Version 3, 19 November 2007   Copyright (C) 2007 Free Software Foundation, Inc. &amp;lt;https://fsf.org/&amp;gt;  Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.                              Preamble    The GNU Affero General Public License is a free, copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the community in the case of network server software.    The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, our General Public Licenses are intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.    When we speak of free software, we are referring to freedom, not price.  Our General Public Licenses are designed to make sure that you h...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kancllo/License",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "License",
+    "repo_owner": "Kancllo",
+    "repotime": "2021-07-17, 03:58:05",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-07-14",
+    "date_updated": "2021-07-15",
+    "description": "Google Measurement Controller-Controller Data Protection Terms The Measurement Services customer agreeing to these terms (“Customer”) has entered into an agreement with either Google or a third party reseller (as applicable) for the provision of the Measurement Services (as amended from time to time, the “Agreement”) through which services user interface Customer has enabled the Data Sharing Setting.  These Google Measurement Controller-Controller Data Protection Terms (“Controller Terms”) are entered into by Google and Customer. Where the Agreement is between Customer and Google, these Controller Terms supplement the Agreement. Where the Agreement is between Customer and a third party reseller, these Controller Terms form a separate agreement between Google and Customer.  For the avoidance of doubt, the provision of the Measurement Services is governed by the Agreement. These Controller Terms set out the data protection provisions relating to the Data Sharing Setting only but do not o...",
+    "forks_count": 1,
+    "html_url": "https://github.com/NestieGuilas/Google-Musurment-controller-controller-Data-Protection-Tearms",
+    "keywords": [
+        "use after free proof of concept"
+    ],
+    "language": null,
+    "repo_name": "Google-Musurment-controller-controller-Data-Protection-Tearms",
+    "repo_owner": "NestieGuilas",
+    "repotime": "2021-07-15, 02:54:56",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-07-13",
+    "date_updated": "2021-07-13",
+    "description": "                    GNU GENERAL PUBLIC LICENSE                        Version 3, 29 June 2007   Copyright (C) 2007 Free Software Foundation, Inc. &amp;lt;https://fsf.org/&amp;gt;  Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.                              Preamble    The GNU General Public License is a free, copyleft license for software and other kinds of works.    The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.  We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors.  You can apply it to your programs, too.    When we speak of free software, we are refer...",
+    "forks_count": 2,
+    "html_url": "https://github.com/BoysGmNg/EksvancRawGithubLicense",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "EksvancRawGithubLicense",
+    "repo_owner": "BoysGmNg",
+    "repotime": "2021-07-13, 15:09:53",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-10-28",
+    "date_updated": "2021-07-12",
+    "description": "Bypass UAC by abusing the Security Center CPL and hijacking a shell protocol handler",
+    "forks_count": 12,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity3-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity3-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-07-12, 12:56:56",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-10-13",
+    "date_updated": "2021-07-12",
+    "description": "Bypass UAC by abusing the Internet Explorer Add-on installer",
+    "forks_count": 11,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity2-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity2-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-07-12, 12:56:38",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 28,
+    "date_started": "2018-03-15",
+    "date_updated": "2021-07-12",
+    "description": "Some PoC (Proof-of-Concept) about vulnerability of java deserialization of untrusted data ",
+    "forks_count": 5,
+    "html_url": "https://github.com/EdoardoVignati/java-deserialization-of-untrusted-data-poc",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": "FreeMarker",
+    "repo_name": "java-deserialization-of-untrusted-data-poc",
+    "repo_owner": "EdoardoVignati",
+    "repotime": "2021-07-12, 10:09:27",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 0,
+    "date_started": "2020-04-14",
+    "date_updated": "2021-07-10",
+    "description": "As we all know the situation in the world is going on the pandemic crisis all over the world of covid 19 everyone is scared and everything is just shut down the offices, industries, shops, schools and colleges people are advised to stay home and stay safe from this problem the only solution is now to stay in home so this is the time to do some thing at home rather then sitting alone and doing nothing at home and getting depressed from this corona virus you can use this time to learn new things and upgrade your skills for better growth so there are online study programs which are provided by our institute and you can learn selenium with java online training by our Institute that provides software testing training courses and classes online and offline to our candidtes so candidates should know how important is testing for a project to know that everything which is done on the project is working or not and there will be no errors and if there are you need to solve them in the process als...",
+    "forks_count": 0,
+    "html_url": "https://github.com/askme01/Learn-software-testing-online-Selenium-with-java",
+    "keywords": [
+        "Windows use after free",
+        "Windows remote code execution",
+        "Chrome remote code execution"
+    ],
+    "language": null,
+    "repo_name": "Learn-software-testing-online-Selenium-with-java",
+    "repo_owner": "askme01",
+    "repotime": "2021-07-10, 02:47:42",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-07-05",
+    "date_updated": "2021-07-08",
+    "description": "Workaround for Windows Print Spooler Remote Code Execution Vulnerability(CVE-2021-34527). See: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527",
+    "forks_count": 0,
+    "html_url": "https://github.com/rdboboia/disable-RegisterSpoolerRemoteRpcEndPoint",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Windows remote code execution",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": "Batchfile",
+    "repo_name": "disable-RegisterSpoolerRemoteRpcEndPoint",
+    "repo_owner": "rdboboia",
+    "repotime": "2021-07-08, 23:11:40",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-07-06",
+    "date_updated": "2021-07-07",
+    "description": "Code Injection, Inject malicious payload via pagetables pml4.",
+    "forks_count": 59,
+    "html_url": "https://github.com/kkent030315/PageTableInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "PageTableInjection",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-07-07, 09:02:29",
+    "stargazers_count": 241,
+    "watchers_count": 241
+}
+{
+    "commits_count": 147,
+    "date_started": "2021-09-21",
+    "date_updated": "2021-07-05",
+    "description": "Pricing and Matching  Scenario. Consider the scenario in which a shop has a number of promo codes to incentivize the customers that buy an item to buy a different item. The customers can belong to different classes and the promo codes can provide different discounts.  Environment. Imagine two items (referred to as first and second items; for each item we have an infinite number of units) and four customers’ classes. The daily number of customers of each class is described by a potentially different (truncated) Gaussian probability distribution. Each class is also associated with a potentially different conversion rate returning the probability that the user will buy the first item at a given price.  Once a buyer has bought the item, she/he can decide to buy the second item that can be or not promoted. There are four different promos P0, P1, P2, P3, each corresponding to a different level of discount. P0 corresponds to no discount. Given the total number of customers, the business unit ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/FrancescaPietrobon/Pricing-and-Matching",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Pricing-and-Matching",
+    "repo_owner": "FrancescaPietrobon",
+    "repotime": "2021-07-05, 17:37:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 147,
+    "date_started": "2021-03-09",
+    "date_updated": "2021-07-05",
+    "description": "Pricing and Matching  Scenario. Consider the scenario in which a shop has a number of promo codes to incentivize the customers that buy an item to buy a different item. The customers can belong to different classes and the promo codes can provide different discounts.  Environment. Imagine two items (referred to as first and second items; for each item we have an infinite number of units) and four customers’ classes. The daily number of customers of each class is described by a potentially different (truncated) Gaussian probability distribution. Each class is also associated with a potentially different conversion rate returning the probability that the user will buy the first item at a given price.  Once a buyer has bought the item, she/he can decide to buy the second item that can be or not promoted. There are four different promos P0, P1, P2, P3, each corresponding to a different level of discount. P0 corresponds to no discount. Given the total number of customers, the business unit ...",
+    "forks_count": 1,
+    "html_url": "https://github.com/FrancescoEmanueleStradi/Pricing-and-Matching",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "Python",
+    "repo_name": "Pricing-and-Matching",
+    "repo_owner": "FrancescoEmanueleStradi",
+    "repotime": "2021-07-05, 17:37:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-07-05",
+    "date_updated": "2021-07-05",
+    "description": "    TEMPLATE = app TARGET = franko-qt macx:TARGET = &amp;quot;Franko-Qt&amp;quot; VERSION = 0.8.5.5 INCLUDEPATH += src src/json src/qt QT += core gui network greaterThan(QT_MAJOR_VERSION, 4): QT += widgets DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE CONFIG += no_include_pwd CONFIG += thread  &amp;&#35;35; for boost 1.37, add -mt to the boost libraries &amp;&#35;35; use: qmake BOOST_LIB_SUFFIX=-mt &amp;&#35;35; for boost thread win32 with _win32 sufix &amp;&#35;35; use: BOOST_THREAD_LIB_SUFFIX=_win32-... &amp;&#35;35; or when linking against a specific BerkelyDB version: BDB_LIB_SUFFIX=-4.8  &amp;&#35;35; Dependency library locations can be customized with: &amp;&#35;35;    BOOST_INCLUDE_PATH, BOOST_LIB_PATH, BDB_INCLUDE_PATH, &amp;&#35;35;    BDB_LIB_PATH, OPENSSL_INCLUDE_PATH and OPENSSL_LIB_PATH respectively  OBJECTS_DIR = build MOC_DIR = build UI_DIR = build  &amp;&#35;35; use: qmake &amp;quot;RELEASE=1&amp;quot; contains(RELEASE, 1) {     &amp;&#35;35; Mac: compile for maximum compatibility (10.5, 32-bit)     macx:QMAKE_CXXFLAGS += -mmacosx-version-min=10.5...",
+    "forks_count": 1,
+    "html_url": "https://github.com/saadbitcoin/franko",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "C++",
+    "repo_name": "franko",
+    "repo_owner": "saadbitcoin",
+    "repotime": "2021-07-05, 05:44:19",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-07-02",
+    "date_updated": "2021-07-02",
+    "description": "in this repo i'll use msfvenom for creating a payload and save it as an apk file. After generating the payload, we need to setup a listener to Metasploit framework. Once the target downloads and installs the malicious apk then, an attacker can easily get back a meterpreter session on Metasploit. An attacker needs to do some social engineering to install apk on the victim’s mobile device.",
+    "forks_count": 2,
+    "html_url": "https://github.com/QMRonline/AndroidHacking",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "AndroidHacking",
+    "repo_owner": "QMRonline",
+    "repotime": "2021-07-02, 02:18:18",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-07-29",
+    "date_updated": "2021-07-29",
+    "description": "Google Chrome Use After Free vulnerability reported by S4E Team",
+    "forks_count": 4,
+    "html_url": "https://github.com/s4eio/CVE-2021-30573-PoC-Google-Chrome",
+    "keywords": [
+        "Chrome use after free vulnerability",
+        "use after free poc",
+        "Chrome use after free",
+        "use after free vulnerability",
+        "Chrome use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2021-30573-PoC-Google-Chrome",
+    "repo_owner": "s4eio",
+    "repotime": "2021-07-29, 16:18:37",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-07-28",
+    "date_updated": "2021-07-28",
+    "description": "This is a reference implementation of paper Bringing Old Photos Back to Life, CVPR2020 (Oral) by Ziyu Wan1, Bo Zhang2, Dongdong Chen3, Pan Zhang4, Dong Chen2, Jing Liao1, Fang Wen2 City University of Hong Kong, Microsoft Research Asia, Microsoft Cloud AI, 4 USTC   After placing an old photo restore example in this group I got several requests for doing the work for their personal image or some important historic image they have. Doing it individually is a time taken job hence I have created this colab notebook for the same.  Through this colab notebook we have tried to make a simple free web based old photo editor so that this can be easily used by any person with limited technical knowledge. And this appears like a web page for restoring their personal photos. Click on the play button at the corner of each code block. There are two code blocks. The first one is to download pre trained models, hence it takes some time. This first block needs to be executed only once for a session. The ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/shatadal88/Simple-Old-photo-restore-",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Simple-Old-photo-restore-",
+    "repo_owner": "shatadal88",
+    "repotime": "2021-07-28, 15:14:41",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-06-03",
+    "date_updated": "2021-07-27",
+    "description": "Collection of shellcode injection and execution techniques",
+    "forks_count": 7,
+    "html_url": "https://github.com/11philip22/code-Injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "code-Injection",
+    "repo_owner": "11philip22",
+    "repotime": "2021-07-27, 11:42:34",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-07-27",
+    "date_updated": "2021-07-27",
+    "description": "Google Measurement Controller-Controller Data Protection Terms The Measurement Services customer agreeing to these terms (“Customer”) has entered into an agreement with either Google or a third party reseller (as applicable) for the provision of the Measurement Services (as amended from time to time, the “Agreement”) through which services user interface Customer has enabled the Data Sharing Setting.  These Google Measurement Controller-Controller Data Protection Terms (“Controller Terms”) are entered into by Google and Customer. Where the Agreement is between Customer and Google, these Controller Terms supplement the Agreement. Where the Agreement is between Customer and a third party reseller, these Controller Terms form a separate agreement between Google and Customer.  For the avoidance of doubt, the provision of the Measurement Services is governed by the Agreement. These Controller Terms set out the data protection provisions relating to the Data Sharing Setting only but do not o...",
+    "forks_count": 0,
+    "html_url": "https://github.com/NestieGuilas/Additional-terms-applicable-to-data-shared-with-Google",
+    "keywords": [
+        "use after free proof of concept"
+    ],
+    "language": null,
+    "repo_name": "Additional-terms-applicable-to-data-shared-with-Google",
+    "repo_owner": "NestieGuilas",
+    "repotime": "2021-07-27, 07:25:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-07-26",
+    "date_updated": "2021-07-26",
+    "description": " 9 Email Marketing Tips For Content Marketers Even “agnostics” regarding email marketing can't hash out the following evidence - the average ROI from this promotional practice is close to 3,800%. Measureless opportunities to scale up and relative cheapness, compared to other reaching-out channels, are the two reasons why the email marketing is fair-haired by businesses. However, this is not about the price and physical extent alone.  The chief advantage is a better alignment of communication with customers. If you hope a certain content strategy brings desirable results, overlooking the quality of mailing messages will be a sorry pitfall. Always keep in mind that newsletters, welcome, retention, and other emails are not just a brand's facade - but a powerful tool for generating conversions. By joining sides of email and content strategies, you can come up with synergy from both. In this guide, we’ll cover a few recommendations for content marketers on how to write email messages that w...",
+    "forks_count": 0,
+    "html_url": "https://github.com/ZulqarnainZilli/-9-Email-Marketing-Tips-For-Content-Marketers",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "-9-Email-Marketing-Tips-For-Content-Marketers",
+    "repo_owner": "ZulqarnainZilli",
+    "repotime": "2021-07-26, 08:52:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 71,
+    "date_started": "2017-08-19",
+    "date_updated": "2021-07-22",
+    "description": "Web-Security-Learning",
+    "forks_count": 1015,
+    "html_url": "https://github.com/CHYbeta/Web-Security-Learning",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "Web-Security-Learning",
+    "repo_owner": "CHYbeta",
+    "repotime": "2021-07-22, 12:56:40",
+    "stargazers_count": 4255,
+    "watchers_count": 4255
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-07-16",
+    "date_updated": "2021-07-17",
+    "description": "             GNU AFFERO GENERAL PUBLIC LICENSE                        Version 3, 19 November 2007   Copyright (C) 2007 Free Software Foundation, Inc. &amp;lt;https://fsf.org/&amp;gt;  Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.                              Preamble    The GNU Affero General Public License is a free, copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the community in the case of network server software.    The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, our General Public Licenses are intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.    When we speak of free software, we are referring to freedom, not price.  Our General Public Licenses are designed to make sure that you h...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kancllo/License",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "License",
+    "repo_owner": "Kancllo",
+    "repotime": "2021-07-17, 03:58:05",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-07-14",
+    "date_updated": "2021-07-15",
+    "description": "Google Measurement Controller-Controller Data Protection Terms The Measurement Services customer agreeing to these terms (“Customer”) has entered into an agreement with either Google or a third party reseller (as applicable) for the provision of the Measurement Services (as amended from time to time, the “Agreement”) through which services user interface Customer has enabled the Data Sharing Setting.  These Google Measurement Controller-Controller Data Protection Terms (“Controller Terms”) are entered into by Google and Customer. Where the Agreement is between Customer and Google, these Controller Terms supplement the Agreement. Where the Agreement is between Customer and a third party reseller, these Controller Terms form a separate agreement between Google and Customer.  For the avoidance of doubt, the provision of the Measurement Services is governed by the Agreement. These Controller Terms set out the data protection provisions relating to the Data Sharing Setting only but do not o...",
+    "forks_count": 1,
+    "html_url": "https://github.com/NestieGuilas/Google-Musurment-controller-controller-Data-Protection-Tearms",
+    "keywords": [
+        "use after free proof of concept"
+    ],
+    "language": null,
+    "repo_name": "Google-Musurment-controller-controller-Data-Protection-Tearms",
+    "repo_owner": "NestieGuilas",
+    "repotime": "2021-07-15, 02:54:56",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-07-13",
+    "date_updated": "2021-07-13",
+    "description": "                    GNU GENERAL PUBLIC LICENSE                        Version 3, 29 June 2007   Copyright (C) 2007 Free Software Foundation, Inc. &amp;lt;https://fsf.org/&amp;gt;  Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.                              Preamble    The GNU General Public License is a free, copyleft license for software and other kinds of works.    The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.  We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors.  You can apply it to your programs, too.    When we speak of free software, we are refer...",
+    "forks_count": 2,
+    "html_url": "https://github.com/BoysGmNg/EksvancRawGithubLicense",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "EksvancRawGithubLicense",
+    "repo_owner": "BoysGmNg",
+    "repotime": "2021-07-13, 15:09:53",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-10-28",
+    "date_updated": "2021-07-12",
+    "description": "Bypass UAC by abusing the Security Center CPL and hijacking a shell protocol handler",
+    "forks_count": 12,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity3-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity3-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-07-12, 12:56:56",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-10-13",
+    "date_updated": "2021-07-12",
+    "description": "Bypass UAC by abusing the Internet Explorer Add-on installer",
+    "forks_count": 11,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity2-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity2-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-07-12, 12:56:38",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 28,
+    "date_started": "2018-03-15",
+    "date_updated": "2021-07-12",
+    "description": "Some PoC (Proof-of-Concept) about vulnerability of java deserialization of untrusted data ",
+    "forks_count": 5,
+    "html_url": "https://github.com/EdoardoVignati/java-deserialization-of-untrusted-data-poc",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": "FreeMarker",
+    "repo_name": "java-deserialization-of-untrusted-data-poc",
+    "repo_owner": "EdoardoVignati",
+    "repotime": "2021-07-12, 10:09:27",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 0,
+    "date_started": "2020-04-14",
+    "date_updated": "2021-07-10",
+    "description": "As we all know the situation in the world is going on the pandemic crisis all over the world of covid 19 everyone is scared and everything is just shut down the offices, industries, shops, schools and colleges people are advised to stay home and stay safe from this problem the only solution is now to stay in home so this is the time to do some thing at home rather then sitting alone and doing nothing at home and getting depressed from this corona virus you can use this time to learn new things and upgrade your skills for better growth so there are online study programs which are provided by our institute and you can learn selenium with java online training by our Institute that provides software testing training courses and classes online and offline to our candidtes so candidates should know how important is testing for a project to know that everything which is done on the project is working or not and there will be no errors and if there are you need to solve them in the process als...",
+    "forks_count": 0,
+    "html_url": "https://github.com/askme01/Learn-software-testing-online-Selenium-with-java",
+    "keywords": [
+        "Windows use after free",
+        "Windows remote code execution",
+        "Chrome remote code execution"
+    ],
+    "language": null,
+    "repo_name": "Learn-software-testing-online-Selenium-with-java",
+    "repo_owner": "askme01",
+    "repotime": "2021-07-10, 02:47:42",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-07-05",
+    "date_updated": "2021-07-08",
+    "description": "Workaround for Windows Print Spooler Remote Code Execution Vulnerability(CVE-2021-34527). See: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527",
+    "forks_count": 0,
+    "html_url": "https://github.com/rdboboia/disable-RegisterSpoolerRemoteRpcEndPoint",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Windows remote code execution",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": "Batchfile",
+    "repo_name": "disable-RegisterSpoolerRemoteRpcEndPoint",
+    "repo_owner": "rdboboia",
+    "repotime": "2021-07-08, 23:11:40",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-07-06",
+    "date_updated": "2021-07-07",
+    "description": "Code Injection, Inject malicious payload via pagetables pml4.",
+    "forks_count": 60,
+    "html_url": "https://github.com/kkent030315/PageTableInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "PageTableInjection",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-07-07, 09:02:29",
+    "stargazers_count": 242,
+    "watchers_count": 242
+}
+{
+    "commits_count": 147,
+    "date_started": "2021-09-21",
+    "date_updated": "2021-07-05",
+    "description": "Pricing and Matching  Scenario. Consider the scenario in which a shop has a number of promo codes to incentivize the customers that buy an item to buy a different item. The customers can belong to different classes and the promo codes can provide different discounts.  Environment. Imagine two items (referred to as first and second items; for each item we have an infinite number of units) and four customers’ classes. The daily number of customers of each class is described by a potentially different (truncated) Gaussian probability distribution. Each class is also associated with a potentially different conversion rate returning the probability that the user will buy the first item at a given price.  Once a buyer has bought the item, she/he can decide to buy the second item that can be or not promoted. There are four different promos P0, P1, P2, P3, each corresponding to a different level of discount. P0 corresponds to no discount. Given the total number of customers, the business unit ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/FrancescaPietrobon/Pricing-and-Matching",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Pricing-and-Matching",
+    "repo_owner": "FrancescaPietrobon",
+    "repotime": "2021-07-05, 17:37:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 147,
+    "date_started": "2021-03-09",
+    "date_updated": "2021-07-05",
+    "description": "Pricing and Matching  Scenario. Consider the scenario in which a shop has a number of promo codes to incentivize the customers that buy an item to buy a different item. The customers can belong to different classes and the promo codes can provide different discounts.  Environment. Imagine two items (referred to as first and second items; for each item we have an infinite number of units) and four customers’ classes. The daily number of customers of each class is described by a potentially different (truncated) Gaussian probability distribution. Each class is also associated with a potentially different conversion rate returning the probability that the user will buy the first item at a given price.  Once a buyer has bought the item, she/he can decide to buy the second item that can be or not promoted. There are four different promos P0, P1, P2, P3, each corresponding to a different level of discount. P0 corresponds to no discount. Given the total number of customers, the business unit ...",
+    "forks_count": 1,
+    "html_url": "https://github.com/FrancescoEmanueleStradi/Pricing-and-Matching",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "Python",
+    "repo_name": "Pricing-and-Matching",
+    "repo_owner": "FrancescoEmanueleStradi",
+    "repotime": "2021-07-05, 17:37:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-07-05",
+    "date_updated": "2021-07-05",
+    "description": "    TEMPLATE = app TARGET = franko-qt macx:TARGET = &amp;quot;Franko-Qt&amp;quot; VERSION = 0.8.5.5 INCLUDEPATH += src src/json src/qt QT += core gui network greaterThan(QT_MAJOR_VERSION, 4): QT += widgets DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE CONFIG += no_include_pwd CONFIG += thread  &amp;&#35;35; for boost 1.37, add -mt to the boost libraries &amp;&#35;35; use: qmake BOOST_LIB_SUFFIX=-mt &amp;&#35;35; for boost thread win32 with _win32 sufix &amp;&#35;35; use: BOOST_THREAD_LIB_SUFFIX=_win32-... &amp;&#35;35; or when linking against a specific BerkelyDB version: BDB_LIB_SUFFIX=-4.8  &amp;&#35;35; Dependency library locations can be customized with: &amp;&#35;35;    BOOST_INCLUDE_PATH, BOOST_LIB_PATH, BDB_INCLUDE_PATH, &amp;&#35;35;    BDB_LIB_PATH, OPENSSL_INCLUDE_PATH and OPENSSL_LIB_PATH respectively  OBJECTS_DIR = build MOC_DIR = build UI_DIR = build  &amp;&#35;35; use: qmake &amp;quot;RELEASE=1&amp;quot; contains(RELEASE, 1) {     &amp;&#35;35; Mac: compile for maximum compatibility (10.5, 32-bit)     macx:QMAKE_CXXFLAGS += -mmacosx-version-min=10.5...",
+    "forks_count": 1,
+    "html_url": "https://github.com/saadbitcoin/franko",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "C++",
+    "repo_name": "franko",
+    "repo_owner": "saadbitcoin",
+    "repotime": "2021-07-05, 05:44:19",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-07-02",
+    "date_updated": "2021-07-02",
+    "description": "in this repo i'll use msfvenom for creating a payload and save it as an apk file. After generating the payload, we need to setup a listener to Metasploit framework. Once the target downloads and installs the malicious apk then, an attacker can easily get back a meterpreter session on Metasploit. An attacker needs to do some social engineering to install apk on the victim’s mobile device.",
+    "forks_count": 2,
+    "html_url": "https://github.com/QMRonline/AndroidHacking",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "AndroidHacking",
+    "repo_owner": "QMRonline",
+    "repotime": "2021-07-02, 02:18:18",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

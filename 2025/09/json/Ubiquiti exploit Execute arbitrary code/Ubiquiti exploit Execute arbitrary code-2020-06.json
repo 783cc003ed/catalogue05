@@ -1,0 +1,347 @@
+{
+    "commits_count": 5,
+    "date_started": "2020-04-20",
+    "date_updated": "2020-06-29",
+    "description": "CVE-2020-0796 Remote Code Execution POC",
+    "forks_count": 173,
+    "html_url": "https://github.com/jamf/CVE-2020-0796-RCE-POC",
+    "keywords": [
+        "rce poc",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-0796-RCE-POC",
+    "repo_owner": "jamf",
+    "repotime": "2020-06-29, 12:38:12",
+    "stargazers_count": 566,
+    "watchers_count": 566
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-06-26",
+    "date_updated": "2020-06-26",
+    "description": "This PoC explain how to exploit Wing FTP Server 6.3.8 to get Remote Code Execution",
+    "forks_count": 2,
+    "html_url": "https://github.com/V1n1v131r4/Wing-FTP-Server-6.3.8---Remote-Code-Execution",
+    "keywords": [
+        "Win remote code execution poc",
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "Win remote code execution exploit",
+        "Win remote code execution",
+        "remote code execution poc",
+        "Win remote code execution exploitation"
+    ],
+    "language": null,
+    "repo_name": "Wing-FTP-Server-6.3.8---Remote-Code-Execution",
+    "repo_owner": "V1n1v131r4",
+    "repotime": "2020-06-26, 13:54:25",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-06-25",
+    "date_updated": "2020-06-25",
+    "description": "UAC Bypass exploit for x64 Windows 10 machines, still not patched.",
+    "forks_count": 12,
+    "html_url": "https://github.com/Gork3m/Win10-UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Batchfile",
+    "repo_name": "Win10-UAC-Bypass",
+    "repo_owner": "Gork3m",
+    "repotime": "2020-06-25, 18:34:42",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 71,
+    "date_started": "2013-08-14",
+    "date_updated": "2020-06-22",
+    "description": "Screencast code, script and rainbows behind &amp;quot;Dependency Injection and the art of services and containers&amp;quot;",
+    "forks_count": 7,
+    "html_url": "https://github.com/knpuniversity/dependency-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PHP",
+    "repo_name": "dependency-injection",
+    "repo_owner": "knpuniversity",
+    "repotime": "2020-06-22, 14:28:31",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-06-19",
+    "date_updated": "2020-06-19",
+    "description": "This is an implementation of the CVE-2020-0796 aka SMBGhost vulnerability, compatible with the Metasploit Framework",
+    "forks_count": 5,
+    "html_url": "https://github.com/Almorabea/SMBGhost-LPE-Metasploit-Module",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "Ruby",
+    "repo_name": "SMBGhost-LPE-Metasploit-Module",
+    "repo_owner": "Almorabea",
+    "repotime": "2020-06-19, 23:58:35",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 10,
+    "date_started": "2020-06-16",
+    "date_updated": "2020-06-17",
+    "description": "LPE for CVE-2020-1054 targeting Windows 7 x64",
+    "forks_count": 30,
+    "html_url": "https://github.com/0xeb-bp/cve-2020-1054",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "Rust",
+    "repo_name": "cve-2020-1054",
+    "repo_owner": "0xeb-bp",
+    "repotime": "2020-06-17, 14:10:15",
+    "stargazers_count": 85,
+    "watchers_count": 85
+}
+{
+    "commits_count": 21,
+    "date_started": "2020-04-24",
+    "date_updated": "2020-06-17",
+    "description": "BitSpace blog is a simple blog where authenticated user can post their contents. Also unauthenticated user can see  posts",
+    "forks_count": 1,
+    "html_url": "https://github.com/arnabdas95/BitSpace_Blog",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "BitSpace_Blog",
+    "repo_owner": "arnabdas95",
+    "repotime": "2020-06-17, 15:54:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-06-17",
+    "date_updated": "2020-06-17",
+    "description": "Repository for the reproduction of the work in &amp;quot;Don't Trust The Locals: Investigating the Prevalence of Persistent Client-Side Cross-Site Scripting in the Wild.&amp;quot; by &amp;quot;Marius Steffens, Christian Rossow, Martin Johns, Ben Stock&amp;quot;",
+    "forks_count": 0,
+    "html_url": "https://github.com/CheckResearch/confndssSteffensRJS19_Experiment_01",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "confndssSteffensRJS19_Experiment_01",
+    "repo_owner": "CheckResearch",
+    "repotime": "2020-06-17, 14:15:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-03-07",
+    "date_updated": "2020-06-16",
+    "description": "Spring Boot Actuator (jolokia) XXE/RCE",
+    "forks_count": 57,
+    "html_url": "https://github.com/mpgn/Spring-Boot-Actuator-Exploit",
+    "keywords": [
+        "rce exploit",
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "Spring-Boot-Actuator-Exploit",
+    "repo_owner": "mpgn",
+    "repotime": "2020-06-16, 23:24:05",
+    "stargazers_count": 321,
+    "watchers_count": 321
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-06-16",
+    "date_updated": "2020-06-16",
+    "description": "This is the proof of concept for the remote code execution in .Net's MSMQ BinaryMessageFormatter",
+    "forks_count": 0,
+    "html_url": "https://github.com/modzero/MZ-20-03_PoC_MSMQ_BinaryMessageFormatter",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution poc"
+    ],
+    "language": "C#",
+    "repo_name": "MZ-20-03_PoC_MSMQ_BinaryMessageFormatter",
+    "repo_owner": "modzero",
+    "repotime": "2020-06-16, 21:47:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 235,
+    "date_started": "2020-03-05",
+    "date_updated": "2020-06-15",
+    "description": "After successful completion of the course, students are able to...  derive the free oscillation eigenvalue problem and interpret its results, i.e. model shapes and natural frequencies, as well as be familiar with the most important numerical solution methods derive reduced order models for multi degree of freedom systems by using an appropriate modal basis Conduct harmonic response analyses of full and reduced systems, incorporating different damping methods, and be familiar with the concept of transfer functions Describe the working principles of measurement equipment for experimental modal analysis, and to use such equipment in practice Extract natural frequencies and mode shapes from measurement data by using various identification techniques, as well as compare experimentally determined modes to computational results based on appropriate criteria",
+    "forks_count": 0,
+    "html_url": "https://github.com/phmandl/modalanalyse",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "modalanalyse",
+    "repo_owner": "phmandl",
+    "repotime": "2020-06-15, 19:36:21",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 61,
+    "date_started": "2016-03-07",
+    "date_updated": "2020-06-13",
+    "description": "XssPy - Web Application XSS Scanner",
+    "forks_count": 222,
+    "html_url": "https://github.com/faizann24/XssPy",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XssPy",
+    "repo_owner": "faizann24",
+    "repotime": "2020-06-13, 19:13:14",
+    "stargazers_count": 843,
+    "watchers_count": 843
+}
+{
+    "commits_count": 32,
+    "date_started": "2013-09-05",
+    "date_updated": "2020-06-07",
+    "description": "OWASP Xenotix XSS Exploit Framework is an advanced Cross Site Scripting (XSS) vulnerability detection and exploitation framework.",
+    "forks_count": 177,
+    "html_url": "https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "OWASP-Xenotix-XSS-Exploit-Framework",
+    "repo_owner": "ajinabraham",
+    "repotime": "2020-06-07, 19:53:17",
+    "stargazers_count": 534,
+    "watchers_count": 534
+}
+{
+    "commits_count": 159,
+    "date_started": "2019-03-12",
+    "date_updated": "2020-06-07",
+    "description": "Creating a secure heap allocator resistant to use after free vulnerabilities. Inspired by the Cling allocator paper",
+    "forks_count": 0,
+    "html_url": "https://github.com/mattmccreesh/sHeap",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "TeX",
+    "repo_name": "sHeap",
+    "repo_owner": "mattmccreesh",
+    "repotime": "2020-06-07, 15:25:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-06-06",
+    "date_updated": "2020-06-07",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Lexterl33t/ROP-Addr-function-in-got-plt-pwntools-test-bypass-ASLR",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "ROP-Addr-function-in-got-plt-pwntools-test-bypass-ASLR",
+    "repo_owner": "Lexterl33t",
+    "repotime": "2020-06-07, 00:17:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2016-05-01",
+    "date_updated": "2020-06-02",
+    "description": "Proof of concept open source implementation of an UAC bypass exploit, based in 2 windows failures.",
+    "forks_count": 9,
+    "html_url": "https://github.com/pedro-javierf/Twicexploit",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Twicexploit",
+    "repo_owner": "pedro-javierf",
+    "repotime": "2020-06-02, 14:20:29",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-06-01",
+    "date_updated": "2020-06-02",
+    "description": "PoC exploit for VMware Cloud Director RCE (CVE-2020-3956)",
+    "forks_count": 31,
+    "html_url": "https://github.com/aaronsvk/CVE-2020-3956",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-3956",
+    "repo_owner": "aaronsvk",
+    "repotime": "2020-06-02, 10:30:22",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}
+{
+    "commits_count": 17,
+    "date_started": "2019-06-11",
+    "date_updated": "2020-06-02",
+    "description": "Some personal exploits/pocs",
+    "forks_count": 18,
+    "html_url": "https://github.com/dhn/exploits",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce poc",
+        "Windows lpe poc",
+        "Windows lpe exploit",
+        "Windows rce poc",
+        "rce exploit",
+        "Windows rce",
+        "Windows lpe",
+        "Windows rce exploit",
+        "lpe poc",
+        "rce exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "exploits",
+    "repo_owner": "dhn",
+    "repotime": "2020-06-02, 07:51:10",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 297,
+    "date_started": "2019-05-14",
+    "date_updated": "2020-06-01",
+    "description": "Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a &amp;quot;JavaScript everywhere&amp;quot; paradigm,[7] unifying web application development around a single programming language, rather than different languages for server side and client side scripts. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/thiodene/Node.js",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Node.js",
+    "repo_owner": "thiodene",
+    "repotime": "2020-06-01, 16:14:44",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

@@ -1,0 +1,747 @@
+{
+    "commits_count": 9,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-10-31",
+    "description": "A project intended for the Coventry University Talent Showcase event where we hack into IoT (Internet of Things) e.g. the whiteboard. We managed to get full RCE without admintstrator priveladge for the kramer Go (debain) and the same for the windows version but pre-exisitng user needed with password.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ballo-02/Via-Kramer-Whiteboard-",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "Via-Kramer-Whiteboard-",
+    "repo_owner": "Ballo-02",
+    "repotime": "2022-10-31, 10:47:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-01-02",
+    "date_updated": "2022-10-29",
+    "description": "Swift code to programmatically perform dylib injection",
+    "forks_count": 9,
+    "html_url": "https://github.com/cedowens/Inject_Dylib",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "Inject_Dylib",
+    "repo_owner": "cedowens",
+    "repotime": "2022-10-29, 16:13:52",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 51,
+    "date_started": "2018-04-23",
+    "date_updated": "2022-10-29",
+    "description": "🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List",
+    "forks_count": 1848,
+    "html_url": "https://github.com/payloadbox/xss-payload-list",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "xss-payload-list",
+    "repo_owner": "payloadbox",
+    "repotime": "2022-10-29, 12:49:04",
+    "stargazers_count": 7521,
+    "watchers_count": 7521
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-29",
+    "date_updated": "2022-10-28",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Koogleblitz/UAF-Overflow-Exploits",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "C",
+    "repo_name": "UAF-Overflow-Exploits",
+    "repo_owner": "Koogleblitz",
+    "repotime": "2022-10-28, 19:30:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2018-10-25",
+    "date_updated": "2022-10-27",
+    "description": "A tool geared towards pentesting APIs using OpenAPI definitions.",
+    "forks_count": 42,
+    "html_url": "https://github.com/RhinoSecurityLabs/Swagger-EZ",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Swagger-EZ",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2022-10-27, 08:33:37",
+    "stargazers_count": 181,
+    "watchers_count": 181
+}
+{
+    "commits_count": 34,
+    "date_started": "2021-05-07",
+    "date_updated": "2022-10-27",
+    "description": "Advanced phishing tool:boom: used for session &amp;amp; credential grabbing and bypassing 2FA using man-in-the-middle attack :skull_and_crossbones: with standalone reverse proxy server.",
+    "forks_count": 26,
+    "html_url": "https://github.com/cipheras/cipherginx",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "cipherginx",
+    "repo_owner": "cipheras",
+    "repotime": "2022-10-27, 14:10:34",
+    "stargazers_count": 86,
+    "watchers_count": 86
+}
+{
+    "commits_count": 54,
+    "date_started": "2022-03-01",
+    "date_updated": "2022-10-27",
+    "description": "脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。",
+    "forks_count": 70,
+    "html_url": "https://github.com/codeyso/CodeTest",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CodeTest",
+    "repo_owner": "codeyso",
+    "repotime": "2022-10-27, 13:32:42",
+    "stargazers_count": 288,
+    "watchers_count": 288
+}
+{
+    "commits_count": 29,
+    "date_started": "2021-10-15",
+    "date_updated": "2022-10-26",
+    "description": "The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49.",
+    "forks_count": 2,
+    "html_url": "https://github.com/LudovicPatho/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "LudovicPatho",
+    "repotime": "2022-10-26, 20:01:44",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-10-08",
+    "date_updated": "2022-10-26",
+    "description": "Proof-of-concept code for various bugs",
+    "forks_count": 34,
+    "html_url": "https://github.com/AlmondOffSec/PoCs",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "C#",
+    "repo_name": "PoCs",
+    "repo_owner": "AlmondOffSec",
+    "repotime": "2022-10-26, 01:06:10",
+    "stargazers_count": 77,
+    "watchers_count": 77
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-10-26",
+    "date_updated": "2022-10-25",
+    "description": "Roblox Studio Remote Code Execution (RCE) Vulnerability",
+    "forks_count": 5,
+    "html_url": "https://github.com/strawbberrys/0x1D",
+    "keywords": [
+        "rce vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "0x1D",
+    "repo_owner": "strawbberrys",
+    "repotime": "2022-10-25, 19:19:07",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-24",
+    "date_updated": "2022-10-24",
+    "description": "Performed RCE through LFI and log poisoning against vulnerable web servers and performed privilege escalation by manipulating process UIDs of binaries with SETUID capabilities.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Meowmycks/OSCPprep-Durian",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "OSCPprep-Durian",
+    "repo_owner": "Meowmycks",
+    "repotime": "2022-10-24, 21:20:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 44,
+    "date_started": "2017-04-21",
+    "date_updated": "2022-10-24",
+    "description": "Proof-of-concept codes created as part of security research done by Google Security Team.",
+    "forks_count": 261,
+    "html_url": "https://github.com/google/security-research-pocs",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "C++",
+    "repo_name": "security-research-pocs",
+    "repo_owner": "google",
+    "repotime": "2022-10-24, 20:17:16",
+    "stargazers_count": 1798,
+    "watchers_count": 1798
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-04-11",
+    "date_updated": "2022-10-24",
+    "description": "simpel 0day ",
+    "forks_count": 1,
+    "html_url": "https://github.com/hn04/Discord-exploit",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Discord-exploit",
+    "repo_owner": "hn04",
+    "repotime": "2022-10-24, 10:57:37",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 1075,
+    "date_started": "2017-12-31",
+    "date_updated": "2022-10-24",
+    "description": "Vulnerability Patterns Detector for C&amp;&#35;35; and VB.NET",
+    "forks_count": 147,
+    "html_url": "https://github.com/security-code-scan/security-code-scan",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "C#",
+    "repo_name": "security-code-scan",
+    "repo_owner": "security-code-scan",
+    "repotime": "2022-10-24, 14:33:17",
+    "stargazers_count": 798,
+    "watchers_count": 798
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-10-24",
+    "date_updated": "2022-10-24",
+    "description": "DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field",
+    "forks_count": 0,
+    "html_url": "https://github.com/uisvit/CVE-2022-32548-RCE-MASS",
+    "keywords": [
+        "unauthenticated rce",
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-32548-RCE-MASS",
+    "repo_owner": "uisvit",
+    "repotime": "2022-10-24, 11:23:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-06-30",
+    "date_updated": "2022-10-23",
+    "description": "Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520",
+    "forks_count": 3,
+    "html_url": "https://github.com/patois/winmagic_sd",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "Win 0day exploitation",
+        "Win 0day poc",
+        "0day poc",
+        "Win 0day",
+        "Win 0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "winmagic_sd",
+    "repo_owner": "patois",
+    "repotime": "2022-10-23, 11:28:38",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 31,
+    "date_started": "2019-05-30",
+    "date_updated": "2022-10-22",
+    "description": "Formerly private repository for discussion, knowledge- and code-sharing around new Unifying vulns, as announced on Twitter",
+    "forks_count": 27,
+    "html_url": "https://github.com/mame82/UnifyingVulnsDisclosureRepo",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Go",
+    "repo_name": "UnifyingVulnsDisclosureRepo",
+    "repo_owner": "mame82",
+    "repotime": "2022-10-22, 23:23:06",
+    "stargazers_count": 138,
+    "watchers_count": 138
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-05-16",
+    "date_updated": "2022-10-21",
+    "description": "Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862-Add-Travis-CI-migration-table  1862-Add-Travis-CI-migration-table (&amp;&#35;35;1869, Iixixi/ZachryTylerWood&amp;&#35;35;102, THEBOLCK79/docs&amp;&#35;35;1, sbnbhk/docs&amp;&#35;35;1) @martin389 martin389 committed on Dec 9, 2020 2 parents 2f9ec0c + 1588f50 commit 1a56ed136914e522f3a23ecc2be1c49f479a1a6a Showing 501 changed files with 5,397 additions and 1,362 deletions.   2  .github/allowed-actions.js  @@ -30,7 +30,7 @@ module.exports = [   'rachmari/labeler@832d42ec5523f3c6d46e8168de71cd54363e3e2e',   'repo-sync/github-sync@3832fe8e2be32372e1b3970bbae8e7079edeec88',   'repo-sync/pull-request@33777245b1aace1a58c87a29c90321aa7a74bd7d',   'rtCamp/action-slack-notify@e17352feaf9aee300bf0ebc1dfbf467d80438815',   'someimportantcompany/github-actions-slack-message@0b470c14b39da4260ed9e3f9a4f1298a74ccdefd',   'tjenkinson/gh-action-auto-merge-dependency-updates@cee2ac0',   'EndBug/add-...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sfedfcv/redesigned-pancake",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Windows remote code execution",
+        "Windows use after free",
+        "Microsoft use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "redesigned-pancake",
+    "repo_owner": "Sfedfcv",
+    "repotime": "2022-10-21, 21:13:35",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-10-14",
+    "date_updated": "2022-10-20",
+    "description": "CVE-2022-41852 Proof of Concept (unofficial)",
+    "forks_count": 16,
+    "html_url": "https://github.com/Warxim/CVE-2022-41852",
+    "keywords": [
+        "rce proof of concept",
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2022-41852",
+    "repo_owner": "Warxim",
+    "repotime": "2022-10-20, 10:01:38",
+    "stargazers_count": 75,
+    "watchers_count": 75
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-10-09",
+    "date_updated": "2022-10-19",
+    "description": "Remote File Inclusion To Remote Code Execution (PoC)",
+    "forks_count": 0,
+    "html_url": "https://github.com/0bfxgh0st/rfi2rce",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "rfi2rce",
+    "repo_owner": "0bfxgh0st",
+    "repotime": "2022-10-19, 13:19:00",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-10-19",
+    "date_updated": "2022-10-19",
+    "description": "An Evil OIDC Server",
+    "forks_count": 5,
+    "html_url": "https://github.com/doyensec/oidc-ssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "oidc-ssrf",
+    "repo_owner": "doyensec",
+    "repotime": "2022-10-19, 17:25:50",
+    "stargazers_count": 53,
+    "watchers_count": 53
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-10-18",
+    "date_updated": "2022-10-18",
+    "description": "This is Spring MVC-Sequrity-[hard Coded username and password] project that implements (CRSF+Restrict Access Based on Role)",
+    "forks_count": 0,
+    "html_url": "https://github.com/ahmdalgebali/Spring-Security-Hibernate-JSP-JDBC-Tomcat-DemoApp",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Java",
+    "repo_name": "Spring-Security-Hibernate-JSP-JDBC-Tomcat-DemoApp",
+    "repo_owner": "ahmdalgebali",
+    "repotime": "2022-10-18, 17:43:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2015-07-12",
+    "date_updated": "2022-10-17",
+    "description": "This will assist you in the finding of potentially vulnerable PHP code. Each type of grep command is categorized in the type of vulnerabilities you generally find with that function.",
+    "forks_count": 62,
+    "html_url": "https://github.com/dustyfresh/PHP-vulnerability-audit-cheatsheet",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": null,
+    "repo_name": "PHP-vulnerability-audit-cheatsheet",
+    "repo_owner": "dustyfresh",
+    "repotime": "2022-10-17, 14:03:22",
+    "stargazers_count": 327,
+    "watchers_count": 327
+}
+{
+    "commits_count": 5,
+    "date_started": "2017-07-21",
+    "date_updated": "2022-10-16",
+    "description": "exploit for ImageMagick's uninitialized memory disclosure in gif coder",
+    "forks_count": 64,
+    "html_url": "https://github.com/neex/gifoeb",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "gifoeb",
+    "repo_owner": "neex",
+    "repotime": "2022-10-16, 23:14:26",
+    "stargazers_count": 265,
+    "watchers_count": 265
+}
+{
+    "commits_count": 71,
+    "date_started": "2018-01-05",
+    "date_updated": "2022-10-16",
+    "description": "Proof of concept code for the Spectre CPU exploit.",
+    "forks_count": 85,
+    "html_url": "https://github.com/crozone/SpectrePoC",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "C",
+    "repo_name": "SpectrePoC",
+    "repo_owner": "crozone",
+    "repotime": "2022-10-16, 21:41:20",
+    "stargazers_count": 269,
+    "watchers_count": 269
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-10-12",
+    "date_updated": "2022-10-15",
+    "description": "RCE Exploit and Research ",
+    "forks_count": 1,
+    "html_url": "https://github.com/RashidKhanPathan/CVE-2022-40471",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-40471",
+    "repo_owner": "RashidKhanPathan",
+    "repotime": "2022-10-15, 12:12:44",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-10-14",
+    "date_updated": "2022-10-14",
+    "description": "Simple shopping app built with react. Practice to build re-usable wrapper component with logic to redirect different url requests from unauthenticated users to login route, and authenticated users to the requested routes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/CLL-NxtWave-Submissions/nxt-trendz-protected-route",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "nxt-trendz-protected-route",
+    "repo_owner": "CLL-NxtWave-Submissions",
+    "repotime": "2022-10-14, 06:11:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-12-30",
+    "date_updated": "2022-10-13",
+    "description": "Jan 3, 2022 - lecture on code coverage, unit tests, and dependency injection",
+    "forks_count": 87,
+    "html_url": "https://github.com/oregon-state-innovation-lab/cs561-swift",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "cs561-swift",
+    "repo_owner": "oregon-state-innovation-lab",
+    "repotime": "2022-10-13, 17:03:28",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-10-13",
+    "date_updated": "2022-10-13",
+    "description": "Unrestricted File Upload by Weak Encryption affected versions (CVE-2017-11317) 2. Remote Code Execution by Insecure Deserialization - (CVE-2019-18935)",
+    "forks_count": 0,
+    "html_url": "https://github.com/KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Telerik-UI-ASP.NET-AJAX-Exploitation",
+    "repo_owner": "KasunPriyashan",
+    "repotime": "2022-10-13, 19:52:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-10-13",
+    "date_updated": "2022-10-13",
+    "description": "Arbitrary code execution analysis based on Telerik-UI. This will be done so that the article can be read by others. The document provides an in-depth explanation of the various vectors involved with Telerik-UI for ASP.NET AJAX, as well as POST requests, the architecture of ASP.NET AJAX,",
+    "forks_count": 0,
+    "html_url": "https://github.com/KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut",
+    "keywords": [
+        "remote code execution analysis",
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut",
+    "repo_owner": "KasunPriyashan",
+    "repotime": "2022-10-13, 14:19:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-10-08",
+    "date_updated": "2022-10-12",
+    "description": "Open Web Analytics (OWA) - Unauthenticated Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/hupe1980/CVE-2022-24637",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-24637",
+    "repo_owner": "hupe1980",
+    "repotime": "2022-10-12, 19:14:49",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-10-12",
+    "date_updated": "2022-10-12",
+    "description": "UAF exploit code",
+    "forks_count": 0,
+    "html_url": "https://github.com/KASTboi/UAF",
+    "keywords": [
+        "uaf exploit",
+        "uaf exploitation"
+    ],
+    "language": "C",
+    "repo_name": "UAF",
+    "repo_owner": "KASTboi",
+    "repotime": "2022-10-12, 17:31:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2019-08-22",
+    "date_updated": "2022-10-11",
+    "description": "PNG IDAT chunks XSS payload generator",
+    "forks_count": 32,
+    "html_url": "https://github.com/vavkamil/xss2png",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xss2png",
+    "repo_owner": "vavkamil",
+    "repotime": "2022-10-11, 19:26:14",
+    "stargazers_count": 195,
+    "watchers_count": 195
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-09-26",
+    "date_updated": "2022-10-10",
+    "description": "Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG",
+    "forks_count": 1,
+    "html_url": "https://github.com/Eltehem/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022",
+    "keywords": [
+        "rce disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022",
+    "repo_owner": "Eltehem",
+    "repotime": "2022-10-10, 14:05:59",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-06",
+    "date_updated": "2022-10-09",
+    "description": "Cobalt Strike Beacon Object File for bypassing UAC via the CMSTPLUA COM interface.",
+    "forks_count": 28,
+    "html_url": "https://github.com/tijme/cmstplua-uac-bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "cmstplua-uac-bypass",
+    "repo_owner": "tijme",
+    "repotime": "2022-10-09, 17:14:03",
+    "stargazers_count": 199,
+    "watchers_count": 199
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-09",
+    "date_updated": "2022-10-09",
+    "description": "为使用codeql寻找cobalt strike xss to rce 利用链准备的jdk database",
+    "forks_count": 0,
+    "html_url": "https://github.com/j3ttt/jdkAnalysisForCodeQL",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Shell",
+    "repo_name": "jdkAnalysisForCodeQL",
+    "repo_owner": "j3ttt",
+    "repotime": "2022-10-09, 19:08:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 74,
+    "date_started": "2017-10-13",
+    "date_updated": "2022-10-07",
+    "description": "Containing Self Made Perl Reproducers / PoC Codes",
+    "forks_count": 109,
+    "html_url": "https://github.com/gottburgm/Exploits",
+    "keywords": [
+        "exploit"
+    ],
+    "language": "Perl",
+    "repo_name": "Exploits",
+    "repo_owner": "gottburgm",
+    "repotime": "2022-10-07, 13:01:00",
+    "stargazers_count": 172,
+    "watchers_count": 172
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-10-03",
+    "date_updated": "2022-10-04",
+    "description": "Local File Inclusion hunting tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/winteri3coming/Luffy",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Luffy",
+    "repo_owner": "winteri3coming",
+    "repotime": "2022-10-04, 22:26:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-11-02",
+    "date_updated": "2022-10-03",
+    "description": "Path Traversal Attack",
+    "forks_count": 1,
+    "html_url": "https://github.com/HowProgrammingWorks/PathTraversal",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "JavaScript",
+    "repo_name": "PathTraversal",
+    "repo_owner": "HowProgrammingWorks",
+    "repotime": "2022-10-03, 23:07:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-09-29",
+    "date_updated": "2022-10-02",
+    "description": "Golang Proof of Concept Exploit for CVE-2021-44077: PreAuth RCE in ManageEngine ServiceDesk Plus &amp;lt; 11306",
+    "forks_count": 0,
+    "html_url": "https://github.com/pizza-power/Golang-CVE-2021-44077-POC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Go",
+    "repo_name": "Golang-CVE-2021-44077-POC",
+    "repo_owner": "pizza-power",
+    "repotime": "2022-10-02, 15:35:59",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 39,
+    "date_started": "2022-09-25",
+    "date_updated": "2022-10-01",
+    "description": "Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. This repo. contains documentation of the Exploits during my practice session. For further information, check README file.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MahirLabibUtso/DVWA-Practice",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "DVWA-Practice",
+    "repo_owner": "MahirLabibUtso",
+    "repotime": "2022-10-01, 22:57:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-10-01",
+    "date_updated": "2022-10-01",
+    "description": "Proof of concept by ClumsyLulz",
+    "forks_count": 0,
+    "html_url": "https://github.com/SleepTheGod/Drupal-RCE-Code",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Drupal-RCE-Code",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2022-10-01, 10:26:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 34,
+    "date_started": "2020-02-03",
+    "date_updated": "2022-10-01",
+    "description": "Automating the SQL Injection through Google dorks.",
+    "forks_count": 11,
+    "html_url": "https://github.com/j1t3sh/SQL-Injection-Finder",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "SQL-Injection-Finder",
+    "repo_owner": "j1t3sh",
+    "repotime": "2022-10-01, 01:53:02",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}

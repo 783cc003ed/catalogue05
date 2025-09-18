@@ -1,0 +1,85 @@
+{
+    "commits_count": 27,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-01-31",
+    "description": "This repository contains a kernel exploit for PlayStation 4 firmware 6.72. The exploit leverages a vulnerability in the system kernel to achieve privilege escalation, allowing execution of unsigned code and jailbreak functionalities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yonicodedemon/YG2",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "YG2",
+    "repo_owner": "Yonicodedemon",
+    "repotime": "2025-01-31, 17:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-01-31",
+    "description": "Integer overflow in assembly instruction leading to potential memory corruption or crash.  The mov instruction with an address calculation is vulnerable if the ecx register value is unexpectedly large.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Integer-Overflow-in-Assembly-mov-Instruction-5aq3i",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "Assembly",
+    "repo_name": "Integer-Overflow-in-Assembly-mov-Instruction-5aq3i",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-31, 12:46:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 32,
+    "date_started": "2020-03-16",
+    "date_updated": "2025-01-28",
+    "description": "Exfiltrate blind Remote Code Execution and SQL injection output over DNS via Burp Collaborator.",
+    "forks_count": 58,
+    "html_url": "https://github.com/0xC01DF00D/Collabfiltrator",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "Collabfiltrator",
+    "repo_owner": "0xC01DF00D",
+    "repotime": "2025-01-28, 03:11:15",
+    "stargazers_count": 271,
+    "watchers_count": 271
+}
+{
+    "commits_count": 223,
+    "date_started": "2023-01-25",
+    "date_updated": "2025-01-22",
+    "description": "<no description>",
+    "forks_count": 138,
+    "html_url": "https://github.com/trufflesecurity/xsshunter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "SCSS",
+    "repo_name": "xsshunter",
+    "repo_owner": "trufflesecurity",
+    "repotime": "2025-01-22, 15:35:19",
+    "stargazers_count": 501,
+    "watchers_count": 501
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-01-05",
+    "date_updated": "2025-01-05",
+    "description": "Ada exception handling and input validation. The provided code lacks proper input validation, potentially leading to exceptions if the user enters non-numeric input.  The exception handler is too broad, masking the root cause of potential errors.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Ada-Input-Validation-and-Exception-Handling-Bug-48kg9",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Ada",
+    "repo_name": "Ada-Input-Validation-and-Exception-Handling-Bug-48kg9",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-01-05, 02:08:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -191,3 +191,389 @@
     "stargazers_count": 5,
     "watchers_count": 5
 }
+{
+    "commits_count": 2,
+    "date_started": "2022-01-30",
+    "date_updated": "2022-01-30",
+    "description": "There are three new vulnerability added in 2021, which are Insecure Design, Software and Data Integrity Failures and Server Side Request Forgery [SSRF].",
+    "forks_count": 0,
+    "html_url": "https://github.com/hasibb/OWASP-Top10-",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "OWASP-Top10-",
+    "repo_owner": "hasibb",
+    "repotime": "2022-01-30, 08:50:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-26",
+    "date_updated": "2022-01-26",
+    "description": "This project illustrates a developer centric model Loky for Static Code Analysis to improve Security of Web Applications empowered by early vulnerability detection and taint analysis. Its core is a configurable rule engine comprising of popular attacks - SQL injections, Cross Site Scripting, Server Side Request Forgery, Linting errors, Hard-coded Credentials",
+    "forks_count": 0,
+    "html_url": "https://github.com/prachipundir97/Loky-Static-Code-Analyzer",
+    "keywords": [
+        "server side request forgery",
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "Loky-Static-Code-Analyzer",
+    "repo_owner": "prachipundir97",
+    "repotime": "2022-01-26, 14:52:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-01-23",
+    "date_updated": "2022-01-25",
+    "description": "Strapi CMS 3.0.0-beta.17.4 - Unauthenticated Remote Code Execution (CVE-2019-18818, CVE-2019-19609)",
+    "forks_count": 0,
+    "html_url": "https://github.com/glowbase/CVE-2019-19609",
+    "keywords": [
+        "unauthenticated rce",
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-19609",
+    "repo_owner": "glowbase",
+    "repotime": "2022-01-25, 11:41:37",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-05-02",
+    "date_updated": "2022-01-18",
+    "description": "Wiki.js Customization Injection Code",
+    "forks_count": 20,
+    "html_url": "https://github.com/madodig/wikijs-customization",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "wikijs-customization",
+    "repo_owner": "madodig",
+    "repotime": "2022-01-18, 19:49:54",
+    "stargazers_count": 113,
+    "watchers_count": 113
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-12-10",
+    "date_updated": "2022-01-18",
+    "description": "Remote Code Injection In Log4j",
+    "forks_count": 119,
+    "html_url": "https://github.com/jas502n/Log4j2-CVE-2021-44228",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "Log4j2-CVE-2021-44228",
+    "repo_owner": "jas502n",
+    "repotime": "2022-01-18, 20:01:52",
+    "stargazers_count": 469,
+    "watchers_count": 469
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-01-10",
+    "date_updated": "2022-01-16",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 0,
+    "html_url": "https://github.com/CharlesMensah5/Final-Engagement",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Final-Engagement",
+    "repo_owner": "CharlesMensah5",
+    "repotime": "2022-01-16, 20:48:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-14",
+    "date_updated": "2022-01-15",
+    "description": "CVE-2021-46079 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to Html Injection.",
+    "forks_count": 0,
+    "html_url": "https://github.com/plsanu/CVE-2021-46079",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-46079",
+    "repo_owner": "plsanu",
+    "repotime": "2022-01-15, 02:57:13",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-12-28",
+    "date_updated": "2022-01-15",
+    "description": "CVE-2021-46079 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to Html Injection.",
+    "forks_count": 0,
+    "html_url": "https://github.com/plsanu/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Html-Injection",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Html-Injection",
+    "repo_owner": "plsanu",
+    "repotime": "2022-01-15, 02:49:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-11-06",
+    "date_updated": "2022-01-14",
+    "description": "PoC for iOS, macOS, iPadOS (DoS)",
+    "forks_count": 0,
+    "html_url": "https://github.com/darling-x0r/0day_dos_apple",
+    "keywords": [
+        "0day dos",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day_dos_apple",
+    "repo_owner": "darling-x0r",
+    "repotime": "2022-01-14, 16:39:36",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-12",
+    "date_updated": "2022-01-13",
+    "description": "Unauthenticated Sqlinjection that leads to dump data base but this one impersonated Admin and drops a interactive shell",
+    "forks_count": 10,
+    "html_url": "https://github.com/shyam0904a/Pandora_v7.0NG.742_exploit_unauthenticated",
+    "keywords": [
+        "unauthenticated rce",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Pandora_v7.0NG.742_exploit_unauthenticated",
+    "repo_owner": "shyam0904a",
+    "repotime": "2022-01-13, 13:24:05",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 60,
+    "date_started": "2021-12-13",
+    "date_updated": "2022-01-10",
+    "description": "Log4j Zero-Day Exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/rajasoun/log4j-zero-day-exploit",
+    "keywords": [
+        "zero-day poc",
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "log4j-zero-day-exploit",
+    "repo_owner": "rajasoun",
+    "repotime": "2022-01-10, 19:57:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-30",
+    "date_updated": "2022-01-30",
+    "description": "There are three new vulnerability added in 2021, which are Insecure Design, Software and Data Integrity Failures and Server Side Request Forgery [SSRF].",
+    "forks_count": 0,
+    "html_url": "https://github.com/hasibb/OWASP-Top10-",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "OWASP-Top10-",
+    "repo_owner": "hasibb",
+    "repotime": "2022-01-30, 08:50:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-26",
+    "date_updated": "2022-01-26",
+    "description": "This project illustrates a developer centric model Loky for Static Code Analysis to improve Security of Web Applications empowered by early vulnerability detection and taint analysis. Its core is a configurable rule engine comprising of popular attacks - SQL injections, Cross Site Scripting, Server Side Request Forgery, Linting errors, Hard-coded Credentials",
+    "forks_count": 0,
+    "html_url": "https://github.com/prachipundir97/Loky-Static-Code-Analyzer",
+    "keywords": [
+        "server side request forgery",
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "Loky-Static-Code-Analyzer",
+    "repo_owner": "prachipundir97",
+    "repotime": "2022-01-26, 14:52:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-01-23",
+    "date_updated": "2022-01-25",
+    "description": "Strapi CMS 3.0.0-beta.17.4 - Unauthenticated Remote Code Execution (CVE-2019-18818, CVE-2019-19609)",
+    "forks_count": 0,
+    "html_url": "https://github.com/glowbase/CVE-2019-19609",
+    "keywords": [
+        "unauthenticated rce",
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-19609",
+    "repo_owner": "glowbase",
+    "repotime": "2022-01-25, 11:41:37",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-05-02",
+    "date_updated": "2022-01-18",
+    "description": "Wiki.js Customization Injection Code",
+    "forks_count": 20,
+    "html_url": "https://github.com/madodig/wikijs-customization",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "wikijs-customization",
+    "repo_owner": "madodig",
+    "repotime": "2022-01-18, 19:49:54",
+    "stargazers_count": 114,
+    "watchers_count": 114
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-12-10",
+    "date_updated": "2022-01-18",
+    "description": "Remote Code Injection In Log4j",
+    "forks_count": 119,
+    "html_url": "https://github.com/jas502n/Log4j2-CVE-2021-44228",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "Log4j2-CVE-2021-44228",
+    "repo_owner": "jas502n",
+    "repotime": "2022-01-18, 20:01:52",
+    "stargazers_count": 470,
+    "watchers_count": 470
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-01-10",
+    "date_updated": "2022-01-16",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 0,
+    "html_url": "https://github.com/CharlesMensah5/Final-Engagement",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Final-Engagement",
+    "repo_owner": "CharlesMensah5",
+    "repotime": "2022-01-16, 20:48:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-14",
+    "date_updated": "2022-01-15",
+    "description": "CVE-2021-46079 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to Html Injection.",
+    "forks_count": 0,
+    "html_url": "https://github.com/plsanu/CVE-2021-46079",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-46079",
+    "repo_owner": "plsanu",
+    "repotime": "2022-01-15, 02:57:13",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-12-28",
+    "date_updated": "2022-01-15",
+    "description": "CVE-2021-46079 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to Html Injection.",
+    "forks_count": 0,
+    "html_url": "https://github.com/plsanu/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Html-Injection",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Html-Injection",
+    "repo_owner": "plsanu",
+    "repotime": "2022-01-15, 02:49:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-11-06",
+    "date_updated": "2022-01-14",
+    "description": "PoC for iOS, macOS, iPadOS (DoS)",
+    "forks_count": 0,
+    "html_url": "https://github.com/darling-x0r/0day_dos_apple",
+    "keywords": [
+        "0day dos",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day_dos_apple",
+    "repo_owner": "darling-x0r",
+    "repotime": "2022-01-14, 16:39:36",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-12",
+    "date_updated": "2022-01-13",
+    "description": "Unauthenticated Sqlinjection that leads to dump data base but this one impersonated Admin and drops a interactive shell",
+    "forks_count": 10,
+    "html_url": "https://github.com/shyam0904a/Pandora_v7.0NG.742_exploit_unauthenticated",
+    "keywords": [
+        "unauthenticated rce",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Pandora_v7.0NG.742_exploit_unauthenticated",
+    "repo_owner": "shyam0904a",
+    "repotime": "2022-01-13, 13:24:05",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 60,
+    "date_started": "2021-12-13",
+    "date_updated": "2022-01-10",
+    "description": "Log4j Zero-Day Exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/rajasoun/log4j-zero-day-exploit",
+    "keywords": [
+        "zero-day poc",
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "log4j-zero-day-exploit",
+    "repo_owner": "rajasoun",
+    "repotime": "2022-01-10, 19:57:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

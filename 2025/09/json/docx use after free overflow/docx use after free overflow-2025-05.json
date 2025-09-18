@@ -1,0 +1,289 @@
+{
+    "commits_count": 3,
+    "date_started": "2025-04-28",
+    "date_updated": "2025-05-30",
+    "description": "Server-side request forgery is a web security vulnerability that allows an attacker to cause the server-side application to make requests to an unintended location.",
+    "forks_count": 0,
+    "html_url": "https://github.com/PresiyanaBB/Server-Side-Request-Forgery",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "HTML",
+    "repo_name": "Server-Side-Request-Forgery",
+    "repo_owner": "PresiyanaBB",
+    "repotime": "2025-05-30, 15:56:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 68,
+    "date_started": "2025-04-14",
+    "date_updated": "2025-05-28",
+    "description": "A collection of labs, tools, and study materials for OSCP exam preparation. Includes practice environments, scripts, and resources for enumeration, exploitation, and privilege escalation to help master penetration testing skills.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xD13/OSCP-Prep-Guide",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "OSCP-Prep-Guide",
+    "repo_owner": "0xD13",
+    "repotime": "2025-05-28, 09:20:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-26",
+    "date_updated": "2025-05-26",
+    "description": "Reverse engineered a C-based authentication program and used GDB, cyclic patterns, and return address control to bypass login and execute shellcode. Analysed stack canaries and ASLR protections.",
+    "forks_count": 0,
+    "html_url": "https://github.com/saminyasirkhan/Buffer-Overflow",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": null,
+    "repo_name": "Buffer-Overflow",
+    "repo_owner": "saminyasirkhan",
+    "repotime": "2025-05-26, 23:18:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-02-24",
+    "date_updated": "2025-05-25",
+    "description": "PPT教程",
+    "forks_count": 53,
+    "html_url": "https://github.com/k8gege/PPT",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "PPT",
+    "repo_owner": "k8gege",
+    "repotime": "2025-05-25, 06:38:22",
+    "stargazers_count": 58,
+    "watchers_count": 58
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-05-22",
+    "date_updated": "2025-05-22",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jester1010101/ZeroDaysExploit",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "CSS",
+    "repo_name": "ZeroDaysExploit",
+    "repo_owner": "Jester1010101",
+    "repotime": "2025-05-22, 11:19:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-05-20",
+    "date_updated": "2025-05-21",
+    "description": "Memory leak Exploitation using GNU debugger",
+    "forks_count": 0,
+    "html_url": "https://github.com/KDShetty11/Buffer-overflow-assessments-with-GDB",
+    "keywords": [
+        "memory leak exploit"
+    ],
+    "language": null,
+    "repo_name": "Buffer-overflow-assessments-with-GDB",
+    "repo_owner": "KDShetty11",
+    "repotime": "2025-05-21, 18:36:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-18",
+    "date_updated": "2025-05-20",
+    "description": "XSS vulnerability can be employed to steal session cookies and user credentials by injecting malicious JavaScript into a web application. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Manisha-03/XSS_Vulnerability",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "XSS_Vulnerability",
+    "repo_owner": "Manisha-03",
+    "repotime": "2025-05-20, 00:52:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-22",
+    "date_updated": "2025-05-19",
+    "description": "Public disclosure of CVE-2025-31200 – Zero-click RCE in iOS 18.X via AudioConverterService and malicious audio file.",
+    "forks_count": 8,
+    "html_url": "https://github.com/serundengsapi/CVE-2025-31200-iOS-AudioConverter-RCE",
+    "keywords": [
+        "rce disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-31200-iOS-AudioConverter-RCE",
+    "repo_owner": "serundengsapi",
+    "repotime": "2025-05-19, 11:30:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 28,
+    "date_started": "2025-04-04",
+    "date_updated": "2025-05-17",
+    "description": "Just a simple userscript to bypass the soft paywall on gocomics.com, and removes the adspaces as well.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Idiot-01/Gocomics-Depaywall",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Gocomics-Depaywall",
+    "repo_owner": "Idiot-01",
+    "repotime": "2025-05-17, 21:25:50",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-05-14",
+    "date_updated": "2025-05-15",
+    "description": "CVE-2025-32756 — Fortinet FortiVoice Unauthenticated RCE (PoC)",
+    "forks_count": 1,
+    "html_url": "https://github.com/m4s1um/CVE-2025-32756-RCE-PoC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-32756-RCE-PoC",
+    "repo_owner": "m4s1um",
+    "repotime": "2025-05-15, 02:51:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-14",
+    "date_updated": "2025-05-14",
+    "description": "This repository focuses on network security analysis, using Wireshark to capture and analyze traffic for detecting MITM attacks, ARP Spoofing, and HTTP anomalies. It uses Python’s PyShark library to automate packet analysis, helping detect malicious activities and improve network security by uncovering vulnerabilities and monitoring performance.z",
+    "forks_count": 0,
+    "html_url": "https://github.com/NurayShiraliyeva24/Wireshark-Analysis",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Wireshark-Analysis",
+    "repo_owner": "NurayShiraliyeva24",
+    "repotime": "2025-05-14, 09:45:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-12",
+    "date_updated": "2025-05-12",
+    "description": "Responding to Zero-Day Vulnerability &amp;amp; Ransomware Attack",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jamescybertest/Responding-to-Zero-Day-Vulnerability-and-Ransomware-Attack",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Responding-to-Zero-Day-Vulnerability-and-Ransomware-Attack",
+    "repo_owner": "Jamescybertest",
+    "repotime": "2025-05-12, 13:54:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 88,
+    "date_started": "2025-01-27",
+    "date_updated": "2025-05-09",
+    "description": "All in one AI and Rust based CyberSecurity tool to protect Windows and Linux OS systems from Zero Day threats ",
+    "forks_count": 0,
+    "html_url": "https://github.com/mayd01/DillonAIPolyGlotDefender",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": "Rust",
+    "repo_name": "DillonAIPolyGlotDefender",
+    "repo_owner": "mayd01",
+    "repotime": "2025-05-09, 13:17:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 133,
+    "date_started": "2023-10-29",
+    "date_updated": "2025-05-07",
+    "description": "Webpage for Bueler's graduate course in functional analysis (MATH 617) at UAF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bueler/fa",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "fa",
+    "repo_owner": "bueler",
+    "repotime": "2025-05-07, 16:56:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-05-07",
+    "date_updated": "2025-05-06",
+    "description": "Used SEED Labs to bypass ASLR and craft exploits targeting vulnerable binaries in a sandboxed lab.",
+    "forks_count": 0,
+    "html_url": "https://github.com/eamanor8/buffer-overflow",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": "C",
+    "repo_name": "buffer-overflow",
+    "repo_owner": "eamanor8",
+    "repotime": "2025-05-06, 22:42:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-05-01",
+    "date_updated": "2025-05-03",
+    "description": "A lightweight Linux memory analysis tool to inspect heap, stack, buffers, detect memory leaks, and assist in fuzzing C/C++ applications.",
+    "forks_count": 0,
+    "html_url": "https://github.com/nikhilkumar0102/linux-memory-analyzer",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Python",
+    "repo_name": "linux-memory-analyzer",
+    "repo_owner": "nikhilkumar0102",
+    "repotime": "2025-05-03, 12:06:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-02",
+    "date_updated": "2025-05-02",
+    "description": "This isn't mine, credit to whoever made this. NotMyFault is a free tool to crash, hang, and cause kernel memory leaks to learn how to diagnose different device and hardware problems on Windows systems.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Neruvy/NotMyFault",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": null,
+    "repo_name": "NotMyFault",
+    "repo_owner": "Neruvy",
+    "repotime": "2025-05-02, 16:49:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

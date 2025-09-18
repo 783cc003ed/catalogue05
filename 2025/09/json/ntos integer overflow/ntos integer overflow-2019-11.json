@@ -1,0 +1,94 @@
+{
+    "commits_count": 9,
+    "date_started": "2019-09-04",
+    "date_updated": "2019-11-27",
+    "description": "Simple javascript renderer based on Chromium and Go with an HTTP API. A bit slower and API limited but no memory leaks as in Python splash project.",
+    "forks_count": 0,
+    "html_url": "https://github.com/melehin/gosplash",
+    "keywords": [
+        "Chromium memory leak"
+    ],
+    "language": "Go",
+    "repo_name": "gosplash",
+    "repo_owner": "melehin",
+    "repotime": "2019-11-27, 18:30:18",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 183,
+    "date_started": "2019-08-04",
+    "date_updated": "2019-11-17",
+    "description": "Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.",
+    "forks_count": 107,
+    "html_url": "https://github.com/RhinoSecurityLabs/ccat",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "ccat",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2019-11-17, 11:16:23",
+    "stargazers_count": 641,
+    "watchers_count": 641
+}
+{
+    "commits_count": 40,
+    "date_started": "2019-10-30",
+    "date_updated": "2019-11-12",
+    "description": "Introduction to R  R is a programming language, which is an object oriented language created by Statisticians, R provides objects, operators and functions that allow the user to explore, model and visualize data.  R is a Programming language Developed at AT&amp;amp;T Bell Lab.  It is an open source free language, allowing anyone to use and modify it. R is licensed under the GNU General Public License, with copyright held by The R Foundation For Statistical Computing. It has no need to pay any subscription charges  R has a huge active community member. If you have any question about any function any library you can Google it and you would get a proper answer and right the way.  As it is an open source language, you, me and lots of Data Scientist, they actually built in all those, inbuilt function and they upload it in a website called CRAN and then you can download all those packages. Over 7800 packages listed on CRAN, here we listed some of the most powerful and commonly used in R packages...",
+    "forks_count": 2,
+    "html_url": "https://github.com/akaidkhan/Data_Science_with_R",
+    "keywords": [
+        "Microsoft use after free poc",
+        "Windows use after free",
+        "use after free analysis",
+        "Windows use after free analysis",
+        "use after free poc",
+        "Windows use after free poc",
+        "Microsoft use after free analysis",
+        "Microsoft use after free"
+    ],
+    "language": "R",
+    "repo_name": "Data_Science_with_R",
+    "repo_owner": "akaidkhan",
+    "repotime": "2019-11-12, 09:58:04",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-11-10",
+    "date_updated": "2019-11-10",
+    "description": "The official exploit for rConfig 3.9.2 Post-auth Remote Code Execution CVE-2019-16663",
+    "forks_count": 5,
+    "html_url": "https://github.com/mhaskar/CVE-2019-16663",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-16663",
+    "repo_owner": "mhaskar",
+    "repotime": "2019-11-10, 20:28:40",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-11-10",
+    "date_updated": "2019-11-10",
+    "description": "The official exploit for rConfig 3.9.2 Pre-auth Remote Code Execution CVE-2019-16662",
+    "forks_count": 5,
+    "html_url": "https://github.com/mhaskar/CVE-2019-16662",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-16662",
+    "repo_owner": "mhaskar",
+    "repotime": "2019-11-10, 20:27:02",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}

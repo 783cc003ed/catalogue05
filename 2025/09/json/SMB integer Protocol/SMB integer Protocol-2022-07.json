@@ -1,0 +1,95 @@
+{
+    "commits_count": 130,
+    "date_started": "2021-05-24",
+    "date_updated": "2022-07-21",
+    "description": "A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I've written to be used in conjunction with these exploits.",
+    "forks_count": 14,
+    "html_url": "https://github.com/forrest-orr/Exploits",
+    "keywords": [
+        "uaf poc",
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "Windows uaf exploit",
+        "Windows uaf poc"
+    ],
+    "language": "C",
+    "repo_name": "Exploits",
+    "repo_owner": "forrest-orr",
+    "repotime": "2022-07-21, 03:01:37",
+    "stargazers_count": 121,
+    "watchers_count": 121
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-07-28",
+    "date_updated": "2022-07-20",
+    "description": "Automated SQL Injection tool",
+    "forks_count": 13,
+    "html_url": "https://github.com/rezaJOY/Havij",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "Havij",
+    "repo_owner": "rezaJOY",
+    "repotime": "2022-07-20, 23:32:52",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-18",
+    "description": "A pre-authenticated RCE exploit for Inductive Automation Ignition",
+    "forks_count": 9,
+    "html_url": "https://github.com/sourceincite/randy",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "randy",
+    "repo_owner": "sourceincite",
+    "repotime": "2022-07-18, 11:12:27",
+    "stargazers_count": 45,
+    "watchers_count": 45
+}
+{
+    "commits_count": 24,
+    "date_started": "2022-06-17",
+    "date_updated": "2022-07-12",
+    "description": "A simple Follina RTF and DOCX generator",
+    "forks_count": 1,
+    "html_url": "https://github.com/maxgestic/Follina-Generator",
+    "keywords": [
+        "Windows rce",
+        "Windows rce poc",
+        "Windows rce vulnerability",
+        "Windows rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Follina-Generator",
+    "repo_owner": "maxgestic",
+    "repotime": "2022-07-12, 14:42:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2011-08-24",
+    "date_updated": "2022-07-03",
+    "description": "Secure session class (with Memcached extension class) that uses sha256 to generate signatures, preventing session hijacking.",
+    "forks_count": 2,
+    "html_url": "https://github.com/onassar/PHP-SecureSessions",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "PHP-SecureSessions",
+    "repo_owner": "onassar",
+    "repotime": "2022-07-03, 12:00:21",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}

@@ -1,0 +1,681 @@
+{
+    "commits_count": 4,
+    "date_started": "2020-12-12",
+    "date_updated": "2021-01-31",
+    "description": "A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;quot;dock&amp;quot; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.     A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.      In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19....",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sushil-Deore/Shared-Bike-Demand-Analysis",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Shared-Bike-Demand-Analysis",
+    "repo_owner": "Sushil-Deore",
+    "repotime": "2021-01-31, 18:45:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-27",
+    "date_updated": "2021-01-30",
+    "description": "DOS2RCE scan tool using Google TAG and Microsoft MSTIC analysis information",
+    "forks_count": 0,
+    "html_url": "https://github.com/lutwidse/DOS2RCE-Malware-Scanner",
+    "keywords": [
+        "Microsoft rce dos",
+        "Microsoft rce",
+        "rce analysis",
+        "rce dos",
+        "Microsoft rce analysis"
+    ],
+    "language": "Python",
+    "repo_name": "DOS2RCE-Malware-Scanner",
+    "repo_owner": "lutwidse",
+    "repotime": "2021-01-30, 04:41:26",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-03-23",
+    "date_updated": "2021-01-27",
+    "description": "Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder",
+    "forks_count": 119,
+    "html_url": "https://github.com/capture0x/XSS-LOADER",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-LOADER",
+    "repo_owner": "capture0x",
+    "repotime": "2021-01-27, 09:47:44",
+    "stargazers_count": 591,
+    "watchers_count": 591
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-22",
+    "date_updated": "2021-01-22",
+    "description": "The House of Rust is a heap exploitation technique that drops a shell against full PIE binaries that don’t leak any addresses.",
+    "forks_count": 1,
+    "html_url": "https://github.com/c4ebt/House-of-Rust",
+    "keywords": [
+        "address leak exploit",
+        "address leak exploitation"
+    ],
+    "language": null,
+    "repo_name": "House-of-Rust",
+    "repo_owner": "c4ebt",
+    "repotime": "2021-01-22, 16:45:26",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 49,
+    "date_started": "2021-01-12",
+    "date_updated": "2021-01-20",
+    "description": "SSRF plugin for burp Automates SSRF Detection in all of the Request",
+    "forks_count": 58,
+    "html_url": "https://github.com/ethicalhackingplayground/ssrf-king",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "ssrf-king",
+    "repo_owner": "ethicalhackingplayground",
+    "repotime": "2021-01-20, 15:53:04",
+    "stargazers_count": 588,
+    "watchers_count": 588
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-01-15",
+    "date_updated": "2021-01-19",
+    "description": "09:17:02 Steam Console Client (c) Valve Corporation 09:17:02 -- type 'quit' to exit -- 09:17:02 Loading Steam API...OK. 09:17:02  09:17:03 Connecting anonymously to Steam Public...Logged in OK 09:17:03 Waiting for user info...OK 09:17:04 Success! App '740' already up to date.  09:17:05 @sSteamCmdForcePlatformType windows 09:17:05 &amp;quot;@sSteamCmdForcePlatformType&amp;quot; = &amp;quot;windows&amp;quot; 09:17:05 force_install_dir ../ 09:17:05 app_update 740 09:17:05 quit 09:17:05 Redirecting stderr to 'D:\\servers\\csgo_297437\\steamcmd\\logs\\stderr.txt'  09:17:05 Params: -game csgo -console -tickrate 128.00 -port 49525 +tv_port 49526 -maxplayers_override 16 -usercon -nowatchdog +sv_pure 0 +sv_lan 0 +ip 89.203.193.220 +game_type 0 +exec server.cfg +game_mode 1 +map de_dust2 +sv_setsteamaccount B74A031F37B9312A5EC65A15FC43AA0C -gamemodes_serverfile gamemodes_server.txt +mapgroup h_custom -condebug -norestart -allowdebug 09:17:06 &amp;&#35;35; 09:17:06 &amp;&#35;35;Console initialized. 09:17:06 &amp;&#35;35;Using breakpad minid...",
+    "forks_count": 0,
+    "html_url": "https://github.com/marostcs/konzole",
+    "keywords": [
+        "Windows use after free",
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "konzole",
+    "repo_owner": "marostcs",
+    "repotime": "2021-01-19, 23:41:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-01-17",
+    "date_updated": "2021-01-19",
+    "description": "Code for the freeCodeCamp Chicago session held on 2021-01-17",
+    "forks_count": 0,
+    "html_url": "https://github.com/rgroves/fcc-chi-20210117-attack-of-the-clones",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "fcc-chi-20210117-attack-of-the-clones",
+    "repo_owner": "rgroves",
+    "repotime": "2021-01-19, 17:33:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-01-16",
+    "date_updated": "2021-01-16",
+    "description": "  Karamel is a free Karaoke Player which provides two user interfaces. A simple one for the personal use and one with more possibilities for karaoke bars.  In its first version it only contains the simple mode with the following features: - Media library - Random / Playlist playback - Stop after song / go on mode - MP3+G and video playback - Playback in additional window Features      Media Library     Playlist     Stop playback after song     Shuffle",
+    "forks_count": 0,
+    "html_url": "https://github.com/akrostichon/Karamel",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Karamel",
+    "repo_owner": "akrostichon",
+    "repotime": "2021-01-16, 16:22:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-03-07",
+    "date_updated": "2021-01-13",
+    "description": "An overload of overload of global operator new and global operator delete to explicitly check for memory leaks and freeing invalid memory. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ayxan13/MemoryAnalysis",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C++",
+    "repo_name": "MemoryAnalysis",
+    "repo_owner": "Ayxan13",
+    "repotime": "2021-01-13, 23:57:28",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 221,
+    "date_started": "2020-03-05",
+    "date_updated": "2021-01-11",
+    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "forks_count": 42,
+    "html_url": "https://github.com/hash3liZer/evilginx2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Go",
+    "repo_name": "evilginx2",
+    "repo_owner": "hash3liZer",
+    "repotime": "2021-01-11, 13:08:23",
+    "stargazers_count": 114,
+    "watchers_count": 114
+}
+{
+    "commits_count": 221,
+    "date_started": "2021-01-03",
+    "date_updated": "2021-01-10",
+    "description": "What is JavaScript and what does it do?   Before you start learning something new, it’s important to understand exactly what it is and what it does. This is especially useful when it comes to mastering a new programming language.  In simple terms, JavaScript is a programming language used to make websites interactive. If you think about the basic makeup of a website, you have HTML, which describes and defines the basic content and structure of the website, then you have CSS, which tells the browser how this HTML content should be displayed—determining things like color and font. With just HTML and CSS, you have a website that looks good but doesn’t actually do much. JavaScript brings the website to life by adding functionality. JavaScript is responsible for elements that the user can interact with, such as drop-down menus, modal windows, and contact forms. It is also used to create things like animations, video players, and interactive maps.  Nowadays, JavaScript is an all-purpose prog...",
+    "forks_count": 22,
+    "html_url": "https://github.com/sanusanth/javascript-basic-program",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "javascript-basic-program",
+    "repo_owner": "sanusanth",
+    "repotime": "2021-01-10, 13:19:14",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
+    "commits_count": 25,
+    "date_started": "2020-12-20",
+    "date_updated": "2021-01-08",
+    "description": "A useful tool for tracking native (C++) memory leakage in Windows 10 environment (support both x86 and x64)",
+    "forks_count": 0,
+    "html_url": "https://github.com/avipreshel/CLI-Native-Leak-Detector",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "CLI-Native-Leak-Detector",
+    "repo_owner": "avipreshel",
+    "repotime": "2021-01-08, 17:18:58",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-12-25",
+    "date_updated": "2021-01-01",
+    "description": "Unrestricted File Upload in Gym Management Software 1.0",
+    "forks_count": 0,
+    "html_url": "https://github.com/mazdafunsunn/gym-management-unrestricted-upload",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "gym-management-unrestricted-upload",
+    "repo_owner": "mazdafunsunn",
+    "repotime": "2021-01-01, 15:05:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-12-12",
+    "date_updated": "2021-01-31",
+    "description": "A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;quot;dock&amp;quot; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.     A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.      In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19....",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sushil-Deore/Shared-Bike-Demand-Analysis",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Shared-Bike-Demand-Analysis",
+    "repo_owner": "Sushil-Deore",
+    "repotime": "2021-01-31, 18:45:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-27",
+    "date_updated": "2021-01-30",
+    "description": "DOS2RCE scan tool using Google TAG and Microsoft MSTIC analysis information",
+    "forks_count": 0,
+    "html_url": "https://github.com/lutwidse/DOS2RCE-Malware-Scanner",
+    "keywords": [
+        "Microsoft rce dos",
+        "Microsoft rce",
+        "rce analysis",
+        "rce dos",
+        "Microsoft rce analysis"
+    ],
+    "language": "Python",
+    "repo_name": "DOS2RCE-Malware-Scanner",
+    "repo_owner": "lutwidse",
+    "repotime": "2021-01-30, 04:41:26",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-03-23",
+    "date_updated": "2021-01-27",
+    "description": "Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder",
+    "forks_count": 119,
+    "html_url": "https://github.com/capture0x/XSS-LOADER",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-LOADER",
+    "repo_owner": "capture0x",
+    "repotime": "2021-01-27, 09:47:44",
+    "stargazers_count": 591,
+    "watchers_count": 591
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-22",
+    "date_updated": "2021-01-22",
+    "description": "The House of Rust is a heap exploitation technique that drops a shell against full PIE binaries that don’t leak any addresses.",
+    "forks_count": 1,
+    "html_url": "https://github.com/c4ebt/House-of-Rust",
+    "keywords": [
+        "address leak exploit",
+        "address leak exploitation"
+    ],
+    "language": null,
+    "repo_name": "House-of-Rust",
+    "repo_owner": "c4ebt",
+    "repotime": "2021-01-22, 16:45:26",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 49,
+    "date_started": "2021-01-12",
+    "date_updated": "2021-01-20",
+    "description": "SSRF plugin for burp Automates SSRF Detection in all of the Request",
+    "forks_count": 58,
+    "html_url": "https://github.com/ethicalhackingplayground/ssrf-king",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "ssrf-king",
+    "repo_owner": "ethicalhackingplayground",
+    "repotime": "2021-01-20, 15:53:04",
+    "stargazers_count": 593,
+    "watchers_count": 593
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-01-15",
+    "date_updated": "2021-01-19",
+    "description": "09:17:02 Steam Console Client (c) Valve Corporation 09:17:02 -- type 'quit' to exit -- 09:17:02 Loading Steam API...OK. 09:17:02  09:17:03 Connecting anonymously to Steam Public...Logged in OK 09:17:03 Waiting for user info...OK 09:17:04 Success! App '740' already up to date.  09:17:05 @sSteamCmdForcePlatformType windows 09:17:05 &amp;quot;@sSteamCmdForcePlatformType&amp;quot; = &amp;quot;windows&amp;quot; 09:17:05 force_install_dir ../ 09:17:05 app_update 740 09:17:05 quit 09:17:05 Redirecting stderr to 'D:\\servers\\csgo_297437\\steamcmd\\logs\\stderr.txt'  09:17:05 Params: -game csgo -console -tickrate 128.00 -port 49525 +tv_port 49526 -maxplayers_override 16 -usercon -nowatchdog +sv_pure 0 +sv_lan 0 +ip 89.203.193.220 +game_type 0 +exec server.cfg +game_mode 1 +map de_dust2 +sv_setsteamaccount B74A031F37B9312A5EC65A15FC43AA0C -gamemodes_serverfile gamemodes_server.txt +mapgroup h_custom -condebug -norestart -allowdebug 09:17:06 &amp;&#35;35; 09:17:06 &amp;&#35;35;Console initialized. 09:17:06 &amp;&#35;35;Using breakpad minid...",
+    "forks_count": 0,
+    "html_url": "https://github.com/marostcs/konzole",
+    "keywords": [
+        "Windows use after free",
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "konzole",
+    "repo_owner": "marostcs",
+    "repotime": "2021-01-19, 23:41:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-01-17",
+    "date_updated": "2021-01-19",
+    "description": "Code for the freeCodeCamp Chicago session held on 2021-01-17",
+    "forks_count": 0,
+    "html_url": "https://github.com/rgroves/fcc-chi-20210117-attack-of-the-clones",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "fcc-chi-20210117-attack-of-the-clones",
+    "repo_owner": "rgroves",
+    "repotime": "2021-01-19, 17:33:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-01-16",
+    "date_updated": "2021-01-16",
+    "description": "  Karamel is a free Karaoke Player which provides two user interfaces. A simple one for the personal use and one with more possibilities for karaoke bars.  In its first version it only contains the simple mode with the following features: - Media library - Random / Playlist playback - Stop after song / go on mode - MP3+G and video playback - Playback in additional window Features      Media Library     Playlist     Stop playback after song     Shuffle",
+    "forks_count": 0,
+    "html_url": "https://github.com/akrostichon/Karamel",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Karamel",
+    "repo_owner": "akrostichon",
+    "repotime": "2021-01-16, 16:22:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-03-07",
+    "date_updated": "2021-01-13",
+    "description": "An overload of overload of global operator new and global operator delete to explicitly check for memory leaks and freeing invalid memory. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ayxan13/MemoryAnalysis",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C++",
+    "repo_name": "MemoryAnalysis",
+    "repo_owner": "Ayxan13",
+    "repotime": "2021-01-13, 23:57:28",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 221,
+    "date_started": "2020-03-05",
+    "date_updated": "2021-01-11",
+    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "forks_count": 42,
+    "html_url": "https://github.com/hash3liZer/evilginx2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Go",
+    "repo_name": "evilginx2",
+    "repo_owner": "hash3liZer",
+    "repotime": "2021-01-11, 13:08:23",
+    "stargazers_count": 114,
+    "watchers_count": 114
+}
+{
+    "commits_count": 221,
+    "date_started": "2021-01-03",
+    "date_updated": "2021-01-10",
+    "description": "What is JavaScript and what does it do?   Before you start learning something new, it’s important to understand exactly what it is and what it does. This is especially useful when it comes to mastering a new programming language.  In simple terms, JavaScript is a programming language used to make websites interactive. If you think about the basic makeup of a website, you have HTML, which describes and defines the basic content and structure of the website, then you have CSS, which tells the browser how this HTML content should be displayed—determining things like color and font. With just HTML and CSS, you have a website that looks good but doesn’t actually do much. JavaScript brings the website to life by adding functionality. JavaScript is responsible for elements that the user can interact with, such as drop-down menus, modal windows, and contact forms. It is also used to create things like animations, video players, and interactive maps.  Nowadays, JavaScript is an all-purpose prog...",
+    "forks_count": 22,
+    "html_url": "https://github.com/sanusanth/javascript-basic-program",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "javascript-basic-program",
+    "repo_owner": "sanusanth",
+    "repotime": "2021-01-10, 13:19:14",
+    "stargazers_count": 56,
+    "watchers_count": 56
+}
+{
+    "commits_count": 25,
+    "date_started": "2020-12-20",
+    "date_updated": "2021-01-08",
+    "description": "A useful tool for tracking native (C++) memory leakage in Windows 10 environment (support both x86 and x64)",
+    "forks_count": 0,
+    "html_url": "https://github.com/avipreshel/CLI-Native-Leak-Detector",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "CLI-Native-Leak-Detector",
+    "repo_owner": "avipreshel",
+    "repotime": "2021-01-08, 17:18:58",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-12-25",
+    "date_updated": "2021-01-01",
+    "description": "Unrestricted File Upload in Gym Management Software 1.0",
+    "forks_count": 0,
+    "html_url": "https://github.com/mazdafunsunn/gym-management-unrestricted-upload",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "gym-management-unrestricted-upload",
+    "repo_owner": "mazdafunsunn",
+    "repotime": "2021-01-01, 15:05:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-12-12",
+    "date_updated": "2021-01-31",
+    "description": "A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;quot;dock&amp;quot; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.     A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.      In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19....",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sushil-Deore/Shared-Bike-Demand-Analysis",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Shared-Bike-Demand-Analysis",
+    "repo_owner": "Sushil-Deore",
+    "repotime": "2021-01-31, 18:45:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-27",
+    "date_updated": "2021-01-30",
+    "description": "DOS2RCE scan tool using Google TAG and Microsoft MSTIC analysis information",
+    "forks_count": 0,
+    "html_url": "https://github.com/lutwidse/DOS2RCE-Malware-Scanner",
+    "keywords": [
+        "Microsoft rce dos",
+        "Microsoft rce",
+        "rce analysis",
+        "rce dos",
+        "Microsoft rce analysis"
+    ],
+    "language": "Python",
+    "repo_name": "DOS2RCE-Malware-Scanner",
+    "repo_owner": "lutwidse",
+    "repotime": "2021-01-30, 04:41:26",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-03-23",
+    "date_updated": "2021-01-27",
+    "description": "Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder",
+    "forks_count": 121,
+    "html_url": "https://github.com/capture0x/XSS-LOADER",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-LOADER",
+    "repo_owner": "capture0x",
+    "repotime": "2021-01-27, 09:47:44",
+    "stargazers_count": 598,
+    "watchers_count": 598
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-22",
+    "date_updated": "2021-01-22",
+    "description": "The House of Rust is a heap exploitation technique that drops a shell against full PIE binaries that don’t leak any addresses.",
+    "forks_count": 1,
+    "html_url": "https://github.com/c4ebt/House-of-Rust",
+    "keywords": [
+        "address leak exploit",
+        "address leak exploitation"
+    ],
+    "language": null,
+    "repo_name": "House-of-Rust",
+    "repo_owner": "c4ebt",
+    "repotime": "2021-01-22, 16:45:26",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 49,
+    "date_started": "2021-01-12",
+    "date_updated": "2021-01-20",
+    "description": "SSRF plugin for burp Automates SSRF Detection in all of the Request",
+    "forks_count": 58,
+    "html_url": "https://github.com/ethicalhackingplayground/ssrf-king",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "ssrf-king",
+    "repo_owner": "ethicalhackingplayground",
+    "repotime": "2021-01-20, 15:53:04",
+    "stargazers_count": 593,
+    "watchers_count": 593
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-01-15",
+    "date_updated": "2021-01-19",
+    "description": "09:17:02 Steam Console Client (c) Valve Corporation 09:17:02 -- type 'quit' to exit -- 09:17:02 Loading Steam API...OK. 09:17:02  09:17:03 Connecting anonymously to Steam Public...Logged in OK 09:17:03 Waiting for user info...OK 09:17:04 Success! App '740' already up to date.  09:17:05 @sSteamCmdForcePlatformType windows 09:17:05 &amp;quot;@sSteamCmdForcePlatformType&amp;quot; = &amp;quot;windows&amp;quot; 09:17:05 force_install_dir ../ 09:17:05 app_update 740 09:17:05 quit 09:17:05 Redirecting stderr to 'D:\\servers\\csgo_297437\\steamcmd\\logs\\stderr.txt'  09:17:05 Params: -game csgo -console -tickrate 128.00 -port 49525 +tv_port 49526 -maxplayers_override 16 -usercon -nowatchdog +sv_pure 0 +sv_lan 0 +ip 89.203.193.220 +game_type 0 +exec server.cfg +game_mode 1 +map de_dust2 +sv_setsteamaccount B74A031F37B9312A5EC65A15FC43AA0C -gamemodes_serverfile gamemodes_server.txt +mapgroup h_custom -condebug -norestart -allowdebug 09:17:06 &amp;&#35;35; 09:17:06 &amp;&#35;35;Console initialized. 09:17:06 &amp;&#35;35;Using breakpad minid...",
+    "forks_count": 0,
+    "html_url": "https://github.com/marostcs/konzole",
+    "keywords": [
+        "Windows use after free",
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "konzole",
+    "repo_owner": "marostcs",
+    "repotime": "2021-01-19, 23:41:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-01-17",
+    "date_updated": "2021-01-19",
+    "description": "Code for the freeCodeCamp Chicago session held on 2021-01-17",
+    "forks_count": 0,
+    "html_url": "https://github.com/rgroves/fcc-chi-20210117-attack-of-the-clones",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "fcc-chi-20210117-attack-of-the-clones",
+    "repo_owner": "rgroves",
+    "repotime": "2021-01-19, 17:33:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-01-16",
+    "date_updated": "2021-01-16",
+    "description": "  Karamel is a free Karaoke Player which provides two user interfaces. A simple one for the personal use and one with more possibilities for karaoke bars.  In its first version it only contains the simple mode with the following features: - Media library - Random / Playlist playback - Stop after song / go on mode - MP3+G and video playback - Playback in additional window Features      Media Library     Playlist     Stop playback after song     Shuffle",
+    "forks_count": 0,
+    "html_url": "https://github.com/akrostichon/Karamel",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Karamel",
+    "repo_owner": "akrostichon",
+    "repotime": "2021-01-16, 16:22:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-03-07",
+    "date_updated": "2021-01-13",
+    "description": "An overload of overload of global operator new and global operator delete to explicitly check for memory leaks and freeing invalid memory. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ayxan13/MemoryAnalysis",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C++",
+    "repo_name": "MemoryAnalysis",
+    "repo_owner": "Ayxan13",
+    "repotime": "2021-01-13, 23:57:28",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 221,
+    "date_started": "2020-03-05",
+    "date_updated": "2021-01-11",
+    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "forks_count": 42,
+    "html_url": "https://github.com/hash3liZer/evilginx2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Go",
+    "repo_name": "evilginx2",
+    "repo_owner": "hash3liZer",
+    "repotime": "2021-01-11, 13:08:23",
+    "stargazers_count": 114,
+    "watchers_count": 114
+}
+{
+    "commits_count": 221,
+    "date_started": "2021-01-03",
+    "date_updated": "2021-01-10",
+    "description": "What is JavaScript and what does it do?   Before you start learning something new, it’s important to understand exactly what it is and what it does. This is especially useful when it comes to mastering a new programming language.  In simple terms, JavaScript is a programming language used to make websites interactive. If you think about the basic makeup of a website, you have HTML, which describes and defines the basic content and structure of the website, then you have CSS, which tells the browser how this HTML content should be displayed—determining things like color and font. With just HTML and CSS, you have a website that looks good but doesn’t actually do much. JavaScript brings the website to life by adding functionality. JavaScript is responsible for elements that the user can interact with, such as drop-down menus, modal windows, and contact forms. It is also used to create things like animations, video players, and interactive maps.  Nowadays, JavaScript is an all-purpose prog...",
+    "forks_count": 22,
+    "html_url": "https://github.com/sanusanth/javascript-basic-program",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "javascript-basic-program",
+    "repo_owner": "sanusanth",
+    "repotime": "2021-01-10, 13:19:14",
+    "stargazers_count": 56,
+    "watchers_count": 56
+}
+{
+    "commits_count": 25,
+    "date_started": "2020-12-20",
+    "date_updated": "2021-01-08",
+    "description": "A useful tool for tracking native (C++) memory leakage in Windows 10 environment (support both x86 and x64)",
+    "forks_count": 0,
+    "html_url": "https://github.com/avipreshel/CLI-Native-Leak-Detector",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "CLI-Native-Leak-Detector",
+    "repo_owner": "avipreshel",
+    "repotime": "2021-01-08, 17:18:58",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-12-25",
+    "date_updated": "2021-01-01",
+    "description": "Unrestricted File Upload in Gym Management Software 1.0",
+    "forks_count": 0,
+    "html_url": "https://github.com/mazdafunsunn/gym-management-unrestricted-upload",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "gym-management-unrestricted-upload",
+    "repo_owner": "mazdafunsunn",
+    "repotime": "2021-01-01, 15:05:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

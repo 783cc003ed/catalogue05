@@ -1,0 +1,397 @@
+{
+    "commits_count": 1405,
+    "date_started": "2020-06-02",
+    "date_updated": "2025-08-31",
+    "description": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
+    "forks_count": 218,
+    "html_url": "https://github.com/hadashiA/VContainer",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "VContainer",
+    "repo_owner": "hadashiA",
+    "repotime": "2025-08-31, 17:10:20",
+    "stargazers_count": 2479,
+    "watchers_count": 2479
+}
+{
+    "commits_count": 28,
+    "date_started": "2025-08-09",
+    "date_updated": "2025-08-30",
+    "description": "Session Hijacking Tool",
+    "forks_count": 1,
+    "html_url": "https://github.com/ekomsSavior/hijax",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "hijax",
+    "repo_owner": "ekomsSavior",
+    "repotime": "2025-08-30, 06:41:36",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-09-08",
+    "date_updated": "2025-08-26",
+    "description": "A single byte modification in the kernel memory bypasses and disables all core functions of the AV/EDR security solutions",
+    "forks_count": 0,
+    "html_url": "https://github.com/ByteWhite1x1/EDR-bypass-disable-PspNotifyEnableMask",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "EDR-bypass-disable-PspNotifyEnableMask",
+    "repo_owner": "ByteWhite1x1",
+    "repotime": "2025-08-26, 19:35:11",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-08-17",
+    "date_updated": "2025-08-25",
+    "description": "mchammer: a proof-of-concept for synthesizing hardware machine check exceptions (MCE) to explore processor exploitation, MCA analysis, and privilege escalation. 🔨",
+    "forks_count": 0,
+    "html_url": "https://github.com/M-c-tech-dev/mchammer",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "mchammer",
+    "repo_owner": "M-c-tech-dev",
+    "repotime": "2025-08-25, 23:32:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-17",
+    "date_updated": "2025-08-24",
+    "description": "CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by a malicious audio file via iMessage/SMS. Exploitation bypassed Blastdoor, enabled kernel escalation (CVE-2025-31201), and allowed token theft until patched in iOS 18.4.1 (Apr 16, 2025).",
+    "forks_count": 0,
+    "html_url": "https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
+    "keywords": [
+        "rce disclosure",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
+    "repo_owner": "JGoyd",
+    "repotime": "2025-08-24, 15:52:32",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 42625,
+    "date_started": "2025-08-24",
+    "date_updated": "2025-08-24",
+    "description": "Modified GLIBC to protect Use after free vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/Md-Monowarul-Amin/Glbc-Modified",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "Makefile",
+    "repo_name": "Glbc-Modified",
+    "repo_owner": "Md-Monowarul-Amin",
+    "repotime": "2025-08-24, 21:45:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-07-30",
+    "date_updated": "2025-08-22",
+    "description": "This project focuses on performing network forensic analysis on a captured &amp;quot;.pcap&amp;quot; file using Wiresharks Tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/shankarsharma507/Post-Attack-Network-Session-Analysis-of-PCAP-Files-using-Wiresahrk",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Post-Attack-Network-Session-Analysis-of-PCAP-Files-using-Wiresahrk",
+    "repo_owner": "shankarsharma507",
+    "repotime": "2025-08-22, 11:19:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2025-06-19",
+    "date_updated": "2025-08-21",
+    "description": "Crema is a static analysis tool for Rust-C FFI. It detects memory errors (memory leak, double-free and use-after-free) in pure Rust code and Rust interacting with C code.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AFx3/crema-static-analyzer",
+    "keywords": [
+        "use after free analysis",
+        "memory leak analysis"
+    ],
+    "language": "Rust",
+    "repo_name": "crema-static-analyzer",
+    "repo_owner": "AFx3",
+    "repotime": "2025-08-21, 16:41:49",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 232,
+    "date_started": "2018-12-19",
+    "date_updated": "2025-08-20",
+    "description": "TypeScript clients for databases that prevent SQL Injection",
+    "forks_count": 46,
+    "html_url": "https://github.com/ForbesLindesay/atdatabases",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "TypeScript",
+    "repo_name": "atdatabases",
+    "repo_owner": "ForbesLindesay",
+    "repotime": "2025-08-20, 11:11:16",
+    "stargazers_count": 627,
+    "watchers_count": 627
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-08-17",
+    "date_updated": "2025-08-17",
+    "description": "Evidence for Huorong hrdevmon.sys UAF vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/sunghuang/Huorong-UAF-Proof",
+    "keywords": [
+        "uaf vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "Huorong-UAF-Proof",
+    "repo_owner": "sunghuang",
+    "repotime": "2025-08-17, 09:51:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 65,
+    "date_started": "2025-08-16",
+    "date_updated": "2025-08-16",
+    "description": "A Cyberpunk Hacking &amp;amp; SaaS Strategy Game. ZeroDay Syndicate is a cyberpunk management &amp;amp; hacking sim.   You buy servers, run SaaS businesses, discover Zero-Day Exploits (ZDEs), and wage digital warfare against AI competitors (or other players). ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Razsk/ZeroDay-Syndicate",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "ZeroDay-Syndicate",
+    "repo_owner": "Razsk",
+    "repotime": "2025-08-16, 21:23:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1404,
+    "date_started": "2016-11-14",
+    "date_updated": "2025-08-14",
+    "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (&amp;quot;transparent&amp;quot;) encryption. SQL, NoSQL.",
+    "forks_count": 132,
+    "html_url": "https://github.com/cossacklabs/acra",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "acra",
+    "repo_owner": "cossacklabs",
+    "repotime": "2025-08-14, 18:32:28",
+    "stargazers_count": 1428,
+    "watchers_count": 1428
+}
+{
+    "commits_count": 1196,
+    "date_started": "2016-12-09",
+    "date_updated": "2025-08-14",
+    "description": "This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can be declaratively extended by additional operations, which can be used to reassemble and execute the existing functionalities according to project-specific requirements. But also completely new commands can be integrated quickly and easily via dependency injection.",
+    "forks_count": 18,
+    "html_url": "https://github.com/techdivision/import-cli-simple",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "PHP",
+    "repo_name": "import-cli-simple",
+    "repo_owner": "techdivision",
+    "repotime": "2025-08-14, 17:00:52",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-07-22",
+    "date_updated": "2025-08-14",
+    "description": "Session hijacker",
+    "forks_count": 0,
+    "html_url": "https://github.com/DeadmanXXXII/Cookie-Thumper",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "Cookie-Thumper",
+    "repo_owner": "DeadmanXXXII",
+    "repotime": "2025-08-14, 01:03:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2025-08-07",
+    "date_updated": "2025-08-13",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/YohanLB09/Zero-Day-Vulnerability-Investigation-MSHTML",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Zero-Day-Vulnerability-Investigation-MSHTML",
+    "repo_owner": "YohanLB09",
+    "repotime": "2025-08-13, 08:18:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 40,
+    "date_started": "2015-10-18",
+    "date_updated": "2025-08-10",
+    "description": "Wordpress XMLRPC System Multicall Brute Force Exploit (0day)  by 1N3 @ CrowdShield",
+    "forks_count": 200,
+    "html_url": "https://github.com/1N3/Wordpress-XMLRPC-Brute-Force-Exploit",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Wordpress-XMLRPC-Brute-Force-Exploit",
+    "repo_owner": "1N3",
+    "repotime": "2025-08-10, 06:11:57",
+    "stargazers_count": 479,
+    "watchers_count": 479
+}
+{
+    "commits_count": 26,
+    "date_started": "2025-04-22",
+    "date_updated": "2025-08-09",
+    "description": "Network Security Laboratory – Educational project showcasing practical demonstrations of ARP Poisoning, Man-in-the-Middle, and TCP Session Hijacking attacks in a safe, containerized Docker environment for cybersecurity training.          Ask ChatGPT",
+    "forks_count": 0,
+    "html_url": "https://github.com/matteobertoldoo/netseclab",
+    "keywords": [
+        "session hijacking attack"
+    ],
+    "language": "Python",
+    "repo_name": "netseclab",
+    "repo_owner": "matteobertoldoo",
+    "repotime": "2025-08-09, 11:00:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 222,
+    "date_started": "2016-07-11",
+    "date_updated": "2025-08-07",
+    "description": " QRLJacking or Quick Response Code Login Jacking is a simple-but-nasty attack vector affecting all the applications that relays on “Login with QR code” feature as a secure way to login into accounts which aims for hijacking users session by attackers.",
+    "forks_count": 648,
+    "html_url": "https://github.com/OWASP/QRLJacking",
+    "keywords": [
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "QRLJacking",
+    "repo_owner": "OWASP",
+    "repotime": "2025-08-07, 15:07:19",
+    "stargazers_count": 1441,
+    "watchers_count": 1441
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-08-06",
+    "date_updated": "2025-08-06",
+    "description": "Analyzed malware behavior using Wireshark and Process Monitor, identifying system and network indicators of compromise. Investigated Windows Registry alterations by malware for persistence, stealth, and privilege escalation in a controlled lab setup.  ",
+    "forks_count": 0,
+    "html_url": "https://github.com/sreejannn/Malware-Behaviour-Analysis-Windows-Registry-Investigation",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "Malware-Behaviour-Analysis-Windows-Registry-Investigation",
+    "repo_owner": "sreejannn",
+    "repotime": "2025-08-06, 14:36:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 68,
+    "date_started": "2025-07-23",
+    "date_updated": "2025-08-06",
+    "description": "Multi-agent LLM ensemble for automated zero-day vulnerability detection.   Thompson Sampling optimization, 21+ evidence sources, 5 specialized   agents.",
+    "forks_count": 1,
+    "html_url": "https://github.com/lodetomasi/zero-day-llm-ensemble",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "zero-day-llm-ensemble",
+    "repo_owner": "lodetomasi",
+    "repotime": "2025-08-06, 08:47:04",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-07-09",
+    "date_updated": "2025-08-05",
+    "description": "LPE / RCE Exploits for various vulnerable &amp;quot;Bloatware&amp;quot; products",
+    "forks_count": 5,
+    "html_url": "https://github.com/sensepost/bloatware-pwn",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "C#",
+    "repo_name": "bloatware-pwn",
+    "repo_owner": "sensepost",
+    "repotime": "2025-08-05, 14:33:07",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-08-05",
+    "date_updated": "2025-08-05",
+    "description": "E-commerce conversion prediction model identifying high-intent customers using session behavior analysis and balanced Random Forest",
+    "forks_count": 0,
+    "html_url": "https://github.com/Szynol00/ecommerce-conversion-prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "ecommerce-conversion-prediction",
+    "repo_owner": "Szynol00",
+    "repotime": "2025-08-05, 23:21:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-08-03",
+    "date_updated": "2025-08-04",
+    "description": "A custom keystroke injection payload written for the Digispark ATTiny85 microcontroller, emulating a Rubber Ducky device. This script executes a series of post-exploitation tasks, including privilege escalation, antivirus evasion, persistence, and system recon -all in hidden PowerShell windows.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Doc-o/DUCKY-BUCKY",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C++",
+    "repo_name": "DUCKY-BUCKY",
+    "repo_owner": "Doc-o",
+    "repotime": "2025-08-04, 01:29:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

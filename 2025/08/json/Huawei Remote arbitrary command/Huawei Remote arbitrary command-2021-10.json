@@ -1,0 +1,579 @@
+{
+    "commits_count": 12,
+    "date_started": "2017-05-30",
+    "date_updated": "2021-10-31",
+    "description": "It is a simple script to exploit RCE for Samba (CVE-2017-7494 ).",
+    "forks_count": 27,
+    "html_url": "https://github.com/brianwrf/SambaHunter",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "SambaHunter",
+    "repo_owner": "brianwrf",
+    "repotime": "2021-10-31, 15:06:25",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-25",
+    "date_updated": "2021-10-25",
+    "description": "PoC for the CVE-2021-20837 : RCE in MovableType",
+    "forks_count": 12,
+    "html_url": "https://github.com/ghost-nemesis/cve-2021-20837-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "cve-2021-20837-poc",
+    "repo_owner": "ghost-nemesis",
+    "repotime": "2021-10-25, 20:34:54",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-24",
+    "date_updated": "2021-10-24",
+    "description": "1-Project Title “Library Management System (L_I_B_R_A)” The “Library Management System” has been developed to override the problems prevailing in the practicing manual system. This software is supported to eliminate and in some cases reduce the hardship faced by this existing system. Moreover this system is designed for the particular need of the institution to carry out operating in a smooth and effective manner. 2-Domain Library management institutional management non-profitable organization. 3-Problem of Statement In our existing system all the transaction of books are done manually, so taking more time for a transaction like borrowing a book or returning a book and also for searching of member and books. Another major disadvantage is that to preparing the list of book borrowed and the available book in the library will take more time, currently it is doing as a day process for verifying all records. So after conducting he feasibility study we decided to make the manual library mana...",
+    "forks_count": 4,
+    "html_url": "https://github.com/uttkarshparmar50/LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
+    "repo_owner": "uttkarshparmar50",
+    "repotime": "2021-10-24, 18:33:25",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-10-21",
+    "date_updated": "2021-10-21",
+    "description": "Using Nmap, Dirb, Hydra, and Crack Station in order to gain access and establish a connection to the web server. Creating a PHP reverse shell payload using MSFVenom in order to create a meterpreter session on the machine and run commands in order to find the flag. Using the ELK Stack in order to identify Attacker port scan, request to hidden directories, uncovering the brute force attack, and the connection to the web server that allowed the attacker to upload the malicious PHP reverse shell payload in to | Created report on these findings and identified mitigation techniques",
+    "forks_count": 0,
+    "html_url": "https://github.com/christophernicolaus/Red_vs_Blue_Team_GT",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Red_vs_Blue_Team_GT",
+    "repo_owner": "christophernicolaus",
+    "repotime": "2021-10-21, 10:41:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 206,
+    "date_started": "2017-02-01",
+    "date_updated": "2021-10-20",
+    "description": "Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.",
+    "forks_count": 87,
+    "html_url": "https://github.com/tijme/angularjs-csti-scanner",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "Python",
+    "repo_name": "angularjs-csti-scanner",
+    "repo_owner": "tijme",
+    "repotime": "2021-10-20, 17:19:50",
+    "stargazers_count": 317,
+    "watchers_count": 317
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-03-15",
+    "date_updated": "2021-10-19",
+    "description": "ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)",
+    "forks_count": 40,
+    "html_url": "https://github.com/herwonowr/exprolog",
+    "keywords": [
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "exprolog",
+    "repo_owner": "herwonowr",
+    "repotime": "2021-10-19, 14:06:17",
+    "stargazers_count": 181,
+    "watchers_count": 181
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-10-15",
+    "date_updated": "2021-10-15",
+    "description": "In Visual Tools DVR VX16 4.2.28.0, an unauthenticated attacker can achieve remote command execution via shell metacharacters in the cgi-bin/slogin/login.py User-Agent HTTP header.",
+    "forks_count": 0,
+    "html_url": "https://github.com/adubaldo/CVE-2021-42071",
+    "keywords": [
+        "unauthenticated user",
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-42071",
+    "repo_owner": "adubaldo",
+    "repotime": "2021-10-15, 16:08:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-09-05",
+    "date_updated": "2021-10-15",
+    "description": "A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/risacker/Vulnerable_Machine",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Vulnerable_Machine",
+    "repo_owner": "risacker",
+    "repotime": "2021-10-15, 13:07:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 20,
+    "date_started": "2016-10-26",
+    "date_updated": "2021-10-13",
+    "description": "Automated Python Code Injection Tool",
+    "forks_count": 23,
+    "html_url": "https://github.com/sethsec/PyCodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "PyCodeInjection",
+    "repo_owner": "sethsec",
+    "repotime": "2021-10-13, 14:37:25",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-10-07",
+    "date_updated": "2021-10-09",
+    "description": "Aviatrix Controller 6.x before 6.5-1804.1922. Unrestricted upload of a file which allows an unauthenticated user to execute arbitrary code via directory traversal",
+    "forks_count": 6,
+    "html_url": "https://github.com/0xAgun/CVE-2021-40870",
+    "keywords": [
+        "unrestricted file upload",
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-40870",
+    "repo_owner": "0xAgun",
+    "repotime": "2021-10-09, 12:06:47",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-10-06",
+    "date_updated": "2021-10-08",
+    "description": "Path Traversal vulnerability in Apache 2.4.49",
+    "forks_count": 1,
+    "html_url": "https://github.com/PentesterGuruji/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "PentesterGuruji",
+    "repotime": "2021-10-08, 01:09:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2017-05-30",
+    "date_updated": "2021-10-31",
+    "description": "It is a simple script to exploit RCE for Samba (CVE-2017-7494 ).",
+    "forks_count": 27,
+    "html_url": "https://github.com/brianwrf/SambaHunter",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "SambaHunter",
+    "repo_owner": "brianwrf",
+    "repotime": "2021-10-31, 15:06:25",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-25",
+    "date_updated": "2021-10-25",
+    "description": "PoC for the CVE-2021-20837 : RCE in MovableType",
+    "forks_count": 12,
+    "html_url": "https://github.com/ghost-nemesis/cve-2021-20837-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "cve-2021-20837-poc",
+    "repo_owner": "ghost-nemesis",
+    "repotime": "2021-10-25, 20:34:54",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-24",
+    "date_updated": "2021-10-24",
+    "description": "1-Project Title “Library Management System (L_I_B_R_A)” The “Library Management System” has been developed to override the problems prevailing in the practicing manual system. This software is supported to eliminate and in some cases reduce the hardship faced by this existing system. Moreover this system is designed for the particular need of the institution to carry out operating in a smooth and effective manner. 2-Domain Library management institutional management non-profitable organization. 3-Problem of Statement In our existing system all the transaction of books are done manually, so taking more time for a transaction like borrowing a book or returning a book and also for searching of member and books. Another major disadvantage is that to preparing the list of book borrowed and the available book in the library will take more time, currently it is doing as a day process for verifying all records. So after conducting he feasibility study we decided to make the manual library mana...",
+    "forks_count": 4,
+    "html_url": "https://github.com/uttkarshparmar50/LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
+    "repo_owner": "uttkarshparmar50",
+    "repotime": "2021-10-24, 18:33:25",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-10-21",
+    "date_updated": "2021-10-21",
+    "description": "Using Nmap, Dirb, Hydra, and Crack Station in order to gain access and establish a connection to the web server. Creating a PHP reverse shell payload using MSFVenom in order to create a meterpreter session on the machine and run commands in order to find the flag. Using the ELK Stack in order to identify Attacker port scan, request to hidden directories, uncovering the brute force attack, and the connection to the web server that allowed the attacker to upload the malicious PHP reverse shell payload in to | Created report on these findings and identified mitigation techniques",
+    "forks_count": 0,
+    "html_url": "https://github.com/christophernicolaus/Red_vs_Blue_Team_GT",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Red_vs_Blue_Team_GT",
+    "repo_owner": "christophernicolaus",
+    "repotime": "2021-10-21, 10:41:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 206,
+    "date_started": "2017-02-01",
+    "date_updated": "2021-10-20",
+    "description": "Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.",
+    "forks_count": 87,
+    "html_url": "https://github.com/tijme/angularjs-csti-scanner",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "Python",
+    "repo_name": "angularjs-csti-scanner",
+    "repo_owner": "tijme",
+    "repotime": "2021-10-20, 17:19:50",
+    "stargazers_count": 317,
+    "watchers_count": 317
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-03-15",
+    "date_updated": "2021-10-19",
+    "description": "ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)",
+    "forks_count": 40,
+    "html_url": "https://github.com/herwonowr/exprolog",
+    "keywords": [
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "exprolog",
+    "repo_owner": "herwonowr",
+    "repotime": "2021-10-19, 14:06:17",
+    "stargazers_count": 181,
+    "watchers_count": 181
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-10-15",
+    "date_updated": "2021-10-15",
+    "description": "In Visual Tools DVR VX16 4.2.28.0, an unauthenticated attacker can achieve remote command execution via shell metacharacters in the cgi-bin/slogin/login.py User-Agent HTTP header.",
+    "forks_count": 0,
+    "html_url": "https://github.com/adubaldo/CVE-2021-42071",
+    "keywords": [
+        "unauthenticated user",
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-42071",
+    "repo_owner": "adubaldo",
+    "repotime": "2021-10-15, 16:08:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-09-05",
+    "date_updated": "2021-10-15",
+    "description": "A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/risacker/Vulnerable_Machine",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Vulnerable_Machine",
+    "repo_owner": "risacker",
+    "repotime": "2021-10-15, 13:07:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 20,
+    "date_started": "2016-10-26",
+    "date_updated": "2021-10-13",
+    "description": "Automated Python Code Injection Tool",
+    "forks_count": 23,
+    "html_url": "https://github.com/sethsec/PyCodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "PyCodeInjection",
+    "repo_owner": "sethsec",
+    "repotime": "2021-10-13, 14:37:25",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-10-07",
+    "date_updated": "2021-10-09",
+    "description": "Aviatrix Controller 6.x before 6.5-1804.1922. Unrestricted upload of a file which allows an unauthenticated user to execute arbitrary code via directory traversal",
+    "forks_count": 6,
+    "html_url": "https://github.com/0xAgun/CVE-2021-40870",
+    "keywords": [
+        "unrestricted file upload",
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-40870",
+    "repo_owner": "0xAgun",
+    "repotime": "2021-10-09, 12:06:47",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-10-06",
+    "date_updated": "2021-10-08",
+    "description": "Path Traversal vulnerability in Apache 2.4.49",
+    "forks_count": 1,
+    "html_url": "https://github.com/PentesterGuruji/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "PentesterGuruji",
+    "repotime": "2021-10-08, 01:09:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2017-05-30",
+    "date_updated": "2021-10-31",
+    "description": "It is a simple script to exploit RCE for Samba (CVE-2017-7494 ).",
+    "forks_count": 27,
+    "html_url": "https://github.com/brianwrf/SambaHunter",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "SambaHunter",
+    "repo_owner": "brianwrf",
+    "repotime": "2021-10-31, 15:06:25",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-25",
+    "date_updated": "2021-10-25",
+    "description": "PoC for the CVE-2021-20837 : RCE in MovableType",
+    "forks_count": 12,
+    "html_url": "https://github.com/ghost-nemesis/cve-2021-20837-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "cve-2021-20837-poc",
+    "repo_owner": "ghost-nemesis",
+    "repotime": "2021-10-25, 20:34:54",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-24",
+    "date_updated": "2021-10-24",
+    "description": "1-Project Title “Library Management System (L_I_B_R_A)” The “Library Management System” has been developed to override the problems prevailing in the practicing manual system. This software is supported to eliminate and in some cases reduce the hardship faced by this existing system. Moreover this system is designed for the particular need of the institution to carry out operating in a smooth and effective manner. 2-Domain Library management institutional management non-profitable organization. 3-Problem of Statement In our existing system all the transaction of books are done manually, so taking more time for a transaction like borrowing a book or returning a book and also for searching of member and books. Another major disadvantage is that to preparing the list of book borrowed and the available book in the library will take more time, currently it is doing as a day process for verifying all records. So after conducting he feasibility study we decided to make the manual library mana...",
+    "forks_count": 4,
+    "html_url": "https://github.com/uttkarshparmar50/LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
+    "repo_owner": "uttkarshparmar50",
+    "repotime": "2021-10-24, 18:33:25",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-10-21",
+    "date_updated": "2021-10-21",
+    "description": "Using Nmap, Dirb, Hydra, and Crack Station in order to gain access and establish a connection to the web server. Creating a PHP reverse shell payload using MSFVenom in order to create a meterpreter session on the machine and run commands in order to find the flag. Using the ELK Stack in order to identify Attacker port scan, request to hidden directories, uncovering the brute force attack, and the connection to the web server that allowed the attacker to upload the malicious PHP reverse shell payload in to | Created report on these findings and identified mitigation techniques",
+    "forks_count": 0,
+    "html_url": "https://github.com/christophernicolaus/Red_vs_Blue_Team_GT",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Red_vs_Blue_Team_GT",
+    "repo_owner": "christophernicolaus",
+    "repotime": "2021-10-21, 10:41:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 206,
+    "date_started": "2017-02-01",
+    "date_updated": "2021-10-20",
+    "description": "Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.",
+    "forks_count": 87,
+    "html_url": "https://github.com/tijme/angularjs-csti-scanner",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "Python",
+    "repo_name": "angularjs-csti-scanner",
+    "repo_owner": "tijme",
+    "repotime": "2021-10-20, 17:19:50",
+    "stargazers_count": 317,
+    "watchers_count": 317
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-03-15",
+    "date_updated": "2021-10-19",
+    "description": "ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)",
+    "forks_count": 40,
+    "html_url": "https://github.com/herwonowr/exprolog",
+    "keywords": [
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "exprolog",
+    "repo_owner": "herwonowr",
+    "repotime": "2021-10-19, 14:06:17",
+    "stargazers_count": 181,
+    "watchers_count": 181
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-10-15",
+    "date_updated": "2021-10-15",
+    "description": "In Visual Tools DVR VX16 4.2.28.0, an unauthenticated attacker can achieve remote command execution via shell metacharacters in the cgi-bin/slogin/login.py User-Agent HTTP header.",
+    "forks_count": 0,
+    "html_url": "https://github.com/adubaldo/CVE-2021-42071",
+    "keywords": [
+        "unauthenticated user",
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-42071",
+    "repo_owner": "adubaldo",
+    "repotime": "2021-10-15, 16:08:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-09-05",
+    "date_updated": "2021-10-15",
+    "description": "A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/risacker/Vulnerable_Machine",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Vulnerable_Machine",
+    "repo_owner": "risacker",
+    "repotime": "2021-10-15, 13:07:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 20,
+    "date_started": "2016-10-26",
+    "date_updated": "2021-10-13",
+    "description": "Automated Python Code Injection Tool",
+    "forks_count": 23,
+    "html_url": "https://github.com/sethsec/PyCodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "PyCodeInjection",
+    "repo_owner": "sethsec",
+    "repotime": "2021-10-13, 14:37:25",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-10-07",
+    "date_updated": "2021-10-09",
+    "description": "Aviatrix Controller 6.x before 6.5-1804.1922. Unrestricted upload of a file which allows an unauthenticated user to execute arbitrary code via directory traversal",
+    "forks_count": 6,
+    "html_url": "https://github.com/0xAgun/CVE-2021-40870",
+    "keywords": [
+        "unrestricted file upload",
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-40870",
+    "repo_owner": "0xAgun",
+    "repotime": "2021-10-09, 12:06:47",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-10-06",
+    "date_updated": "2021-10-08",
+    "description": "Path Traversal vulnerability in Apache 2.4.49",
+    "forks_count": 1,
+    "html_url": "https://github.com/PentesterGuruji/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "PentesterGuruji",
+    "repotime": "2021-10-08, 01:09:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

@@ -1,0 +1,17 @@
+{
+    "commits_count": 9,
+    "date_started": "2017-09-28",
+    "date_updated": "2016-12-05",
+    "description": "This is a simple parser for/decrypter for Impacket's esentutl.py utility. It assists with decrypting hashes and hash histories from ntds.dit databases.",
+    "forks_count": 0,
+    "html_url": "https://github.com/HarmJoy/ImpDump",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "ImpDump",
+    "repo_owner": "HarmJoy",
+    "repotime": "2016-12-05, 09:26:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

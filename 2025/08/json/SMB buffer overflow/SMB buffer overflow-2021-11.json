@@ -1,0 +1,567 @@
+{
+    "commits_count": 3,
+    "date_started": "2021-11-25",
+    "date_updated": "2021-11-26",
+    "description": "A write up of a byte flip zero day vulnerability and exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/9xN/xerobyte",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "xerobyte",
+    "repo_owner": "9xN",
+    "repotime": "2021-11-26, 04:47:15",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-09-09",
+    "date_updated": "2021-11-21",
+    "description": "Bypass UAC by hijacking a DLL located in the Native Image Cache",
+    "forks_count": 47,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-11-21, 03:02:29",
+    "stargazers_count": 213,
+    "watchers_count": 213
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-11-18",
+    "date_updated": "2021-11-18",
+    "description": "Python script send Windows DLL PostreSQL UDF  SMB RCE ",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xm4ud/PostgreSQL_Windows_sendUDF_SMB",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "PostgreSQL_Windows_sendUDF_SMB",
+    "repo_owner": "0xm4ud",
+    "repotime": "2021-11-18, 16:06:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-09-05",
+    "date_updated": "2021-11-18",
+    "description": "An intentionally developed Linux vulnerable virtual machine. The main focus of this machine is to learn Linux Post Exploitation (Privilege Escalation) Techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Gitster7/Vulnerable_Machine-Linux",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Vulnerable_Machine-Linux",
+    "repo_owner": "Gitster7",
+    "repotime": "2021-11-18, 15:15:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2020-04-18",
+    "date_updated": "2021-11-13",
+    "description": "The best exploitation tool for SSL VPN 0day vulnerabilities.",
+    "forks_count": 15,
+    "html_url": "https://github.com/shelld3v/PwnVPN",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PwnVPN",
+    "repo_owner": "shelld3v",
+    "repotime": "2021-11-13, 08:48:47",
+    "stargazers_count": 81,
+    "watchers_count": 81
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-16",
+    "date_updated": "2021-11-11",
+    "description": "Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE)",
+    "forks_count": 95,
+    "html_url": "https://github.com/ly4k/CallbackHell",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CallbackHell",
+    "repo_owner": "ly4k",
+    "repotime": "2021-11-11, 18:09:56",
+    "stargazers_count": 471,
+    "watchers_count": 471
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-11-10",
+    "date_updated": "2021-11-09",
+    "description": "PHPMailer PHPMailer – A full-featured email creation and transfer class for PHP Test status codecov.io Latest Stable Version Total Downloads License API Docs  Features Probably the world's most popular code for sending email from PHP! Used by many open-source projects: WordPress, Drupal, 1CRM, SugarCRM, Yii, Joomla! and many more Integrated SMTP support – send without a local mail server Send emails with multiple To, CC, BCC and Reply-to addresses Multipart/alternative emails for mail clients that do not read HTML email Add attachments, including inline Support for UTF-8 content and 8bit, base64, binary, and quoted-printable encodings SMTP authentication with LOGIN, PLAIN, CRAM-MD5, and XOAUTH2 mechanisms over SMTPS and SMTP+STARTTLS transports Validates email addresses automatically Protects against header injection attacks Error messages in over 50 languages! DKIM and S/MIME signing support Compatible with PHP 5.5 and later, including PHP 8.1 Namespaced to prevent name clashes Much m...",
+    "forks_count": 9,
+    "html_url": "https://github.com/MateusNobreSilva/app_send_mail",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "PHP",
+    "repo_name": "app_send_mail",
+    "repo_owner": "MateusNobreSilva",
+    "repotime": "2021-11-09, 22:21:15",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 16,
+    "date_started": "2021-04-26",
+    "date_updated": "2021-11-08",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/0wa1s/BoF_MemLeak_ASLR_DEP_Bypass",
+    "keywords": [
+        "dep bypass",
+        "aslr bypass"
+    ],
+    "language": "C++",
+    "repo_name": "BoF_MemLeak_ASLR_DEP_Bypass",
+    "repo_owner": "0wa1s",
+    "repotime": "2021-11-08, 19:48:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-10-25",
+    "date_updated": "2021-11-05",
+    "description": "LPE exploit for a UAF in Windows (CVE-2021-40449).",
+    "forks_count": 15,
+    "html_url": "https://github.com/hakivvi/CVE-2021-40449",
+    "keywords": [
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows uaf exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Windows uaf exploit",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-40449",
+    "repo_owner": "hakivvi",
+    "repotime": "2021-11-05, 07:54:09",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-10-27",
+    "date_updated": "2021-11-02",
+    "description": "ASLR bypass without infoleak",
+    "forks_count": 18,
+    "html_url": "https://github.com/nick0ve/how-to-bypass-aslr-on-linux-x86_64",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "how-to-bypass-aslr-on-linux-x86_64",
+    "repo_owner": "nick0ve",
+    "repotime": "2021-11-02, 20:56:24",
+    "stargazers_count": 162,
+    "watchers_count": 162
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-11-25",
+    "date_updated": "2021-11-26",
+    "description": "A write up of a byte flip zero day vulnerability and exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/9xN/xerobyte",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "xerobyte",
+    "repo_owner": "9xN",
+    "repotime": "2021-11-26, 04:47:15",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-09-09",
+    "date_updated": "2021-11-21",
+    "description": "Bypass UAC by hijacking a DLL located in the Native Image Cache",
+    "forks_count": 47,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-11-21, 03:02:29",
+    "stargazers_count": 213,
+    "watchers_count": 213
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-11-18",
+    "date_updated": "2021-11-18",
+    "description": "Python script send Windows DLL PostreSQL UDF  SMB RCE ",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xm4ud/PostgreSQL_Windows_sendUDF_SMB",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "PostgreSQL_Windows_sendUDF_SMB",
+    "repo_owner": "0xm4ud",
+    "repotime": "2021-11-18, 16:06:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-09-05",
+    "date_updated": "2021-11-18",
+    "description": "An intentionally developed Linux vulnerable virtual machine. The main focus of this machine is to learn Linux Post Exploitation (Privilege Escalation) Techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Gitster7/Vulnerable_Machine-Linux",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Vulnerable_Machine-Linux",
+    "repo_owner": "Gitster7",
+    "repotime": "2021-11-18, 15:15:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2020-04-18",
+    "date_updated": "2021-11-13",
+    "description": "The best exploitation tool for SSL VPN 0day vulnerabilities.",
+    "forks_count": 15,
+    "html_url": "https://github.com/shelld3v/PwnVPN",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PwnVPN",
+    "repo_owner": "shelld3v",
+    "repotime": "2021-11-13, 08:48:47",
+    "stargazers_count": 81,
+    "watchers_count": 81
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-16",
+    "date_updated": "2021-11-11",
+    "description": "Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE)",
+    "forks_count": 95,
+    "html_url": "https://github.com/ly4k/CallbackHell",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CallbackHell",
+    "repo_owner": "ly4k",
+    "repotime": "2021-11-11, 18:09:56",
+    "stargazers_count": 471,
+    "watchers_count": 471
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-11-10",
+    "date_updated": "2021-11-09",
+    "description": "PHPMailer PHPMailer – A full-featured email creation and transfer class for PHP Test status codecov.io Latest Stable Version Total Downloads License API Docs  Features Probably the world's most popular code for sending email from PHP! Used by many open-source projects: WordPress, Drupal, 1CRM, SugarCRM, Yii, Joomla! and many more Integrated SMTP support – send without a local mail server Send emails with multiple To, CC, BCC and Reply-to addresses Multipart/alternative emails for mail clients that do not read HTML email Add attachments, including inline Support for UTF-8 content and 8bit, base64, binary, and quoted-printable encodings SMTP authentication with LOGIN, PLAIN, CRAM-MD5, and XOAUTH2 mechanisms over SMTPS and SMTP+STARTTLS transports Validates email addresses automatically Protects against header injection attacks Error messages in over 50 languages! DKIM and S/MIME signing support Compatible with PHP 5.5 and later, including PHP 8.1 Namespaced to prevent name clashes Much m...",
+    "forks_count": 9,
+    "html_url": "https://github.com/MateusNobreSilva/app_send_mail",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "PHP",
+    "repo_name": "app_send_mail",
+    "repo_owner": "MateusNobreSilva",
+    "repotime": "2021-11-09, 22:21:15",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 16,
+    "date_started": "2021-04-26",
+    "date_updated": "2021-11-08",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/0wa1s/BoF_MemLeak_ASLR_DEP_Bypass",
+    "keywords": [
+        "dep bypass",
+        "aslr bypass"
+    ],
+    "language": "C++",
+    "repo_name": "BoF_MemLeak_ASLR_DEP_Bypass",
+    "repo_owner": "0wa1s",
+    "repotime": "2021-11-08, 19:48:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-10-25",
+    "date_updated": "2021-11-05",
+    "description": "LPE exploit for a UAF in Windows (CVE-2021-40449).",
+    "forks_count": 15,
+    "html_url": "https://github.com/hakivvi/CVE-2021-40449",
+    "keywords": [
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows uaf exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Windows uaf exploit",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-40449",
+    "repo_owner": "hakivvi",
+    "repotime": "2021-11-05, 07:54:09",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-10-27",
+    "date_updated": "2021-11-02",
+    "description": "ASLR bypass without infoleak",
+    "forks_count": 18,
+    "html_url": "https://github.com/nick0ve/how-to-bypass-aslr-on-linux-x86_64",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "how-to-bypass-aslr-on-linux-x86_64",
+    "repo_owner": "nick0ve",
+    "repotime": "2021-11-02, 20:56:24",
+    "stargazers_count": 162,
+    "watchers_count": 162
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-11-25",
+    "date_updated": "2021-11-26",
+    "description": "A write up of a byte flip zero day vulnerability and exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/9xN/xerobyte",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "xerobyte",
+    "repo_owner": "9xN",
+    "repotime": "2021-11-26, 04:47:15",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-09-09",
+    "date_updated": "2021-11-21",
+    "description": "Bypass UAC by hijacking a DLL located in the Native Image Cache",
+    "forks_count": 47,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-11-21, 03:02:29",
+    "stargazers_count": 213,
+    "watchers_count": 213
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-11-18",
+    "date_updated": "2021-11-18",
+    "description": "Python script send Windows DLL PostreSQL UDF  SMB RCE ",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xm4ud/PostgreSQL_Windows_sendUDF_SMB",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "PostgreSQL_Windows_sendUDF_SMB",
+    "repo_owner": "0xm4ud",
+    "repotime": "2021-11-18, 16:06:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-09-05",
+    "date_updated": "2021-11-18",
+    "description": "An intentionally developed Linux vulnerable virtual machine. The main focus of this machine is to learn Linux Post Exploitation (Privilege Escalation) Techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Gitster7/Vulnerable_Machine-Linux",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Vulnerable_Machine-Linux",
+    "repo_owner": "Gitster7",
+    "repotime": "2021-11-18, 15:15:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2020-04-18",
+    "date_updated": "2021-11-13",
+    "description": "The best exploitation tool for SSL VPN 0day vulnerabilities.",
+    "forks_count": 15,
+    "html_url": "https://github.com/shelld3v/PwnVPN",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PwnVPN",
+    "repo_owner": "shelld3v",
+    "repotime": "2021-11-13, 08:48:47",
+    "stargazers_count": 81,
+    "watchers_count": 81
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-16",
+    "date_updated": "2021-11-11",
+    "description": "Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE)",
+    "forks_count": 95,
+    "html_url": "https://github.com/ly4k/CallbackHell",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CallbackHell",
+    "repo_owner": "ly4k",
+    "repotime": "2021-11-11, 18:09:56",
+    "stargazers_count": 471,
+    "watchers_count": 471
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-11-10",
+    "date_updated": "2021-11-09",
+    "description": "PHPMailer PHPMailer – A full-featured email creation and transfer class for PHP Test status codecov.io Latest Stable Version Total Downloads License API Docs  Features Probably the world's most popular code for sending email from PHP! Used by many open-source projects: WordPress, Drupal, 1CRM, SugarCRM, Yii, Joomla! and many more Integrated SMTP support – send without a local mail server Send emails with multiple To, CC, BCC and Reply-to addresses Multipart/alternative emails for mail clients that do not read HTML email Add attachments, including inline Support for UTF-8 content and 8bit, base64, binary, and quoted-printable encodings SMTP authentication with LOGIN, PLAIN, CRAM-MD5, and XOAUTH2 mechanisms over SMTPS and SMTP+STARTTLS transports Validates email addresses automatically Protects against header injection attacks Error messages in over 50 languages! DKIM and S/MIME signing support Compatible with PHP 5.5 and later, including PHP 8.1 Namespaced to prevent name clashes Much m...",
+    "forks_count": 9,
+    "html_url": "https://github.com/MateusNobreSilva/app_send_mail",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "PHP",
+    "repo_name": "app_send_mail",
+    "repo_owner": "MateusNobreSilva",
+    "repotime": "2021-11-09, 22:21:15",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 16,
+    "date_started": "2021-04-26",
+    "date_updated": "2021-11-08",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/0wa1s/BoF_MemLeak_ASLR_DEP_Bypass",
+    "keywords": [
+        "dep bypass",
+        "aslr bypass"
+    ],
+    "language": "C++",
+    "repo_name": "BoF_MemLeak_ASLR_DEP_Bypass",
+    "repo_owner": "0wa1s",
+    "repotime": "2021-11-08, 19:48:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-10-25",
+    "date_updated": "2021-11-05",
+    "description": "LPE exploit for a UAF in Windows (CVE-2021-40449).",
+    "forks_count": 15,
+    "html_url": "https://github.com/hakivvi/CVE-2021-40449",
+    "keywords": [
+        "uaf exploit",
+        "Windows uaf",
+        "uaf exploitation",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows uaf exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Windows uaf exploit",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-40449",
+    "repo_owner": "hakivvi",
+    "repotime": "2021-11-05, 07:54:09",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-10-27",
+    "date_updated": "2021-11-02",
+    "description": "ASLR bypass without infoleak",
+    "forks_count": 18,
+    "html_url": "https://github.com/nick0ve/how-to-bypass-aslr-on-linux-x86_64",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "how-to-bypass-aslr-on-linux-x86_64",
+    "repo_owner": "nick0ve",
+    "repotime": "2021-11-02, 20:56:24",
+    "stargazers_count": 162,
+    "watchers_count": 162
+}

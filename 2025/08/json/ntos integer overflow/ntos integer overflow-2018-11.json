@@ -33,3 +33,73 @@
     "stargazers_count": 30,
     "watchers_count": 30
 }
+{
+    "commits_count": 236,
+    "date_started": "2015-03-27",
+    "date_updated": "2018-11-14",
+    "description": "fimap is a little python tool which can find, prepare, audit, exploit and even google automatically for local and remote file inclusion bugs in webapps.",
+    "forks_count": 100,
+    "html_url": "https://github.com/kurobeats/fimap",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "fimap",
+    "repo_owner": "kurobeats",
+    "repotime": "2018-11-14, 20:27:58",
+    "stargazers_count": 559,
+    "watchers_count": 559
+}
+{
+    "commits_count": 36,
+    "date_started": "2018-09-12",
+    "date_updated": "2018-11-04",
+    "description": "Crascan is a simple LFI, RFI, RCE, and Joomla Components vulnerability scanner.",
+    "forks_count": 12,
+    "html_url": "https://github.com/aryanrtm/Crascan",
+    "keywords": [
+        "lfi",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "Crascan",
+    "repo_owner": "aryanrtm",
+    "repotime": "2018-11-04, 17:03:12",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 236,
+    "date_started": "2015-03-27",
+    "date_updated": "2018-11-14",
+    "description": "fimap is a little python tool which can find, prepare, audit, exploit and even google automatically for local and remote file inclusion bugs in webapps.",
+    "forks_count": 100,
+    "html_url": "https://github.com/kurobeats/fimap",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "fimap",
+    "repo_owner": "kurobeats",
+    "repotime": "2018-11-14, 20:27:58",
+    "stargazers_count": 559,
+    "watchers_count": 559
+}
+{
+    "commits_count": 36,
+    "date_started": "2018-09-12",
+    "date_updated": "2018-11-04",
+    "description": "Crascan is a simple LFI, RFI, RCE, and Joomla Components vulnerability scanner.",
+    "forks_count": 12,
+    "html_url": "https://github.com/aryanrtm/Crascan",
+    "keywords": [
+        "lfi",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "Crascan",
+    "repo_owner": "aryanrtm",
+    "repotime": "2018-11-04, 17:03:12",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}

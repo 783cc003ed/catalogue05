@@ -1,0 +1,121 @@
+{
+    "commits_count": 1,
+    "date_started": "2017-12-28",
+    "date_updated": "2017-12-28",
+    "description": "                    GNU AFFERO GENERAL PUBLIC LICENSE                        Version 3, 19 November 2007   Copyright (C) 2007 Free Software Foundation, Inc. &amp;lt;http://fsf.org/&amp;gt;  Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.                              Preamble    The GNU Affero General Public License is a free, copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the community in the case of network server software.    The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, our General Public Licenses are intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.    When we speak of free software, we are referring to freedom, not price.  Our General Public Licenses are designed to make sure that...",
+    "forks_count": 2,
+    "html_url": "https://github.com/minecraft77/blk-stealthspider",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "blk-stealthspider",
+    "repo_owner": "minecraft77",
+    "repotime": "2017-12-28, 11:26:27",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 313,
+    "date_started": "2015-10-02",
+    "date_updated": "2017-12-22",
+    "description": "SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.",
+    "forks_count": 74,
+    "html_url": "https://github.com/bcoles/ssrf_proxy",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Ruby",
+    "repo_name": "ssrf_proxy",
+    "repo_owner": "bcoles",
+    "repotime": "2017-12-22, 12:56:31",
+    "stargazers_count": 474,
+    "watchers_count": 474
+}
+{
+    "commits_count": 1,
+    "date_started": "2017-12-21",
+    "date_updated": "2017-12-21",
+    "description": "                     GNU AFFERO GENERAL PUBLIC LICENSE                        Version 3, 19 November 2007   Copyright (C) 2007 Free Software Foundation, Inc. &amp;lt;http://fsf.org/&amp;gt;  Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.                              Preamble    The GNU Affero General Public License is a free, copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the community in the case of network server software.    The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, our General Public Licenses are intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.    When we speak of free software, we are referring to freedom, not price.  Our General Public Licenses are designed to make sure tha...",
+    "forks_count": 2,
+    "html_url": "https://github.com/vulcoo/gunbot1",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "gunbot1",
+    "repo_owner": "vulcoo",
+    "repotime": "2017-12-21, 09:50:21",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 66,
+    "date_started": "2017-11-16",
+    "date_updated": "2017-12-19",
+    "description": "This project houses all of the jquery written on top of an award application (our General Operating Support grant application) hosted by FluidReview. While FluidReview is a great drag-and-drop application builder, it lacks some out-of-the-box customization. The platform allows the builder to drop in a javascript box. The javascript box only applies to that application page (so, if a form has multiple pages, you'll need each page to have the javascript box dropped in). More about the javascript box here: https://fluidreview.zendesk.com/hc/en-us/articles/115002494634-JavaScript-Question. This project includes edited how a table appears (a 3D Matrix question in FluidReview), adding in custom validation on form inputs (for phone numbers, currency, registered Missouri Business number, etc.), and adding in calculations in the 990 worksheet table. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/avattt/fluidreview-jquery",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "fluidreview-jquery",
+    "repo_owner": "avattt",
+    "repotime": "2017-12-19, 13:54:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2017-12-19",
+    "date_updated": "2017-12-19",
+    "description": "Simple development DNS server written in python",
+    "forks_count": 10,
+    "html_url": "https://github.com/sensepost/dnserver",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "dnserver",
+    "repo_owner": "sensepost",
+    "repotime": "2017-12-19, 16:24:16",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 5,
+    "date_started": "2015-05-12",
+    "date_updated": "2017-12-18",
+    "description": "Win32k LPE vulnerability used in APT attack",
+    "forks_count": 176,
+    "html_url": "https://github.com/hfiref0x/CVE-2015-1701",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2015-1701",
+    "repo_owner": "hfiref0x",
+    "repotime": "2017-12-18, 21:11:23",
+    "stargazers_count": 289,
+    "watchers_count": 289
+}
+{
+    "commits_count": 2,
+    "date_started": "2017-12-08",
+    "date_updated": "2017-12-09",
+    "description": "CVE-2018-4343: Proof-of-concept for a use-after-free in the GSSCred daemon on macOS and iOS.",
+    "forks_count": 2,
+    "html_url": "https://github.com/bazad/gsscred-move-uaf",
+    "keywords": [
+        "uaf proof of concept",
+        "use after free proof of concept"
+    ],
+    "language": "C",
+    "repo_name": "gsscred-move-uaf",
+    "repo_owner": "bazad",
+    "repotime": "2017-12-09, 15:23:33",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}

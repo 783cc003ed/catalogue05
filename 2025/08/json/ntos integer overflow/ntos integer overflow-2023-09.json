@@ -143,3 +143,293 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 354,
+    "date_started": "2019-09-17",
+    "date_updated": "2023-09-28",
+    "description": "This software allows you to perform a deauth attack with an ESP8266 against selected networks. The ESP8266 is a cheap and easy to use Wi-Fi SoC (System-on-a-Chip), programmable with the Arduino IDE. With this software flashed onto it, you can select a target network and start different attacks.  The deauth attack will, if the connection is vulnerable, disconnect the devices from the network. Because the attack is running constantly, the devices will be disconnected again and again. Depending on the network, that can either block a connection or slow it down.  The difference between deauthing and jamming: WiFi Jammers vs Deauthers | What's The Difference?  Other attacks also have been implemented, such as beacon and probe request flooding.  The deauth attack works by exploiting an old and known vulnerability in the 802.11 Wi-Fi protocol. Because these deauthentication frames, usually used to close a Wi-Fi connection safely, are unencrypted, it's very easy to spoof them. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/dfalt0/NodeMCU-ESP8266",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "NodeMCU-ESP8266",
+    "repo_owner": "dfalt0",
+    "repotime": "2023-09-28, 02:37:33",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 64,
+    "date_started": "2023-07-25",
+    "date_updated": "2023-09-26",
+    "description": "This paper discusses the vulnerabilities and risks associated with session management in network security, particularly session hijacking. The project aimed to explore the techniques and countermeasures related to session hijacking to raise awareness and promote better security practices.",
+    "forks_count": 0,
+    "html_url": "https://github.com/prasannakumar227/SmartBridgeTeam-2.4",
+    "keywords": [
+        "session hijacking vulnerability",
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "SmartBridgeTeam-2.4",
+    "repo_owner": "prasannakumar227",
+    "repotime": "2023-09-26, 01:49:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 55,
+    "date_started": "2020-08-13",
+    "date_updated": "2023-09-16",
+    "description": "An exquisite dns&amp;amp;http log server for verify SSRF/XXE/RFI/RCE vulnerability ",
+    "forks_count": 74,
+    "html_url": "https://github.com/chennqqi/godnslog",
+    "keywords": [
+        "rce vulnerability",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "godnslog",
+    "repo_owner": "chennqqi",
+    "repotime": "2023-09-16, 22:39:13",
+    "stargazers_count": 473,
+    "watchers_count": 473
+}
+{
+    "commits_count": 378,
+    "date_started": "2022-04-07",
+    "date_updated": "2023-09-12",
+    "description": "各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新",
+    "forks_count": 858,
+    "html_url": "https://github.com/helloexp/0day",
+    "keywords": [
+        "0day exploit",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day",
+    "repo_owner": "helloexp",
+    "repotime": "2023-09-12, 08:57:05",
+    "stargazers_count": 2199,
+    "watchers_count": 2199
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-01-10",
+    "date_updated": "2023-09-11",
+    "description": "You can receive notifications about new exploits.",
+    "forks_count": 0,
+    "html_url": "https://github.com/OverPotter/0dayNotice",
+    "keywords": [
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "0dayNotice",
+    "repo_owner": "OverPotter",
+    "repotime": "2023-09-11, 14:49:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 250,
+    "date_started": "2017-10-31",
+    "date_updated": "2023-09-11",
+    "description": "the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&amp;amp;java scripts, device memory extraction, data decryption, and encryption, etc. ",
+    "forks_count": 550,
+    "html_url": "https://github.com/charles2gan/GDA-android-reversing-Tool",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "GDA-android-reversing-Tool",
+    "repo_owner": "charles2gan",
+    "repotime": "2023-09-11, 12:59:51",
+    "stargazers_count": 4523,
+    "watchers_count": 4523
+}
+{
+    "commits_count": 18,
+    "date_started": "2020-04-03",
+    "date_updated": "2023-09-02",
+    "description": "A WordPress MU plugin that prevents brute force attacks by limiting the number of failed login attempts during a browser session.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dashifen/wp-mu-plugin-anti-brute-squad",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "wp-mu-plugin-anti-brute-squad",
+    "repo_owner": "dashifen",
+    "repotime": "2023-09-02, 11:50:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-09-02",
+    "date_updated": "2023-09-02",
+    "description": "FOR EDUCATIONAL PURPOSES ONLY - DO NOT USE MALICIOUSLY. This python script utilises a buffer overflow vulnerability in Winamp v5.5732 to a gain reverse shell, allowing the attacker to conduct Remote Code Execution (RCE) on the target machine",
+    "forks_count": 0,
+    "html_url": "https://github.com/SimonHalabi/Winamp-Buffer-Overflow-Exploit",
+    "keywords": [
+        "Win remote code execution",
+        "Win rce exploit",
+        "Win remote code execution exploit",
+        "Win rce",
+        "Win rce vulnerability",
+        "Win remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Winamp-Buffer-Overflow-Exploit",
+    "repo_owner": "SimonHalabi",
+    "repotime": "2023-09-02, 21:13:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 354,
+    "date_started": "2019-09-17",
+    "date_updated": "2023-09-28",
+    "description": "This software allows you to perform a deauth attack with an ESP8266 against selected networks. The ESP8266 is a cheap and easy to use Wi-Fi SoC (System-on-a-Chip), programmable with the Arduino IDE. With this software flashed onto it, you can select a target network and start different attacks.  The deauth attack will, if the connection is vulnerable, disconnect the devices from the network. Because the attack is running constantly, the devices will be disconnected again and again. Depending on the network, that can either block a connection or slow it down.  The difference between deauthing and jamming: WiFi Jammers vs Deauthers | What's The Difference?  Other attacks also have been implemented, such as beacon and probe request flooding.  The deauth attack works by exploiting an old and known vulnerability in the 802.11 Wi-Fi protocol. Because these deauthentication frames, usually used to close a Wi-Fi connection safely, are unencrypted, it's very easy to spoof them. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/dfalt0/NodeMCU-ESP8266",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "NodeMCU-ESP8266",
+    "repo_owner": "dfalt0",
+    "repotime": "2023-09-28, 02:37:33",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 64,
+    "date_started": "2023-07-25",
+    "date_updated": "2023-09-26",
+    "description": "This paper discusses the vulnerabilities and risks associated with session management in network security, particularly session hijacking. The project aimed to explore the techniques and countermeasures related to session hijacking to raise awareness and promote better security practices.",
+    "forks_count": 0,
+    "html_url": "https://github.com/prasannakumar227/SmartBridgeTeam-2.4",
+    "keywords": [
+        "session hijacking vulnerability",
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "SmartBridgeTeam-2.4",
+    "repo_owner": "prasannakumar227",
+    "repotime": "2023-09-26, 01:49:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 55,
+    "date_started": "2020-08-13",
+    "date_updated": "2023-09-16",
+    "description": "An exquisite dns&amp;amp;http log server for verify SSRF/XXE/RFI/RCE vulnerability ",
+    "forks_count": 74,
+    "html_url": "https://github.com/chennqqi/godnslog",
+    "keywords": [
+        "rce vulnerability",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "godnslog",
+    "repo_owner": "chennqqi",
+    "repotime": "2023-09-16, 22:39:13",
+    "stargazers_count": 473,
+    "watchers_count": 473
+}
+{
+    "commits_count": 378,
+    "date_started": "2022-04-07",
+    "date_updated": "2023-09-12",
+    "description": "各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新",
+    "forks_count": 858,
+    "html_url": "https://github.com/helloexp/0day",
+    "keywords": [
+        "0day exploit",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day",
+    "repo_owner": "helloexp",
+    "repotime": "2023-09-12, 08:57:05",
+    "stargazers_count": 2199,
+    "watchers_count": 2199
+}
+{
+    "commits_count": 11,
+    "date_started": "2023-01-10",
+    "date_updated": "2023-09-11",
+    "description": "You can receive notifications about new exploits.",
+    "forks_count": 0,
+    "html_url": "https://github.com/OverPotter/0dayNotice",
+    "keywords": [
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "0dayNotice",
+    "repo_owner": "OverPotter",
+    "repotime": "2023-09-11, 14:49:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 250,
+    "date_started": "2017-10-31",
+    "date_updated": "2023-09-11",
+    "description": "the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&amp;amp;java scripts, device memory extraction, data decryption, and encryption, etc. ",
+    "forks_count": 551,
+    "html_url": "https://github.com/charles2gan/GDA-android-reversing-Tool",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "GDA-android-reversing-Tool",
+    "repo_owner": "charles2gan",
+    "repotime": "2023-09-11, 12:59:51",
+    "stargazers_count": 4532,
+    "watchers_count": 4532
+}
+{
+    "commits_count": 18,
+    "date_started": "2020-04-03",
+    "date_updated": "2023-09-02",
+    "description": "A WordPress MU plugin that prevents brute force attacks by limiting the number of failed login attempts during a browser session.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dashifen/wp-mu-plugin-anti-brute-squad",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "wp-mu-plugin-anti-brute-squad",
+    "repo_owner": "dashifen",
+    "repotime": "2023-09-02, 11:50:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-09-02",
+    "date_updated": "2023-09-02",
+    "description": "FOR EDUCATIONAL PURPOSES ONLY - DO NOT USE MALICIOUSLY. This python script utilises a buffer overflow vulnerability in Winamp v5.5732 to a gain reverse shell, allowing the attacker to conduct Remote Code Execution (RCE) on the target machine",
+    "forks_count": 0,
+    "html_url": "https://github.com/SimonHalabi/Winamp-Buffer-Overflow-Exploit",
+    "keywords": [
+        "Win remote code execution",
+        "Win rce exploit",
+        "Win remote code execution exploit",
+        "Win rce",
+        "Win rce vulnerability",
+        "Win remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Winamp-Buffer-Overflow-Exploit",
+    "repo_owner": "SimonHalabi",
+    "repotime": "2023-09-02, 21:13:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

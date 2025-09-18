@@ -1,0 +1,86 @@
+{
+    "commits_count": 4,
+    "date_started": "2023-11-16",
+    "date_updated": "2023-11-23",
+    "description": "LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
+    "forks_count": 12,
+    "html_url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
+    "keywords": [
+        "lpe vulnerability",
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "io_uring_LPE-CVE-2023-2598",
+    "repo_owner": "ysanatomic",
+    "repotime": "2023-11-23, 20:36:52",
+    "stargazers_count": 92,
+    "watchers_count": 92
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-11-22",
+    "date_updated": "2023-11-22",
+    "description": "A toy, C&amp;&#35;35; Cobalt Strike Beacon TCP to Named Pipe Frame Proxy",
+    "forks_count": 0,
+    "html_url": "https://github.com/sensepost/beacon-pipe-frame-proxy",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "C#",
+    "repo_name": "beacon-pipe-frame-proxy",
+    "repo_owner": "sensepost",
+    "repotime": "2023-11-22, 12:46:25",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-11-17",
+    "date_updated": "2023-11-17",
+    "description": "I've created a login &amp;amp; registration page using HTML,CSS and javascript. It includes input validation and shows error messages on wrong inputs",
+    "forks_count": 0,
+    "html_url": "https://github.com/Waliya451/login-registeration",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "login-registeration",
+    "repo_owner": "Waliya451",
+    "repotime": "2023-11-17, 20:41:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 59,
+    "date_started": "2023-02-14",
+    "date_updated": "2023-11-07",
+    "description": "A simple tutorial on how to do reverse engineer and code injection on AMI BIOSes (Legacy)",
+    "forks_count": 12,
+    "html_url": "https://github.com/Theldus/AMI_BIOS_CodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "AMI_BIOS_CodeInjection",
+    "repo_owner": "Theldus",
+    "repotime": "2023-11-07, 17:29:05",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-10-31",
+    "date_updated": "2023-11-01",
+    "description": "Executing EXE Files From Memory",
+    "forks_count": 2,
+    "html_url": "https://github.com/IntelSDM/PEFromMemory",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C++",
+    "repo_name": "PEFromMemory",
+    "repo_owner": "IntelSDM",
+    "repotime": "2023-11-01, 15:57:06",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}

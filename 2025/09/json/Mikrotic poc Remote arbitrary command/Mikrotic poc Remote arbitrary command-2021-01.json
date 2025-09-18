@@ -1,0 +1,175 @@
+{
+    "commits_count": 13,
+    "date_started": "2020-03-28",
+    "date_updated": "2021-01-29",
+    "description": "Umbraco CMS 7.12.4 - (Authenticated) Remote Code Execution",
+    "forks_count": 39,
+    "html_url": "https://github.com/noraj/Umbraco-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "remote code execution exploit",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Umbraco-RCE",
+    "repo_owner": "noraj",
+    "repotime": "2021-01-29, 10:11:29",
+    "stargazers_count": 75,
+    "watchers_count": 75
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-01-26",
+    "date_updated": "2021-01-26",
+    "description": "SonicWall SSL-VPN RCE",
+    "forks_count": 5,
+    "html_url": "https://github.com/Al1ex/SonicWall",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "SonicWall",
+    "repo_owner": "Al1ex",
+    "repotime": "2021-01-26, 21:44:41",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 38,
+    "date_started": "2021-01-07",
+    "date_updated": "2021-01-24",
+    "description": "Remote Code Execution vulnerability on ArcSight Logger",
+    "forks_count": 1,
+    "html_url": "https://github.com/ch1nghz/CVE-2020-11851",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-11851",
+    "repo_owner": "ch1nghz",
+    "repotime": "2021-01-24, 13:28:07",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 221,
+    "date_started": "2020-03-05",
+    "date_updated": "2021-01-11",
+    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "forks_count": 42,
+    "html_url": "https://github.com/hash3liZer/evilginx2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Go",
+    "repo_name": "evilginx2",
+    "repo_owner": "hash3liZer",
+    "repotime": "2021-01-11, 13:08:23",
+    "stargazers_count": 114,
+    "watchers_count": 114
+}
+{
+    "commits_count": 25,
+    "date_started": "2020-12-20",
+    "date_updated": "2021-01-08",
+    "description": "A useful tool for tracking native (C++) memory leakage in Windows 10 environment (support both x86 and x64)",
+    "forks_count": 0,
+    "html_url": "https://github.com/avipreshel/CLI-Native-Leak-Detector",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "CLI-Native-Leak-Detector",
+    "repo_owner": "avipreshel",
+    "repotime": "2021-01-08, 17:18:58",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-05-25",
+    "date_updated": "2021-01-07",
+    "description": "OS command injection 0-day exploits for Jeff the eGod's APIs",
+    "forks_count": 2,
+    "html_url": "https://github.com/5l1v3r1/CTW-Auth-API-0day",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": null,
+    "repo_name": "CTW-Auth-API-0day",
+    "repo_owner": "5l1v3r1",
+    "repotime": "2021-01-07, 09:21:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-01-06",
+    "date_updated": "2021-01-06",
+    "description": "Blind spot is a python tool for blind injection vulnerabilities , SQLi time based , Command injection , code injection , SSTI",
+    "forks_count": 14,
+    "html_url": "https://github.com/zeronine9/Blind_SPOT",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "Blind_SPOT",
+    "repo_owner": "zeronine9",
+    "repotime": "2021-01-06, 12:52:35",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 10,
+    "date_started": "2018-08-20",
+    "date_updated": "2021-01-04",
+    "description": "LFI (Local File Inclusion) Exploitation Tool",
+    "forks_count": 6,
+    "html_url": "https://github.com/BoxingOctopusCreative/toxin",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "toxin",
+    "repo_owner": "BoxingOctopusCreative",
+    "repotime": "2021-01-04, 15:23:31",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 7,
+    "date_started": "2018-01-28",
+    "date_updated": "2021-01-04",
+    "description": "Cheatsheet to exploit and learn SQL Injection.",
+    "forks_count": 52,
+    "html_url": "https://github.com/AdmiralGaust/SQL-Injection-cheat-sheet",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL-Injection-cheat-sheet",
+    "repo_owner": "AdmiralGaust",
+    "repotime": "2021-01-04, 14:20:02",
+    "stargazers_count": 140,
+    "watchers_count": 140
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-12-25",
+    "date_updated": "2021-01-01",
+    "description": "Unrestricted File Upload in Gym Management Software 1.0",
+    "forks_count": 0,
+    "html_url": "https://github.com/mazdafunsunn/gym-management-unrestricted-upload",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "gym-management-unrestricted-upload",
+    "repo_owner": "mazdafunsunn",
+    "repotime": "2021-01-01, 15:05:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

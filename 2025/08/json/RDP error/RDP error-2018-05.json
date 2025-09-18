@@ -104,3 +104,215 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 49,
+    "date_started": "2016-04-13",
+    "date_updated": "2018-05-30",
+    "description": "Aggressor scripts for use with Cobalt Strike 3.0+",
+    "forks_count": 164,
+    "html_url": "https://github.com/bluscreenofjeff/AggressorScripts",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": null,
+    "repo_name": "AggressorScripts",
+    "repo_owner": "bluscreenofjeff",
+    "repotime": "2018-05-30, 15:20:21",
+    "stargazers_count": 837,
+    "watchers_count": 837
+}
+{
+    "commits_count": 10,
+    "date_started": "2018-05-19",
+    "date_updated": "2018-05-30",
+    "description": "CVE-2018-8120 Windows LPE exploit",
+    "forks_count": 191,
+    "html_url": "https://github.com/rip1s/CVE-2018-8120",
+    "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows lpe exploitation",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2018-8120",
+    "repo_owner": "rip1s",
+    "repotime": "2018-05-30, 21:09:52",
+    "stargazers_count": 499,
+    "watchers_count": 499
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-05-24",
+    "date_updated": "2018-05-24",
+    "description": "Tool for exploiting SQL injection vulnerabilities that sqlmap can't find.",
+    "forks_count": 25,
+    "html_url": "https://github.com/lanmaster53/sqli-exploiter",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqli-exploiter",
+    "repo_owner": "lanmaster53",
+    "repotime": "2018-05-24, 12:36:37",
+    "stargazers_count": 96,
+    "watchers_count": 96
+}
+{
+    "commits_count": 9,
+    "date_started": "2018-04-30",
+    "date_updated": "2018-05-18",
+    "description": "Simple XXE test suite generated specifically for SAML interfaces",
+    "forks_count": 9,
+    "html_url": "https://github.com/RUB-NDS/SAML-XXE-Test",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "SAML-XXE-Test",
+    "repo_owner": "RUB-NDS",
+    "repotime": "2018-05-18, 15:26:51",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-05-11",
+    "date_updated": "2018-05-11",
+    "description": "This example shows how to implement a Client side and Server Side to face XSS attacks. (Using CSRF token method - Synchronized way) ",
+    "forks_count": 0,
+    "html_url": "https://github.com/prmanu58/Cross-Site-Request-forgery-protection-in-web-applications-via-Synchroniser-Token-Patterns",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "PHP",
+    "repo_name": "Cross-Site-Request-forgery-protection-in-web-applications-via-Synchroniser-Token-Patterns",
+    "repo_owner": "prmanu58",
+    "repotime": "2018-05-11, 21:02:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-05-01",
+    "date_updated": "2018-05-10",
+    "description": "Prototype for Memory Leak for proof of concept ",
+    "forks_count": 0,
+    "html_url": "https://github.com/notgodzilla/memory-leak-rough-prototype-renpy",
+    "keywords": [
+        "memory leak proof of concept"
+    ],
+    "language": "Ren'Py",
+    "repo_name": "memory-leak-rough-prototype-renpy",
+    "repo_owner": "notgodzilla",
+    "repotime": "2018-05-10, 03:38:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 49,
+    "date_started": "2016-04-13",
+    "date_updated": "2018-05-30",
+    "description": "Aggressor scripts for use with Cobalt Strike 3.0+",
+    "forks_count": 164,
+    "html_url": "https://github.com/bluscreenofjeff/AggressorScripts",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": null,
+    "repo_name": "AggressorScripts",
+    "repo_owner": "bluscreenofjeff",
+    "repotime": "2018-05-30, 15:20:21",
+    "stargazers_count": 837,
+    "watchers_count": 837
+}
+{
+    "commits_count": 10,
+    "date_started": "2018-05-19",
+    "date_updated": "2018-05-30",
+    "description": "CVE-2018-8120 Windows LPE exploit",
+    "forks_count": 191,
+    "html_url": "https://github.com/rip1s/CVE-2018-8120",
+    "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows lpe exploitation",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2018-8120",
+    "repo_owner": "rip1s",
+    "repotime": "2018-05-30, 21:09:52",
+    "stargazers_count": 499,
+    "watchers_count": 499
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-05-24",
+    "date_updated": "2018-05-24",
+    "description": "Tool for exploiting SQL injection vulnerabilities that sqlmap can't find.",
+    "forks_count": 25,
+    "html_url": "https://github.com/lanmaster53/sqli-exploiter",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqli-exploiter",
+    "repo_owner": "lanmaster53",
+    "repotime": "2018-05-24, 12:36:37",
+    "stargazers_count": 96,
+    "watchers_count": 96
+}
+{
+    "commits_count": 9,
+    "date_started": "2018-04-30",
+    "date_updated": "2018-05-18",
+    "description": "Simple XXE test suite generated specifically for SAML interfaces",
+    "forks_count": 9,
+    "html_url": "https://github.com/RUB-NDS/SAML-XXE-Test",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "SAML-XXE-Test",
+    "repo_owner": "RUB-NDS",
+    "repotime": "2018-05-18, 15:26:51",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-05-11",
+    "date_updated": "2018-05-11",
+    "description": "This example shows how to implement a Client side and Server Side to face XSS attacks. (Using CSRF token method - Synchronized way) ",
+    "forks_count": 0,
+    "html_url": "https://github.com/prmanu58/Cross-Site-Request-forgery-protection-in-web-applications-via-Synchroniser-Token-Patterns",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "PHP",
+    "repo_name": "Cross-Site-Request-forgery-protection-in-web-applications-via-Synchroniser-Token-Patterns",
+    "repo_owner": "prmanu58",
+    "repotime": "2018-05-11, 21:02:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-05-01",
+    "date_updated": "2018-05-10",
+    "description": "Prototype for Memory Leak for proof of concept ",
+    "forks_count": 0,
+    "html_url": "https://github.com/notgodzilla/memory-leak-rough-prototype-renpy",
+    "keywords": [
+        "memory leak proof of concept"
+    ],
+    "language": "Ren'Py",
+    "repo_name": "memory-leak-rough-prototype-renpy",
+    "repo_owner": "notgodzilla",
+    "repotime": "2018-05-10, 03:38:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

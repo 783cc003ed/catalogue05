@@ -1,0 +1,39 @@
+{
+    "commits_count": 17,
+    "date_started": "2021-03-14",
+    "date_updated": "2022-04-23",
+    "description": "RCE exploit for Microsoft Exchange Server (CVE-2021-26855).",
+    "forks_count": 6,
+    "html_url": "https://github.com/hakivvi/proxylogon",
+    "keywords": [
+        "Microsoft rce exploitation",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "proxylogon",
+    "repo_owner": "hakivvi",
+    "repotime": "2022-04-23, 03:21:44",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 45,
+    "date_started": "2019-12-12",
+    "date_updated": "2022-04-14",
+    "description": "RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX.",
+    "forks_count": 85,
+    "html_url": "https://github.com/noperator/CVE-2019-18935",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-18935",
+    "repo_owner": "noperator",
+    "repotime": "2022-04-14, 14:23:38",
+    "stargazers_count": 361,
+    "watchers_count": 361
+}

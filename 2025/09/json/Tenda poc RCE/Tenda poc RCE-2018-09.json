@@ -1,0 +1,79 @@
+{
+    "commits_count": 24,
+    "date_started": "2018-09-11",
+    "date_updated": "2018-09-28",
+    "description": "Windows10 &amp;amp; Windows Server 2016 LPE Exploit (use schedsvc!SchRpcSetSecurity())",
+    "forks_count": 54,
+    "html_url": "https://github.com/alpha1ab/Win2016LPE",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe exploit",
+        "Win lpe exploitation",
+        "Windows lpe",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Win lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Win2016LPE",
+    "repo_owner": "alpha1ab",
+    "repotime": "2018-09-28, 13:28:59",
+    "stargazers_count": 102,
+    "watchers_count": 102
+}
+{
+    "commits_count": 12,
+    "date_started": "2018-09-10",
+    "date_updated": "2018-09-12",
+    "description": "A PowerShell example of the Windows zero day priv esc",
+    "forks_count": 86,
+    "html_url": "https://github.com/OneLogicalMyth/zeroday-powershell",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": "PowerShell",
+    "repo_name": "zeroday-powershell",
+    "repo_owner": "OneLogicalMyth",
+    "repotime": "2018-09-12, 10:03:03",
+    "stargazers_count": 326,
+    "watchers_count": 326
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-09-10",
+    "date_updated": "2018-09-10",
+    "description": "Simple poc of CVE-2018-8353 Microsoft Scripting Engine Use After Free",
+    "forks_count": 3,
+    "html_url": "https://github.com/whereisr0da/CVE-2018-8353-POC",
+    "keywords": [
+        "Microsoft use after free poc",
+        "use after free poc",
+        "Microsoft use after free"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2018-8353-POC",
+    "repo_owner": "whereisr0da",
+    "repotime": "2018-09-10, 19:32:48",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 33,
+    "date_started": "2018-03-13",
+    "date_updated": "2018-09-06",
+    "description": "Repo for FUZE project. I will also publish some Linux kernel LPE exploits for various real world kernel vulnerabilities here. the samples are uploaded for education purposes for red and blue teams.",
+    "forks_count": 111,
+    "html_url": "https://github.com/ww9210/Linux_kernel_exploits",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Linux_kernel_exploits",
+    "repo_owner": "ww9210",
+    "repotime": "2018-09-06, 20:02:34",
+    "stargazers_count": 498,
+    "watchers_count": 498
+}

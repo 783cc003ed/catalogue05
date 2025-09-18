@@ -1,0 +1,47 @@
+{
+    "commits_count": 159,
+    "date_started": "2019-03-12",
+    "date_updated": "2020-06-07",
+    "description": "Creating a secure heap allocator resistant to use after free vulnerabilities. Inspired by the Cling allocator paper",
+    "forks_count": 0,
+    "html_url": "https://github.com/mattmccreesh/sHeap",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "TeX",
+    "repo_name": "sHeap",
+    "repo_owner": "mattmccreesh",
+    "repotime": "2020-06-07, 15:25:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2019-06-11",
+    "date_updated": "2020-06-02",
+    "description": "Some personal exploits/pocs",
+    "forks_count": 18,
+    "html_url": "https://github.com/dhn/exploits",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce poc",
+        "Windows lpe poc",
+        "Windows lpe exploit",
+        "Windows rce poc",
+        "rce exploit",
+        "Windows rce",
+        "Windows lpe",
+        "Windows rce exploit",
+        "lpe poc",
+        "rce exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "exploits",
+    "repo_owner": "dhn",
+    "repotime": "2020-06-02, 07:51:10",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}

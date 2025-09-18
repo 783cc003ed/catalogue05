@@ -155,3 +155,317 @@
     "stargazers_count": 322,
     "watchers_count": 322
 }
+{
+    "commits_count": 58,
+    "date_started": "2020-04-25",
+    "date_updated": "2023-07-30",
+    "description": "SQL Injection / SQL инъекциа - Hacking and bypass",
+    "forks_count": 18,
+    "html_url": "https://github.com/KhetaguriDimitri/SQL-Injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL-Injection",
+    "repo_owner": "KhetaguriDimitri",
+    "repotime": "2023-07-30, 20:47:24",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-07-30",
+    "date_updated": "2023-07-30",
+    "description": "Telnet Session Hijacking &amp;amp; Command Injection Tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xP1ckl3d/TelJack",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "TelJack",
+    "repo_owner": "0xP1ckl3d",
+    "repotime": "2023-07-30, 10:03:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 541,
+    "date_started": "2013-10-21",
+    "date_updated": "2023-07-28",
+    "description": "Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns",
+    "forks_count": 420,
+    "html_url": "https://github.com/v3n0m-Scanner/V3n0M-Scanner",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "V3n0M-Scanner",
+    "repo_owner": "v3n0m-Scanner",
+    "repotime": "2023-07-28, 15:05:27",
+    "stargazers_count": 1526,
+    "watchers_count": 1526
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-24",
+    "date_updated": "2023-07-24",
+    "description": "A comprehensive website vulnerability scanner script, built in Python, which checks for various vulnerabilities like SQL Injection, XSS, Command Injection, LFI, HTTP verb tampering, File Upload vulnerabilities, Session Fixation, HTTP Parameter Pollution, IDOR, Directory Traversal, and CORS Misconfiguration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mylesgamez/Python-Website-Vulnerability-Scanner",
+    "keywords": [
+        "directory traversal vulnerability",
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Python-Website-Vulnerability-Scanner",
+    "repo_owner": "mylesgamez",
+    "repotime": "2023-07-24, 15:41:23",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-07-20",
+    "date_updated": "2023-07-20",
+    "description": "Secure Blog System - The aim of this project is to create a secure web-based blog system that mitigates the five most common security vulnerabilities: account enumeration, session hijacking, SQL injection, cross-site scripting, and cross-site request forgery. This project will utilize Node.js and related technologies.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AgneBielia/Secure-Blog-Project",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Secure-Blog-Project",
+    "repo_owner": "AgneBielia",
+    "repotime": "2023-07-20, 15:49:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-05-03",
+    "date_updated": "2023-07-18",
+    "description": "Lesson plan with demo application detailing exploitation of server-side template injection to achieve remote-code execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/limsammy/flask-rce-ssti-poc-lesson",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "flask-rce-ssti-poc-lesson",
+    "repo_owner": "limsammy",
+    "repotime": "2023-07-18, 17:30:30",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-04-06",
+    "date_updated": "2023-07-07",
+    "description": "GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept)",
+    "forks_count": 3,
+    "html_url": "https://github.com/Avento/CVE-2023-0669",
+    "keywords": [
+        "rce proof of concept",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-0669",
+    "repo_owner": "Avento",
+    "repotime": "2023-07-07, 18:42:46",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-07-07",
+    "date_updated": "2023-07-07",
+    "description": "Lab untuk belajar beberapa vulnerability (XSS, SQLi, IDOR, Commmand Injection, XXE, File Inclusion, Unrestricted File Upload, CSRF, Insecure Deserialization, Broken Authentication)",
+    "forks_count": 0,
+    "html_url": "https://github.com/ak4l3r3/CyberLab",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "CSS",
+    "repo_name": "CyberLab",
+    "repo_owner": "ak4l3r3",
+    "repotime": "2023-07-07, 14:15:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2022-04-22",
+    "date_updated": "2023-07-05",
+    "description": "一个漏洞利用工具仓库",
+    "forks_count": 77,
+    "html_url": "https://github.com/Threekiii/Awesome-Exploit",
+    "keywords": [
+        "rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "Awesome-Exploit",
+    "repo_owner": "Threekiii",
+    "repotime": "2023-07-05, 09:49:54",
+    "stargazers_count": 322,
+    "watchers_count": 322
+}
+{
+    "commits_count": 58,
+    "date_started": "2020-04-25",
+    "date_updated": "2023-07-30",
+    "description": "SQL Injection / SQL инъекциа - Hacking and bypass",
+    "forks_count": 18,
+    "html_url": "https://github.com/KhetaguriDimitri/SQL-Injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL-Injection",
+    "repo_owner": "KhetaguriDimitri",
+    "repotime": "2023-07-30, 20:47:24",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-07-30",
+    "date_updated": "2023-07-30",
+    "description": "Telnet Session Hijacking &amp;amp; Command Injection Tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xP1ckl3d/TelJack",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "TelJack",
+    "repo_owner": "0xP1ckl3d",
+    "repotime": "2023-07-30, 10:03:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 541,
+    "date_started": "2013-10-21",
+    "date_updated": "2023-07-28",
+    "description": "Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns",
+    "forks_count": 419,
+    "html_url": "https://github.com/v3n0m-Scanner/V3n0M-Scanner",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "V3n0M-Scanner",
+    "repo_owner": "v3n0m-Scanner",
+    "repotime": "2023-07-28, 15:05:27",
+    "stargazers_count": 1534,
+    "watchers_count": 1534
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-24",
+    "date_updated": "2023-07-24",
+    "description": "A comprehensive website vulnerability scanner script, built in Python, which checks for various vulnerabilities like SQL Injection, XSS, Command Injection, LFI, HTTP verb tampering, File Upload vulnerabilities, Session Fixation, HTTP Parameter Pollution, IDOR, Directory Traversal, and CORS Misconfiguration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mylesgamez/Python-Website-Vulnerability-Scanner",
+    "keywords": [
+        "directory traversal vulnerability",
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Python-Website-Vulnerability-Scanner",
+    "repo_owner": "mylesgamez",
+    "repotime": "2023-07-24, 15:41:23",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-07-20",
+    "date_updated": "2023-07-20",
+    "description": "Secure Blog System - The aim of this project is to create a secure web-based blog system that mitigates the five most common security vulnerabilities: account enumeration, session hijacking, SQL injection, cross-site scripting, and cross-site request forgery. This project will utilize Node.js and related technologies.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AgneBielia/Secure-Blog-Project",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Secure-Blog-Project",
+    "repo_owner": "AgneBielia",
+    "repotime": "2023-07-20, 15:49:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-05-03",
+    "date_updated": "2023-07-18",
+    "description": "Lesson plan with demo application detailing exploitation of server-side template injection to achieve remote-code execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/limsammy/flask-rce-ssti-poc-lesson",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "flask-rce-ssti-poc-lesson",
+    "repo_owner": "limsammy",
+    "repotime": "2023-07-18, 17:30:30",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-04-06",
+    "date_updated": "2023-07-07",
+    "description": "GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept)",
+    "forks_count": 3,
+    "html_url": "https://github.com/Avento/CVE-2023-0669",
+    "keywords": [
+        "rce proof of concept",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-0669",
+    "repo_owner": "Avento",
+    "repotime": "2023-07-07, 18:42:46",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-07-07",
+    "date_updated": "2023-07-07",
+    "description": "Lab untuk belajar beberapa vulnerability (XSS, SQLi, IDOR, Commmand Injection, XXE, File Inclusion, Unrestricted File Upload, CSRF, Insecure Deserialization, Broken Authentication)",
+    "forks_count": 0,
+    "html_url": "https://github.com/ak4l3r3/CyberLab",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "CSS",
+    "repo_name": "CyberLab",
+    "repo_owner": "ak4l3r3",
+    "repotime": "2023-07-07, 14:15:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2022-04-22",
+    "date_updated": "2023-07-05",
+    "description": "一个漏洞利用工具仓库",
+    "forks_count": 77,
+    "html_url": "https://github.com/Threekiii/Awesome-Exploit",
+    "keywords": [
+        "rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "Awesome-Exploit",
+    "repo_owner": "Threekiii",
+    "repotime": "2023-07-05, 09:49:54",
+    "stargazers_count": 322,
+    "watchers_count": 322
+}

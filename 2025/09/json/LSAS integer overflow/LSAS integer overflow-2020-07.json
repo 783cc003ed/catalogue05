@@ -1,0 +1,54 @@
+{
+    "commits_count": 7,
+    "date_started": "2020-07-02",
+    "date_updated": "2020-07-25",
+    "description": "Exploit sample bypassing stack canary and ASLR on x86/x86_64",
+    "forks_count": 0,
+    "html_url": "https://github.com/emb-team/shell-exploit",
+    "keywords": [
+        "aslr bypass",
+        "aslr bypass exploit",
+        "aslr bypass exploitation"
+    ],
+    "language": "C",
+    "repo_name": "shell-exploit",
+    "repo_owner": "emb-team",
+    "repotime": "2020-07-25, 15:18:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2688,
+    "date_started": "2019-09-11",
+    "date_updated": "2020-07-04",
+    "description": "Mouse Payload Loader (MPL) is a post exploitation surveillance tool written in Python, C and Objective-C. It gives you a command line session with extra functionality between you and a target machine with simple MPL payload. MPL gives you the power and convenience of uploading/downloading files, tab completion, taking pictures, location tracking, shell command execution, persistence, escalating privileges, password retrieval, and much more.",
+    "forks_count": 73,
+    "html_url": "https://github.com/fengjixuchui/mouse",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "Python",
+    "repo_name": "mouse",
+    "repo_owner": "fengjixuchui",
+    "repotime": "2020-07-04, 16:50:32",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-06-02",
+    "date_updated": "2020-07-02",
+    "description": "<no description>",
+    "forks_count": 349,
+    "html_url": "https://github.com/chompie1337/SMBGhost_RCE_PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "SMBGhost_RCE_PoC",
+    "repo_owner": "chompie1337",
+    "repotime": "2020-07-02, 13:49:21",
+    "stargazers_count": 1359,
+    "watchers_count": 1359
+}

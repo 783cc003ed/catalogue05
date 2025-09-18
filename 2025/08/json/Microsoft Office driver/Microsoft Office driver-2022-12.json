@@ -1,0 +1,3642 @@
+{
+    "commits_count": 2,
+    "date_started": "2022-12-31",
+    "date_updated": "2022-12-31",
+    "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the user mode layer, where an unprivileged regular user can cause an out-of-bounds write, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34671",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "Windows escalation of privileges vulnerability",
+        "Windows escalation of privileges denial of service",
+        "Windows escalation of privileges disclosure",
+        "Windows escalation of privileges",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34671",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-31, 17:42:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-31",
+    "date_updated": "2022-12-31",
+    "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the user mode layer, where an unprivileged regular user can access or modify system files or other files that are critical to the application, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34669",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "Windows escalation of privileges vulnerability",
+        "Windows escalation of privileges denial of service",
+        "Windows escalation of privileges disclosure",
+        "Windows escalation of privileges",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34669",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-31, 17:41:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "PrinterLogic Windows Client through 25.0.0.676 allows attackers to execute directory traversal. Authenticated users with prior knowledge of the driver filename could exploit this to escalate privileges or distribute malicious content. This issue has been resolved in PrinterLogic Windows Client 25.0.0688 and all affecte CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32427",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Windows escalation of privileges exploit",
+        "directory traversal attack",
+        "Windows escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32427",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 01:33:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-30",
+    "description": "A memory leak flaw was found in the Linux kernel in acrn_dev_ioctl in the drivers/virt/acrn/hsm.c function in how the ACRN Device Model emulates virtual NICs in VM. This flaw allows a local privileged attacker to leak unauthorized kernel information, causing a denial of service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-1651",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-1651",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 00:01:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A use after free vulnerability in iva_ctl driver prior to SMR Sep-2022 Release 1 allows attacker to cause memory access fault. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36855",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36855",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:22:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Use after free vulnerability in sdp_mm_set_process_sensitive function of sdpmm driver prior to SMR Sep-2022 Release 1 allows attackers to perform malicious actions. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36849",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36849",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:21:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Use after free vulnerability in mtp_send_signal function of MTP driver prior to SMR Sep-2022 Release 1 allows attackers to perform malicious actions. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36847",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36847",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:21:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver Privileged I/O Write IRPs functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause increased privileges. Using the IRP 0x9c40a0e0 gives a low privilege user direct access to the OUT instruction that is completely unrest CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13514",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13514",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver IRP 0x9c40a148 functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause an adversary to obtain elevated privileges. An attacker can send a malicious IRP to trigger this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13515",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13515",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver IRP 0x9c402088 functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause increased privileges. An attacker can send a malicious IRP to trigger this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13519",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13519",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver Privileged I/O Write IRPs functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause increased privileges. Using the IRP 0x9c40a0d8 gives a low privilege user direct access to the OUT instruction that is completely unrest CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13512",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13512",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver Privileged I/O Write IRPs functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause increased privileges. Using the IRP 0x9c40a0dc gives a low privilege user direct access to the OUT instruction that is completely unrest CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13513",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13513",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "An issue was discovered in WSO2 Enterprise Integrator 6.4.0. A Reflected Cross-Site Scripting (XSS) vulnerability has been identified in the Management Console under /carbon/ndatasource/validateconnection/ajaxprocessor.jsp via the driver parameter. Session hijacking or similar attacks would not be possible. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39810",
+    "keywords": [
+        "session hijacking vulnerability",
+        "session hijacking attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39810",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 20:31:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A use-after-free(UAF) vulnerability was found in function 'vmw_execbuf_tie_context' in drivers/gpu/vmxgfx/vmxgfx_execbuf.c in Linux kernel's vmwgfx driver with device file '/dev/dri/renderD128 (or Dxxx)'. This flaw allows a local attacker with a user account on the system to gain privilege, causing a denial of service( CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-40133",
+    "keywords": [
+        "uaf vulnerability",
+        "uaf denial of service",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-40133",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 20:30:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A use-after-free(UAF) vulnerability was found in function 'vmw_cmd_res_check' in drivers/gpu/vmxgfx/vmxgfx_execbuf.c in Linux kernel's vmwgfx driver with device file '/dev/dri/renderD128 (or Dxxx)'. This flaw allows a local attacker with a user account on the system to gain privilege, causing a denial of service(DoS). CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38457",
+    "keywords": [
+        "uaf vulnerability",
+        "uaf denial of service",
+        "use after free denial of service",
+        "use after free dos",
+        "uaf dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38457",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:57:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34726, CVE-2022-34730, CVE-2022-34732, CVE-2022-34734. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34727",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34727",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:49:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34727, CVE-2022-34730, CVE-2022-34732, CVE-2022-34734. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34726",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34726",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:49:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "An issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. An SMM callout vulnerability in the SMM driver in UsbLegacyControlSmm leads to possible arbitrary code execution in SMM and escalation of privileges. An attacker could overwrite the function pointers in the EFI_BOOT_SERVICES table before the USB S CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-35408",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-35408",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 14:22:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "QEMU before 2.0.0 block drivers for CLOOP, QCOW2 version 2 and various other image formats are vulnerable to potential memory corruptions, integer/buffer overflows or crash caused by missing input validations which could allow a remote user to execute arbitrary code on the host with the privileges of the QEMU process. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2014-0144",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2014-0144",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 11:33:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A memory leak flaw was found in the Linux kernel in the ccp_run_aes_gcm_cmd() function in drivers/crypto/ccp/ccp-ops.c, which allows attackers to cause a denial of service (memory consumption). This vulnerability is similar with the older CVE-2019-18808. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-3744",
+    "keywords": [
+        "memory leak denial of service",
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-3744",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 09:23:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A use after free vulnerability in perf-mgr driver prior to SMR Oct-2022 Release 1 allows attacker to cause memory access fault. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39853",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39853",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 07:58:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Use after free vulnerability in set_nft_pid and signal_handler function of NFC driver prior to SMR Oct-2022 Release 1 allows attackers to perform malicious actions. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39847",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39847",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 07:21:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38040",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38040",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 06:39:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Windows CD-ROM File System Driver Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38044",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38044",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 06:35:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot ext4_mount function, where Insufficient validation of untrusted data may allow a highly privileged local attacker to cause an integer overflow. This difficult-to-exploit vulnerability may lead to code execution, escalation of privileges, limited d CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-28197",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-28197",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 05:19:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot ext4_read_file function, where insufficient validation of untrusted data may allow a highly privileged local attacker to cause a integer overflow, which may lead to code execution, escalation of privileges, limited denial of service, and some impa CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-28195",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-28195",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 05:14:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A vulnerability classified as problematic was found in Linux Kernel. This vulnerability affects the function macvlan_handle_frame of the file drivers/net/macvlan.c of the component skb. The manipulation leads to memory leak. The attack can be initiated remotely. It is recommended to apply a patch to fix this issue. The CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3526",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3526",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 03:13:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA Tegra kernel driver contains a vulnerability in NVIDIA NVDEC, where a user with high privileges might be able to read from or write to a memory location that is outside the intended boundary of the buffer, which may lead to denial of service, Information disclosure, loss of Integrity, or possible escalation of p CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-34402",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges disclosure",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-34402",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 00:24:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-29",
+    "description": "A vulnerability was found in Linux Kernel and classified as problematic. Affected by this issue is the function rlb_arp_xmit of the file drivers/net/bonding/bond_alb.c of the component IPsec. The manipulation leads to memory leak. It is recommended to apply a patch to fix this issue. The identifier of this vulnerabilit CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3624",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3624",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 00:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A buffer overflow vulnerability exists in the razermouse driver of OpenRazer up to version v3.3.0 allows attackers to cause a Denial of Service (DoS) and possibly escalate their privileges via a crafted buffer sent to the matrix_custom_frame device. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-29023",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-29023",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:34:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A buffer overflow vulnerability exists in the razeraccessory driver of OpenRazer up to version v3.3.0 allows attackers to cause a Denial of Service (DoS) and possibly escalate their privileges via a crafted buffer sent to the matrix_custom_frame device. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-29022",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-29022",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:34:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A buffer overflow vulnerability exists in the razerkbd driver of OpenRazer up to version v3.3.0 allows attackers to cause a Denial of Service (DoS) and possibly escalate their privileges via a crafted buffer sent to the matrix_custom_frame device. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-29021",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-29021",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:34:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The Arm Mali GPU kernel driver allows privilege escalation or a denial of service (memory corruption) because an unprivileged user can achieve read/write access to read-only pages. This affects Bifrost r0p0 through r29p0 before r30p0, Valhall r19p0 through r29p0 before r30p0, and Midgard r8p0 through r30p0 before r31p0 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-28664",
+    "keywords": [
+        "escalation of privileges denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-28664",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:33:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "drivers/block/floppy.c in the Linux kernel before 5.17.6 is vulnerable to a denial of service, because of a concurrency use-after-free flaw after deallocating raw_cmd in the raw_cmd_ioctl function. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-33981",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-33981",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 14:01:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the i2400m_op_rfkill_sw_toggle() function in drivers/net/wimax/i2400m/op-rfkill.c in the Linux kernel before 5.3.11 allows attackers to cause a denial of service (memory consumption), aka CID-6f3ef5c25cc7. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19051",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19051",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:59:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Two memory leaks in the v3d_submit_cl_ioctl() function in drivers/gpu/drm/v3d/v3d_gem.c in the Linux kernel before 5.3.11 allow attackers to cause a denial of service (memory consumption) by triggering kcalloc() or v3d_job_init() failures, aka CID-29cd13cfd762. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19044",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19044",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:59:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Two memory leaks in the mwifiex_pcie_init_evt_ring() function in drivers/net/wireless/marvell/mwifiex/pcie.c in the Linux kernel through 5.3.11 allow attackers to cause a denial of service (memory consumption) by triggering mwifiex_map_pci_memory() failures, aka CID-d10dcb615c8e. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19057",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19057",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:59:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the rpmsg_eptdev_write_iter() function in drivers/rpmsg/rpmsg_char.c in the Linux kernel through 5.3.11 allows attackers to cause a denial of service (memory consumption) by triggering copy_from_iter_full() failures, aka CID-bbe692e349e2. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19053",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19053",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:58:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Two memory leaks in the rtl_usb_probe() function in drivers/net/wireless/realtek/rtlwifi/usb.c in the Linux kernel through 5.3.11 allow attackers to cause a denial of service (memory consumption), aka CID-3f9361695113. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19063",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19063",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:57:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the gs_can_open() function in drivers/net/can/usb/gs_usb.c in the Linux kernel before 5.3.11 allows attackers to cause a denial of service (memory consumption) by triggering usb_submit_urb() failures, aka CID-fb5be6a7b486. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19052",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19052",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:21:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the adis_update_scan_mode_burst() function in drivers/iio/imu/adis_buffer.c in the Linux kernel before 5.3.9 allows attackers to cause a denial of service (memory consumption), aka CID-9c0530e898f3. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19061",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19061",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:21:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the adis_update_scan_mode() function in drivers/iio/imu/adis_buffer.c in the Linux kernel before 5.3.9 allows attackers to cause a denial of service (memory consumption), aka CID-ab612b1daf41. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19060",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19060",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:21:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the cx23888_ir_probe() function in drivers/media/pci/cx23885/cx23888-ir.c in the Linux kernel through 5.3.11 allows attackers to cause a denial of service (memory consumption) by triggering kfifo_alloc() failures, aka CID-a7b2df76b42b. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19054",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19054",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:20:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Improper input validation in the API for Intel(R) Graphics Driver versions before 26.20.100.7209 may allow an authenticated user to potentially enable denial of service via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-14591",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-14591",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:57:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-41047. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-41048",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-41048",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:13:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-41048. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-41047",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-41047",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:13:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34726, CVE-2022-34727, CVE-2022-34730, CVE-2022-34732. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34734",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34734",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:09:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34726, CVE-2022-34727, CVE-2022-34730, CVE-2022-34734. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34732",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34732",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:09:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34726, CVE-2022-34727, CVE-2022-34732, CVE-2022-34734. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34730",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34730",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:09:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Uncontrolled search path in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36380",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36380",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 09:51:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Unquoted search path in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36384",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36384",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 09:51:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Path traversal in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36400",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36400",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 09:51:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Incorrect default permissions in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36377",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36377",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 09:51:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in an optional D-Bus configuration file, where a local user with basic capabilities can impact protected D-Bus endpoints, which may lead to code execution, denial of service, escalation of privileges, information disclosure, and data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-31608",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges disclosure",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-31608",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:55:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys), where a local user with basic capabilities can cause an out-of-bounds read, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-31617",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "Windows escalation of privileges vulnerability",
+        "Windows escalation of privileges denial of service",
+        "Windows escalation of privileges disclosure",
+        "Windows escalation of privileges",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-31617",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:17:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where a local user with basic capabilities can cause improper input validation, which may lead to denial of service, escalation of privileges, data tampering, and limited information disclosure. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-31607",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges disclosure",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-31607",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:17:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys), where a local user with basic capabilities can cause an out-of-bounds write, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-31610",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "Windows escalation of privileges vulnerability",
+        "Windows escalation of privileges denial of service",
+        "Windows escalation of privileges disclosure",
+        "Windows escalation of privileges",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-31610",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:17:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "An issue was discovered in the Linux kernel before 5.0.7. A NULL pointer dereference can occur when megasas_create_frame_pool() fails in megasas_alloc_cmds() in drivers/scsi/megaraid/megaraid_sas_base.c. This causes a Denial of Service, related to a use-after-free. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-11810",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-11810",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 02:13:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-28",
+    "description": "OpenRazer is an open source driver and user-space daemon to control Razer device lighting and other features on GNU/Linux. Using a modified USB device an attacker can leak stack addresses of the `razer_attr_read_dpi_stages`, potentially bypassing KASLR. To exploit this vulnerability an attacker would need to access to  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-23467",
+    "keywords": [
+        "address leak vulnerability",
+        "address leak exploit",
+        "address leak exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-23467",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 00:02:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "In audio driver, there is a use after free due to a race condition. This could lead to local denial of service in kernel. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39134",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39134",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 23:23:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "In npu driver, there is a memory corruption due to a use after free. This could lead to local denial of service in kernel. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42754",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42754",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 23:23:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "The xc2028_set_config function in drivers/media/tuners/tuner-xc2028.c in the Linux kernel before 4.6 allows local users to gain privileges or cause a denial of service (use-after-free) via vectors involving omission of the firmware name from a certain data structure. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-7913",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-7913",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 21:14:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable double fetch vulnerability exists in the SboxDrv.sys driver functionality of Invincea-X 6.1.3-24058. A specially crafted input buffer and race condition can result in kernel memory corruption, which could result in privilege escalation. An attacker needs to execute a special application locally to trigge CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-9038",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-9038",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 18:37:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "A use-after-free vulnerability was found in the Linux kernel in drivers/net/hamradio. This flaw allows a local attacker with a user privilege to cause a denial of service (DOS) when the mkiss or sixpack device is detached and reclaim resources early. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-1195",
+    "keywords": [
+        "use after free denial of service",
+        "use after free dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-1195",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 17:56:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Memory corruption in i2c buses due to improper input validation while reading address configuration from i2c driver in Snapdragon Mobile, Snapdragon Wearables CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-25697",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-25697",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 17:13:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "In the Linux kernel before 5.1.6, there is a use-after-free in cpia2_exit() in drivers/media/usb/cpia2/cpia2_v4l.c that will cause denial of service, aka CID-dea37a972655. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19966",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19966",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 13:50:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "A vulnerability has been found in Linux Kernel and classified as critical. Affected by this vulnerability is the function area_cache_get of the file drivers/net/ethernet/netronome/nfp/nfpcore/nfp_cppcore.c of the component IPsec. The manipulation leads to use after free. It is recommended to apply a patch to fix this i CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3545",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3545",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 11:01:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 23,
+    "date_started": "2022-08-17",
+    "date_updated": "2022-12-24",
+    "description": "CVE-2022-42046 Proof of Concept of wfshbr64.sys local privilege escalation via DKOM",
+    "forks_count": 26,
+    "html_url": "https://github.com/kkent030315/CVE-2022-42046",
+    "keywords": [
+        "escalation of privileges proof of concept"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2022-42046",
+    "repo_owner": "kkent030315",
+    "repotime": "2022-12-24, 19:24:58",
+    "stargazers_count": 162,
+    "watchers_count": 162
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-31",
+    "date_updated": "2022-12-31",
+    "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the user mode layer, where an unprivileged regular user can cause an out-of-bounds write, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34671",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "Windows escalation of privileges vulnerability",
+        "Windows escalation of privileges denial of service",
+        "Windows escalation of privileges disclosure",
+        "Windows escalation of privileges",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34671",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-31, 17:42:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-31",
+    "date_updated": "2022-12-31",
+    "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the user mode layer, where an unprivileged regular user can access or modify system files or other files that are critical to the application, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34669",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "Windows escalation of privileges vulnerability",
+        "Windows escalation of privileges denial of service",
+        "Windows escalation of privileges disclosure",
+        "Windows escalation of privileges",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34669",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-31, 17:41:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "PrinterLogic Windows Client through 25.0.0.676 allows attackers to execute directory traversal. Authenticated users with prior knowledge of the driver filename could exploit this to escalate privileges or distribute malicious content. This issue has been resolved in PrinterLogic Windows Client 25.0.0688 and all affecte CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32427",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Windows escalation of privileges exploit",
+        "directory traversal attack",
+        "Windows escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32427",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 01:33:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-30",
+    "description": "A memory leak flaw was found in the Linux kernel in acrn_dev_ioctl in the drivers/virt/acrn/hsm.c function in how the ACRN Device Model emulates virtual NICs in VM. This flaw allows a local privileged attacker to leak unauthorized kernel information, causing a denial of service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-1651",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-1651",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 00:01:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A use after free vulnerability in iva_ctl driver prior to SMR Sep-2022 Release 1 allows attacker to cause memory access fault. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36855",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36855",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:22:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Use after free vulnerability in sdp_mm_set_process_sensitive function of sdpmm driver prior to SMR Sep-2022 Release 1 allows attackers to perform malicious actions. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36849",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36849",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:21:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Use after free vulnerability in mtp_send_signal function of MTP driver prior to SMR Sep-2022 Release 1 allows attackers to perform malicious actions. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36847",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36847",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:21:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver Privileged I/O Write IRPs functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause increased privileges. Using the IRP 0x9c40a0e0 gives a low privilege user direct access to the OUT instruction that is completely unrest CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13514",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13514",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver IRP 0x9c40a148 functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause an adversary to obtain elevated privileges. An attacker can send a malicious IRP to trigger this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13515",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13515",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver IRP 0x9c402088 functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause increased privileges. An attacker can send a malicious IRP to trigger this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13519",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13519",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver Privileged I/O Write IRPs functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause increased privileges. Using the IRP 0x9c40a0d8 gives a low privilege user direct access to the OUT instruction that is completely unrest CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13512",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13512",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver Privileged I/O Write IRPs functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause increased privileges. Using the IRP 0x9c40a0dc gives a low privilege user direct access to the OUT instruction that is completely unrest CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13513",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13513",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "An issue was discovered in WSO2 Enterprise Integrator 6.4.0. A Reflected Cross-Site Scripting (XSS) vulnerability has been identified in the Management Console under /carbon/ndatasource/validateconnection/ajaxprocessor.jsp via the driver parameter. Session hijacking or similar attacks would not be possible. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39810",
+    "keywords": [
+        "session hijacking vulnerability",
+        "session hijacking attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39810",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 20:31:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A use-after-free(UAF) vulnerability was found in function 'vmw_execbuf_tie_context' in drivers/gpu/vmxgfx/vmxgfx_execbuf.c in Linux kernel's vmwgfx driver with device file '/dev/dri/renderD128 (or Dxxx)'. This flaw allows a local attacker with a user account on the system to gain privilege, causing a denial of service( CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-40133",
+    "keywords": [
+        "uaf vulnerability",
+        "uaf denial of service",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-40133",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 20:30:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A use-after-free(UAF) vulnerability was found in function 'vmw_cmd_res_check' in drivers/gpu/vmxgfx/vmxgfx_execbuf.c in Linux kernel's vmwgfx driver with device file '/dev/dri/renderD128 (or Dxxx)'. This flaw allows a local attacker with a user account on the system to gain privilege, causing a denial of service(DoS). CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38457",
+    "keywords": [
+        "uaf vulnerability",
+        "uaf denial of service",
+        "use after free denial of service",
+        "use after free dos",
+        "uaf dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38457",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:57:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34726, CVE-2022-34730, CVE-2022-34732, CVE-2022-34734. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34727",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34727",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:49:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34727, CVE-2022-34730, CVE-2022-34732, CVE-2022-34734. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34726",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34726",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:49:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "An issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. An SMM callout vulnerability in the SMM driver in UsbLegacyControlSmm leads to possible arbitrary code execution in SMM and escalation of privileges. An attacker could overwrite the function pointers in the EFI_BOOT_SERVICES table before the USB S CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-35408",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-35408",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 14:22:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "QEMU before 2.0.0 block drivers for CLOOP, QCOW2 version 2 and various other image formats are vulnerable to potential memory corruptions, integer/buffer overflows or crash caused by missing input validations which could allow a remote user to execute arbitrary code on the host with the privileges of the QEMU process. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2014-0144",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2014-0144",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 11:33:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A memory leak flaw was found in the Linux kernel in the ccp_run_aes_gcm_cmd() function in drivers/crypto/ccp/ccp-ops.c, which allows attackers to cause a denial of service (memory consumption). This vulnerability is similar with the older CVE-2019-18808. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-3744",
+    "keywords": [
+        "memory leak denial of service",
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-3744",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 09:23:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A use after free vulnerability in perf-mgr driver prior to SMR Oct-2022 Release 1 allows attacker to cause memory access fault. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39853",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39853",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 07:58:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Use after free vulnerability in set_nft_pid and signal_handler function of NFC driver prior to SMR Oct-2022 Release 1 allows attackers to perform malicious actions. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39847",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39847",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 07:21:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38040",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38040",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 06:39:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Windows CD-ROM File System Driver Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38044",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38044",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 06:35:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot ext4_mount function, where Insufficient validation of untrusted data may allow a highly privileged local attacker to cause an integer overflow. This difficult-to-exploit vulnerability may lead to code execution, escalation of privileges, limited d CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-28197",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-28197",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 05:19:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot ext4_read_file function, where insufficient validation of untrusted data may allow a highly privileged local attacker to cause a integer overflow, which may lead to code execution, escalation of privileges, limited denial of service, and some impa CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-28195",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-28195",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 05:14:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A vulnerability classified as problematic was found in Linux Kernel. This vulnerability affects the function macvlan_handle_frame of the file drivers/net/macvlan.c of the component skb. The manipulation leads to memory leak. The attack can be initiated remotely. It is recommended to apply a patch to fix this issue. The CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3526",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3526",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 03:13:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA Tegra kernel driver contains a vulnerability in NVIDIA NVDEC, where a user with high privileges might be able to read from or write to a memory location that is outside the intended boundary of the buffer, which may lead to denial of service, Information disclosure, loss of Integrity, or possible escalation of p CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-34402",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges disclosure",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-34402",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 00:24:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-29",
+    "description": "A vulnerability was found in Linux Kernel and classified as problematic. Affected by this issue is the function rlb_arp_xmit of the file drivers/net/bonding/bond_alb.c of the component IPsec. The manipulation leads to memory leak. It is recommended to apply a patch to fix this issue. The identifier of this vulnerabilit CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3624",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3624",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 00:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A buffer overflow vulnerability exists in the razermouse driver of OpenRazer up to version v3.3.0 allows attackers to cause a Denial of Service (DoS) and possibly escalate their privileges via a crafted buffer sent to the matrix_custom_frame device. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-29023",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-29023",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:34:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A buffer overflow vulnerability exists in the razeraccessory driver of OpenRazer up to version v3.3.0 allows attackers to cause a Denial of Service (DoS) and possibly escalate their privileges via a crafted buffer sent to the matrix_custom_frame device. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-29022",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-29022",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:34:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A buffer overflow vulnerability exists in the razerkbd driver of OpenRazer up to version v3.3.0 allows attackers to cause a Denial of Service (DoS) and possibly escalate their privileges via a crafted buffer sent to the matrix_custom_frame device. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-29021",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-29021",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:34:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The Arm Mali GPU kernel driver allows privilege escalation or a denial of service (memory corruption) because an unprivileged user can achieve read/write access to read-only pages. This affects Bifrost r0p0 through r29p0 before r30p0, Valhall r19p0 through r29p0 before r30p0, and Midgard r8p0 through r30p0 before r31p0 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-28664",
+    "keywords": [
+        "escalation of privileges denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-28664",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:33:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "drivers/block/floppy.c in the Linux kernel before 5.17.6 is vulnerable to a denial of service, because of a concurrency use-after-free flaw after deallocating raw_cmd in the raw_cmd_ioctl function. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-33981",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-33981",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 14:01:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the i2400m_op_rfkill_sw_toggle() function in drivers/net/wimax/i2400m/op-rfkill.c in the Linux kernel before 5.3.11 allows attackers to cause a denial of service (memory consumption), aka CID-6f3ef5c25cc7. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19051",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19051",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:59:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Two memory leaks in the v3d_submit_cl_ioctl() function in drivers/gpu/drm/v3d/v3d_gem.c in the Linux kernel before 5.3.11 allow attackers to cause a denial of service (memory consumption) by triggering kcalloc() or v3d_job_init() failures, aka CID-29cd13cfd762. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19044",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19044",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:59:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Two memory leaks in the mwifiex_pcie_init_evt_ring() function in drivers/net/wireless/marvell/mwifiex/pcie.c in the Linux kernel through 5.3.11 allow attackers to cause a denial of service (memory consumption) by triggering mwifiex_map_pci_memory() failures, aka CID-d10dcb615c8e. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19057",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19057",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:59:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the rpmsg_eptdev_write_iter() function in drivers/rpmsg/rpmsg_char.c in the Linux kernel through 5.3.11 allows attackers to cause a denial of service (memory consumption) by triggering copy_from_iter_full() failures, aka CID-bbe692e349e2. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19053",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19053",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:58:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Two memory leaks in the rtl_usb_probe() function in drivers/net/wireless/realtek/rtlwifi/usb.c in the Linux kernel through 5.3.11 allow attackers to cause a denial of service (memory consumption), aka CID-3f9361695113. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19063",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19063",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:57:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the gs_can_open() function in drivers/net/can/usb/gs_usb.c in the Linux kernel before 5.3.11 allows attackers to cause a denial of service (memory consumption) by triggering usb_submit_urb() failures, aka CID-fb5be6a7b486. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19052",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19052",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:21:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the adis_update_scan_mode_burst() function in drivers/iio/imu/adis_buffer.c in the Linux kernel before 5.3.9 allows attackers to cause a denial of service (memory consumption), aka CID-9c0530e898f3. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19061",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19061",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:21:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the adis_update_scan_mode() function in drivers/iio/imu/adis_buffer.c in the Linux kernel before 5.3.9 allows attackers to cause a denial of service (memory consumption), aka CID-ab612b1daf41. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19060",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19060",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:21:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the cx23888_ir_probe() function in drivers/media/pci/cx23885/cx23888-ir.c in the Linux kernel through 5.3.11 allows attackers to cause a denial of service (memory consumption) by triggering kfifo_alloc() failures, aka CID-a7b2df76b42b. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19054",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19054",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:20:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Improper input validation in the API for Intel(R) Graphics Driver versions before 26.20.100.7209 may allow an authenticated user to potentially enable denial of service via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-14591",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-14591",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:57:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-41047. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-41048",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-41048",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:13:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-41048. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-41047",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-41047",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:13:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34726, CVE-2022-34727, CVE-2022-34730, CVE-2022-34732. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34734",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34734",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:09:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34726, CVE-2022-34727, CVE-2022-34730, CVE-2022-34734. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34732",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34732",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:09:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34726, CVE-2022-34727, CVE-2022-34732, CVE-2022-34734. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34730",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34730",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:09:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Uncontrolled search path in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36380",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36380",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 09:51:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Unquoted search path in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36384",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36384",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 09:51:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Path traversal in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36400",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36400",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 09:51:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Incorrect default permissions in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36377",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36377",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 09:51:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in an optional D-Bus configuration file, where a local user with basic capabilities can impact protected D-Bus endpoints, which may lead to code execution, denial of service, escalation of privileges, information disclosure, and data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-31608",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges disclosure",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-31608",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:55:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys), where a local user with basic capabilities can cause an out-of-bounds read, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-31617",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "Windows escalation of privileges vulnerability",
+        "Windows escalation of privileges denial of service",
+        "Windows escalation of privileges disclosure",
+        "Windows escalation of privileges",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-31617",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:17:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where a local user with basic capabilities can cause improper input validation, which may lead to denial of service, escalation of privileges, data tampering, and limited information disclosure. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-31607",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges disclosure",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-31607",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:17:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys), where a local user with basic capabilities can cause an out-of-bounds write, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-31610",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "Windows escalation of privileges vulnerability",
+        "Windows escalation of privileges denial of service",
+        "Windows escalation of privileges disclosure",
+        "Windows escalation of privileges",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-31610",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:17:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "An issue was discovered in the Linux kernel before 5.0.7. A NULL pointer dereference can occur when megasas_create_frame_pool() fails in megasas_alloc_cmds() in drivers/scsi/megaraid/megaraid_sas_base.c. This causes a Denial of Service, related to a use-after-free. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-11810",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-11810",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 02:13:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-28",
+    "description": "OpenRazer is an open source driver and user-space daemon to control Razer device lighting and other features on GNU/Linux. Using a modified USB device an attacker can leak stack addresses of the `razer_attr_read_dpi_stages`, potentially bypassing KASLR. To exploit this vulnerability an attacker would need to access to  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-23467",
+    "keywords": [
+        "address leak vulnerability",
+        "address leak exploit",
+        "address leak exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-23467",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 00:02:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "In audio driver, there is a use after free due to a race condition. This could lead to local denial of service in kernel. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39134",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39134",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 23:23:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "In npu driver, there is a memory corruption due to a use after free. This could lead to local denial of service in kernel. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42754",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42754",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 23:23:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "The xc2028_set_config function in drivers/media/tuners/tuner-xc2028.c in the Linux kernel before 4.6 allows local users to gain privileges or cause a denial of service (use-after-free) via vectors involving omission of the firmware name from a certain data structure. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-7913",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-7913",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 21:14:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable double fetch vulnerability exists in the SboxDrv.sys driver functionality of Invincea-X 6.1.3-24058. A specially crafted input buffer and race condition can result in kernel memory corruption, which could result in privilege escalation. An attacker needs to execute a special application locally to trigge CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-9038",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-9038",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 18:37:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "A use-after-free vulnerability was found in the Linux kernel in drivers/net/hamradio. This flaw allows a local attacker with a user privilege to cause a denial of service (DOS) when the mkiss or sixpack device is detached and reclaim resources early. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-1195",
+    "keywords": [
+        "use after free denial of service",
+        "use after free dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-1195",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 17:56:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Memory corruption in i2c buses due to improper input validation while reading address configuration from i2c driver in Snapdragon Mobile, Snapdragon Wearables CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-25697",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-25697",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 17:13:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "In the Linux kernel before 5.1.6, there is a use-after-free in cpia2_exit() in drivers/media/usb/cpia2/cpia2_v4l.c that will cause denial of service, aka CID-dea37a972655. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19966",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19966",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 13:50:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "A vulnerability has been found in Linux Kernel and classified as critical. Affected by this vulnerability is the function area_cache_get of the file drivers/net/ethernet/netronome/nfp/nfpcore/nfp_cppcore.c of the component IPsec. The manipulation leads to use after free. It is recommended to apply a patch to fix this i CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3545",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3545",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 11:01:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 23,
+    "date_started": "2022-08-17",
+    "date_updated": "2022-12-24",
+    "description": "CVE-2022-42046 Proof of Concept of wfshbr64.sys local privilege escalation via DKOM",
+    "forks_count": 26,
+    "html_url": "https://github.com/kkent030315/CVE-2022-42046",
+    "keywords": [
+        "escalation of privileges proof of concept"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2022-42046",
+    "repo_owner": "kkent030315",
+    "repotime": "2022-12-24, 19:24:58",
+    "stargazers_count": 162,
+    "watchers_count": 162
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-31",
+    "date_updated": "2022-12-31",
+    "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the user mode layer, where an unprivileged regular user can cause an out-of-bounds write, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34671",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "Windows escalation of privileges vulnerability",
+        "Windows escalation of privileges denial of service",
+        "Windows escalation of privileges disclosure",
+        "Windows escalation of privileges",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34671",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-31, 17:42:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-31",
+    "date_updated": "2022-12-31",
+    "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the user mode layer, where an unprivileged regular user can access or modify system files or other files that are critical to the application, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34669",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "Windows escalation of privileges vulnerability",
+        "Windows escalation of privileges denial of service",
+        "Windows escalation of privileges disclosure",
+        "Windows escalation of privileges",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34669",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-31, 17:41:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-30",
+    "date_updated": "2022-12-30",
+    "description": "PrinterLogic Windows Client through 25.0.0.676 allows attackers to execute directory traversal. Authenticated users with prior knowledge of the driver filename could exploit this to escalate privileges or distribute malicious content. This issue has been resolved in PrinterLogic Windows Client 25.0.0688 and all affecte CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32427",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Windows escalation of privileges exploit",
+        "directory traversal attack",
+        "Windows escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32427",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 01:33:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-30",
+    "description": "A memory leak flaw was found in the Linux kernel in acrn_dev_ioctl in the drivers/virt/acrn/hsm.c function in how the ACRN Device Model emulates virtual NICs in VM. This flaw allows a local privileged attacker to leak unauthorized kernel information, causing a denial of service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-1651",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-1651",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-30, 00:01:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A use after free vulnerability in iva_ctl driver prior to SMR Sep-2022 Release 1 allows attacker to cause memory access fault. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36855",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36855",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:22:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Use after free vulnerability in sdp_mm_set_process_sensitive function of sdpmm driver prior to SMR Sep-2022 Release 1 allows attackers to perform malicious actions. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36849",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36849",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:21:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Use after free vulnerability in mtp_send_signal function of MTP driver prior to SMR Sep-2022 Release 1 allows attackers to perform malicious actions. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36847",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36847",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:21:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver Privileged I/O Write IRPs functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause increased privileges. Using the IRP 0x9c40a0e0 gives a low privilege user direct access to the OUT instruction that is completely unrest CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13514",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13514",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver IRP 0x9c40a148 functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause an adversary to obtain elevated privileges. An attacker can send a malicious IRP to trigger this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13515",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13515",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver IRP 0x9c402088 functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause increased privileges. An attacker can send a malicious IRP to trigger this vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13519",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13519",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver Privileged I/O Write IRPs functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause increased privileges. Using the IRP 0x9c40a0d8 gives a low privilege user direct access to the OUT instruction that is completely unrest CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13512",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13512",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A privilege escalation vulnerability exists in the WinRing0x64 Driver Privileged I/O Write IRPs functionality of NZXT CAM 4.8.0. A specially crafted I/O request packet (IRP) can cause increased privileges. Using the IRP 0x9c40a0dc gives a low privilege user direct access to the OUT instruction that is completely unrest CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2020-13513",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13513",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 21:16:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "An issue was discovered in WSO2 Enterprise Integrator 6.4.0. A Reflected Cross-Site Scripting (XSS) vulnerability has been identified in the Management Console under /carbon/ndatasource/validateconnection/ajaxprocessor.jsp via the driver parameter. Session hijacking or similar attacks would not be possible. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39810",
+    "keywords": [
+        "session hijacking vulnerability",
+        "session hijacking attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39810",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 20:31:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A use-after-free(UAF) vulnerability was found in function 'vmw_execbuf_tie_context' in drivers/gpu/vmxgfx/vmxgfx_execbuf.c in Linux kernel's vmwgfx driver with device file '/dev/dri/renderD128 (or Dxxx)'. This flaw allows a local attacker with a user account on the system to gain privilege, causing a denial of service( CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-40133",
+    "keywords": [
+        "uaf vulnerability",
+        "uaf denial of service",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-40133",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 20:30:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A use-after-free(UAF) vulnerability was found in function 'vmw_cmd_res_check' in drivers/gpu/vmxgfx/vmxgfx_execbuf.c in Linux kernel's vmwgfx driver with device file '/dev/dri/renderD128 (or Dxxx)'. This flaw allows a local attacker with a user account on the system to gain privilege, causing a denial of service(DoS). CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38457",
+    "keywords": [
+        "uaf vulnerability",
+        "uaf denial of service",
+        "use after free denial of service",
+        "use after free dos",
+        "uaf dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38457",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:57:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34726, CVE-2022-34730, CVE-2022-34732, CVE-2022-34734. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34727",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34727",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:49:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34727, CVE-2022-34730, CVE-2022-34732, CVE-2022-34734. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34726",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34726",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 19:49:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "An issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. An SMM callout vulnerability in the SMM driver in UsbLegacyControlSmm leads to possible arbitrary code execution in SMM and escalation of privileges. An attacker could overwrite the function pointers in the EFI_BOOT_SERVICES table before the USB S CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-35408",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-35408",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 14:22:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "QEMU before 2.0.0 block drivers for CLOOP, QCOW2 version 2 and various other image formats are vulnerable to potential memory corruptions, integer/buffer overflows or crash caused by missing input validations which could allow a remote user to execute arbitrary code on the host with the privileges of the QEMU process. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2014-0144",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2014-0144",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 11:33:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A memory leak flaw was found in the Linux kernel in the ccp_run_aes_gcm_cmd() function in drivers/crypto/ccp/ccp-ops.c, which allows attackers to cause a denial of service (memory consumption). This vulnerability is similar with the older CVE-2019-18808. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-3744",
+    "keywords": [
+        "memory leak denial of service",
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-3744",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 09:23:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A use after free vulnerability in perf-mgr driver prior to SMR Oct-2022 Release 1 allows attacker to cause memory access fault. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39853",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39853",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 07:58:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Use after free vulnerability in set_nft_pid and signal_handler function of NFC driver prior to SMR Oct-2022 Release 1 allows attackers to perform malicious actions. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39847",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39847",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 07:21:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38040",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38040",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 06:39:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "Windows CD-ROM File System Driver Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-38044",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-38044",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 06:35:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot ext4_mount function, where Insufficient validation of untrusted data may allow a highly privileged local attacker to cause an integer overflow. This difficult-to-exploit vulnerability may lead to code execution, escalation of privileges, limited d CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-28197",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-28197",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 05:19:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot ext4_read_file function, where insufficient validation of untrusted data may allow a highly privileged local attacker to cause a integer overflow, which may lead to code execution, escalation of privileges, limited denial of service, and some impa CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-28195",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-28195",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 05:14:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-29",
+    "date_updated": "2022-12-29",
+    "description": "A vulnerability classified as problematic was found in Linux Kernel. This vulnerability affects the function macvlan_handle_frame of the file drivers/net/macvlan.c of the component skb. The manipulation leads to memory leak. The attack can be initiated remotely. It is recommended to apply a patch to fix this issue. The CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3526",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3526",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 03:13:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-29",
+    "description": "NVIDIA Tegra kernel driver contains a vulnerability in NVIDIA NVDEC, where a user with high privileges might be able to read from or write to a memory location that is outside the intended boundary of the buffer, which may lead to denial of service, Information disclosure, loss of Integrity, or possible escalation of p CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-34402",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges disclosure",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-34402",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 00:24:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-29",
+    "description": "A vulnerability was found in Linux Kernel and classified as problematic. Affected by this issue is the function rlb_arp_xmit of the file drivers/net/bonding/bond_alb.c of the component IPsec. The manipulation leads to memory leak. It is recommended to apply a patch to fix this issue. The identifier of this vulnerabilit CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3624",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3624",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-29, 00:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A buffer overflow vulnerability exists in the razermouse driver of OpenRazer up to version v3.3.0 allows attackers to cause a Denial of Service (DoS) and possibly escalate their privileges via a crafted buffer sent to the matrix_custom_frame device. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-29023",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-29023",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:34:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A buffer overflow vulnerability exists in the razeraccessory driver of OpenRazer up to version v3.3.0 allows attackers to cause a Denial of Service (DoS) and possibly escalate their privileges via a crafted buffer sent to the matrix_custom_frame device. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-29022",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-29022",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:34:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A buffer overflow vulnerability exists in the razerkbd driver of OpenRazer up to version v3.3.0 allows attackers to cause a Denial of Service (DoS) and possibly escalate their privileges via a crafted buffer sent to the matrix_custom_frame device. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-29021",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-29021",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:34:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "The Arm Mali GPU kernel driver allows privilege escalation or a denial of service (memory corruption) because an unprivileged user can achieve read/write access to read-only pages. This affects Bifrost r0p0 through r29p0 before r30p0, Valhall r19p0 through r29p0 before r30p0, and Midgard r8p0 through r30p0 before r31p0 CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2021-28664",
+    "keywords": [
+        "escalation of privileges denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-28664",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 19:33:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "drivers/block/floppy.c in the Linux kernel before 5.17.6 is vulnerable to a denial of service, because of a concurrency use-after-free flaw after deallocating raw_cmd in the raw_cmd_ioctl function. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-33981",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-33981",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 14:01:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the i2400m_op_rfkill_sw_toggle() function in drivers/net/wimax/i2400m/op-rfkill.c in the Linux kernel before 5.3.11 allows attackers to cause a denial of service (memory consumption), aka CID-6f3ef5c25cc7. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19051",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19051",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:59:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Two memory leaks in the v3d_submit_cl_ioctl() function in drivers/gpu/drm/v3d/v3d_gem.c in the Linux kernel before 5.3.11 allow attackers to cause a denial of service (memory consumption) by triggering kcalloc() or v3d_job_init() failures, aka CID-29cd13cfd762. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19044",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19044",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:59:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Two memory leaks in the mwifiex_pcie_init_evt_ring() function in drivers/net/wireless/marvell/mwifiex/pcie.c in the Linux kernel through 5.3.11 allow attackers to cause a denial of service (memory consumption) by triggering mwifiex_map_pci_memory() failures, aka CID-d10dcb615c8e. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19057",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19057",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:59:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the rpmsg_eptdev_write_iter() function in drivers/rpmsg/rpmsg_char.c in the Linux kernel through 5.3.11 allows attackers to cause a denial of service (memory consumption) by triggering copy_from_iter_full() failures, aka CID-bbe692e349e2. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19053",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19053",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:58:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Two memory leaks in the rtl_usb_probe() function in drivers/net/wireless/realtek/rtlwifi/usb.c in the Linux kernel through 5.3.11 allow attackers to cause a denial of service (memory consumption), aka CID-3f9361695113. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19063",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19063",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:57:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the gs_can_open() function in drivers/net/can/usb/gs_usb.c in the Linux kernel before 5.3.11 allows attackers to cause a denial of service (memory consumption) by triggering usb_submit_urb() failures, aka CID-fb5be6a7b486. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19052",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19052",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:21:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the adis_update_scan_mode_burst() function in drivers/iio/imu/adis_buffer.c in the Linux kernel before 5.3.9 allows attackers to cause a denial of service (memory consumption), aka CID-9c0530e898f3. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19061",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19061",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:21:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the adis_update_scan_mode() function in drivers/iio/imu/adis_buffer.c in the Linux kernel before 5.3.9 allows attackers to cause a denial of service (memory consumption), aka CID-ab612b1daf41. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19060",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19060",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:21:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "A memory leak in the cx23888_ir_probe() function in drivers/media/pci/cx23885/cx23888-ir.c in the Linux kernel through 5.3.11 allows attackers to cause a denial of service (memory consumption) by triggering kfifo_alloc() failures, aka CID-a7b2df76b42b. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19054",
+    "keywords": [
+        "memory leak denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19054",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 13:20:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Improper input validation in the API for Intel(R) Graphics Driver versions before 26.20.100.7209 may allow an authenticated user to potentially enable denial of service via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-14591",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-14591",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:57:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-41047. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-41048",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-41048",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:13:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-41048. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-41047",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-41047",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:13:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34726, CVE-2022-34727, CVE-2022-34730, CVE-2022-34732. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34734",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34734",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:09:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34726, CVE-2022-34727, CVE-2022-34730, CVE-2022-34734. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34732",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34732",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:09:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34726, CVE-2022-34727, CVE-2022-34732, CVE-2022-34734. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-34730",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-34730",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 11:09:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Uncontrolled search path in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36380",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36380",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 09:51:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Unquoted search path in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36384",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36384",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 09:51:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Path traversal in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36400",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36400",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 09:51:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "Incorrect default permissions in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-36377",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-36377",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 09:51:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in an optional D-Bus configuration file, where a local user with basic capabilities can impact protected D-Bus endpoints, which may lead to code execution, denial of service, escalation of privileges, information disclosure, and data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-31608",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges disclosure",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-31608",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:55:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys), where a local user with basic capabilities can cause an out-of-bounds read, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-31617",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "Windows escalation of privileges vulnerability",
+        "Windows escalation of privileges denial of service",
+        "Windows escalation of privileges disclosure",
+        "Windows escalation of privileges",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-31617",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:17:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where a local user with basic capabilities can cause improper input validation, which may lead to denial of service, escalation of privileges, data tampering, and limited information disclosure. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-31607",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "escalation of privileges disclosure",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-31607",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:17:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys), where a local user with basic capabilities can cause an out-of-bounds write, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-31610",
+    "keywords": [
+        "escalation of privileges denial of service",
+        "Windows escalation of privileges vulnerability",
+        "Windows escalation of privileges denial of service",
+        "Windows escalation of privileges disclosure",
+        "Windows escalation of privileges",
+        "escalation of privileges vulnerability",
+        "escalation of privileges disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-31610",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 04:17:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-28",
+    "date_updated": "2022-12-28",
+    "description": "An issue was discovered in the Linux kernel before 5.0.7. A NULL pointer dereference can occur when megasas_create_frame_pool() fails in megasas_alloc_cmds() in drivers/scsi/megaraid/megaraid_sas_base.c. This causes a Denial of Service, related to a use-after-free. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-11810",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-11810",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 02:13:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-28",
+    "description": "OpenRazer is an open source driver and user-space daemon to control Razer device lighting and other features on GNU/Linux. Using a modified USB device an attacker can leak stack addresses of the `razer_attr_read_dpi_stages`, potentially bypassing KASLR. To exploit this vulnerability an attacker would need to access to  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-23467",
+    "keywords": [
+        "address leak vulnerability",
+        "address leak exploit",
+        "address leak exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-23467",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-28, 00:02:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "In audio driver, there is a use after free due to a race condition. This could lead to local denial of service in kernel. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-39134",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-39134",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 23:23:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "In npu driver, there is a memory corruption due to a use after free. This could lead to local denial of service in kernel. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-42754",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-42754",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 23:23:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "The xc2028_set_config function in drivers/media/tuners/tuner-xc2028.c in the Linux kernel before 4.6 allows local users to gain privileges or cause a denial of service (use-after-free) via vectors involving omission of the firmware name from a certain data structure. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-7913",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-7913",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 21:14:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "An exploitable double fetch vulnerability exists in the SboxDrv.sys driver functionality of Invincea-X 6.1.3-24058. A specially crafted input buffer and race condition can result in kernel memory corruption, which could result in privilege escalation. An attacker needs to execute a special application locally to trigge CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2016-9038",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-9038",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 18:37:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "A use-after-free vulnerability was found in the Linux kernel in drivers/net/hamradio. This flaw allows a local attacker with a user privilege to cause a denial of service (DOS) when the mkiss or sixpack device is detached and reclaim resources early. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-1195",
+    "keywords": [
+        "use after free denial of service",
+        "use after free dos"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-1195",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 17:56:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "Memory corruption in i2c buses due to improper input validation while reading address configuration from i2c driver in Snapdragon Mobile, Snapdragon Wearables CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-25697",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-25697",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 17:13:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "In the Linux kernel before 5.1.6, there is a use-after-free in cpia2_exit() in drivers/media/usb/cpia2/cpia2_v4l.c that will cause denial of service, aka CID-dea37a972655. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-19966",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-19966",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 13:50:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-12-27",
+    "date_updated": "2022-12-27",
+    "description": "A vulnerability has been found in Linux Kernel and classified as critical. Affected by this vulnerability is the function area_cache_get of the file drivers/net/ethernet/netronome/nfp/nfpcore/nfp_cppcore.c of the component IPsec. The manipulation leads to use after free. It is recommended to apply a patch to fix this i CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-3545",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3545",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2022-12-27, 11:01:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 23,
+    "date_started": "2022-08-17",
+    "date_updated": "2022-12-24",
+    "description": "CVE-2022-42046 Proof of Concept of wfshbr64.sys local privilege escalation via DKOM",
+    "forks_count": 26,
+    "html_url": "https://github.com/kkent030315/CVE-2022-42046",
+    "keywords": [
+        "escalation of privileges proof of concept"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2022-42046",
+    "repo_owner": "kkent030315",
+    "repotime": "2022-12-24, 19:24:58",
+    "stargazers_count": 163,
+    "watchers_count": 163
+}

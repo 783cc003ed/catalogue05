@@ -1,0 +1,1006 @@
+{
+    "commits_count": 2,
+    "date_started": "2025-06-27",
+    "date_updated": "2025-06-27",
+    "description": "Exploit Proof of concept for privilege escalation on windows mountmgr.sys driver. Reverse Engineering the Windows Kernel - WIP",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xIcarus/ioctl-mountmgr-poc",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "ioctl-mountmgr-poc",
+    "repo_owner": "0xIcarus",
+    "repotime": "2025-06-27, 17:03:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 112,
+    "date_started": "2020-02-12",
+    "date_updated": "2025-06-26",
+    "description": "An XSS Exploitation Tool",
+    "forks_count": 61,
+    "html_url": "https://github.com/Sharpforce/XSS-Exploitation-Tool",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "XSS-Exploitation-Tool",
+    "repo_owner": "Sharpforce",
+    "repotime": "2025-06-26, 16:03:27",
+    "stargazers_count": 318,
+    "watchers_count": 318
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-06-17",
+    "date_updated": "2025-06-25",
+    "description": "A simple SSRF (Server-Side Request Forgery) example using Express.js and Docker.",
+    "forks_count": 0,
+    "html_url": "https://github.com/JaKu01/SSRF_Example",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "HTML",
+    "repo_name": "SSRF_Example",
+    "repo_owner": "JaKu01",
+    "repotime": "2025-06-25, 19:18:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-06-19",
+    "date_updated": "2025-06-23",
+    "description": "Crema is a static analysis tool for Rust-C FFI. It detects memory errors (memory leak, double-free and use-after-free) in pure Rust code and Rust interacting with C code.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AFx3/crema-static-analyzer",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Rust",
+    "repo_name": "crema-static-analyzer",
+    "repo_owner": "AFx3",
+    "repotime": "2025-06-23, 16:13:40",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 138,
+    "date_started": "2019-04-19",
+    "date_updated": "2025-06-21",
+    "description": "Top disclosed reports from HackerOne",
+    "forks_count": 843,
+    "html_url": "https://github.com/reddelexc/hackerone-reports",
+    "keywords": [
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "hackerone-reports",
+    "repo_owner": "reddelexc",
+    "repotime": "2025-06-21, 21:21:52",
+    "stargazers_count": 4655,
+    "watchers_count": 4655
+}
+{
+    "commits_count": 71,
+    "date_started": "2025-06-15",
+    "date_updated": "2025-06-21",
+    "description": "This project provides a collection of UI templates for both authenticated and unauthenticated users, built with React and styled using Tailwind CSS.",
+    "forks_count": 0,
+    "html_url": "https://github.com/aregcodingtech0123/reactspotifysimilarmusictemplate",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "reactspotifysimilarmusictemplate",
+    "repo_owner": "aregcodingtech0123",
+    "repotime": "2025-06-21, 01:45:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-20",
+    "date_updated": "2025-06-20",
+    "description": "This is a proof-of-concept Metasploit module exploit for CVE-2015-1578, a buffer overflow vulnerability in Achat 0.150 beta7 on Windows. Exploitation leads to remote code execution via a crafted UDP packet.",
+    "forks_count": 0,
+    "html_url": "https://github.com/yaldobaoth/CVE-2015-1578-PoC-Metasploit",
+    "keywords": [
+        "Windows remote code execution exploit",
+        "remote code execution proof of concept"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2015-1578-PoC-Metasploit",
+    "repo_owner": "yaldobaoth",
+    "repotime": "2025-06-20, 16:12:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-05-19",
+    "date_updated": "2025-06-20",
+    "description": "Second security project of the reverse engineering branch of the 42 post common core. This project is meant to exploit 32 bit ELF binaries in order to escalate privilege.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vicente118/Rainfall",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Rainfall",
+    "repo_owner": "Vicente118",
+    "repotime": "2025-06-20, 20:00:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 178,
+    "date_started": "2024-05-30",
+    "date_updated": "2025-06-20",
+    "description": "Fourth evolution of Code Injection for Xcode",
+    "forks_count": 7,
+    "html_url": "https://github.com/johnno1962/InjectionNext",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "InjectionNext",
+    "repo_owner": "johnno1962",
+    "repotime": "2025-06-20, 19:36:40",
+    "stargazers_count": 185,
+    "watchers_count": 185
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-07-28",
+    "date_updated": "2025-06-17",
+    "description": "Explotación de BufferOverflow al binario de correos locales Slmail 5.5, ataque Dos con RCE y persistencia en un Windows 7 x86",
+    "forks_count": 0,
+    "html_url": "https://github.com/liandd/Buffer_overflow_slmail",
+    "keywords": [
+        "rce dos"
+    ],
+    "language": "Python",
+    "repo_name": "Buffer_overflow_slmail",
+    "repo_owner": "liandd",
+    "repotime": "2025-06-17, 20:38:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-05-29",
+    "date_updated": "2025-06-17",
+    "description": "Email Leak Checker - Privacy-First Chrome Extension A secure React.js Chrome extension that checks if email addresses have been compromised in data breaches. Features real-time breach detection using trusted APIs (Have I Been Pwned &amp;amp; DeHashed), advanced email validation, and privacy-preserving techniques including local SHA-1 hashing",
+    "forks_count": 0,
+    "html_url": "https://github.com/CaptainCrunchilicious/mail-verification",
+    "keywords": [
+        "Chrome address leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "mail-verification",
+    "repo_owner": "CaptainCrunchilicious",
+    "repotime": "2025-06-17, 12:54:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-06-14",
+    "date_updated": "2025-06-17",
+    "description": "A College ERP system with Role-Based Access Control (RBAC) and data encryption, designed for testing security vulnerabilities like SQL injection, phishing, spoofing, and penetration testing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sukrut10k/rbac-college-erp",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "rbac-college-erp",
+    "repo_owner": "Sukrut10k",
+    "repotime": "2025-06-17, 00:06:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 31,
+    "date_started": "2025-04-03",
+    "date_updated": "2025-06-12",
+    "description": "This repository demonstrates a privilege escalation attack targeting Open5GS's WebUI, exploiting unauthenticated database connections and forged session cookies/JWT tokens. The analysis reveals critical vulnerabilities in authentication mechanisms, offering insights for securing 5G network components.",
+    "forks_count": 0,
+    "html_url": "https://github.com/contisimone99/Penetration-Testing-on-Open5Gs",
+    "keywords": [
+        "unauthenticated attacker",
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Penetration-Testing-on-Open5Gs",
+    "repo_owner": "contisimone99",
+    "repotime": "2025-06-12, 12:34:56",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 802,
+    "date_started": "2013-06-25",
+    "date_updated": "2025-06-12",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 212,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2025-06-12, 12:20:40",
+    "stargazers_count": 1631,
+    "watchers_count": 1631
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-06-12",
+    "date_updated": "2025-06-12",
+    "description": "This repository demonstrates a privilege escalation attack targeting Open5GS's WebUI, exploiting unauthenticated database connections and forged session cookies/JWT tokens. The analysis reveals critical vulnerabilities in authentication mechanisms, offering insights for securing 5G network components.",
+    "forks_count": 0,
+    "html_url": "https://github.com/NicolaLepore4/Penetration-Testing-on-Open5Gs",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "Penetration-Testing-on-Open5Gs",
+    "repo_owner": "NicolaLepore4",
+    "repotime": "2025-06-12, 11:40:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-05-02",
+    "date_updated": "2025-06-12",
+    "description": "RainbowSQL is very fast dork&amp;amp;SQL injection scanner.",
+    "forks_count": 20,
+    "html_url": "https://github.com/syrex1013/RainbowSQL",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "C#",
+    "repo_name": "RainbowSQL",
+    "repo_owner": "syrex1013",
+    "repotime": "2025-06-12, 10:15:10",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 229,
+    "date_started": "2018-12-19",
+    "date_updated": "2025-06-11",
+    "description": "TypeScript clients for databases that prevent SQL Injection",
+    "forks_count": 46,
+    "html_url": "https://github.com/ForbesLindesay/atdatabases",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "TypeScript",
+    "repo_name": "atdatabases",
+    "repo_owner": "ForbesLindesay",
+    "repotime": "2025-06-11, 12:07:21",
+    "stargazers_count": 618,
+    "watchers_count": 618
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-08",
+    "date_updated": "2025-06-08",
+    "description": "discovered zero day/CVEs exploits on the nubia redmagic 9spro models, 9.06.2025",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sh1r0ko11/redmagic-9spro-exploits",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "redmagic-9spro-exploits",
+    "repo_owner": "Sh1r0ko11",
+    "repotime": "2025-06-08, 19:58:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-04",
+    "date_updated": "2025-06-04",
+    "description": "Full RCE and LPE exploit chain for HackTheBox machine &amp;quot;Rope&amp;quot;.",
+    "forks_count": 0,
+    "html_url": "https://github.com/negligble/Rope_Full_Chain",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Rope_Full_Chain",
+    "repo_owner": "negligble",
+    "repotime": "2025-06-04, 19:27:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2024-08-31",
+    "date_updated": "2025-06-03",
+    "description": "CVE-2024-21413 | Microsoft Outlook Remote Code Execution Vulnerability PoC",
+    "forks_count": 5,
+    "html_url": "https://github.com/ThemeHackers/CVE-2024-21413",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Microsoft remote code execution poc",
+        "Microsoft remote code execution",
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2024-21413",
+    "repo_owner": "ThemeHackers",
+    "repotime": "2025-06-03, 22:39:16",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-06-01",
+    "description": "Demonstration code for intercepting and disabling NMI handling on Intel CPUs in Windows kernel mode.",
+    "forks_count": 0,
+    "html_url": "https://github.com/oxunem/NMIBlocker",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "NMIBlocker",
+    "repo_owner": "oxunem",
+    "repotime": "2025-06-01, 06:41:13",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-27",
+    "date_updated": "2025-06-27",
+    "description": "Exploit Proof of concept for privilege escalation on windows mountmgr.sys driver. Reverse Engineering the Windows Kernel - WIP",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xIcarus/ioctl-mountmgr-poc",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "ioctl-mountmgr-poc",
+    "repo_owner": "0xIcarus",
+    "repotime": "2025-06-27, 17:03:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 112,
+    "date_started": "2020-02-12",
+    "date_updated": "2025-06-26",
+    "description": "An XSS Exploitation Tool",
+    "forks_count": 61,
+    "html_url": "https://github.com/Sharpforce/XSS-Exploitation-Tool",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "XSS-Exploitation-Tool",
+    "repo_owner": "Sharpforce",
+    "repotime": "2025-06-26, 16:03:27",
+    "stargazers_count": 318,
+    "watchers_count": 318
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-06-17",
+    "date_updated": "2025-06-25",
+    "description": "A simple SSRF (Server-Side Request Forgery) example using Express.js and Docker.",
+    "forks_count": 0,
+    "html_url": "https://github.com/JaKu01/SSRF_Example",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "HTML",
+    "repo_name": "SSRF_Example",
+    "repo_owner": "JaKu01",
+    "repotime": "2025-06-25, 19:18:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-06-19",
+    "date_updated": "2025-06-23",
+    "description": "Crema is a static analysis tool for Rust-C FFI. It detects memory errors (memory leak, double-free and use-after-free) in pure Rust code and Rust interacting with C code.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AFx3/crema-static-analyzer",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Rust",
+    "repo_name": "crema-static-analyzer",
+    "repo_owner": "AFx3",
+    "repotime": "2025-06-23, 16:13:40",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 138,
+    "date_started": "2019-04-19",
+    "date_updated": "2025-06-21",
+    "description": "Top disclosed reports from HackerOne",
+    "forks_count": 843,
+    "html_url": "https://github.com/reddelexc/hackerone-reports",
+    "keywords": [
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "hackerone-reports",
+    "repo_owner": "reddelexc",
+    "repotime": "2025-06-21, 21:21:52",
+    "stargazers_count": 4655,
+    "watchers_count": 4655
+}
+{
+    "commits_count": 71,
+    "date_started": "2025-06-15",
+    "date_updated": "2025-06-21",
+    "description": "This project provides a collection of UI templates for both authenticated and unauthenticated users, built with React and styled using Tailwind CSS.",
+    "forks_count": 0,
+    "html_url": "https://github.com/aregcodingtech0123/reactspotifysimilarmusictemplate",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "reactspotifysimilarmusictemplate",
+    "repo_owner": "aregcodingtech0123",
+    "repotime": "2025-06-21, 01:45:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-20",
+    "date_updated": "2025-06-20",
+    "description": "This is a proof-of-concept Metasploit module exploit for CVE-2015-1578, a buffer overflow vulnerability in Achat 0.150 beta7 on Windows. Exploitation leads to remote code execution via a crafted UDP packet.",
+    "forks_count": 0,
+    "html_url": "https://github.com/yaldobaoth/CVE-2015-1578-PoC-Metasploit",
+    "keywords": [
+        "Windows remote code execution exploit",
+        "remote code execution proof of concept"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2015-1578-PoC-Metasploit",
+    "repo_owner": "yaldobaoth",
+    "repotime": "2025-06-20, 16:12:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-05-19",
+    "date_updated": "2025-06-20",
+    "description": "Second security project of the reverse engineering branch of the 42 post common core. This project is meant to exploit 32 bit ELF binaries in order to escalate privilege.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vicente118/Rainfall",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Rainfall",
+    "repo_owner": "Vicente118",
+    "repotime": "2025-06-20, 20:00:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 178,
+    "date_started": "2024-05-30",
+    "date_updated": "2025-06-20",
+    "description": "Fourth evolution of Code Injection for Xcode",
+    "forks_count": 7,
+    "html_url": "https://github.com/johnno1962/InjectionNext",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "InjectionNext",
+    "repo_owner": "johnno1962",
+    "repotime": "2025-06-20, 19:36:40",
+    "stargazers_count": 185,
+    "watchers_count": 185
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-07-28",
+    "date_updated": "2025-06-17",
+    "description": "Explotación de BufferOverflow al binario de correos locales Slmail 5.5, ataque Dos con RCE y persistencia en un Windows 7 x86",
+    "forks_count": 0,
+    "html_url": "https://github.com/liandd/Buffer_overflow_slmail",
+    "keywords": [
+        "rce dos"
+    ],
+    "language": "Python",
+    "repo_name": "Buffer_overflow_slmail",
+    "repo_owner": "liandd",
+    "repotime": "2025-06-17, 20:38:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-05-29",
+    "date_updated": "2025-06-17",
+    "description": "Email Leak Checker - Privacy-First Chrome Extension A secure React.js Chrome extension that checks if email addresses have been compromised in data breaches. Features real-time breach detection using trusted APIs (Have I Been Pwned &amp;amp; DeHashed), advanced email validation, and privacy-preserving techniques including local SHA-1 hashing",
+    "forks_count": 0,
+    "html_url": "https://github.com/CaptainCrunchilicious/mail-verification",
+    "keywords": [
+        "Chrome address leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "mail-verification",
+    "repo_owner": "CaptainCrunchilicious",
+    "repotime": "2025-06-17, 12:54:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-06-14",
+    "date_updated": "2025-06-17",
+    "description": "A College ERP system with Role-Based Access Control (RBAC) and data encryption, designed for testing security vulnerabilities like SQL injection, phishing, spoofing, and penetration testing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sukrut10k/rbac-college-erp",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "rbac-college-erp",
+    "repo_owner": "Sukrut10k",
+    "repotime": "2025-06-17, 00:06:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 31,
+    "date_started": "2025-04-03",
+    "date_updated": "2025-06-12",
+    "description": "This repository demonstrates a privilege escalation attack targeting Open5GS's WebUI, exploiting unauthenticated database connections and forged session cookies/JWT tokens. The analysis reveals critical vulnerabilities in authentication mechanisms, offering insights for securing 5G network components.",
+    "forks_count": 0,
+    "html_url": "https://github.com/contisimone99/Penetration-Testing-on-Open5Gs",
+    "keywords": [
+        "unauthenticated attacker",
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Penetration-Testing-on-Open5Gs",
+    "repo_owner": "contisimone99",
+    "repotime": "2025-06-12, 12:34:56",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 802,
+    "date_started": "2013-06-25",
+    "date_updated": "2025-06-12",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 213,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2025-06-12, 12:20:40",
+    "stargazers_count": 1639,
+    "watchers_count": 1639
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-06-12",
+    "date_updated": "2025-06-12",
+    "description": "This repository demonstrates a privilege escalation attack targeting Open5GS's WebUI, exploiting unauthenticated database connections and forged session cookies/JWT tokens. The analysis reveals critical vulnerabilities in authentication mechanisms, offering insights for securing 5G network components.",
+    "forks_count": 0,
+    "html_url": "https://github.com/NicolaLepore4/Penetration-Testing-on-Open5Gs",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "Penetration-Testing-on-Open5Gs",
+    "repo_owner": "NicolaLepore4",
+    "repotime": "2025-06-12, 11:40:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-05-02",
+    "date_updated": "2025-06-12",
+    "description": "RainbowSQL is very fast dork&amp;amp;SQL injection scanner.",
+    "forks_count": 20,
+    "html_url": "https://github.com/syrex1013/RainbowSQL",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "C#",
+    "repo_name": "RainbowSQL",
+    "repo_owner": "syrex1013",
+    "repotime": "2025-06-12, 10:15:10",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-08",
+    "date_updated": "2025-06-08",
+    "description": "discovered zero day/CVEs exploits on the nubia redmagic 9spro models, 9.06.2025",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sh1r0ko11/redmagic-9spro-exploits",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "redmagic-9spro-exploits",
+    "repo_owner": "Sh1r0ko11",
+    "repotime": "2025-06-08, 19:58:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-04",
+    "date_updated": "2025-06-04",
+    "description": "Full RCE and LPE exploit chain for HackTheBox machine &amp;quot;Rope&amp;quot;.",
+    "forks_count": 0,
+    "html_url": "https://github.com/negligble/Rope_Full_Chain",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Rope_Full_Chain",
+    "repo_owner": "negligble",
+    "repotime": "2025-06-04, 19:27:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2024-08-31",
+    "date_updated": "2025-06-03",
+    "description": "CVE-2024-21413 | Microsoft Outlook Remote Code Execution Vulnerability PoC",
+    "forks_count": 5,
+    "html_url": "https://github.com/ThemeHackers/CVE-2024-21413",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Microsoft remote code execution poc",
+        "Microsoft remote code execution",
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2024-21413",
+    "repo_owner": "ThemeHackers",
+    "repotime": "2025-06-03, 22:39:16",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-06-01",
+    "description": "Demonstration code for intercepting and disabling NMI handling on Intel CPUs in Windows kernel mode.",
+    "forks_count": 0,
+    "html_url": "https://github.com/oxunem/NMIBlocker",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "NMIBlocker",
+    "repo_owner": "oxunem",
+    "repotime": "2025-06-01, 06:41:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-27",
+    "date_updated": "2025-06-27",
+    "description": "Exploit Proof of concept for privilege escalation on windows mountmgr.sys driver. Reverse Engineering the Windows Kernel - WIP",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xIcarus/ioctl-mountmgr-poc",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "ioctl-mountmgr-poc",
+    "repo_owner": "0xIcarus",
+    "repotime": "2025-06-27, 17:03:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 112,
+    "date_started": "2020-02-12",
+    "date_updated": "2025-06-26",
+    "description": "An XSS Exploitation Tool",
+    "forks_count": 61,
+    "html_url": "https://github.com/Sharpforce/XSS-Exploitation-Tool",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "XSS-Exploitation-Tool",
+    "repo_owner": "Sharpforce",
+    "repotime": "2025-06-26, 16:03:27",
+    "stargazers_count": 318,
+    "watchers_count": 318
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-06-17",
+    "date_updated": "2025-06-25",
+    "description": "A simple SSRF (Server-Side Request Forgery) example using Express.js and Docker.",
+    "forks_count": 0,
+    "html_url": "https://github.com/JaKu01/SSRF_Example",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "HTML",
+    "repo_name": "SSRF_Example",
+    "repo_owner": "JaKu01",
+    "repotime": "2025-06-25, 19:18:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 71,
+    "date_started": "2025-06-15",
+    "date_updated": "2025-06-21",
+    "description": "This project provides a collection of UI templates for both authenticated and unauthenticated users, built with React and styled using Tailwind CSS.",
+    "forks_count": 0,
+    "html_url": "https://github.com/aregcodingtech0123/reactspotifysimilarmusictemplate",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "reactspotifysimilarmusictemplate",
+    "repo_owner": "aregcodingtech0123",
+    "repotime": "2025-06-21, 01:45:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-20",
+    "date_updated": "2025-06-20",
+    "description": "This is a proof-of-concept Metasploit module exploit for CVE-2015-1578, a buffer overflow vulnerability in Achat 0.150 beta7 on Windows. Exploitation leads to remote code execution via a crafted UDP packet.",
+    "forks_count": 0,
+    "html_url": "https://github.com/yaldobaoth/CVE-2015-1578-PoC-Metasploit",
+    "keywords": [
+        "Windows remote code execution exploit",
+        "remote code execution proof of concept"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2015-1578-PoC-Metasploit",
+    "repo_owner": "yaldobaoth",
+    "repotime": "2025-06-20, 16:12:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-05-19",
+    "date_updated": "2025-06-20",
+    "description": "Second security project of the reverse engineering branch of the 42 post common core. This project is meant to exploit 32 bit ELF binaries in order to escalate privilege.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vicente118/Rainfall",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Rainfall",
+    "repo_owner": "Vicente118",
+    "repotime": "2025-06-20, 20:00:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-07-28",
+    "date_updated": "2025-06-17",
+    "description": "Explotación de BufferOverflow al binario de correos locales Slmail 5.5, ataque Dos con RCE y persistencia en un Windows 7 x86",
+    "forks_count": 0,
+    "html_url": "https://github.com/liandd/Buffer_overflow_slmail",
+    "keywords": [
+        "rce dos"
+    ],
+    "language": "Python",
+    "repo_name": "Buffer_overflow_slmail",
+    "repo_owner": "liandd",
+    "repotime": "2025-06-17, 20:38:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-05-29",
+    "date_updated": "2025-06-17",
+    "description": "Email Leak Checker - Privacy-First Chrome Extension A secure React.js Chrome extension that checks if email addresses have been compromised in data breaches. Features real-time breach detection using trusted APIs (Have I Been Pwned &amp;amp; DeHashed), advanced email validation, and privacy-preserving techniques including local SHA-1 hashing",
+    "forks_count": 0,
+    "html_url": "https://github.com/CaptainCrunchilicious/mail-verification",
+    "keywords": [
+        "Chrome address leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "mail-verification",
+    "repo_owner": "CaptainCrunchilicious",
+    "repotime": "2025-06-17, 12:54:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-06-14",
+    "date_updated": "2025-06-17",
+    "description": "A College ERP system with Role-Based Access Control (RBAC) and data encryption, designed for testing security vulnerabilities like SQL injection, phishing, spoofing, and penetration testing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sukrut10k/rbac-college-erp",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "rbac-college-erp",
+    "repo_owner": "Sukrut10k",
+    "repotime": "2025-06-17, 00:06:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 31,
+    "date_started": "2025-04-03",
+    "date_updated": "2025-06-12",
+    "description": "This repository demonstrates a privilege escalation attack targeting Open5GS's WebUI, exploiting unauthenticated database connections and forged session cookies/JWT tokens. The analysis reveals critical vulnerabilities in authentication mechanisms, offering insights for securing 5G network components.",
+    "forks_count": 0,
+    "html_url": "https://github.com/contisimone99/Penetration-Testing-on-Open5Gs",
+    "keywords": [
+        "unauthenticated attacker",
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Penetration-Testing-on-Open5Gs",
+    "repo_owner": "contisimone99",
+    "repotime": "2025-06-12, 12:34:56",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 802,
+    "date_started": "2013-06-25",
+    "date_updated": "2025-06-12",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 213,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2025-06-12, 12:20:40",
+    "stargazers_count": 1639,
+    "watchers_count": 1639
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-06-12",
+    "date_updated": "2025-06-12",
+    "description": "This repository demonstrates a privilege escalation attack targeting Open5GS's WebUI, exploiting unauthenticated database connections and forged session cookies/JWT tokens. The analysis reveals critical vulnerabilities in authentication mechanisms, offering insights for securing 5G network components.",
+    "forks_count": 0,
+    "html_url": "https://github.com/NicolaLepore4/Penetration-Testing-on-Open5Gs",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "Penetration-Testing-on-Open5Gs",
+    "repo_owner": "NicolaLepore4",
+    "repotime": "2025-06-12, 11:40:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-05-02",
+    "date_updated": "2025-06-12",
+    "description": "RainbowSQL is very fast dork&amp;amp;SQL injection scanner.",
+    "forks_count": 20,
+    "html_url": "https://github.com/syrex1013/RainbowSQL",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "C#",
+    "repo_name": "RainbowSQL",
+    "repo_owner": "syrex1013",
+    "repotime": "2025-06-12, 10:15:10",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-08",
+    "date_updated": "2025-06-08",
+    "description": "discovered zero day/CVEs exploits on the nubia redmagic 9spro models, 9.06.2025",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sh1r0ko11/redmagic-9spro-exploits",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "redmagic-9spro-exploits",
+    "repo_owner": "Sh1r0ko11",
+    "repotime": "2025-06-08, 19:58:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-04",
+    "date_updated": "2025-06-04",
+    "description": "Full RCE and LPE exploit chain for HackTheBox machine &amp;quot;Rope&amp;quot;.",
+    "forks_count": 0,
+    "html_url": "https://github.com/negligble/Rope_Full_Chain",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Rope_Full_Chain",
+    "repo_owner": "negligble",
+    "repotime": "2025-06-04, 19:27:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2024-08-31",
+    "date_updated": "2025-06-03",
+    "description": "CVE-2024-21413 | Microsoft Outlook Remote Code Execution Vulnerability PoC",
+    "forks_count": 5,
+    "html_url": "https://github.com/ThemeHackers/CVE-2024-21413",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Microsoft remote code execution poc",
+        "Microsoft remote code execution",
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2024-21413",
+    "repo_owner": "ThemeHackers",
+    "repotime": "2025-06-03, 22:39:16",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-06-01",
+    "description": "Demonstration code for intercepting and disabling NMI handling on Intel CPUs in Windows kernel mode.",
+    "forks_count": 0,
+    "html_url": "https://github.com/oxunem/NMIBlocker",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "NMIBlocker",
+    "repo_owner": "oxunem",
+    "repotime": "2025-06-01, 06:41:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

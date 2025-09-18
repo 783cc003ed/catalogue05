@@ -1,0 +1,52 @@
+{
+    "commits_count": 18,
+    "date_started": "2013-03-28",
+    "date_updated": "2014-05-28",
+    "description": "Fault injection library",
+    "forks_count": 10,
+    "html_url": "https://github.com/dslab-epfl/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Objective-C",
+    "repo_name": "lfi",
+    "repo_owner": "dslab-epfl",
+    "repotime": "2014-05-28, 20:40:19",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 7,
+    "date_started": "2014-05-08",
+    "date_updated": "2014-05-09",
+    "description": "This repository stores all the practical works developed during the subject Computer Organization II. This includes: Note: all the projects were tested with valgrind for leaks when memory dynamic was used. Also measurements were taken using the time-stamp-counter register in the cpu for performance analysis(ie. TP2 using SIMD)  Basic ASM x64 algorithm coding, Intel SIMD extensions using asm x64, Basic Operating System Development. For more information follow this link(spanish only) http://orga2.exp.dc.uba.ar/index.php?pid=2",
+    "forks_count": 2,
+    "html_url": "https://github.com/svilerino/Orga-computador2",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C",
+    "repo_name": "Orga-computador2",
+    "repo_owner": "svilerino",
+    "repotime": "2014-05-09, 03:29:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2012-11-18",
+    "date_updated": "2014-05-05",
+    "description": "paper written for an independent study I took in 2012. Uses the Protostar and Fusion VMs (Protostar primarily) from http://exploit-exercises.com/ to explore basics of stack and heap based buffer overflows.",
+    "forks_count": 3,
+    "html_url": "https://github.com/zandi/memory_corruption_paper",
+    "keywords": [
+        "corruption overflow exploitation",
+        "corruption overflow exploit"
+    ],
+    "language": "TeX",
+    "repo_name": "memory_corruption_paper",
+    "repo_owner": "zandi",
+    "repotime": "2014-05-05, 15:26:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

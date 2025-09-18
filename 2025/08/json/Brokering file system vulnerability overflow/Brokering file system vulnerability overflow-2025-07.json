@@ -414,3 +414,750 @@
     "stargazers_count": 3,
     "watchers_count": 3
 }
+{
+    "commits_count": 3,
+    "date_started": "2025-06-30",
+    "date_updated": "2025-07-30",
+    "description": "A compact guide for zero-day vulnerability research, with snippets for fuzzing, exploit development, and CVE analysis. Perfect for security researchers and bug bounty hunters in a single README.md. (170 chars) Keywords: zero-day, exploit development, fuzzing, CVE analysis, bug bounty.",
+    "forks_count": 0,
+    "html_url": "https://github.com/nukIeer/Zero-Day-Research-Snippets",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "Zero-Day-Research-Snippets",
+    "repo_owner": "nukIeer",
+    "repotime": "2025-07-30, 02:25:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 48,
+    "date_started": "2024-08-31",
+    "date_updated": "2025-07-29",
+    "description": "CVE-2024-38063 is a critical security vulnerability in the Windows TCP/IP stack that allows for remote code execution (RCE)",
+    "forks_count": 7,
+    "html_url": "https://github.com/ThemeHackers/CVE-2024-38063",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Windows rce",
+        "Windows rce vulnerability",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-38063",
+    "repo_owner": "ThemeHackers",
+    "repotime": "2025-07-29, 12:49:48",
+    "stargazers_count": 34,
+    "watchers_count": 34
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-07-24",
+    "date_updated": "2025-07-24",
+    "description": "Hands-on exploitation of memory vulnerabilities in C, including buffer overflow and format string attacks. Demonstrates secure coding practices, return address hijacking, and ASLR bypass using GDB and crafted payloads.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ayeshay1144/memory-exploitation-c-attacks",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": null,
+    "repo_name": "memory-exploitation-c-attacks",
+    "repo_owner": "ayeshay1144",
+    "repotime": "2025-07-24, 15:25:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 40,
+    "date_started": "2025-07-18",
+    "date_updated": "2025-07-23",
+    "description": "PICO-8 v0.2.6b Sandbox Escape + RCE Exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/joshiemoore/p8pwn",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "Python",
+    "repo_name": "p8pwn",
+    "repo_owner": "joshiemoore",
+    "repotime": "2025-07-23, 03:13:57",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 772,
+    "date_started": "2015-09-06",
+    "date_updated": "2025-07-18",
+    "description": "Detects buffer overruns and memory leaks.",
+    "forks_count": 27,
+    "html_url": "https://github.com/ssbssa/heob",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C",
+    "repo_name": "heob",
+    "repo_owner": "ssbssa",
+    "repotime": "2025-07-18, 23:15:31",
+    "stargazers_count": 192,
+    "watchers_count": 192
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-07-06",
+    "date_updated": "2025-07-17",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/puneetkeshri95/Zero-Day-Exploit-Prediction",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Zero-Day-Exploit-Prediction",
+    "repo_owner": "puneetkeshri95",
+    "repotime": "2025-07-17, 18:15:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2175,
+    "date_started": "2019-09-10",
+    "date_updated": "2025-07-16",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 294,
+    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "TongchengOpenSource",
+    "repotime": "2025-07-16, 20:27:31",
+    "stargazers_count": 1514,
+    "watchers_count": 1514
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-04",
+    "date_updated": "2025-07-15",
+    "description": "Includes Glibc Heap Explanation, Heap Exploitation, Use after free vulnerability, Buffer Overflow etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Md-Monowarul-Amin/SoftwareSecurity",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "C",
+    "repo_name": "SoftwareSecurity",
+    "repo_owner": "Md-Monowarul-Amin",
+    "repotime": "2025-07-15, 20:01:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 115,
+    "date_started": "2024-11-30",
+    "date_updated": "2025-07-15",
+    "description": "Server with vless+reality on board for my friends to bypass internet censorship ",
+    "forks_count": 1,
+    "html_url": "https://github.com/ed-asriyan/rkn-server-deploy",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Jinja",
+    "repo_name": "rkn-server-deploy",
+    "repo_owner": "ed-asriyan",
+    "repotime": "2025-07-15, 00:00:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1004,
+    "date_started": "2023-05-31",
+    "date_updated": "2025-07-14",
+    "description": "LFI: Practical, Efficient, and Secure Software-based Sandboxing",
+    "forks_count": 10,
+    "html_url": "https://github.com/zyedidia/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "C",
+    "repo_name": "lfi",
+    "repo_owner": "zyedidia",
+    "repotime": "2025-07-14, 13:54:02",
+    "stargazers_count": 80,
+    "watchers_count": 80
+}
+{
+    "commits_count": 2729,
+    "date_started": "2009-12-19",
+    "date_updated": "2025-07-14",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2247,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2025-07-14, 11:57:03",
+    "stargazers_count": 11215,
+    "watchers_count": 11215
+}
+{
+    "commits_count": 24,
+    "date_started": "2025-07-12",
+    "date_updated": "2025-07-13",
+    "description": "A modern browser extension for Chrome &amp;amp; Firefox that provides live analysis of your IP address, geolocation, DNS leaks, and WebRTC leaks. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/GeekNeuron/GeoSpot-Extension",
+    "keywords": [
+        "Chrome address leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "GeoSpot-Extension",
+    "repo_owner": "GeekNeuron",
+    "repotime": "2025-07-13, 00:14:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 680,
+    "date_started": "2017-03-06",
+    "date_updated": "2025-07-12",
+    "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
+    "forks_count": 355,
+    "html_url": "https://github.com/ssl/ezXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "ezXSS",
+    "repo_owner": "ssl",
+    "repotime": "2025-07-12, 15:36:29",
+    "stargazers_count": 2052,
+    "watchers_count": 2052
+}
+{
+    "commits_count": 17,
+    "date_started": "2025-05-24",
+    "date_updated": "2025-07-12",
+    "description": "WebKit Heap Use-After-Free Proof-of-Concept (PoC) https://dark-life944.github.io/poc/",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dark-life944/poc",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "JavaScript",
+    "repo_name": "poc",
+    "repo_owner": "Dark-life944",
+    "repotime": "2025-07-12, 03:05:31",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 58,
+    "date_started": "2025-06-24",
+    "date_updated": "2025-07-10",
+    "description": "Buffer overflow and memory corruption exploit exercises from the Protostar wargame. Analyzing, crafting payloads, and demonstrating step-by-step exploitation techniques using GDB and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dennis19-2006/protostar-exploit-exercises",
+    "keywords": [
+        "corruption overflow exploit"
+    ],
+    "language": null,
+    "repo_name": "protostar-exploit-exercises",
+    "repo_owner": "Dennis19-2006",
+    "repotime": "2025-07-10, 21:23:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-11-14",
+    "date_updated": "2025-07-09",
+    "description": "Complete list of LPE exploits for Windows (starting from 2023)",
+    "forks_count": 107,
+    "html_url": "https://github.com/MzHmO/Exploit-Street",
+    "keywords": [
+        "Windows lpe",
+        "lpe exploit",
+        "lpe exploitation",
+        "Windows lpe exploit",
+        "Windows lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Exploit-Street",
+    "repo_owner": "MzHmO",
+    "repotime": "2025-07-09, 01:39:58",
+    "stargazers_count": 805,
+    "watchers_count": 805
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-07-08",
+    "description": "Windows 7 RCE via SMBv1 buffer overflow in srv.sys",
+    "forks_count": 0,
+    "html_url": "https://github.com/thinken-cyber/Metasploit-Rat",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Shell",
+    "repo_name": "Metasploit-Rat",
+    "repo_owner": "thinken-cyber",
+    "repotime": "2025-07-08, 23:28:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 136,
+    "date_started": "2021-02-23",
+    "date_updated": "2025-07-08",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 85,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2025-07-08, 11:51:33",
+    "stargazers_count": 824,
+    "watchers_count": 824
+}
+{
+    "commits_count": 1394,
+    "date_started": "2020-06-02",
+    "date_updated": "2025-07-08",
+    "description": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
+    "forks_count": 208,
+    "html_url": "https://github.com/hadashiA/VContainer",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "VContainer",
+    "repo_owner": "hadashiA",
+    "repotime": "2025-07-08, 14:21:25",
+    "stargazers_count": 2392,
+    "watchers_count": 2392
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-07-01",
+    "date_updated": "2025-07-08",
+    "description": "Last project of 32 bit binary exploitation. There is now security to avoid exploitation but the goal is to bypass them in order to escalate privilege.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vicente118/Override",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Override",
+    "repo_owner": "Vicente118",
+    "repotime": "2025-07-08, 02:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 211,
+    "date_started": "2019-05-06",
+    "date_updated": "2025-07-03",
+    "description": "A blind XSS detection and XSS data capture framework",
+    "forks_count": 29,
+    "html_url": "https://github.com/daxAKAhackerman/XSS-Catcher",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-Catcher",
+    "repo_owner": "daxAKAhackerman",
+    "repotime": "2025-07-03, 20:00:18",
+    "stargazers_count": 171,
+    "watchers_count": 171
+}
+{
+    "commits_count": 26,
+    "date_started": "2025-06-28",
+    "date_updated": "2025-07-03",
+    "description": "Deep-dive into C-family memory vulnerabilities — stack overflow, heap corruption, format strings, and more.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ngvtdanhh/certificate-vuln1001-opensecuritytraining2",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "certificate-vuln1001-opensecuritytraining2",
+    "repo_owner": "ngvtdanhh",
+    "repotime": "2025-07-03, 22:04:21",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-07-31",
+    "date_updated": "2025-07-31",
+    "description": "Real-world web vulnerability reports including SQL Injection (SQLi), Cross-Site Scripting (XSS), CSRF, and session hijacking. Created in HTML &amp;amp; CSS for professional documentation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bugshunter-cyber/Web-Vulnerability-Reports",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "Web-Vulnerability-Reports",
+    "repo_owner": "Bugshunter-cyber",
+    "repotime": "2025-07-31, 01:03:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-07-31",
+    "date_updated": "2025-07-31",
+    "description": "Real-world web vulnerability reports including SQL Injection (SQLi), Cross-Site Scripting (XSS), CSRF, and session hijacking. Created in HTML &amp;amp; CSS for professional documentation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bugshunter-cyber/Bugshunter-cyber.github.io",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "Bugshunter-cyber.github.io",
+    "repo_owner": "Bugshunter-cyber",
+    "repotime": "2025-07-31, 00:55:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1026,
+    "date_started": "2023-05-31",
+    "date_updated": "2025-07-30",
+    "description": "Top-level repository for LFI: Practical, Efficient, and Secure Software-based Sandboxing",
+    "forks_count": 11,
+    "html_url": "https://github.com/lfi-project/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Shell",
+    "repo_name": "lfi",
+    "repo_owner": "lfi-project",
+    "repotime": "2025-07-30, 13:52:26",
+    "stargazers_count": 87,
+    "watchers_count": 87
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-06-30",
+    "date_updated": "2025-07-30",
+    "description": "A compact guide for zero-day vulnerability research, with snippets for fuzzing, exploit development, and CVE analysis. Perfect for security researchers and bug bounty hunters in a single README.md. (170 chars) Keywords: zero-day, exploit development, fuzzing, CVE analysis, bug bounty.",
+    "forks_count": 0,
+    "html_url": "https://github.com/nukIeer/Zero-Day-Research-Snippets",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "Zero-Day-Research-Snippets",
+    "repo_owner": "nukIeer",
+    "repotime": "2025-07-30, 02:25:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 48,
+    "date_started": "2024-08-31",
+    "date_updated": "2025-07-29",
+    "description": "CVE-2024-38063 is a critical security vulnerability in the Windows TCP/IP stack that allows for remote code execution (RCE)",
+    "forks_count": 7,
+    "html_url": "https://github.com/ThemeHackers/CVE-2024-38063",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Windows rce",
+        "Windows rce vulnerability",
+        "Windows remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-38063",
+    "repo_owner": "ThemeHackers",
+    "repotime": "2025-07-29, 12:49:48",
+    "stargazers_count": 35,
+    "watchers_count": 35
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-07-24",
+    "date_updated": "2025-07-24",
+    "description": "Hands-on exploitation of memory vulnerabilities in C, including buffer overflow and format string attacks. Demonstrates secure coding practices, return address hijacking, and ASLR bypass using GDB and crafted payloads.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ayeshay1144/memory-exploitation-c-attacks",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": null,
+    "repo_name": "memory-exploitation-c-attacks",
+    "repo_owner": "ayeshay1144",
+    "repotime": "2025-07-24, 15:25:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 40,
+    "date_started": "2025-07-18",
+    "date_updated": "2025-07-23",
+    "description": "PICO-8 v0.2.6b Sandbox Escape + RCE Exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/joshiemoore/p8pwn",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "Python",
+    "repo_name": "p8pwn",
+    "repo_owner": "joshiemoore",
+    "repotime": "2025-07-23, 03:13:57",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1400,
+    "date_started": "2020-06-02",
+    "date_updated": "2025-07-22",
+    "description": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
+    "forks_count": 217,
+    "html_url": "https://github.com/hadashiA/VContainer",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "VContainer",
+    "repo_owner": "hadashiA",
+    "repotime": "2025-07-22, 04:39:36",
+    "stargazers_count": 2449,
+    "watchers_count": 2449
+}
+{
+    "commits_count": 771,
+    "date_started": "2015-09-06",
+    "date_updated": "2025-07-18",
+    "description": "Detects buffer overruns and memory leaks.",
+    "forks_count": 27,
+    "html_url": "https://github.com/ssbssa/heob",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C",
+    "repo_name": "heob",
+    "repo_owner": "ssbssa",
+    "repotime": "2025-07-18, 23:15:31",
+    "stargazers_count": 193,
+    "watchers_count": 193
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-07-06",
+    "date_updated": "2025-07-17",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/puneetkeshri95/Zero-Day-Exploit-Prediction",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Zero-Day-Exploit-Prediction",
+    "repo_owner": "puneetkeshri95",
+    "repotime": "2025-07-17, 18:15:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-04",
+    "date_updated": "2025-07-15",
+    "description": "Includes Glibc Heap Explanation, Heap Exploitation, Use after free vulnerability, Buffer Overflow etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Md-Monowarul-Amin/SoftwareSecurity",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "C",
+    "repo_name": "SoftwareSecurity",
+    "repo_owner": "Md-Monowarul-Amin",
+    "repotime": "2025-07-15, 20:01:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-07-13",
+    "date_updated": "2025-07-13",
+    "description": "Exploited a classic Local File Inclusion (LFI) vulnerability in TryHackMe's Lofi room to retrieve sensitive files and capture the hidden flag — all while vibing in chill mode.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AdityaBhatt3010/TryHackMe-Lo-Fi-Room-Walkthrough",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "TryHackMe-Lo-Fi-Room-Walkthrough",
+    "repo_owner": "AdityaBhatt3010",
+    "repotime": "2025-07-13, 21:07:30",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 24,
+    "date_started": "2025-07-12",
+    "date_updated": "2025-07-13",
+    "description": "A modern browser extension for Chrome &amp;amp; Firefox that provides live analysis of your IP address, geolocation, DNS leaks, and WebRTC leaks. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/GeekNeuron/GeoSpot-Extension",
+    "keywords": [
+        "Chrome address leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "GeoSpot-Extension",
+    "repo_owner": "GeekNeuron",
+    "repotime": "2025-07-13, 00:14:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2025-05-24",
+    "date_updated": "2025-07-12",
+    "description": "WebKit Heap Use-After-Free Proof-of-Concept (PoC) https://dark-life944.github.io/poc/",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dark-life944/poc",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "JavaScript",
+    "repo_name": "poc",
+    "repo_owner": "Dark-life944",
+    "repotime": "2025-07-12, 03:05:31",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 58,
+    "date_started": "2025-06-24",
+    "date_updated": "2025-07-10",
+    "description": "Buffer overflow and memory corruption exploit exercises from the Protostar wargame. Analyzing, crafting payloads, and demonstrating step-by-step exploitation techniques using GDB and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dennis19-2006/protostar-exploit-exercises",
+    "keywords": [
+        "corruption overflow exploit"
+    ],
+    "language": null,
+    "repo_name": "protostar-exploit-exercises",
+    "repo_owner": "Dennis19-2006",
+    "repotime": "2025-07-10, 21:23:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-11-14",
+    "date_updated": "2025-07-09",
+    "description": "Complete list of LPE exploits for Windows (starting from 2023)",
+    "forks_count": 107,
+    "html_url": "https://github.com/MzHmO/Exploit-Street",
+    "keywords": [
+        "Windows lpe",
+        "lpe exploit",
+        "lpe exploitation",
+        "Windows lpe exploit",
+        "Windows lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Exploit-Street",
+    "repo_owner": "MzHmO",
+    "repotime": "2025-07-09, 01:39:58",
+    "stargazers_count": 805,
+    "watchers_count": 805
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-07-08",
+    "description": "Windows 7 RCE via SMBv1 buffer overflow in srv.sys",
+    "forks_count": 0,
+    "html_url": "https://github.com/thinken-cyber/Metasploit-Rat",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Shell",
+    "repo_name": "Metasploit-Rat",
+    "repo_owner": "thinken-cyber",
+    "repotime": "2025-07-08, 23:28:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 136,
+    "date_started": "2021-02-23",
+    "date_updated": "2025-07-08",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 85,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2025-07-08, 11:51:33",
+    "stargazers_count": 828,
+    "watchers_count": 828
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-07-01",
+    "date_updated": "2025-07-08",
+    "description": "Last project of 32 bit binary exploitation. There is now security to avoid exploitation but the goal is to bypass them in order to escalate privilege.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vicente118/Override",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Override",
+    "repo_owner": "Vicente118",
+    "repotime": "2025-07-08, 02:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 211,
+    "date_started": "2019-05-06",
+    "date_updated": "2025-07-03",
+    "description": "A blind XSS detection and XSS data capture framework",
+    "forks_count": 29,
+    "html_url": "https://github.com/daxAKAhackerman/XSS-Catcher",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-Catcher",
+    "repo_owner": "daxAKAhackerman",
+    "repotime": "2025-07-03, 20:00:18",
+    "stargazers_count": 171,
+    "watchers_count": 171
+}
+{
+    "commits_count": 26,
+    "date_started": "2025-06-28",
+    "date_updated": "2025-07-03",
+    "description": "Deep-dive into C-family memory vulnerabilities — stack overflow, heap corruption, format strings, and more.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ngvtdanhh/certificate-vuln1001-opensecuritytraining2",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "certificate-vuln1001-opensecuritytraining2",
+    "repo_owner": "ngvtdanhh",
+    "repotime": "2025-07-03, 22:04:21",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

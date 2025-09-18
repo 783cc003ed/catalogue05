@@ -1,0 +1,138 @@
+{
+    "commits_count": 65,
+    "date_started": "2015-08-24",
+    "date_updated": "2018-07-24",
+    "description": "Sleepy Puppy XSS Payload Management Framework",
+    "forks_count": 139,
+    "html_url": "https://github.com/Netflix-Skunkworks/sleepy-puppy",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sleepy-puppy",
+    "repo_owner": "Netflix-Skunkworks",
+    "repotime": "2018-07-24, 13:33:08",
+    "stargazers_count": 1046,
+    "watchers_count": 1046
+}
+{
+    "commits_count": 251,
+    "date_started": "2016-02-17",
+    "date_updated": "2018-07-24",
+    "description": "psychoPATH - an advanced path traversal tool. Features: evasive techniques, dynamic web root list generation, output encoding, site map-searching payload generator, LFI mode, nix &amp;amp; windows support, single byte generator, payload export.",
+    "forks_count": 91,
+    "html_url": "https://github.com/ewilded/psychoPATH",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Java",
+    "repo_name": "psychoPATH",
+    "repo_owner": "ewilded",
+    "repotime": "2018-07-24, 09:37:49",
+    "stargazers_count": 275,
+    "watchers_count": 275
+}
+{
+    "commits_count": 15,
+    "date_started": "2018-07-16",
+    "date_updated": "2018-07-21",
+    "description": "&amp;&#35;35; All the News That's Fit to Scrape  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Overview  In this assignment, you'll create a web app that lets users view and leave comments on the latest news. But you're not going to actually write any articles; instead, you'll flex your Mongoose and Cheerio muscles to scrape news from another site.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Before You Begin  1. Create a GitHub repo for this assignment and clone it to your computer. Any name will do -- just make sure it's related to this project in some fashion.  2. Run `npm init`. When that's finished, install and save these npm packages:  3. express  4. express-handlebars  5. mongoose  6. body-parser  7. cheerio  8. request  9. **NOTE**: If you want to earn complete credit for your work, you must use all six of these packages in your assignment.  10. In order to deploy your project to Heroku, you must set up an mLab provision. mLab is remote MongoDB database that Heroku supports natively. Follow these steps to get it running:  11. Create a Heroku ...",
+    "forks_count": 5,
+    "html_url": "https://github.com/tastaub/mongooseScraper",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "HTML",
+    "repo_name": "mongooseScraper",
+    "repo_owner": "tastaub",
+    "repotime": "2018-07-21, 19:11:30",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-07-20",
+    "date_updated": "2018-07-20",
+    "description": "CVE-2018-2894 WebLogic Unrestricted File Upload Lead To RCE Check Script",
+    "forks_count": 49,
+    "html_url": "https://github.com/LandGrey/CVE-2018-2894",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-2894",
+    "repo_owner": "LandGrey",
+    "repotime": "2018-07-20, 20:46:37",
+    "stargazers_count": 139,
+    "watchers_count": 139
+}
+{
+    "commits_count": 110,
+    "date_started": "2013-10-30",
+    "date_updated": "2018-07-19",
+    "description": "A utility extension that helps Drupal scale when unauthenticated users are presented with forms containing Address Fields.",
+    "forks_count": 7,
+    "html_url": "https://github.com/asmallwebfirm/scale_addressfield",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "scale_addressfield",
+    "repo_owner": "asmallwebfirm",
+    "repotime": "2018-07-19, 16:43:12",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 31,
+    "date_started": "2013-04-02",
+    "date_updated": "2018-07-17",
+    "description": "Inject C&amp;&#35;35; code into a running process",
+    "forks_count": 72,
+    "html_url": "https://github.com/ChadSki/SharpNeedle",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "SharpNeedle",
+    "repo_owner": "ChadSki",
+    "repotime": "2018-07-17, 19:18:25",
+    "stargazers_count": 341,
+    "watchers_count": 341
+}
+{
+    "commits_count": 19,
+    "date_started": "2018-07-10",
+    "date_updated": "2018-07-17",
+    "description": "XML external entity (XXE) vulnerability in /ssc/fm-ws/services in Fortify Software Security Center (SSC) 17.10, 17.20 &amp;amp; 18.10  (0day CVE-2018-12463)",
+    "forks_count": 4,
+    "html_url": "https://github.com/alt3kx/CVE-2018-12463",
+    "keywords": [
+        "xml external entity",
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-12463",
+    "repo_owner": "alt3kx",
+    "repotime": "2018-07-17, 10:13:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 50,
+    "date_started": "2018-04-25",
+    "date_updated": "2018-07-08",
+    "description": "Some exploits, which I’ve created during my OSCE preparation.",
+    "forks_count": 37,
+    "html_url": "https://github.com/dhn/OSCE",
+    "keywords": [
+        "dep bypass",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "OSCE",
+    "repo_owner": "dhn",
+    "repotime": "2018-07-08, 01:56:54",
+    "stargazers_count": 83,
+    "watchers_count": 83
+}

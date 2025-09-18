@@ -1,0 +1,34 @@
+{
+    "commits_count": 232,
+    "date_started": "2013-02-08",
+    "date_updated": "2014-10-24",
+    "description": "Static heap reachability analysis for Java bytecode and Android memory leak finder.",
+    "forks_count": 15,
+    "html_url": "https://github.com/cuplv/thresher",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Java",
+    "repo_name": "thresher",
+    "repo_owner": "cuplv",
+    "repotime": "2014-10-24, 21:22:19",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 1259,
+    "date_started": "2012-09-02",
+    "date_updated": "2014-10-21",
+    "description": "smali patcher for Android code injection",
+    "forks_count": 42,
+    "html_url": "https://github.com/mateor/auto-patcher",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Shell",
+    "repo_name": "auto-patcher",
+    "repo_owner": "mateor",
+    "repotime": "2014-10-21, 00:31:13",
+    "stargazers_count": 75,
+    "watchers_count": 75
+}

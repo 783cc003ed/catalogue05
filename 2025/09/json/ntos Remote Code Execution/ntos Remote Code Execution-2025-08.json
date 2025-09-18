@@ -1,0 +1,85 @@
+{
+    "commits_count": 11,
+    "date_started": "2025-08-27",
+    "date_updated": "2025-08-31",
+    "description": "This project provides a comprehensive security monitoring system designed to detect unknown threats and suspicious activities in real-time. The system combines rule-based detection with statistical analysis to identify potential security breaches before they cause significant damage.",
+    "forks_count": 0,
+    "html_url": "https://github.com/musoniisaac/Zero-Day_Detector",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "Zero-Day_Detector",
+    "repo_owner": "musoniisaac",
+    "repotime": "2025-08-31, 18:53:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-08-26",
+    "date_updated": "2025-08-26",
+    "description": "Exodus Fake Balance - educational security tool for demonstrating wallet vulnerabilities. Learn about balance spoofing techniques and protect yourself from crypto scams.",
+    "forks_count": 9,
+    "html_url": "https://github.com/Angelagoedhart598/Exodus-Fake-Balance-New",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Exodus-Fake-Balance-New",
+    "repo_owner": "Angelagoedhart598",
+    "repotime": "2025-08-26, 18:12:19",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-08-26",
+    "date_updated": "2025-08-25",
+    "description": "Esta es una herramienta de línea de comandos escrita en Python para inyectar payloads de XXE (XML External Entity) en archivos .xlsx. Su propósito es facilitar la experimentación y la demostración de vulnerabilidades XXE en entornos controlados de pentesting y laboratorios de seguridad. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/arthusu/xxe_injector_xlsx",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "xxe_injector_xlsx",
+    "repo_owner": "arthusu",
+    "repotime": "2025-08-25, 22:07:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1404,
+    "date_started": "2016-11-14",
+    "date_updated": "2025-08-14",
+    "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (&amp;quot;transparent&amp;quot;) encryption. SQL, NoSQL.",
+    "forks_count": 132,
+    "html_url": "https://github.com/cossacklabs/acra",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "acra",
+    "repo_owner": "cossacklabs",
+    "repotime": "2025-08-14, 18:32:28",
+    "stargazers_count": 1428,
+    "watchers_count": 1428
+}
+{
+    "commits_count": 28,
+    "date_started": "2025-04-15",
+    "date_updated": "2025-08-11",
+    "description": "Respostas dos exercícios da disciplina de LPED",
+    "forks_count": 0,
+    "html_url": "https://github.com/cabarros3/respostas-lped",
+    "keywords": [
+        "lpe dos"
+    ],
+    "language": "TypeScript",
+    "repo_name": "respostas-lped",
+    "repo_owner": "cabarros3",
+    "repotime": "2025-08-11, 10:50:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

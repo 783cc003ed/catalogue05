@@ -1,0 +1,947 @@
+{
+    "commits_count": 8,
+    "date_started": "2019-10-14",
+    "date_updated": "2024-10-31",
+    "description": "A simple SSRF-testing sheriff written in Go",
+    "forks_count": 64,
+    "html_url": "https://github.com/teknogeek/ssrf-sheriff",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "ssrf-sheriff",
+    "repo_owner": "teknogeek",
+    "repotime": "2024-10-31, 13:47:15",
+    "stargazers_count": 328,
+    "watchers_count": 328
+}
+{
+    "commits_count": 73,
+    "date_started": "2018-03-11",
+    "date_updated": "2024-10-31",
+    "description": "Awesome XSS stuff",
+    "forks_count": 770,
+    "html_url": "https://github.com/s0md3v/AwesomeXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "AwesomeXSS",
+    "repo_owner": "s0md3v",
+    "repotime": "2024-10-31, 00:31:09",
+    "stargazers_count": 4942,
+    "watchers_count": 4942
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-28",
+    "date_updated": "2024-10-28",
+    "description": "The Zero-Day Vulnerability Scanner is a Python-based tool designed to detect potential security vulnerabilities in web applications through anomaly detection and fuzz testing. It utilizes advanced techniques to identify unexpected behaviors in system resources, which could indicate exploitable weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mr-Najm-Ouchen/Zero-Day-Vulnerability-Scanner",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Zero-Day-Vulnerability-Scanner",
+    "repo_owner": "Mr-Najm-Ouchen",
+    "repotime": "2024-10-28, 21:51:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 26,
+    "date_started": "2024-10-10",
+    "date_updated": "2024-10-28",
+    "description": "A web application built with Flask for managing e-books, focusing on securing against vulnerabilities like SQL Injection, XSS, CSRF, Session Hijacking, and File Upload attacks. Features a user interface based on the &amp;quot;Ebook Landing&amp;quot; template and various security mechanisms for safe usage.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rafalgajos/secure-ebook-platform",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "secure-ebook-platform",
+    "repo_owner": "rafalgajos",
+    "repotime": "2024-10-28, 14:49:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-23",
+    "date_updated": "2024-10-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "repo_owner": "Bogdy88",
+    "repotime": "2024-10-23, 01:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-01-28",
+    "date_updated": "2024-10-21",
+    "description": "iOS jailbreak-free code injection framework. ",
+    "forks_count": 18,
+    "html_url": "https://github.com/camila314/enzyme",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "enzyme",
+    "repo_owner": "camila314",
+    "repotime": "2024-10-21, 18:04:57",
+    "stargazers_count": 116,
+    "watchers_count": 116
+}
+{
+    "commits_count": 34,
+    "date_started": "2023-11-01",
+    "date_updated": "2024-10-20",
+    "description": "exploit for f5-big-ip RCE cve-2023-46747",
+    "forks_count": 45,
+    "html_url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46747-RCE",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2024-10-20, 18:27:37",
+    "stargazers_count": 204,
+    "watchers_count": 204
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-20",
+    "date_updated": "2024-10-20",
+    "description": "XploitHunter is a Python-based tool designed to scan websites for common vulnerabilities, including SQL Injection, XSS, CSRF, insecure headers, directory traversal and insecure file uploads.",
+    "forks_count": 0,
+    "html_url": "https://github.com/greg1703/XploitHunter",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "XploitHunter",
+    "repo_owner": "greg1703",
+    "repotime": "2024-10-20, 11:54:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-09-10",
+    "date_updated": "2024-10-17",
+    "description": "A POC exploit for CVE-2024-5836 and CVE-2024-6778, allowing for a sandbox escape from a Chrome extension. ",
+    "forks_count": 13,
+    "html_url": "https://github.com/ading2210/CVE-2024-6778-POC",
+    "keywords": [
+        "Chrome sandbox escape"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2024-6778-POC",
+    "repo_owner": "ading2210",
+    "repotime": "2024-10-17, 01:12:24",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-08-07",
+    "date_updated": "2024-10-16",
+    "description": "LMAP (large language model mapper) is like NMAP for LLM, is an LLM Vulnerability Scanner and Zero-day Vulnerability Fuzzer.",
+    "forks_count": 4,
+    "html_url": "https://github.com/TrustAI-laboratory/LMAP",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "LMAP",
+    "repo_owner": "TrustAI-laboratory",
+    "repotime": "2024-10-16, 16:00:47",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 162,
+    "date_started": "2024-10-13",
+    "date_updated": "2024-10-16",
+    "description": "The WinRAR Exploit Builder is a C&amp;&#35;35; project designed to create an exploit targeting a vulnerability in WinRAR.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SamBodys/WinRAR-Exploit-Builder",
+    "keywords": [
+        "Win 0day"
+    ],
+    "language": "C#",
+    "repo_name": "WinRAR-Exploit-Builder",
+    "repo_owner": "SamBodys",
+    "repotime": "2024-10-16, 04:38:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-15",
+    "date_updated": "2024-10-15",
+    "description": "Repo part of a training session",
+    "forks_count": 0,
+    "html_url": "https://github.com/bardrotzer/stock-predictions-ai-app",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "JavaScript",
+    "repo_name": "stock-predictions-ai-app",
+    "repo_owner": "bardrotzer",
+    "repotime": "2024-10-15, 14:24:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-12",
+    "date_updated": "2024-10-14",
+    "description": "This project is a WDM static library that hooks native functions in the kernel, bypassing KPP through virtualization.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lbird90894/hyperhook",
+    "keywords": [
+        "kpp bypass"
+    ],
+    "language": "C",
+    "repo_name": "hyperhook",
+    "repo_owner": "lbird90894",
+    "repotime": "2024-10-14, 21:40:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 111,
+    "date_started": "2017-03-21",
+    "date_updated": "2024-10-12",
+    "description": "SSRF (Server Side Request Forgery) testing resources",
+    "forks_count": 483,
+    "html_url": "https://github.com/cujanovic/SSRF-Testing",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Testing",
+    "repo_owner": "cujanovic",
+    "repotime": "2024-10-12, 14:43:20",
+    "stargazers_count": 2413,
+    "watchers_count": 2413
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-06-23",
+    "date_updated": "2024-10-09",
+    "description": "heart attack data analysis | created during the 3wk AI Camp summer session with 5 other team members + my instructor",
+    "forks_count": 0,
+    "html_url": "https://github.com/keil4ni/keil4ni.github.io",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "keil4ni.github.io",
+    "repo_owner": "keil4ni",
+    "repotime": "2024-10-09, 23:17:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-09-19",
+    "date_updated": "2024-10-06",
+    "description": "Small demo to show Exploiting XML External Entities to fully understand the concepts in https://tryhackme.com/r/room/xxeinjection",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nallixion/aspnet-XXE-Demo",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "JavaScript",
+    "repo_name": "aspnet-XXE-Demo",
+    "repo_owner": "Nallixion",
+    "repotime": "2024-10-06, 20:59:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-02-28",
+    "date_updated": "2024-10-05",
+    "description": "LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2023-40000",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-40000",
+    "repo_owner": "rxerium",
+    "repotime": "2024-10-05, 07:19:09",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 45,
+    "date_started": "2024-08-07",
+    "date_updated": "2024-10-02",
+    "description": "Fraktal's take on building an affordable Laser Fault Injection Rig",
+    "forks_count": 6,
+    "html_url": "https://github.com/fraktalcyber/lfi-rig",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi-rig",
+    "repo_owner": "fraktalcyber",
+    "repotime": "2024-10-02, 09:54:42",
+    "stargazers_count": 85,
+    "watchers_count": 85
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-10-14",
+    "date_updated": "2024-10-31",
+    "description": "A simple SSRF-testing sheriff written in Go",
+    "forks_count": 64,
+    "html_url": "https://github.com/teknogeek/ssrf-sheriff",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "ssrf-sheriff",
+    "repo_owner": "teknogeek",
+    "repotime": "2024-10-31, 13:47:15",
+    "stargazers_count": 329,
+    "watchers_count": 329
+}
+{
+    "commits_count": 73,
+    "date_started": "2018-03-11",
+    "date_updated": "2024-10-31",
+    "description": "Awesome XSS stuff",
+    "forks_count": 770,
+    "html_url": "https://github.com/s0md3v/AwesomeXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "AwesomeXSS",
+    "repo_owner": "s0md3v",
+    "repotime": "2024-10-31, 00:31:09",
+    "stargazers_count": 4942,
+    "watchers_count": 4942
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-28",
+    "date_updated": "2024-10-28",
+    "description": "The Zero-Day Vulnerability Scanner is a Python-based tool designed to detect potential security vulnerabilities in web applications through anomaly detection and fuzz testing. It utilizes advanced techniques to identify unexpected behaviors in system resources, which could indicate exploitable weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mr-Najm-Ouchen/Zero-Day-Vulnerability-Scanner",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Zero-Day-Vulnerability-Scanner",
+    "repo_owner": "Mr-Najm-Ouchen",
+    "repotime": "2024-10-28, 21:51:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 26,
+    "date_started": "2024-10-10",
+    "date_updated": "2024-10-28",
+    "description": "A web application built with Flask for managing e-books, focusing on securing against vulnerabilities like SQL Injection, XSS, CSRF, Session Hijacking, and File Upload attacks. Features a user interface based on the &amp;quot;Ebook Landing&amp;quot; template and various security mechanisms for safe usage.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rafalgajos/secure-ebook-platform",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "secure-ebook-platform",
+    "repo_owner": "rafalgajos",
+    "repotime": "2024-10-28, 14:49:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-23",
+    "date_updated": "2024-10-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "repo_owner": "Bogdy88",
+    "repotime": "2024-10-23, 01:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-01-28",
+    "date_updated": "2024-10-21",
+    "description": "iOS jailbreak-free code injection framework. ",
+    "forks_count": 18,
+    "html_url": "https://github.com/camila314/enzyme",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "enzyme",
+    "repo_owner": "camila314",
+    "repotime": "2024-10-21, 18:04:57",
+    "stargazers_count": 116,
+    "watchers_count": 116
+}
+{
+    "commits_count": 34,
+    "date_started": "2023-11-01",
+    "date_updated": "2024-10-20",
+    "description": "exploit for f5-big-ip RCE cve-2023-46747",
+    "forks_count": 45,
+    "html_url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46747-RCE",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2024-10-20, 18:27:37",
+    "stargazers_count": 204,
+    "watchers_count": 204
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-20",
+    "date_updated": "2024-10-20",
+    "description": "XploitHunter is a Python-based tool designed to scan websites for common vulnerabilities, including SQL Injection, XSS, CSRF, insecure headers, directory traversal and insecure file uploads.",
+    "forks_count": 0,
+    "html_url": "https://github.com/greg1703/XploitHunter",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "XploitHunter",
+    "repo_owner": "greg1703",
+    "repotime": "2024-10-20, 11:54:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-09-10",
+    "date_updated": "2024-10-17",
+    "description": "A POC exploit for CVE-2024-5836 and CVE-2024-6778, allowing for a sandbox escape from a Chrome extension. ",
+    "forks_count": 13,
+    "html_url": "https://github.com/ading2210/CVE-2024-6778-POC",
+    "keywords": [
+        "Chrome sandbox escape"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2024-6778-POC",
+    "repo_owner": "ading2210",
+    "repotime": "2024-10-17, 01:12:24",
+    "stargazers_count": 94,
+    "watchers_count": 94
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-08-07",
+    "date_updated": "2024-10-16",
+    "description": "LMAP (large language model mapper) is like NMAP for LLM, is an LLM Vulnerability Scanner and Zero-day Vulnerability Fuzzer.",
+    "forks_count": 4,
+    "html_url": "https://github.com/TrustAI-laboratory/LMAP",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "LMAP",
+    "repo_owner": "TrustAI-laboratory",
+    "repotime": "2024-10-16, 16:00:47",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 162,
+    "date_started": "2024-10-13",
+    "date_updated": "2024-10-16",
+    "description": "The WinRAR Exploit Builder is a C&amp;&#35;35; project designed to create an exploit targeting a vulnerability in WinRAR.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SamBodys/WinRAR-Exploit-Builder",
+    "keywords": [
+        "Win 0day"
+    ],
+    "language": "C#",
+    "repo_name": "WinRAR-Exploit-Builder",
+    "repo_owner": "SamBodys",
+    "repotime": "2024-10-16, 04:38:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-15",
+    "date_updated": "2024-10-15",
+    "description": "Repo part of a training session",
+    "forks_count": 0,
+    "html_url": "https://github.com/bardrotzer/stock-predictions-ai-app",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "JavaScript",
+    "repo_name": "stock-predictions-ai-app",
+    "repo_owner": "bardrotzer",
+    "repotime": "2024-10-15, 14:24:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-12",
+    "date_updated": "2024-10-14",
+    "description": "This project is a WDM static library that hooks native functions in the kernel, bypassing KPP through virtualization.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lbird90894/hyperhook",
+    "keywords": [
+        "kpp bypass"
+    ],
+    "language": "C",
+    "repo_name": "hyperhook",
+    "repo_owner": "lbird90894",
+    "repotime": "2024-10-14, 21:40:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 111,
+    "date_started": "2017-03-21",
+    "date_updated": "2024-10-12",
+    "description": "SSRF (Server Side Request Forgery) testing resources",
+    "forks_count": 483,
+    "html_url": "https://github.com/cujanovic/SSRF-Testing",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Testing",
+    "repo_owner": "cujanovic",
+    "repotime": "2024-10-12, 14:43:20",
+    "stargazers_count": 2413,
+    "watchers_count": 2413
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-06-23",
+    "date_updated": "2024-10-09",
+    "description": "heart attack data analysis | created during the 3wk AI Camp summer session with 5 other team members + my instructor",
+    "forks_count": 0,
+    "html_url": "https://github.com/keil4ni/keil4ni.github.io",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "keil4ni.github.io",
+    "repo_owner": "keil4ni",
+    "repotime": "2024-10-09, 23:17:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-09-19",
+    "date_updated": "2024-10-06",
+    "description": "Small demo to show Exploiting XML External Entities to fully understand the concepts in https://tryhackme.com/r/room/xxeinjection",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nallixion/aspnet-XXE-Demo",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "JavaScript",
+    "repo_name": "aspnet-XXE-Demo",
+    "repo_owner": "Nallixion",
+    "repotime": "2024-10-06, 20:59:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-02-28",
+    "date_updated": "2024-10-05",
+    "description": "LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2023-40000",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-40000",
+    "repo_owner": "rxerium",
+    "repotime": "2024-10-05, 07:19:09",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 45,
+    "date_started": "2024-08-07",
+    "date_updated": "2024-10-02",
+    "description": "Fraktal's take on building an affordable Laser Fault Injection Rig",
+    "forks_count": 7,
+    "html_url": "https://github.com/fraktalcyber/lfi-rig",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi-rig",
+    "repo_owner": "fraktalcyber",
+    "repotime": "2024-10-02, 09:54:42",
+    "stargazers_count": 87,
+    "watchers_count": 87
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-10-14",
+    "date_updated": "2024-10-31",
+    "description": "A simple SSRF-testing sheriff written in Go",
+    "forks_count": 64,
+    "html_url": "https://github.com/teknogeek/ssrf-sheriff",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "ssrf-sheriff",
+    "repo_owner": "teknogeek",
+    "repotime": "2024-10-31, 13:47:15",
+    "stargazers_count": 329,
+    "watchers_count": 329
+}
+{
+    "commits_count": 73,
+    "date_started": "2018-03-11",
+    "date_updated": "2024-10-31",
+    "description": "Awesome XSS stuff",
+    "forks_count": 773,
+    "html_url": "https://github.com/s0md3v/AwesomeXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "AwesomeXSS",
+    "repo_owner": "s0md3v",
+    "repotime": "2024-10-31, 00:31:09",
+    "stargazers_count": 4956,
+    "watchers_count": 4956
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-10-28",
+    "date_updated": "2024-10-28",
+    "description": "The Zero-Day Vulnerability Scanner is a Python-based tool designed to detect potential security vulnerabilities in web applications through anomaly detection and fuzz testing. It utilizes advanced techniques to identify unexpected behaviors in system resources, which could indicate exploitable weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mr-Najm-Ouchen/Zero-Day-Vulnerability-Scanner",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Zero-Day-Vulnerability-Scanner",
+    "repo_owner": "Mr-Najm-Ouchen",
+    "repotime": "2024-10-28, 21:51:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 26,
+    "date_started": "2024-10-10",
+    "date_updated": "2024-10-28",
+    "description": "A web application built with Flask for managing e-books, focusing on securing against vulnerabilities like SQL Injection, XSS, CSRF, Session Hijacking, and File Upload attacks. Features a user interface based on the &amp;quot;Ebook Landing&amp;quot; template and various security mechanisms for safe usage.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rafalgajos/secure-ebook-platform",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "secure-ebook-platform",
+    "repo_owner": "rafalgajos",
+    "repotime": "2024-10-28, 14:49:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-23",
+    "date_updated": "2024-10-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "repo_owner": "Bogdy88",
+    "repotime": "2024-10-23, 01:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-01-28",
+    "date_updated": "2024-10-21",
+    "description": "iOS jailbreak-free code injection framework. ",
+    "forks_count": 18,
+    "html_url": "https://github.com/camila314/enzyme",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "enzyme",
+    "repo_owner": "camila314",
+    "repotime": "2024-10-21, 18:04:57",
+    "stargazers_count": 117,
+    "watchers_count": 117
+}
+{
+    "commits_count": 34,
+    "date_started": "2023-11-01",
+    "date_updated": "2024-10-20",
+    "description": "exploit for f5-big-ip RCE cve-2023-46747",
+    "forks_count": 45,
+    "html_url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46747-RCE",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2024-10-20, 18:27:37",
+    "stargazers_count": 204,
+    "watchers_count": 204
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-20",
+    "date_updated": "2024-10-20",
+    "description": "XploitHunter is a Python-based tool designed to scan websites for common vulnerabilities, including SQL Injection, XSS, CSRF, insecure headers, directory traversal and insecure file uploads.",
+    "forks_count": 0,
+    "html_url": "https://github.com/greg1703/XploitHunter",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "XploitHunter",
+    "repo_owner": "greg1703",
+    "repotime": "2024-10-20, 11:54:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-09-10",
+    "date_updated": "2024-10-17",
+    "description": "A POC exploit for CVE-2024-5836 and CVE-2024-6778, allowing for a sandbox escape from a Chrome extension. ",
+    "forks_count": 13,
+    "html_url": "https://github.com/ading2210/CVE-2024-6778-POC",
+    "keywords": [
+        "Chrome sandbox escape"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2024-6778-POC",
+    "repo_owner": "ading2210",
+    "repotime": "2024-10-17, 01:12:24",
+    "stargazers_count": 94,
+    "watchers_count": 94
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-08-07",
+    "date_updated": "2024-10-16",
+    "description": "LMAP (large language model mapper) is like NMAP for LLM, is an LLM Vulnerability Scanner and Zero-day Vulnerability Fuzzer.",
+    "forks_count": 4,
+    "html_url": "https://github.com/TrustAI-laboratory/LMAP",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "LMAP",
+    "repo_owner": "TrustAI-laboratory",
+    "repotime": "2024-10-16, 16:00:47",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 162,
+    "date_started": "2024-10-13",
+    "date_updated": "2024-10-16",
+    "description": "The WinRAR Exploit Builder is a C&amp;&#35;35; project designed to create an exploit targeting a vulnerability in WinRAR.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SamBodys/WinRAR-Exploit-Builder",
+    "keywords": [
+        "Win 0day"
+    ],
+    "language": "C#",
+    "repo_name": "WinRAR-Exploit-Builder",
+    "repo_owner": "SamBodys",
+    "repotime": "2024-10-16, 04:38:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-15",
+    "date_updated": "2024-10-15",
+    "description": "Repo part of a training session",
+    "forks_count": 0,
+    "html_url": "https://github.com/bardrotzer/stock-predictions-ai-app",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "JavaScript",
+    "repo_name": "stock-predictions-ai-app",
+    "repo_owner": "bardrotzer",
+    "repotime": "2024-10-15, 14:24:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-12",
+    "date_updated": "2024-10-14",
+    "description": "This project is a WDM static library that hooks native functions in the kernel, bypassing KPP through virtualization.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lbird90894/hyperhook",
+    "keywords": [
+        "kpp bypass"
+    ],
+    "language": "C",
+    "repo_name": "hyperhook",
+    "repo_owner": "lbird90894",
+    "repotime": "2024-10-14, 21:40:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 111,
+    "date_started": "2017-03-21",
+    "date_updated": "2024-10-12",
+    "description": "SSRF (Server Side Request Forgery) testing resources",
+    "forks_count": 484,
+    "html_url": "https://github.com/cujanovic/SSRF-Testing",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Testing",
+    "repo_owner": "cujanovic",
+    "repotime": "2024-10-12, 14:43:20",
+    "stargazers_count": 2425,
+    "watchers_count": 2425
+}
+{
+    "commits_count": 48,
+    "date_started": "2023-01-24",
+    "date_updated": "2024-10-11",
+    "description": "XSSRocket it is a tool designed for offensive security and XSS (Cross-Site Scripting) attacks.",
+    "forks_count": 35,
+    "html_url": "https://github.com/blackhatethicalhacking/XSSRocket",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Shell",
+    "repo_name": "XSSRocket",
+    "repo_owner": "blackhatethicalhacking",
+    "repotime": "2024-10-11, 12:18:15",
+    "stargazers_count": 147,
+    "watchers_count": 147
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-06-23",
+    "date_updated": "2024-10-09",
+    "description": "heart attack data analysis | created during the 3wk AI Camp summer session with 5 other team members + my instructor",
+    "forks_count": 0,
+    "html_url": "https://github.com/keil4ni/keil4ni.github.io",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "keil4ni.github.io",
+    "repo_owner": "keil4ni",
+    "repotime": "2024-10-09, 23:17:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-09-19",
+    "date_updated": "2024-10-06",
+    "description": "Small demo to show Exploiting XML External Entities to fully understand the concepts in https://tryhackme.com/r/room/xxeinjection",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nallixion/aspnet-XXE-Demo",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "JavaScript",
+    "repo_name": "aspnet-XXE-Demo",
+    "repo_owner": "Nallixion",
+    "repotime": "2024-10-06, 20:59:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-02-28",
+    "date_updated": "2024-10-05",
+    "description": "LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2023-40000",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-40000",
+    "repo_owner": "rxerium",
+    "repotime": "2024-10-05, 07:19:09",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 45,
+    "date_started": "2024-08-07",
+    "date_updated": "2024-10-02",
+    "description": "Fraktal's take on building an affordable Laser Fault Injection Rig",
+    "forks_count": 7,
+    "html_url": "https://github.com/fraktalcyber/lfi-rig",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi-rig",
+    "repo_owner": "fraktalcyber",
+    "repotime": "2024-10-02, 09:54:42",
+    "stargazers_count": 87,
+    "watchers_count": 87
+}

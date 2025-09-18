@@ -54,3 +54,115 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 14,
+    "date_started": "2024-11-20",
+    "date_updated": "2024-11-26",
+    "description": "How to convert SQL files to csv files to implement injection of brine waters",
+    "forks_count": 0,
+    "html_url": "https://github.com/BehroozEtebari-DWR/O-G-data-retrieval",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "O-G-data-retrieval",
+    "repo_owner": "BehroozEtebari-DWR",
+    "repotime": "2024-11-26, 12:47:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 40,
+    "date_started": "2021-04-22",
+    "date_updated": "2024-11-19",
+    "description": "Collection of Windows Privilege Escalation (Analyse/PoC/Exploit)",
+    "forks_count": 79,
+    "html_url": "https://github.com/ycdxsb/WindowsPrivilegeEscalation",
+    "keywords": [
+        "Win escalation of privileges poc",
+        "escalation of privileges poc",
+        "Win escalation of privileges",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges poc",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "WindowsPrivilegeEscalation",
+    "repo_owner": "ycdxsb",
+    "repotime": "2024-11-19, 21:39:12",
+    "stargazers_count": 420,
+    "watchers_count": 420
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-18",
+    "date_updated": "2024-11-18",
+    "description": "Source code of exploit for buffer overflow in Epp.sys kernel driver. This exploit leverages that buffer overflow to escalate privileges",
+    "forks_count": 0,
+    "html_url": "https://github.com/Amunius/EppLPE",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "C++",
+    "repo_name": "EppLPE",
+    "repo_owner": "Amunius",
+    "repotime": "2024-11-18, 15:23:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2024-11-20",
+    "date_updated": "2024-11-26",
+    "description": "How to convert SQL files to csv files to implement injection of brine waters",
+    "forks_count": 0,
+    "html_url": "https://github.com/BehroozEtebari-DWR/O-G-data-retrieval",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "O-G-data-retrieval",
+    "repo_owner": "BehroozEtebari-DWR",
+    "repotime": "2024-11-26, 12:47:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 40,
+    "date_started": "2021-04-22",
+    "date_updated": "2024-11-19",
+    "description": "Collection of Windows Privilege Escalation (Analyse/PoC/Exploit)",
+    "forks_count": 79,
+    "html_url": "https://github.com/ycdxsb/WindowsPrivilegeEscalation",
+    "keywords": [
+        "Win escalation of privileges poc",
+        "escalation of privileges poc",
+        "Win escalation of privileges",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges poc",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "WindowsPrivilegeEscalation",
+    "repo_owner": "ycdxsb",
+    "repotime": "2024-11-19, 21:39:12",
+    "stargazers_count": 420,
+    "watchers_count": 420
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-18",
+    "date_updated": "2024-11-18",
+    "description": "Source code of exploit for buffer overflow in Epp.sys kernel driver. This exploit leverages that buffer overflow to escalate privileges",
+    "forks_count": 0,
+    "html_url": "https://github.com/Amunius/EppLPE",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "C++",
+    "repo_name": "EppLPE",
+    "repo_owner": "Amunius",
+    "repotime": "2024-11-18, 15:23:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

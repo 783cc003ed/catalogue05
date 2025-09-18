@@ -1,0 +1,69 @@
+{
+    "commits_count": 15,
+    "date_started": "2021-01-03",
+    "date_updated": "2021-03-30",
+    "description": "The problem that this case study is dealing with predicts the location that a user is most likely to book for the first time. The accurate prediction helps to decrease the average time required to book by sharing more personalized recommendations and also in better forecasting of the demand. We use the browser’s session data as well as the user’s demographic information that is provided to us to create features that help in solving the problem.",
+    "forks_count": 0,
+    "html_url": "https://github.com/NamrataThakur/Airbnb-New-User-Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Airbnb-New-User-Prediction",
+    "repo_owner": "NamrataThakur",
+    "repotime": "2021-03-30, 21:40:21",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 49,
+    "date_started": "2021-03-18",
+    "date_updated": "2021-03-17",
+    "description": "Using Transformers, Attention Based Seq2Seq, and Deep Reinforcement Learning to predict the next 10 songs listened by a user in a session",
+    "forks_count": 0,
+    "html_url": "https://github.com/ahmad0790/spotify-sequential-track-sequence-prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "spotify-sequential-track-sequence-prediction",
+    "repo_owner": "ahmad0790",
+    "repotime": "2021-03-17, 21:50:50",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 27,
+    "date_started": "2020-05-20",
+    "date_updated": "2021-03-10",
+    "description": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list",
+    "forks_count": 1320,
+    "html_url": "https://github.com/LandGrey/SpringBootVulExploit",
+    "keywords": [
+        "rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "SpringBootVulExploit",
+    "repo_owner": "LandGrey",
+    "repotime": "2021-03-10, 21:03:17",
+    "stargazers_count": 6034,
+    "watchers_count": 6034
+}
+{
+    "commits_count": 65,
+    "date_started": "2021-02-16",
+    "date_updated": "2021-03-09",
+    "description": "A Next.js (React + Node) application built with secure authentication, session persistence and follower/following relationships between users. Includes ability to set / upload profile photos",
+    "forks_count": 1,
+    "html_url": "https://github.com/justinjaeger/Awards-Predictions-App",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Awards-Predictions-App",
+    "repo_owner": "justinjaeger",
+    "repotime": "2021-03-09, 22:49:40",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}

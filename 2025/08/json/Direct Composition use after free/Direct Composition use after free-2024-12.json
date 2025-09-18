@@ -377,3 +377,744 @@
     "stargazers_count": 9,
     "watchers_count": 9
 }
+{
+    "commits_count": 286,
+    "date_started": "2021-02-26",
+    "date_updated": "2024-12-31",
+    "description": "Local File Inclusion discovery and exploitation tool",
+    "forks_count": 40,
+    "html_url": "https://github.com/hansmach1ne/LFImap",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "LFImap",
+    "repo_owner": "hansmach1ne",
+    "repotime": "2024-12-31, 01:13:47",
+    "stargazers_count": 319,
+    "watchers_count": 319
+}
+{
+    "commits_count": 40,
+    "date_started": "2024-12-23",
+    "date_updated": "2024-12-28",
+    "description": "An educational project featuring a vulnerable and patched Turkish financial news website to learn about web security, demonstrating XSS, SQL Injection, CWE-863, SSRF, Path Traversal, and Unrestricted File Upload vulnerabilities with fixes",
+    "forks_count": 0,
+    "html_url": "https://github.com/mbatinefe/TurkishFinancialNews",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "PHP",
+    "repo_name": "TurkishFinancialNews",
+    "repo_owner": "mbatinefe",
+    "repotime": "2024-12-28, 23:44:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-27",
+    "date_updated": "2024-12-27",
+    "description": "Express.js application vulnerable to injection attacks due to lack of input validation.  Improper handling of user input can lead to unexpected behavior or security vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Express-js-Input-Validation-Vulnerability-k19ma",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Express-js-Input-Validation-Vulnerability-k19ma",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-27, 21:40:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-12-27",
+    "date_updated": "2024-12-27",
+    "description": "Path Traversal automation vulnerability scanner tool.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pwnosec/ApachSAL",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "ApachSAL",
+    "repo_owner": "pwnosec",
+    "repotime": "2024-12-27, 21:07:15",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-12-25",
+    "date_updated": "2024-12-26",
+    "description": "This project demonstrates the setup of a Snort-based Intrusion Detection System (IDS) on Windows. It monitors HTTP traffic and identifies SQL Injection, XSS attacks, and Directory Traversal attempts.  With custom rules and real-time monitoring, this IDS serves as a powerful tool for web security assessments.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ShahzaibHaider0/Intrusion-Detection-System-Using-Snort",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Intrusion-Detection-System-Using-Snort",
+    "repo_owner": "ShahzaibHaider0",
+    "repotime": "2024-12-26, 01:25:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 51,
+    "date_started": "2023-11-24",
+    "date_updated": "2024-12-23",
+    "description": "Binary Exploitation Skill. Gain RCE from arbitrary write.",
+    "forks_count": 16,
+    "html_url": "https://github.com/n132/Libc-GOT-Hijacking",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Libc-GOT-Hijacking",
+    "repo_owner": "n132",
+    "repotime": "2024-12-23, 15:54:52",
+    "stargazers_count": 227,
+    "watchers_count": 227
+}
+{
+    "commits_count": 4657,
+    "date_started": "2023-07-05",
+    "date_updated": "2024-12-19",
+    "description": "The Common Vulnerabilities Exposures (CVE) Database",
+    "forks_count": 14,
+    "html_url": "https://github.com/justakazh/CVE_Database",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE_Database",
+    "repo_owner": "justakazh",
+    "repotime": "2024-12-19, 10:15:20",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-12-18",
+    "date_updated": "2024-12-18",
+    "description": "Server Side Request Forgery Tester",
+    "forks_count": 0,
+    "html_url": "https://github.com/fish-hue/SSRF",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF",
+    "repo_owner": "fish-hue",
+    "repotime": "2024-12-18, 17:00:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-11-25",
+    "date_updated": "2024-12-17",
+    "description": "This project demonstrates various web security vulnerabilities related to cookies and sessions. It includes examples of how session fixation, cookie theft, and Cross-Site Scripting (XSS) attacks can be exploited in web applications.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nikosane/CookieCracker",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CookieCracker",
+    "repo_owner": "Nikosane",
+    "repotime": "2024-12-17, 20:30:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 29,
+    "date_started": "2021-02-04",
+    "date_updated": "2024-12-17",
+    "description": "Sweetuu is a Advance Shell which can be used to achieve RCE easily through LFI &amp;amp; RFI. For easy wins in bug bounty, upload sweetuu instead of any other php code.",
+    "forks_count": 1,
+    "html_url": "https://github.com/cspshivam/sweetuu",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "PHP",
+    "repo_name": "sweetuu",
+    "repo_owner": "cspshivam",
+    "repotime": "2024-12-17, 02:02:11",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 254,
+    "date_started": "2021-05-08",
+    "date_updated": "2024-12-16",
+    "description": "LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) vulnerabilities on a server.",
+    "forks_count": 25,
+    "html_url": "https://github.com/kostas-pa/LFITester",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "LFITester",
+    "repo_owner": "kostas-pa",
+    "repotime": "2024-12-16, 05:31:04",
+    "stargazers_count": 109,
+    "watchers_count": 109
+}
+{
+    "commits_count": 46,
+    "date_started": "2024-08-11",
+    "date_updated": "2024-12-15",
+    "description": "Test/stress tool for Windows that creates typical application faults, like a memory leak, freezes ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/codingABI/appFaults",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C++",
+    "repo_name": "appFaults",
+    "repo_owner": "codingABI",
+    "repotime": "2024-12-15, 16:37:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 255,
+    "date_started": "2020-12-17",
+    "date_updated": "2024-12-13",
+    "description": "🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration.",
+    "forks_count": 2,
+    "html_url": "https://github.com/TomerAberbach/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "TypeScript",
+    "repo_name": "lfi",
+    "repo_owner": "TomerAberbach",
+    "repotime": "2024-12-13, 00:12:02",
+    "stargazers_count": 341,
+    "watchers_count": 341
+}
+{
+    "commits_count": 32,
+    "date_started": "2021-07-17",
+    "date_updated": "2024-12-10",
+    "description": "edgedressing leverages a Windows &amp;quot;feature&amp;quot; in order to force a target's Edge browser to open.  This browser is then directed to a URL of choice.",
+    "forks_count": 5,
+    "html_url": "https://github.com/stryngs/edgedressing",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "edgedressing",
+    "repo_owner": "stryngs",
+    "repotime": "2024-12-10, 21:55:23",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 241,
+    "date_started": "2024-08-14",
+    "date_updated": "2024-12-10",
+    "description": "Webpage for Bueler's course in numerical analysis (MATH 426) at UAF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bueler/numerical",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "numerical",
+    "repo_owner": "bueler",
+    "repotime": "2024-12-10, 17:42:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 28,
+    "date_started": "2024-10-20",
+    "date_updated": "2024-12-08",
+    "description": "Have you ever successfully found a vulnerability that is exploitable after going through the stages of →Information GATHERING → Enumeration → Exploitation using Metersploit, after successfully gaining access to the target host; only to find that your meterpreter session from this pivot point is not stable?",
+    "forks_count": 1,
+    "html_url": "https://github.com/fort3/Ipivot",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Ipivot",
+    "repo_owner": "fort3",
+    "repotime": "2024-12-08, 09:42:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-12-07",
+    "date_updated": "2024-12-07",
+    "description": "This project is a basic vulnerability scanner written in C++ designed for beginners. It scans binary files for predefined patterns (signatures) to detect potential vulnerabilities like Buffer Overflow or Use After Free. The program uses pattern matching with regular expressions (std::regex) to identify known issues in the file's binary content.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ashir-codes/Vulnerability-Scanner",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Vulnerability-Scanner",
+    "repo_owner": "Ashir-codes",
+    "repotime": "2024-12-07, 09:41:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-12-03",
+    "date_updated": "2024-12-06",
+    "description": "Privilege Escalation Checker is a Python tool for ethical hacking and security auditing. It automates the detection of misconfigurations and vulnerabilities that enable privilege escalation in Linux systems, aiding penetration testers and security professionals.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mathewskuruvila/Snake_Elevate",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Snake_Elevate",
+    "repo_owner": "mathewskuruvila",
+    "repotime": "2024-12-06, 01:16:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-10-15",
+    "date_updated": "2024-12-05",
+    "description": "Introduce the incorrect access control vulnerabilities in favorites-web project.",
+    "forks_count": 0,
+    "html_url": "https://github.com/DYX217/directory-traversal",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "directory-traversal",
+    "repo_owner": "DYX217",
+    "repotime": "2024-12-05, 09:51:02",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-05",
+    "date_updated": "2024-12-05",
+    "description": "This code demonstrates a classic use-after-free vulnerability in Rust.  The vector's memory is deallocated when it goes out of scope, causing undefined behavior when accessing the pointer afterwards.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Rust-UAF-Mitigation-Techniques-5rnuq",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "Rust",
+    "repo_name": "Rust-UAF-Mitigation-Techniques-5rnuq",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-05, 01:20:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-11-30",
+    "date_updated": "2024-12-01",
+    "description": "PoC CVE-2023-28205: Apple WebKit Use-After-Free Vulnerability",
+    "forks_count": 4,
+    "html_url": "https://github.com/ntfargo/uaf-2023-28205",
+    "keywords": [
+        "uaf poc",
+        "uaf vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "uaf-2023-28205",
+    "repo_owner": "ntfargo",
+    "repotime": "2024-12-01, 17:08:17",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-01",
+    "date_updated": "2024-12-01",
+    "description": "Exploit for Pandora FMS Remote Code Execution CVE-2024-11320",
+    "forks_count": 6,
+    "html_url": "https://github.com/mhaskar/CVE-2024-11320",
+    "keywords": [
+        "remote code execution exploit",
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-11320",
+    "repo_owner": "mhaskar",
+    "repotime": "2024-12-01, 12:48:08",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 286,
+    "date_started": "2021-02-26",
+    "date_updated": "2024-12-31",
+    "description": "Local File Inclusion discovery and exploitation tool",
+    "forks_count": 40,
+    "html_url": "https://github.com/hansmach1ne/LFImap",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "LFImap",
+    "repo_owner": "hansmach1ne",
+    "repotime": "2024-12-31, 01:13:47",
+    "stargazers_count": 318,
+    "watchers_count": 318
+}
+{
+    "commits_count": 40,
+    "date_started": "2024-12-23",
+    "date_updated": "2024-12-28",
+    "description": "An educational project featuring a vulnerable and patched Turkish financial news website to learn about web security, demonstrating XSS, SQL Injection, CWE-863, SSRF, Path Traversal, and Unrestricted File Upload vulnerabilities with fixes",
+    "forks_count": 0,
+    "html_url": "https://github.com/mbatinefe/TurkishFinancialNews",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "PHP",
+    "repo_name": "TurkishFinancialNews",
+    "repo_owner": "mbatinefe",
+    "repotime": "2024-12-28, 23:44:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-27",
+    "date_updated": "2024-12-27",
+    "description": "Express.js application vulnerable to injection attacks due to lack of input validation.  Improper handling of user input can lead to unexpected behavior or security vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Express-js-Input-Validation-Vulnerability-k19ma",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Express-js-Input-Validation-Vulnerability-k19ma",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-27, 21:40:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-12-27",
+    "date_updated": "2024-12-27",
+    "description": "Path Traversal automation vulnerability scanner tool.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pwnosec/ApachSAL",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "ApachSAL",
+    "repo_owner": "pwnosec",
+    "repotime": "2024-12-27, 21:07:15",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-12-25",
+    "date_updated": "2024-12-26",
+    "description": "This project demonstrates the setup of a Snort-based Intrusion Detection System (IDS) on Windows. It monitors HTTP traffic and identifies SQL Injection, XSS attacks, and Directory Traversal attempts.  With custom rules and real-time monitoring, this IDS serves as a powerful tool for web security assessments.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ShahzaibHaider0/Intrusion-Detection-System-Using-Snort",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Intrusion-Detection-System-Using-Snort",
+    "repo_owner": "ShahzaibHaider0",
+    "repotime": "2024-12-26, 01:25:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 51,
+    "date_started": "2023-11-24",
+    "date_updated": "2024-12-23",
+    "description": "Binary Exploitation Skill. Gain RCE from arbitrary write.",
+    "forks_count": 16,
+    "html_url": "https://github.com/n132/Libc-GOT-Hijacking",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Libc-GOT-Hijacking",
+    "repo_owner": "n132",
+    "repotime": "2024-12-23, 15:54:52",
+    "stargazers_count": 227,
+    "watchers_count": 227
+}
+{
+    "commits_count": 4657,
+    "date_started": "2023-07-05",
+    "date_updated": "2024-12-19",
+    "description": "The Common Vulnerabilities Exposures (CVE) Database",
+    "forks_count": 14,
+    "html_url": "https://github.com/justakazh/CVE_Database",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE_Database",
+    "repo_owner": "justakazh",
+    "repotime": "2024-12-19, 10:15:20",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-12-18",
+    "date_updated": "2024-12-18",
+    "description": "Server Side Request Forgery Tester",
+    "forks_count": 0,
+    "html_url": "https://github.com/fish-hue/SSRF",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF",
+    "repo_owner": "fish-hue",
+    "repotime": "2024-12-18, 17:00:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-11-25",
+    "date_updated": "2024-12-17",
+    "description": "This project demonstrates various web security vulnerabilities related to cookies and sessions. It includes examples of how session fixation, cookie theft, and Cross-Site Scripting (XSS) attacks can be exploited in web applications.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nikosane/CookieCracker",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CookieCracker",
+    "repo_owner": "Nikosane",
+    "repotime": "2024-12-17, 20:30:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 29,
+    "date_started": "2021-02-04",
+    "date_updated": "2024-12-17",
+    "description": "Sweetuu is a Advance Shell which can be used to achieve RCE easily through LFI &amp;amp; RFI. For easy wins in bug bounty, upload sweetuu instead of any other php code.",
+    "forks_count": 1,
+    "html_url": "https://github.com/cspshivam/sweetuu",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "PHP",
+    "repo_name": "sweetuu",
+    "repo_owner": "cspshivam",
+    "repotime": "2024-12-17, 02:02:11",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 254,
+    "date_started": "2021-05-08",
+    "date_updated": "2024-12-16",
+    "description": "LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) vulnerabilities on a server.",
+    "forks_count": 25,
+    "html_url": "https://github.com/kostas-pa/LFITester",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "LFITester",
+    "repo_owner": "kostas-pa",
+    "repotime": "2024-12-16, 05:31:04",
+    "stargazers_count": 109,
+    "watchers_count": 109
+}
+{
+    "commits_count": 46,
+    "date_started": "2024-08-11",
+    "date_updated": "2024-12-15",
+    "description": "Test/stress tool for Windows that creates typical application faults, like a memory leak, freezes ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/codingABI/appFaults",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C++",
+    "repo_name": "appFaults",
+    "repo_owner": "codingABI",
+    "repotime": "2024-12-15, 16:37:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 32,
+    "date_started": "2021-07-17",
+    "date_updated": "2024-12-10",
+    "description": "edgedressing leverages a Windows &amp;quot;feature&amp;quot; in order to force a target's Edge browser to open.  This browser is then directed to a URL of choice.",
+    "forks_count": 5,
+    "html_url": "https://github.com/stryngs/edgedressing",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "edgedressing",
+    "repo_owner": "stryngs",
+    "repotime": "2024-12-10, 21:55:23",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 241,
+    "date_started": "2024-08-14",
+    "date_updated": "2024-12-10",
+    "description": "Webpage for Bueler's course in numerical analysis (MATH 426) at UAF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bueler/numerical",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "numerical",
+    "repo_owner": "bueler",
+    "repotime": "2024-12-10, 17:42:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 28,
+    "date_started": "2024-10-20",
+    "date_updated": "2024-12-08",
+    "description": "Have you ever successfully found a vulnerability that is exploitable after going through the stages of →Information GATHERING → Enumeration → Exploitation using Metersploit, after successfully gaining access to the target host; only to find that your meterpreter session from this pivot point is not stable?",
+    "forks_count": 1,
+    "html_url": "https://github.com/fort3/Ipivot",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Ipivot",
+    "repo_owner": "fort3",
+    "repotime": "2024-12-08, 09:42:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-12-07",
+    "date_updated": "2024-12-07",
+    "description": "This project is a basic vulnerability scanner written in C++ designed for beginners. It scans binary files for predefined patterns (signatures) to detect potential vulnerabilities like Buffer Overflow or Use After Free. The program uses pattern matching with regular expressions (std::regex) to identify known issues in the file's binary content.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ashir-codes/Vulnerability-Scanner",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Vulnerability-Scanner",
+    "repo_owner": "Ashir-codes",
+    "repotime": "2024-12-07, 09:41:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-12-03",
+    "date_updated": "2024-12-06",
+    "description": "Privilege Escalation Checker is a Python tool for ethical hacking and security auditing. It automates the detection of misconfigurations and vulnerabilities that enable privilege escalation in Linux systems, aiding penetration testers and security professionals.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mathewskuruvila/Snake_Elevate",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Snake_Elevate",
+    "repo_owner": "mathewskuruvila",
+    "repotime": "2024-12-06, 01:16:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-10-15",
+    "date_updated": "2024-12-05",
+    "description": "Introduce the incorrect access control vulnerabilities in favorites-web project.",
+    "forks_count": 0,
+    "html_url": "https://github.com/DYX217/directory-traversal",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "directory-traversal",
+    "repo_owner": "DYX217",
+    "repotime": "2024-12-05, 09:51:02",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-05",
+    "date_updated": "2024-12-05",
+    "description": "This code demonstrates a classic use-after-free vulnerability in Rust.  The vector's memory is deallocated when it goes out of scope, causing undefined behavior when accessing the pointer afterwards.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Rust-UAF-Mitigation-Techniques-5rnuq",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "Rust",
+    "repo_name": "Rust-UAF-Mitigation-Techniques-5rnuq",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2024-12-05, 01:20:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-11-30",
+    "date_updated": "2024-12-01",
+    "description": "PoC CVE-2023-28205: Apple WebKit Use-After-Free Vulnerability",
+    "forks_count": 4,
+    "html_url": "https://github.com/ntfargo/uaf-2023-28205",
+    "keywords": [
+        "uaf poc",
+        "uaf vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "uaf-2023-28205",
+    "repo_owner": "ntfargo",
+    "repotime": "2024-12-01, 17:08:17",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-12-01",
+    "date_updated": "2024-12-01",
+    "description": "Exploit for Pandora FMS Remote Code Execution CVE-2024-11320",
+    "forks_count": 6,
+    "html_url": "https://github.com/mhaskar/CVE-2024-11320",
+    "keywords": [
+        "remote code execution exploit",
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-11320",
+    "repo_owner": "mhaskar",
+    "repotime": "2024-12-01, 12:48:08",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}

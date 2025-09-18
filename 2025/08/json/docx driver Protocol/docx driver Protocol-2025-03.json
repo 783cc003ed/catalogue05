@@ -104,3 +104,215 @@
     "stargazers_count": 2,
     "watchers_count": 2
 }
+{
+    "commits_count": 5,
+    "date_started": "2025-03-23",
+    "date_updated": "2025-03-30",
+    "description": "Powerful static analysis tool for .NET, quickly identifies potential memory leaks related to incorrect implementations of the IDisposable interface.",
+    "forks_count": 0,
+    "html_url": "https://github.com/gcarlossuarez/IDisposableLeakAnalyzer",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C#",
+    "repo_name": "IDisposableLeakAnalyzer",
+    "repo_owner": "gcarlossuarez",
+    "repotime": "2025-03-30, 16:41:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-03-28",
+    "description": "Directory Traversal Scanner 是一个高性能的目录遍历漏洞扫描工具，专门用于检测和验证 Web 应用程序中的路径遍历漏洞。通过异步并发扫描和智能 WAF 绕过技术，帮助安全研究人员快速发现潜在的安全隐患。Directory Traversal Scanner is a high-performance security tool designed to detect and verify path traversal vulnerabilities in web applications. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/kingjly/Directory-Traversal-Scanner",
+    "keywords": [
+        "directory traversal vulnerability",
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Directory-Traversal-Scanner",
+    "repo_owner": "kingjly",
+    "repotime": "2025-03-28, 09:47:48",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 53,
+    "date_started": "2024-10-17",
+    "date_updated": "2025-03-16",
+    "description": "A woking proof of concept for detecting session hijacking using browser fingerprinting.",
+    "forks_count": 0,
+    "html_url": "https://github.com/1Mike3/sessionHijackingPrevention",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Java",
+    "repo_name": "sessionHijackingPrevention",
+    "repo_owner": "1Mike3",
+    "repotime": "2025-03-16, 15:40:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-02-08",
+    "date_updated": "2025-03-08",
+    "description": "A natural language file search tool that uses LLMs to help you find files by describing what you're looking for.",
+    "forks_count": 2,
+    "html_url": "https://github.com/Mahrkeenerh/lfind",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "lfind",
+    "repo_owner": "Mahrkeenerh",
+    "repotime": "2025-03-08, 22:10:22",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 96,
+    "date_started": "2023-08-18",
+    "date_updated": "2025-03-06",
+    "description": "Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式",
+    "forks_count": 61,
+    "html_url": "https://github.com/Whoopsunix/JavaRce",
+    "keywords": [
+        "rce vulnerability",
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "JavaRce",
+    "repo_owner": "Whoopsunix",
+    "repotime": "2025-03-06, 13:21:37",
+    "stargazers_count": 523,
+    "watchers_count": 523
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-03-03",
+    "date_updated": "2025-03-04",
+    "description": "This repository contains a comprehensive analysis of cybersecurity threats, including malware, phishing, DDoS attacks, insider threats, and zero-day exploits. It provides code simulations, threat analysis, and mitigation strategies to enhance security awareness.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Qb7354vm/cybersecurity-threats-report",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "cybersecurity-threats-report",
+    "repo_owner": "Qb7354vm",
+    "repotime": "2025-03-04, 18:53:38",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-23",
+    "date_updated": "2025-03-30",
+    "description": "Powerful static analysis tool for .NET, quickly identifies potential memory leaks related to incorrect implementations of the IDisposable interface.",
+    "forks_count": 0,
+    "html_url": "https://github.com/gcarlossuarez/IDisposableLeakAnalyzer",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C#",
+    "repo_name": "IDisposableLeakAnalyzer",
+    "repo_owner": "gcarlossuarez",
+    "repotime": "2025-03-30, 16:41:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-03-28",
+    "description": "Directory Traversal Scanner 是一个高性能的目录遍历漏洞扫描工具，专门用于检测和验证 Web 应用程序中的路径遍历漏洞。通过异步并发扫描和智能 WAF 绕过技术，帮助安全研究人员快速发现潜在的安全隐患。Directory Traversal Scanner is a high-performance security tool designed to detect and verify path traversal vulnerabilities in web applications. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/kingjly/Directory-Traversal-Scanner",
+    "keywords": [
+        "directory traversal vulnerability",
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Directory-Traversal-Scanner",
+    "repo_owner": "kingjly",
+    "repotime": "2025-03-28, 09:47:48",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 53,
+    "date_started": "2024-10-17",
+    "date_updated": "2025-03-16",
+    "description": "A woking proof of concept for detecting session hijacking using browser fingerprinting.",
+    "forks_count": 0,
+    "html_url": "https://github.com/1Mike3/sessionHijackingPrevention",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Java",
+    "repo_name": "sessionHijackingPrevention",
+    "repo_owner": "1Mike3",
+    "repotime": "2025-03-16, 15:40:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-02-08",
+    "date_updated": "2025-03-08",
+    "description": "A natural language file search tool that uses LLMs to help you find files by describing what you're looking for.",
+    "forks_count": 2,
+    "html_url": "https://github.com/Mahrkeenerh/lfind",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "lfind",
+    "repo_owner": "Mahrkeenerh",
+    "repotime": "2025-03-08, 22:10:22",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 96,
+    "date_started": "2023-08-18",
+    "date_updated": "2025-03-06",
+    "description": "Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式",
+    "forks_count": 60,
+    "html_url": "https://github.com/Whoopsunix/JavaRce",
+    "keywords": [
+        "rce vulnerability",
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "JavaRce",
+    "repo_owner": "Whoopsunix",
+    "repotime": "2025-03-06, 13:21:37",
+    "stargazers_count": 525,
+    "watchers_count": 525
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-03-03",
+    "date_updated": "2025-03-04",
+    "description": "This repository contains a comprehensive analysis of cybersecurity threats, including malware, phishing, DDoS attacks, insider threats, and zero-day exploits. It provides code simulations, threat analysis, and mitigation strategies to enhance security awareness.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Qb7354vm/cybersecurity-threats-report",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "cybersecurity-threats-report",
+    "repo_owner": "Qb7354vm",
+    "repotime": "2025-03-04, 18:53:38",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

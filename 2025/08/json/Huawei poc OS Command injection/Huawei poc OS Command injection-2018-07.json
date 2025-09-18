@@ -135,3 +135,277 @@
     "stargazers_count": 14,
     "watchers_count": 14
 }
+{
+    "commits_count": 14,
+    "date_started": "2018-07-30",
+    "date_updated": "2018-07-30",
+    "description": "Python code injection library",
+    "forks_count": 5,
+    "html_url": "https://github.com/andreafortuna/pycodeinjector",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "pycodeinjector",
+    "repo_owner": "andreafortuna",
+    "repotime": "2018-07-30, 17:27:28",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 40,
+    "date_started": "2018-07-24",
+    "date_updated": "2018-07-30",
+    "description": "Sample code for articles",
+    "forks_count": 5,
+    "html_url": "https://github.com/ploeh/dependency-injection-revisited",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "dependency-injection-revisited",
+    "repo_owner": "ploeh",
+    "repotime": "2018-07-30, 08:12:53",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 65,
+    "date_started": "2015-08-24",
+    "date_updated": "2018-07-24",
+    "description": "Sleepy Puppy XSS Payload Management Framework",
+    "forks_count": 140,
+    "html_url": "https://github.com/Netflix-Skunkworks/sleepy-puppy",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sleepy-puppy",
+    "repo_owner": "Netflix-Skunkworks",
+    "repotime": "2018-07-24, 13:33:08",
+    "stargazers_count": 1043,
+    "watchers_count": 1043
+}
+{
+    "commits_count": 251,
+    "date_started": "2016-02-17",
+    "date_updated": "2018-07-24",
+    "description": "psychoPATH - an advanced path traversal tool. Features: evasive techniques, dynamic web root list generation, output encoding, site map-searching payload generator, LFI mode, nix &amp;amp; windows support, single byte generator, payload export.",
+    "forks_count": 91,
+    "html_url": "https://github.com/ewilded/psychoPATH",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Java",
+    "repo_name": "psychoPATH",
+    "repo_owner": "ewilded",
+    "repotime": "2018-07-24, 09:37:49",
+    "stargazers_count": 276,
+    "watchers_count": 276
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-07-20",
+    "date_updated": "2018-07-20",
+    "description": "The assignment A fictional company called ‘Ogel’ produces and sells plastic building blocks and is based in Denmark. They have injection moulding machines that take in PET resin to produce the bricks. Management would like to have a dashboard to monitor the production. The machines are connected to an application called ‘DB’ that receives production data from the machines. The data per machine is of the following type: - Machine name - Variable name - Datetime from - Datetime to - Value in that timeframe Each machine produces this set of data for (variable names) - PRODUCTION: Number of pieces produced (gross output including bad ones) - SCRAP: Number of pieces which are bad (these will be reground and fed into the machine’s PET intake again) - CORE TEMPERATURE: The temperature in degrees Celsius of the machine. On top of that the machine will tell the DB application whether or not it is running. Every change in this state will be stored in the DB application using the following scheme...",
+    "forks_count": 0,
+    "html_url": "https://github.com/krzyc3d/OgelDashboard",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Java",
+    "repo_name": "OgelDashboard",
+    "repo_owner": "krzyc3d",
+    "repotime": "2018-07-20, 14:32:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2013-04-02",
+    "date_updated": "2018-07-17",
+    "description": "Inject C&amp;&#35;35; code into a running process",
+    "forks_count": 71,
+    "html_url": "https://github.com/ChadSki/SharpNeedle",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "SharpNeedle",
+    "repo_owner": "ChadSki",
+    "repotime": "2018-07-17, 19:18:25",
+    "stargazers_count": 339,
+    "watchers_count": 339
+}
+{
+    "commits_count": 19,
+    "date_started": "2018-07-10",
+    "date_updated": "2018-07-17",
+    "description": "XML external entity (XXE) vulnerability in /ssc/fm-ws/services in Fortify Software Security Center (SSC) 17.10, 17.20 &amp;amp; 18.10  (0day CVE-2018-12463)",
+    "forks_count": 4,
+    "html_url": "https://github.com/alt3kx/CVE-2018-12463",
+    "keywords": [
+        "xml external entity",
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-12463",
+    "repo_owner": "alt3kx",
+    "repotime": "2018-07-17, 10:13:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-07-06",
+    "date_updated": "2018-07-06",
+    "description": "Google dorks for SQL injection, Local File Inclusion, open CCTV cams and sensitive information.",
+    "forks_count": 7,
+    "html_url": "https://github.com/j0nk0/Google_Dorks-list",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "Google_Dorks-list",
+    "repo_owner": "j0nk0",
+    "repotime": "2018-07-06, 18:52:15",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 14,
+    "date_started": "2018-07-30",
+    "date_updated": "2018-07-30",
+    "description": "Python code injection library",
+    "forks_count": 5,
+    "html_url": "https://github.com/andreafortuna/pycodeinjector",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "pycodeinjector",
+    "repo_owner": "andreafortuna",
+    "repotime": "2018-07-30, 17:27:28",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 40,
+    "date_started": "2018-07-24",
+    "date_updated": "2018-07-30",
+    "description": "Sample code for articles",
+    "forks_count": 5,
+    "html_url": "https://github.com/ploeh/dependency-injection-revisited",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "dependency-injection-revisited",
+    "repo_owner": "ploeh",
+    "repotime": "2018-07-30, 08:12:53",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 65,
+    "date_started": "2015-08-24",
+    "date_updated": "2018-07-24",
+    "description": "Sleepy Puppy XSS Payload Management Framework",
+    "forks_count": 140,
+    "html_url": "https://github.com/Netflix-Skunkworks/sleepy-puppy",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sleepy-puppy",
+    "repo_owner": "Netflix-Skunkworks",
+    "repotime": "2018-07-24, 13:33:08",
+    "stargazers_count": 1044,
+    "watchers_count": 1044
+}
+{
+    "commits_count": 251,
+    "date_started": "2016-02-17",
+    "date_updated": "2018-07-24",
+    "description": "psychoPATH - an advanced path traversal tool. Features: evasive techniques, dynamic web root list generation, output encoding, site map-searching payload generator, LFI mode, nix &amp;amp; windows support, single byte generator, payload export.",
+    "forks_count": 92,
+    "html_url": "https://github.com/ewilded/psychoPATH",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Java",
+    "repo_name": "psychoPATH",
+    "repo_owner": "ewilded",
+    "repotime": "2018-07-24, 09:37:49",
+    "stargazers_count": 277,
+    "watchers_count": 277
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-07-20",
+    "date_updated": "2018-07-20",
+    "description": "The assignment A fictional company called ‘Ogel’ produces and sells plastic building blocks and is based in Denmark. They have injection moulding machines that take in PET resin to produce the bricks. Management would like to have a dashboard to monitor the production. The machines are connected to an application called ‘DB’ that receives production data from the machines. The data per machine is of the following type: - Machine name - Variable name - Datetime from - Datetime to - Value in that timeframe Each machine produces this set of data for (variable names) - PRODUCTION: Number of pieces produced (gross output including bad ones) - SCRAP: Number of pieces which are bad (these will be reground and fed into the machine’s PET intake again) - CORE TEMPERATURE: The temperature in degrees Celsius of the machine. On top of that the machine will tell the DB application whether or not it is running. Every change in this state will be stored in the DB application using the following scheme...",
+    "forks_count": 0,
+    "html_url": "https://github.com/krzyc3d/OgelDashboard",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Java",
+    "repo_name": "OgelDashboard",
+    "repo_owner": "krzyc3d",
+    "repotime": "2018-07-20, 14:32:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2013-04-02",
+    "date_updated": "2018-07-17",
+    "description": "Inject C&amp;&#35;35; code into a running process",
+    "forks_count": 72,
+    "html_url": "https://github.com/ChadSki/SharpNeedle",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "SharpNeedle",
+    "repo_owner": "ChadSki",
+    "repotime": "2018-07-17, 19:18:25",
+    "stargazers_count": 341,
+    "watchers_count": 341
+}
+{
+    "commits_count": 19,
+    "date_started": "2018-07-10",
+    "date_updated": "2018-07-17",
+    "description": "XML external entity (XXE) vulnerability in /ssc/fm-ws/services in Fortify Software Security Center (SSC) 17.10, 17.20 &amp;amp; 18.10  (0day CVE-2018-12463)",
+    "forks_count": 4,
+    "html_url": "https://github.com/alt3kx/CVE-2018-12463",
+    "keywords": [
+        "xml external entity",
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-12463",
+    "repo_owner": "alt3kx",
+    "repotime": "2018-07-17, 10:13:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-07-06",
+    "date_updated": "2018-07-06",
+    "description": "Google dorks for SQL injection, Local File Inclusion, open CCTV cams and sensitive information.",
+    "forks_count": 8,
+    "html_url": "https://github.com/j0nk0/Google_Dorks-list",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "Google_Dorks-list",
+    "repo_owner": "j0nk0",
+    "repotime": "2018-07-06, 18:52:15",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}

@@ -1,0 +1,471 @@
+{
+    "commits_count": 7,
+    "date_started": "2024-10-23",
+    "date_updated": "2024-10-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "repo_owner": "Bogdy88",
+    "repotime": "2024-10-23, 01:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-15",
+    "date_updated": "2024-10-15",
+    "description": "Repo part of a training session",
+    "forks_count": 0,
+    "html_url": "https://github.com/bardrotzer/stock-predictions-ai-app",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "JavaScript",
+    "repo_name": "stock-predictions-ai-app",
+    "repo_owner": "bardrotzer",
+    "repotime": "2024-10-15, 14:24:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-10-06",
+    "date_updated": "2024-10-14",
+    "description": "&amp;quot;Walkthrough of the 'Westwild: 2' boot2root challenge from VulnHub, demonstrating penetration testing techniques and privilege escalation methods. Includes detailed steps for enumeration, exploitation, and flag capture.&amp;quot;",
+    "forks_count": 0,
+    "html_url": "https://github.com/yaseenibnakhtar/WESTWILD-2.0",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "WESTWILD-2.0",
+    "repo_owner": "yaseenibnakhtar",
+    "repotime": "2024-10-14, 15:20:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 111,
+    "date_started": "2017-03-21",
+    "date_updated": "2024-10-12",
+    "description": "SSRF (Server Side Request Forgery) testing resources",
+    "forks_count": 483,
+    "html_url": "https://github.com/cujanovic/SSRF-Testing",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Testing",
+    "repo_owner": "cujanovic",
+    "repotime": "2024-10-12, 14:43:20",
+    "stargazers_count": 2413,
+    "watchers_count": 2413
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-09",
+    "description": "solution of path traversal vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/nadamohamedabdelrahman/portSwigger_pathTraversal",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "portSwigger_pathTraversal",
+    "repo_owner": "nadamohamedabdelrahman",
+    "repotime": "2024-10-09, 18:22:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-09",
+    "description": "CVE-2024-38077: Remote Code Execution Vulnerability in Windows Remote Desktop Licensing Service",
+    "forks_count": 3,
+    "html_url": "https://github.com/mrmtwoj/CVE-2024-38077",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Windows remote code execution poc",
+        "remote code execution poc",
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-38077",
+    "repo_owner": "mrmtwoj",
+    "repotime": "2024-10-09, 10:12:25",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-09-30",
+    "date_updated": "2024-10-02",
+    "description": "I have completed a full-stack application using Next.js, TypeScript, Clerk for authentication, shadcn/ui for user interfaces, Supabase for cloud data storage, and Stripe for payments. The app features three user roles: public users (unauthenticated), authenticated users (account holders), and admins (who can create products).",
+    "forks_count": 0,
+    "html_url": "https://github.com/AbdirashidAbdullahiAhmed/next-store",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "next-store",
+    "repo_owner": "AbdirashidAbdullahiAhmed",
+    "repotime": "2024-10-02, 14:25:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-02",
+    "date_updated": "2024-10-02",
+    "description": "An exploration of buffer overflow vulnerabilities, bypassing Address Space Layout Randomization (ASLR), and heap overflow attacks using real-world exploit techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fekk1i/Buffer-Overflow-ASLR-and-Heap-Overflow-Attacks",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": null,
+    "repo_name": "Buffer-Overflow-ASLR-and-Heap-Overflow-Attacks",
+    "repo_owner": "fekk1i",
+    "repotime": "2024-10-02, 12:53:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-04-24",
+    "date_updated": "2024-10-02",
+    "description": "A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.",
+    "forks_count": 0,
+    "html_url": "https://github.com/readloud/PrivEsc",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "PrivEsc",
+    "repo_owner": "readloud",
+    "repotime": "2024-10-02, 04:02:06",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-23",
+    "date_updated": "2024-10-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "repo_owner": "Bogdy88",
+    "repotime": "2024-10-23, 01:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-15",
+    "date_updated": "2024-10-15",
+    "description": "Repo part of a training session",
+    "forks_count": 0,
+    "html_url": "https://github.com/bardrotzer/stock-predictions-ai-app",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "JavaScript",
+    "repo_name": "stock-predictions-ai-app",
+    "repo_owner": "bardrotzer",
+    "repotime": "2024-10-15, 14:24:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-10-06",
+    "date_updated": "2024-10-14",
+    "description": "&amp;quot;Walkthrough of the 'Westwild: 2' boot2root challenge from VulnHub, demonstrating penetration testing techniques and privilege escalation methods. Includes detailed steps for enumeration, exploitation, and flag capture.&amp;quot;",
+    "forks_count": 0,
+    "html_url": "https://github.com/yaseenibnakhtar/WESTWILD-2.0",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "WESTWILD-2.0",
+    "repo_owner": "yaseenibnakhtar",
+    "repotime": "2024-10-14, 15:20:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 111,
+    "date_started": "2017-03-21",
+    "date_updated": "2024-10-12",
+    "description": "SSRF (Server Side Request Forgery) testing resources",
+    "forks_count": 483,
+    "html_url": "https://github.com/cujanovic/SSRF-Testing",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Testing",
+    "repo_owner": "cujanovic",
+    "repotime": "2024-10-12, 14:43:20",
+    "stargazers_count": 2413,
+    "watchers_count": 2413
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-09",
+    "description": "solution of path traversal vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/nadamohamedabdelrahman/portSwigger_pathTraversal",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "portSwigger_pathTraversal",
+    "repo_owner": "nadamohamedabdelrahman",
+    "repotime": "2024-10-09, 18:22:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-09",
+    "description": "CVE-2024-38077: Remote Code Execution Vulnerability in Windows Remote Desktop Licensing Service",
+    "forks_count": 3,
+    "html_url": "https://github.com/mrmtwoj/CVE-2024-38077",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Windows remote code execution poc",
+        "remote code execution poc",
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-38077",
+    "repo_owner": "mrmtwoj",
+    "repotime": "2024-10-09, 10:12:25",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-09-30",
+    "date_updated": "2024-10-02",
+    "description": "I have completed a full-stack application using Next.js, TypeScript, Clerk for authentication, shadcn/ui for user interfaces, Supabase for cloud data storage, and Stripe for payments. The app features three user roles: public users (unauthenticated), authenticated users (account holders), and admins (who can create products).",
+    "forks_count": 0,
+    "html_url": "https://github.com/AbdirashidAbdullahiAhmed/next-store",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "next-store",
+    "repo_owner": "AbdirashidAbdullahiAhmed",
+    "repotime": "2024-10-02, 14:25:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-02",
+    "date_updated": "2024-10-02",
+    "description": "An exploration of buffer overflow vulnerabilities, bypassing Address Space Layout Randomization (ASLR), and heap overflow attacks using real-world exploit techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fekk1i/Buffer-Overflow-ASLR-and-Heap-Overflow-Attacks",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": null,
+    "repo_name": "Buffer-Overflow-ASLR-and-Heap-Overflow-Attacks",
+    "repo_owner": "fekk1i",
+    "repotime": "2024-10-02, 12:53:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-04-24",
+    "date_updated": "2024-10-02",
+    "description": "A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.",
+    "forks_count": 0,
+    "html_url": "https://github.com/readloud/PrivEsc",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "PrivEsc",
+    "repo_owner": "readloud",
+    "repotime": "2024-10-02, 04:02:06",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-10-23",
+    "date_updated": "2024-10-23",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZeroDay-Exploit-Simulation-Framework-ZESF-",
+    "repo_owner": "Bogdy88",
+    "repotime": "2024-10-23, 01:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-15",
+    "date_updated": "2024-10-15",
+    "description": "Repo part of a training session",
+    "forks_count": 0,
+    "html_url": "https://github.com/bardrotzer/stock-predictions-ai-app",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "JavaScript",
+    "repo_name": "stock-predictions-ai-app",
+    "repo_owner": "bardrotzer",
+    "repotime": "2024-10-15, 14:24:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-10-06",
+    "date_updated": "2024-10-14",
+    "description": "&amp;quot;Walkthrough of the 'Westwild: 2' boot2root challenge from VulnHub, demonstrating penetration testing techniques and privilege escalation methods. Includes detailed steps for enumeration, exploitation, and flag capture.&amp;quot;",
+    "forks_count": 0,
+    "html_url": "https://github.com/yaseenibnakhtar/WESTWILD-2.0",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "WESTWILD-2.0",
+    "repo_owner": "yaseenibnakhtar",
+    "repotime": "2024-10-14, 15:20:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 111,
+    "date_started": "2017-03-21",
+    "date_updated": "2024-10-12",
+    "description": "SSRF (Server Side Request Forgery) testing resources",
+    "forks_count": 484,
+    "html_url": "https://github.com/cujanovic/SSRF-Testing",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF-Testing",
+    "repo_owner": "cujanovic",
+    "repotime": "2024-10-12, 14:43:20",
+    "stargazers_count": 2425,
+    "watchers_count": 2425
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-09",
+    "description": "solution of path traversal vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/nadamohamedabdelrahman/portSwigger_pathTraversal",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "portSwigger_pathTraversal",
+    "repo_owner": "nadamohamedabdelrahman",
+    "repotime": "2024-10-09, 18:22:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-09",
+    "date_updated": "2024-10-09",
+    "description": "CVE-2024-38077: Remote Code Execution Vulnerability in Windows Remote Desktop Licensing Service",
+    "forks_count": 3,
+    "html_url": "https://github.com/mrmtwoj/CVE-2024-38077",
+    "keywords": [
+        "remote code execution vulnerability",
+        "Windows remote code execution poc",
+        "remote code execution poc",
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-38077",
+    "repo_owner": "mrmtwoj",
+    "repotime": "2024-10-09, 10:12:25",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-09-30",
+    "date_updated": "2024-10-02",
+    "description": "I have completed a full-stack application using Next.js, TypeScript, Clerk for authentication, shadcn/ui for user interfaces, Supabase for cloud data storage, and Stripe for payments. The app features three user roles: public users (unauthenticated), authenticated users (account holders), and admins (who can create products).",
+    "forks_count": 0,
+    "html_url": "https://github.com/AbdirashidAbdullahiAhmed/next-store",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "next-store",
+    "repo_owner": "AbdirashidAbdullahiAhmed",
+    "repotime": "2024-10-02, 14:25:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-10-02",
+    "date_updated": "2024-10-02",
+    "description": "An exploration of buffer overflow vulnerabilities, bypassing Address Space Layout Randomization (ASLR), and heap overflow attacks using real-world exploit techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fekk1i/Buffer-Overflow-ASLR-and-Heap-Overflow-Attacks",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": null,
+    "repo_name": "Buffer-Overflow-ASLR-and-Heap-Overflow-Attacks",
+    "repo_owner": "fekk1i",
+    "repotime": "2024-10-02, 12:53:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-04-24",
+    "date_updated": "2024-10-02",
+    "description": "A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.",
+    "forks_count": 0,
+    "html_url": "https://github.com/readloud/PrivEsc",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "PrivEsc",
+    "repo_owner": "readloud",
+    "repotime": "2024-10-02, 04:02:06",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

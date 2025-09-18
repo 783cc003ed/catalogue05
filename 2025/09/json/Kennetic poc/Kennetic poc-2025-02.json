@@ -1,0 +1,770 @@
+{
+    "commits_count": 5,
+    "date_started": "2025-02-26",
+    "date_updated": "2025-02-26",
+    "description": "This code is used to check for different browser vulnerabilities such as address bar spoofing, url spoofing etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/slvignesh05/BrowserSec",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "BrowserSec",
+    "repo_owner": "slvignesh05",
+    "repotime": "2025-02-26, 19:53:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-26",
+    "date_updated": "2025-02-26",
+    "description": "Writeup on session hijacking exploit for video streaming platform MovieBoxPro which exposed over 6 million Google accounts (15/05/2024)",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ciarands/MBP-Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "MBP-Session-Hijacking",
+    "repo_owner": "Ciarands",
+    "repotime": "2025-02-26, 12:19:43",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-02-23",
+    "date_updated": "2025-02-26",
+    "description": "bigwasm instruments WASM modules using host functions to escape sandboxing for coverage and fuzzing purposes (just a POC!)",
+    "forks_count": 0,
+    "html_url": "https://github.com/kevin-valerio/bigwasm",
+    "keywords": [
+        "sandbox escape poc"
+    ],
+    "language": "Rust",
+    "repo_name": "bigwasm",
+    "repo_owner": "kevin-valerio",
+    "repotime": "2025-02-26, 11:42:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-18",
+    "date_updated": "2025-02-25",
+    "description": "UAC Bypass using UIAccess program QuickAssist",
+    "forks_count": 15,
+    "html_url": "https://github.com/R41N3RZUF477/QuickAssist_UAC_Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "QuickAssist_UAC_Bypass",
+    "repo_owner": "R41N3RZUF477",
+    "repotime": "2025-02-25, 02:25:30",
+    "stargazers_count": 120,
+    "watchers_count": 120
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-12-04",
+    "date_updated": "2025-02-22",
+    "description": "A Proof-of-Concept (PoC) exploit for CVE-2018-16763 (Fuel CMS - Preauthenticated Remote Code Execution).",
+    "forks_count": 0,
+    "html_url": "https://github.com/saccles/CVE_2018_16763_Proof_of_Concept",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE_2018_16763_Proof_of_Concept",
+    "repo_owner": "saccles",
+    "repotime": "2025-02-22, 18:12:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2025-01-30",
+    "date_updated": "2025-02-22",
+    "description": "Common Vulnerabilities and Exposures /// Remote Code Execution | Arbitrary File Upload | Proof of Concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/nakataXmodem/cve-rce-poc",
+    "keywords": [
+        "remote code execution proof of concept",
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "cve-rce-poc",
+    "repo_owner": "nakataXmodem",
+    "repotime": "2025-02-22, 08:31:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 27,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-02-19",
+    "description": "CVE-2025-24016: Wazuh Unsafe Deserialization Remote Code Execution (RCE)",
+    "forks_count": 6,
+    "html_url": "https://github.com/0xjessie21/CVE-2025-24016",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-24016",
+    "repo_owner": "0xjessie21",
+    "repotime": "2025-02-19, 23:33:45",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-02-11",
+    "date_updated": "2025-02-18",
+    "description": "Safari 1day RCE Exploit",
+    "forks_count": 28,
+    "html_url": "https://github.com/wh1te4ever/WebKit-Bug-256172",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "WebKit-Bug-256172",
+    "repo_owner": "wh1te4ever",
+    "repotime": "2025-02-18, 17:58:05",
+    "stargazers_count": 146,
+    "watchers_count": 146
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-12-17",
+    "date_updated": "2025-02-12",
+    "description": "POC for DTEX LPE (CVE-2024-55968)",
+    "forks_count": 0,
+    "html_url": "https://github.com/null-event/CVE-2024-55968",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "Objective-C",
+    "repo_name": "CVE-2024-55968",
+    "repo_owner": "null-event",
+    "repotime": "2025-02-12, 15:32:07",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-12-06",
+    "date_updated": "2025-02-13",
+    "description": "A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.",
+    "forks_count": 1,
+    "html_url": "https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-2414-Proof-Of-Concept",
+    "repo_owner": "amitlttwo",
+    "repotime": "2025-02-13, 00:04:29",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-02-12",
+    "date_updated": "2025-02-12",
+    "description": "An unauthenticated attacker can force server points to a shell file like ‘/bin/sh’ and execute arbitrary commands due to the failure in verifying the URL which leads to path traversal to any file that exists in the system. Nostromo’s versions such as 1.9.6 fail to verify this URL ",
+    "forks_count": 0,
+    "html_url": "https://github.com/CybermonkX/CVE-2019-16278_Nostromo-1.9.6---Remote-Code-Execution",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-16278_Nostromo-1.9.6---Remote-Code-Execution",
+    "repo_owner": "CybermonkX",
+    "repotime": "2025-02-12, 14:19:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-08",
+    "date_updated": "2025-02-12",
+    "description": "Proof-of-Concept script for WordPress plugin Bit File Manager version 6.0 - 6.5.5 Unauthenticated Remote Code Execution via Race Condition (CVE-2024-7627) vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/siunam321/CVE-2024-7627-PoC",
+    "keywords": [
+        "remote code execution proof of concept",
+        "unauthenticated remote code execution",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-7627-PoC",
+    "repo_owner": "siunam321",
+    "repotime": "2025-02-12, 13:16:00",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-02-08",
+    "date_updated": "2025-02-11",
+    "description": "This repository contains a Proof-of-Concept (PoC) exploit for the Baron Samedit vulnerability (CVE-2021-3156). The exploit demonstrates privilege escalation on Ubuntu 20.04 with sudo version 1.8.31 and glibc version 2.31. It includes an assembly-based exploit, a shared object payload, and a Makefile for automated compilation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ten-ops/baron-samedit",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Assembly",
+    "repo_name": "baron-samedit",
+    "repo_owner": "ten-ops",
+    "repotime": "2025-02-11, 02:52:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 55,
+    "date_started": "2023-12-18",
+    "date_updated": "2025-02-09",
+    "description": "Expert analyses and high-quality write-ups on current one-day and zero-day vulnerabilities, detailing CVEs for the cybersecurity community. Maintained by the Fire-Null security research collective.",
+    "forks_count": 3,
+    "html_url": "https://github.com/Fire-Null/Write-Ups",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Write-Ups",
+    "repo_owner": "Fire-Null",
+    "repotime": "2025-02-09, 11:13:01",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 79,
+    "date_started": "2023-04-10",
+    "date_updated": "2025-02-06",
+    "description": "Analysis of vulnerabilities from security audit | CVEs",
+    "forks_count": 0,
+    "html_url": "https://github.com/dipa96/daysbeyond-archive",
+    "keywords": [
+        "zero-day exploit",
+        "0day analysis",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "zero-day analysis",
+        "0day poc",
+        "0day vulnerability",
+        "zero-day poc"
+    ],
+    "language": "Java",
+    "repo_name": "daysbeyond-archive",
+    "repo_owner": "dipa96",
+    "repotime": "2025-02-06, 12:00:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-02-05",
+    "description": "Unauthenticated Remote Code Execution (RCE) - Poultry Farm Management System v1.0 ",
+    "forks_count": 0,
+    "html_url": "https://github.com/hacksudo/Unauthenticated-Remote-Code-Execution-RCE-Poultry-Farm-Management-System-v1.0",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Unauthenticated-Remote-Code-Execution-RCE-Poultry-Farm-Management-System-v1.0",
+    "repo_owner": "hacksudo",
+    "repotime": "2025-02-05, 21:22:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 54,
+    "date_started": "2022-08-28",
+    "date_updated": "2025-02-05",
+    "description": "<no description>",
+    "forks_count": 37,
+    "html_url": "https://github.com/shreyaschavhan/advanced-sql-injection-for-awae",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "advanced-sql-injection-for-awae",
+    "repo_owner": "shreyaschavhan",
+    "repotime": "2025-02-05, 10:53:10",
+    "stargazers_count": 203,
+    "watchers_count": 203
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-04",
+    "date_updated": "2025-02-04",
+    "description": "CVE-2024-57427: PHPJabbers Cinema Booking System v2.0 is vulnerable to reflected XSS, allowing session hijacking and phishing attacks. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/ahrixia/CVE-2024-57427",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-57427",
+    "repo_owner": "ahrixia",
+    "repotime": "2025-02-04, 19:49:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-02-02",
+    "description": "This repository contains a Proof-of-Concept for the CVE-2021-41773. This CVE contains a LFI and RCE vulnerablity.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Go",
+    "repo_name": "SSH-key-and-RCE-PoC-for-CVE-2021-41773",
+    "repo_owner": "tiemio",
+    "repotime": "2025-02-02, 23:19:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-02-02",
+    "description": "User Profile Builder &amp;lt;= 3.11.7 - Unauthenticated Media Upload",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nxploited/CVE-2024-6366-PoC",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-6366-PoC",
+    "repo_owner": "Nxploited",
+    "repotime": "2025-02-02, 18:43:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-18",
+    "date_updated": "2025-02-02",
+    "description": "PoC code for the LPE and RCE (CVE-2024-31903) attacks against the IBM Sterling B2B Integrator",
+    "forks_count": 0,
+    "html_url": "https://github.com/ReversecLabs/ibm-sterling-b2b-integrator-poc",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "Java",
+    "repo_name": "ibm-sterling-b2b-integrator-poc",
+    "repo_owner": "ReversecLabs",
+    "repotime": "2025-02-02, 14:52:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-02-26",
+    "date_updated": "2025-02-26",
+    "description": "This code is used to check for different browser vulnerabilities such as address bar spoofing, url spoofing etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/slvignesh05/BrowserSec",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "BrowserSec",
+    "repo_owner": "slvignesh05",
+    "repotime": "2025-02-26, 19:53:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-26",
+    "date_updated": "2025-02-26",
+    "description": "Writeup on session hijacking exploit for video streaming platform MovieBoxPro which exposed over 6 million Google accounts (15/05/2024)",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ciarands/MBP-Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "MBP-Session-Hijacking",
+    "repo_owner": "Ciarands",
+    "repotime": "2025-02-26, 12:19:43",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-02-23",
+    "date_updated": "2025-02-26",
+    "description": "bigwasm instruments WASM modules using host functions to escape sandboxing for coverage and fuzzing purposes (just a POC!)",
+    "forks_count": 0,
+    "html_url": "https://github.com/kevin-valerio/bigwasm",
+    "keywords": [
+        "sandbox escape poc"
+    ],
+    "language": "Rust",
+    "repo_name": "bigwasm",
+    "repo_owner": "kevin-valerio",
+    "repotime": "2025-02-26, 11:42:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-18",
+    "date_updated": "2025-02-25",
+    "description": "UAC Bypass using UIAccess program QuickAssist",
+    "forks_count": 15,
+    "html_url": "https://github.com/R41N3RZUF477/QuickAssist_UAC_Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "QuickAssist_UAC_Bypass",
+    "repo_owner": "R41N3RZUF477",
+    "repotime": "2025-02-25, 02:25:30",
+    "stargazers_count": 120,
+    "watchers_count": 120
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-12-04",
+    "date_updated": "2025-02-22",
+    "description": "A Proof-of-Concept (PoC) exploit for CVE-2018-16763 (Fuel CMS - Preauthenticated Remote Code Execution).",
+    "forks_count": 0,
+    "html_url": "https://github.com/saccles/CVE_2018_16763_Proof_of_Concept",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE_2018_16763_Proof_of_Concept",
+    "repo_owner": "saccles",
+    "repotime": "2025-02-22, 18:12:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2025-01-30",
+    "date_updated": "2025-02-22",
+    "description": "Common Vulnerabilities and Exposures /// Remote Code Execution | Arbitrary File Upload | Proof of Concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/nakataXmodem/cve-rce-poc",
+    "keywords": [
+        "remote code execution proof of concept",
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "cve-rce-poc",
+    "repo_owner": "nakataXmodem",
+    "repotime": "2025-02-22, 08:31:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 27,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-02-19",
+    "description": "CVE-2025-24016: Wazuh Unsafe Deserialization Remote Code Execution (RCE)",
+    "forks_count": 6,
+    "html_url": "https://github.com/0xjessie21/CVE-2025-24016",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-24016",
+    "repo_owner": "0xjessie21",
+    "repotime": "2025-02-19, 23:33:45",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-02-11",
+    "date_updated": "2025-02-18",
+    "description": "Safari 1day RCE Exploit",
+    "forks_count": 28,
+    "html_url": "https://github.com/wh1te4ever/WebKit-Bug-256172",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "WebKit-Bug-256172",
+    "repo_owner": "wh1te4ever",
+    "repotime": "2025-02-18, 17:58:05",
+    "stargazers_count": 146,
+    "watchers_count": 146
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-12-17",
+    "date_updated": "2025-02-12",
+    "description": "POC for DTEX LPE (CVE-2024-55968)",
+    "forks_count": 0,
+    "html_url": "https://github.com/null-event/CVE-2024-55968",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "Objective-C",
+    "repo_name": "CVE-2024-55968",
+    "repo_owner": "null-event",
+    "repotime": "2025-02-12, 15:32:07",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-12-06",
+    "date_updated": "2025-02-13",
+    "description": "A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.",
+    "forks_count": 1,
+    "html_url": "https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-2414-Proof-Of-Concept",
+    "repo_owner": "amitlttwo",
+    "repotime": "2025-02-13, 00:04:29",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-02-12",
+    "date_updated": "2025-02-12",
+    "description": "An unauthenticated attacker can force server points to a shell file like ‘/bin/sh’ and execute arbitrary commands due to the failure in verifying the URL which leads to path traversal to any file that exists in the system. Nostromo’s versions such as 1.9.6 fail to verify this URL ",
+    "forks_count": 0,
+    "html_url": "https://github.com/CybermonkX/CVE-2019-16278_Nostromo-1.9.6---Remote-Code-Execution",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-16278_Nostromo-1.9.6---Remote-Code-Execution",
+    "repo_owner": "CybermonkX",
+    "repotime": "2025-02-12, 14:19:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-08",
+    "date_updated": "2025-02-12",
+    "description": "Proof-of-Concept script for WordPress plugin Bit File Manager version 6.0 - 6.5.5 Unauthenticated Remote Code Execution via Race Condition (CVE-2024-7627) vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/siunam321/CVE-2024-7627-PoC",
+    "keywords": [
+        "remote code execution proof of concept",
+        "unauthenticated remote code execution",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-7627-PoC",
+    "repo_owner": "siunam321",
+    "repotime": "2025-02-12, 13:16:00",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-02-08",
+    "date_updated": "2025-02-11",
+    "description": "This repository contains a Proof-of-Concept (PoC) exploit for the Baron Samedit vulnerability (CVE-2021-3156). The exploit demonstrates privilege escalation on Ubuntu 20.04 with sudo version 1.8.31 and glibc version 2.31. It includes an assembly-based exploit, a shared object payload, and a Makefile for automated compilation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ten-ops/baron-samedit",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Assembly",
+    "repo_name": "baron-samedit",
+    "repo_owner": "ten-ops",
+    "repotime": "2025-02-11, 02:52:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 55,
+    "date_started": "2023-12-18",
+    "date_updated": "2025-02-09",
+    "description": "Expert analyses and high-quality write-ups on current one-day and zero-day vulnerabilities, detailing CVEs for the cybersecurity community. Maintained by the Fire-Null security research collective.",
+    "forks_count": 3,
+    "html_url": "https://github.com/Fire-Null/Write-Ups",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Write-Ups",
+    "repo_owner": "Fire-Null",
+    "repotime": "2025-02-09, 11:13:01",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 79,
+    "date_started": "2023-04-10",
+    "date_updated": "2025-02-06",
+    "description": "Analysis of vulnerabilities from security audit | CVEs",
+    "forks_count": 0,
+    "html_url": "https://github.com/dipa96/daysbeyond-archive",
+    "keywords": [
+        "zero-day exploit",
+        "0day analysis",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "zero-day analysis",
+        "0day poc",
+        "0day vulnerability",
+        "zero-day poc"
+    ],
+    "language": "Java",
+    "repo_name": "daysbeyond-archive",
+    "repo_owner": "dipa96",
+    "repotime": "2025-02-06, 12:00:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-02-05",
+    "description": "Unauthenticated Remote Code Execution (RCE) - Poultry Farm Management System v1.0 ",
+    "forks_count": 0,
+    "html_url": "https://github.com/hacksudo/Unauthenticated-Remote-Code-Execution-RCE-Poultry-Farm-Management-System-v1.0",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Unauthenticated-Remote-Code-Execution-RCE-Poultry-Farm-Management-System-v1.0",
+    "repo_owner": "hacksudo",
+    "repotime": "2025-02-05, 21:22:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 54,
+    "date_started": "2022-08-28",
+    "date_updated": "2025-02-05",
+    "description": "<no description>",
+    "forks_count": 37,
+    "html_url": "https://github.com/shreyaschavhan/advanced-sql-injection-for-awae",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "advanced-sql-injection-for-awae",
+    "repo_owner": "shreyaschavhan",
+    "repotime": "2025-02-05, 10:53:10",
+    "stargazers_count": 203,
+    "watchers_count": 203
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-04",
+    "date_updated": "2025-02-04",
+    "description": "CVE-2024-57427: PHPJabbers Cinema Booking System v2.0 is vulnerable to reflected XSS, allowing session hijacking and phishing attacks. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/ahrixia/CVE-2024-57427",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-57427",
+    "repo_owner": "ahrixia",
+    "repotime": "2025-02-04, 19:49:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-02-02",
+    "description": "This repository contains a Proof-of-Concept for the CVE-2021-41773. This CVE contains a LFI and RCE vulnerablity.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Go",
+    "repo_name": "SSH-key-and-RCE-PoC-for-CVE-2021-41773",
+    "repo_owner": "tiemio",
+    "repotime": "2025-02-02, 23:19:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-02-02",
+    "description": "User Profile Builder &amp;lt;= 3.11.7 - Unauthenticated Media Upload",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nxploited/CVE-2024-6366-PoC",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-6366-PoC",
+    "repo_owner": "Nxploited",
+    "repotime": "2025-02-02, 18:43:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-18",
+    "date_updated": "2025-02-02",
+    "description": "PoC code for the LPE and RCE (CVE-2024-31903) attacks against the IBM Sterling B2B Integrator",
+    "forks_count": 0,
+    "html_url": "https://github.com/ReversecLabs/ibm-sterling-b2b-integrator-poc",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "Java",
+    "repo_name": "ibm-sterling-b2b-integrator-poc",
+    "repo_owner": "ReversecLabs",
+    "repotime": "2025-02-02, 14:52:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

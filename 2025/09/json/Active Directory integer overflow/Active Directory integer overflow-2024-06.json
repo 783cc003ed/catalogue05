@@ -1,0 +1,69 @@
+{
+    "commits_count": 5,
+    "date_started": "2024-06-22",
+    "date_updated": "2024-06-23",
+    "description": "A session hijacking demo with client and server components. The client decrypts cookies from modern browsers (Chrome, Edge, Brave) and securely shares them with the server using JWT authentication. The server processes these cookies, leveraging Boost.Asio for efficient traffic management and preventing socket overflow.",
+    "forks_count": 0,
+    "html_url": "https://github.com/CRB-CyberSec-Dev/SessionHijack",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C++",
+    "repo_name": "SessionHijack",
+    "repo_owner": "CRB-CyberSec-Dev",
+    "repotime": "2024-06-23, 11:30:37",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-08-14",
+    "date_updated": "2024-06-22",
+    "description": "Kernel exploits consisting mostly of privilege escalation attacks against core components of Linux distribtions",
+    "forks_count": 0,
+    "html_url": "https://github.com/dubniczky/Kernel-Exploits",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Kernel-Exploits",
+    "repo_owner": "dubniczky",
+    "repotime": "2024-06-22, 17:01:54",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-03-21",
+    "date_updated": "2024-06-18",
+    "description": "An exploit for a Linux Kernel IPC Driver whose VM_MAYWRITE flag is not checked during its mmap implementation triggering an AAW and a Heap Overflow for LPE.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mutur4/Blunder-Kernel-Driver",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "Blunder-Kernel-Driver",
+    "repo_owner": "mutur4",
+    "repotime": "2024-06-18, 14:48:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-06-06",
+    "date_updated": "2024-06-10",
+    "description": "POC I developed as a training on my  reverse engineering/exploit development skills ASLR and DEP Bypass for quotedb application",
+    "forks_count": 0,
+    "html_url": "https://github.com/mzdaemon/quotedb_alsr_dep_bypass",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": "Python",
+    "repo_name": "quotedb_alsr_dep_bypass",
+    "repo_owner": "mzdaemon",
+    "repotime": "2024-06-10, 19:34:30",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

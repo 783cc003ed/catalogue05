@@ -170,3 +170,347 @@
     "stargazers_count": 1,
     "watchers_count": 1
 }
+{
+    "commits_count": 13,
+    "date_started": "2020-07-18",
+    "date_updated": "2020-08-30",
+    "description": "These are certain exploits I have taken from exploitdb and tried to recreate it on my own in lieu of OSCE pre-prep",
+    "forks_count": 1,
+    "html_url": "https://github.com/ironspideytrip/OSCE-Prep-Zero-day-practice",
+    "keywords": [
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "OSCE-Prep-Zero-day-practice",
+    "repo_owner": "ironspideytrip",
+    "repotime": "2020-08-30, 13:40:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 28,
+    "date_started": "2020-08-06",
+    "date_updated": "2020-08-22",
+    "description": "A library to snapshot the memory of lua for mem-analysis and find out memory leak problems.",
+    "forks_count": 3,
+    "html_url": "https://github.com/WinsonLu/lua-snapshot",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C",
+    "repo_name": "lua-snapshot",
+    "repo_owner": "WinsonLu",
+    "repotime": "2020-08-22, 15:12:34",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 165,
+    "date_started": "2019-03-15",
+    "date_updated": "2020-08-20",
+    "description": "XSSMap 是一款基于 Python3 开发用于检测 XSS 漏洞的工具",
+    "forks_count": 53,
+    "html_url": "https://github.com/Jewel591/xssmap",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xssmap",
+    "repo_owner": "Jewel591",
+    "repotime": "2020-08-20, 09:25:40",
+    "stargazers_count": 265,
+    "watchers_count": 265
+}
+{
+    "commits_count": 40,
+    "date_started": "2017-06-25",
+    "date_updated": "2020-08-19",
+    "description": "XSS'OR - Hack with JavaScript.",
+    "forks_count": 380,
+    "html_url": "https://github.com/evilcos/xssor2",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xssor2",
+    "repo_owner": "evilcos",
+    "repotime": "2020-08-19, 10:27:51",
+    "stargazers_count": 2179,
+    "watchers_count": 2179
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-08-15",
+    "date_updated": "2020-08-16",
+    "description": "This project aims to find cities in the EU that match the character of major cities in the UK. The results of this analysis can be used as a guide to those who are looking to relocate from UK to EU. After much delay, The United Kingdom formally left the EU on 31 January 2020, following on a public vote held in June 2016. Members of Parliament have voted 358 to 234 in favor of the Withdrawal Agreement Bill to approve Boris Johnson's Brexit deal.  The EU is an economic and political union involving 27 European countries. It allows free trade, which means goods can move between member countries without any checks or extra charges. The EU also allows free movement of people, to live and work in whichever country they choose. The UK joined in 1973 (when it was known as the European Economic Community) and became the first member state to leave.  Given this imminent exit, businesses and people have already started making plans to relocate from their current locations in UK, back to a suitabl...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Hossain-Mohammad-Iqbal/EU-UK-Neighborhoods-Analysis",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "EU-UK-Neighborhoods-Analysis",
+    "repo_owner": "Hossain-Mohammad-Iqbal",
+    "repotime": "2020-08-16, 04:55:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 368,
+    "date_started": "2012-05-28",
+    "date_updated": "2020-08-11",
+    "description": "Runtime Code Injection for Objective-C &amp;amp; Swift",
+    "forks_count": 566,
+    "html_url": "https://github.com/johnno1962/injectionforxcode",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "injectionforxcode",
+    "repo_owner": "johnno1962",
+    "repotime": "2020-08-11, 06:26:28",
+    "stargazers_count": 6555,
+    "watchers_count": 6555
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-06-30",
+    "date_updated": "2020-08-08",
+    "description": "&amp;&#35;35; Pandas Homework - Pandas, Pandas, Pandas  &amp;&#35;35;&amp;&#35;35; Background  The data dive continues!  Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Before You Begin  1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.  2. Clone the new repository to your computer.  3. Inside your local git repository, create a directory for the Pandas Challenge you choose. Use folder names corresponding to the challenges: **HeroesOfPymoli** or  **PyCitySchools**.  4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.  5. Push the above changes to GitHub or GitLab.  &amp;&#35;3...",
+    "forks_count": 5,
+    "html_url": "https://github.com/pnguenda/pandas-challenge",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "pandas-challenge",
+    "repo_owner": "pnguenda",
+    "repotime": "2020-08-08, 23:57:45",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-08-07",
+    "date_updated": "2020-08-07",
+    "description": "public 0day exploit dev",
+    "forks_count": 0,
+    "html_url": "https://github.com/kernelzeroday/0day-dev",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "C",
+    "repo_name": "0day-dev",
+    "repo_owner": "kernelzeroday",
+    "repotime": "2020-08-07, 21:19:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 34,
+    "date_started": "2013-07-19",
+    "date_updated": "2020-08-07",
+    "description": "The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.",
+    "forks_count": 158,
+    "html_url": "https://github.com/SpiderLabs/MCIR",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PHP",
+    "repo_name": "MCIR",
+    "repo_owner": "SpiderLabs",
+    "repotime": "2020-08-07, 14:44:09",
+    "stargazers_count": 442,
+    "watchers_count": 442
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-08-06",
+    "date_updated": "2020-08-06",
+    "description": "My final model is Ordinary Least Square (Linear Least square) because it could balance the trade-off between variance and bias; my final model will be consistent.  The final model’s highest R-Square value is 0.903 for training and 0.902 for testing. In other words, Correct prediction is 90,2% of the holdout data, 25% of the dataset. First of all, the in-depth analysis indicates a strong increasing trend from attendance at master class and revenue. However, the trend seems downward after our users attended more than two classes. Our final model features a remarkable positive correlation: 62.7260. The effectiveness of our marketing activity: Master Class for consumers is considered as “Customer Education” (Okeke, 2020), which is a constant process aiming to equip our customers with knowledge and skill to gain the greatest advantage of our products. Although it totally fits with the value proposition of Apprentice Chef’s, the negative impact is unavoidable. If our users gain enough knowle...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Phan-Git/Apprentice-Chef",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Apprentice-Chef",
+    "repo_owner": "Phan-Git",
+    "repotime": "2020-08-06, 10:18:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-07-18",
+    "date_updated": "2020-08-30",
+    "description": "These are certain exploits I have taken from exploitdb and tried to recreate it on my own in lieu of OSCE pre-prep",
+    "forks_count": 1,
+    "html_url": "https://github.com/ironspideytrip/OSCE-Prep-Zero-day-practice",
+    "keywords": [
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "OSCE-Prep-Zero-day-practice",
+    "repo_owner": "ironspideytrip",
+    "repotime": "2020-08-30, 13:40:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 28,
+    "date_started": "2020-08-06",
+    "date_updated": "2020-08-22",
+    "description": "A library to snapshot the memory of lua for mem-analysis and find out memory leak problems.",
+    "forks_count": 3,
+    "html_url": "https://github.com/WinsonLu/lua-snapshot",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C",
+    "repo_name": "lua-snapshot",
+    "repo_owner": "WinsonLu",
+    "repotime": "2020-08-22, 15:12:34",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 165,
+    "date_started": "2019-03-15",
+    "date_updated": "2020-08-20",
+    "description": "XSSMap 是一款基于 Python3 开发用于检测 XSS 漏洞的工具",
+    "forks_count": 53,
+    "html_url": "https://github.com/Jewel591/xssmap",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xssmap",
+    "repo_owner": "Jewel591",
+    "repotime": "2020-08-20, 09:25:40",
+    "stargazers_count": 266,
+    "watchers_count": 266
+}
+{
+    "commits_count": 40,
+    "date_started": "2017-06-25",
+    "date_updated": "2020-08-19",
+    "description": "XSS'OR - Hack with JavaScript.",
+    "forks_count": 381,
+    "html_url": "https://github.com/evilcos/xssor2",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xssor2",
+    "repo_owner": "evilcos",
+    "repotime": "2020-08-19, 10:27:51",
+    "stargazers_count": 2183,
+    "watchers_count": 2183
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-08-15",
+    "date_updated": "2020-08-16",
+    "description": "This project aims to find cities in the EU that match the character of major cities in the UK. The results of this analysis can be used as a guide to those who are looking to relocate from UK to EU. After much delay, The United Kingdom formally left the EU on 31 January 2020, following on a public vote held in June 2016. Members of Parliament have voted 358 to 234 in favor of the Withdrawal Agreement Bill to approve Boris Johnson's Brexit deal.  The EU is an economic and political union involving 27 European countries. It allows free trade, which means goods can move between member countries without any checks or extra charges. The EU also allows free movement of people, to live and work in whichever country they choose. The UK joined in 1973 (when it was known as the European Economic Community) and became the first member state to leave.  Given this imminent exit, businesses and people have already started making plans to relocate from their current locations in UK, back to a suitabl...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Hossain-Mohammad-Iqbal/EU-UK-Neighborhoods-Analysis",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "EU-UK-Neighborhoods-Analysis",
+    "repo_owner": "Hossain-Mohammad-Iqbal",
+    "repotime": "2020-08-16, 04:55:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 368,
+    "date_started": "2012-05-28",
+    "date_updated": "2020-08-11",
+    "description": "Runtime Code Injection for Objective-C &amp;amp; Swift",
+    "forks_count": 566,
+    "html_url": "https://github.com/johnno1962/injectionforxcode",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "injectionforxcode",
+    "repo_owner": "johnno1962",
+    "repotime": "2020-08-11, 06:26:28",
+    "stargazers_count": 6559,
+    "watchers_count": 6559
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-06-30",
+    "date_updated": "2020-08-08",
+    "description": "&amp;&#35;35; Pandas Homework - Pandas, Pandas, Pandas  &amp;&#35;35;&amp;&#35;35; Background  The data dive continues!  Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Before You Begin  1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.  2. Clone the new repository to your computer.  3. Inside your local git repository, create a directory for the Pandas Challenge you choose. Use folder names corresponding to the challenges: **HeroesOfPymoli** or  **PyCitySchools**.  4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.  5. Push the above changes to GitHub or GitLab.  &amp;&#35;3...",
+    "forks_count": 5,
+    "html_url": "https://github.com/pnguenda/pandas-challenge",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "pandas-challenge",
+    "repo_owner": "pnguenda",
+    "repotime": "2020-08-08, 23:57:45",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-08-07",
+    "date_updated": "2020-08-07",
+    "description": "public 0day exploit dev",
+    "forks_count": 0,
+    "html_url": "https://github.com/kernelzeroday/0day-dev",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "C",
+    "repo_name": "0day-dev",
+    "repo_owner": "kernelzeroday",
+    "repotime": "2020-08-07, 21:19:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 34,
+    "date_started": "2013-07-19",
+    "date_updated": "2020-08-07",
+    "description": "The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.",
+    "forks_count": 158,
+    "html_url": "https://github.com/SpiderLabs/MCIR",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PHP",
+    "repo_name": "MCIR",
+    "repo_owner": "SpiderLabs",
+    "repotime": "2020-08-07, 14:44:09",
+    "stargazers_count": 442,
+    "watchers_count": 442
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-08-06",
+    "date_updated": "2020-08-06",
+    "description": "My final model is Ordinary Least Square (Linear Least square) because it could balance the trade-off between variance and bias; my final model will be consistent.  The final model’s highest R-Square value is 0.903 for training and 0.902 for testing. In other words, Correct prediction is 90,2% of the holdout data, 25% of the dataset. First of all, the in-depth analysis indicates a strong increasing trend from attendance at master class and revenue. However, the trend seems downward after our users attended more than two classes. Our final model features a remarkable positive correlation: 62.7260. The effectiveness of our marketing activity: Master Class for consumers is considered as “Customer Education” (Okeke, 2020), which is a constant process aiming to equip our customers with knowledge and skill to gain the greatest advantage of our products. Although it totally fits with the value proposition of Apprentice Chef’s, the negative impact is unavoidable. If our users gain enough knowle...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Phan-Git/Apprentice-Chef",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Apprentice-Chef",
+    "repo_owner": "Phan-Git",
+    "repotime": "2020-08-06, 10:18:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

@@ -1,0 +1,37 @@
+{
+    "commits_count": 2,
+    "date_started": "2020-11-21",
+    "date_updated": "2020-11-20",
+    "description": "Return to Libc exploit with format string vulnerability, bypass ASLR, NX, and Stack Canary",
+    "forks_count": 0,
+    "html_url": "https://github.com/teleplayer123/ROP-Format-Exploit",
+    "keywords": [
+        "aslr bypass",
+        "aslr bypass vulnerability",
+        "aslr bypass exploitation",
+        "aslr bypass exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ROP-Format-Exploit",
+    "repo_owner": "teleplayer123",
+    "repotime": "2020-11-20, 19:51:44",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-03-01",
+    "date_updated": "2020-11-09",
+    "description": "A proof of concept to exploit the reflected XSS vulnerability in the oVirt web interface (RedHat). In this PoC a VM in the oVirt IaaS environment is to be started via the victim's browser session. JS code has been kept simple due to the rush.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xEmanuel/CVE-2016-3113",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2016-3113",
+    "repo_owner": "0xEmanuel",
+    "repotime": "2020-11-09, 21:00:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -1,0 +1,112 @@
+## DuckDuckgo search -> Direct Composition use after free vulnerability
+`2025-09-17`
+
+* https://www.makeuseof.com/what-is-use-after-free-uaf-vulnerability/
+
+<blockquote>
+ WhatIsaUseAfterFreeUAFVulnerabilityMUO
+</blockquote>
+<blockquote>
+A use-after-free vulnerability occurs when programmers do not manage dynamic memory allocation and deallocation properly in their programs. This means the UAF class of vulnerabilities is a type of heap exploitation. To understand this vulnerability better, it helps to have a strong understanding of how pointers work in programming.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition use after free vulnerability
+`2025-09-17`
+
+* https://cr0mll.github.io/cyberclopaedia/Exploitation/Binary Exploitation/Heap Exploitation/Use After Free (UAF).html
+
+<blockquote>
+ UseAfterFreeUAFCyberclopaedia
+</blockquote>
+<blockquote>
+A use-after-free vulnerability occurs when we are allowed to write to an already freed chunk as if it were still a valid allocation. The next time malloc is invoked with that particular chunk size, a pointer to the same memory where the previously freed chunk was will be returned.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition use after free vulnerability
+`2025-09-17`
+
+* https://vuldb.com/?id.303958
+
+<blockquote>
+ MicrosoftWindowsuptoServer2025Win32kuseafterfree
+</blockquote>
+<blockquote>
+Summary info A vulnerability was found in Microsoft Windows and classified as critical. The affected element is an unknown function of the component Win32k. Executing manipulation can lead to use after free. This vulnerability appears as CVE-2025-26687. The attack may be performed from remote. There is no available exploit.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition use after free vulnerability
+`2025-09-17`
+
+* https://www.cve.news/cve-2025-30400/
+
+<blockquote>
+ CVE202530400UseAfterFreeinWindowsDWMAllowsLocalPrivilege
+</blockquote>
+<blockquote>
+- Microsoft Security Guide (CVE-2025-30400) - Project Zero: Understanding Use-After-Free The vulnerability centers around DWM's handling of window composition data. A specific custom sequence of API calls, such as creating, destroying, and quickly manipulating window handles and surfaces, can result in DWM freeing a memory object too early.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition use after free vulnerability
+`2025-09-17`
+
+* https://feedly.com/cve/CVE-2025-30400
+
+<blockquote>
+ CVE202530400ExploitsSeverityFeedly
+</blockquote>
+<blockquote>
+Threat Intelligence Report Microsoft has disclosed a critical security vulnerability (CVE-2025-30400) in the Windows Desktop Window Manager (DWM), which is actively being exploited in the wild. This vulnerability, categorized under CWE-416: Use After Free, was officially released on May 13, 2025, but the summary does not provide information on CVSS scores, proof-of-concept exploits ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition use after free overflow
+`2025-09-17`
+
+* https://github.com/MicrosoftDocs/win32/blob/docs/desktop-src/directcomp/directcomposition-code-samples.md
+
+<blockquote>
+ win32desktopsrcdirectcompdirectcompositioncodesamplesmdGitHub
+</blockquote>
+<blockquote>
+DirectComposition samples Note For apps on Windows 10, we recommend using Windows.UI.Composition APIs instead of DirectComposition. For more info, see Modernize your desktop app using the Visual layer. The following sample applications show how to use the Microsoft DirectComposition API and demonstrate its capabilities.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition use after free overflow
+`2025-09-17`
+
+* https://github.com/MicrosoftDocs/win32/blob/docs/desktop-src/directcomp/best-practices-for-directcomposition.md
+
+<blockquote>
+ win32desktopsrcdirectcompbestpracticesforGitHub
+</blockquote>
+<blockquote>
+Public mirror for win32-pr. Contribute to MicrosoftDocs/win32 development by creating an account on GitHub.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> Direct Composition use after free overflow
+`2025-09-17`
+
+* https://stackoverflow.com/questions/75129305/have-direct2d-dxgi-swapchain-hwnd-transparency-all-working-at-once-in-c-wi
+
+<blockquote>
+ HaveDirect2DDXGISwapChainHWNDtransparencyallStackOverflow
+</blockquote>
+<blockquote>
+After all modules have processed the message, or after one module called stop (), return the value returned by the last module that evaluated the current message, or pass to the default window procedure if no module returned any value. I use whitesmiths indentation. I know it's not really widespread but please don't kill me for it :)
+</blockquote>
+
+---
+

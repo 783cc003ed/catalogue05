@@ -68,3 +68,143 @@
     "stargazers_count": 21,
     "watchers_count": 21
 }
+{
+    "commits_count": 2,
+    "date_started": "2024-07-29",
+    "date_updated": "2024-07-29",
+    "description": "Windows AppLocker Driver (appid.sys) LPE",
+    "forks_count": 14,
+    "html_url": "https://github.com/Crowdfense/CVE-2024-21338",
+    "keywords": [
+        "Windows lpe",
+        "lpe exploit",
+        "Windows lpe exploit"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2024-21338",
+    "repo_owner": "Crowdfense",
+    "repotime": "2024-07-29, 17:29:59",
+    "stargazers_count": 63,
+    "watchers_count": 63
+}
+{
+    "commits_count": 93,
+    "date_started": "2019-01-15",
+    "date_updated": "2024-07-23",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "forks_count": 1993,
+    "html_url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "Resources-for-Beginner-Bug-Bounty-Hunters",
+    "repo_owner": "nahamsec",
+    "repotime": "2024-07-23, 10:01:39",
+    "stargazers_count": 11398,
+    "watchers_count": 11398
+}
+{
+    "commits_count": 21,
+    "date_started": "2024-05-12",
+    "date_updated": "2024-07-19",
+    "description": "Kernel Exploit for CVE-2016-6187 (Local Privilege Escalation)",
+    "forks_count": 0,
+    "html_url": "https://github.com/Milo-D/CVE-2016-6187_LPE",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2016-6187_LPE",
+    "repo_owner": "Milo-D",
+    "repotime": "2024-07-19, 05:03:18",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-10-23",
+    "date_updated": "2024-07-11",
+    "description": "Discord HTTP requests interception POC, including backup codes requests, for educational purposes only.",
+    "forks_count": 8,
+    "html_url": "https://github.com/hackirby/discord-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "discord-injection",
+    "repo_owner": "hackirby",
+    "repotime": "2024-07-11, 14:35:05",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-07-29",
+    "date_updated": "2024-07-29",
+    "description": "Windows AppLocker Driver (appid.sys) LPE",
+    "forks_count": 14,
+    "html_url": "https://github.com/Crowdfense/CVE-2024-21338",
+    "keywords": [
+        "Windows lpe",
+        "lpe exploit",
+        "Windows lpe exploit"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2024-21338",
+    "repo_owner": "Crowdfense",
+    "repotime": "2024-07-29, 17:29:59",
+    "stargazers_count": 63,
+    "watchers_count": 63
+}
+{
+    "commits_count": 93,
+    "date_started": "2019-01-15",
+    "date_updated": "2024-07-23",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "forks_count": 1993,
+    "html_url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "Resources-for-Beginner-Bug-Bounty-Hunters",
+    "repo_owner": "nahamsec",
+    "repotime": "2024-07-23, 10:01:39",
+    "stargazers_count": 11469,
+    "watchers_count": 11469
+}
+{
+    "commits_count": 21,
+    "date_started": "2024-05-12",
+    "date_updated": "2024-07-19",
+    "description": "Kernel Exploit for CVE-2016-6187 (Local Privilege Escalation)",
+    "forks_count": 0,
+    "html_url": "https://github.com/Milo-D/CVE-2016-6187_LPE",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2016-6187_LPE",
+    "repo_owner": "Milo-D",
+    "repotime": "2024-07-19, 05:03:18",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-10-23",
+    "date_updated": "2024-07-11",
+    "description": "Discord HTTP requests interception POC, including backup codes requests, for educational purposes only.",
+    "forks_count": 7,
+    "html_url": "https://github.com/hackirby/discord-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "discord-injection",
+    "repo_owner": "hackirby",
+    "repotime": "2024-07-11, 14:35:05",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}

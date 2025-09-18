@@ -1,0 +1,259 @@
+{
+    "commits_count": 6,
+    "date_started": "2025-01-24",
+    "date_updated": "2025-07-30",
+    "description": "This repository contains C++ code to load custom drivers by exploiting a vulnerable driver in Windows. This project demonstrates a technique to bypass DSE (Driver Signature Enforcement) and PatchGuard using a vulnerable driver, and to load a custom driver. It serves as a proof of concept for security research purposes.",
+    "forks_count": 7,
+    "html_url": "https://github.com/Leksa667/Vulnerable-Driver-Manual-Mapper",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Vulnerable-Driver-Manual-Mapper",
+    "repo_owner": "Leksa667",
+    "repotime": "2025-07-30, 22:07:15",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-07-30",
+    "date_updated": "2025-07-30",
+    "description": "Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally.",
+    "forks_count": 3,
+    "html_url": "https://github.com/AfanPan/CVE-2025-29824-Exploit",
+    "keywords": [
+        "Windows use after free",
+        "Windows use after free exploit",
+        "use after free exploit"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2025-29824-Exploit",
+    "repo_owner": "AfanPan",
+    "repotime": "2025-07-30, 16:15:59",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 111,
+    "date_started": "2024-09-27",
+    "date_updated": "2025-07-24",
+    "description": "Adrenaline CryptoSentinel: Proactive Protection Against Data Exfiltration and Reactive Ransomware Defense.  Zero-Day resistant and much more....",
+    "forks_count": 1,
+    "html_url": "https://github.com/wcsf-rd/Adrenaline-CryptoSentinel",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": null,
+    "repo_name": "Adrenaline-CryptoSentinel",
+    "repo_owner": "wcsf-rd",
+    "repotime": "2025-07-24, 00:25:30",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-07-21",
+    "date_updated": "2025-07-21",
+    "description": "A set of scripts that can copy session storage, cookies and identifiers from the browser and can recreate the session on any other computer.",
+    "forks_count": 0,
+    "html_url": "https://github.com/roshaanmehar/SessionHijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "SessionHijacking",
+    "repo_owner": "roshaanmehar",
+    "repotime": "2025-07-21, 18:55:35",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-07-01",
+    "date_updated": "2025-07-20",
+    "description": "End-to-end simulation of a Python dependency confusion attack, sudo privilege escalation (CVE-2025-32463), and rootkit-based persistence - with full memory and network forensic analysis.",
+    "forks_count": 0,
+    "html_url": "https://github.com/IC3-512/linux-root-kit",
+    "keywords": [
+        "escalation of privileges analysis"
+    ],
+    "language": "C",
+    "repo_name": "linux-root-kit",
+    "repo_owner": "IC3-512",
+    "repotime": "2025-07-20, 15:49:55",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 53,
+    "date_started": "2024-09-06",
+    "date_updated": "2025-07-18",
+    "description": "Automation tool to testing and confirm the xss vulnerability.",
+    "forks_count": 52,
+    "html_url": "https://github.com/iamunixtz/LazyXss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "LazyXss",
+    "repo_owner": "iamunixtz",
+    "repotime": "2025-07-18, 06:49:37",
+    "stargazers_count": 288,
+    "watchers_count": 288
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-07-14",
+    "date_updated": "2025-07-14",
+    "description": "Final project for the Software Security course: vulnerability analysis and exploitation of the OWASP NodeGoat application, including static code analysis, attack simulation (XSS, CSRF, Session Hijacking, Server-Side JS Injection), and mitigation techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Paskch/software-security-project",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "software-security-project",
+    "repo_owner": "Paskch",
+    "repotime": "2025-07-14, 15:56:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-07-08",
+    "date_updated": "2025-07-14",
+    "description": "This project implements a complete Evil Twin attack targeting WPA2-Enterprise (Eduroam) networks by exploiting clients that do not validate RADIUS certificates. It automates rogue AP deployment (hostapd-wpe), DNS/DHCP spoofing (dnsmasq), captive portal delivery (Flask), HTTPS interception (mitmproxy), and MS-CHAPv2 hash capture and cracking — built",
+    "forks_count": 1,
+    "html_url": "https://github.com/raffaeledb01/demo_attack_eduroam",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "Shell",
+    "repo_name": "demo_attack_eduroam",
+    "repo_owner": "raffaeledb01",
+    "repotime": "2025-07-14, 14:13:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-07-09",
+    "date_updated": "2025-07-14",
+    "description": "This project implements a complete Evil Twin attack targeting WPA2-Enterprise (Eduroam) networks by exploiting clients that do not validate RADIUS certificates. It automates rogue AP deployment (hostapd-wpe), DNS/DHCP spoofing (dnsmasq), captive portal delivery (Flask), HTTPS interception (mitmproxy), and MS-CHAPv2 hash capture and cracking — built",
+    "forks_count": 0,
+    "html_url": "https://github.com/DeSimoneFabio/demo_attack_eduroam",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "Shell",
+    "repo_name": "demo_attack_eduroam",
+    "repo_owner": "DeSimoneFabio",
+    "repotime": "2025-07-14, 14:13:13",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-11-21",
+    "date_updated": "2025-07-13",
+    "description": "Script that automates the process of escalating privileges on openbsd system (CVE-2019-19520)  by exploiting the xlock binary and againing it's sgid and escalating to the root user by (CVE-2019-19522) exploiting the privileges of auth group and adding keys to the Skey or Yubikey",
+    "forks_count": 0,
+    "html_url": "https://github.com/retrymp3/Openbsd-Privilege-Escalation",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "Openbsd-Privilege-Escalation",
+    "repo_owner": "retrymp3",
+    "repotime": "2025-07-13, 16:14:57",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 21,
+    "date_started": "2024-04-05",
+    "date_updated": "2025-07-12",
+    "description": "DSE &amp;amp; PG bypass via BYOVD attack",
+    "forks_count": 13,
+    "html_url": "https://github.com/4l3x777/dse_pg_bypass",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "dse_pg_bypass",
+    "repo_owner": "4l3x777",
+    "repotime": "2025-07-12, 11:25:32",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 31,
+    "date_started": "2024-04-22",
+    "date_updated": "2025-07-10",
+    "description": "Make predictions on frames from plancha-session",
+    "forks_count": 0,
+    "html_url": "https://github.com/SeatizenDOI/plancha-inference",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "plancha-inference",
+    "repo_owner": "SeatizenDOI",
+    "repotime": "2025-07-10, 13:21:43",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-07-08",
+    "description": "Windows 7 RCE via SMBv1 buffer overflow in srv.sys",
+    "forks_count": 0,
+    "html_url": "https://github.com/thinken-cyber/Metasploit-Rat",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Shell",
+    "repo_name": "Metasploit-Rat",
+    "repo_owner": "thinken-cyber",
+    "repotime": "2025-07-08, 23:28:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 136,
+    "date_started": "2021-02-23",
+    "date_updated": "2025-07-08",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 84,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2025-07-08, 11:51:33",
+    "stargazers_count": 829,
+    "watchers_count": 829
+}
+{
+    "commits_count": 211,
+    "date_started": "2019-05-06",
+    "date_updated": "2025-07-03",
+    "description": "A blind XSS detection and XSS data capture framework",
+    "forks_count": 29,
+    "html_url": "https://github.com/daxAKAhackerman/XSS-Catcher",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-Catcher",
+    "repo_owner": "daxAKAhackerman",
+    "repotime": "2025-07-03, 20:00:18",
+    "stargazers_count": 172,
+    "watchers_count": 172
+}

@@ -68,3 +68,143 @@
     "stargazers_count": 7,
     "watchers_count": 7
 }
+{
+    "commits_count": 313,
+    "date_started": "2015-10-02",
+    "date_updated": "2017-12-22",
+    "description": "SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.",
+    "forks_count": 74,
+    "html_url": "https://github.com/bcoles/ssrf_proxy",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Ruby",
+    "repo_name": "ssrf_proxy",
+    "repo_owner": "bcoles",
+    "repotime": "2017-12-22, 12:56:31",
+    "stargazers_count": 468,
+    "watchers_count": 468
+}
+{
+    "commits_count": 66,
+    "date_started": "2017-11-16",
+    "date_updated": "2017-12-19",
+    "description": "This project houses all of the jquery written on top of an award application (our General Operating Support grant application) hosted by FluidReview. While FluidReview is a great drag-and-drop application builder, it lacks some out-of-the-box customization. The platform allows the builder to drop in a javascript box. The javascript box only applies to that application page (so, if a form has multiple pages, you'll need each page to have the javascript box dropped in). More about the javascript box here: https://fluidreview.zendesk.com/hc/en-us/articles/115002494634-JavaScript-Question. This project includes edited how a table appears (a 3D Matrix question in FluidReview), adding in custom validation on form inputs (for phone numbers, currency, registered Missouri Business number, etc.), and adding in calculations in the 990 worksheet table. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/avattt/fluidreview-jquery",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "fluidreview-jquery",
+    "repo_owner": "avattt",
+    "repotime": "2017-12-19, 13:54:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-12-12",
+    "date_updated": "2017-12-18",
+    "description": "Proof of concept written in Python to show that in some situations a SSRF vulnerability can be used to steal NTLMv1/v2 hashes.",
+    "forks_count": 10,
+    "html_url": "https://github.com/blazeinfosec/ssrf-ntlm",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "ssrf-ntlm",
+    "repo_owner": "blazeinfosec",
+    "repotime": "2017-12-18, 18:39:41",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 2,
+    "date_started": "2017-12-08",
+    "date_updated": "2017-12-09",
+    "description": "CVE-2018-4343: Proof-of-concept for a use-after-free in the GSSCred daemon on macOS and iOS.",
+    "forks_count": 2,
+    "html_url": "https://github.com/bazad/gsscred-move-uaf",
+    "keywords": [
+        "uaf proof of concept",
+        "use after free proof of concept"
+    ],
+    "language": "C",
+    "repo_name": "gsscred-move-uaf",
+    "repo_owner": "bazad",
+    "repotime": "2017-12-09, 15:23:33",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 313,
+    "date_started": "2015-10-02",
+    "date_updated": "2017-12-22",
+    "description": "SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.",
+    "forks_count": 74,
+    "html_url": "https://github.com/bcoles/ssrf_proxy",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Ruby",
+    "repo_name": "ssrf_proxy",
+    "repo_owner": "bcoles",
+    "repotime": "2017-12-22, 12:56:31",
+    "stargazers_count": 471,
+    "watchers_count": 471
+}
+{
+    "commits_count": 66,
+    "date_started": "2017-11-16",
+    "date_updated": "2017-12-19",
+    "description": "This project houses all of the jquery written on top of an award application (our General Operating Support grant application) hosted by FluidReview. While FluidReview is a great drag-and-drop application builder, it lacks some out-of-the-box customization. The platform allows the builder to drop in a javascript box. The javascript box only applies to that application page (so, if a form has multiple pages, you'll need each page to have the javascript box dropped in). More about the javascript box here: https://fluidreview.zendesk.com/hc/en-us/articles/115002494634-JavaScript-Question. This project includes edited how a table appears (a 3D Matrix question in FluidReview), adding in custom validation on form inputs (for phone numbers, currency, registered Missouri Business number, etc.), and adding in calculations in the 990 worksheet table. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/avattt/fluidreview-jquery",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "fluidreview-jquery",
+    "repo_owner": "avattt",
+    "repotime": "2017-12-19, 13:54:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-12-12",
+    "date_updated": "2017-12-18",
+    "description": "Proof of concept written in Python to show that in some situations a SSRF vulnerability can be used to steal NTLMv1/v2 hashes.",
+    "forks_count": 10,
+    "html_url": "https://github.com/blazeinfosec/ssrf-ntlm",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "ssrf-ntlm",
+    "repo_owner": "blazeinfosec",
+    "repotime": "2017-12-18, 18:39:41",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 2,
+    "date_started": "2017-12-08",
+    "date_updated": "2017-12-09",
+    "description": "CVE-2018-4343: Proof-of-concept for a use-after-free in the GSSCred daemon on macOS and iOS.",
+    "forks_count": 2,
+    "html_url": "https://github.com/bazad/gsscred-move-uaf",
+    "keywords": [
+        "uaf proof of concept",
+        "use after free proof of concept"
+    ],
+    "language": "C",
+    "repo_name": "gsscred-move-uaf",
+    "repo_owner": "bazad",
+    "repotime": "2017-12-09, 15:23:33",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}

@@ -1,0 +1,986 @@
+{
+    "commits_count": 2,
+    "date_started": "2025-02-27",
+    "date_updated": "2025-02-27",
+    "description": "This Python-based tool scans websites for common vulnerabilities like SQL Injection, Cross-Site Scripting (XSS), and Security Misconfigurations. It features a user-friendly GUI built with Tkinter, stores results in an SQLite database, and allows exporting to CSV for further analysis. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/ayush-07-parajuli/Automated-Web-Vulnerability-Scanner",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "Automated-Web-Vulnerability-Scanner",
+    "repo_owner": "ayush-07-parajuli",
+    "repotime": "2025-02-27, 19:20:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 152,
+    "date_started": "2010-01-09",
+    "date_updated": "2025-02-27",
+    "description": "A database resource control interface for Ruby that lets you avoid hard coding your passwords",
+    "forks_count": 0,
+    "html_url": "https://github.com/djberg96/dbi-dbrc",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Ruby",
+    "repo_name": "dbi-dbrc",
+    "repo_owner": "djberg96",
+    "repotime": "2025-02-27, 06:40:48",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 73,
+    "date_started": "2022-01-10",
+    "date_updated": "2025-02-26",
+    "description": "Express honeypot for remote file inclusion (RFI) and local file inclusion (LFI).",
+    "forks_count": 8,
+    "html_url": "https://github.com/christophe77/express-honeypot",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "JavaScript",
+    "repo_name": "express-honeypot",
+    "repo_owner": "christophe77",
+    "repotime": "2025-02-26, 17:21:48",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-02-26",
+    "date_updated": "2025-02-26",
+    "description": "This code is used to check for different browser vulnerabilities such as address bar spoofing, url spoofing etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/slvignesh05/BrowserSec",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "BrowserSec",
+    "repo_owner": "slvignesh05",
+    "repotime": "2025-02-26, 19:53:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-26",
+    "date_updated": "2025-02-26",
+    "description": "Writeup on session hijacking exploit for video streaming platform MovieBoxPro which exposed over 6 million Google accounts (15/05/2024)",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ciarands/MBP-Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "MBP-Session-Hijacking",
+    "repo_owner": "Ciarands",
+    "repotime": "2025-02-26, 12:19:43",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 36,
+    "date_started": "2025-02-09",
+    "date_updated": "2025-02-26",
+    "description": "MagicADPwn is a standalone Bash script designed to automate the enumeration and exploitation of Active Directory environments. It integrates multiple tools to identify misconfigurations, escalate privileges, perform lateral movement, and establish persistence.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mag1cByt3s/MagicADPwn",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "MagicADPwn",
+    "repo_owner": "Mag1cByt3s",
+    "repotime": "2025-02-26, 07:14:24",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-02-23",
+    "date_updated": "2025-02-26",
+    "description": "bigwasm instruments WASM modules using host functions to escape sandboxing for coverage and fuzzing purposes (just a POC!)",
+    "forks_count": 0,
+    "html_url": "https://github.com/kevin-valerio/bigwasm",
+    "keywords": [
+        "sandbox escape poc"
+    ],
+    "language": "Rust",
+    "repo_name": "bigwasm",
+    "repo_owner": "kevin-valerio",
+    "repotime": "2025-02-26, 11:42:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 147,
+    "date_started": "2022-10-01",
+    "date_updated": "2025-02-26",
+    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+    "forks_count": 391,
+    "html_url": "https://github.com/r0oth3x49/ghauri",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "ghauri",
+    "repo_owner": "r0oth3x49",
+    "repotime": "2025-02-26, 00:09:45",
+    "stargazers_count": 3683,
+    "watchers_count": 3683
+}
+{
+    "commits_count": 4725,
+    "date_started": "2017-05-29",
+    "date_updated": "2025-02-25",
+    "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
+    "forks_count": 165,
+    "html_url": "https://github.com/airbus-seclab/bincat",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "OCaml",
+    "repo_name": "bincat",
+    "repo_owner": "airbus-seclab",
+    "repotime": "2025-02-25, 17:53:49",
+    "stargazers_count": 1830,
+    "watchers_count": 1830
+}
+{
+    "commits_count": 22,
+    "date_started": "2023-11-19",
+    "date_updated": "2025-02-24",
+    "description": "xxe漏洞靶场",
+    "forks_count": 0,
+    "html_url": "https://github.com/mcc0624/XXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "CSS",
+    "repo_name": "XXE",
+    "repo_owner": "mcc0624",
+    "repotime": "2025-02-24, 23:50:44",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 176,
+    "date_started": "2015-05-28",
+    "date_updated": "2025-02-24",
+    "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
+    "forks_count": 569,
+    "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
+    "keywords": [
+        "vulnerability",
+        "Windows uaf vulnerability",
+        "uaf exploitation",
+        "Windows uaf exploitation",
+        "uaf vulnerability",
+        "Windows uaf"
+    ],
+    "language": "C",
+    "repo_name": "HackSysExtremeVulnerableDriver",
+    "repo_owner": "hacksysteam",
+    "repotime": "2025-02-24, 17:49:16",
+    "stargazers_count": 2823,
+    "watchers_count": 2823
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-12-04",
+    "date_updated": "2025-02-22",
+    "description": "A Proof-of-Concept (PoC) exploit for CVE-2018-16763 (Fuel CMS - Preauthenticated Remote Code Execution).",
+    "forks_count": 0,
+    "html_url": "https://github.com/saccles/CVE_2018_16763_Proof_of_Concept",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE_2018_16763_Proof_of_Concept",
+    "repo_owner": "saccles",
+    "repotime": "2025-02-22, 18:12:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-01-04",
+    "date_updated": "2025-02-23",
+    "description": "WPF Partial Trust Security Article 10 minutes to read In general, Internet applications should be restricted from having direct access to critical system resources, to prevent malicious damage. By default, HTML and client-side scripting languages are not able to access critical system resources. Because Windows Presentation Foundation (WPF) browser-hosted applications can be launched from the browser, they should conform to a similar set of restrictions. To enforce these restrictions, WPF relies on both Code Access Security (CAS) and ClickOnce (see WPF Security Strategy - Platform Security). By default, browser-hosted applications request the Internet zone CAS set of permissions, irrespective of whether they are launched from the Internet, the local intranet, or the local computer. Applications that run with anything less than the full set of permissions are said to be running with partial trust. WPF provides a wide variety of support to ensure that as much functionality as possible ca...",
+    "forks_count": 4,
+    "html_url": "https://github.com/lhai36366/lhai36366",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "lhai36366",
+    "repo_owner": "lhai36366",
+    "repotime": "2025-02-23, 05:22:29",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-22",
+    "date_updated": "2025-02-22",
+    "description": "This bug demonstrates incorrect handling of non-numeric input in JavaScript functions.  The original code lacks input validation, leading to unexpected results or errors when non-numeric values are passed. The solution adds input validation to handle such cases gracefully.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/JavaScript--Handling-Non-Numeric-Input-in-Functions-1epn4",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "JavaScript--Handling-Non-Numeric-Input-in-Functions-1epn4",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-22, 12:40:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2025-01-30",
+    "date_updated": "2025-02-22",
+    "description": "Common Vulnerabilities and Exposures /// Remote Code Execution | Arbitrary File Upload | Proof of Concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/nakataXmodem/cve-rce-poc",
+    "keywords": [
+        "remote code execution proof of concept",
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "cve-rce-poc",
+    "repo_owner": "nakataXmodem",
+    "repotime": "2025-02-22, 08:31:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-02-21",
+    "date_updated": "2025-02-22",
+    "description": "This script attempts to exploit Docker containers for privilege escalation by utilizing Docker images that may allow access to the host filesystem with privileged privileges. It tests a predefined list of Docker images and checks if the system is vulnerable to privilege escalation via chroot.",
+    "forks_count": 1,
+    "html_url": "https://github.com/4m3rr0r/ZombifyDocker",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "ZombifyDocker",
+    "repo_owner": "4m3rr0r",
+    "repotime": "2025-02-22, 11:18:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 51,
+    "date_started": "2021-10-17",
+    "date_updated": "2025-02-21",
+    "description": "Consider  the  design  of  a  database  for  a  web  site  that  allow  people  to  buy  and  sell  a  cypto called PPS (see website testing.ppswap.org). Only registered users can buy and sell PPS. Each user is identified by a userid, which is an email, first name, last name, birthday, address (street number, street, city, state, and zip code), balance of PPS and balance of dollar.  Initially, both PPS and dollar balances are zero. A user can withdraw and deposit dollars. A special user root (this is the only user whose id is root and not an email) initially will have the whole supply of PPS, which is 1T. A user will sell and buy PPS only with this special user root (in real life, this special root might be just a smart contract). The price of the PPS is set to 1M/$ initially. For the simplicity of this project, we assume each buy will increase the price by a little: each dollar can buy 1 less PPS after each buy. In the same way, each sell will decrease the price a little bit:  each  d...",
+    "forks_count": 3,
+    "html_url": "https://github.com/jonschumaker/PPS_Project",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Java",
+    "repo_name": "PPS_Project",
+    "repo_owner": "jonschumaker",
+    "repotime": "2025-02-21, 20:40:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-02-20",
+    "date_updated": "2025-02-20",
+    "description": "Illustrating session hijacking...",
+    "forks_count": 0,
+    "html_url": "https://github.com/venantvr-security/Python.Session.Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "Python.Session.Hijacking",
+    "repo_owner": "venantvr-security",
+    "repotime": "2025-02-20, 14:37:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 546,
+    "date_started": "2024-11-16",
+    "date_updated": "2025-02-20",
+    "description": "复现|漏洞|CVE|CNVD|POC|EXP|0day|1day|nday等相关微信文章收集",
+    "forks_count": 19,
+    "html_url": "https://github.com/20142995/wxvl",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "wxvl",
+    "repo_owner": "20142995",
+    "repotime": "2025-02-20, 04:13:29",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
+    "commits_count": 27,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-02-19",
+    "description": "CVE-2025-24016: Wazuh Unsafe Deserialization Remote Code Execution (RCE)",
+    "forks_count": 6,
+    "html_url": "https://github.com/0xjessie21/CVE-2025-24016",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-24016",
+    "repo_owner": "0xjessie21",
+    "repotime": "2025-02-19, 23:33:45",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-18",
+    "date_updated": "2025-02-18",
+    "description": "Express.js route handler missing error handling for invalid user ID, leading to unexpected behavior or crashes.  Improper input validation and missing 404 handling for nonexistent users.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Unhandled-Error-in-Express-js-Route-Handler--Missing-Input-Validation-and-404-Handling-f9bmv",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Unhandled-Error-in-Express-js-Route-Handler--Missing-Input-Validation-and-404-Handling-f9bmv",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-18, 12:56:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-18",
+    "date_updated": "2025-02-18",
+    "description": "This Hack code calculates the factorial of a number using recursion. It has two issues: stack overflow for large inputs and lack of input validation for negative or non-integer inputs. The solution involves adding input validation and using an iterative approach instead of recursion.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-and-Input-Validation-Issues-in-Recursive-Factorial-Function-rswgq",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-and-Input-Validation-Issues-in-Recursive-Factorial-Function-rswgq",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-18, 04:50:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 296,
+    "date_started": "2022-09-03",
+    "date_updated": "2025-02-17",
+    "description": "Tests URLs for Local File Inclusion (LFI), Remote File Inclusion (RFI),   SQL injection (SQLi), and Cross Site Scripting (XSS), Server Side Template Injection (SSTI), and Open Redirects.",
+    "forks_count": 19,
+    "html_url": "https://github.com/ronin-rb/ronin-vulns",
+    "keywords": [
+        "local file inclusion",
+        "cross-side-scripting"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-vulns",
+    "repo_owner": "ronin-rb",
+    "repotime": "2025-02-17, 13:24:05",
+    "stargazers_count": 77,
+    "watchers_count": 77
+}
+{
+    "commits_count": 25,
+    "date_started": "2025-02-14",
+    "date_updated": "2025-02-17",
+    "description": "A multi-threaded web vulnerability fuzzer for automated testing of common web application flaws—XSS, SQLi, LFI, and more—featuring URL-based, crawler, and raw HTTP request modes with integrated session and authentication management.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Tharbouch/WebVulnFuzz",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "WebVulnFuzz",
+    "repo_owner": "Tharbouch",
+    "repotime": "2025-02-17, 10:54:51",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-02-16",
+    "description": "This project demonstrates JWT (JSON Web Token) security best practices and common attack vectors, including password hashing, token analysis, brute force, and dictionary attack simulations. It aims to educate users on secure token management, session handling, and potential vulnerabilities in web applications.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Prajwalsrinvas/JWT_security_demo",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "JWT_security_demo",
+    "repo_owner": "Prajwalsrinvas",
+    "repotime": "2025-02-16, 21:31:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-02-16",
+    "description": "Stack overflow error in recursive function due to lack of input validation and a missing base case for negative integers.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Stack-Overflow-in-Recursive-Factorial-Function-b7vs1",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Hack",
+    "repo_name": "Stack-Overflow-in-Recursive-Factorial-Function-b7vs1",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-16, 10:08:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 939,
+    "date_started": "2010-01-30",
+    "date_updated": "2025-02-14",
+    "description": "A Ruby DSL for crafting SQL Injections",
+    "forks_count": 5,
+    "html_url": "https://github.com/ronin-rb/ronin-code-sql",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-code-sql",
+    "repo_owner": "ronin-rb",
+    "repotime": "2025-02-14, 23:52:21",
+    "stargazers_count": 46,
+    "watchers_count": 46
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-14",
+    "date_updated": "2025-02-14",
+    "description": "Express.js server vulnerable to unexpected request body data, missing input validation and error handling.  Improper handling of JSON parsing errors can lead to crashes or unexpected behavior.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Unhandled-JSON-parsing-errors-and-missing-input-validation-in-Express-js-jonrk",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Unhandled-JSON-parsing-errors-and-missing-input-validation-in-Express-js-jonrk",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-14, 11:24:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-02-12",
+    "date_updated": "2025-02-13",
+    "description": "Chained vulnerabilities in ATutor 2.1.1 lead to unauthenticated remote code execution (RCE)",
+    "forks_count": 0,
+    "html_url": "https://github.com/x6vrn/rce_atutor_2.1.1",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "rce_atutor_2.1.1",
+    "repo_owner": "x6vrn",
+    "repotime": "2025-02-13, 16:49:10",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-12-17",
+    "date_updated": "2025-02-12",
+    "description": "POC for DTEX LPE (CVE-2024-55968)",
+    "forks_count": 0,
+    "html_url": "https://github.com/null-event/CVE-2024-55968",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "Objective-C",
+    "repo_name": "CVE-2024-55968",
+    "repo_owner": "null-event",
+    "repotime": "2025-02-12, 15:32:07",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-12-06",
+    "date_updated": "2025-02-13",
+    "description": "A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.",
+    "forks_count": 1,
+    "html_url": "https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-2414-Proof-Of-Concept",
+    "repo_owner": "amitlttwo",
+    "repotime": "2025-02-13, 00:04:29",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-02-12",
+    "date_updated": "2025-02-12",
+    "description": "An unauthenticated attacker can force server points to a shell file like ‘/bin/sh’ and execute arbitrary commands due to the failure in verifying the URL which leads to path traversal to any file that exists in the system. Nostromo’s versions such as 1.9.6 fail to verify this URL ",
+    "forks_count": 0,
+    "html_url": "https://github.com/CybermonkX/CVE-2019-16278_Nostromo-1.9.6---Remote-Code-Execution",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-16278_Nostromo-1.9.6---Remote-Code-Execution",
+    "repo_owner": "CybermonkX",
+    "repotime": "2025-02-12, 14:19:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-08",
+    "date_updated": "2025-02-12",
+    "description": "Proof-of-Concept script for WordPress plugin Bit File Manager version 6.0 - 6.5.5 Unauthenticated Remote Code Execution via Race Condition (CVE-2024-7627) vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/siunam321/CVE-2024-7627-PoC",
+    "keywords": [
+        "remote code execution proof of concept",
+        "unauthenticated remote code execution",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-7627-PoC",
+    "repo_owner": "siunam321",
+    "repotime": "2025-02-12, 13:16:00",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 13,
+    "date_started": "2024-07-23",
+    "date_updated": "2025-02-10",
+    "description": "Advanced SQL Injection Techniques for Bug Bounty Hunters",
+    "forks_count": 77,
+    "html_url": "https://github.com/ifconfig-me/SQL_Injection-Techniques",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL_Injection-Techniques",
+    "repo_owner": "ifconfig-me",
+    "repotime": "2025-02-10, 23:30:03",
+    "stargazers_count": 137,
+    "watchers_count": 137
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-10",
+    "date_updated": "2025-02-10",
+    "description": "MATLAB function returns incorrect results due to an unexpected condition or edge case not handled properly in the function's logic. The if-else statement may be incomplete, leading to incorrect outputs. The unexpected condition can be caused by improper input validation, floating-point arithmetic inaccuracies or logical errors in the condition.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Unexpected-Condition-or-Edge-Case-in-MATLAB-Function-Leading-to-Incorrect-Results-6azy3",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "MATLAB",
+    "repo_name": "Unexpected-Condition-or-Edge-Case-in-MATLAB-Function-Leading-to-Incorrect-Results-6azy3",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-10, 07:36:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-02-09",
+    "date_updated": "2025-02-10",
+    "description": "Automatic Local File Inclusion Enumerator. Scan websites for LFI vulnerabilities and path traversals.",
+    "forks_count": 0,
+    "html_url": "https://github.com/4wayhandshake/Alfie",
+    "keywords": [
+        "path traversal vulnerability",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Alfie",
+    "repo_owner": "4wayhandshake",
+    "repotime": "2025-02-10, 02:34:02",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-12-25",
+    "date_updated": "2025-02-09",
+    "description": "Log Analysis of Telnet session hijacking via MAC address spoofing using cowrie Honeypots",
+    "forks_count": 0,
+    "html_url": "https://github.com/mohith6/logging-hijacks",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "Python",
+    "repo_name": "logging-hijacks",
+    "repo_owner": "mohith6",
+    "repotime": "2025-02-09, 18:28:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 55,
+    "date_started": "2023-12-18",
+    "date_updated": "2025-02-09",
+    "description": "Expert analyses and high-quality write-ups on current one-day and zero-day vulnerabilities, detailing CVEs for the cybersecurity community. Maintained by the Fire-Null security research collective.",
+    "forks_count": 3,
+    "html_url": "https://github.com/Fire-Null/Write-Ups",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Write-Ups",
+    "repo_owner": "Fire-Null",
+    "repotime": "2025-02-09, 11:13:01",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-09",
+    "date_updated": "2025-02-09",
+    "description": "This code snippet demonstrates a common C error where a pointer is used incorrectly. This can lead to unexpected behavior or crashes. The issue lies in the lack of proper error handling or input validation. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Uncommon-C-Code-Error--Pointer-Misuse-1bj3x",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "C",
+    "repo_name": "Uncommon-C-Code-Error--Pointer-Misuse-1bj3x",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-09, 01:54:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-08",
+    "date_updated": "2025-02-08",
+    "description": "Unhandled exception in the calculate function when using an invalid operator or dividing by zero.  The error messages are helpful, but could be more descriptive. Additionally, the function could benefit from input validation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Unhandled-exceptions-and-lack-of-input-validation-in-calculator-function-bdo8q",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Unhandled-exceptions-and-lack-of-input-validation-in-calculator-function-bdo8q",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-08, 05:52:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 79,
+    "date_started": "2023-04-10",
+    "date_updated": "2025-02-06",
+    "description": "Analysis of vulnerabilities from security audit | CVEs",
+    "forks_count": 0,
+    "html_url": "https://github.com/dipa96/daysbeyond-archive",
+    "keywords": [
+        "zero-day exploit",
+        "0day analysis",
+        "zero-day exploitation",
+        "zero-day vulnerability",
+        "zero-day analysis",
+        "0day poc",
+        "0day vulnerability",
+        "zero-day poc"
+    ],
+    "language": "Java",
+    "repo_name": "daysbeyond-archive",
+    "repo_owner": "dipa96",
+    "repotime": "2025-02-06, 12:00:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-02-06",
+    "description": "The project focuses on implementing authentication and authorization features, allowing users to create posts and view posts from other users. Only authenticated users can see the authors of the posts, while unauthenticated users can only view the content without knowing who wrote it.",
+    "forks_count": 0,
+    "html_url": "https://github.com/devashishchakraborty/members-only",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "EJS",
+    "repo_name": "members-only",
+    "repo_owner": "devashishchakraborty",
+    "repotime": "2025-02-06, 03:59:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-02-05",
+    "description": "Unauthenticated Remote Code Execution (RCE) - Poultry Farm Management System v1.0 ",
+    "forks_count": 0,
+    "html_url": "https://github.com/hacksudo/Unauthenticated-Remote-Code-Execution-RCE-Poultry-Farm-Management-System-v1.0",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Unauthenticated-Remote-Code-Execution-RCE-Poultry-Farm-Management-System-v1.0",
+    "repo_owner": "hacksudo",
+    "repotime": "2025-02-05, 21:22:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-01-20",
+    "date_updated": "2025-02-05",
+    "description": "PID Scanner allows you to scan process IDs (PIDs) on a vulnerable server to detect specific ports using a directory traversal vulnerability.",
+    "forks_count": 0,
+    "html_url": "https://github.com/The-Real-Virus/Pid-Scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Pid-Scanner",
+    "repo_owner": "The-Real-Virus",
+    "repotime": "2025-02-05, 15:14:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-05",
+    "date_updated": "2025-02-05",
+    "description": "COBOL buffer overflow leading to data corruption or program crashes due to insufficient data area allocation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/COBOL-Buffer-Overflow-Vulnerability-k2og7",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "COBOL",
+    "repo_name": "COBOL-Buffer-Overflow-Vulnerability-k2og7",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-05, 07:28:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 54,
+    "date_started": "2022-08-28",
+    "date_updated": "2025-02-05",
+    "description": "<no description>",
+    "forks_count": 37,
+    "html_url": "https://github.com/shreyaschavhan/advanced-sql-injection-for-awae",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "advanced-sql-injection-for-awae",
+    "repo_owner": "shreyaschavhan",
+    "repotime": "2025-02-05, 10:53:10",
+    "stargazers_count": 203,
+    "watchers_count": 203
+}
+{
+    "commits_count": 244,
+    "date_started": "2021-08-24",
+    "date_updated": "2025-02-04",
+    "description": "Protect untrusted requests from SSRF",
+    "forks_count": 3,
+    "html_url": "https://github.com/hanover-computing/got-ssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "TypeScript",
+    "repo_name": "got-ssrf",
+    "repo_owner": "hanover-computing",
+    "repotime": "2025-02-04, 21:24:57",
+    "stargazers_count": 50,
+    "watchers_count": 50
+}
+{
+    "commits_count": 56,
+    "date_started": "2025-01-30",
+    "date_updated": "2025-02-04",
+    "description": "Comprehensive Security Controls: This repository outlines robust best practices including cryptographic key rotation, CSRF protection, input validation, and session hardening. It addresses common vulnerabilities like XSS, brute-force attacks, and weak encryption.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dillon-Duncan/APDS_Banking",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "APDS_Banking",
+    "repo_owner": "Dillon-Duncan",
+    "repotime": "2025-02-04, 14:35:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-04",
+    "date_updated": "2025-02-04",
+    "description": "Express.js route parameter vulnerability:  Improper handling of route parameters can lead to unexpected behavior or security issues if not validated. In this case, if the database query fails to find a user matching the provided ID, it might still cause an error or unexpected result.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Express-js-Route-Parameter-Vulnerability--Missing-Input-Validation-94e8e",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Express-js-Route-Parameter-Vulnerability--Missing-Input-Validation-94e8e",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-04, 08:44:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-03",
+    "date_updated": "2025-02-03",
+    "description": "This code demonstrates a simple subtraction function. However, it can lead to unexpected behavior if the inputs are not numbers.  It lacks input validation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/Unexpected-Behavior-in-Subtraction-Function-Due-to-Lack-of-Input-Validation-b58rd",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Unexpected-Behavior-in-Subtraction-Function-Due-to-Lack-of-Input-Validation-b58rd",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-03, 22:40:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-09-06",
+    "date_updated": "2025-02-03",
+    "description": "A piece of JavaScript code that can be appended to the content script of any Chrome extension and that allows any website to do anything the content script can. Useful to simulate a renderer attacker (i.e., a web attacker who has escalated his privileges through a vulnerability in the browser's rendering engine).",
+    "forks_count": 0,
+    "html_url": "https://github.com/k-gruenberg/renderer_attacker_sim",
+    "keywords": [
+        "Chrome escalation of privileges"
+    ],
+    "language": "JavaScript",
+    "repo_name": "renderer_attacker_sim",
+    "repo_owner": "k-gruenberg",
+    "repotime": "2025-02-03, 18:04:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-03",
+    "date_updated": "2025-02-03",
+    "description": "PHP include/require with dynamic file paths without proper sanitization can lead to unexpected behavior and security vulnerabilities like directory traversal attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/PHP-include-require-vulnerability--Directory-Traversal-4ebuj",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "PHP",
+    "repo_name": "PHP-include-require-vulnerability--Directory-Traversal-4ebuj",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-03, 12:38:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-02-03",
+    "description": "Made this for the Hackers Club's (at University of Peradeniya Department of Computer Engineering) ML session and will help begineers to get into ML era.",
+    "forks_count": 0,
+    "html_url": "https://github.com/EshanJayasundara/AirQualityPrediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "AirQualityPrediction",
+    "repo_owner": "EshanJayasundara",
+    "repotime": "2025-02-03, 16:26:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 388,
+    "date_started": "2018-08-11",
+    "date_updated": "2025-02-03",
+    "description": "Script for orchestrating mana rogue WiFi Access Points.",
+    "forks_count": 35,
+    "html_url": "https://github.com/sensepost/berate_ap",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Shell",
+    "repo_name": "berate_ap",
+    "repo_owner": "sensepost",
+    "repotime": "2025-02-03, 11:46:09",
+    "stargazers_count": 242,
+    "watchers_count": 242
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-02-02",
+    "description": "This repository contains a Proof-of-Concept for the CVE-2021-41773. This CVE contains a LFI and RCE vulnerablity.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tiemio/SSH-key-and-RCE-PoC-for-CVE-2021-41773",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Go",
+    "repo_name": "SSH-key-and-RCE-PoC-for-CVE-2021-41773",
+    "repo_owner": "tiemio",
+    "repotime": "2025-02-02, 23:19:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-02-02",
+    "description": "User Profile Builder &amp;lt;= 3.11.7 - Unauthenticated Media Upload",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nxploited/CVE-2024-6366-PoC",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-6366-PoC",
+    "repo_owner": "Nxploited",
+    "repotime": "2025-02-02, 18:43:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-01",
+    "date_updated": "2025-02-01",
+    "description": "Forgetting to remove event listeners in useEffect cleanup function can lead to memory leaks and unexpected behavior.  This example shows how to correctly add and remove a window resize listener.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bug-Hunter-X/React-useEffect-Cleanup--Forgetting-to-Remove-Event-Listeners-n0g9z",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "React-useEffect-Cleanup--Forgetting-to-Remove-Event-Listeners-n0g9z",
+    "repo_owner": "Bug-Hunter-X",
+    "repotime": "2025-02-01, 17:04:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

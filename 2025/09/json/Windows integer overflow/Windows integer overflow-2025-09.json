@@ -1,0 +1,384 @@
+{
+    "commits_count": 340,
+    "date_started": "2019-08-21",
+    "date_updated": "2025-09-17",
+    "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
+    "forks_count": 294,
+    "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+    "keywords": [
+        "xml external entity",
+        "session attack",
+        "zero-day dos",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "session vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Nginx-Lua-Anti-DDoS",
+    "repo_owner": "C0nw0nk",
+    "repotime": "2025-09-17, 06:26:34",
+    "stargazers_count": 1360,
+    "watchers_count": 1360
+}
+{
+    "commits_count": 2205,
+    "date_started": "2019-09-10",
+    "date_updated": "2025-09-17",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 295,
+    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "TongchengOpenSource",
+    "repotime": "2025-09-17, 11:55:29",
+    "stargazers_count": 1571,
+    "watchers_count": 1571
+}
+{
+    "commits_count": 1309,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-09-17",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 122,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-09-17, 01:07:22",
+    "stargazers_count": 704,
+    "watchers_count": 704
+}
+{
+    "commits_count": 105,
+    "date_started": "2025-08-15",
+    "date_updated": "2025-09-16",
+    "description": "My code and notes for &amp;quot;From Day Zero to Zero Day&amp;quot;, a book on vulnerability research by Eugene Lim.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xdea/from-day-zero-to-zero-day",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "from-day-zero-to-zero-day",
+    "repo_owner": "0xdea",
+    "repotime": "2025-09-16, 15:34:47",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2764,
+    "date_started": "2009-12-19",
+    "date_updated": "2025-09-16",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2255,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2025-09-16, 12:19:11",
+    "stargazers_count": 11244,
+    "watchers_count": 11244
+}
+{
+    "commits_count": 34,
+    "date_started": "2025-08-07",
+    "date_updated": "2025-09-15",
+    "description": "Webpage for Bueler's course in introductory real analysis (MATH 401) at UAF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bueler/real",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "real",
+    "repo_owner": "bueler",
+    "repotime": "2025-09-15, 22:53:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10456,
+    "date_started": "2012-06-26",
+    "date_updated": "2025-09-15",
+    "description": "Automatic SQL injection and database takeover tool",
+    "forks_count": 6041,
+    "html_url": "https://github.com/sqlmapproject/sqlmap",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmap",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2025-09-15, 00:03:04",
+    "stargazers_count": 35303,
+    "watchers_count": 35303
+}
+{
+    "commits_count": 141,
+    "date_started": "2019-04-19",
+    "date_updated": "2025-09-14",
+    "description": "Top disclosed reports from HackerOne",
+    "forks_count": 869,
+    "html_url": "https://github.com/reddelexc/hackerone-reports",
+    "keywords": [
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "hackerone-reports",
+    "repo_owner": "reddelexc",
+    "repotime": "2025-09-14, 21:12:20",
+    "stargazers_count": 4842,
+    "watchers_count": 4842
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-06-30",
+    "date_updated": "2025-09-14",
+    "description": "This is a simple and benign Go script that red teamers can drop and attempt execution to test RCE on Windows/Linux machines",
+    "forks_count": 0,
+    "html_url": "https://github.com/maverick-doan/rce-checker",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Go",
+    "repo_name": "rce-checker",
+    "repo_owner": "maverick-doan",
+    "repotime": "2025-09-14, 13:19:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 295,
+    "date_started": "2020-12-17",
+    "date_updated": "2025-09-12",
+    "description": "🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration.",
+    "forks_count": 2,
+    "html_url": "https://github.com/TomerAberbach/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "TypeScript",
+    "repo_name": "lfi",
+    "repo_owner": "TomerAberbach",
+    "repotime": "2025-09-12, 18:48:38",
+    "stargazers_count": 347,
+    "watchers_count": 347
+}
+{
+    "commits_count": 186,
+    "date_started": "2021-05-26",
+    "date_updated": "2025-09-12",
+    "description": "Create, edit and write a2l files with this rust crate",
+    "forks_count": 15,
+    "html_url": "https://github.com/DanielT/a2lfile",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Rust",
+    "repo_name": "a2lfile",
+    "repo_owner": "DanielT",
+    "repotime": "2025-09-12, 21:16:21",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 2037,
+    "date_started": "2020-04-12",
+    "date_updated": "2025-09-10",
+    "description": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
+    "forks_count": 490,
+    "html_url": "https://github.com/hahwul/dalfox",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Go",
+    "repo_name": "dalfox",
+    "repo_owner": "hahwul",
+    "repotime": "2025-09-10, 16:42:57",
+    "stargazers_count": 4533,
+    "watchers_count": 4533
+}
+{
+    "commits_count": 24,
+    "date_started": "2025-05-24",
+    "date_updated": "2025-09-10",
+    "description": "WebKit Heap Use-After-Free Proof-of-Concept (PoC) https://dark-life944.github.io/poc/",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dark-life944/poc",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "poc",
+    "repo_owner": "Dark-life944",
+    "repotime": "2025-09-10, 02:09:00",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-09-09",
+    "date_updated": "2025-09-09",
+    "description": "A lightweight chaos engineering demo with Docker Compose: Nginx → Flask → Redis stack with automated fault injection, recovery measurement, and CSV reporting + web visualization.",
+    "forks_count": 0,
+    "html_url": "https://github.com/shri-124/docker-chaos-lite",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "docker-chaos-lite",
+    "repo_owner": "shri-124",
+    "repotime": "2025-09-09, 19:55:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 38,
+    "date_started": "2024-10-27",
+    "date_updated": "2025-09-09",
+    "description": "Web Browsers address bar spoofing vulnerabilities",
+    "forks_count": 1,
+    "html_url": "https://github.com/RenwaX23/Address_Bar_Spoofing",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "Address_Bar_Spoofing",
+    "repo_owner": "RenwaX23",
+    "repotime": "2025-09-09, 00:31:22",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 20,
+    "date_started": "2025-07-15",
+    "date_updated": "2025-09-08",
+    "description": " A collection of ethical hacking CTF walkthroughs covering privilege escalation, web exploitation, and enumeration techniques. For learning, documentation, and community contribution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Basit2002/CTF-Writeups",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CTF-Writeups",
+    "repo_owner": "Basit2002",
+    "repotime": "2025-09-08, 20:34:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-09-08",
+    "date_updated": "2025-09-08",
+    "description": "Proof of Concept showing how browser autofill can leak hidden personal data (address, phone, etc.) even when only Name and Email fields are visible.",
+    "forks_count": 0,
+    "html_url": "https://github.com/appuachu/browser-autofill-leak-poc",
+    "keywords": [
+        "address leak poc"
+    ],
+    "language": "HTML",
+    "repo_name": "browser-autofill-leak-poc",
+    "repo_owner": "appuachu",
+    "repotime": "2025-09-08, 11:32:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1802,
+    "date_started": "2019-07-24",
+    "date_updated": "2025-09-04",
+    "description": "渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
+    "forks_count": 2017,
+    "html_url": "https://github.com/Mr-xn/Penetration_Testing_POC",
+    "keywords": [
+        "rce poc",
+        "rce exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "Penetration_Testing_POC",
+    "repo_owner": "Mr-xn",
+    "repotime": "2025-09-04, 22:16:07",
+    "stargazers_count": 7069,
+    "watchers_count": 7069
+}
+{
+    "commits_count": 120,
+    "date_started": "2018-10-15",
+    "date_updated": "2025-09-04",
+    "description": "Automatic SSRF fuzzer and exploitation tool",
+    "forks_count": 553,
+    "html_url": "https://github.com/swisskyrepo/SSRFmap",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRFmap",
+    "repo_owner": "swisskyrepo",
+    "repotime": "2025-09-04, 03:44:11",
+    "stargazers_count": 3333,
+    "watchers_count": 3333
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-08-30",
+    "date_updated": "2025-09-03",
+    "description": "A research-focused archive of publicly disclosed Apple products zero-day vulnerabilities. This project summarizes CVEs, disclosure timelines, vendor advisories, and defensive mitigations. ⚠️ No exploit code included — educational and defensive use only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/giriaryan694-a11y/exposed-apple-zero-days",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "exposed-apple-zero-days",
+    "repo_owner": "giriaryan694-a11y",
+    "repotime": "2025-09-03, 21:13:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-08-28",
+    "date_updated": "2025-09-03",
+    "description": "A research-focused archive of publicly disclosed Windows zero-day vulnerabilities.  This project summarizes CVEs, disclosure timelines, vendor advisories, and defensive mitigations.  ⚠️ No exploit code included — educational and defensive use only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/giriaryan694-a11y/exposed-win-zero-days",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": "HTML",
+    "repo_name": "exposed-win-zero-days",
+    "repo_owner": "giriaryan694-a11y",
+    "repotime": "2025-09-03, 20:48:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-09-01",
+    "date_updated": "2025-09-01",
+    "description": "Windows Flask Remote Command Execution Demo",
+    "forks_count": 1,
+    "html_url": "https://github.com/ClumsyLulz/Flask_RCE_Demo",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "Flask_RCE_Demo",
+    "repo_owner": "ClumsyLulz",
+    "repotime": "2025-09-01, 15:23:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

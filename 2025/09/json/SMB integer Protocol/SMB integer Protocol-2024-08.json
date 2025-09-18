@@ -1,0 +1,51 @@
+{
+    "commits_count": 9,
+    "date_started": "2024-08-24",
+    "date_updated": "2024-08-27",
+    "description": "poc for CVE-2024-38063 (RCE in tcpip.sys)",
+    "forks_count": 123,
+    "html_url": "https://github.com/ynwarcs/CVE-2024-38063",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-38063",
+    "repo_owner": "ynwarcs",
+    "repotime": "2024-08-27, 14:22:39",
+    "stargazers_count": 677,
+    "watchers_count": 677
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-11-22",
+    "date_updated": "2024-08-19",
+    "description": "Reproducable memory leak",
+    "forks_count": 0,
+    "html_url": "https://github.com/MLB-BIOMETRIC/Microsoft.iOS.AVSemanticSegmentationMatte-memoryleak",
+    "keywords": [
+        "Microsoft memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "Microsoft.iOS.AVSemanticSegmentationMatte-memoryleak",
+    "repo_owner": "MLB-BIOMETRIC",
+    "repotime": "2024-08-19, 13:26:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 32,
+    "date_started": "2023-03-08",
+    "date_updated": "2024-08-09",
+    "description": "Evaluation Guide for the IAR C-RUN - Runtime Analysis Tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/iarsystems/crun-evaluation-guide",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C",
+    "repo_name": "crun-evaluation-guide",
+    "repo_owner": "iarsystems",
+    "repotime": "2024-08-09, 09:18:18",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

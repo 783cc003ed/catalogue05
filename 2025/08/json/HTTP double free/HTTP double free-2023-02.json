@@ -1,0 +1,1368 @@
+{
+    "commits_count": 8,
+    "date_started": "2018-10-10",
+    "date_updated": "2023-02-18",
+    "description": "XXRF Shots - Useful for testing SSRF vulnerability",
+    "forks_count": 29,
+    "html_url": "https://github.com/samhaxr/XXRF-Shots",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "JavaScript",
+    "repo_name": "XXRF-Shots",
+    "repo_owner": "samhaxr",
+    "repotime": "2023-02-18, 00:49:06",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-17",
+    "date_updated": "2023-02-18",
+    "description": "FrameMaker 2020 Update 4 (and earlier), 2022 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21584",
+    "keywords": [
+        "use after free disclosure",
+        "aslr bypass disclosure",
+        "aslr bypass vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21584",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-18, 00:23:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-16",
+    "description": "Use After Free (UAF) vulnerability in ireader media-server before commit 3e0f63f1d3553f75c7d4eb32fa7c7a1976a9ff84 in librtmp, allows attackers to cause a denial of service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-40016",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-40016",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-16, 00:25:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-15",
+    "description": "The ipxitf_ioctl function in net/ipx/af_ipx.c in the Linux kernel through 4.11.1 mishandles reference counts, which allows local users to cause a denial of service (use-after-free) or possibly have unspecified other impact via a failed SIOCGIFADDR ioctl call for an IPX interface. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-7487",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-7487",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-15, 01:05:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-15",
+    "description": "Use-after-free vulnerability in fs/crypto/ in the Linux kernel before 4.10.7 allows local users to cause a denial of service (NULL pointer dereference) or possibly gain privileges by revoking keyring keys being used for ext4, f2fs, or ubifs encryption, causing cryptographic transform objects to be freed prematurely. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-7374",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-7374",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-15, 01:05:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 235,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-14",
+    "description": "Documentation of strategies and methods for the OSCP exam ranging from target enumeration, vulnerability assessment, exploits, to privilege escalation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/airadulescu/Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "repo_owner": "airadulescu",
+    "repotime": "2023-02-14, 02:02:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-13",
+    "date_updated": "2023-02-13",
+    "description": "Use-after free vulnerability exists in Screen Creator Advance 2 Ver.0.1.1.4 Build01 and earlier due to lack of error handling process even when an error was detected. Having a user of Screen Creator Advance 2 to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-22360",
+    "keywords": [
+        "use after free disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-22360",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-13, 14:42:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 714,
+    "date_started": "2018-04-08",
+    "date_updated": "2023-02-13",
+    "description": "UAC bypass, Elevate, Persistence methods",
+    "forks_count": 388,
+    "html_url": "https://github.com/rootm0s/WinPwnage",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "WinPwnage",
+    "repo_owner": "rootm0s",
+    "repotime": "2023-02-13, 10:43:12",
+    "stargazers_count": 2694,
+    "watchers_count": 2694
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-11",
+    "date_updated": "2023-02-11",
+    "description": "Use-after-free vulnerability in the CWindow object implementation in Microsoft Internet Explorer 11 allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted web site, aka &amp;quot;Internet Explorer Memory Corruption Vulnerability.&amp;quot; CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2015-6042",
+    "keywords": [
+        "Microsoft use after free",
+        "use after free vulnerability",
+        "Microsoft use after free vulnerability",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2015-6042",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-11, 18:35:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-09",
+    "date_updated": "2023-02-09",
+    "description": "A use after free vulnerability exists in curl &amp;lt;7.87.0. Curl can be asked to *tunnel* virtually all protocols it supports through an HTTP proxy. HTTP proxies can (and often do) deny such tunnel operations. When getting denied to tunnel the specific protocols SMB or TELNET, curl would use a heap-allocated struct after it CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-43552",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-43552",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-09, 22:52:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-01-27",
+    "date_updated": "2023-02-04",
+    "description": "LPE PoC of a user-after-free vulnerability in the Linux netfilter subsystem.",
+    "forks_count": 1,
+    "html_url": "https://github.com/ysanatomic/CVE-2022-32250-LPE",
+    "keywords": [
+        "lpe poc",
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-32250-LPE",
+    "repo_owner": "ysanatomic",
+    "repotime": "2023-02-04, 18:27:19",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-02-04",
+    "date_updated": "2023-02-04",
+    "description": "Online Railway Reservation System 1.0 - Remote Code Execution (RCE) based on Include any php file (Unauthenticated)",
+    "forks_count": 0,
+    "html_url": "https://github.com/hmt38/Online-Railway-Reservation-rce-Vulnerability",
+    "keywords": [
+        "unauthenticated rce",
+        "unauthenticated remote code execution",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Online-Railway-Reservation-rce-Vulnerability",
+    "repo_owner": "hmt38",
+    "repotime": "2023-02-04, 16:24:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-04",
+    "date_updated": "2023-02-04",
+    "description": "Use-after-free in Bluetooth in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to execute arbitrary code via a crafted HTML page. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-13725",
+    "keywords": [
+        "Chrome use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-13725",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-04, 02:29:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3995",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3995",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious f CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3946",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3946",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3945",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3945",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3943",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3943",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3942",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3942",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3941",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3941",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3939",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3939",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "A use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A use-after-free condition can occur when accessing the CreationDate property of the this.info object. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3962",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3962",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 17:09:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3965",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3965",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 07:22:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3967",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3967",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 07:22:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3966",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3966",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 07:22:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-01",
+    "date_updated": "2023-02-01",
+    "description": "Use after free in media picker in Google Chrome prior to 79.0.3945.88 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-13767",
+    "keywords": [
+        "Chrome use after free",
+        "use after free exploit",
+        "Chrome use after free exploit",
+        "Chrome use after free exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-13767",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-01, 19:03:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-01",
+    "date_updated": "2023-02-01",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3964",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3964",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-01, 19:03:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-10-10",
+    "date_updated": "2023-02-18",
+    "description": "XXRF Shots - Useful for testing SSRF vulnerability",
+    "forks_count": 29,
+    "html_url": "https://github.com/samhaxr/XXRF-Shots",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "JavaScript",
+    "repo_name": "XXRF-Shots",
+    "repo_owner": "samhaxr",
+    "repotime": "2023-02-18, 00:49:06",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-17",
+    "date_updated": "2023-02-18",
+    "description": "FrameMaker 2020 Update 4 (and earlier), 2022 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21584",
+    "keywords": [
+        "use after free disclosure",
+        "aslr bypass disclosure",
+        "aslr bypass vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21584",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-18, 00:23:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-16",
+    "description": "Use After Free (UAF) vulnerability in ireader media-server before commit 3e0f63f1d3553f75c7d4eb32fa7c7a1976a9ff84 in librtmp, allows attackers to cause a denial of service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-40016",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-40016",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-16, 00:25:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-15",
+    "description": "The ipxitf_ioctl function in net/ipx/af_ipx.c in the Linux kernel through 4.11.1 mishandles reference counts, which allows local users to cause a denial of service (use-after-free) or possibly have unspecified other impact via a failed SIOCGIFADDR ioctl call for an IPX interface. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-7487",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-7487",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-15, 01:05:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-15",
+    "description": "Use-after-free vulnerability in fs/crypto/ in the Linux kernel before 4.10.7 allows local users to cause a denial of service (NULL pointer dereference) or possibly gain privileges by revoking keyring keys being used for ext4, f2fs, or ubifs encryption, causing cryptographic transform objects to be freed prematurely. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-7374",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-7374",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-15, 01:05:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 235,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-14",
+    "description": "Documentation of strategies and methods for the OSCP exam ranging from target enumeration, vulnerability assessment, exploits, to privilege escalation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/airadulescu/Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "repo_owner": "airadulescu",
+    "repotime": "2023-02-14, 02:02:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-13",
+    "date_updated": "2023-02-13",
+    "description": "Use-after free vulnerability exists in Screen Creator Advance 2 Ver.0.1.1.4 Build01 and earlier due to lack of error handling process even when an error was detected. Having a user of Screen Creator Advance 2 to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-22360",
+    "keywords": [
+        "use after free disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-22360",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-13, 14:42:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 714,
+    "date_started": "2018-04-08",
+    "date_updated": "2023-02-13",
+    "description": "UAC bypass, Elevate, Persistence methods",
+    "forks_count": 388,
+    "html_url": "https://github.com/rootm0s/WinPwnage",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "WinPwnage",
+    "repo_owner": "rootm0s",
+    "repotime": "2023-02-13, 10:43:12",
+    "stargazers_count": 2694,
+    "watchers_count": 2694
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-11",
+    "date_updated": "2023-02-11",
+    "description": "Use-after-free vulnerability in the CWindow object implementation in Microsoft Internet Explorer 11 allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted web site, aka &amp;quot;Internet Explorer Memory Corruption Vulnerability.&amp;quot; CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2015-6042",
+    "keywords": [
+        "Microsoft use after free",
+        "use after free vulnerability",
+        "Microsoft use after free vulnerability",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2015-6042",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-11, 18:35:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-09",
+    "date_updated": "2023-02-09",
+    "description": "A use after free vulnerability exists in curl &amp;lt;7.87.0. Curl can be asked to *tunnel* virtually all protocols it supports through an HTTP proxy. HTTP proxies can (and often do) deny such tunnel operations. When getting denied to tunnel the specific protocols SMB or TELNET, curl would use a heap-allocated struct after it CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-43552",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-43552",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-09, 22:52:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-01-27",
+    "date_updated": "2023-02-04",
+    "description": "LPE PoC of a user-after-free vulnerability in the Linux netfilter subsystem.",
+    "forks_count": 1,
+    "html_url": "https://github.com/ysanatomic/CVE-2022-32250-LPE",
+    "keywords": [
+        "lpe poc",
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-32250-LPE",
+    "repo_owner": "ysanatomic",
+    "repotime": "2023-02-04, 18:27:19",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-02-04",
+    "date_updated": "2023-02-04",
+    "description": "Online Railway Reservation System 1.0 - Remote Code Execution (RCE) based on Include any php file (Unauthenticated)",
+    "forks_count": 0,
+    "html_url": "https://github.com/hmt38/Online-Railway-Reservation-rce-Vulnerability",
+    "keywords": [
+        "unauthenticated rce",
+        "unauthenticated remote code execution",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Online-Railway-Reservation-rce-Vulnerability",
+    "repo_owner": "hmt38",
+    "repotime": "2023-02-04, 16:24:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-04",
+    "date_updated": "2023-02-04",
+    "description": "Use-after-free in Bluetooth in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to execute arbitrary code via a crafted HTML page. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-13725",
+    "keywords": [
+        "Chrome use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-13725",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-04, 02:29:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3995",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3995",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious f CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3946",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3946",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3945",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3945",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3943",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3943",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3942",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3942",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3941",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3941",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3939",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3939",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "A use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A use-after-free condition can occur when accessing the CreationDate property of the this.info object. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3962",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3962",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 17:09:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3965",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3965",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 07:22:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3967",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3967",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 07:22:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3966",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3966",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 07:22:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-01",
+    "date_updated": "2023-02-01",
+    "description": "Use after free in media picker in Google Chrome prior to 79.0.3945.88 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-13767",
+    "keywords": [
+        "Chrome use after free",
+        "use after free exploit",
+        "Chrome use after free exploit",
+        "Chrome use after free exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-13767",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-01, 19:03:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-01",
+    "date_updated": "2023-02-01",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3964",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3964",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-01, 19:03:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-10-10",
+    "date_updated": "2023-02-18",
+    "description": "XXRF Shots - Useful for testing SSRF vulnerability",
+    "forks_count": 29,
+    "html_url": "https://github.com/samhaxr/XXRF-Shots",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "JavaScript",
+    "repo_name": "XXRF-Shots",
+    "repo_owner": "samhaxr",
+    "repotime": "2023-02-18, 00:49:06",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-17",
+    "date_updated": "2023-02-18",
+    "description": "FrameMaker 2020 Update 4 (and earlier), 2022 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-21584",
+    "keywords": [
+        "use after free disclosure",
+        "aslr bypass disclosure",
+        "aslr bypass vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21584",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-18, 00:23:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-16",
+    "description": "Use After Free (UAF) vulnerability in ireader media-server before commit 3e0f63f1d3553f75c7d4eb32fa7c7a1976a9ff84 in librtmp, allows attackers to cause a denial of service. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-40016",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-40016",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-16, 00:25:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-15",
+    "description": "The ipxitf_ioctl function in net/ipx/af_ipx.c in the Linux kernel through 4.11.1 mishandles reference counts, which allows local users to cause a denial of service (use-after-free) or possibly have unspecified other impact via a failed SIOCGIFADDR ioctl call for an IPX interface. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-7487",
+    "keywords": [
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-7487",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-15, 01:05:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-15",
+    "description": "Use-after-free vulnerability in fs/crypto/ in the Linux kernel before 4.10.7 allows local users to cause a denial of service (NULL pointer dereference) or possibly gain privileges by revoking keyring keys being used for ext4, f2fs, or ubifs encryption, causing cryptographic transform objects to be freed prematurely. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2017-7374",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2017-7374",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-15, 01:05:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 235,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-14",
+    "description": "Documentation of strategies and methods for the OSCP exam ranging from target enumeration, vulnerability assessment, exploits, to privilege escalation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/airadulescu/Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "repo_owner": "airadulescu",
+    "repotime": "2023-02-14, 02:02:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-13",
+    "date_updated": "2023-02-13",
+    "description": "Use-after free vulnerability exists in Screen Creator Advance 2 Ver.0.1.1.4 Build01 and earlier due to lack of error handling process even when an error was detected. Having a user of Screen Creator Advance 2 to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-22360",
+    "keywords": [
+        "use after free disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-22360",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-13, 14:42:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 714,
+    "date_started": "2018-04-08",
+    "date_updated": "2023-02-13",
+    "description": "UAC bypass, Elevate, Persistence methods",
+    "forks_count": 388,
+    "html_url": "https://github.com/rootm0s/WinPwnage",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "WinPwnage",
+    "repo_owner": "rootm0s",
+    "repotime": "2023-02-13, 10:43:12",
+    "stargazers_count": 2701,
+    "watchers_count": 2701
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-11",
+    "date_updated": "2023-02-11",
+    "description": "Use-after-free vulnerability in the CWindow object implementation in Microsoft Internet Explorer 11 allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted web site, aka &amp;quot;Internet Explorer Memory Corruption Vulnerability.&amp;quot; CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2015-6042",
+    "keywords": [
+        "Microsoft use after free",
+        "use after free vulnerability",
+        "Microsoft use after free vulnerability",
+        "use after free denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2015-6042",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-11, 18:35:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-09",
+    "date_updated": "2023-02-09",
+    "description": "A use after free vulnerability exists in curl &amp;lt;7.87.0. Curl can be asked to *tunnel* virtually all protocols it supports through an HTTP proxy. HTTP proxies can (and often do) deny such tunnel operations. When getting denied to tunnel the specific protocols SMB or TELNET, curl would use a heap-allocated struct after it CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-43552",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-43552",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-09, 22:52:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-01-27",
+    "date_updated": "2023-02-04",
+    "description": "LPE PoC of a user-after-free vulnerability in the Linux netfilter subsystem.",
+    "forks_count": 1,
+    "html_url": "https://github.com/ysanatomic/CVE-2022-32250-LPE",
+    "keywords": [
+        "lpe poc",
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-32250-LPE",
+    "repo_owner": "ysanatomic",
+    "repotime": "2023-02-04, 18:27:19",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-02-04",
+    "date_updated": "2023-02-04",
+    "description": "Online Railway Reservation System 1.0 - Remote Code Execution (RCE) based on Include any php file (Unauthenticated)",
+    "forks_count": 0,
+    "html_url": "https://github.com/hmt38/Online-Railway-Reservation-rce-Vulnerability",
+    "keywords": [
+        "unauthenticated rce",
+        "unauthenticated remote code execution",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Online-Railway-Reservation-rce-Vulnerability",
+    "repo_owner": "hmt38",
+    "repotime": "2023-02-04, 16:24:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-04",
+    "date_updated": "2023-02-04",
+    "description": "Use-after-free in Bluetooth in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to execute arbitrary code via a crafted HTML page. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-13725",
+    "keywords": [
+        "Chrome use after free"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-13725",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-04, 02:29:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3995",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3995",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious f CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3946",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3946",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3945",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3945",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3943",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3943",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3942",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3942",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3941",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3941",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-03",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3939",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3939",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-03, 00:55:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "A use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A use-after-free condition can occur when accessing the CreationDate property of the this.info object. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3962",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3962",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 17:09:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3965",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3965",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 07:22:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3967",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3967",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 07:22:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-02",
+    "date_updated": "2023-02-02",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3966",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3966",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-02, 07:22:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-01",
+    "date_updated": "2023-02-01",
+    "description": "Use after free in media picker in Google Chrome prior to 79.0.3945.88 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2019-13767",
+    "keywords": [
+        "Chrome use after free",
+        "use after free exploit",
+        "Chrome use after free exploit",
+        "Chrome use after free exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-13767",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-01, 19:03:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-01",
+    "date_updated": "2023-02-01",
+    "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2018-3964",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-3964",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-01, 19:03:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

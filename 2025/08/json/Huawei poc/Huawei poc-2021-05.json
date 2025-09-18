@@ -1,0 +1,477 @@
+{
+    "commits_count": 25,
+    "date_started": "2021-05-22",
+    "date_updated": "2021-05-27",
+    "description": "x64 Windows PatchGuard bypass, register process-creation callbacks from unsigned code",
+    "forks_count": 35,
+    "html_url": "https://github.com/kkent030315/NoPatchGuardCallback",
+    "keywords": [
+        "patchguard bypass",
+        "kpp bypass"
+    ],
+    "language": "C",
+    "repo_name": "NoPatchGuardCallback",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-05-27, 09:15:54",
+    "stargazers_count": 205,
+    "watchers_count": 205
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-05-21",
+    "description": "Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.",
+    "forks_count": 139,
+    "html_url": "https://github.com/0vercl0k/CVE-2021-31166",
+    "keywords": [
+        "use after free proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31166",
+    "repo_owner": "0vercl0k",
+    "repotime": "2021-05-21, 16:58:22",
+    "stargazers_count": 829,
+    "watchers_count": 829
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-05-17",
+    "date_updated": "2021-05-17",
+    "description": "PoC for LADSS (0day)",
+    "forks_count": 1,
+    "html_url": "https://github.com/rogue-kdc/LADSS",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Java",
+    "repo_name": "LADSS",
+    "repo_owner": "rogue-kdc",
+    "repotime": "2021-05-17, 23:52:36",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-05-17",
+    "date_updated": "2021-05-17",
+    "description": "PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash.",
+    "forks_count": 1,
+    "html_url": "https://github.com/zha0gongz1/CVE-2021-31166",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31166",
+    "repo_owner": "zha0gongz1",
+    "repotime": "2021-05-17, 19:30:26",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-05-16",
+    "description": "RCE for Pega Infinity &amp;gt;= 8.2.1, Pega Infinity &amp;lt;= 8.5.2",
+    "forks_count": 16,
+    "html_url": "https://github.com/samwcyo/CVE-2021-27651-PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-27651-PoC",
+    "repo_owner": "samwcyo",
+    "repotime": "2021-05-16, 00:54:07",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-05-09",
+    "date_updated": "2021-05-09",
+    "description": "Cobalt Strike 利用 Chrome-0day 上线",
+    "forks_count": 3,
+    "html_url": "https://github.com/AeolusTF/chrome-0day",
+    "keywords": [
+        "Chrome 0day"
+    ],
+    "language": "HTML",
+    "repo_name": "chrome-0day",
+    "repo_owner": "AeolusTF",
+    "repotime": "2021-05-09, 11:14:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-27",
+    "date_updated": "2021-05-07",
+    "description": "CMSUno 1.6.1 &amp;lt;= 1.6.2 - Remote Code Execution (Authenticated)",
+    "forks_count": 3,
+    "html_url": "https://github.com/sec-it/CMSUno-RCE",
+    "keywords": [
+        "remote code execution exploit",
+        "remote code execution poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "CMSUno-RCE",
+    "repo_owner": "sec-it",
+    "repotime": "2021-05-07, 17:09:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-06-01",
+    "date_updated": "2021-05-07",
+    "description": "A small-lightweight Denial Of Service attack tool developed on Python, that exploits vulnerable GPRS tunneling servers",
+    "forks_count": 2,
+    "html_url": "https://github.com/GnosticPlayers/GTP-Smash",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day denial of service",
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "GTP-Smash",
+    "repo_owner": "GnosticPlayers",
+    "repotime": "2021-05-07, 08:37:31",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-05-01",
+    "date_updated": "2021-05-03",
+    "description": "Full-chain RCE exploit for Source Engine games",
+    "forks_count": 4,
+    "html_url": "https://github.com/Gbps/sourceengine-packetentities-rce-poc",
+    "keywords": [
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "TypeScript",
+    "repo_name": "sourceengine-packetentities-rce-poc",
+    "repo_owner": "Gbps",
+    "repotime": "2021-05-03, 21:11:46",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-05-22",
+    "date_updated": "2021-05-27",
+    "description": "x64 Windows PatchGuard bypass, register process-creation callbacks from unsigned code",
+    "forks_count": 35,
+    "html_url": "https://github.com/kkent030315/NoPatchGuardCallback",
+    "keywords": [
+        "patchguard bypass",
+        "kpp bypass"
+    ],
+    "language": "C",
+    "repo_name": "NoPatchGuardCallback",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-05-27, 09:15:54",
+    "stargazers_count": 205,
+    "watchers_count": 205
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-05-21",
+    "description": "Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.",
+    "forks_count": 139,
+    "html_url": "https://github.com/0vercl0k/CVE-2021-31166",
+    "keywords": [
+        "use after free proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31166",
+    "repo_owner": "0vercl0k",
+    "repotime": "2021-05-21, 16:58:22",
+    "stargazers_count": 829,
+    "watchers_count": 829
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-05-17",
+    "date_updated": "2021-05-17",
+    "description": "PoC for LADSS (0day)",
+    "forks_count": 1,
+    "html_url": "https://github.com/rogue-kdc/LADSS",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Java",
+    "repo_name": "LADSS",
+    "repo_owner": "rogue-kdc",
+    "repotime": "2021-05-17, 23:52:36",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-05-17",
+    "date_updated": "2021-05-17",
+    "description": "PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash.",
+    "forks_count": 1,
+    "html_url": "https://github.com/zha0gongz1/CVE-2021-31166",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31166",
+    "repo_owner": "zha0gongz1",
+    "repotime": "2021-05-17, 19:30:26",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-05-16",
+    "description": "RCE for Pega Infinity &amp;gt;= 8.2.1, Pega Infinity &amp;lt;= 8.5.2",
+    "forks_count": 16,
+    "html_url": "https://github.com/samwcyo/CVE-2021-27651-PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-27651-PoC",
+    "repo_owner": "samwcyo",
+    "repotime": "2021-05-16, 00:54:07",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-05-09",
+    "date_updated": "2021-05-09",
+    "description": "Cobalt Strike 利用 Chrome-0day 上线",
+    "forks_count": 3,
+    "html_url": "https://github.com/AeolusTF/chrome-0day",
+    "keywords": [
+        "Chrome 0day"
+    ],
+    "language": "HTML",
+    "repo_name": "chrome-0day",
+    "repo_owner": "AeolusTF",
+    "repotime": "2021-05-09, 11:14:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-27",
+    "date_updated": "2021-05-07",
+    "description": "CMSUno 1.6.1 &amp;lt;= 1.6.2 - Remote Code Execution (Authenticated)",
+    "forks_count": 3,
+    "html_url": "https://github.com/sec-it/CMSUno-RCE",
+    "keywords": [
+        "remote code execution exploit",
+        "remote code execution poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "CMSUno-RCE",
+    "repo_owner": "sec-it",
+    "repotime": "2021-05-07, 17:09:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-06-01",
+    "date_updated": "2021-05-07",
+    "description": "A small-lightweight Denial Of Service attack tool developed on Python, that exploits vulnerable GPRS tunneling servers",
+    "forks_count": 2,
+    "html_url": "https://github.com/GnosticPlayers/GTP-Smash",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day denial of service",
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "GTP-Smash",
+    "repo_owner": "GnosticPlayers",
+    "repotime": "2021-05-07, 08:37:31",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-05-01",
+    "date_updated": "2021-05-03",
+    "description": "Full-chain RCE exploit for Source Engine games",
+    "forks_count": 4,
+    "html_url": "https://github.com/Gbps/sourceengine-packetentities-rce-poc",
+    "keywords": [
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "TypeScript",
+    "repo_name": "sourceengine-packetentities-rce-poc",
+    "repo_owner": "Gbps",
+    "repotime": "2021-05-03, 21:11:46",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-05-22",
+    "date_updated": "2021-05-27",
+    "description": "x64 Windows PatchGuard bypass, register process-creation callbacks from unsigned code",
+    "forks_count": 35,
+    "html_url": "https://github.com/kkent030315/NoPatchGuardCallback",
+    "keywords": [
+        "patchguard bypass",
+        "kpp bypass"
+    ],
+    "language": "C",
+    "repo_name": "NoPatchGuardCallback",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-05-27, 09:15:54",
+    "stargazers_count": 206,
+    "watchers_count": 206
+}
+{
+    "commits_count": 11,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-05-21",
+    "description": "Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.",
+    "forks_count": 139,
+    "html_url": "https://github.com/0vercl0k/CVE-2021-31166",
+    "keywords": [
+        "use after free proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31166",
+    "repo_owner": "0vercl0k",
+    "repotime": "2021-05-21, 16:58:22",
+    "stargazers_count": 831,
+    "watchers_count": 831
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-05-17",
+    "date_updated": "2021-05-17",
+    "description": "PoC for LADSS (0day)",
+    "forks_count": 1,
+    "html_url": "https://github.com/rogue-kdc/LADSS",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Java",
+    "repo_name": "LADSS",
+    "repo_owner": "rogue-kdc",
+    "repotime": "2021-05-17, 23:52:36",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-05-17",
+    "date_updated": "2021-05-17",
+    "description": "PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash.",
+    "forks_count": 1,
+    "html_url": "https://github.com/zha0gongz1/CVE-2021-31166",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31166",
+    "repo_owner": "zha0gongz1",
+    "repotime": "2021-05-17, 19:30:26",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-05-16",
+    "description": "RCE for Pega Infinity &amp;gt;= 8.2.1, Pega Infinity &amp;lt;= 8.5.2",
+    "forks_count": 16,
+    "html_url": "https://github.com/samwcyo/CVE-2021-27651-PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-27651-PoC",
+    "repo_owner": "samwcyo",
+    "repotime": "2021-05-16, 00:54:07",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-05-09",
+    "date_updated": "2021-05-09",
+    "description": "Cobalt Strike 利用 Chrome-0day 上线",
+    "forks_count": 3,
+    "html_url": "https://github.com/AeolusTF/chrome-0day",
+    "keywords": [
+        "Chrome 0day"
+    ],
+    "language": "HTML",
+    "repo_name": "chrome-0day",
+    "repo_owner": "AeolusTF",
+    "repotime": "2021-05-09, 11:14:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-27",
+    "date_updated": "2021-05-07",
+    "description": "CMSUno 1.6.1 &amp;lt;= 1.6.2 - Remote Code Execution (Authenticated)",
+    "forks_count": 3,
+    "html_url": "https://github.com/sec-it/CMSUno-RCE",
+    "keywords": [
+        "remote code execution exploit",
+        "remote code execution poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "CMSUno-RCE",
+    "repo_owner": "sec-it",
+    "repotime": "2021-05-07, 17:09:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-06-01",
+    "date_updated": "2021-05-07",
+    "description": "A small-lightweight Denial Of Service attack tool developed on Python, that exploits vulnerable GPRS tunneling servers",
+    "forks_count": 2,
+    "html_url": "https://github.com/GnosticPlayers/GTP-Smash",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day denial of service",
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "GTP-Smash",
+    "repo_owner": "GnosticPlayers",
+    "repotime": "2021-05-07, 08:37:31",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-05-01",
+    "date_updated": "2021-05-03",
+    "description": "Full-chain RCE exploit for Source Engine games",
+    "forks_count": 4,
+    "html_url": "https://github.com/Gbps/sourceengine-packetentities-rce-poc",
+    "keywords": [
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "TypeScript",
+    "repo_name": "sourceengine-packetentities-rce-poc",
+    "repo_owner": "Gbps",
+    "repotime": "2021-05-03, 21:11:46",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}

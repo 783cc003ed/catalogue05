@@ -1,0 +1,210 @@
+{
+    "commits_count": 9,
+    "date_started": "2020-11-30",
+    "date_updated": "2021-02-26",
+    "description": "This module massively scan and exploit a path traversal vulnerability in the FortiOS SSL VPN web portal may allow an unauthenticated attacker to download FortiOS system files through specially crafted HTTP resource requests (CVE-2018-13379).",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zeop-CyberSec/fortios_vpnssl_traversal_leak",
+    "keywords": [
+        "unauthenticated attacker",
+        "path traversal vulnerability",
+        "path traversal attack"
+    ],
+    "language": "Ruby",
+    "repo_name": "fortios_vpnssl_traversal_leak",
+    "repo_owner": "Zeop-CyberSec",
+    "repotime": "2021-02-26, 17:40:06",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 18,
+    "date_started": "2018-06-28",
+    "date_updated": "2021-02-24",
+    "description": "SQL Injection Payload List",
+    "forks_count": 57,
+    "html_url": "https://github.com/omurugur/SQL_Injection_Payload",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL_Injection_Payload",
+    "repo_owner": "omurugur",
+    "repotime": "2021-02-24, 00:49:49",
+    "stargazers_count": 110,
+    "watchers_count": 110
+}
+{
+    "commits_count": 34,
+    "date_started": "2021-01-12",
+    "date_updated": "2021-02-22",
+    "description": "SSRFuzz is a tool to find Server Side Request Forgery vulnerabilities, with CRLF chaining capabilities",
+    "forks_count": 20,
+    "html_url": "https://github.com/ryandamour/ssrfuzz",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "ssrfuzz",
+    "repo_owner": "ryandamour",
+    "repotime": "2021-02-22, 08:54:42",
+    "stargazers_count": 183,
+    "watchers_count": 183
+}
+{
+    "commits_count": 60,
+    "date_started": "2019-10-25",
+    "date_updated": "2021-02-16",
+    "description": "Hello my friends, it is my repo about sql injections.  Call me in Telegram: @anakein",
+    "forks_count": 17,
+    "html_url": "https://github.com/an4kein/_sql_injections",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "_sql_injections",
+    "repo_owner": "an4kein",
+    "repotime": "2021-02-16, 22:12:12",
+    "stargazers_count": 44,
+    "watchers_count": 44
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-02-16",
+    "date_updated": "2021-02-17",
+    "description": "-?        Print this help message and exit    -alertnotify=&amp;lt;cmd&amp;gt;        Execute command when a relevant alert is received or we see a really        long fork (%s in cmd is replaced by message)    -assumevalid=&amp;lt;hex&amp;gt;        If this block is in the chain assume that it and its ancestors are valid        and potentially skip their script verification (0 to verify all,        default:        0000000000000000000b9d2ec5a352ecba0592946514a92f14319dc2b367fc72,        testnet:        000000000000006433d1efec504c53ca332b64963c425395515b01977bd7b3b0,        signet:        0000002a1de0f46379358c1fd09906f7ac59adf3712323ed90eb59e4c183c020)    -blockfilterindex=&amp;lt;type&amp;gt;        Maintain an index of compact filters by block (default: 0, values:        basic). If &amp;lt;type&amp;gt; is not supplied or if &amp;lt;type&amp;gt; = 1, indexes for        all known types are enabled.    -blocknotify=&amp;lt;cmd&amp;gt;        Execute command when the best block changes (%s in cmd is replaced by        block hash)    -...",
+    "forks_count": 7,
+    "html_url": "https://github.com/heru299/script-copy",
+    "keywords": [
+        "empty string password",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "script-copy",
+    "repo_owner": "heru299",
+    "repotime": "2021-02-17, 06:38:02",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-05-23",
+    "date_updated": "2021-02-13",
+    "description": "the working exploit for phpinfo-Local-File-Inclusion founded by insomniasec",
+    "forks_count": 0,
+    "html_url": "https://github.com/diegoalbuquerque/phpinfo-Local-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "phpinfo-Local-File-Inclusion",
+    "repo_owner": "diegoalbuquerque",
+    "repotime": "2021-02-13, 22:11:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-13",
+    "date_updated": "2021-02-13",
+    "description": "commands git clone https://github.com/Screetsec/Brutal.git cd Brutal chmod +x Brutal.sh sudo ./Brutal.sh or sudo su ./Brutal.sh about : Now Teensy can be use for penetration Teensy like a rubber ducky , why im choose teensy ? because the price very cheap for me . t’s extremely useful for executing scripts on a target machine without the need for human-to-keyboard interaction ( HID -ATTACK ) .When you insert the device, it will be detected as a keyboard, and using the microprocessor and onboard flash memory storage, you can send a very fast set of keystrokes to the target’s machine and completely compromise it, regardless of autorun. I’ve used it in my security testing to run recon or enumeration scripts, execute reverse shells, exploit local DLL hijack/privilege escalation vulnerabilities, and get all password . Now im develop new tools the name is Brutal Brutal Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interf...",
+    "forks_count": 0,
+    "html_url": "https://github.com/anthophilee/Brutal",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Brutal",
+    "repo_owner": "anthophilee",
+    "repotime": "2021-02-13, 12:13:21",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 28,
+    "date_started": "2019-02-27",
+    "date_updated": "2021-02-11",
+    "description": "Smart ssrf scanner using different methods like parameter brute forcing in post and get...",
+    "forks_count": 73,
+    "html_url": "https://github.com/Damian89/extended-ssrf-search",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "extended-ssrf-search",
+    "repo_owner": "Damian89",
+    "repotime": "2021-02-11, 21:12:37",
+    "stargazers_count": 277,
+    "watchers_count": 277
+}
+{
+    "commits_count": 53,
+    "date_started": "2018-06-22",
+    "date_updated": "2021-02-07",
+    "description": "pen testing scripts",
+    "forks_count": 9,
+    "html_url": "https://github.com/Ch0pin/ToolBox",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PowerShell",
+    "repo_name": "ToolBox",
+    "repo_owner": "Ch0pin",
+    "repotime": "2021-02-07, 08:19:39",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-02-03",
+    "date_updated": "2021-02-05",
+    "description": "Escalate as Administrator bypassing the UAC affecting administrator accounts only.",
+    "forks_count": 62,
+    "html_url": "https://github.com/0xyg3n/UAC_Exploit",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "UAC_Exploit",
+    "repo_owner": "0xyg3n",
+    "repotime": "2021-02-05, 22:23:01",
+    "stargazers_count": 253,
+    "watchers_count": 253
+}
+{
+    "commits_count": 37,
+    "date_started": "2020-12-21",
+    "date_updated": "2021-02-04",
+    "description": "Workshop given at Hack in Paris 2019",
+    "forks_count": 41,
+    "html_url": "https://github.com/GoSecure/xxe-workshop",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xxe-workshop",
+    "repo_owner": "GoSecure",
+    "repotime": "2021-02-04, 15:10:48",
+    "stargazers_count": 124,
+    "watchers_count": 124
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-01-31",
+    "date_updated": "2021-02-01",
+    "description": "Code for WWW-2021 full paper: Long Short-Term Session Search: Joint Personalized Reranking and Next Query Prediction",
+    "forks_count": 4,
+    "html_url": "https://github.com/QiannanCheng/LostNet",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "LostNet",
+    "repo_owner": "QiannanCheng",
+    "repotime": "2021-02-01, 10:56:36",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}

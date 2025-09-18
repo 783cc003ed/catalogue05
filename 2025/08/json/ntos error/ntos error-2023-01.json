@@ -1,0 +1,627 @@
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "There is a logic error in io_uring's implementation which can be used to trigger a use-after-free vulnerability leading to privilege escalation. In the io_prep_async_work function the assumption that the last io_grab_identity call cannot return false is not true, and in this case the function will use the init_cred or  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0240",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0240",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 16:20:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-01-20",
+    "date_updated": "2023-01-26",
+    "description": "A PHP tool to spoof email with TLS certificate",
+    "forks_count": 0,
+    "html_url": "https://github.com/n4zgu1/email-spoofer",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "PHP",
+    "repo_name": "email-spoofer",
+    "repo_owner": "n4zgu1",
+    "repotime": "2023-01-26, 20:37:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2022-06-21",
+    "date_updated": "2023-01-26",
+    "description": "<no description>",
+    "forks_count": 5,
+    "html_url": "https://github.com/semgrep/java-xxe-research",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "java-xxe-research",
+    "repo_owner": "semgrep",
+    "repotime": "2023-01-26, 08:26:38",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 21,
+    "date_started": "2021-10-27",
+    "date_updated": "2023-01-23",
+    "description": "cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50",
+    "forks_count": 14,
+    "html_url": "https://github.com/walnutsecurity/cve-2021-42013",
+    "keywords": [
+        "path traversal vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2021-42013",
+    "repo_owner": "walnutsecurity",
+    "repotime": "2023-01-23, 22:11:56",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Directory traversal vulnerability in index.php in phpSysInfo 2.5.1 allows remote attackers to determine the existence of arbitrary files via a .. (dot dot) sequence and a trailing null (%00) byte in the lng parameter, which will display a different error message if the file exists. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2006-3360",
+    "keywords": [
+        "directory traversal vulnerability",
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2006-3360",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 20:34:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 170,
+    "date_started": "2017-12-13",
+    "date_updated": "2023-01-17",
+    "description": "bXSS is a utility which can be used by bug hunters and organizations to identify Blind Cross-Site Scripting.",
+    "forks_count": 65,
+    "html_url": "https://github.com/LewisArdern/bXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "bXSS",
+    "repo_owner": "LewisArdern",
+    "repotime": "2023-01-17, 16:45:07",
+    "stargazers_count": 540,
+    "watchers_count": 540
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-15",
+    "date_updated": "2023-01-16",
+    "description": "A reverse shell, also known as a remote shell or “connect-back shell,” takes advantage of the target system’s vulnerabilities to initiate a shell session and then access the victim’s computer. The goal is to connect to a remote computer and redirect the input and output connections of the target system’s shell so the attacker can access it remotely",
+    "forks_count": 0,
+    "html_url": "https://github.com/gauravdhruv/reverse-shell",
+    "keywords": [
+        "session vulnerability",
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "reverse-shell",
+    "repo_owner": "gauravdhruv",
+    "repotime": "2023-01-16, 01:35:01",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-10-23",
+    "date_updated": "2023-01-11",
+    "description": "cve-2021-41773.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49",
+    "forks_count": 3,
+    "html_url": "https://github.com/walnutsecurity/cve-2021-41773",
+    "keywords": [
+        "path traversal vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2021-41773",
+    "repo_owner": "walnutsecurity",
+    "repotime": "2023-01-11, 19:34:08",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-06",
+    "date_updated": "2023-01-07",
+    "description": "CVE-2022-44877 Centos Web Panel 7 Unauthenticated Remote Code Execution",
+    "forks_count": 1,
+    "html_url": "https://github.com/komomon/CVE-2022-44877-RCE",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-44877-RCE",
+    "repo_owner": "komomon",
+    "repotime": "2023-01-07, 01:00:01",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-01-05",
+    "date_updated": "2023-01-05",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/El-Palomo/Server-Side-Request-Forgery---RootMe",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "Server-Side-Request-Forgery---RootMe",
+    "repo_owner": "El-Palomo",
+    "repotime": "2023-01-05, 22:15:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-01-04",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/jiajunleong/Directory-Traversal-Attack",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "Directory-Traversal-Attack",
+    "repo_owner": "jiajunleong",
+    "repotime": "2023-01-04, 18:46:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-01-04",
+    "description": "In mdp, there is a possible out of bounds write due to incorrect error handling. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07342114; Issue ID: ALPS07342114. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32623",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32623",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-04, 01:07:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "There is a logic error in io_uring's implementation which can be used to trigger a use-after-free vulnerability leading to privilege escalation. In the io_prep_async_work function the assumption that the last io_grab_identity call cannot return false is not true, and in this case the function will use the init_cred or  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0240",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0240",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 16:20:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-01-20",
+    "date_updated": "2023-01-26",
+    "description": "A PHP tool to spoof email with TLS certificate",
+    "forks_count": 0,
+    "html_url": "https://github.com/n4zgu1/email-spoofer",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "PHP",
+    "repo_name": "email-spoofer",
+    "repo_owner": "n4zgu1",
+    "repotime": "2023-01-26, 20:37:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2022-06-21",
+    "date_updated": "2023-01-26",
+    "description": "<no description>",
+    "forks_count": 5,
+    "html_url": "https://github.com/semgrep/java-xxe-research",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "java-xxe-research",
+    "repo_owner": "semgrep",
+    "repotime": "2023-01-26, 08:26:38",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 21,
+    "date_started": "2021-10-27",
+    "date_updated": "2023-01-23",
+    "description": "cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50",
+    "forks_count": 14,
+    "html_url": "https://github.com/walnutsecurity/cve-2021-42013",
+    "keywords": [
+        "path traversal vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2021-42013",
+    "repo_owner": "walnutsecurity",
+    "repotime": "2023-01-23, 22:11:56",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Directory traversal vulnerability in index.php in phpSysInfo 2.5.1 allows remote attackers to determine the existence of arbitrary files via a .. (dot dot) sequence and a trailing null (%00) byte in the lng parameter, which will display a different error message if the file exists. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2006-3360",
+    "keywords": [
+        "directory traversal vulnerability",
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2006-3360",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 20:34:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 170,
+    "date_started": "2017-12-13",
+    "date_updated": "2023-01-17",
+    "description": "bXSS is a utility which can be used by bug hunters and organizations to identify Blind Cross-Site Scripting.",
+    "forks_count": 65,
+    "html_url": "https://github.com/LewisArdern/bXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "bXSS",
+    "repo_owner": "LewisArdern",
+    "repotime": "2023-01-17, 16:45:07",
+    "stargazers_count": 540,
+    "watchers_count": 540
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-15",
+    "date_updated": "2023-01-16",
+    "description": "A reverse shell, also known as a remote shell or “connect-back shell,” takes advantage of the target system’s vulnerabilities to initiate a shell session and then access the victim’s computer. The goal is to connect to a remote computer and redirect the input and output connections of the target system’s shell so the attacker can access it remotely",
+    "forks_count": 0,
+    "html_url": "https://github.com/gauravdhruv/reverse-shell",
+    "keywords": [
+        "session vulnerability",
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "reverse-shell",
+    "repo_owner": "gauravdhruv",
+    "repotime": "2023-01-16, 01:35:01",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-10-23",
+    "date_updated": "2023-01-11",
+    "description": "cve-2021-41773.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49",
+    "forks_count": 3,
+    "html_url": "https://github.com/walnutsecurity/cve-2021-41773",
+    "keywords": [
+        "path traversal vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2021-41773",
+    "repo_owner": "walnutsecurity",
+    "repotime": "2023-01-11, 19:34:08",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-06",
+    "date_updated": "2023-01-07",
+    "description": "CVE-2022-44877 Centos Web Panel 7 Unauthenticated Remote Code Execution",
+    "forks_count": 1,
+    "html_url": "https://github.com/komomon/CVE-2022-44877-RCE",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-44877-RCE",
+    "repo_owner": "komomon",
+    "repotime": "2023-01-07, 01:00:01",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-01-05",
+    "date_updated": "2023-01-05",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/El-Palomo/Server-Side-Request-Forgery---RootMe",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "Server-Side-Request-Forgery---RootMe",
+    "repo_owner": "El-Palomo",
+    "repotime": "2023-01-05, 22:15:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-01-04",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/jiajunleong/Directory-Traversal-Attack",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "Directory-Traversal-Attack",
+    "repo_owner": "jiajunleong",
+    "repotime": "2023-01-04, 18:46:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-01-04",
+    "description": "In mdp, there is a possible out of bounds write due to incorrect error handling. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07342114; Issue ID: ALPS07342114. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32623",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32623",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-04, 01:07:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-30",
+    "description": "There is a logic error in io_uring's implementation which can be used to trigger a use-after-free vulnerability leading to privilege escalation. In the io_prep_async_work function the assumption that the last io_grab_identity call cannot return false is not true, and in this case the function will use the init_cred or  CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-0240",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-0240",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-30, 16:20:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-01-20",
+    "date_updated": "2023-01-26",
+    "description": "A PHP tool to spoof email with TLS certificate",
+    "forks_count": 0,
+    "html_url": "https://github.com/n4zgu1/email-spoofer",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "PHP",
+    "repo_name": "email-spoofer",
+    "repo_owner": "n4zgu1",
+    "repotime": "2023-01-26, 20:37:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2022-06-21",
+    "date_updated": "2023-01-26",
+    "description": "<no description>",
+    "forks_count": 5,
+    "html_url": "https://github.com/semgrep/java-xxe-research",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "java-xxe-research",
+    "repo_owner": "semgrep",
+    "repotime": "2023-01-26, 08:26:38",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 21,
+    "date_started": "2021-10-27",
+    "date_updated": "2023-01-23",
+    "description": "cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50",
+    "forks_count": 14,
+    "html_url": "https://github.com/walnutsecurity/cve-2021-42013",
+    "keywords": [
+        "path traversal vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2021-42013",
+    "repo_owner": "walnutsecurity",
+    "repotime": "2023-01-23, 22:11:56",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-18",
+    "date_updated": "2023-01-18",
+    "description": "Directory traversal vulnerability in index.php in phpSysInfo 2.5.1 allows remote attackers to determine the existence of arbitrary files via a .. (dot dot) sequence and a trailing null (%00) byte in the lng parameter, which will display a different error message if the file exists. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2006-3360",
+    "keywords": [
+        "directory traversal vulnerability",
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2006-3360",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-18, 20:34:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 170,
+    "date_started": "2017-12-13",
+    "date_updated": "2023-01-17",
+    "description": "bXSS is a utility which can be used by bug hunters and organizations to identify Blind Cross-Site Scripting.",
+    "forks_count": 65,
+    "html_url": "https://github.com/LewisArdern/bXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "bXSS",
+    "repo_owner": "LewisArdern",
+    "repotime": "2023-01-17, 16:45:07",
+    "stargazers_count": 542,
+    "watchers_count": 542
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-15",
+    "date_updated": "2023-01-16",
+    "description": "A reverse shell, also known as a remote shell or “connect-back shell,” takes advantage of the target system’s vulnerabilities to initiate a shell session and then access the victim’s computer. The goal is to connect to a remote computer and redirect the input and output connections of the target system’s shell so the attacker can access it remotely",
+    "forks_count": 0,
+    "html_url": "https://github.com/gauravdhruv/reverse-shell",
+    "keywords": [
+        "session vulnerability",
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "reverse-shell",
+    "repo_owner": "gauravdhruv",
+    "repotime": "2023-01-16, 01:35:01",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-10-23",
+    "date_updated": "2023-01-11",
+    "description": "cve-2021-41773.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49",
+    "forks_count": 3,
+    "html_url": "https://github.com/walnutsecurity/cve-2021-41773",
+    "keywords": [
+        "path traversal vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2021-41773",
+    "repo_owner": "walnutsecurity",
+    "repotime": "2023-01-11, 19:34:08",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-06",
+    "date_updated": "2023-01-07",
+    "description": "CVE-2022-44877 Centos Web Panel 7 Unauthenticated Remote Code Execution",
+    "forks_count": 1,
+    "html_url": "https://github.com/komomon/CVE-2022-44877-RCE",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-44877-RCE",
+    "repo_owner": "komomon",
+    "repotime": "2023-01-07, 01:00:01",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-01-05",
+    "date_updated": "2023-01-05",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/El-Palomo/Server-Side-Request-Forgery---RootMe",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "Server-Side-Request-Forgery---RootMe",
+    "repo_owner": "El-Palomo",
+    "repotime": "2023-01-05, 22:15:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-01-04",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/jiajunleong/Directory-Traversal-Attack",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "Directory-Traversal-Attack",
+    "repo_owner": "jiajunleong",
+    "repotime": "2023-01-04, 18:46:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-04",
+    "date_updated": "2023-01-04",
+    "description": "In mdp, there is a possible out of bounds write due to incorrect error handling. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07342114; Issue ID: ALPS07342114. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-32623",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32623",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-01-04, 01:07:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

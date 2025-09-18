@@ -1,0 +1,55 @@
+{
+    "commits_count": 17,
+    "date_started": "2016-04-19",
+    "date_updated": "2016-04-29",
+    "description": "Demostrating a custom login session with session hijacking protection",
+    "forks_count": 0,
+    "html_url": "https://github.com/wodinga/node-sessions",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "JavaScript",
+    "repo_name": "node-sessions",
+    "repo_owner": "wodinga",
+    "repotime": "2016-04-29, 11:40:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2016-01-26",
+    "date_updated": "2016-04-21",
+    "description": "Tater is a PowerShell implementation of the Hot Potato Windows Privilege Escalation exploit from @breenmachine and @foxglovesec",
+    "forks_count": 117,
+    "html_url": "https://github.com/Kevin-Robertson/Tater",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges",
+        "escalation of privileges exploit"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Tater",
+    "repo_owner": "Kevin-Robertson",
+    "repotime": "2016-04-21, 23:04:10",
+    "stargazers_count": 452,
+    "watchers_count": 452
+}
+{
+    "commits_count": 37,
+    "date_started": "2016-03-26",
+    "date_updated": "2016-04-01",
+    "description": "Pen test your &amp;quot;friend's&amp;quot; online MMORPG game - specific focus, sql injection opportunities",
+    "forks_count": 50,
+    "html_url": "https://github.com/breakthenet/HackMe-SQL-Injection-Challenges",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "HackMe-SQL-Injection-Challenges",
+    "repo_owner": "breakthenet",
+    "repotime": "2016-04-01, 20:48:35",
+    "stargazers_count": 418,
+    "watchers_count": 418
+}

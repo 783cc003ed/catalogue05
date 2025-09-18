@@ -1,0 +1,55 @@
+{
+    "commits_count": 4,
+    "date_started": "2018-08-31",
+    "date_updated": "2018-08-31",
+    "description": " I have created a Proof of Concept for using a split SPA with Lambda@Edge and AWS Cloudfront. It's purpose is to send a partial application (just Sign In app) for unauthenticated users and only deliver the full application when authentication is complete.",
+    "forks_count": 0,
+    "html_url": "https://github.com/david-novicki/lambda-edge-split-app",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "lambda-edge-split-app",
+    "repo_owner": "david-novicki",
+    "repotime": "2018-08-31, 14:34:48",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-08-16",
+    "date_updated": "2018-08-16",
+    "description": "CVE-2018-8120 Windows LPE exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/ozkanbilge/CVE-2018-8120",
+    "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows lpe exploitation",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2018-8120",
+    "repo_owner": "ozkanbilge",
+    "repotime": "2018-08-16, 13:53:18",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 249,
+    "date_started": "2015-06-11",
+    "date_updated": "2018-08-14",
+    "description": "massive SQL injection vulnerability scanner",
+    "forks_count": 378,
+    "html_url": "https://github.com/the-robot/sqliv",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqliv",
+    "repo_owner": "the-robot",
+    "repotime": "2018-08-14, 19:28:45",
+    "stargazers_count": 1221,
+    "watchers_count": 1221
+}

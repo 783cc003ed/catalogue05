@@ -1,0 +1,104 @@
+{
+    "commits_count": 12,
+    "date_started": "2023-02-24",
+    "date_updated": "2023-02-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/x10m/xRCE-Windows",
+    "keywords": [
+        "Win rce",
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "xRCE-Windows",
+    "repo_owner": "x10m",
+    "repotime": "2023-02-24, 17:29:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 127,
+    "date_started": "2018-08-22",
+    "date_updated": "2023-02-19",
+    "description": "VR Man-in-the-Room Attack and Command &amp;amp; Control Server Proof of Concept — Bigscreen",
+    "forks_count": 1,
+    "html_url": "https://github.com/mvondracek/VR-MitR-C2-Bigscreen",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "VR-MitR-C2-Bigscreen",
+    "repo_owner": "mvondracek",
+    "repotime": "2023-02-19, 23:43:42",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-02-05",
+    "date_updated": "2023-02-19",
+    "description": "Bypassing kernel patch protection runtime",
+    "forks_count": 3,
+    "html_url": "https://github.com/ByteWhite1x1/PatchGuardResearch",
+    "keywords": [
+        "kernel patch protection bypass",
+        "patchguard bypass"
+    ],
+    "language": null,
+    "repo_name": "PatchGuardResearch",
+    "repo_owner": "ByteWhite1x1",
+    "repotime": "2023-02-19, 21:56:29",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-12-25",
+    "date_updated": "2023-02-14",
+    "description": "Valgrind is an instrumentation framework for building dynamic analysis tools ,and for checking memory leaks. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/anastabiti/Valgrind-Docker-",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Makefile",
+    "repo_name": "Valgrind-Docker-",
+    "repo_owner": "anastabiti",
+    "repotime": "2023-02-14, 11:29:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 21,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-02-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/brancobruyneel/jest-memory-leak-poc",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "TypeScript",
+    "repo_name": "jest-memory-leak-poc",
+    "repo_owner": "brancobruyneel",
+    "repotime": "2023-02-09, 10:26:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-08",
+    "date_updated": "2023-02-08",
+    "description": "Improper input validation in driver adgnetworkwfpdrv.sys in Adguard For Windows x86 up to version 7.11 allows attacker to gain local privileges escalation. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-45770",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-45770",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-08, 20:20:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

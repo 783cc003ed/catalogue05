@@ -396,3 +396,799 @@
     "stargazers_count": 136,
     "watchers_count": 136
 }
+{
+    "commits_count": 15,
+    "date_started": "2021-01-03",
+    "date_updated": "2021-03-30",
+    "description": "The problem that this case study is dealing with predicts the location that a user is most likely to book for the first time. The accurate prediction helps to decrease the average time required to book by sharing more personalized recommendations and also in better forecasting of the demand. We use the browser’s session data as well as the user’s demographic information that is provided to us to create features that help in solving the problem.",
+    "forks_count": 0,
+    "html_url": "https://github.com/NamrataThakur/Airbnb-New-User-Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Airbnb-New-User-Prediction",
+    "repo_owner": "NamrataThakur",
+    "repotime": "2021-03-30, 21:40:21",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 27,
+    "date_started": "2021-01-26",
+    "date_updated": "2021-03-28",
+    "description": "AfterLogic Products Vulnerabilities",
+    "forks_count": 4,
+    "html_url": "https://github.com/E3SEC/AfterLogic",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "AfterLogic",
+    "repo_owner": "E3SEC",
+    "repotime": "2021-03-28, 23:25:43",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-03-25",
+    "date_updated": "2021-03-25",
+    "description": "Proof of concept for CVE-2020-11819 and CVE-2020-15946",
+    "forks_count": 0,
+    "html_url": "https://github.com/danyx07/PoC-RCE-Rukovoditel",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "PoC-RCE-Rukovoditel",
+    "repo_owner": "danyx07",
+    "repotime": "2021-03-25, 10:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 49,
+    "date_started": "2021-03-18",
+    "date_updated": "2021-03-17",
+    "description": "Using Transformers, Attention Based Seq2Seq, and Deep Reinforcement Learning to predict the next 10 songs listened by a user in a session",
+    "forks_count": 0,
+    "html_url": "https://github.com/ahmad0790/spotify-sequential-track-sequence-prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "spotify-sequential-track-sequence-prediction",
+    "repo_owner": "ahmad0790",
+    "repotime": "2021-03-17, 21:50:50",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-03-21",
+    "date_updated": "2021-03-18",
+    "description": "Microsoft Exchange Proxylogon Exploit Chain EXP分析",
+    "forks_count": 9,
+    "html_url": "https://github.com/catmandx/CVE-2021-26855-Exchange-RCE",
+    "keywords": [
+        "Microsoft rce exploitation",
+        "Microsoft rce",
+        "Microsoft rce exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-26855-Exchange-RCE",
+    "repo_owner": "catmandx",
+    "repotime": "2021-03-18, 08:55:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-03-17",
+    "date_updated": "2021-03-17",
+    "description": "ProxyLogon(CVE-2021-26855+CVE-2021-27065) Exchange Server RCE(SSRF-&amp;gt;GetWebShell)",
+    "forks_count": 32,
+    "html_url": "https://github.com/p0wershe11/ProxyLogon",
+    "keywords": [
+        "0day exploit",
+        "rce exploit",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "ProxyLogon",
+    "repo_owner": "p0wershe11",
+    "repotime": "2021-03-17, 13:06:18",
+    "stargazers_count": 122,
+    "watchers_count": 122
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-11-23",
+    "date_updated": "2021-03-16",
+    "description": "PoC demonstrating the use of cve-2020-1034 for privilege escalation",
+    "forks_count": 41,
+    "html_url": "https://github.com/yardenshafir/CVE-2020-1034",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges poc",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2020-1034",
+    "repo_owner": "yardenshafir",
+    "repotime": "2021-03-16, 15:53:37",
+    "stargazers_count": 125,
+    "watchers_count": 125
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-03-03",
+    "date_updated": "2021-03-15",
+    "description": "IoC determination for exploitation of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858 and CVE-2021-27065.",
+    "forks_count": 4,
+    "html_url": "https://github.com/sgnls/exchange-0days-202103",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "PowerShell",
+    "repo_name": "exchange-0days-202103",
+    "repo_owner": "sgnls",
+    "repotime": "2021-03-15, 11:42:06",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-03-15",
+    "date_updated": "2021-03-15",
+    "description": "CVE-2021-26855 &amp;amp; CVE-2021-27065",
+    "forks_count": 10,
+    "html_url": "https://github.com/evilashz/ExchangeSSRFtoRCEExploit",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "ExchangeSSRFtoRCEExploit",
+    "repo_owner": "evilashz",
+    "repotime": "2021-03-15, 17:19:37",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-03-14",
+    "date_updated": "2021-03-15",
+    "description": "RCE exploit for ProxyLogon vulnerability in Microsoft Exchange",
+    "forks_count": 8,
+    "html_url": "https://github.com/mil1200/ProxyLogon-CVE-2021-26855",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce exploitation",
+        "rce vulnerability",
+        "Microsoft rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "ProxyLogon-CVE-2021-26855",
+    "repo_owner": "mil1200",
+    "repotime": "2021-03-15, 00:03:12",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-03-14",
+    "date_updated": "2021-03-15",
+    "description": "exchange-ssrf-rce",
+    "forks_count": 19,
+    "html_url": "https://github.com/jeningogo/exchange-ssrf-rce",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "exchange-ssrf-rce",
+    "repo_owner": "jeningogo",
+    "repotime": "2021-03-15, 01:39:15",
+    "stargazers_count": 78,
+    "watchers_count": 78
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-03-11",
+    "date_updated": "2021-03-11",
+    "description": "PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github",
+    "forks_count": 34,
+    "html_url": "https://github.com/hackerschoice/CVE-2021-26855",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-26855",
+    "repo_owner": "hackerschoice",
+    "repotime": "2021-03-11, 21:58:04",
+    "stargazers_count": 61,
+    "watchers_count": 61
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-03-10",
+    "date_updated": "2021-03-11",
+    "description": "Parses unauthenticated Gitlab APIs for users, repos, groups and secrets.",
+    "forks_count": 2,
+    "html_url": "https://github.com/ldionmarcil/gitlab-unauth-parser",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "gitlab-unauth-parser",
+    "repo_owner": "ldionmarcil",
+    "repotime": "2021-03-11, 12:04:42",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 27,
+    "date_started": "2020-05-20",
+    "date_updated": "2021-03-10",
+    "description": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list",
+    "forks_count": 1321,
+    "html_url": "https://github.com/LandGrey/SpringBootVulExploit",
+    "keywords": [
+        "rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "SpringBootVulExploit",
+    "repo_owner": "LandGrey",
+    "repotime": "2021-03-10, 21:03:17",
+    "stargazers_count": 6013,
+    "watchers_count": 6013
+}
+{
+    "commits_count": 65,
+    "date_started": "2021-02-16",
+    "date_updated": "2021-03-09",
+    "description": "A Next.js (React + Node) application built with secure authentication, session persistence and follower/following relationships between users. Includes ability to set / upload profile photos",
+    "forks_count": 1,
+    "html_url": "https://github.com/justinjaeger/Awards-Predictions-App",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Awards-Predictions-App",
+    "repo_owner": "justinjaeger",
+    "repotime": "2021-03-09, 22:49:40",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 53,
+    "date_started": "2018-07-27",
+    "date_updated": "2021-03-09",
+    "description": "A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\\SYSTEM. ",
+    "forks_count": 482,
+    "html_url": "https://github.com/ohpe/juicy-potato",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C++",
+    "repo_name": "juicy-potato",
+    "repo_owner": "ohpe",
+    "repotime": "2021-03-09, 21:08:38",
+    "stargazers_count": 2625,
+    "watchers_count": 2625
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-03-09",
+    "date_updated": "2021-03-09",
+    "description": " Exploit Windows-Based BufferOverflow (vulnserver)",
+    "forks_count": 8,
+    "html_url": "https://github.com/ZeroMemoryEx/BufferOverFlow",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce exploit",
+        "Windows rce",
+        "Windows rce exploit",
+        "rce exploitation"
+    ],
+    "language": "C",
+    "repo_name": "BufferOverFlow",
+    "repo_owner": "ZeroMemoryEx",
+    "repotime": "2021-03-09, 17:41:45",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-02-05",
+    "date_updated": "2021-03-09",
+    "description": "An exploit which uses redis to overwrite the .ssh/authorization_keys file of any user running redis unauthenticated",
+    "forks_count": 0,
+    "html_url": "https://github.com/LevitatingBusinessMan/redis-ssh",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Ruby",
+    "repo_name": "redis-ssh",
+    "repo_owner": "LevitatingBusinessMan",
+    "repotime": "2021-03-09, 01:57:35",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-02-03",
+    "date_updated": "2021-03-05",
+    "description": "CTF for HDE 64 students at See Security College. Exploit a JWT (web part) &amp;amp; CVE-2021-3156 (LPE part).",
+    "forks_count": 0,
+    "html_url": "https://github.com/DanielAzulayy/CTF-2021",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "CSS",
+    "repo_name": "CTF-2021",
+    "repo_owner": "DanielAzulayy",
+    "repotime": "2021-03-05, 18:22:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-03-05",
+    "date_updated": "2021-03-04",
+    "description": "Send latest Hacking News (Exploit/Poc/0day) from Twitter API and Github API to a Telegram channel ",
+    "forks_count": 3,
+    "html_url": "https://github.com/YOLOP0wn/TwiGit-Telegram-Hacking-News-Bot",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "TwiGit-Telegram-Hacking-News-Bot",
+    "repo_owner": "YOLOP0wn",
+    "repotime": "2021-03-04, 12:24:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 53,
+    "date_started": "2020-11-21",
+    "date_updated": "2021-03-02",
+    "description": "d(ockerp)wn - a docker pwn tool manager",
+    "forks_count": 22,
+    "html_url": "https://github.com/sensepost/dwn",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "dwn",
+    "repo_owner": "sensepost",
+    "repotime": "2021-03-02, 10:45:55",
+    "stargazers_count": 157,
+    "watchers_count": 157
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-02-24",
+    "date_updated": "2021-03-01",
+    "description": "<no description>",
+    "forks_count": 64,
+    "html_url": "https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-21972-vCenter-6.5-7.0-RCE-POC",
+    "repo_owner": "QmF0c3UK",
+    "repotime": "2021-03-01, 10:10:44",
+    "stargazers_count": 137,
+    "watchers_count": 137
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-01-03",
+    "date_updated": "2021-03-30",
+    "description": "The problem that this case study is dealing with predicts the location that a user is most likely to book for the first time. The accurate prediction helps to decrease the average time required to book by sharing more personalized recommendations and also in better forecasting of the demand. We use the browser’s session data as well as the user’s demographic information that is provided to us to create features that help in solving the problem.",
+    "forks_count": 0,
+    "html_url": "https://github.com/NamrataThakur/Airbnb-New-User-Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Airbnb-New-User-Prediction",
+    "repo_owner": "NamrataThakur",
+    "repotime": "2021-03-30, 21:40:21",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 27,
+    "date_started": "2021-01-26",
+    "date_updated": "2021-03-28",
+    "description": "AfterLogic Products Vulnerabilities",
+    "forks_count": 4,
+    "html_url": "https://github.com/E3SEC/AfterLogic",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "AfterLogic",
+    "repo_owner": "E3SEC",
+    "repotime": "2021-03-28, 23:25:43",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-03-25",
+    "date_updated": "2021-03-25",
+    "description": "Proof of concept for CVE-2020-11819 and CVE-2020-15946",
+    "forks_count": 0,
+    "html_url": "https://github.com/danyx07/PoC-RCE-Rukovoditel",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "PoC-RCE-Rukovoditel",
+    "repo_owner": "danyx07",
+    "repotime": "2021-03-25, 10:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 49,
+    "date_started": "2021-03-18",
+    "date_updated": "2021-03-17",
+    "description": "Using Transformers, Attention Based Seq2Seq, and Deep Reinforcement Learning to predict the next 10 songs listened by a user in a session",
+    "forks_count": 0,
+    "html_url": "https://github.com/ahmad0790/spotify-sequential-track-sequence-prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "spotify-sequential-track-sequence-prediction",
+    "repo_owner": "ahmad0790",
+    "repotime": "2021-03-17, 21:50:50",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-03-21",
+    "date_updated": "2021-03-18",
+    "description": "Microsoft Exchange Proxylogon Exploit Chain EXP分析",
+    "forks_count": 9,
+    "html_url": "https://github.com/catmandx/CVE-2021-26855-Exchange-RCE",
+    "keywords": [
+        "Microsoft rce exploitation",
+        "Microsoft rce",
+        "Microsoft rce exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-26855-Exchange-RCE",
+    "repo_owner": "catmandx",
+    "repotime": "2021-03-18, 08:55:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-03-17",
+    "date_updated": "2021-03-17",
+    "description": "ProxyLogon(CVE-2021-26855+CVE-2021-27065) Exchange Server RCE(SSRF-&amp;gt;GetWebShell)",
+    "forks_count": 32,
+    "html_url": "https://github.com/p0wershe11/ProxyLogon",
+    "keywords": [
+        "0day exploit",
+        "rce exploit",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "ProxyLogon",
+    "repo_owner": "p0wershe11",
+    "repotime": "2021-03-17, 13:06:18",
+    "stargazers_count": 122,
+    "watchers_count": 122
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-11-23",
+    "date_updated": "2021-03-16",
+    "description": "PoC demonstrating the use of cve-2020-1034 for privilege escalation",
+    "forks_count": 41,
+    "html_url": "https://github.com/yardenshafir/CVE-2020-1034",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges poc",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2020-1034",
+    "repo_owner": "yardenshafir",
+    "repotime": "2021-03-16, 15:53:37",
+    "stargazers_count": 125,
+    "watchers_count": 125
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-03-03",
+    "date_updated": "2021-03-15",
+    "description": "IoC determination for exploitation of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858 and CVE-2021-27065.",
+    "forks_count": 4,
+    "html_url": "https://github.com/sgnls/exchange-0days-202103",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "PowerShell",
+    "repo_name": "exchange-0days-202103",
+    "repo_owner": "sgnls",
+    "repotime": "2021-03-15, 11:42:06",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-03-15",
+    "date_updated": "2021-03-15",
+    "description": "CVE-2021-26855 &amp;amp; CVE-2021-27065",
+    "forks_count": 10,
+    "html_url": "https://github.com/evilashz/ExchangeSSRFtoRCEExploit",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "ExchangeSSRFtoRCEExploit",
+    "repo_owner": "evilashz",
+    "repotime": "2021-03-15, 17:19:37",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-03-14",
+    "date_updated": "2021-03-15",
+    "description": "RCE exploit for ProxyLogon vulnerability in Microsoft Exchange",
+    "forks_count": 8,
+    "html_url": "https://github.com/mil1200/ProxyLogon-CVE-2021-26855",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce exploitation",
+        "rce vulnerability",
+        "Microsoft rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "ProxyLogon-CVE-2021-26855",
+    "repo_owner": "mil1200",
+    "repotime": "2021-03-15, 00:03:12",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-03-14",
+    "date_updated": "2021-03-15",
+    "description": "exchange-ssrf-rce",
+    "forks_count": 19,
+    "html_url": "https://github.com/jeningogo/exchange-ssrf-rce",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "exchange-ssrf-rce",
+    "repo_owner": "jeningogo",
+    "repotime": "2021-03-15, 01:39:15",
+    "stargazers_count": 78,
+    "watchers_count": 78
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-03-11",
+    "date_updated": "2021-03-11",
+    "description": "PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github",
+    "forks_count": 34,
+    "html_url": "https://github.com/hackerschoice/CVE-2021-26855",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-26855",
+    "repo_owner": "hackerschoice",
+    "repotime": "2021-03-11, 21:58:04",
+    "stargazers_count": 61,
+    "watchers_count": 61
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-03-10",
+    "date_updated": "2021-03-11",
+    "description": "Parses unauthenticated Gitlab APIs for users, repos, groups and secrets.",
+    "forks_count": 2,
+    "html_url": "https://github.com/ldionmarcil/gitlab-unauth-parser",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "gitlab-unauth-parser",
+    "repo_owner": "ldionmarcil",
+    "repotime": "2021-03-11, 12:04:42",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 27,
+    "date_started": "2020-05-20",
+    "date_updated": "2021-03-10",
+    "description": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list",
+    "forks_count": 1322,
+    "html_url": "https://github.com/LandGrey/SpringBootVulExploit",
+    "keywords": [
+        "rce exploit",
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "SpringBootVulExploit",
+    "repo_owner": "LandGrey",
+    "repotime": "2021-03-10, 21:03:17",
+    "stargazers_count": 6021,
+    "watchers_count": 6021
+}
+{
+    "commits_count": 65,
+    "date_started": "2021-02-16",
+    "date_updated": "2021-03-09",
+    "description": "A Next.js (React + Node) application built with secure authentication, session persistence and follower/following relationships between users. Includes ability to set / upload profile photos",
+    "forks_count": 1,
+    "html_url": "https://github.com/justinjaeger/Awards-Predictions-App",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Awards-Predictions-App",
+    "repo_owner": "justinjaeger",
+    "repotime": "2021-03-09, 22:49:40",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 53,
+    "date_started": "2018-07-27",
+    "date_updated": "2021-03-09",
+    "description": "A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\\SYSTEM. ",
+    "forks_count": 482,
+    "html_url": "https://github.com/ohpe/juicy-potato",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C++",
+    "repo_name": "juicy-potato",
+    "repo_owner": "ohpe",
+    "repotime": "2021-03-09, 21:08:38",
+    "stargazers_count": 2632,
+    "watchers_count": 2632
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-03-09",
+    "date_updated": "2021-03-09",
+    "description": " Exploit Windows-Based BufferOverflow (vulnserver)",
+    "forks_count": 8,
+    "html_url": "https://github.com/ZeroMemoryEx/BufferOverFlow",
+    "keywords": [
+        "Windows rce exploitation",
+        "rce exploit",
+        "Windows rce",
+        "Windows rce exploit",
+        "rce exploitation"
+    ],
+    "language": "C",
+    "repo_name": "BufferOverFlow",
+    "repo_owner": "ZeroMemoryEx",
+    "repotime": "2021-03-09, 17:41:45",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-02-05",
+    "date_updated": "2021-03-09",
+    "description": "An exploit which uses redis to overwrite the .ssh/authorization_keys file of any user running redis unauthenticated",
+    "forks_count": 0,
+    "html_url": "https://github.com/LevitatingBusinessMan/redis-ssh",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Ruby",
+    "repo_name": "redis-ssh",
+    "repo_owner": "LevitatingBusinessMan",
+    "repotime": "2021-03-09, 01:57:35",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-02-03",
+    "date_updated": "2021-03-05",
+    "description": "CTF for HDE 64 students at See Security College. Exploit a JWT (web part) &amp;amp; CVE-2021-3156 (LPE part).",
+    "forks_count": 0,
+    "html_url": "https://github.com/DanielAzulayy/CTF-2021",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "CSS",
+    "repo_name": "CTF-2021",
+    "repo_owner": "DanielAzulayy",
+    "repotime": "2021-03-05, 18:22:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-03-05",
+    "date_updated": "2021-03-04",
+    "description": "Send latest Hacking News (Exploit/Poc/0day) from Twitter API and Github API to a Telegram channel ",
+    "forks_count": 3,
+    "html_url": "https://github.com/YOLOP0wn/TwiGit-Telegram-Hacking-News-Bot",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "TwiGit-Telegram-Hacking-News-Bot",
+    "repo_owner": "YOLOP0wn",
+    "repotime": "2021-03-04, 12:24:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 53,
+    "date_started": "2020-11-21",
+    "date_updated": "2021-03-02",
+    "description": "d(ockerp)wn - a docker pwn tool manager",
+    "forks_count": 22,
+    "html_url": "https://github.com/sensepost/dwn",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "dwn",
+    "repo_owner": "sensepost",
+    "repotime": "2021-03-02, 10:45:55",
+    "stargazers_count": 157,
+    "watchers_count": 157
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-02-24",
+    "date_updated": "2021-03-01",
+    "description": "<no description>",
+    "forks_count": 64,
+    "html_url": "https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-21972-vCenter-6.5-7.0-RCE-POC",
+    "repo_owner": "QmF0c3UK",
+    "repotime": "2021-03-01, 10:10:44",
+    "stargazers_count": 137,
+    "watchers_count": 137
+}

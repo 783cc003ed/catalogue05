@@ -121,3 +121,249 @@
     "stargazers_count": 5,
     "watchers_count": 5
 }
+{
+    "commits_count": 41,
+    "date_started": "2018-06-05",
+    "date_updated": "2018-06-30",
+    "description": "Sometimes chrome tabs get CPU hungry, whether malicious javascript is mining bitcoin or some simple web app memory leaked all over the place after leaving it open a few days (Office365, Google Keep, etc.). This is a very simple bash script that will aid in monitoring runaway Google Tabs on a Mac and Linux (and probably Win10)",
+    "forks_count": 0,
+    "html_url": "https://github.com/mdupuy/chromeTabMonitor",
+    "keywords": [
+        "Chrome memory leak"
+    ],
+    "language": "Shell",
+    "repo_name": "chromeTabMonitor",
+    "repo_owner": "mdupuy",
+    "repotime": "2018-06-30, 14:37:21",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-05-15",
+    "date_updated": "2018-06-25",
+    "description": "<no description>",
+    "forks_count": 51,
+    "html_url": "https://github.com/UWPCEWebPython/sql-injection-example",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sql-injection-example",
+    "repo_owner": "UWPCEWebPython",
+    "repotime": "2018-06-25, 23:50:20",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-03-31",
+    "date_updated": "2018-06-25",
+    "description": "<no description>",
+    "forks_count": 93,
+    "html_url": "https://github.com/pcewebpython/sql-injection-example",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sql-injection-example",
+    "repo_owner": "pcewebpython",
+    "repotime": "2018-06-25, 23:50:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-06-01",
+    "date_updated": "2018-06-18",
+    "description": "Server: Simulation of a server vulnerable to session hijacking via cookie interception. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/fuqianz/cookie-jar",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "cookie-jar",
+    "repo_owner": "fuqianz",
+    "repotime": "2018-06-18, 15:20:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2018-06-14",
+    "date_updated": "2018-06-16",
+    "description": "bypass uac",
+    "forks_count": 23,
+    "html_url": "https://github.com/liuxigu/bypassuac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "bypassuac",
+    "repo_owner": "liuxigu",
+    "repotime": "2018-06-16, 01:03:06",
+    "stargazers_count": 143,
+    "watchers_count": 143
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-06-09",
+    "date_updated": "2018-06-10",
+    "description": "&amp;quot;Zero Click&amp;quot; Remote Code Execution in Mycroft AI vocal assistant",
+    "forks_count": 22,
+    "html_url": "https://github.com/Nhoya/MycroftAI-RCE",
+    "keywords": [
+        "rce exploit",
+        "remote code execution vulnerability",
+        "remote code execution exploit",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "MycroftAI-RCE",
+    "repo_owner": "Nhoya",
+    "repotime": "2018-06-10, 17:49:33",
+    "stargazers_count": 53,
+    "watchers_count": 53
+}
+{
+    "commits_count": 6,
+    "date_started": "2016-06-22",
+    "date_updated": "2018-06-05",
+    "description": "guenther is a tool used to test web applications against Server Side Request abuse including Server Side Request Forgery. This tool was used in &amp;quot;Uses and Abuses of Server-Side Requests&amp;quot; RAID 2016, See http://trouge.net/gp/papers/SSR_raid2016.pdf",
+    "forks_count": 2,
+    "html_url": "https://github.com/tgianko/guenther",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "guenther",
+    "repo_owner": "tgianko",
+    "repotime": "2018-06-05, 23:54:40",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 41,
+    "date_started": "2018-06-05",
+    "date_updated": "2018-06-30",
+    "description": "Sometimes chrome tabs get CPU hungry, whether malicious javascript is mining bitcoin or some simple web app memory leaked all over the place after leaving it open a few days (Office365, Google Keep, etc.). This is a very simple bash script that will aid in monitoring runaway Google Tabs on a Mac and Linux (and probably Win10)",
+    "forks_count": 0,
+    "html_url": "https://github.com/mdupuy/chromeTabMonitor",
+    "keywords": [
+        "Chrome memory leak"
+    ],
+    "language": "Shell",
+    "repo_name": "chromeTabMonitor",
+    "repo_owner": "mdupuy",
+    "repotime": "2018-06-30, 14:37:21",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-05-15",
+    "date_updated": "2018-06-25",
+    "description": "<no description>",
+    "forks_count": 51,
+    "html_url": "https://github.com/UWPCEWebPython/sql-injection-example",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sql-injection-example",
+    "repo_owner": "UWPCEWebPython",
+    "repotime": "2018-06-25, 23:50:20",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-03-31",
+    "date_updated": "2018-06-25",
+    "description": "<no description>",
+    "forks_count": 93,
+    "html_url": "https://github.com/pcewebpython/sql-injection-example",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sql-injection-example",
+    "repo_owner": "pcewebpython",
+    "repotime": "2018-06-25, 23:50:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-06-01",
+    "date_updated": "2018-06-18",
+    "description": "Server: Simulation of a server vulnerable to session hijacking via cookie interception. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/fuqianz/cookie-jar",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "cookie-jar",
+    "repo_owner": "fuqianz",
+    "repotime": "2018-06-18, 15:20:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2018-06-14",
+    "date_updated": "2018-06-16",
+    "description": "bypass uac",
+    "forks_count": 23,
+    "html_url": "https://github.com/liuxigu/bypassuac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "bypassuac",
+    "repo_owner": "liuxigu",
+    "repotime": "2018-06-16, 01:03:06",
+    "stargazers_count": 143,
+    "watchers_count": 143
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-06-09",
+    "date_updated": "2018-06-10",
+    "description": "&amp;quot;Zero Click&amp;quot; Remote Code Execution in Mycroft AI vocal assistant",
+    "forks_count": 22,
+    "html_url": "https://github.com/Nhoya/MycroftAI-RCE",
+    "keywords": [
+        "rce exploit",
+        "remote code execution vulnerability",
+        "remote code execution exploit",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "MycroftAI-RCE",
+    "repo_owner": "Nhoya",
+    "repotime": "2018-06-10, 17:49:33",
+    "stargazers_count": 53,
+    "watchers_count": 53
+}
+{
+    "commits_count": 6,
+    "date_started": "2016-06-22",
+    "date_updated": "2018-06-05",
+    "description": "guenther is a tool used to test web applications against Server Side Request abuse including Server Side Request Forgery. This tool was used in &amp;quot;Uses and Abuses of Server-Side Requests&amp;quot; RAID 2016, See http://trouge.net/gp/papers/SSR_raid2016.pdf",
+    "forks_count": 2,
+    "html_url": "https://github.com/tgianko/guenther",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "guenther",
+    "repo_owner": "tgianko",
+    "repotime": "2018-06-05, 23:54:40",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

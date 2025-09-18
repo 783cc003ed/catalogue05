@@ -1,0 +1,37 @@
+{
+    "commits_count": 134,
+    "date_started": "2010-10-10",
+    "date_updated": "2013-12-29",
+    "description": "A Firefox extension that demonstrates HTTP session hijacking attacks.",
+    "forks_count": 635,
+    "html_url": "https://github.com/codebutler/firesheep",
+    "keywords": [
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
+    ],
+    "language": "C++",
+    "repo_name": "firesheep",
+    "repo_owner": "codebutler",
+    "repotime": "2013-12-29, 10:40:47",
+    "stargazers_count": 2350,
+    "watchers_count": 2350
+}
+{
+    "commits_count": 4,
+    "date_started": "2013-07-31",
+    "date_updated": "2013-12-24",
+    "description": "RCE Exploit PoC for Spring based RESTFul APIs using XStream as Unmarshaler",
+    "forks_count": 5,
+    "html_url": "https://github.com/pwntester/XStreamServer",
+    "keywords": [
+        "rce exploitation",
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "XStreamServer",
+    "repo_owner": "pwntester",
+    "repotime": "2013-12-24, 15:10:20",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}

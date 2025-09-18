@@ -215,3 +215,437 @@
     "stargazers_count": 6,
     "watchers_count": 6
 }
+{
+    "commits_count": 17,
+    "date_started": "2019-04-23",
+    "date_updated": "2019-04-24",
+    "description": "GitLab 11.4.7 SSRF配合redis远程执行代码",
+    "forks_count": 26,
+    "html_url": "https://github.com/jas502n/gitlab-SSRF-redis-RCE",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "gitlab-SSRF-redis-RCE",
+    "repo_owner": "jas502n",
+    "repotime": "2019-04-24, 15:09:40",
+    "stargazers_count": 123,
+    "watchers_count": 123
+}
+{
+    "commits_count": 7,
+    "date_started": "2019-05-17",
+    "date_updated": "2019-04-23",
+    "description": "Awesome Penetration Testing，hacker tools collection, metasploit exploit, meterpreter....struts2、weblogic, 0day,poc,apt,backdoor,VulApps,vuln,pentest-script,online to https://51pwn.com, or https://exploit-poc.com",
+    "forks_count": 1,
+    "html_url": "https://github.com/iqrok/myhktools",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "myhktools",
+    "repo_owner": "iqrok",
+    "repotime": "2019-04-23, 20:50:08",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-04-18",
+    "date_updated": "2019-04-18",
+    "description": "PoC for CVE-2018-18500 - Firefox Use-After-Free",
+    "forks_count": 17,
+    "html_url": "https://github.com/sophoslabs/CVE-2018-18500",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2018-18500",
+    "repo_owner": "sophoslabs",
+    "repotime": "2019-04-18, 13:32:46",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-04-18",
+    "date_updated": "2019-04-18",
+    "description": "Nagios IM 2.6 remote code execution exploit: CSRF + SQLi + RCE + LPE --&amp;gt; remote root",
+    "forks_count": 0,
+    "html_url": "https://github.com/polict/CVE-2019-9202",
+    "keywords": [
+        "remote code execution exploitation",
+        "lpe exploit",
+        "lpe exploitation",
+        "remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-9202",
+    "repo_owner": "polict",
+    "repotime": "2019-04-18, 19:18:39",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-04-16",
+    "date_updated": "2019-04-16",
+    "description": "XML External Entity for Internet Explorer11",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ormicron/IE11-XXE",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "IE11-XXE",
+    "repo_owner": "Ormicron",
+    "repotime": "2019-04-16, 13:37:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-04-10",
+    "date_updated": "2019-04-11",
+    "description": "CVE-2019-11076 - Cribl UI 1.5.0 allows remote attackers to run arbitrary commands via an unauthenticated web request",
+    "forks_count": 1,
+    "html_url": "https://github.com/livehybrid/poc-cribl-rce",
+    "keywords": [
+        "unauthenticated attacker",
+        "unauthenticated rce"
+    ],
+    "language": "JavaScript",
+    "repo_name": "poc-cribl-rce",
+    "repo_owner": "livehybrid",
+    "repotime": "2019-04-11, 13:50:11",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 17,
+    "date_started": "2018-03-26",
+    "date_updated": "2019-04-10",
+    "description": "a POC for the libc address leak using __libc_csu_init from the paper https://i.blackhat.com/briefings/asia/2018/asia-18-Marco-return-to-csu-a-new-method-to-bypass-the-64-bit-Linux-ASLR-wp.pdf",
+    "forks_count": 1,
+    "html_url": "https://github.com/andreafioraldi/leakyleak",
+    "keywords": [
+        "aslr bypass poc",
+        "address leak poc",
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "leakyleak",
+    "repo_owner": "andreafioraldi",
+    "repotime": "2019-04-10, 08:53:18",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 7,
+    "date_started": "2019-04-02",
+    "date_updated": "2019-04-05",
+    "description": "UAC Bypass with mmc via alpc",
+    "forks_count": 29,
+    "html_url": "https://github.com/DimopoulosElias/alpc-mmc-uac-bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "alpc-mmc-uac-bypass",
+    "repo_owner": "DimopoulosElias",
+    "repotime": "2019-04-05, 23:56:42",
+    "stargazers_count": 156,
+    "watchers_count": 156
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-04-01",
+    "date_updated": "2019-04-05",
+    "description": "In python not perl :P",
+    "forks_count": 1,
+    "html_url": "https://github.com/freddiebarrsmith/Winamp-5.12-Playlist-UNC-Path-Computer-Name-Overflow-Remote-Code-Execution-Exploit",
+    "keywords": [
+        "Win remote code execution",
+        "Win remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Winamp-5.12-Playlist-UNC-Path-Computer-Name-Overflow-Remote-Code-Execution-Exploit",
+    "repo_owner": "freddiebarrsmith",
+    "repotime": "2019-04-05, 15:43:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-02-28",
+    "date_updated": "2019-04-04",
+    "description": "MSF moudle jboss invoke deploy getshell Exploit  &amp;amp; Jboss jmx-console getshell exploit",
+    "forks_count": 21,
+    "html_url": "https://github.com/k8gege/JbossExploit",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "JbossExploit",
+    "repo_owner": "k8gege",
+    "repotime": "2019-04-04, 20:19:42",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-02-28",
+    "date_updated": "2019-04-04",
+    "description": "MSF moudle DotNetNuke GetShell &amp;amp; execute exploit",
+    "forks_count": 15,
+    "html_url": "https://github.com/k8gege/DotNetNukeEXPLOIT",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "DotNetNukeEXPLOIT",
+    "repo_owner": "k8gege",
+    "repotime": "2019-04-04, 20:14:55",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-04-03",
+    "date_updated": "2019-04-03",
+    "description": "It is a simple PoC of Improper Input Validation in python-gnupg 0.4.3 (CVE-2019-6690).",
+    "forks_count": 1,
+    "html_url": "https://github.com/brianwrf/CVE-2019-6690",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "Perl",
+    "repo_name": "CVE-2019-6690",
+    "repo_owner": "brianwrf",
+    "repotime": "2019-04-03, 15:57:21",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 17,
+    "date_started": "2019-04-23",
+    "date_updated": "2019-04-24",
+    "description": "GitLab 11.4.7 SSRF配合redis远程执行代码",
+    "forks_count": 26,
+    "html_url": "https://github.com/jas502n/gitlab-SSRF-redis-RCE",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "gitlab-SSRF-redis-RCE",
+    "repo_owner": "jas502n",
+    "repotime": "2019-04-24, 15:09:40",
+    "stargazers_count": 123,
+    "watchers_count": 123
+}
+{
+    "commits_count": 7,
+    "date_started": "2019-05-17",
+    "date_updated": "2019-04-23",
+    "description": "Awesome Penetration Testing，hacker tools collection, metasploit exploit, meterpreter....struts2、weblogic, 0day,poc,apt,backdoor,VulApps,vuln,pentest-script,online to https://51pwn.com, or https://exploit-poc.com",
+    "forks_count": 1,
+    "html_url": "https://github.com/iqrok/myhktools",
+    "keywords": [
+        "0day poc",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "myhktools",
+    "repo_owner": "iqrok",
+    "repotime": "2019-04-23, 20:50:08",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-04-18",
+    "date_updated": "2019-04-18",
+    "description": "PoC for CVE-2018-18500 - Firefox Use-After-Free",
+    "forks_count": 17,
+    "html_url": "https://github.com/sophoslabs/CVE-2018-18500",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2018-18500",
+    "repo_owner": "sophoslabs",
+    "repotime": "2019-04-18, 13:32:46",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-04-18",
+    "date_updated": "2019-04-18",
+    "description": "Nagios IM 2.6 remote code execution exploit: CSRF + SQLi + RCE + LPE --&amp;gt; remote root",
+    "forks_count": 0,
+    "html_url": "https://github.com/polict/CVE-2019-9202",
+    "keywords": [
+        "remote code execution exploitation",
+        "lpe exploit",
+        "lpe exploitation",
+        "remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-9202",
+    "repo_owner": "polict",
+    "repotime": "2019-04-18, 19:18:39",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-04-16",
+    "date_updated": "2019-04-16",
+    "description": "XML External Entity for Internet Explorer11",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ormicron/IE11-XXE",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "IE11-XXE",
+    "repo_owner": "Ormicron",
+    "repotime": "2019-04-16, 13:37:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-04-10",
+    "date_updated": "2019-04-11",
+    "description": "CVE-2019-11076 - Cribl UI 1.5.0 allows remote attackers to run arbitrary commands via an unauthenticated web request",
+    "forks_count": 1,
+    "html_url": "https://github.com/livehybrid/poc-cribl-rce",
+    "keywords": [
+        "unauthenticated attacker",
+        "unauthenticated rce"
+    ],
+    "language": "JavaScript",
+    "repo_name": "poc-cribl-rce",
+    "repo_owner": "livehybrid",
+    "repotime": "2019-04-11, 13:50:11",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 17,
+    "date_started": "2018-03-26",
+    "date_updated": "2019-04-10",
+    "description": "a POC for the libc address leak using __libc_csu_init from the paper https://i.blackhat.com/briefings/asia/2018/asia-18-Marco-return-to-csu-a-new-method-to-bypass-the-64-bit-Linux-ASLR-wp.pdf",
+    "forks_count": 1,
+    "html_url": "https://github.com/andreafioraldi/leakyleak",
+    "keywords": [
+        "aslr bypass poc",
+        "address leak poc",
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "leakyleak",
+    "repo_owner": "andreafioraldi",
+    "repotime": "2019-04-10, 08:53:18",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 7,
+    "date_started": "2019-04-02",
+    "date_updated": "2019-04-05",
+    "description": "UAC Bypass with mmc via alpc",
+    "forks_count": 30,
+    "html_url": "https://github.com/DimopoulosElias/alpc-mmc-uac-bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "alpc-mmc-uac-bypass",
+    "repo_owner": "DimopoulosElias",
+    "repotime": "2019-04-05, 23:56:42",
+    "stargazers_count": 158,
+    "watchers_count": 158
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-04-01",
+    "date_updated": "2019-04-05",
+    "description": "In python not perl :P",
+    "forks_count": 1,
+    "html_url": "https://github.com/freddiebarrsmith/Winamp-5.12-Playlist-UNC-Path-Computer-Name-Overflow-Remote-Code-Execution-Exploit",
+    "keywords": [
+        "Win remote code execution",
+        "Win remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Winamp-5.12-Playlist-UNC-Path-Computer-Name-Overflow-Remote-Code-Execution-Exploit",
+    "repo_owner": "freddiebarrsmith",
+    "repotime": "2019-04-05, 15:43:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-02-28",
+    "date_updated": "2019-04-04",
+    "description": "MSF moudle jboss invoke deploy getshell Exploit  &amp;amp; Jboss jmx-console getshell exploit",
+    "forks_count": 21,
+    "html_url": "https://github.com/k8gege/JbossExploit",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "JbossExploit",
+    "repo_owner": "k8gege",
+    "repotime": "2019-04-04, 20:19:42",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-02-28",
+    "date_updated": "2019-04-04",
+    "description": "MSF moudle DotNetNuke GetShell &amp;amp; execute exploit",
+    "forks_count": 15,
+    "html_url": "https://github.com/k8gege/DotNetNukeEXPLOIT",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "DotNetNukeEXPLOIT",
+    "repo_owner": "k8gege",
+    "repotime": "2019-04-04, 20:14:55",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-04-03",
+    "date_updated": "2019-04-03",
+    "description": "It is a simple PoC of Improper Input Validation in python-gnupg 0.4.3 (CVE-2019-6690).",
+    "forks_count": 1,
+    "html_url": "https://github.com/brianwrf/CVE-2019-6690",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "Perl",
+    "repo_name": "CVE-2019-6690",
+    "repo_owner": "brianwrf",
+    "repotime": "2019-04-03, 15:57:21",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
