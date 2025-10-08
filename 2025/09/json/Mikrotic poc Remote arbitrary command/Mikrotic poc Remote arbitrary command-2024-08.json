@@ -202,8 +202,8 @@
     "repo_name": "CVE-2024-6387",
     "repo_owner": "Karmakstylez",
     "repotime": "2024-08-22, 10:50:24",
-    "stargazers_count": 139,
-    "watchers_count": 139
+    "stargazers_count": 141,
+    "watchers_count": 141
 }
 {
     "commits_count": 12,
@@ -261,7 +261,7 @@
     "date_started": "2024-07-31",
     "date_updated": "2024-08-17",
     "description": "DeadPotato is a windows privilege escalation utility from the Potato family of exploits, leveraging the SeImpersonate right to obtain SYSTEM privileges.        This script has been customized from the original GodPotato source code by BeichenDream.",
-    "forks_count": 46,
+    "forks_count": 47,
     "html_url": "https://github.com/lypd0/DeadPotato",
     "keywords": [
         "escalation of privileges exploit",
@@ -274,8 +274,8 @@
     "repo_name": "DeadPotato",
     "repo_owner": "lypd0",
     "repotime": "2024-08-17, 08:08:28",
-    "stargazers_count": 440,
-    "watchers_count": 440
+    "stargazers_count": 439,
+    "watchers_count": 439
 }
 {
     "commits_count": 9,

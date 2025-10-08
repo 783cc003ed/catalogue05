@@ -272,3 +272,277 @@
     "stargazers_count": 6,
     "watchers_count": 6
 }
+{
+    "commits_count": 354,
+    "date_started": "2019-09-17",
+    "date_updated": "2023-09-28",
+    "description": "This software allows you to perform a deauth attack with an ESP8266 against selected networks. The ESP8266 is a cheap and easy to use Wi-Fi SoC (System-on-a-Chip), programmable with the Arduino IDE. With this software flashed onto it, you can select a target network and start different attacks.  The deauth attack will, if the connection is vulnerable, disconnect the devices from the network. Because the attack is running constantly, the devices will be disconnected again and again. Depending on the network, that can either block a connection or slow it down.  The difference between deauthing and jamming: WiFi Jammers vs Deauthers | What's The Difference?  Other attacks also have been implemented, such as beacon and probe request flooding.  The deauth attack works by exploiting an old and known vulnerability in the 802.11 Wi-Fi protocol. Because these deauthentication frames, usually used to close a Wi-Fi connection safely, are unencrypted, it's very easy to spoof them. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/dfalt0/NodeMCU-ESP8266",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "NodeMCU-ESP8266",
+    "repo_owner": "dfalt0",
+    "repotime": "2023-09-28, 02:37:33",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 25,
+    "date_started": "2023-09-19",
+    "date_updated": "2023-09-27",
+    "description": "A repository containing zero-day vulnerabilities and proof-of-concepts (PoCs) of undisclosed CVEs discovered during penetration testing or my security research",
+    "forks_count": 8,
+    "html_url": "https://github.com/j4k0m/godkiller",
+    "keywords": [
+        "zero-day proof of concept",
+        "zero-day vulnerability",
+        "zero-day poc"
+    ],
+    "language": null,
+    "repo_name": "godkiller",
+    "repo_owner": "j4k0m",
+    "repotime": "2023-09-27, 18:45:00",
+    "stargazers_count": 78,
+    "watchers_count": 78
+}
+{
+    "commits_count": 19,
+    "date_started": "2022-03-13",
+    "date_updated": "2023-09-25",
+    "description": "Automated privilege escalation of the world's most popular Docker images.",
+    "forks_count": 7,
+    "html_url": "https://github.com/trickest/containers",
+    "keywords": [
+        "escalation of privileges poc",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "containers",
+    "repo_owner": "trickest",
+    "repotime": "2023-09-25, 15:39:20",
+    "stargazers_count": 69,
+    "watchers_count": 69
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-09-23",
+    "date_updated": "2023-09-23",
+    "description": "TotalCMS is affected by Arbitrary File Upload - XSS vulnerability which allows Cross-Site Scriting (XSS) Stored and also stealing session cookies",
+    "forks_count": 0,
+    "html_url": "https://github.com/sromanhu/TotalCMS-Arbitrary_File-Upload--XSS_Steal_Cookies---TotalDepot",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "TotalCMS-Arbitrary_File-Upload--XSS_Steal_Cookies---TotalDepot",
+    "repo_owner": "sromanhu",
+    "repotime": "2023-09-23, 04:34:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-09-21",
+    "date_updated": "2023-09-21",
+    "description": "Proof-of-Concept (POC) of CVE-2023-38831 Zero-Day vulnerability in WinRAR",
+    "forks_count": 1,
+    "html_url": "https://github.com/malvika-thakur/CVE-2023-38831",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day proof of concept",
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831",
+    "repo_owner": "malvika-thakur",
+    "repotime": "2023-09-21, 15:00:59",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-08-13",
+    "date_updated": "2023-09-19",
+    "description": "IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463)",
+    "forks_count": 17,
+    "html_url": "https://github.com/Ibonok/CVE-2020-4463",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-4463",
+    "repo_owner": "Ibonok",
+    "repotime": "2023-09-19, 12:38:28",
+    "stargazers_count": 53,
+    "watchers_count": 53
+}
+{
+    "commits_count": 378,
+    "date_started": "2022-04-07",
+    "date_updated": "2023-09-12",
+    "description": "各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新",
+    "forks_count": 858,
+    "html_url": "https://github.com/helloexp/0day",
+    "keywords": [
+        "0day exploit",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day",
+    "repo_owner": "helloexp",
+    "repotime": "2023-09-12, 08:57:05",
+    "stargazers_count": 2199,
+    "watchers_count": 2199
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-09-11",
+    "date_updated": "2023-09-12",
+    "description": "Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php",
+    "forks_count": 0,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-4238-PoC",
+    "keywords": [
+        "0day poc",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-4238-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-12, 03:04:56",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 12,
+    "date_started": "2023-09-10",
+    "date_updated": "2023-09-11",
+    "description": "Infected version: winrar &amp;lt;= 6.22 have 0 day vulnerability which can lead to RCE in Windows.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sadnansakin/Winrar_0-day_RCE_Exploitation",
+    "keywords": [
+        "Win rce exploitation",
+        "Windows rce",
+        "Win rce",
+        "Win rce vulnerability",
+        "Windows rce vulnerability",
+        "Windows rce exploitation",
+        "Windows rce exploit",
+        "Win rce exploit"
+    ],
+    "language": null,
+    "repo_name": "Winrar_0-day_RCE_Exploitation",
+    "repo_owner": "sadnansakin",
+    "repotime": "2023-09-11, 02:17:40",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-09-10",
+    "date_updated": "2023-09-10",
+    "description": "Mass Exploit - CVE-2023-1698 &amp;lt;  Unauthenticated Remote Command Execution",
+    "forks_count": 3,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-1698-PoC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-1698-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-10, 04:36:35",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-09-05",
+    "date_updated": "2023-09-05",
+    "description": "EDUCATIONAL PURPOSES ONLY! Linux/x64 reverse TCP shell exploit via ELF memory processing",
+    "forks_count": 0,
+    "html_url": "https://github.com/Qyfashae/memfd_create_2023_Exploit",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "memfd_create_2023_Exploit",
+    "repo_owner": "Qyfashae",
+    "repotime": "2023-09-05, 14:33:37",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-09-05",
+    "date_updated": "2023-09-05",
+    "description": "Mass Exploit - CVE-2023-34747 - Ujcms - Arbitrary File Upload",
+    "forks_count": 0,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-34747-PoC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-34747-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-05, 07:39:19",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-09-05",
+    "date_updated": "2023-09-05",
+    "description": "Mass exploit - CVE-2023-41538 &amp;lt; phpjabbers PHP Forum &amp;lt; Cross Site Scripting (XSS)",
+    "forks_count": 0,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-41538-PoC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-41538-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-05, 07:32:35",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 588,
+    "date_started": "2015-03-12",
+    "date_updated": "2023-09-04",
+    "description": "㊙️ AntiXSS | Protection against Cross-site scripting (XSS) via PHP",
+    "forks_count": 109,
+    "html_url": "https://github.com/voku/anti-xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "anti-xss",
+    "repo_owner": "voku",
+    "repotime": "2023-09-04, 17:36:40",
+    "stargazers_count": 698,
+    "watchers_count": 698
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-08-30",
+    "date_updated": "2023-09-01",
+    "description": "Proof-of-Concept for CVE-2023-38831 Zero-Day vulnerability in WinRAR",
+    "forks_count": 0,
+    "html_url": "https://github.com/z3r0sw0rd/CVE-2023-38831-PoC",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day poc",
+        "zero-day proof of concept",
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831-PoC",
+    "repo_owner": "z3r0sw0rd",
+    "repotime": "2023-09-01, 15:37:20",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}

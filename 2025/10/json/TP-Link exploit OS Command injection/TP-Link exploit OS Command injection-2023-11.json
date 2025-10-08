@@ -1,0 +1,157 @@
+{
+    "commits_count": 84,
+    "date_started": "2016-09-01",
+    "date_updated": "2023-11-30",
+    "description": "OWASP Joomla Vulnerability Scanner Project https://www.secologist.com/",
+    "forks_count": 247,
+    "html_url": "https://github.com/OWASP/joomscan",
+    "keywords": [
+        "0day exploit",
+        "0day vulnerability"
+    ],
+    "language": "Raku",
+    "repo_name": "joomscan",
+    "repo_owner": "OWASP",
+    "repotime": "2023-11-30, 08:32:25",
+    "stargazers_count": 1142,
+    "watchers_count": 1142
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-10-20",
+    "date_updated": "2023-11-22",
+    "description": "The Proof of concept for abusing SeDebugPrivilege (Privilege Escalation in Windows)",
+    "forks_count": 4,
+    "html_url": "https://github.com/joaoviictorti/SeDebugAbuse-rs",
+    "keywords": [
+        "escalation of privileges proof of concept",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges proof of concept"
+    ],
+    "language": "Rust",
+    "repo_name": "SeDebugAbuse-rs",
+    "repo_owner": "joaoviictorti",
+    "repotime": "2023-11-22, 18:30:49",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-11-15",
+    "date_updated": "2023-11-19",
+    "description": "A simple http server designed to allow users to make a request to a url (to fetch content from news websites, for example). This code is purposely vulnerable to demonstrate the effect of server side request forgery attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Zende-Magloire/Insecure_news_fetcher",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Go",
+    "repo_name": "Insecure_news_fetcher",
+    "repo_owner": "Zende-Magloire",
+    "repotime": "2023-11-19, 21:51:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-11-09",
+    "date_updated": "2023-11-13",
+    "description": "Identified 5 vulnerabilities and mitigated them 1. Password/Session management 2. SQL injection (SQLi) 3. Cross-site scripting (XSS) - Reflected 4. Cross-site scripting (XSS) - Stored 5. Cross site request forgery (CSRF)",
+    "forks_count": 0,
+    "html_url": "https://github.com/h600853/Dat152Oblig4",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "Dat152Oblig4",
+    "repo_owner": "h600853",
+    "repotime": "2023-11-13, 23:57:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-11-10",
+    "date_updated": "2023-11-10",
+    "description": "Weaponized Exploit for Maltrail v0.53 Unauthenticated OS Command Injection (RCE)",
+    "forks_count": 0,
+    "html_url": "https://github.com/AnonymUZ-1/RCE1",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "RCE1",
+    "repo_owner": "AnonymUZ-1",
+    "repotime": "2023-11-10, 08:12:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-11-09",
+    "date_updated": "2023-11-09",
+    "description": "This script is designed to test for SQL injection vulnerabilities in the 74CMS `weixin.php` file. The vulnerability arises due to the lack of customization of the `libxml_disable_entity_loader` function, allowing XML External Entity (XXE) Injection, leading to SQL injection vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Pushkarup/74cms-weixin-sqli",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "74cms-weixin-sqli",
+    "repo_owner": "Pushkarup",
+    "repotime": "2023-11-09, 10:19:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 59,
+    "date_started": "2023-02-14",
+    "date_updated": "2023-11-07",
+    "description": "A simple tutorial on how to do reverse engineer and code injection on AMI BIOSes (Legacy)",
+    "forks_count": 12,
+    "html_url": "https://github.com/Theldus/AMI_BIOS_CodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "AMI_BIOS_CodeInjection",
+    "repo_owner": "Theldus",
+    "repotime": "2023-11-07, 17:29:05",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-11-03",
+    "date_updated": "2023-11-03",
+    "description": "This repository contains a Python script for detecting various types of vulnerabilities in network logs, including XSS, SQL injection, CORS, SSTI, LDAP injection, CRLF injection, code injection, SSI, LFI, RFI, XPath injection, Expression Language (EL) injection, XML injection, and Server-Side Request Forgery (SSRF).",
+    "forks_count": 0,
+    "html_url": "https://github.com/kucheganesh/Anomaly-Detection-In-Network",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "Anomaly-Detection-In-Network",
+    "repo_owner": "kucheganesh",
+    "repotime": "2023-11-03, 12:40:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-10-23",
+    "date_updated": "2023-11-02",
+    "description": "A general cybersecurity challenge that introduces privilege escalation, exploitation of bad programming practices and more.",
+    "forks_count": 0,
+    "html_url": "https://github.com/neosizzle/snow-crash",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "snow-crash",
+    "repo_owner": "neosizzle",
+    "repotime": "2023-11-02, 10:35:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

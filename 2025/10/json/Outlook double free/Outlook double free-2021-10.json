@@ -1,0 +1,122 @@
+{
+    "commits_count": 7,
+    "date_started": "2021-10-20",
+    "date_updated": "2021-10-28",
+    "description": "windows 10 14393 LPE",
+    "forks_count": 46,
+    "html_url": "https://github.com/KaLendsi/CVE-2021-40449-Exploit",
+    "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2021-40449-Exploit",
+    "repo_owner": "KaLendsi",
+    "repotime": "2021-10-28, 11:51:09",
+    "stargazers_count": 96,
+    "watchers_count": 96
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-10-30",
+    "date_updated": "2021-10-27",
+    "description": "Sleirsgoevy: PoC for the FontFaceSet vulnerability, which was wrongly classified as a use-after-free. Works only on PC for now. Please check if this prints &amp;quot;failed to guess...&amp;quot; for you. Especially interested in reports from 9.00.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ps4lib/900Test",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free poc"
+    ],
+    "language": null,
+    "repo_name": "900Test",
+    "repo_owner": "ps4lib",
+    "repotime": "2021-10-27, 11:37:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-24",
+    "date_updated": "2021-10-24",
+    "description": "1-Project Title “Library Management System (L_I_B_R_A)” The “Library Management System” has been developed to override the problems prevailing in the practicing manual system. This software is supported to eliminate and in some cases reduce the hardship faced by this existing system. Moreover this system is designed for the particular need of the institution to carry out operating in a smooth and effective manner. 2-Domain Library management institutional management non-profitable organization. 3-Problem of Statement In our existing system all the transaction of books are done manually, so taking more time for a transaction like borrowing a book or returning a book and also for searching of member and books. Another major disadvantage is that to preparing the list of book borrowed and the available book in the library will take more time, currently it is doing as a day process for verifying all records. So after conducting he feasibility study we decided to make the manual library mana...",
+    "forks_count": 4,
+    "html_url": "https://github.com/uttkarshparmar50/LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
+    "repo_owner": "uttkarshparmar50",
+    "repotime": "2021-10-24, 18:33:25",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 206,
+    "date_started": "2017-02-01",
+    "date_updated": "2021-10-20",
+    "description": "Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.",
+    "forks_count": 87,
+    "html_url": "https://github.com/tijme/angularjs-csti-scanner",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "Python",
+    "repo_name": "angularjs-csti-scanner",
+    "repo_owner": "tijme",
+    "repotime": "2021-10-20, 17:19:50",
+    "stargazers_count": 317,
+    "watchers_count": 317
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-10-09",
+    "date_updated": "2021-10-10",
+    "description": "Apache 2.4.49 Path Traversal Vulnerability Checker ",
+    "forks_count": 1,
+    "html_url": "https://github.com/EagleTube/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "EagleTube",
+    "repotime": "2021-10-10, 00:32:08",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 22,
+    "date_started": "2018-09-21",
+    "date_updated": "2021-10-06",
+    "description": "Sample code for Dependency Injection Principles, Practices, and Patterns",
+    "forks_count": 61,
+    "html_url": "https://github.com/DependencyInjection-2nd-edition/codesamples",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "codesamples",
+    "repo_owner": "DependencyInjection-2nd-edition",
+    "repotime": "2021-10-06, 22:15:45",
+    "stargazers_count": 161,
+    "watchers_count": 161
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-07-26",
+    "date_updated": "2021-10-04",
+    "description": "<no description>",
+    "forks_count": 12,
+    "html_url": "https://github.com/saaramar/IOMobileFrameBuffer_LPE_POC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "IOMobileFrameBuffer_LPE_POC",
+    "repo_owner": "saaramar",
+    "repotime": "2021-10-04, 12:30:26",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}

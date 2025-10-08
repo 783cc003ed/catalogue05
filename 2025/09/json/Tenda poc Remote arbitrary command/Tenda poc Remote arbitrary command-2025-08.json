@@ -186,40 +186,6 @@
     "watchers_count": 1960
 }
 {
-    "commits_count": 13,
-    "date_started": "2025-08-23",
-    "date_updated": "2025-08-24",
-    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
-    "forks_count": 1,
-    "html_url": "https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
-    "keywords": [
-        "sandbox escape exploit"
-    ],
-    "language": null,
-    "repo_name": "Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
-    "repo_owner": "JGoyd",
-    "repotime": "2025-08-24, 18:10:43",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
-    "commits_count": 99,
-    "date_started": "2025-08-24",
-    "date_updated": "2025-08-24",
-    "description": "Research project: Ensemble Deep Learning vs Traditional Signature-Based Methods for Zero-Day Malware Detection: A Comparative Analysis Using Behavioral Feature Extraction",
-    "forks_count": 0,
-    "html_url": "https://github.com/prashaant1926/ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "TeX",
-    "repo_name": "ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa",
-    "repo_owner": "prashaant1926",
-    "repotime": "2025-08-24, 10:24:48",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 42625,
     "date_started": "2025-08-24",
     "date_updated": "2025-08-24",
@@ -404,8 +370,8 @@
     "repo_name": "NucleiFuzzer",
     "repo_owner": "0xKayala",
     "repotime": "2025-08-20, 14:10:57",
-    "stargazers_count": 1702,
-    "watchers_count": 1702
+    "stargazers_count": 1704,
+    "watchers_count": 1704
 }
 {
     "commits_count": 4,
@@ -513,6 +479,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 111,
+    "date_started": "2022-01-23",
+    "date_updated": "2025-08-18",
+    "description": "Weaponizing WaybackUrls for Recon, BugBounties , OSINT, Sensitive Endpoints and what not",
+    "forks_count": 70,
+    "html_url": "https://github.com/anmolksachan/TheTimeMachine",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "TheTimeMachine",
+    "repo_owner": "anmolksachan",
+    "repotime": "2025-08-18, 11:28:09",
+    "stargazers_count": 462,
+    "watchers_count": 462
+}
+{
     "commits_count": 2,
     "date_started": "2025-08-16",
     "date_updated": "2025-08-15",
@@ -560,8 +543,8 @@
     "repo_name": "acra",
     "repo_owner": "cossacklabs",
     "repotime": "2025-08-14, 18:32:28",
-    "stargazers_count": 1428,
-    "watchers_count": 1428
+    "stargazers_count": 1429,
+    "watchers_count": 1429
 }
 {
     "commits_count": 1196,
@@ -585,7 +568,7 @@
     "date_started": "2022-07-04",
     "date_updated": "2025-08-14",
     "description": "<no description>",
-    "forks_count": 98,
+    "forks_count": 99,
     "html_url": "https://github.com/Edr4/XSS-Bypass-Filters",
     "keywords": [
         "xss"
@@ -594,8 +577,8 @@
     "repo_name": "XSS-Bypass-Filters",
     "repo_owner": "Edr4",
     "repotime": "2025-08-14, 14:10:06",
-    "stargazers_count": 564,
-    "watchers_count": 564
+    "stargazers_count": 565,
+    "watchers_count": 565
 }
 {
     "commits_count": 8,
@@ -687,7 +670,7 @@
     "date_started": "2017-03-06",
     "date_updated": "2025-08-12",
     "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
-    "forks_count": 367,
+    "forks_count": 370,
     "html_url": "https://github.com/ssl/ezXSS",
     "keywords": [
         "xss"
@@ -696,8 +679,8 @@
     "repo_name": "ezXSS",
     "repo_owner": "ssl",
     "repotime": "2025-08-12, 15:38:16",
-    "stargazers_count": 2119,
-    "watchers_count": 2119
+    "stargazers_count": 2123,
+    "watchers_count": 2123
 }
 {
     "commits_count": 560,
@@ -878,7 +861,7 @@
     "date_started": "2016-07-11",
     "date_updated": "2025-08-07",
     "description": " QRLJacking or Quick Response Code Login Jacking is a simple-but-nasty attack vector affecting all the applications that relays on “Login with QR code” feature as a secure way to login into accounts which aims for hijacking users session by attackers.",
-    "forks_count": 648,
+    "forks_count": 650,
     "html_url": "https://github.com/OWASP/QRLJacking",
     "keywords": [
         "session hijacking attack",
@@ -889,8 +872,8 @@
     "repo_name": "QRLJacking",
     "repo_owner": "OWASP",
     "repotime": "2025-08-07, 15:07:19",
-    "stargazers_count": 1441,
-    "watchers_count": 1441
+    "stargazers_count": 1442,
+    "watchers_count": 1442
 }
 {
     "commits_count": 11,
@@ -1232,6 +1215,6 @@
     "repo_name": "one_gadget",
     "repo_owner": "david942j",
     "repotime": "2025-08-01, 09:37:24",
-    "stargazers_count": 2226,
-    "watchers_count": 2226
+    "stargazers_count": 2228,
+    "watchers_count": 2228
 }

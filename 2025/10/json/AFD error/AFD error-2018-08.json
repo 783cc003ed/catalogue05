@@ -1,0 +1,87 @@
+{
+    "commits_count": 41,
+    "date_started": "2013-12-05",
+    "date_updated": "2018-08-31",
+    "description": "PHP shell that hijacks the the incoming socket connection to provide an interactive shell session on port 80",
+    "forks_count": 4,
+    "html_url": "https://github.com/BrianHeeseIs/BratShell",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "BratShell",
+    "repo_owner": "BrianHeeseIs",
+    "repotime": "2018-08-31, 12:47:34",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 12,
+    "date_started": "2018-05-22",
+    "date_updated": "2018-08-17",
+    "description": "Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.",
+    "forks_count": 82,
+    "html_url": "https://github.com/RhinoSecurityLabs/SleuthQL",
+    "keywords": [
+        "sql injection",
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "SleuthQL",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2018-08-17, 17:43:02",
+    "stargazers_count": 470,
+    "watchers_count": 470
+}
+{
+    "commits_count": 249,
+    "date_started": "2015-06-11",
+    "date_updated": "2018-08-14",
+    "description": "massive SQL injection vulnerability scanner",
+    "forks_count": 380,
+    "html_url": "https://github.com/the-robot/sqliv",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqliv",
+    "repo_owner": "the-robot",
+    "repotime": "2018-08-14, 19:28:45",
+    "stargazers_count": 1222,
+    "watchers_count": 1222
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-08-08",
+    "date_updated": "2018-08-08",
+    "description": "Vulnerability Name -Mail server Miss-configuration-&amp;gt;Missing SPF on Email Domain or Error in SPF  Description -  SPF/TXT Records  An SPF record is a type of Domain Name Service (DNS) record that identifies which mail servers are permitted to send email  on behalf of your domain. The purpose of an SPF record is to prevent spammers from sending messages with forged From  addresses at your domain.  Checking Missing SPF:-  There Are Various Ways of Checking Missing SPF Records on a website But the Most Common and Popular way is kitterman.com  Steps to Check SPF Records on a website:-  1.Go to http://www.kitterman.com/spf/validate.html  2.Enter Target Website http://bimserver.org/  3.If You seem any SPF Record than Domain is Not Vulnerable But if you see Nothing or Error in SPF Here then &amp;quot;HURRAY! You  Found a Bug&amp;quot;  Attack Scenario &amp;amp; PoC:-  Once There is No SPF Records. or Error in SPF  An Attacker Can Spoof Email Via any Fake Mailer Like emkei.cz  Attacker Can Send Email Fro...",
+    "forks_count": 0,
+    "html_url": "https://github.com/manishddhole/Vulnerability-Name--Mail-server-Miss-configuration--Missing-SPF-on-Email-Domain-or-Error-in-SPF-Des",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Vulnerability-Name--Mail-server-Miss-configuration--Missing-SPF-on-Email-Domain-or-Error-in-SPF-Des",
+    "repo_owner": "manishddhole",
+    "repotime": "2018-08-08, 18:23:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2017-10-06",
+    "date_updated": "2018-08-04",
+    "description": "The VirtualPath library normalises paths and prevents directory traversal attacks without querying a file system",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rayne/virtual-path",
+    "keywords": [
+        "directory traversal attack",
+        "path traversal attack"
+    ],
+    "language": "PHP",
+    "repo_name": "virtual-path",
+    "repo_owner": "Rayne",
+    "repotime": "2018-08-04, 23:49:34",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}

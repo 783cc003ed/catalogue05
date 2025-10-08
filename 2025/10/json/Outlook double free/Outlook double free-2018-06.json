@@ -1,0 +1,138 @@
+{
+    "commits_count": 41,
+    "date_started": "2018-06-05",
+    "date_updated": "2018-06-30",
+    "description": "Sometimes chrome tabs get CPU hungry, whether malicious javascript is mining bitcoin or some simple web app memory leaked all over the place after leaving it open a few days (Office365, Google Keep, etc.). This is a very simple bash script that will aid in monitoring runaway Google Tabs on a Mac and Linux (and probably Win10)",
+    "forks_count": 0,
+    "html_url": "https://github.com/mdupuy/chromeTabMonitor",
+    "keywords": [
+        "Chrome memory leak"
+    ],
+    "language": "Shell",
+    "repo_name": "chromeTabMonitor",
+    "repo_owner": "mdupuy",
+    "repotime": "2018-06-30, 14:37:21",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 13,
+    "date_started": "2017-11-08",
+    "date_updated": "2018-06-24",
+    "description": "Online Examination System Today Online Examination System has become a fast growing examination method because of its speed and accuracy. It is also needed less manpower to execute the examination. Almost all organizations now-a-days, are conducting their objective exams by online examination system, it saves students time in examinations. Organizations can also easily check the performance of the student that they give in an examination. As a result of this, organizations are releasing results in less time. It also helps the environment by saving paper. According to today’s requirement, online examination project in php is very useful to learn it.  What is an online examination system? In an online examination system examine get their user id and password with his/her admit card. This id is already saved in the examination server. When examine login to the server he/she get his/her profile already register. On the certain time examine gets the message to start the examination. All ans...",
+    "forks_count": 59,
+    "html_url": "https://github.com/projectworldsofficial/online-examination-systen-in-php",
+    "keywords": [
+        "use after free proof of concept"
+    ],
+    "language": "PHP",
+    "repo_name": "online-examination-systen-in-php",
+    "repo_owner": "projectworldsofficial",
+    "repotime": "2018-06-24, 05:52:43",
+    "stargazers_count": 114,
+    "watchers_count": 114
+}
+{
+    "commits_count": 35,
+    "date_started": "2018-03-25",
+    "date_updated": "2018-06-22",
+    "description": "Chrome extension to alert and possibly block IDN/Unicode websites and zero-day phishing websites using AI and Computer Vision.",
+    "forks_count": 9,
+    "html_url": "https://github.com/phishai/phish-protect",
+    "keywords": [
+        "Chrome zero-day"
+    ],
+    "language": "JavaScript",
+    "repo_name": "phish-protect",
+    "repo_owner": "phishai",
+    "repotime": "2018-06-22, 09:50:00",
+    "stargazers_count": 119,
+    "watchers_count": 119
+}
+{
+    "commits_count": 11,
+    "date_started": "2018-06-20",
+    "date_updated": "2018-06-20",
+    "description": "Simple RCE PoC for SLMail server on Windows XP SP3",
+    "forks_count": 2,
+    "html_url": "https://github.com/PinkP4nther/SLMail_PoC",
+    "keywords": [
+        "Windows rce",
+        "Windows rce poc",
+        "Windows rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "SLMail_PoC",
+    "repo_owner": "PinkP4nther",
+    "repotime": "2018-06-20, 19:35:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-06-16",
+    "date_updated": "2018-06-15",
+    "description": "&amp;&#35;35; All the News That's Fit to Scrape  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Overview  In this assignment, you'll create a web app that lets users view and leave comments on the latest news. But you're not going to actually write any articles; instead, you'll flex your Mongoose and Cheerio muscles to scrape news from another site.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Before You Begin  1. Create a GitHub repo for this assignment and clone it to your computer. Any name will do -- just make sure it's related to this project in some fashion.  2. Run `npm init`. When that's finished, install and save these npm packages:  3. express  4. express-handlebars  5. mongoose  6. body-parser  7. cheerio  8. request  9. **NOTE**: If you want to earn complete credit for your work, you must use all six of these packages in your assignment.  10. In order to deploy your project to Heroku, you must set up an mLab provision. mLab is remote MongoDB database that Heroku supports natively. Follow these steps to get it running:  11. Create a Heroku ...",
+    "forks_count": 2,
+    "html_url": "https://github.com/AJ906/NewsScraper",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "NewsScraper",
+    "repo_owner": "AJ906",
+    "repotime": "2018-06-15, 23:02:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-06-15",
+    "date_updated": "2018-06-15",
+    "description": "This is a quick POC for using the Matt Nelson (enigma0x3) technique for generating a malicious .SettingContent-ms extension type for remote code execution. This automates generating an HTA downloader and embeds it in the SettingContent-ms file for you and starts Apache.",
+    "forks_count": 19,
+    "html_url": "https://github.com/trustedsec/auto_SettingContent-ms",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "auto_SettingContent-ms",
+    "repo_owner": "trustedsec",
+    "repotime": "2018-06-15, 10:55:30",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-06-13",
+    "date_updated": "2018-06-13",
+    "description": "Implementing Cross-site Request Forgery protection in web applications via Double Submit Cookies Patterns  This app is a demonstration of how to prevent CSRF with double submit cookie patterns. What happens here is, a CSRF token is included in 2 places of a web form. One in the form itself and the other as a cookie. At the point of form validation, server side code checks if the token in the cookie and the token in the form are the same. If it is the same it's safe to process the information from the form.  This demonstration has 4 files in it. the index.php file contains the login form and the validation code for the login. At the point of login, it creates a CSRF token and sets a cookie from it. The protected.php file contains the are protected by the login, which is a contact form. When the page loads, a javascript code extracts the CSRF token from the cookie string and adds it into a hidden field in the form.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AnuCS/CSRF-Prevention",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "CSRF-Prevention",
+    "repo_owner": "AnuCS",
+    "repotime": "2018-06-13, 15:49:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2018-04-02",
+    "date_updated": "2018-06-10",
+    "description": "This is a simple, framework-agnostic library inspired by WordPress that helps you protect your PHP web apps from CSRF attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/programarivm/nonce-shield",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "nonce-shield",
+    "repo_owner": "programarivm",
+    "repotime": "2018-06-10, 13:12:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -1,0 +1,197 @@
+{
+    "commits_count": 6,
+    "date_started": "2019-02-24",
+    "date_updated": "2019-02-25",
+    "description": "🐱‍💻 Poc of CVE-2019-7238 - Nexus Repository Manager 3 Remote Code Execution 🐱‍💻",
+    "forks_count": 55,
+    "html_url": "https://github.com/mpgn/CVE-2019-7238",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-7238",
+    "repo_owner": "mpgn",
+    "repotime": "2019-02-25, 08:37:06",
+    "stargazers_count": 152,
+    "watchers_count": 152
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-10-11",
+    "date_updated": "2019-02-22",
+    "description": "Contrail: hard coded credentials (CVE-2017-10616) and XML External Entity (XXE) vulnerability (CVE-2017-10617)",
+    "forks_count": 1,
+    "html_url": "https://github.com/gteissier/CVE-2017-10617",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-10617",
+    "repo_owner": "gteissier",
+    "repotime": "2019-02-22, 07:03:24",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-02-21",
+    "date_updated": "2019-02-21",
+    "description": "A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.",
+    "forks_count": 0,
+    "html_url": "https://github.com/1X4/priv8Esc",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "priv8Esc",
+    "repo_owner": "1X4",
+    "repotime": "2019-02-21, 21:30:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-02-21",
+    "date_updated": "2019-02-21",
+    "description": "contrived buffer overflow vulnerability - use ROP to leak address of libc",
+    "forks_count": 0,
+    "html_url": "https://github.com/arca-lignea-infosec/buffer-overflow-exploit",
+    "keywords": [
+        "address leak vulnerability",
+        "address leak exploit"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "buffer-overflow-exploit",
+    "repo_owner": "arca-lignea-infosec",
+    "repotime": "2019-02-21, 16:04:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-02-15",
+    "date_updated": "2019-02-19",
+    "description": "Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy), CVE-2019-1003002 (Pipeline: Declarative)",
+    "forks_count": 87,
+    "html_url": "https://github.com/adamyordan/cve-2019-1003000-jenkins-rce-poc",
+    "keywords": [
+        "rce proof of concept",
+        "rce poc",
+        "rce exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "cve-2019-1003000-jenkins-rce-poc",
+    "repo_owner": "adamyordan",
+    "repotime": "2019-02-19, 21:12:38",
+    "stargazers_count": 312,
+    "watchers_count": 312
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-02-17",
+    "date_updated": "2019-02-19",
+    "description": "This tool is uses for SQLI+LFI+XSS+LFI+RCE Dorking and finding vulnerable sites.  ",
+    "forks_count": 20,
+    "html_url": "https://github.com/XPR1M3/sqli-lfi-xss-rce-dorker-and-auto-exploiter-Python-",
+    "keywords": [
+        "rce exploit",
+        "lfi",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "sqli-lfi-xss-rce-dorker-and-auto-exploiter-Python-",
+    "repo_owner": "XPR1M3",
+    "repotime": "2019-02-19, 11:25:25",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 7,
+    "date_started": "2019-02-01",
+    "date_updated": "2019-02-14",
+    "description": "&amp;&#35;35; LIRI Bot  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Overview  In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Before You Begin  1. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.  2. Make a new GitHub repository called liri-node-app and clone it to your computer.  3. To retrieve the data that will power this app, you'll need to send requests to the Bands in Town, Spotify and OMDB APIs. You'll find these Node packages crucial for your assignment.     * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)     * [Request](https://www.npmjs.com/package/request)       * You'll use Request to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.artists.bandsintown.c...",
+    "forks_count": 3,
+    "html_url": "https://github.com/mrc1234/Liri-Bot2019",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Liri-Bot2019",
+    "repo_owner": "mrc1234",
+    "repotime": "2019-02-14, 20:55:39",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 2202,
+    "date_started": "2019-02-13",
+    "date_updated": "2019-02-13",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/webmontagks/Local-File-Inclusion-Remote-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Local-File-Inclusion-Remote-File-Inclusion",
+    "repo_owner": "webmontagks",
+    "repotime": "2019-02-13, 11:33:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 150,
+    "date_started": "2017-12-13",
+    "date_updated": "2019-02-07",
+    "description": "Red-team tool to hook libc read syscall with a buffer overflow vulnerability.",
+    "forks_count": 6,
+    "html_url": "https://github.com/PLEXSolutions/readhook",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "C",
+    "repo_name": "readhook",
+    "repo_owner": "PLEXSolutions",
+    "repotime": "2019-02-07, 11:51:18",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-01-15",
+    "date_updated": "2019-02-03",
+    "description": "Training for SQL injections",
+    "forks_count": 9,
+    "html_url": "https://github.com/lucas-santoni/sqli-platform",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sqli-platform",
+    "repo_owner": "lucas-santoni",
+    "repotime": "2019-02-03, 15:18:40",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-02-01",
+    "date_updated": "2019-02-01",
+    "description": "Remote Code execution with EL Injection Vulnerabilities",
+    "forks_count": 0,
+    "html_url": "https://github.com/zerosecuritylab/Whitepaper",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Whitepaper",
+    "repo_owner": "zerosecuritylab",
+    "repotime": "2019-02-01, 10:15:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

@@ -1,0 +1,209 @@
+{
+    "commits_count": 23,
+    "date_started": "2024-11-11",
+    "date_updated": "2024-11-30",
+    "description": "AI-Powered Session Hijacking Prevention",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kaustubh73/CS_AI_Proj",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "CS_AI_Proj",
+    "repo_owner": "Kaustubh73",
+    "repotime": "2024-11-30, 13:54:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2020-07-06",
+    "date_updated": "2024-11-28",
+    "description": " A proof-of-concept Remote Desktop (RDP) session hijack utility",
+    "forks_count": 85,
+    "html_url": "https://github.com/bohops/SharpRDPHijack",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C#",
+    "repo_name": "SharpRDPHijack",
+    "repo_owner": "bohops",
+    "repotime": "2024-11-28, 01:08:58",
+    "stargazers_count": 490,
+    "watchers_count": 490
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-11-22",
+    "date_updated": "2024-11-22",
+    "description": "simple authentication system made with nextjs for session hijacking attack simulation",
+    "forks_count": 0,
+    "html_url": "https://github.com/AgungSukaAFK/simple-dvwa-auth-",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "TypeScript",
+    "repo_name": "simple-dvwa-auth-",
+    "repo_owner": "AgungSukaAFK",
+    "repotime": "2024-11-22, 21:07:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 40,
+    "date_started": "2021-04-22",
+    "date_updated": "2024-11-19",
+    "description": "Collection of Windows Privilege Escalation (Analyse/PoC/Exploit)",
+    "forks_count": 79,
+    "html_url": "https://github.com/ycdxsb/WindowsPrivilegeEscalation",
+    "keywords": [
+        "Win escalation of privileges poc",
+        "escalation of privileges poc",
+        "Win escalation of privileges",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges poc",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "WindowsPrivilegeEscalation",
+    "repo_owner": "ycdxsb",
+    "repotime": "2024-11-19, 21:39:12",
+    "stargazers_count": 420,
+    "watchers_count": 420
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-18",
+    "date_updated": "2024-11-18",
+    "description": "Source code of exploit for buffer overflow in Epp.sys kernel driver. This exploit leverages that buffer overflow to escalate privileges",
+    "forks_count": 0,
+    "html_url": "https://github.com/Amunius/EppLPE",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "C++",
+    "repo_name": "EppLPE",
+    "repo_owner": "Amunius",
+    "repotime": "2024-11-18, 15:23:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 145,
+    "date_started": "2021-10-28",
+    "date_updated": "2024-11-13",
+    "description": "Unauthenticated enumeration of AWS, Azure, and GCP Principals",
+    "forks_count": 33,
+    "html_url": "https://github.com/righteousgambit/quiet-riot",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "quiet-riot",
+    "repo_owner": "righteousgambit",
+    "repotime": "2024-11-13, 13:41:26",
+    "stargazers_count": 246,
+    "watchers_count": 246
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-04-23",
+    "date_updated": "2024-11-12",
+    "description": "NLP-based approach to detect some web attacks: xss, sqli, command injection, path traversal",
+    "forks_count": 0,
+    "html_url": "https://github.com/chadha-sridi/NLP-based_Web_Application_Firewall",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "NLP-based_Web_Application_Firewall",
+    "repo_owner": "chadha-sridi",
+    "repotime": "2024-11-12, 18:51:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-11-03",
+    "date_updated": "2024-11-12",
+    "description": "Basic PHP website for HTTP session hijacking demo.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lewpar/SessionHijackDemo",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "SessionHijackDemo",
+    "repo_owner": "lewpar",
+    "repotime": "2024-11-12, 15:57:02",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 21,
+    "date_started": "2024-06-14",
+    "date_updated": "2024-11-05",
+    "description": "<no description>",
+    "forks_count": 153,
+    "html_url": "https://github.com/breatheco-de/incident-report-for-sql-injection-exercise-project",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "incident-report-for-sql-injection-exercise-project",
+    "repo_owner": "breatheco-de",
+    "repotime": "2024-11-05, 16:38:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 269,
+    "date_started": "2021-09-08",
+    "date_updated": "2024-11-05",
+    "description": "Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022",
+    "forks_count": 77,
+    "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Automated-MUlti-UAC-Bypass",
+    "repo_owner": "x0xr00t",
+    "repotime": "2024-11-05, 13:45:21",
+    "stargazers_count": 450,
+    "watchers_count": 450
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-11-04",
+    "date_updated": "2024-11-04",
+    "description": "WP Query Console &amp;lt;= 1.0 - Unauthenticated Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/RandomRobbieBF/CVE-2024-50498",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-50498",
+    "repo_owner": "RandomRobbieBF",
+    "repotime": "2024-11-04, 22:15:03",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-06-13",
+    "date_updated": "2024-11-02",
+    "description": "This project simulates the effects of a buffer overflow and privilege escalation attack on a Windows system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lyamss/Hakai",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C#",
+    "repo_name": "Hakai",
+    "repo_owner": "lyamss",
+    "repotime": "2024-11-02, 19:16:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

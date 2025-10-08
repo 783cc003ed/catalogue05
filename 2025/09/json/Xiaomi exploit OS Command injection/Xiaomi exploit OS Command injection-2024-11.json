@@ -46,15 +46,15 @@
     "repo_name": "Tiny-XSS-Payloads",
     "repo_owner": "terjanq",
     "repotime": "2024-11-29, 23:58:22",
-    "stargazers_count": 2199,
-    "watchers_count": 2199
+    "stargazers_count": 2200,
+    "watchers_count": 2200
 }
 {
     "commits_count": 35,
     "date_started": "2023-02-16",
     "date_updated": "2024-11-28",
     "description": "SQLMutant is a powerful SQL injection testing tool that includes both passive and active reconnaissance processes for any given domain. It filters URLs to identify those with parameters susceptible to SQL injection formats and then performs injection attacks. These attacks include pattern matching, error analysis, and timing attacks.",
-    "forks_count": 36,
+    "forks_count": 37,
     "html_url": "https://github.com/blackhatethicalhacking/SQLMutant",
     "keywords": [
         "sql injection"
@@ -63,8 +63,8 @@
     "repo_name": "SQLMutant",
     "repo_owner": "blackhatethicalhacking",
     "repotime": "2024-11-28, 22:06:35",
-    "stargazers_count": 152,
-    "watchers_count": 152
+    "stargazers_count": 155,
+    "watchers_count": 155
 }
 {
     "commits_count": 14,

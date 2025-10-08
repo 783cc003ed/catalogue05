@@ -1035,28 +1035,6 @@ A DOTM file serves as both a template and a container for executing macros. By c
 ---
 
 # GitHub search -> docx Remote Code Execution
-# GarudRecon
-
-https://github.com/rix4uni/GarudRecon
-<blockquote>
-An automated recon tool for asset discovery and vulnerability scanning using open-source tools. Supports XSS, SQLi, LFI, RCE, IIS, Open Redirect, Swagger UI, .git exposures and more.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>rix4uni</code></td>
-    <td>Language: <code>Shell</code></td>
-    <td>Started: <code>2025-08-01 15:18:40+00:00</code></td>
-    <td>Latest: <code>2025-09-17 10:59:14+05:30</code></td></tr>
-<tr><td>Commits: <code>125</code></td>
-    <td>Stargazers: <code>116</code></td>
-    <td>Watchers: <code>116</code></td>
-    <td>Forks: <code>23</code></td></tr>
-</table>
-Keywords: rce vulnerability
-
----
-
-# GitHub search -> docx Remote Code Execution
 # smart-doc
 
 https://github.com/TongchengOpenSource/smart-doc
@@ -1068,13 +1046,57 @@ Smart-doc is a java restful api document generation tool. Smart-doc is based on 
 <tr><td>Owner: <code>TongchengOpenSource</code></td>
     <td>Language: <code>Java</code></td>
     <td>Started: <code>2019-09-10 01:23:13+00:00</code></td>
-    <td>Latest: <code>2025-09-17 11:55:29+08:00</code></td></tr>
-<tr><td>Commits: <code>2205</code></td>
+    <td>Latest: <code>2025-09-22 10:29:15+08:00</code></td></tr>
+<tr><td>Commits: <code>2206</code></td>
     <td>Stargazers: <code>1572</code></td>
     <td>Watchers: <code>1572</code></td>
     <td>Forks: <code>296</code></td></tr>
 </table>
 Keywords: code injection
+
+---
+
+# GitHub search -> docx Remote Code Execution
+# pentest-machine-writeups
+
+https://github.com/francescolonardo/pentest-machine-writeups
+<blockquote>
+Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>francescolonardo</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2024-09-27 09:16:40+00:00</code></td>
+    <td>Latest: <code>2025-09-21 15:40:41+02:00</code></td></tr>
+<tr><td>Commits: <code>612</code></td>
+    <td>Stargazers: <code>3</code></td>
+    <td>Watchers: <code>3</code></td>
+    <td>Forks: <code>1</code></td></tr>
+</table>
+Keywords: escalation of privileges exploit, escalation of privileges exploitation
+
+---
+
+# GitHub search -> docx Remote Code Execution
+# GarudRecon
+
+https://github.com/rix4uni/GarudRecon
+<blockquote>
+An automated recon tool for asset discovery and vulnerability scanning using open-source tools. Supports XSS, SQLi, LFI, RCE, IIS, Open Redirect, Swagger UI, .git exposures and more.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>rix4uni</code></td>
+    <td>Language: <code>Shell</code></td>
+    <td>Started: <code>2025-08-01 15:18:40+00:00</code></td>
+    <td>Latest: <code>2025-09-17 22:00:52+05:30</code></td></tr>
+<tr><td>Commits: <code>128</code></td>
+    <td>Stargazers: <code>119</code></td>
+    <td>Watchers: <code>119</code></td>
+    <td>Forks: <code>24</code></td></tr>
+</table>
+Keywords: rce vulnerability
 
 ---
 
@@ -1092,9 +1114,9 @@ Automatic SQL injection and database takeover tool
     <td>Started: <code>2012-06-26 09:52:15+00:00</code></td>
     <td>Latest: <code>2025-09-15 00:03:04+02:00</code></td></tr>
 <tr><td>Commits: <code>10456</code></td>
-    <td>Stargazers: <code>35308</code></td>
-    <td>Watchers: <code>35308</code></td>
-    <td>Forks: <code>6043</code></td></tr>
+    <td>Stargazers: <code>35341</code></td>
+    <td>Watchers: <code>35341</code></td>
+    <td>Forks: <code>6048</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -1158,33 +1180,11 @@ Collection of Hack The Box writeups, covering various challenges including Activ
     <td>Started: <code>2025-05-15 12:07:55+00:00</code></td>
     <td>Latest: <code>2025-09-09 03:07:06+08:00</code></td></tr>
 <tr><td>Commits: <code>13</code></td>
-    <td>Stargazers: <code>0</code></td>
-    <td>Watchers: <code>0</code></td>
+    <td>Stargazers: <code>1</code></td>
+    <td>Watchers: <code>1</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: escalation of privileges exploit
-
----
-
-# GitHub search -> docx Remote Code Execution
-# pentest-machine-writeups
-
-https://github.com/francescolonardo/pentest-machine-writeups
-<blockquote>
-Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>francescolonardo</code></td>
-    <td>Language: <code>None</code></td>
-    <td>Started: <code>2024-09-27 09:16:40+00:00</code></td>
-    <td>Latest: <code>2025-09-07 18:27:47+02:00</code></td></tr>
-<tr><td>Commits: <code>608</code></td>
-    <td>Stargazers: <code>3</code></td>
-    <td>Watchers: <code>3</code></td>
-    <td>Forks: <code>1</code></td></tr>
-</table>
-Keywords: escalation of privileges exploit, escalation of privileges exploitation
 
 ---
 
@@ -1207,6 +1207,28 @@ This project focuses on performing network forensic analysis on a captured &amp;
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: session attack
+
+---
+
+# GitHub search -> docx Remote Code Execution
+# TheTimeMachine
+
+https://github.com/anmolksachan/TheTimeMachine
+<blockquote>
+Weaponizing WaybackUrls for Recon, BugBounties , OSINT, Sensitive Endpoints and what not
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>anmolksachan</code></td>
+    <td>Language: <code>Python</code></td>
+    <td>Started: <code>2022-01-23 17:34:25+00:00</code></td>
+    <td>Latest: <code>2025-08-18 11:28:09+05:30</code></td></tr>
+<tr><td>Commits: <code>111</code></td>
+    <td>Stargazers: <code>462</code></td>
+    <td>Watchers: <code>462</code></td>
+    <td>Forks: <code>70</code></td></tr>
+</table>
+Keywords: lfi
 
 ---
 
@@ -1334,8 +1356,8 @@ Automate Recon XSS Bug Bounty
     <td>Started: <code>2024-09-10 16:08:56+00:00</code></td>
     <td>Latest: <code>2025-06-17 13:03:05-04:00</code></td></tr>
 <tr><td>Commits: <code>157</code></td>
-    <td>Stargazers: <code>169</code></td>
-    <td>Watchers: <code>169</code></td>
+    <td>Stargazers: <code>170</code></td>
+    <td>Watchers: <code>170</code></td>
     <td>Forks: <code>57</code></td></tr>
 </table>
 Keywords: xss
@@ -1510,9 +1532,9 @@ Most advanced XSS scanner.
     <td>Started: <code>2017-06-26 07:24:44+00:00</code></td>
     <td>Latest: <code>2025-04-26 14:17:06+05:30</code></td></tr>
 <tr><td>Commits: <code>478</code></td>
-    <td>Stargazers: <code>14311</code></td>
-    <td>Watchers: <code>14311</code></td>
-    <td>Forks: <code>2010</code></td></tr>
+    <td>Stargazers: <code>14319</code></td>
+    <td>Watchers: <code>14319</code></td>
+    <td>Forks: <code>2012</code></td></tr>
 </table>
 Keywords: xss
 
@@ -1818,8 +1840,8 @@ Image preview support for lf (list files) using Überzug
     <td>Started: <code>2020-02-13 20:40:27+00:00</code></td>
     <td>Latest: <code>2024-09-20 07:23:03+02:00</code></td></tr>
 <tr><td>Commits: <code>93</code></td>
-    <td>Stargazers: <code>269</code></td>
-    <td>Watchers: <code>269</code></td>
+    <td>Stargazers: <code>270</code></td>
+    <td>Watchers: <code>270</code></td>
     <td>Forks: <code>46</code></td></tr>
 </table>
 Keywords: lfi
@@ -1864,7 +1886,7 @@ GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interes
 <tr><td>Commits: <code>103</code></td>
     <td>Stargazers: <code>1361</code></td>
     <td>Watchers: <code>1361</code></td>
-    <td>Forks: <code>294</code></td></tr>
+    <td>Forks: <code>296</code></td></tr>
 </table>
 Keywords: lfi, ssrf
 
@@ -1906,8 +1928,8 @@ A tool for embedding XXE/XML exploits into different filetypes
     <td>Started: <code>2015-03-06 20:30:49+00:00</code></td>
     <td>Latest: <code>2024-07-10 21:54:08-04:00</code></td></tr>
 <tr><td>Commits: <code>109</code></td>
-    <td>Stargazers: <code>1107</code></td>
-    <td>Watchers: <code>1107</code></td>
+    <td>Stargazers: <code>1108</code></td>
+    <td>Watchers: <code>1108</code></td>
     <td>Forks: <code>235</code></td></tr>
 </table>
 Keywords: xxe
@@ -1994,8 +2016,8 @@ https://github.com/whitel1st/docem
     <td>Started: <code>2019-01-23 08:51:33+00:00</code></td>
     <td>Latest: <code>2024-01-28 15:41:50+01:00</code></td></tr>
 <tr><td>Commits: <code>21</code></td>
-    <td>Stargazers: <code>645</code></td>
-    <td>Watchers: <code>645</code></td>
+    <td>Stargazers: <code>646</code></td>
+    <td>Watchers: <code>646</code></td>
     <td>Forks: <code>103</code></td></tr>
 </table>
 Keywords: xxe
@@ -2016,8 +2038,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5871</code></td>
-    <td>Watchers: <code>5871</code></td>
+    <td>Stargazers: <code>5872</code></td>
+    <td>Watchers: <code>5872</code></td>
     <td>Forks: <code>703</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -2852,8 +2874,8 @@ Workshop given at Hack in Paris 2019
     <td>Started: <code>2020-12-21 14:59:21+00:00</code></td>
     <td>Latest: <code>2021-02-04 15:10:48-05:00</code></td></tr>
 <tr><td>Commits: <code>37</code></td>
-    <td>Stargazers: <code>124</code></td>
-    <td>Watchers: <code>124</code></td>
+    <td>Stargazers: <code>125</code></td>
+    <td>Watchers: <code>125</code></td>
     <td>Forks: <code>41</code></td></tr>
 </table>
 Keywords: xxe
@@ -3050,8 +3072,8 @@ Exploits written by the Rhino Security Labs team
     <td>Started: <code>2016-11-03 17:22:48+00:00</code></td>
     <td>Latest: <code>2019-08-08 13:28:37-07:00</code></td></tr>
 <tr><td>Commits: <code>68</code></td>
-    <td>Stargazers: <code>1085</code></td>
-    <td>Watchers: <code>1085</code></td>
+    <td>Stargazers: <code>1086</code></td>
+    <td>Watchers: <code>1086</code></td>
     <td>Forks: <code>295</code></td></tr>
 </table>
 Keywords: by_owner

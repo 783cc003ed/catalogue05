@@ -1,0 +1,140 @@
+{
+    "commits_count": 3,
+    "date_started": "2021-07-30",
+    "date_updated": "2021-07-30",
+    "description": "0day Windows/x64 Inject All Processes With Meterpreter Reverse Shell Shellcode (655 bytes)",
+    "forks_count": 18,
+    "html_url": "https://github.com/0dayNinja/Windows-x64-Processes-Injector",
+    "keywords": [
+        "Windows 0day",
+        "Win 0day"
+    ],
+    "language": "Assembly",
+    "repo_name": "Windows-x64-Processes-Injector",
+    "repo_owner": "0dayNinja",
+    "repotime": "2021-07-30, 13:00:48",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-12-17",
+    "date_updated": "2021-07-26",
+    "description": "A Windows Kernel LPE exploit for HEVD.sys targeting a stack overflow vulnerability on Windows 10 64-bit 1607 (RS1)",
+    "forks_count": 3,
+    "html_url": "https://github.com/HaShem9/HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
+    "keywords": [
+        "Windows lpe",
+        "lpe vulnerability",
+        "Win lpe vulnerability",
+        "Win lpe exploit",
+        "Windows lpe exploit",
+        "lpe exploitation",
+        "Win lpe exploitation",
+        "Windows lpe vulnerability",
+        "lpe exploit",
+        "Windows lpe exploitation",
+        "Win lpe"
+    ],
+    "language": null,
+    "repo_name": "HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
+    "repo_owner": "HaShem9",
+    "repotime": "2021-07-26, 21:52:44",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-07-27",
+    "date_updated": "2021-07-26",
+    "description": "A Windows Kernel LPE exploit for HEVD.sys targeting a stack overflow vulnerability on Windows 10 64-bit 1607 (RS1)",
+    "forks_count": 1,
+    "html_url": "https://github.com/NHPT/HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe exploit",
+        "Win lpe exploitation",
+        "Windows lpe",
+        "Windows lpe vulnerability",
+        "lpe vulnerability",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Win lpe vulnerability",
+        "Win lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": null,
+    "repo_name": "HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
+    "repo_owner": "NHPT",
+    "repotime": "2021-07-26, 21:52:44",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-11-05",
+    "date_updated": "2021-07-12",
+    "description": "Bypass UAC by abusing the Windows Defender Firewall Control Panel, environment variables, and shell protocol handlers",
+    "forks_count": 4,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity4-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity4-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-07-12, 12:57:11",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-10-28",
+    "date_updated": "2021-07-12",
+    "description": "Bypass UAC by abusing the Security Center CPL and hijacking a shell protocol handler",
+    "forks_count": 12,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity3-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity3-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-07-12, 12:56:56",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-10-13",
+    "date_updated": "2021-07-12",
+    "description": "Bypass UAC by abusing the Internet Explorer Add-on installer",
+    "forks_count": 11,
+    "html_url": "https://github.com/AzAgarampur/byeintegrity2-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "byeintegrity2-uac",
+    "repo_owner": "AzAgarampur",
+    "repotime": "2021-07-12, 12:56:38",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-07-06",
+    "date_updated": "2021-07-07",
+    "description": "Code Injection, Inject malicious payload via pagetables pml4.",
+    "forks_count": 60,
+    "html_url": "https://github.com/kkent030315/PageTableInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "PageTableInjection",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-07-07, 09:02:29",
+    "stargazers_count": 242,
+    "watchers_count": 242
+}

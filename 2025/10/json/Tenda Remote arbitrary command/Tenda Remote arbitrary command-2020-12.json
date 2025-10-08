@@ -1,0 +1,243 @@
+{
+    "commits_count": 5,
+    "date_started": "2020-11-13",
+    "date_updated": "2020-12-31",
+    "description": "Exploit for Laravel Remote Code Execution with API_KEY (CVE-2018-15133)",
+    "forks_count": 15,
+    "html_url": "https://github.com/aljavier/exploit_laravel_cve-2018-15133",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "exploit_laravel_cve-2018-15133",
+    "repo_owner": "aljavier",
+    "repotime": "2020-12-31, 16:34:30",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-12-30",
+    "date_updated": "2020-12-30",
+    "description": "&amp;&#35;35; Contributing to this repository &amp;lt;!-- omit in toc --&amp;gt;  &amp;&#35;35;&amp;&#35;35; Getting started &amp;lt;!-- omit in toc --&amp;gt;  Before you begin: - This site is powered by Node.js. Check to see if you're on the [version of node we support](contributing/development.md). - Have you read the [code of conduct](CODE_OF_CONDUCT.md)? - Check out the [existing issues](https://github.com/github/docs/issues) &amp;amp; see if we [accept contributions](&amp;&#35;35;types-of-contributions-memo) for your type of issue.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Use the 'make a contribution' button  ![](./assets/images/make-contribution.gif)  Navigating a new codebase can be challenging, so we're making that a little easier. As you're using docs.github.com, you may come across an article that you want to make an update to. You can click on the **make a contribution** button right on that article, which will take you to the file in this repo where you'll make your changes.  Before you make your changes, check to see if an [issue exists](https://...",
+    "forks_count": 8,
+    "html_url": "https://github.com/nima0011/nima0011",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "nima0011",
+    "repo_owner": "nima0011",
+    "repotime": "2020-12-30, 13:55:46",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 34,
+    "date_started": "2020-09-09",
+    "date_updated": "2020-12-25",
+    "description": "Mini Wordress Exploiter using CVE2020",
+    "forks_count": 10,
+    "html_url": "https://github.com/0xtn/wp-mini-exploiter",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "wp-mini-exploiter",
+    "repo_owner": "0xtn",
+    "repotime": "2020-12-25, 11:18:00",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-12-24",
+    "date_updated": "2020-12-24",
+    "description": "A simple script to bypass UAC in windows 10.",
+    "forks_count": 7,
+    "html_url": "https://github.com/Windows10-AdminHack/Admin-Hack-for-Windows",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Batchfile",
+    "repo_name": "Admin-Hack-for-Windows",
+    "repo_owner": "Windows10-AdminHack",
+    "repotime": "2020-12-24, 15:53:53",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 26,
+    "date_started": "2019-11-14",
+    "date_updated": "2020-12-21",
+    "description": "Wordpress IgniteUp plugin &amp;lt; 3.4.1 allows unauthenticated users to arbitrarily delete files on the webserver possibly causing DoS.",
+    "forks_count": 0,
+    "html_url": "https://github.com/administra1tor/CVE-2019-17234b-Exploit",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-17234b-Exploit",
+    "repo_owner": "administra1tor",
+    "repotime": "2020-12-21, 17:31:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-11-19",
+    "date_updated": "2020-12-21",
+    "description": "CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection",
+    "forks_count": 12,
+    "html_url": "https://github.com/eugenebmx/CVE-2020-13942",
+    "keywords": [
+        "rce poc",
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-13942",
+    "repo_owner": "eugenebmx",
+    "repotime": "2020-12-21, 14:48:48",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-11-21",
+    "date_updated": "2020-12-20",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/hangyi00789/Local-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Shell",
+    "repo_name": "Local-File-Inclusion",
+    "repo_owner": "hangyi00789",
+    "repotime": "2020-12-20, 19:11:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-12-16",
+    "date_updated": "2020-12-16",
+    "description": "Vulnerability Details about Infomir MAG324 IPTV 0day ",
+    "forks_count": 1,
+    "html_url": "https://github.com/viperbluff/Infomir-MAG324-Firmware-version-2.20.11-0day",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Infomir-MAG324-Firmware-version-2.20.11-0day",
+    "repo_owner": "viperbluff",
+    "repotime": "2020-12-16, 02:37:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 34,
+    "date_started": "2019-03-02",
+    "date_updated": "2020-12-13",
+    "description": "Remote Command Execution as SYSTEM on Windows IoT Core (releases available for Python2.7 &amp;amp; Python3)",
+    "forks_count": 90,
+    "html_url": "https://github.com/SafeBreach-Labs/SirepRAT",
+    "keywords": [
+        "Windows rce",
+        "rce exploit",
+        "Windows rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "SirepRAT",
+    "repo_owner": "SafeBreach-Labs",
+    "repotime": "2020-12-13, 11:52:54",
+    "stargazers_count": 384,
+    "watchers_count": 384
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-12-08",
+    "date_updated": "2020-12-07",
+    "description": "A python script to enumerate and attempt to get code execution from LFI vulnerabilities",
+    "forks_count": 10,
+    "html_url": "https://github.com/YagamiShadow/lfi-fuzz",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "lfi-fuzz",
+    "repo_owner": "YagamiShadow",
+    "repotime": "2020-12-07, 17:02:09",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 23,
+    "date_started": "2019-07-08",
+    "date_updated": "2020-12-06",
+    "description": "Redis 4.x/5.x RCE",
+    "forks_count": 151,
+    "html_url": "https://github.com/Dliv3/redis-rogue-server",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "redis-rogue-server",
+    "repo_owner": "Dliv3",
+    "repotime": "2020-12-06, 15:02:12",
+    "stargazers_count": 555,
+    "watchers_count": 555
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-10-15",
+    "date_updated": "2020-12-05",
+    "description": "SpringBoot Actuator未授权自动化利用，支持信息泄漏/RCE",
+    "forks_count": 23,
+    "html_url": "https://github.com/LFYSec/ActuatorExploit",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ActuatorExploit",
+    "repo_owner": "LFYSec",
+    "repotime": "2020-12-05, 21:57:34",
+    "stargazers_count": 231,
+    "watchers_count": 231
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-12-04",
+    "date_updated": "2020-12-04",
+    "description": "Running valgrind on windows powershell to test memory leaks in C++ projects",
+    "forks_count": 0,
+    "html_url": "https://github.com/SimonRenblad/valgrind-docker-powershell",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "PowerShell",
+    "repo_name": "valgrind-docker-powershell",
+    "repo_owner": "SimonRenblad",
+    "repotime": "2020-12-04, 21:46:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 57,
+    "date_started": "2020-05-06",
+    "date_updated": "2020-12-03",
+    "description": "<no description>",
+    "forks_count": 10,
+    "html_url": "https://github.com/Y000o/sql_injection_basic",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sql_injection_basic",
+    "repo_owner": "Y000o",
+    "repotime": "2020-12-03, 23:13:22",
+    "stargazers_count": 58,
+    "watchers_count": 58
+}

@@ -1,0 +1,173 @@
+{
+    "commits_count": 1,
+    "date_started": "2023-02-28",
+    "date_updated": "2023-02-28",
+    "description": "DDRace: Finding Concurrency UAF Vulnerabilities in Linux Drivers with Directed Fuzzing",
+    "forks_count": 0,
+    "html_url": "https://github.com/vul337/DDRace",
+    "keywords": [
+        "uaf vulnerability"
+    ],
+    "language": null,
+    "repo_name": "DDRace",
+    "repo_owner": "vul337",
+    "repotime": "2023-02-28, 16:28:06",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 127,
+    "date_started": "2018-08-22",
+    "date_updated": "2023-02-19",
+    "description": "VR Man-in-the-Room Attack and Command &amp;amp; Control Server Proof of Concept — Bigscreen",
+    "forks_count": 1,
+    "html_url": "https://github.com/mvondracek/VR-MitR-C2-Bigscreen",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "VR-MitR-C2-Bigscreen",
+    "repo_owner": "mvondracek",
+    "repotime": "2023-02-19, 23:43:42",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-02-05",
+    "date_updated": "2023-02-19",
+    "description": "Bypassing kernel patch protection runtime",
+    "forks_count": 3,
+    "html_url": "https://github.com/ByteWhite1x1/PatchGuardResearch",
+    "keywords": [
+        "kernel patch protection bypass",
+        "patchguard bypass"
+    ],
+    "language": null,
+    "repo_name": "PatchGuardResearch",
+    "repo_owner": "ByteWhite1x1",
+    "repotime": "2023-02-19, 21:56:29",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-10-10",
+    "date_updated": "2023-02-18",
+    "description": "XXRF Shots - Useful for testing SSRF vulnerability",
+    "forks_count": 29,
+    "html_url": "https://github.com/samhaxr/XXRF-Shots",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "JavaScript",
+    "repo_name": "XXRF-Shots",
+    "repo_owner": "samhaxr",
+    "repotime": "2023-02-18, 00:49:06",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-17",
+    "date_updated": "2023-02-17",
+    "description": "Uncontrolled search path in some Intel(R) QAT drivers for Windows before version 1.6 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-37340",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-37340",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-17, 14:23:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-12-25",
+    "date_updated": "2023-02-14",
+    "description": "Valgrind is an instrumentation framework for building dynamic analysis tools ,and for checking memory leaks. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/anastabiti/Valgrind-Docker-",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Makefile",
+    "repo_name": "Valgrind-Docker-",
+    "repo_owner": "anastabiti",
+    "repotime": "2023-02-14, 11:29:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 235,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-14",
+    "description": "Documentation of strategies and methods for the OSCP exam ranging from target enumeration, vulnerability assessment, exploits, to privilege escalation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/airadulescu/Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
+    "repo_owner": "airadulescu",
+    "repotime": "2023-02-14, 02:02:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 714,
+    "date_started": "2018-04-08",
+    "date_updated": "2023-02-13",
+    "description": "UAC bypass, Elevate, Persistence methods",
+    "forks_count": 388,
+    "html_url": "https://github.com/rootm0s/WinPwnage",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "WinPwnage",
+    "repo_owner": "rootm0s",
+    "repotime": "2023-02-13, 10:43:12",
+    "stargazers_count": 2706,
+    "watchers_count": 2706
+}
+{
+    "commits_count": 21,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-02-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/brancobruyneel/jest-memory-leak-poc",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "TypeScript",
+    "repo_name": "jest-memory-leak-poc",
+    "repo_owner": "brancobruyneel",
+    "repotime": "2023-02-09, 10:26:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-08",
+    "date_updated": "2023-02-08",
+    "description": "Improper input validation in driver adgnetworkwfpdrv.sys in Adguard For Windows x86 up to version 7.11 allows attacker to gain local privileges escalation. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2022-45770",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-45770",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-08, 20:20:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

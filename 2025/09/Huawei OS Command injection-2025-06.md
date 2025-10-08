@@ -223,46 +223,46 @@ The Exploit Database is maintained by OffSec, an information security training c
 ---
 
 # GitHub search -> Huawei OS Command injection
-# Nginx-Lua-Anti-DDoS
+# Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201
 
-https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS
+https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201
 <blockquote>
-A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...
+Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.
 </blockquote>
 
 <table><tr>
-<tr><td>Owner: <code>C0nw0nk</code></td>
-    <td>Language: <code>Lua</code></td>
-    <td>Started: <code>2019-08-21 23:52:09+00:00</code></td>
-    <td>Latest: <code>2025-09-18 08:10:51+00:00</code></td></tr>
-<tr><td>Commits: <code>352</code></td>
-    <td>Stargazers: <code>1361</code></td>
-    <td>Watchers: <code>1361</code></td>
-    <td>Forks: <code>294</code></td></tr>
+<tr><td>Owner: <code>JGoyd</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2025-08-23 05:08:06+00:00</code></td>
+    <td>Latest: <code>2025-09-21 17:08:34-04:00</code></td></tr>
+<tr><td>Commits: <code>14</code></td>
+    <td>Stargazers: <code>3</code></td>
+    <td>Watchers: <code>3</code></td>
+    <td>Forks: <code>3</code></td></tr>
 </table>
-Keywords: xml external entity, session attack, zero-day dos, zero-day vulnerability, zero-day exploitation, session vulnerability, zero-day exploit
+Keywords: sandbox escape exploit
 
 ---
 
 # GitHub search -> Huawei OS Command injection
-# dalfox
+# pentest-machine-writeups
 
-https://github.com/hahwul/dalfox
+https://github.com/francescolonardo/pentest-machine-writeups
 <blockquote>
-🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
+Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.
 </blockquote>
 
 <table><tr>
-<tr><td>Owner: <code>hahwul</code></td>
-    <td>Language: <code>Go</code></td>
-    <td>Started: <code>2020-04-12 07:04:10+00:00</code></td>
-    <td>Latest: <code>2025-09-18 07:56:34+09:00</code></td></tr>
-<tr><td>Commits: <code>2039</code></td>
-    <td>Stargazers: <code>4533</code></td>
-    <td>Watchers: <code>4533</code></td>
-    <td>Forks: <code>490</code></td></tr>
+<tr><td>Owner: <code>francescolonardo</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2024-09-27 09:16:40+00:00</code></td>
+    <td>Latest: <code>2025-09-21 15:40:41+02:00</code></td></tr>
+<tr><td>Commits: <code>612</code></td>
+    <td>Stargazers: <code>3</code></td>
+    <td>Watchers: <code>3</code></td>
+    <td>Forks: <code>1</code></td></tr>
 </table>
-Keywords: xss
+Keywords: escalation of privileges exploit, escalation of privileges exploitation
 
 ---
 
@@ -278,13 +278,233 @@ https://github.com/Nish344/CTF-walkthroughs
 <tr><td>Owner: <code>Nish344</code></td>
     <td>Language: <code>None</code></td>
     <td>Started: <code>2025-08-10 17:35:52+00:00</code></td>
-    <td>Latest: <code>2025-09-17 11:29:13+00:00</code></td></tr>
-<tr><td>Commits: <code>155</code></td>
+    <td>Latest: <code>2025-09-21 13:03:42+00:00</code></td></tr>
+<tr><td>Commits: <code>167</code></td>
     <td>Stargazers: <code>2</code></td>
     <td>Watchers: <code>2</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: escalation of privileges exploit
+
+---
+
+# GitHub search -> Huawei OS Command injection
+# dalfox
+
+https://github.com/hahwul/dalfox
+<blockquote>
+🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>hahwul</code></td>
+    <td>Language: <code>Go</code></td>
+    <td>Started: <code>2020-04-12 07:04:10+00:00</code></td>
+    <td>Latest: <code>2025-09-21 01:34:30+09:00</code></td></tr>
+<tr><td>Commits: <code>2041</code></td>
+    <td>Stargazers: <code>4548</code></td>
+    <td>Watchers: <code>4548</code></td>
+    <td>Forks: <code>494</code></td></tr>
+</table>
+Keywords: xss
+
+---
+
+# GitHub search -> Huawei OS Command injection
+# Nginx-Lua-Anti-DDoS
+
+https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS
+<blockquote>
+A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>C0nw0nk</code></td>
+    <td>Language: <code>Lua</code></td>
+    <td>Started: <code>2019-08-21 23:52:09+00:00</code></td>
+    <td>Latest: <code>2025-09-20 12:44:03+00:00</code></td></tr>
+<tr><td>Commits: <code>368</code></td>
+    <td>Stargazers: <code>1361</code></td>
+    <td>Watchers: <code>1361</code></td>
+    <td>Forks: <code>294</code></td></tr>
+</table>
+Keywords: xml external entity, session attack, zero-day dos, zero-day vulnerability, zero-day exploitation, session vulnerability, zero-day exploit
+
+---
+
+# GitHub search -> Huawei OS Command injection
+# -BookTryHackMe
+
+https://github.com/oraj25/-BookTryHackMe
+<blockquote>
+Test your web hacking skills on a simulated bookstore website! Explore multiple pages with realistic-looking content while uncovering hidden vulnerabilities including SQL Injection, XXE (XML External Entity), and IDOR (Insecure Direct Object References). Discover hidden flags by exploiting these vulnerabilities safely in a CTF environment.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>oraj25</code></td>
+    <td>Language: <code>HTML</code></td>
+    <td>Started: <code>2025-09-20 08:21:32+00:00</code></td>
+    <td>Latest: <code>2025-09-20 13:57:23+05:30</code></td></tr>
+<tr><td>Commits: <code>4</code></td>
+    <td>Stargazers: <code>0</code></td>
+    <td>Watchers: <code>0</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: xml external entity
+
+---
+
+# GitHub search -> Huawei OS Command injection
+# CodeAlpha_SecureCodeReview
+
+https://github.com/sahilbagde6/CodeAlpha_SecureCodeReview
+<blockquote>
+Identify flaws (like SQL injection, hardcoded passwords, lack of input validation).
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>sahilbagde6</code></td>
+    <td>Language: <code>Python</code></td>
+    <td>Started: <code>2025-09-19 14:36:06+00:00</code></td>
+    <td>Latest: <code>2025-09-19 20:31:04+05:30</code></td></tr>
+<tr><td>Commits: <code>4</code></td>
+    <td>Stargazers: <code>0</code></td>
+    <td>Watchers: <code>0</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: lack of input validation
+
+---
+
+# GitHub search -> Huawei OS Command injection
+# The-BookStore-TryHackMe-CTF-
+
+https://github.com/oraj25/The-BookStore-TryHackMe-CTF-
+<blockquote>
+Test your web hacking skills on a simulated bookstore website! Explore multiple pages with realistic-looking content while uncovering hidden vulnerabilities including SQL Injection, XXE (XML External Entity), and IDOR (Insecure Direct Object References). Discover hidden flags by exploiting these vulnerabilities safely in a CTF environment.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>oraj25</code></td>
+    <td>Language: <code>HTML</code></td>
+    <td>Started: <code>2025-09-19 12:41:19+00:00</code></td>
+    <td>Latest: <code>2025-09-19 18:52:16+05:30</code></td></tr>
+<tr><td>Commits: <code>6</code></td>
+    <td>Stargazers: <code>0</code></td>
+    <td>Watchers: <code>0</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: xml external entity
+
+---
+
+# GitHub search -> Huawei OS Command injection
+# ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa
+
+https://github.com/prashaant1926/ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa
+<blockquote>
+Research project: Ensemble Deep Learning vs Traditional Signature-Based Methods for Zero-Day Malware Detection: A Comparative Analysis Using Behavioral Feature Extraction
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>prashaant1926</code></td>
+    <td>Language: <code>TeX</code></td>
+    <td>Started: <code>2025-08-24 15:06:31+00:00</code></td>
+    <td>Latest: <code>2025-09-18 23:33:16-07:00</code></td></tr>
+<tr><td>Commits: <code>102</code></td>
+    <td>Stargazers: <code>0</code></td>
+    <td>Watchers: <code>0</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: zero-day analysis
+
+---
+
+# GitHub search -> Huawei OS Command injection
+# TOP
+
+https://github.com/GhostTroops/TOP
+<blockquote>
+TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>GhostTroops</code></td>
+    <td>Language: <code>Shell</code></td>
+    <td>Started: <code>2022-03-19 01:54:15+00:00</code></td>
+    <td>Latest: <code>2025-09-19 01:09:26+00:00</code></td></tr>
+<tr><td>Commits: <code>1311</code></td>
+    <td>Stargazers: <code>704</code></td>
+    <td>Watchers: <code>704</code></td>
+    <td>Forks: <code>122</code></td></tr>
+</table>
+Keywords: rce exploit, rce poc, rce vulnerability
+
+---
+
+# GitHub search -> Huawei OS Command injection
+# cloudgoat
+
+https://github.com/RhinoSecurityLabs/cloudgoat
+<blockquote>
+CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>RhinoSecurityLabs</code></td>
+    <td>Language: <code>Python</code></td>
+    <td>Started: <code>2018-07-17 00:21:08+00:00</code></td>
+    <td>Latest: <code>2025-09-18 09:44:41-05:00</code></td></tr>
+<tr><td>Commits: <code>745</code></td>
+    <td>Stargazers: <code>3335</code></td>
+    <td>Watchers: <code>3335</code></td>
+    <td>Forks: <code>699</code></td></tr>
+</table>
+Keywords: by_owner
+
+---
+
+# GitHub search -> Huawei OS Command injection
+# Gocomics-Depaywall
+
+https://github.com/Idiot-01/Gocomics-Depaywall
+<blockquote>
+Just a simple userscript to bypass the soft paywall on gocomics.com, and removes the adspaces as well.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Idiot-01</code></td>
+    <td>Language: <code>JavaScript</code></td>
+    <td>Started: <code>2025-04-04 11:57:13+00:00</code></td>
+    <td>Latest: <code>2025-09-18 19:44:32+08:00</code></td></tr>
+<tr><td>Commits: <code>29</code></td>
+    <td>Stargazers: <code>7</code></td>
+    <td>Watchers: <code>7</code></td>
+    <td>Forks: <code>1</code></td></tr>
+</table>
+Keywords: dep bypass
+
+---
+
+# GitHub search -> Huawei OS Command injection
+# GarudRecon
+
+https://github.com/rix4uni/GarudRecon
+<blockquote>
+An automated recon tool for asset discovery and vulnerability scanning using open-source tools. Supports XSS, SQLi, LFI, RCE, IIS, Open Redirect, Swagger UI, .git exposures and more.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>rix4uni</code></td>
+    <td>Language: <code>Shell</code></td>
+    <td>Started: <code>2025-08-01 15:18:40+00:00</code></td>
+    <td>Latest: <code>2025-09-17 22:00:52+05:30</code></td></tr>
+<tr><td>Commits: <code>128</code></td>
+    <td>Stargazers: <code>119</code></td>
+    <td>Watchers: <code>119</code></td>
+    <td>Forks: <code>24</code></td></tr>
+</table>
+Keywords: rce vulnerability
 
 ---
 
@@ -311,28 +531,6 @@ Keywords: session vulnerability
 ---
 
 # GitHub search -> Huawei OS Command injection
-# GarudRecon
-
-https://github.com/rix4uni/GarudRecon
-<blockquote>
-An automated recon tool for asset discovery and vulnerability scanning using open-source tools. Supports XSS, SQLi, LFI, RCE, IIS, Open Redirect, Swagger UI, .git exposures and more.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>rix4uni</code></td>
-    <td>Language: <code>Shell</code></td>
-    <td>Started: <code>2025-08-01 15:18:40+00:00</code></td>
-    <td>Latest: <code>2025-09-17 10:59:14+05:30</code></td></tr>
-<tr><td>Commits: <code>125</code></td>
-    <td>Stargazers: <code>116</code></td>
-    <td>Watchers: <code>116</code></td>
-    <td>Forks: <code>23</code></td></tr>
-</table>
-Keywords: rce vulnerability
-
----
-
-# GitHub search -> Huawei OS Command injection
 # smart-doc
 
 https://github.com/TongchengOpenSource/smart-doc
@@ -346,33 +544,11 @@ Smart-doc is a java restful api document generation tool. Smart-doc is based on 
     <td>Started: <code>2019-09-10 01:23:13+00:00</code></td>
     <td>Latest: <code>2025-09-17 11:55:29+08:00</code></td></tr>
 <tr><td>Commits: <code>2205</code></td>
-    <td>Stargazers: <code>1572</code></td>
-    <td>Watchers: <code>1572</code></td>
+    <td>Stargazers: <code>1573</code></td>
+    <td>Watchers: <code>1573</code></td>
     <td>Forks: <code>296</code></td></tr>
 </table>
 Keywords: code injection
-
----
-
-# GitHub search -> Huawei OS Command injection
-# TOP
-
-https://github.com/GhostTroops/TOP
-<blockquote>
-TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>GhostTroops</code></td>
-    <td>Language: <code>Shell</code></td>
-    <td>Started: <code>2022-03-19 01:54:15+00:00</code></td>
-    <td>Latest: <code>2025-09-17 01:07:22+00:00</code></td></tr>
-<tr><td>Commits: <code>1309</code></td>
-    <td>Stargazers: <code>704</code></td>
-    <td>Watchers: <code>704</code></td>
-    <td>Forks: <code>122</code></td></tr>
-</table>
-Keywords: rce exploit, rce poc, rce vulnerability
 
 ---
 
@@ -522,9 +698,9 @@ Automatic SQL injection and database takeover tool
     <td>Started: <code>2012-06-26 09:52:15+00:00</code></td>
     <td>Latest: <code>2025-09-15 00:03:04+02:00</code></td></tr>
 <tr><td>Commits: <code>10456</code></td>
-    <td>Stargazers: <code>35308</code></td>
-    <td>Watchers: <code>35308</code></td>
-    <td>Forks: <code>6043</code></td></tr>
+    <td>Stargazers: <code>35320</code></td>
+    <td>Watchers: <code>35320</code></td>
+    <td>Forks: <code>6046</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -544,9 +720,9 @@ Top disclosed reports from HackerOne
     <td>Started: <code>2019-04-19 06:11:04+00:00</code></td>
     <td>Latest: <code>2025-09-14 21:12:20+04:00</code></td></tr>
 <tr><td>Commits: <code>141</code></td>
-    <td>Stargazers: <code>4847</code></td>
-    <td>Watchers: <code>4847</code></td>
-    <td>Forks: <code>871</code></td></tr>
+    <td>Stargazers: <code>4856</code></td>
+    <td>Watchers: <code>4856</code></td>
+    <td>Forks: <code>872</code></td></tr>
 </table>
 Keywords: xxe, ssrf
 
@@ -566,9 +742,9 @@ Simple python script supported with BurpBouty profile that helps you to detect S
     <td>Started: <code>2022-07-27 12:04:11+00:00</code></td>
     <td>Latest: <code>2025-09-14 02:25:48+00:00</code></td></tr>
 <tr><td>Commits: <code>135</code></td>
-    <td>Stargazers: <code>621</code></td>
-    <td>Watchers: <code>621</code></td>
-    <td>Forks: <code>112</code></td></tr>
+    <td>Stargazers: <code>622</code></td>
+    <td>Watchers: <code>622</code></td>
+    <td>Forks: <code>113</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -861,28 +1037,6 @@ Keywords: sql injection
 ---
 
 # GitHub search -> Huawei OS Command injection
-# pentest-machine-writeups
-
-https://github.com/francescolonardo/pentest-machine-writeups
-<blockquote>
-Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>francescolonardo</code></td>
-    <td>Language: <code>None</code></td>
-    <td>Started: <code>2024-09-27 09:16:40+00:00</code></td>
-    <td>Latest: <code>2025-09-07 18:27:47+02:00</code></td></tr>
-<tr><td>Commits: <code>608</code></td>
-    <td>Stargazers: <code>3</code></td>
-    <td>Watchers: <code>3</code></td>
-    <td>Forks: <code>1</code></td></tr>
-</table>
-Keywords: escalation of privileges exploit, escalation of privileges exploitation
-
----
-
-# GitHub search -> Huawei OS Command injection
 # zero-day-research
 
 https://github.com/Yashh-G/zero-day-research
@@ -918,9 +1072,9 @@ best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect
     <td>Started: <code>2024-09-13 06:44:56+00:00</code></td>
     <td>Latest: <code>2025-09-05 14:11:21+02:00</code></td></tr>
 <tr><td>Commits: <code>134</code></td>
-    <td>Stargazers: <code>1313</code></td>
-    <td>Watchers: <code>1313</code></td>
-    <td>Forks: <code>292</code></td></tr>
+    <td>Stargazers: <code>1319</code></td>
+    <td>Watchers: <code>1319</code></td>
+    <td>Forks: <code>297</code></td></tr>
 </table>
 Keywords: lfi, xss
 
@@ -940,9 +1094,9 @@ https://github.com/Mr-xn/Penetration_Testing_POC
     <td>Started: <code>2019-07-24 03:37:55+00:00</code></td>
     <td>Latest: <code>2025-09-04 22:16:07+08:00</code></td></tr>
 <tr><td>Commits: <code>1802</code></td>
-    <td>Stargazers: <code>7069</code></td>
-    <td>Watchers: <code>7069</code></td>
-    <td>Forks: <code>2017</code></td></tr>
+    <td>Stargazers: <code>7071</code></td>
+    <td>Watchers: <code>7071</code></td>
+    <td>Forks: <code>2016</code></td></tr>
 </table>
 Keywords: rce poc, rce exploit
 
@@ -962,8 +1116,8 @@ Automatic SSRF fuzzer and exploitation tool
     <td>Started: <code>2018-10-15 19:08:26+00:00</code></td>
     <td>Latest: <code>2025-09-04 03:44:11-04:00</code></td></tr>
 <tr><td>Commits: <code>120</code></td>
-    <td>Stargazers: <code>3333</code></td>
-    <td>Watchers: <code>3333</code></td>
+    <td>Stargazers: <code>3337</code></td>
+    <td>Watchers: <code>3337</code></td>
     <td>Forks: <code>553</code></td></tr>
 </table>
 Keywords: ssrf
@@ -1094,8 +1248,8 @@ The extra fast, minimum code size, GC-free DI (Dependency Injection) library run
     <td>Started: <code>2020-06-02 11:57:34+00:00</code></td>
     <td>Latest: <code>2025-08-31 17:10:20+09:00</code></td></tr>
 <tr><td>Commits: <code>1405</code></td>
-    <td>Stargazers: <code>2482</code></td>
-    <td>Watchers: <code>2482</code></td>
+    <td>Stargazers: <code>2485</code></td>
+    <td>Watchers: <code>2485</code></td>
     <td>Forks: <code>218</code></td></tr>
 </table>
 Keywords: code injection
@@ -1345,50 +1499,6 @@ Keywords: escalation of privileges exploit
 ---
 
 # GitHub search -> Huawei OS Command injection
-# Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201
-
-https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201
-<blockquote>
-Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>JGoyd</code></td>
-    <td>Language: <code>None</code></td>
-    <td>Started: <code>2025-08-23 05:08:06+00:00</code></td>
-    <td>Latest: <code>2025-08-24 18:10:43-04:00</code></td></tr>
-<tr><td>Commits: <code>13</code></td>
-    <td>Stargazers: <code>3</code></td>
-    <td>Watchers: <code>3</code></td>
-    <td>Forks: <code>1</code></td></tr>
-</table>
-Keywords: sandbox escape exploit
-
----
-
-# GitHub search -> Huawei OS Command injection
-# ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa
-
-https://github.com/prashaant1926/ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa
-<blockquote>
-Research project: Ensemble Deep Learning vs Traditional Signature-Based Methods for Zero-Day Malware Detection: A Comparative Analysis Using Behavioral Feature Extraction
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>prashaant1926</code></td>
-    <td>Language: <code>TeX</code></td>
-    <td>Started: <code>2025-08-24 15:06:31+00:00</code></td>
-    <td>Latest: <code>2025-08-24 10:24:48-07:00</code></td></tr>
-<tr><td>Commits: <code>99</code></td>
-    <td>Stargazers: <code>0</code></td>
-    <td>Watchers: <code>0</code></td>
-    <td>Forks: <code>0</code></td></tr>
-</table>
-Keywords: zero-day analysis
-
----
-
-# GitHub search -> Huawei OS Command injection
 # Glbc-Modified
 
 https://github.com/Md-Monowarul-Amin/Glbc-Modified
@@ -1424,8 +1534,8 @@ An Advanced Web Application Firewall that protects against threats like SQL inje
     <td>Started: <code>2025-08-22 12:06:25+00:00</code></td>
     <td>Latest: <code>2025-08-22 17:15:31+05:00</code></td></tr>
 <tr><td>Commits: <code>7</code></td>
-    <td>Stargazers: <code>16</code></td>
-    <td>Watchers: <code>16</code></td>
+    <td>Stargazers: <code>17</code></td>
+    <td>Watchers: <code>17</code></td>
     <td>Forks: <code>1</code></td></tr>
 </table>
 Keywords: zero-day analysis
@@ -1490,8 +1600,8 @@ https://github.com/ShadowByte1/XSS
     <td>Started: <code>2024-08-06 00:43:29+00:00</code></td>
     <td>Latest: <code>2025-08-20 09:34:59+10:00</code></td></tr>
 <tr><td>Commits: <code>17</code></td>
-    <td>Stargazers: <code>118</code></td>
-    <td>Watchers: <code>118</code></td>
+    <td>Stargazers: <code>120</code></td>
+    <td>Watchers: <code>120</code></td>
     <td>Forks: <code>20</code></td></tr>
 </table>
 Keywords: xss
@@ -1644,9 +1754,9 @@ https://github.com/Edr4/XSS-Bypass-Filters
     <td>Started: <code>2022-07-04 17:24:59+00:00</code></td>
     <td>Latest: <code>2025-08-14 14:10:06+02:00</code></td></tr>
 <tr><td>Commits: <code>67</code></td>
-    <td>Stargazers: <code>564</code></td>
-    <td>Watchers: <code>564</code></td>
-    <td>Forks: <code>98</code></td></tr>
+    <td>Stargazers: <code>565</code></td>
+    <td>Watchers: <code>565</code></td>
+    <td>Forks: <code>99</code></td></tr>
 </table>
 Keywords: xss
 
@@ -2985,9 +3095,9 @@ Repository for information about 0-days exploited in-the-wild.
     <td>Language: <code>HTML</code></td>
     <td>Started: <code>2021-02-23 15:16:11+00:00</code></td>
     <td>Latest: <code>2025-07-08 11:51:33+02:00</code></td></tr>
-<tr><td>Commits: <code>136</code></td>
-    <td>Stargazers: <code>830</code></td>
-    <td>Watchers: <code>830</code></td>
+<tr><td>Commits: <code>137</code></td>
+    <td>Stargazers: <code>829</code></td>
+    <td>Watchers: <code>829</code></td>
     <td>Forks: <code>83</code></td></tr>
 </table>
 Keywords: 0day exploitation, 0day exploit
@@ -3369,28 +3479,6 @@ Keywords: code injection
 ---
 
 # GitHub search -> Huawei OS Command injection
-# cloudgoat
-
-https://github.com/RhinoSecurityLabs/cloudgoat
-<blockquote>
-CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>RhinoSecurityLabs</code></td>
-    <td>Language: <code>Python</code></td>
-    <td>Started: <code>2018-07-17 00:21:08+00:00</code></td>
-    <td>Latest: <code>2025-06-20 08:19:51-05:00</code></td></tr>
-<tr><td>Commits: <code>743</code></td>
-    <td>Stargazers: <code>3331</code></td>
-    <td>Watchers: <code>3331</code></td>
-    <td>Forks: <code>701</code></td></tr>
-</table>
-Keywords: by_owner
-
----
-
-# GitHub search -> Huawei OS Command injection
 # GradeSheetApp
 
 https://github.com/mohankumarcodes/GradeSheetApp
@@ -3602,8 +3690,8 @@ Cleans HTML to avoid XSS attacks
     <td>Started: <code>2013-06-25 15:20:43+00:00</code></td>
     <td>Latest: <code>2025-06-12 12:20:40+02:00</code></td></tr>
 <tr><td>Commits: <code>802</code></td>
-    <td>Stargazers: <code>1649</code></td>
-    <td>Watchers: <code>1649</code></td>
+    <td>Stargazers: <code>1650</code></td>
+    <td>Watchers: <code>1650</code></td>
     <td>Forks: <code>213</code></td></tr>
 </table>
 Keywords: xss
@@ -3756,8 +3844,8 @@ Code execution/injection technique using DLL PEB module structure manipulation
     <td>Started: <code>2025-06-04 14:16:19+00:00</code></td>
     <td>Latest: <code>2025-06-04 15:23:48+01:00</code></td></tr>
 <tr><td>Commits: <code>4</code></td>
-    <td>Stargazers: <code>174</code></td>
-    <td>Watchers: <code>174</code></td>
+    <td>Stargazers: <code>176</code></td>
+    <td>Watchers: <code>176</code></td>
     <td>Forks: <code>27</code></td></tr>
 </table>
 Keywords: code injection
@@ -4113,28 +4201,6 @@ This exam evaluated our ability to develop, test, and integrate advanced Java ap
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: csv injection
-
----
-
-# GitHub search -> Huawei OS Command injection
-# Gocomics-Depaywall
-
-https://github.com/Idiot-01/Gocomics-Depaywall
-<blockquote>
-Just a simple userscript to bypass the soft paywall on gocomics.com, and removes the adspaces as well.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>Idiot-01</code></td>
-    <td>Language: <code>JavaScript</code></td>
-    <td>Started: <code>2025-04-04 11:57:13+00:00</code></td>
-    <td>Latest: <code>2025-05-17 21:25:50+08:00</code></td></tr>
-<tr><td>Commits: <code>28</code></td>
-    <td>Stargazers: <code>7</code></td>
-    <td>Watchers: <code>7</code></td>
-    <td>Forks: <code>1</code></td></tr>
-</table>
-Keywords: dep bypass
 
 ---
 
@@ -4812,9 +4878,9 @@ Most advanced XSS scanner.
     <td>Started: <code>2017-06-26 07:24:44+00:00</code></td>
     <td>Latest: <code>2025-04-26 14:17:06+05:30</code></td></tr>
 <tr><td>Commits: <code>478</code></td>
-    <td>Stargazers: <code>14311</code></td>
-    <td>Watchers: <code>14311</code></td>
-    <td>Forks: <code>2010</code></td></tr>
+    <td>Stargazers: <code>14319</code></td>
+    <td>Watchers: <code>14319</code></td>
+    <td>Forks: <code>2012</code></td></tr>
 </table>
 Keywords: xss
 
@@ -6440,8 +6506,8 @@ K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/
     <td>Started: <code>2019-02-23 14:04:52+00:00</code></td>
     <td>Latest: <code>2025-01-25 14:32:49+08:00</code></td></tr>
 <tr><td>Commits: <code>441</code></td>
-    <td>Stargazers: <code>6062</code></td>
-    <td>Watchers: <code>6062</code></td>
+    <td>Stargazers: <code>6065</code></td>
+    <td>Watchers: <code>6065</code></td>
     <td>Forks: <code>2072</code></td></tr>
 </table>
 Keywords: 0day poc, 0day exploitation, 0day exploit, lpe exploit, rce exploit, lpe poc, lpe exploitation
@@ -6506,8 +6572,8 @@ https://github.com/trufflesecurity/xsshunter
     <td>Started: <code>2023-01-25 12:36:07+00:00</code></td>
     <td>Latest: <code>2025-01-22 15:35:19-08:00</code></td></tr>
 <tr><td>Commits: <code>223</code></td>
-    <td>Stargazers: <code>501</code></td>
-    <td>Watchers: <code>501</code></td>
+    <td>Stargazers: <code>503</code></td>
+    <td>Watchers: <code>503</code></td>
     <td>Forks: <code>138</code></td></tr>
 </table>
 Keywords: xss
@@ -6572,9 +6638,9 @@ Standalone man-in-the-middle attack framework used for phishing login credential
     <td>Started: <code>2018-07-10 09:59:52+00:00</code></td>
     <td>Latest: <code>2025-01-21 16:16:10+01:00</code></td></tr>
 <tr><td>Commits: <code>255</code></td>
-    <td>Stargazers: <code>13800</code></td>
-    <td>Watchers: <code>13800</code></td>
-    <td>Forks: <code>2402</code></td></tr>
+    <td>Stargazers: <code>13809</code></td>
+    <td>Watchers: <code>13809</code></td>
+    <td>Forks: <code>2403</code></td></tr>
 </table>
 Keywords: session attack
 
@@ -6682,8 +6748,8 @@ Modloader/Injector/Decompiler that supports ingame code injection for Balatro (L
     <td>Started: <code>2023-12-14 22:36:28+00:00</code></td>
     <td>Latest: <code>2025-01-11 12:09:02+01:00</code></td></tr>
 <tr><td>Commits: <code>265</code></td>
-    <td>Stargazers: <code>144</code></td>
-    <td>Watchers: <code>144</code></td>
+    <td>Stargazers: <code>145</code></td>
+    <td>Watchers: <code>145</code></td>
     <td>Forks: <code>20</code></td></tr>
 </table>
 Keywords: code injection
@@ -6792,8 +6858,8 @@ List of XSS Vectors/Payloads
     <td>Started: <code>2018-06-07 16:52:03+00:00</code></td>
     <td>Latest: <code>2025-01-02 11:17:31+03:00</code></td></tr>
 <tr><td>Commits: <code>57</code></td>
-    <td>Stargazers: <code>1324</code></td>
-    <td>Watchers: <code>1324</code></td>
+    <td>Stargazers: <code>1325</code></td>
+    <td>Watchers: <code>1325</code></td>
     <td>Forks: <code>270</code></td></tr>
 </table>
 Keywords: xss
@@ -7056,8 +7122,8 @@ LFITester is a Python3 program that automates the detection and exploitation of 
     <td>Started: <code>2021-05-08 13:19:49+00:00</code></td>
     <td>Latest: <code>2024-12-16 05:31:04-05:00</code></td></tr>
 <tr><td>Commits: <code>254</code></td>
-    <td>Stargazers: <code>109</code></td>
-    <td>Watchers: <code>109</code></td>
+    <td>Stargazers: <code>108</code></td>
+    <td>Watchers: <code>108</code></td>
     <td>Forks: <code>26</code></td></tr>
 </table>
 Keywords: lfi, local file inclusion
@@ -7342,8 +7408,8 @@ A collection of tiny XSS Payloads that can be used in different contexts. https:
     <td>Started: <code>2020-07-09 21:45:19+00:00</code></td>
     <td>Latest: <code>2024-11-29 23:58:22+00:00</code></td></tr>
 <tr><td>Commits: <code>43</code></td>
-    <td>Stargazers: <code>2199</code></td>
-    <td>Watchers: <code>2199</code></td>
+    <td>Stargazers: <code>2200</code></td>
+    <td>Watchers: <code>2200</code></td>
     <td>Forks: <code>216</code></td></tr>
 </table>
 Keywords: xss
@@ -7364,9 +7430,9 @@ SQLMutant is a powerful SQL injection testing tool that includes both passive an
     <td>Started: <code>2023-02-16 23:21:31+00:00</code></td>
     <td>Latest: <code>2024-11-28 22:06:35+02:00</code></td></tr>
 <tr><td>Commits: <code>35</code></td>
-    <td>Stargazers: <code>152</code></td>
-    <td>Watchers: <code>152</code></td>
-    <td>Forks: <code>36</code></td></tr>
+    <td>Stargazers: <code>154</code></td>
+    <td>Watchers: <code>154</code></td>
+    <td>Forks: <code>37</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -8002,9 +8068,9 @@ XSSRocket it is a tool designed for offensive security and XSS (Cross-Site Scrip
     <td>Started: <code>2023-01-24 12:59:08+00:00</code></td>
     <td>Latest: <code>2024-10-11 12:18:15+03:00</code></td></tr>
 <tr><td>Commits: <code>48</code></td>
-    <td>Stargazers: <code>146</code></td>
-    <td>Watchers: <code>146</code></td>
-    <td>Forks: <code>35</code></td></tr>
+    <td>Stargazers: <code>147</code></td>
+    <td>Watchers: <code>147</code></td>
+    <td>Forks: <code>36</code></td></tr>
 </table>
 Keywords: xss
 
@@ -8156,9 +8222,9 @@ hack tools
     <td>Started: <code>2017-04-30 10:59:56+00:00</code></td>
     <td>Latest: <code>2024-09-23 23:27:19+02:00</code></td></tr>
 <tr><td>Commits: <code>302</code></td>
-    <td>Stargazers: <code>1140</code></td>
-    <td>Watchers: <code>1140</code></td>
-    <td>Forks: <code>495</code></td></tr>
+    <td>Stargazers: <code>1142</code></td>
+    <td>Watchers: <code>1142</code></td>
+    <td>Forks: <code>496</code></td></tr>
 </table>
 Keywords: 0day exploit, 0day vulnerability
 
@@ -8288,8 +8354,8 @@ Cross Site &amp;quot;Scripter&amp;quot; (aka XSSer) is an automatic -framework- 
     <td>Started: <code>2012-12-15 21:59:53+00:00</code></td>
     <td>Latest: <code>2024-09-17 09:58:12+02:00</code></td></tr>
 <tr><td>Commits: <code>64</code></td>
-    <td>Stargazers: <code>1359</code></td>
-    <td>Watchers: <code>1359</code></td>
+    <td>Stargazers: <code>1360</code></td>
+    <td>Watchers: <code>1360</code></td>
     <td>Forks: <code>252</code></td></tr>
 </table>
 Keywords: xss
@@ -8486,8 +8552,8 @@ Checks for SSRF using built-in custom Payloads after fetching URLs from Multiple
     <td>Started: <code>2023-03-02 09:33:16+00:00</code></td>
     <td>Latest: <code>2024-09-06 16:12:31+03:00</code></td></tr>
 <tr><td>Commits: <code>18</code></td>
-    <td>Stargazers: <code>125</code></td>
-    <td>Watchers: <code>125</code></td>
+    <td>Stargazers: <code>126</code></td>
+    <td>Watchers: <code>126</code></td>
     <td>Forks: <code>25</code></td></tr>
 </table>
 Keywords: ssrf
@@ -8970,8 +9036,8 @@ A list of resources for those interested in getting started in bug bounties
     <td>Started: <code>2019-01-15 19:30:25+00:00</code></td>
     <td>Latest: <code>2024-07-23 10:01:39-07:00</code></td></tr>
 <tr><td>Commits: <code>93</code></td>
-    <td>Stargazers: <code>11516</code></td>
-    <td>Watchers: <code>11516</code></td>
+    <td>Stargazers: <code>11519</code></td>
+    <td>Watchers: <code>11519</code></td>
     <td>Forks: <code>1994</code></td></tr>
 </table>
 Keywords: ssrf
@@ -9212,8 +9278,8 @@ Java web common vulnerabilities and security code which is base on springboot an
     <td>Started: <code>2017-12-26 06:54:35+00:00</code></td>
     <td>Latest: <code>2024-06-28 09:52:04+08:00</code></td></tr>
 <tr><td>Commits: <code>162</code></td>
-    <td>Stargazers: <code>2590</code></td>
-    <td>Watchers: <code>2590</code></td>
+    <td>Stargazers: <code>2592</code></td>
+    <td>Watchers: <code>2592</code></td>
     <td>Forks: <code>706</code></td></tr>
 </table>
 Keywords: rce vulnerability, xxe, ssrf
@@ -9388,9 +9454,9 @@ PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC
     <td>Started: <code>2024-06-07 09:52:54+00:00</code></td>
     <td>Latest: <code>2024-06-07 05:53:14-04:00</code></td></tr>
 <tr><td>Commits: <code>2</code></td>
-    <td>Stargazers: <code>295</code></td>
-    <td>Watchers: <code>295</code></td>
-    <td>Forks: <code>62</code></td></tr>
+    <td>Stargazers: <code>296</code></td>
+    <td>Watchers: <code>296</code></td>
+    <td>Forks: <code>61</code></td></tr>
 </table>
 Keywords: remote code execution poc, code injection
 
@@ -10048,8 +10114,8 @@ An automation tool that enumerates subdomains then filters out xss, sqli, open r
     <td>Started: <code>2021-08-29 18:37:49+00:00</code></td>
     <td>Latest: <code>2024-04-28 18:49:52+05:30</code></td></tr>
 <tr><td>Commits: <code>60</code></td>
-    <td>Stargazers: <code>1250</code></td>
-    <td>Watchers: <code>1250</code></td>
+    <td>Stargazers: <code>1253</code></td>
+    <td>Watchers: <code>1253</code></td>
     <td>Forks: <code>208</code></td></tr>
 </table>
 Keywords: rce vulnerability, lfi, ssrf
@@ -10158,8 +10224,8 @@ a nice code injection engine for Wii games
     <td>Started: <code>2015-06-29 01:23:07+00:00</code></td>
     <td>Latest: <code>2024-04-21 04:47:29-04:00</code></td></tr>
 <tr><td>Commits: <code>79</code></td>
-    <td>Stargazers: <code>87</code></td>
-    <td>Watchers: <code>87</code></td>
+    <td>Stargazers: <code>88</code></td>
+    <td>Watchers: <code>88</code></td>
     <td>Forks: <code>13</code></td></tr>
 </table>
 Keywords: code injection
@@ -10488,8 +10554,8 @@ Code injection on Android without ptrace
     <td>Started: <code>2024-02-21 21:23:49+00:00</code></td>
     <td>Latest: <code>2024-03-20 11:57:45+01:00</code></td></tr>
 <tr><td>Commits: <code>33</code></td>
-    <td>Stargazers: <code>255</code></td>
-    <td>Watchers: <code>255</code></td>
+    <td>Stargazers: <code>256</code></td>
+    <td>Watchers: <code>256</code></td>
     <td>Forks: <code>58</code></td></tr>
 </table>
 Keywords: code injection
@@ -11060,8 +11126,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5871</code></td>
-    <td>Watchers: <code>5871</code></td>
+    <td>Stargazers: <code>5872</code></td>
+    <td>Watchers: <code>5872</code></td>
     <td>Forks: <code>703</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -12028,8 +12094,8 @@ Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns
     <td>Started: <code>2013-10-21 06:05:17+00:00</code></td>
     <td>Latest: <code>2023-07-28 15:05:27-05:00</code></td></tr>
 <tr><td>Commits: <code>541</code></td>
-    <td>Stargazers: <code>1539</code></td>
-    <td>Watchers: <code>1539</code></td>
+    <td>Stargazers: <code>1540</code></td>
+    <td>Watchers: <code>1540</code></td>
     <td>Forks: <code>420</code></td></tr>
 </table>
 Keywords: lfi
@@ -12732,8 +12798,8 @@ https://github.com/payloadbox/xxe-injection-payload-list
     <td>Started: <code>2019-11-19 05:04:25+00:00</code></td>
     <td>Latest: <code>2023-04-28 23:49:11+03:00</code></td></tr>
 <tr><td>Commits: <code>15</code></td>
-    <td>Stargazers: <code>1205</code></td>
-    <td>Watchers: <code>1205</code></td>
+    <td>Stargazers: <code>1207</code></td>
+    <td>Watchers: <code>1207</code></td>
     <td>Forks: <code>325</code></td></tr>
 </table>
 Keywords: xml external entity, xxe
@@ -12754,8 +12820,8 @@ https://github.com/payloadbox/ssti-payloads
     <td>Started: <code>2020-06-27 08:43:13+00:00</code></td>
     <td>Latest: <code>2023-04-28 23:48:39+03:00</code></td></tr>
 <tr><td>Commits: <code>20</code></td>
-    <td>Stargazers: <code>690</code></td>
-    <td>Watchers: <code>690</code></td>
+    <td>Stargazers: <code>691</code></td>
+    <td>Watchers: <code>691</code></td>
     <td>Forks: <code>150</code></td></tr>
 </table>
 Keywords: code injection
@@ -13502,8 +13568,8 @@ bXSS is a utility which can be used by bug hunters and organizations to identify
     <td>Started: <code>2017-12-13 23:49:38+00:00</code></td>
     <td>Latest: <code>2023-01-17 16:45:07-08:00</code></td></tr>
 <tr><td>Commits: <code>170</code></td>
-    <td>Stargazers: <code>548</code></td>
-    <td>Watchers: <code>548</code></td>
+    <td>Stargazers: <code>547</code></td>
+    <td>Watchers: <code>547</code></td>
     <td>Forks: <code>65</code></td></tr>
 </table>
 Keywords: xss
@@ -15878,8 +15944,8 @@ A POC for the new injection technique, abusing windows fork API to evade EDRs. h
     <td>Started: <code>2022-11-24 10:54:00+00:00</code></td>
     <td>Latest: <code>2022-12-08 02:18:38+02:00</code></td></tr>
 <tr><td>Commits: <code>3</code></td>
-    <td>Stargazers: <code>656</code></td>
-    <td>Watchers: <code>656</code></td>
+    <td>Stargazers: <code>657</code></td>
+    <td>Watchers: <code>657</code></td>
     <td>Forks: <code>88</code></td></tr>
 </table>
 Keywords: code injection
@@ -16054,9 +16120,9 @@ https://github.com/payloadbox/xss-payload-list
     <td>Started: <code>2018-04-23 06:09:29+00:00</code></td>
     <td>Latest: <code>2022-10-29 12:49:04+03:00</code></td></tr>
 <tr><td>Commits: <code>51</code></td>
-    <td>Stargazers: <code>7522</code></td>
-    <td>Watchers: <code>7522</code></td>
-    <td>Forks: <code>1849</code></td></tr>
+    <td>Stargazers: <code>7532</code></td>
+    <td>Watchers: <code>7532</code></td>
+    <td>Forks: <code>1852</code></td></tr>
 </table>
 Keywords: xss
 
@@ -16846,9 +16912,9 @@ This tool generates gopher link for exploiting SSRF and gaining RCE in various s
     <td>Started: <code>2018-08-11 20:18:39+00:00</code></td>
     <td>Latest: <code>2022-07-11 17:41:56+05:30</code></td></tr>
 <tr><td>Commits: <code>33</code></td>
-    <td>Stargazers: <code>3193</code></td>
-    <td>Watchers: <code>3193</code></td>
-    <td>Forks: <code>396</code></td></tr>
+    <td>Stargazers: <code>3197</code></td>
+    <td>Watchers: <code>3197</code></td>
+    <td>Forks: <code>395</code></td></tr>
 </table>
 Keywords: rce exploit, rce exploitation, ssrf
 
@@ -17484,9 +17550,9 @@ XSS spider - 66/66 wavsep XSS detected
     <td>Started: <code>2014-06-23 11:20:23+00:00</code></td>
     <td>Latest: <code>2022-04-25 12:15:45-04:00</code></td></tr>
 <tr><td>Commits: <code>153</code></td>
-    <td>Stargazers: <code>1719</code></td>
-    <td>Watchers: <code>1719</code></td>
-    <td>Forks: <code>446</code></td></tr>
+    <td>Stargazers: <code>1718</code></td>
+    <td>Watchers: <code>1718</code></td>
+    <td>Forks: <code>447</code></td></tr>
 </table>
 Keywords: xss
 
@@ -17946,8 +18012,8 @@ HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors
     <td>Started: <code>2014-03-28 08:42:32+00:00</code></td>
     <td>Latest: <code>2022-02-23 17:46:18+01:00</code></td></tr>
 <tr><td>Commits: <code>90</code></td>
-    <td>Stargazers: <code>2885</code></td>
-    <td>Watchers: <code>2885</code></td>
+    <td>Stargazers: <code>2886</code></td>
+    <td>Watchers: <code>2886</code></td>
     <td>Forks: <code>419</code></td></tr>
 </table>
 Keywords: xss
@@ -18100,9 +18166,9 @@ Server-Side Template Injection and Code Injection Detection and Exploitation Too
     <td>Started: <code>2016-07-06 20:33:18+00:00</code></td>
     <td>Latest: <code>2022-02-06 15:13:15+00:00</code></td></tr>
 <tr><td>Commits: <code>723</code></td>
-    <td>Stargazers: <code>4029</code></td>
-    <td>Watchers: <code>4029</code></td>
-    <td>Forks: <code>689</code></td></tr>
+    <td>Stargazers: <code>4031</code></td>
+    <td>Watchers: <code>4031</code></td>
+    <td>Forks: <code>691</code></td></tr>
 </table>
 Keywords: code injection
 
@@ -18430,8 +18496,8 @@ An exhaustive list of all the possible ways you can chain your Blind SSRF vulner
     <td>Started: <code>2021-01-14 21:20:41+00:00</code></td>
     <td>Latest: <code>2021-12-31 11:08:33+11:00</code></td></tr>
 <tr><td>Commits: <code>12</code></td>
-    <td>Stargazers: <code>899</code></td>
-    <td>Watchers: <code>899</code></td>
+    <td>Stargazers: <code>900</code></td>
+    <td>Watchers: <code>900</code></td>
     <td>Forks: <code>117</code></td></tr>
 </table>
 Keywords: ssrf
@@ -19354,8 +19420,8 @@ The XSS Hunter service - a portable version of XSSHunter.com
     <td>Started: <code>2016-05-30 01:25:25+00:00</code></td>
     <td>Latest: <code>2021-08-30 15:48:22-07:00</code></td></tr>
 <tr><td>Commits: <code>37</code></td>
-    <td>Stargazers: <code>1531</code></td>
-    <td>Watchers: <code>1531</code></td>
+    <td>Stargazers: <code>1532</code></td>
+    <td>Watchers: <code>1532</code></td>
     <td>Forks: <code>307</code></td></tr>
 </table>
 Keywords: xss
@@ -19552,8 +19618,8 @@ Web-Security-Learning
     <td>Started: <code>2017-08-19 02:17:42+00:00</code></td>
     <td>Latest: <code>2021-07-22 12:56:40+08:00</code></td></tr>
 <tr><td>Commits: <code>71</code></td>
-    <td>Stargazers: <code>4261</code></td>
-    <td>Watchers: <code>4261</code></td>
+    <td>Stargazers: <code>4264</code></td>
+    <td>Watchers: <code>4264</code></td>
     <td>Forks: <code>1015</code></td></tr>
 </table>
 Keywords: xss
@@ -19662,8 +19728,8 @@ Learn how to automate XSS, SSRF, LFI, SQLI, NoSQLi
     <td>Started: <code>2021-07-09 05:31:38+00:00</code></td>
     <td>Latest: <code>2021-07-09 15:19:00+07:00</code></td></tr>
 <tr><td>Commits: <code>5</code></td>
-    <td>Stargazers: <code>42</code></td>
-    <td>Watchers: <code>42</code></td>
+    <td>Stargazers: <code>43</code></td>
+    <td>Watchers: <code>43</code></td>
     <td>Forks: <code>14</code></td></tr>
 </table>
 Keywords: lfi, ssrf
@@ -19794,9 +19860,9 @@ https://github.com/payloadbox/sql-injection-payload-list
     <td>Started: <code>2019-10-30 05:03:57+00:00</code></td>
     <td>Latest: <code>2021-06-09 20:45:57+03:00</code></td></tr>
 <tr><td>Commits: <code>16</code></td>
-    <td>Stargazers: <code>5824</code></td>
-    <td>Watchers: <code>5824</code></td>
-    <td>Forks: <code>1336</code></td></tr>
+    <td>Stargazers: <code>5837</code></td>
+    <td>Watchers: <code>5837</code></td>
+    <td>Forks: <code>1338</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -20344,8 +20410,8 @@ Workshop given at Hack in Paris 2019
     <td>Started: <code>2020-12-21 14:59:21+00:00</code></td>
     <td>Latest: <code>2021-02-04 15:10:48-05:00</code></td></tr>
 <tr><td>Commits: <code>37</code></td>
-    <td>Stargazers: <code>124</code></td>
-    <td>Watchers: <code>124</code></td>
+    <td>Stargazers: <code>125</code></td>
+    <td>Watchers: <code>125</code></td>
     <td>Forks: <code>41</code></td></tr>
 </table>
 Keywords: xxe
@@ -20388,9 +20454,9 @@ Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder
     <td>Started: <code>2020-03-23 18:04:36+00:00</code></td>
     <td>Latest: <code>2021-01-27 09:47:44+00:00</code></td></tr>
 <tr><td>Commits: <code>22</code></td>
-    <td>Stargazers: <code>598</code></td>
-    <td>Watchers: <code>598</code></td>
-    <td>Forks: <code>122</code></td></tr>
+    <td>Stargazers: <code>599</code></td>
+    <td>Watchers: <code>599</code></td>
+    <td>Forks: <code>123</code></td></tr>
 </table>
 Keywords: xss
 
@@ -20960,8 +21026,8 @@ This is a collection of writeups, cheatsheets, videos, books related to SSRF in 
     <td>Started: <code>2019-08-28 21:41:30+00:00</code></td>
     <td>Latest: <code>2020-09-28 10:13:19-04:00</code></td></tr>
 <tr><td>Commits: <code>37</code></td>
-    <td>Stargazers: <code>1324</code></td>
-    <td>Watchers: <code>1324</code></td>
+    <td>Stargazers: <code>1323</code></td>
+    <td>Watchers: <code>1323</code></td>
     <td>Forks: <code>236</code></td></tr>
 </table>
 Keywords: ssrf
@@ -21114,8 +21180,8 @@ XSSMap 是一款基于 Python3 开发用于检测 XSS 漏洞的工具
     <td>Started: <code>2019-03-15 14:02:17+00:00</code></td>
     <td>Latest: <code>2020-08-20 09:25:40+08:00</code></td></tr>
 <tr><td>Commits: <code>165</code></td>
-    <td>Stargazers: <code>267</code></td>
-    <td>Watchers: <code>267</code></td>
+    <td>Stargazers: <code>268</code></td>
+    <td>Watchers: <code>268</code></td>
     <td>Forks: <code>54</code></td></tr>
 </table>
 Keywords: xss
@@ -21202,9 +21268,9 @@ NoSQLAttack is an open source Python tool to automate exploit MongoDB server IP 
     <td>Started: <code>2016-05-19 14:26:29+00:00</code></td>
     <td>Latest: <code>2020-08-05 09:29:07+08:00</code></td></tr>
 <tr><td>Commits: <code>99</code></td>
-    <td>Stargazers: <code>313</code></td>
-    <td>Watchers: <code>313</code></td>
-    <td>Forks: <code>89</code></td></tr>
+    <td>Stargazers: <code>312</code></td>
+    <td>Watchers: <code>312</code></td>
+    <td>Forks: <code>87</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -21268,8 +21334,8 @@ Hackingtool Menu 🧰 AnonSurf Information Gathering Password Attack Wireless At
     <td>Started: <code>2020-07-26 05:13:23+00:00</code></td>
     <td>Latest: <code>2020-07-25 19:37:02+05:30</code></td></tr>
 <tr><td>Commits: <code>6</code></td>
-    <td>Stargazers: <code>277</code></td>
-    <td>Watchers: <code>277</code></td>
+    <td>Stargazers: <code>278</code></td>
+    <td>Watchers: <code>278</code></td>
     <td>Forks: <code>41</code></td></tr>
 </table>
 Keywords: session hijacking attack, session attack
@@ -21510,9 +21576,9 @@ Miscellaneous exploit code
     <td>Started: <code>2015-03-05 11:15:07+00:00</code></td>
     <td>Latest: <code>2020-05-07 21:20:14+02:00</code></td></tr>
 <tr><td>Commits: <code>159</code></td>
-    <td>Stargazers: <code>1557</code></td>
-    <td>Watchers: <code>1557</code></td>
-    <td>Forks: <code>585</code></td></tr>
+    <td>Stargazers: <code>1558</code></td>
+    <td>Watchers: <code>1558</code></td>
+    <td>Forks: <code>584</code></td></tr>
 </table>
 Keywords: Windows rce exploitation, rce poc, Windows rce poc, rce exploit, Windows rce, Windows rce exploit, rce exploitation
 
@@ -22324,8 +22390,8 @@ Exploits written by the Rhino Security Labs team
     <td>Started: <code>2016-11-03 17:22:48+00:00</code></td>
     <td>Latest: <code>2019-08-08 13:28:37-07:00</code></td></tr>
 <tr><td>Commits: <code>68</code></td>
-    <td>Stargazers: <code>1085</code></td>
-    <td>Watchers: <code>1085</code></td>
+    <td>Stargazers: <code>1086</code></td>
+    <td>Watchers: <code>1086</code></td>
     <td>Forks: <code>295</code></td></tr>
 </table>
 Keywords: by_owner

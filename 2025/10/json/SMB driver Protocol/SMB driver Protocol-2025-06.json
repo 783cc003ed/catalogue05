@@ -1,0 +1,68 @@
+{
+    "commits_count": 112,
+    "date_started": "2020-02-12",
+    "date_updated": "2025-06-26",
+    "description": "An XSS Exploitation Tool",
+    "forks_count": 62,
+    "html_url": "https://github.com/Sharpforce/XSS-Exploitation-Tool",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "XSS-Exploitation-Tool",
+    "repo_owner": "Sharpforce",
+    "repotime": "2025-06-26, 16:03:27",
+    "stargazers_count": 317,
+    "watchers_count": 317
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-05-02",
+    "date_updated": "2025-06-12",
+    "description": "RainbowSQL is very fast dork&amp;amp;SQL injection scanner.",
+    "forks_count": 20,
+    "html_url": "https://github.com/syrex1013/RainbowSQL",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "C#",
+    "repo_name": "RainbowSQL",
+    "repo_owner": "syrex1013",
+    "repotime": "2025-06-12, 10:15:10",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-08",
+    "date_updated": "2025-06-08",
+    "description": "discovered zero day/CVEs exploits on the nubia redmagic 9spro models, 9.06.2025",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sh1r0ko11/redmagic-9spro-exploits",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "redmagic-9spro-exploits",
+    "repo_owner": "Sh1r0ko11",
+    "repotime": "2025-06-08, 19:58:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-06-01",
+    "description": "Demonstration code for intercepting and disabling NMI handling on Intel CPUs in Windows kernel mode.",
+    "forks_count": 0,
+    "html_url": "https://github.com/oxunem/NMIBlocker",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "NMIBlocker",
+    "repo_owner": "oxunem",
+    "repotime": "2025-06-01, 06:41:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

@@ -1,0 +1,330 @@
+{
+    "commits_count": 11,
+    "date_started": "2022-09-27",
+    "date_updated": "2022-09-29",
+    "description": "Fix a memory leak in SharedMemory on Windows",
+    "forks_count": 1,
+    "html_url": "https://github.com/amsikking/shm_win_patch",
+    "keywords": [
+        "Windows memory leak",
+        "Win memory leak"
+    ],
+    "language": "Python",
+    "repo_name": "shm_win_patch",
+    "repo_owner": "amsikking",
+    "repotime": "2022-09-29, 09:35:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2022-02-19",
+    "date_updated": "2022-09-29",
+    "description": "Tests for LFI in PHP apps and automates the process of leveraging LFI's to recursively download source code and discover new files via includes to download additional source code files.",
+    "forks_count": 4,
+    "html_url": "https://github.com/sdcampbell/phpLFI",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Nim",
+    "repo_name": "phpLFI",
+    "repo_owner": "sdcampbell",
+    "repotime": "2022-09-29, 10:30:11",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 144,
+    "date_started": "2019-07-12",
+    "date_updated": "2022-09-27",
+    "description": "🔱 Powerfull XSS Scanning and Parameter analysis tool&amp;amp;gem",
+    "forks_count": 239,
+    "html_url": "https://github.com/hahwul/XSpear",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Ruby",
+    "repo_name": "XSpear",
+    "repo_owner": "hahwul",
+    "repotime": "2022-09-27, 22:47:33",
+    "stargazers_count": 1303,
+    "watchers_count": 1303
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-09-20",
+    "date_updated": "2022-09-23",
+    "description": "Vidian, Lord Of Envy. Privilege Escalation exploitation written C&amp;&#35;35;",
+    "forks_count": 0,
+    "html_url": "https://github.com/pruno7/Vidian",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "C#",
+    "repo_name": "Vidian",
+    "repo_owner": "pruno7",
+    "repotime": "2022-09-23, 14:44:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-09-18",
+    "date_updated": "2022-09-18",
+    "description": "README SQLI-LABS is a platform to learn SQLI Following labs are covered for GET and POST scenarios:  Error Based Injections (Union Select)  String Intiger Error Based Injections (Double Injection Based)  BLIND Injections: 1.Boolian Based 2.Time Based  Update Query Injection.  Insert Query Injections.  Header Injections. 1.Referer based. 2.UserAgent based. 3.Cookie based.  Second Order Injections  Bypassing WAF  Bypassing Blacklist filters Stripping comments Stripping OR &amp;amp; AND Stripping SPACES and COMMENTS Stripping UNION &amp;amp; SELECT Impidence mismatch Bypass addslashes()  Bypassing mysql_real_escape_string. (under special conditions)  Stacked SQL injections.  Secondary channel extraction  ======================================================================================== Install Instructions:  Unzip the contents inside the apache folder, for example under /var/www This will create a folder sql-labs under it. else you can use git command from within /var/www folder. /var/www f...",
+    "forks_count": 0,
+    "html_url": "https://github.com/mirankhan008/sqli-labs",
+    "keywords": [
+        "stack cookies bypass"
+    ],
+    "language": null,
+    "repo_name": "sqli-labs",
+    "repo_owner": "mirankhan008",
+    "repotime": "2022-09-18, 14:36:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 59,
+    "date_started": "2018-01-05",
+    "date_updated": "2022-09-16",
+    "description": "Oracle WebLogic WLS-WSAT Remote Code Execution Exploit (CVE-2017-10271)",
+    "forks_count": 42,
+    "html_url": "https://github.com/kkirsche/CVE-2017-10271",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2017-10271",
+    "repo_owner": "kkirsche",
+    "repotime": "2022-09-16, 08:53:46",
+    "stargazers_count": 128,
+    "watchers_count": 128
+}
+{
+    "commits_count": 24,
+    "date_started": "2022-08-28",
+    "date_updated": "2022-09-15",
+    "description": "This project was developed with one thing in mind, demonstrate how an attacker can exploit XSS to steal sessions from cookies/localstorage.",
+    "forks_count": 1,
+    "html_url": "https://github.com/EHBLANKS/XSS_session_stealer",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "XSS_session_stealer",
+    "repo_owner": "EHBLANKS",
+    "repotime": "2022-09-15, 21:02:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-02-03",
+    "date_updated": "2022-09-13",
+    "description": "For defense or attack session",
+    "forks_count": 0,
+    "html_url": "https://github.com/BarrierAntho/42_Defender_Get_Next_Line",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Shell",
+    "repo_name": "42_Defender_Get_Next_Line",
+    "repo_owner": "BarrierAntho",
+    "repotime": "2022-09-13, 21:48:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 52,
+    "date_started": "2022-03-18",
+    "date_updated": "2022-09-13",
+    "description": "Finding XSS during recon",
+    "forks_count": 47,
+    "html_url": "https://github.com/ferreiraklet/airixss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Go",
+    "repo_name": "airixss",
+    "repo_owner": "ferreiraklet",
+    "repotime": "2022-09-13, 16:12:50",
+    "stargazers_count": 264,
+    "watchers_count": 264
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-09-10",
+    "date_updated": "2022-09-11",
+    "description": "Unauthenticated Blind Command injection in the enable_user function of DroboAccess v 2.1",
+    "forks_count": 0,
+    "html_url": "https://github.com/RevoCain/CVE-2018-14699",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-14699",
+    "repo_owner": "RevoCain",
+    "repotime": "2022-09-11, 07:48:57",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-09-06",
+    "date_updated": "2022-09-07",
+    "description": "Monitorr Unrestricted File Upload",
+    "forks_count": 0,
+    "html_url": "https://github.com/nastar-id/Monitorr-File-Upload",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Python",
+    "repo_name": "Monitorr-File-Upload",
+    "repo_owner": "nastar-id",
+    "repotime": "2022-09-07, 16:40:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 110,
+    "date_started": "2020-10-23",
+    "date_updated": "2022-09-04",
+    "description": "A cheat sheet that contains advanced queries for SQL Injection of all types.",
+    "forks_count": 690,
+    "html_url": "https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "Advanced-SQL-Injection-Cheatsheet",
+    "repo_owner": "kleiton0x00",
+    "repotime": "2022-09-04, 17:36:34",
+    "stargazers_count": 3054,
+    "watchers_count": 3054
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-08-30",
+    "date_updated": "2022-09-05",
+    "description": "📜 This script uses steganography and a Discord client vulnerability in order to run javascript on all computers viewing a certain image within Discord.",
+    "forks_count": 2,
+    "html_url": "https://github.com/0x44F/stego-discord",
+    "keywords": [
+        "zero-day vulnerability",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "stego-discord",
+    "repo_owner": "0x44F",
+    "repotime": "2022-09-05, 00:17:44",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-09-03",
+    "date_updated": "2022-09-03",
+    "description": "Unauthenticated RCE in Laravel Debug Mode &amp;lt;8.4.2",
+    "forks_count": 1,
+    "html_url": "https://github.com/JacobEbben/CVE-2021-3129",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-3129",
+    "repo_owner": "JacobEbben",
+    "repotime": "2022-09-03, 19:22:00",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-09-03",
+    "date_updated": "2022-09-03",
+    "description": "💻 Windows 10 Kernel-mode rootkit",
+    "forks_count": 4,
+    "html_url": "https://github.com/0x44F/WinKit",
+    "keywords": [
+        "Windows 0day",
+        "Win 0day"
+    ],
+    "language": "C++",
+    "repo_name": "WinKit",
+    "repo_owner": "0x44F",
+    "repotime": "2022-09-03, 21:44:39",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-09-01",
+    "date_updated": "2022-09-03",
+    "description": "Redis RCE through Lua Sandbox Escape vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/JacobEbben/CVE-2022-0543",
+    "keywords": [
+        "sandbox escape vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-0543",
+    "repo_owner": "JacobEbben",
+    "repotime": "2022-09-03, 00:46:08",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 486,
+    "date_started": "2016-02-23",
+    "date_updated": "2022-09-01",
+    "description": "Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, and test code.",
+    "forks_count": 198,
+    "html_url": "https://github.com/microsoft/checkedc",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": "C",
+    "repo_name": "checkedc",
+    "repo_owner": "microsoft",
+    "repotime": "2022-09-01, 11:45:45",
+    "stargazers_count": 3164,
+    "watchers_count": 3164
+}
+{
+    "commits_count": 14,
+    "date_started": "2022-07-01",
+    "date_updated": "2022-09-01",
+    "description": "Chegou a hora de pegar todo o conhecimento adquirido nos módulos anteriores e aplicar em um projeto real! Neste módulo, construímos um projeto que se integra com a API desenvolvida no Módulo 4 utilizando um Client HTTP que construímos do zero utilizando a fetch API do próprio JavaScript. Além disso, trabalhamos com validação de formulários, controlled e uncontrolled components, Modais, Portais, entramos à fundo no que é CORS, tratamentos de erros do JavaScript e da API, analisamos o código fonte do React para entender o funcionamento dos Hooks, abordamos patterns como Service e EventEmitter, dicas de UI/UX e prevenção de Memory Leaks, animações e muito mais! E claro: usando apenas os pacotes necessários, aqui fazemos tudo na mão!",
+    "forks_count": 0,
+    "html_url": "https://github.com/andreattamatheus/my-contacts-frontend",
+    "keywords": [
+        "memory leak dos"
+    ],
+    "language": "JavaScript",
+    "repo_name": "my-contacts-frontend",
+    "repo_owner": "andreattamatheus",
+    "repotime": "2022-09-01, 14:28:57",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-08-22",
+    "date_updated": "2022-09-01",
+    "description": "PoC of various bugs in the Linux kernel",
+    "forks_count": 3,
+    "html_url": "https://github.com/greek0x0/2022-LPE-UAF",
+    "keywords": [
+        "uaf poc",
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "2022-LPE-UAF",
+    "repo_owner": "greek0x0",
+    "repotime": "2022-09-01, 09:43:12",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}

@@ -1,0 +1,210 @@
+{
+    "commits_count": 37,
+    "date_started": "2019-08-28",
+    "date_updated": "2020-09-28",
+    "description": "This is a collection of writeups, cheatsheets, videos, books related to SSRF in one single location",
+    "forks_count": 236,
+    "html_url": "https://github.com/jdonsec/AllThingsSSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "AllThingsSSRF",
+    "repo_owner": "jdonsec",
+    "repotime": "2020-09-28, 10:13:19",
+    "stargazers_count": 1327,
+    "watchers_count": 1327
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-09-22",
+    "date_updated": "2020-09-28",
+    "description": "Kentico &amp;lt;=12.0.14 is vulnerable to a remote code execution via the SyncServer",
+    "forks_count": 3,
+    "html_url": "https://github.com/Kr0ff/Kentico-12-RCE-via-SyncServer",
+    "keywords": [
+        "remote code execution vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Kentico-12-RCE-via-SyncServer",
+    "repo_owner": "Kr0ff",
+    "repotime": "2020-09-28, 12:37:42",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-09-27",
+    "date_updated": "2020-09-27",
+    "description": "Proof-of-Concept for a Session Replay Attack",
+    "forks_count": 0,
+    "html_url": "https://github.com/websecnl/Session_Replay_Attack",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Session_Replay_Attack",
+    "repo_owner": "websecnl",
+    "repotime": "2020-09-27, 14:56:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-09-23",
+    "date_updated": "2020-09-25",
+    "description": "Demo code for UAF class Analysis of Algorithms",
+    "forks_count": 0,
+    "html_url": "https://github.com/AKQuaternion/Fall2019CS411DemoCode",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "C++",
+    "repo_name": "Fall2019CS411DemoCode",
+    "repo_owner": "AKQuaternion",
+    "repotime": "2020-09-25, 10:32:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2018-08-24",
+    "date_updated": "2020-09-21",
+    "description": "Simple poc of CVE-2018-8414 Windows Package Setting RCE Vulnerability",
+    "forks_count": 4,
+    "html_url": "https://github.com/whereisr0da/CVE-2018-8414-POC",
+    "keywords": [
+        "Windows rce",
+        "Windows rce poc",
+        "Windows rce vulnerability",
+        "rce vulnerability",
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-8414-POC",
+    "repo_owner": "whereisr0da",
+    "repotime": "2020-09-21, 17:58:39",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 31,
+    "date_started": "2020-08-22",
+    "date_updated": "2020-09-15",
+    "description": "Easy-byte-coder is a non-invasive bytecode injection framework based on JVM. Java application developers can implement bytecode injection quickly, without caring about the underlying instrument principle and implementation details. Easy-byte-coder provides AOP ability in the form of plugin. Static waving (Agent) and dynamic waving (Attach) make plugin development easy.",
+    "forks_count": 18,
+    "html_url": "https://github.com/ymm-tech/easy-byte-coder",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "easy-byte-coder",
+    "repo_owner": "ymm-tech",
+    "repotime": "2020-09-15, 14:45:50",
+    "stargazers_count": 139,
+    "watchers_count": 139
+}
+{
+    "commits_count": 15,
+    "date_started": "2019-03-14",
+    "date_updated": "2020-09-07",
+    "description": "SAP Gateway RCE exploits",
+    "forks_count": 44,
+    "html_url": "https://github.com/chipik/SAP_GW_RCE_exploit",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "SAP_GW_RCE_exploit",
+    "repo_owner": "chipik",
+    "repotime": "2020-09-07, 16:46:03",
+    "stargazers_count": 156,
+    "watchers_count": 156
+}
+{
+    "commits_count": 15,
+    "date_started": "2020-09-05",
+    "date_updated": "2020-09-05",
+    "description": "Code from free Microsoft Machine Learning course. Predicts if rocket can launch using as input a dataset with a lot of weather conditions days before and after 60 rocket launches",
+    "forks_count": 0,
+    "html_url": "https://github.com/aleeherasimiuk/Rocket-Launch-ML",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Rocket-Launch-ML",
+    "repo_owner": "aleeherasimiuk",
+    "repotime": "2020-09-05, 19:23:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-08-29",
+    "date_updated": "2020-09-05",
+    "description": "Tool to test for existence of CVE-2020-8218",
+    "forks_count": 13,
+    "html_url": "https://github.com/withdk/pulse-gosecure-rce-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "pulse-gosecure-rce-poc",
+    "repo_owner": "withdk",
+    "repotime": "2020-09-05, 11:35:23",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-01-14",
+    "date_updated": "2020-09-04",
+    "description": "A Simple Toolkit That Uses Metasploit's msfconsole to automatically exploit some of the remote code execution vulnerabilities to drop a remote shell on target/vulnerable computers on a network.",
+    "forks_count": 1,
+    "html_url": "https://github.com/abdu1aziz/metasploit_payload_maker",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "metasploit_payload_maker",
+    "repo_owner": "abdu1aziz",
+    "repotime": "2020-09-04, 22:07:11",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 34,
+    "date_started": "2020-05-09",
+    "date_updated": "2020-09-03",
+    "description": "A one stop abode for pen-testing tools - web crawler, keylogger, vulnerability scanner, code injector, ARP Spoof, HTTPS bypasser.",
+    "forks_count": 5,
+    "html_url": "https://github.com/Alinaahmad/Pen-testing-Abode",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Pen-testing-Abode",
+    "repo_owner": "Alinaahmad",
+    "repotime": "2020-09-03, 00:05:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 66,
+    "date_started": "2020-08-31",
+    "date_updated": "2020-09-01",
+    "description": "<no description>",
+    "forks_count": 34,
+    "html_url": "https://github.com/ethicalhackingplayground/ssrf-tool",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "ssrf-tool",
+    "repo_owner": "ethicalhackingplayground",
+    "repotime": "2020-09-01, 18:29:48",
+    "stargazers_count": 145,
+    "watchers_count": 145
+}

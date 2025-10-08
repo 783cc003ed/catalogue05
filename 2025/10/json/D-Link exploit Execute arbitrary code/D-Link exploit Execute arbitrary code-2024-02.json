@@ -1,0 +1,446 @@
+{
+    "commits_count": 36,
+    "date_started": "2023-09-29",
+    "date_updated": "2024-02-29",
+    "description": "Data analysis of Axiell thesauri RCE (B&amp;amp;AC and KC)",
+    "forks_count": 0,
+    "html_url": "https://github.com/cultureelerfgoed/Axiell-thesauri",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "R",
+    "repo_name": "Axiell-thesauri",
+    "repo_owner": "cultureelerfgoed",
+    "repotime": "2024-02-29, 16:31:27",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-02-27",
+    "date_updated": "2024-02-27",
+    "description": "Bug Report and Code Refactoring Analysis  Project Name: Notes Application  Bugs Identified:  Mismatch in HTTP methods (GET and POST) in route decorator and HTML form. Incorrect retrieval of note data from form submission. Lack of input validation. Absence of error handling mechanisms.",
+    "forks_count": 0,
+    "html_url": "https://github.com/crystalcodee/Code-Refactoring-and-Bug-Fixing",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "CSS",
+    "repo_name": "Code-Refactoring-and-Bug-Fixing",
+    "repo_owner": "crystalcodee",
+    "repotime": "2024-02-27, 21:06:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-02-20",
+    "date_updated": "2024-02-25",
+    "description": "Unauthenticated Remote Code Execution – Bricks &amp;lt;= 1.9.6",
+    "forks_count": 36,
+    "html_url": "https://github.com/Chocapikk/CVE-2024-25600",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-25600",
+    "repo_owner": "Chocapikk",
+    "repotime": "2024-02-25, 22:50:06",
+    "stargazers_count": 173,
+    "watchers_count": 173
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-02-25",
+    "date_updated": "2024-02-25",
+    "description": "Ivanti Pulse Secure Client Connect Local Privilege Escalation CVE-2023-38041 Proof of Concept",
+    "forks_count": 1,
+    "html_url": "https://github.com/ewilded/CVE-2023-38041-POC",
+    "keywords": [
+        "escalation of privileges proof of concept",
+        "escalation of privileges poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2023-38041-POC",
+    "repo_owner": "ewilded",
+    "repotime": "2024-02-25, 09:12:51",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-02-25",
+    "date_updated": "2024-02-25",
+    "description": "<no description>",
+    "forks_count": 34,
+    "html_url": "https://github.com/luelueking/RuoYi-v4.7.8-RCE-POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "RuoYi-v4.7.8-RCE-POC",
+    "repo_owner": "luelueking",
+    "repotime": "2024-02-25, 15:26:32",
+    "stargazers_count": 244,
+    "watchers_count": 244
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-02-25",
+    "date_updated": "2024-02-24",
+    "description": "CVE-2020-10189:  Microsoft Windows SMBv3 Remote Code Execution (RCE) ",
+    "forks_count": 0,
+    "html_url": "https://github.com/BLACKpwn/Remote_Code_Execution-",
+    "keywords": [
+        "Windows rce",
+        "Microsoft rce",
+        "Windows remote code execution",
+        "Microsoft remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Remote_Code_Execution-",
+    "repo_owner": "BLACKpwn",
+    "repotime": "2024-02-24, 22:58:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-02-23",
+    "date_updated": "2024-02-24",
+    "description": "Bu betik, Microsoft Outlook'ta keşfedilen ve CVSS değeri 9.8 olan önemli bir güvenlik açığı olan CVE-2024-21413 için bir kavram kanıtı (PoC) sunmaktadır. MonikerLink hatası olarak adlandırılan bu güvenlik açığı, yerel NTLM bilgilerinin potansiyel sızıntısı ve uzaktan kod çalıştırma olasılığı dahil olmak üzere geniş kapsamlı etkilere sahiptir.",
+    "forks_count": 2,
+    "html_url": "https://github.com/ahmetkarakayaoffical/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution",
+        "Microsoft remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "repo_owner": "ahmetkarakayaoffical",
+    "repotime": "2024-02-24, 18:36:22",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-10-21",
+    "date_updated": "2024-02-24",
+    "description": "Predict whether customer purchase a product or not in a session",
+    "forks_count": 0,
+    "html_url": "https://github.com/ajitsingh98/E-commerce-product-buyer-session-prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "E-commerce-product-buyer-session-prediction",
+    "repo_owner": "ajitsingh98",
+    "repotime": "2024-02-24, 11:35:29",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-02-22",
+    "date_updated": "2024-02-22",
+    "description": "A PoC exploit for CVE-2022-33891 - Apache Spark UI Remote Code Execution (RCE)",
+    "forks_count": 0,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2022-33891-EXPLOIT",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-33891-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-02-22, 11:19:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 149,
+    "date_started": "2024-02-22",
+    "date_updated": "2024-02-22",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/ek3nk4r/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+    "keywords": [
+        "Windows remote code execution",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+    "repo_owner": "ek3nk4r",
+    "repotime": "2024-02-22, 10:48:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-02-22",
+    "date_updated": "2024-02-22",
+    "description": "This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-25600-Bricks-Builder-plugin-for-WordPress",
+    "repo_owner": "Tornad0007",
+    "repotime": "2024-02-22, 03:27:28",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 20,
+    "date_started": "2024-02-20",
+    "date_updated": "2024-02-20",
+    "description": "<no description>",
+    "forks_count": 3,
+    "html_url": "https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "repo_owner": "Mdusmandasthaheer",
+    "repotime": "2024-02-20, 19:07:39",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-02-16",
+    "date_updated": "2024-02-19",
+    "description": "Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "forks_count": 160,
+    "html_url": "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "repo_owner": "xaitax",
+    "repotime": "2024-02-19, 21:00:35",
+    "stargazers_count": 739,
+    "watchers_count": 739
+}
+{
+    "commits_count": 28,
+    "date_started": "2024-02-18",
+    "date_updated": "2024-02-19",
+    "description": "CVE-2023-36845 – Unauthenticated Juniper Remote Code Execution Vulnerability Scanner",
+    "forks_count": 1,
+    "html_url": "https://github.com/e11i0t4lders0n/CVE-2023-36845",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2023-36845",
+    "repo_owner": "e11i0t4lders0n",
+    "repotime": "2024-02-19, 00:14:03",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-02-06",
+    "date_updated": "2024-02-17",
+    "description": "Taming your WordPress user sessions, to help reduce the chance of session hijacking",
+    "forks_count": 1,
+    "html_url": "https://github.com/timnashcouk/tn-tame-session-defaults",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "tn-tame-session-defaults",
+    "repo_owner": "timnashcouk",
+    "repotime": "2024-02-17, 21:28:15",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 34,
+    "date_started": "2022-05-19",
+    "date_updated": "2024-02-17",
+    "description": "Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/UNICORDev/exploit-CVE-2020-5844",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "exploit-CVE-2020-5844",
+    "repo_owner": "UNICORDev",
+    "repotime": "2024-02-17, 12:50:35",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-02-16",
+    "date_updated": "2024-02-16",
+    "description": "This repo adapts μAFL for the STM32F407VE Cortex M4 uC - contains firmware projects, vulnerable code samples and fuzzing workflow docs. Experiments leverage ETM tracing and breakpoints to uncover vulnerabilities in STM32F407VE firmware with μAFL. Demonstrates μAFL's potential to secure embedded systems and enable research into specialized fuzzing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sbhakim/uAFL-STM32F407VE-Applications",
+    "keywords": [
+        "uaf vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "uAFL-STM32F407VE-Applications",
+    "repo_owner": "sbhakim",
+    "repotime": "2024-02-16, 18:54:43",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-02-16",
+    "date_updated": "2024-02-16",
+    "description": "Collection of UAC Bypass Techniques Weaponized as BOFs",
+    "forks_count": 68,
+    "html_url": "https://github.com/icyguider/UAC-BOF-Bonanza",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "UAC-BOF-Bonanza",
+    "repo_owner": "icyguider",
+    "repotime": "2024-02-16, 09:57:46",
+    "stargazers_count": 555,
+    "watchers_count": 555
+}
+{
+    "commits_count": 27,
+    "date_started": "2024-02-01",
+    "date_updated": "2024-02-12",
+    "description": "Keep track of everything - in style! Database solution for authenticated users, and local storage solution for unauthenticated users.",
+    "forks_count": 0,
+    "html_url": "https://github.com/paradimes/todolist",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "todolist",
+    "repo_owner": "paradimes",
+    "repotime": "2024-02-12, 23:01:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-02-12",
+    "date_updated": "2024-02-12",
+    "description": "tracking zero-day vulnerabilities",
+    "forks_count": 0,
+    "html_url": "https://github.com/jacques-twizeyimana/alu-zero_day",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "alu-zero_day",
+    "repo_owner": "jacques-twizeyimana",
+    "repotime": "2024-02-12, 14:55:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-12-13",
+    "date_updated": "2024-02-07",
+    "description": "Backup Migration &amp;lt;= 1.3.7 - Unauthenticated Remote Code Execution",
+    "forks_count": 22,
+    "html_url": "https://github.com/Chocapikk/CVE-2023-6553",
+    "keywords": [
+        "unauthenticated remote code execution",
+        "rce vulnerability",
+        "remote code execution vulnerability",
+        "remote code execution exploit",
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-6553",
+    "repo_owner": "Chocapikk",
+    "repotime": "2024-02-07, 00:22:25",
+    "stargazers_count": 76,
+    "watchers_count": 76
+}
+{
+    "commits_count": 12,
+    "date_started": "2023-02-12",
+    "date_updated": "2024-02-04",
+    "description": "Confirmation message bypass (Win 10/11)",
+    "forks_count": 9,
+    "html_url": "https://github.com/DosX-dev/UAC-Exploit",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Visual Basic .NET",
+    "repo_name": "UAC-Exploit",
+    "repo_owner": "DosX-dev",
+    "repotime": "2024-02-04, 17:06:57",
+    "stargazers_count": 169,
+    "watchers_count": 169
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-03-15",
+    "date_updated": "2024-02-03",
+    "description": "A Path traversal vulnerability in the file upload functionality in tinyfilemanager.php in Tiny File Manager Project's Tiny File Manager &amp;lt;= 2.4.6 allows remote attackers with valid user accounts to upload malicious PHP files to the webroot and achieve code execution on the target server.",
+    "forks_count": 17,
+    "html_url": "https://github.com/febinrev/tinyfilemanager-2.4.3-exploit",
+    "keywords": [
+        "path traversal vulnerability",
+        "path traversal attack",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "tinyfilemanager-2.4.3-exploit",
+    "repo_owner": "febinrev",
+    "repotime": "2024-02-03, 12:21:11",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-02-02",
+    "date_updated": "2024-02-02",
+    "description": "CVE-2024-23897 jenkins arbitrary file read which leads to unauthenticated RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/brijne/CVE-2024-23897-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-23897-RCE",
+    "repo_owner": "brijne",
+    "repotime": "2024-02-02, 18:19:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-02-01",
+    "date_updated": "2024-02-01",
+    "description": "This password generator creates random combinations of characters to enhance the security of online accounts. It provides effective protection by generating hard-to-guess codes, thereby improving resistance against cyber attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MoZaidAlouli/Password-Generator",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "HTML",
+    "repo_name": "Password-Generator",
+    "repo_owner": "MoZaidAlouli",
+    "repotime": "2024-02-01, 14:22:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

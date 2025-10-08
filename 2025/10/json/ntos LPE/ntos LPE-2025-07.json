@@ -1,0 +1,103 @@
+{
+    "commits_count": 6,
+    "date_started": "2025-07-26",
+    "date_updated": "2025-07-26",
+    "description": "Disable and permanently remove root from Linux to prevent exploits, spywares, and zero-day exploits that require root access from being successful! Warning: Re-enabling root will be extremely labor-intensive, so this program is designed for use on amnesic systems or temporary disposable Linux systems for security reasons! Use only in these cases!",
+    "forks_count": 0,
+    "html_url": "https://github.com/leandroibov/root_annihilator",
+    "keywords": [
+        "zero-day exploitation"
+    ],
+    "language": "Shell",
+    "repo_name": "root_annihilator",
+    "repo_owner": "leandroibov",
+    "repotime": "2025-07-26, 04:25:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 87,
+    "date_started": "2025-07-07",
+    "date_updated": "2025-07-25",
+    "description": "自动生成nuclei 2025HW poc",
+    "forks_count": 22,
+    "html_url": "https://github.com/wooluo/nuclei-templates-2025hw",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "nuclei-templates-2025hw",
+    "repo_owner": "wooluo",
+    "repotime": "2025-07-25, 16:03:59",
+    "stargazers_count": 90,
+    "watchers_count": 90
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-01-30",
+    "date_updated": "2025-07-21",
+    "description": "GraphQL Authorization Tester is a tool that automates the testing of mutations in GraphQL to determine whether they are allowed or restricted for both authenticated and unauthenticated users.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ScarlyCodex/gqlms",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Go",
+    "repo_name": "gqlms",
+    "repo_owner": "ScarlyCodex",
+    "repotime": "2025-07-21, 01:20:43",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-07-16",
+    "date_updated": "2025-07-16",
+    "description": "A fast and efficient scanner for identifying email spoofing vulnerabilities through SPF and DMARC record analysis on domains.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pad1ryoshi/espoofing",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "espoofing",
+    "repo_owner": "pad1ryoshi",
+    "repotime": "2025-07-16, 19:05:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-07-13",
+    "date_updated": "2025-07-13",
+    "description": "The Linux Hardening Audit Tool is a Python-based CLI utility that automates security audits on Linux systems. Based on CIS Benchmarks, it checks firewall, SSH, file permissions, password policies, and more—delivering scored, color-coded reports for easy risk assessment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ansh-Gautam-1337/Linux-Hardening-Audit-Tool",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "Linux-Hardening-Audit-Tool",
+    "repo_owner": "Ansh-Gautam-1337",
+    "repotime": "2025-07-13, 16:39:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 74,
+    "date_started": "2025-05-08",
+    "date_updated": "2025-07-07",
+    "description": "Vulnerable (on purpose) programs to leak NtReadVirtualMemory address for stealthier API resolution (no GetProcAddress, GetModuleHandle or LoadLibrary in the IAT)",
+    "forks_count": 5,
+    "html_url": "https://github.com/ricardojoserf/MemorySnitcher",
+    "keywords": [
+        "memory leak vulnerability",
+        "address leak vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "MemorySnitcher",
+    "repo_owner": "ricardojoserf",
+    "repotime": "2025-07-07, 14:14:30",
+    "stargazers_count": 39,
+    "watchers_count": 39
+}

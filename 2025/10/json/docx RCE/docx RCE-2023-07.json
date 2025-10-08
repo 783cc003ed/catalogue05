@@ -1,0 +1,34 @@
+{
+    "commits_count": 2,
+    "date_started": "2023-07-21",
+    "date_updated": "2023-07-21",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/kiran-puvvada/Local-_File_Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "Local-_File_Inclusion",
+    "repo_owner": "kiran-puvvada",
+    "repotime": "2023-07-21, 18:25:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-10-25",
+    "date_updated": "2023-07-08",
+    "description": "RCE exploit for the Aukey WR-R01 router. This backdoors the router and enables telnet access by creating another root user. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/rejections/Aukey-WR-R01-0day-RCE",
+    "keywords": [
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Aukey-WR-R01-0day-RCE",
+    "repo_owner": "rejections",
+    "repotime": "2023-07-08, 01:24:12",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

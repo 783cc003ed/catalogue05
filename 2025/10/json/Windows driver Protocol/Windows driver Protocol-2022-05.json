@@ -1,0 +1,55 @@
+{
+    "commits_count": 3,
+    "date_started": "2022-06-13",
+    "date_updated": "2022-05-30",
+    "description": "Aimbot:  Weapon Selection Memory Aim On Key (On/Off) Silent Aim (P Silent) Aim Bones (Head) (Neck) (Body) (Closest) No Recoil Knocked Players Backtrack Visibles Check Smooth (1-10) FOV (1-100) Visuals:  On Key (On/Off) Player Names Player Distance Itmes Health Bar (Constant) (Normal) Health Text Bounding Box (3D) (2D) Outlines (Above) (Below) (Crosshair) Color Mates Color Picker Misc/Exploits:  Spin Bot (Rage) Fly (On Key) (On/Off) (Risky) Speed Hack (On Key) (1-5) (Risky) Boat Fly Auto Heal Crosshair (Custom) (Color Picker) Ingame FPS Can Jump Instant Reload Warzone FOV Changer Hitbox Extender Rapid Fire Air Stuck Car Fly Spoof Username We, at , always strive to be one of the leading and most reliable gameplay cheat and hack providers, when it comes to security, usability, and compatibility. We've been developing high-quality, undetected games hacks for years. We update all of our gameplay hacks continuously, including Fortnite Battle cheats, to stay undetected and keep our online gam...",
+    "forks_count": 1,
+    "html_url": "https://github.com/vinzy2/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat",
+    "keywords": [
+        "kernel patch protection bypass"
+    ],
+    "language": null,
+    "repo_name": "Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat",
+    "repo_owner": "vinzy2",
+    "repotime": "2022-05-30, 08:41:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-05-10",
+    "date_updated": "2022-05-24",
+    "description": "An unauthenticated attacker can send an HTTP request with an &amp;quot;Accept-Encoding&amp;quot; HTTP request header triggering a double free in the unknown coding-list inside the HTTP Protocol Stack (http.sys) to process packets, resulting in a kernel crash.",
+    "forks_count": 0,
+    "html_url": "https://github.com/iveresk/cve-2022-21907-http.sys",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Shell",
+    "repo_name": "cve-2022-21907-http.sys",
+    "repo_owner": "iveresk",
+    "repotime": "2022-05-24, 15:40:07",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-05-09",
+    "date_updated": "2022-05-08",
+    "description": "I originally discovered this vulnerability sometime during the summer of 2021. However, I never made a proper exploit for it.",
+    "forks_count": 0,
+    "html_url": "https://github.com/zoombegod/AMD-uProf-0day-LPE",
+    "keywords": [
+        "lpe exploit",
+        "0day exploitation",
+        "lpe vulnerability",
+        "0day vulnerability",
+        "lpe exploitation"
+    ],
+    "language": null,
+    "repo_name": "AMD-uProf-0day-LPE",
+    "repo_owner": "zoombegod",
+    "repotime": "2022-05-08, 21:14:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

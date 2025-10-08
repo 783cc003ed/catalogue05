@@ -1,0 +1,122 @@
+{
+    "commits_count": 28,
+    "date_started": "2018-11-30",
+    "date_updated": "2018-11-30",
+    "description": "‪APT,‬ ‪Cyber warfare,‬ ‪Penetration testing,‬ ‪Zero-day,Exploiting,‬ ‪Spyware,Malwares evade anti-virus detection,‬ ‪Rookit CYPTER,‬ ‪Antiviruses Bypassing-av,‬ ‪WORMS,Sandbox-Escape,‬ ‪Memory-injection,‬ ‪Ethical,Gray,White,RedTeam‬...",
+    "forks_count": 260,
+    "html_url": "https://github.com/jwx0539/hackingLibrary",
+    "keywords": [
+        "zero-day exploitation",
+        "sandbox escape exploitation",
+        "sandbox escape exploit",
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "hackingLibrary",
+    "repo_owner": "jwx0539",
+    "repotime": "2018-11-30, 10:14:36",
+    "stargazers_count": 293,
+    "watchers_count": 293
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-11-22",
+    "date_updated": "2018-11-22",
+    "description": "Automated exploitation of Local File Inclusion bugs",
+    "forks_count": 0,
+    "html_url": "https://github.com/stefan2200/Bud",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Bud",
+    "repo_owner": "stefan2200",
+    "repotime": "2018-11-22, 23:20:11",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 236,
+    "date_started": "2015-03-27",
+    "date_updated": "2018-11-14",
+    "description": "fimap is a little python tool which can find, prepare, audit, exploit and even google automatically for local and remote file inclusion bugs in webapps.",
+    "forks_count": 100,
+    "html_url": "https://github.com/kurobeats/fimap",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "fimap",
+    "repo_owner": "kurobeats",
+    "repotime": "2018-11-14, 20:27:58",
+    "stargazers_count": 561,
+    "watchers_count": 561
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-09-16",
+    "date_updated": "2018-11-12",
+    "description": "project for mail sending from php and csv injection to sql ",
+    "forks_count": 0,
+    "html_url": "https://github.com/kssampath/dasari27-9",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "PHP",
+    "repo_name": "dasari27-9",
+    "repo_owner": "kssampath",
+    "repotime": "2018-11-12, 23:14:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 49,
+    "date_started": "2018-07-04",
+    "date_updated": "2018-11-11",
+    "description": "A service which is vulnerable to XML External Entity (XXE) attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mprechtl/information-leakage",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Java",
+    "repo_name": "information-leakage",
+    "repo_owner": "mprechtl",
+    "repotime": "2018-11-11, 19:23:30",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-11-06",
+    "date_updated": "2018-11-08",
+    "description": "Injection Stopwatch to IL Code",
+    "forks_count": 4,
+    "html_url": "https://github.com/MinosDora/InjectionStopwatchCode",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "InjectionStopwatchCode",
+    "repo_owner": "MinosDora",
+    "repotime": "2018-11-08, 15:42:36",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-11-07",
+    "date_updated": "2018-11-06",
+    "description": "API and Code hook library built for 32 bits Windows. Contains DLL and code injection, remote process code execution, inter process communication and mini code disassembler techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/brunostuani/bms-api-hook",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Pascal",
+    "repo_name": "bms-api-hook",
+    "repo_owner": "brunostuani",
+    "repotime": "2018-11-06, 20:53:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

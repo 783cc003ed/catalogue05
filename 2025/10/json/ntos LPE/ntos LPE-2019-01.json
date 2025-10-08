@@ -1,0 +1,17 @@
+{
+    "commits_count": 8,
+    "date_started": "2019-01-08",
+    "date_updated": "2019-01-09",
+    "description": "本脚本旨在生成各类畸形URL链接，进行探测使用的payload，尝试绕过服务端ssrf限制。",
+    "forks_count": 7,
+    "html_url": "https://github.com/grayddq/SSRF_payload",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF_payload",
+    "repo_owner": "grayddq",
+    "repotime": "2019-01-09, 21:41:27",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}

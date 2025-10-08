@@ -1,0 +1,34 @@
+{
+    "commits_count": 10,
+    "date_started": "2021-01-14",
+    "date_updated": "2021-01-15",
+    "description": "Smashing Stack in linux 64bit and bypass NX, ASLR, and stack canaries. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/vulnsystem/SmashingStack",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "SmashingStack",
+    "repo_owner": "vulnsystem",
+    "repotime": "2021-01-15, 20:59:03",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 25,
+    "date_started": "2020-12-20",
+    "date_updated": "2021-01-08",
+    "description": "A useful tool for tracking native (C++) memory leakage in Windows 10 environment (support both x86 and x64)",
+    "forks_count": 0,
+    "html_url": "https://github.com/avipreshel/CLI-Native-Leak-Detector",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "CLI-Native-Leak-Detector",
+    "repo_owner": "avipreshel",
+    "repotime": "2021-01-08, 17:18:58",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}

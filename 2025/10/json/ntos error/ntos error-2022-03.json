@@ -1,0 +1,336 @@
+{
+    "commits_count": 7,
+    "date_started": "2022-03-30",
+    "date_updated": "2022-03-31",
+    "description": "Simple script to execute a path traversal attack providing the url using TOR (LINUX)",
+    "forks_count": 0,
+    "html_url": "https://github.com/claudialorusso/pathtraversal",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "pathtraversal",
+    "repo_owner": "claudialorusso",
+    "repotime": "2022-03-31, 12:14:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 43,
+    "date_started": "2021-02-11",
+    "date_updated": "2022-03-30",
+    "description": "👻 [PoC] TyranoScript 5.13b - Arbitrary Code Execution (0day)",
+    "forks_count": 0,
+    "html_url": "https://github.com/satoki/tyranoscript_vulnerability",
+    "keywords": [
+        "0day exploit",
+        "0day poc",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "tyranoscript_vulnerability",
+    "repo_owner": "satoki",
+    "repotime": "2022-03-30, 16:41:55",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 20,
+    "date_started": "2019-01-17",
+    "date_updated": "2022-03-27",
+    "description": "Windows UAC bypass techniques implemented and written in Go",
+    "forks_count": 41,
+    "html_url": "https://github.com/0x9ef/golang-uacbypasser",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Go",
+    "repo_name": "golang-uacbypasser",
+    "repo_owner": "0x9ef",
+    "repotime": "2022-03-27, 21:20:48",
+    "stargazers_count": 213,
+    "watchers_count": 213
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-26",
+    "date_updated": "2022-03-27",
+    "description": "命令行版向日葵RCE漏洞利用工具 / cmd version of sunlogin exploit tool",
+    "forks_count": 2,
+    "html_url": "https://github.com/theLSA/sunlogin-exp-cmd",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation",
+        "rce vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "sunlogin-exp-cmd",
+    "repo_owner": "theLSA",
+    "repotime": "2022-03-27, 01:09:53",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-03-13",
+    "date_updated": "2022-03-26",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/shikari00007/Pluck-CMS-Pluck-4.7.16-Theme-Upload-Remote-Code-Execution-Authenticated--POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Pluck-CMS-Pluck-4.7.16-Theme-Upload-Remote-Code-Execution-Authenticated--POC",
+    "repo_owner": "shikari00007",
+    "repotime": "2022-03-26, 14:55:02",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-12-21",
+    "date_updated": "2022-03-22",
+    "description": "Laravel RCE exploit. CVE-2018-15133",
+    "forks_count": 13,
+    "html_url": "https://github.com/pwnedshell/Larascript",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Larascript",
+    "repo_owner": "pwnedshell",
+    "repotime": "2022-03-22, 18:56:41",
+    "stargazers_count": 33,
+    "watchers_count": 33
+}
+{
+    "commits_count": 44,
+    "date_started": "2019-02-16",
+    "date_updated": "2022-03-21",
+    "description": "This **env(pyenv, rbenv, nodenv, goenv, phpenv, luaenv) plugin replaces the version specified in the argument with the latest version.",
+    "forks_count": 9,
+    "html_url": "https://github.com/momo-lab/xxenv-latest",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Shell",
+    "repo_name": "xxenv-latest",
+    "repo_owner": "momo-lab",
+    "repotime": "2022-03-21, 09:35:43",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-11-02",
+    "date_updated": "2022-03-20",
+    "description": "Zero-day and N-day security vulnerability notes, analysis, and proof-of-concepts",
+    "forks_count": 79,
+    "html_url": "https://github.com/alisaesage/Disclosures",
+    "keywords": [
+        "zero-day vulnerability",
+        "zero-day analysis",
+        "zero-day disclosure",
+        "zero-day proof of concept"
+    ],
+    "language": "HTML",
+    "repo_name": "Disclosures",
+    "repo_owner": "alisaesage",
+    "repotime": "2022-03-20, 23:58:26",
+    "stargazers_count": 427,
+    "watchers_count": 427
+}
+{
+    "commits_count": 27,
+    "date_started": "2021-12-26",
+    "date_updated": "2022-03-19",
+    "description": "WAMpage - A WebOS root LPE exploit chain (CVE-2022-23731)",
+    "forks_count": 8,
+    "html_url": "https://github.com/DavidBuchanan314/WAMpage",
+    "keywords": [
+        "lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "WAMpage",
+    "repo_owner": "DavidBuchanan314",
+    "repotime": "2022-03-19, 16:24:28",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-18",
+    "date_updated": "2022-03-19",
+    "description": "A Path traversal vulnerability in the file upload functionality in tinyfilemanager.php in Tiny File Manager Project’s Tiny File Manager &amp;lt;= 2.4.3 allows remote attackers with valid user accounts to upload malicious PHP files to the webroot and achieve code execution on the target server.",
+    "forks_count": 0,
+    "html_url": "https://github.com/febinrev/CVE-2021-45010-TinyFileManager-Exploit",
+    "keywords": [
+        "path traversal vulnerability",
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-45010-TinyFileManager-Exploit",
+    "repo_owner": "febinrev",
+    "repotime": "2022-03-19, 00:05:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 585,
+    "date_started": "2020-12-11",
+    "date_updated": "2022-03-14",
+    "description": "Dynamic analysis tool to find memory overlaps in an executable",
+    "forks_count": 2,
+    "html_url": "https://github.com/kristopher-pellizzi/MemTrace",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C++",
+    "repo_name": "MemTrace",
+    "repo_owner": "kristopher-pellizzi",
+    "repotime": "2022-03-14, 14:53:21",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-03-08",
+    "date_updated": "2022-03-14",
+    "description": "These Nmap, Python and Ruby scripts detects and exploits CVE-2021-42013 with RCE and local file disclosure.",
+    "forks_count": 1,
+    "html_url": "https://github.com/mauricelambert/CVE-2021-42013",
+    "keywords": [
+        "rce disclosure"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2021-42013",
+    "repo_owner": "mauricelambert",
+    "repotime": "2022-03-14, 08:36:49",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-03-08",
+    "date_updated": "2022-03-14",
+    "description": "These Metasploit, Nmap, Python and Ruby scripts detects and exploits CVE-2021-41773 with RCE and local file disclosure.",
+    "forks_count": 2,
+    "html_url": "https://github.com/mauricelambert/CVE-2021-41773",
+    "keywords": [
+        "rce disclosure"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "mauricelambert",
+    "repotime": "2022-03-14, 08:34:49",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 48,
+    "date_started": "2021-10-13",
+    "date_updated": "2022-03-12",
+    "description": "Implementation of several code injection techniques.",
+    "forks_count": 7,
+    "html_url": "https://github.com/Fahersto/code_injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "code_injection",
+    "repo_owner": "Fahersto",
+    "repotime": "2022-03-12, 14:42:46",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 21,
+    "date_started": "2022-03-08",
+    "date_updated": "2022-03-12",
+    "description": "Code for my live-code session with UKEC",
+    "forks_count": 4,
+    "html_url": "https://github.com/jia-wei-teh/flight-fare-prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "flight-fare-prediction",
+    "repo_owner": "jia-wei-teh",
+    "repotime": "2022-03-12, 19:40:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-03-09",
+    "date_updated": "2022-03-10",
+    "description": "A form validation using external library bootstrap-form-validation to execute client side validatation of input data before sending to the server. This is very necessary to prevent wrong phone numbers or unexisting email address to be sent to the data base.",
+    "forks_count": 0,
+    "html_url": "https://github.com/nwalo/validation",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "validation",
+    "repo_owner": "nwalo",
+    "repotime": "2022-03-10, 10:04:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-01-02",
+    "date_updated": "2022-03-04",
+    "description": "&amp;&#35;35;&amp;&#35;35; &amp;&#35;35; This module requires Metasploit: https://metasploit.com/download &amp;&#35;35; Current source: https://github.com/rapid7/metasploit-framework &amp;&#35;35;&amp;&#35;35;  class MetasploitModule &amp;lt; Msf::Exploit::Remote   Rank = NormalRanking    prepend Msf::Exploit::Remote::AutoCheck   include Msf::Exploit::FileDropper   include Msf::Exploit::Remote::HttpClient   include Msf::Exploit::Remote::HttpServer   include Msf::Exploit::Remote::HTTP::Wordpress    def initialize(info = {})     super(       update_info(         info,         'Name' =&amp;gt; 'Wordpress Popular Posts Authenticated RCE',         'Description' =&amp;gt; %q{           This exploit requires Metasploit to have a FQDN and the ability to run a payload web server on port 80, 443, or 8080.           The FQDN must also not resolve to a reserved address (192/172/127/10).  The server must also respond to a HEAD request           for the payload, prior to getting a GET request.           This exploit leverages an authenticated improper input ...",
+    "forks_count": 2,
+    "html_url": "https://github.com/Nate0634034090/-nate158.res.codeRex.sleepsession.type.to_s.eql-shell-",
+    "keywords": [
+        "session vulnerability",
+        "rce analysis",
+        "improper input validation"
+    ],
+    "language": null,
+    "repo_name": "-nate158.res.codeRex.sleepsession.type.to_s.eql-shell-",
+    "repo_owner": "Nate0634034090",
+    "repotime": "2022-03-04, 16:06:17",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-12-13",
+    "date_updated": "2022-03-02",
+    "description": "A PoC for CVE-2021-44827 - authenticated remote code execution in Tp-link Archer C20i",
+    "forks_count": 0,
+    "html_url": "https://github.com/full-disclosure/CVE-2021-44827",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-44827",
+    "repo_owner": "full-disclosure",
+    "repotime": "2022-03-02, 18:36:35",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-12-18",
+    "date_updated": "2022-03-02",
+    "description": "Looking for JAR files that are vulnerable to Log4j RCE (CVE‐2021‐44228)?",
+    "forks_count": 6,
+    "html_url": "https://github.com/dwisiswant0/look4jar",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "look4jar",
+    "repo_owner": "dwisiswant0",
+    "repotime": "2022-03-02, 22:42:32",
+    "stargazers_count": 45,
+    "watchers_count": 45
+}

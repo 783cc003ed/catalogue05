@@ -12,8 +12,8 @@
     "repo_name": "lfi",
     "repo_owner": "lfi-project",
     "repotime": "2025-07-30, 13:52:26",
-    "stargazers_count": 87,
-    "watchers_count": 87
+    "stargazers_count": 88,
+    "watchers_count": 88
 }
 {
     "commits_count": 9,
@@ -73,7 +73,7 @@
     "date_started": "2025-06-27",
     "date_updated": "2025-07-28",
     "description": "Unauthenticated Python PoC for CVE-2025-20281 RCE against ISE ERS API",
-    "forks_count": 5,
+    "forks_count": 7,
     "html_url": "https://github.com/abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE",
     "keywords": [
         "unauthenticated rce"
@@ -82,8 +82,8 @@
     "repo_name": "CVE-2025-20281-2-Cisco-ISE-RCE",
     "repo_owner": "abrewer251",
     "repotime": "2025-07-28, 09:43:35",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 2,
@@ -142,7 +142,7 @@
     "date_started": "2025-07-25",
     "date_updated": "2025-07-25",
     "description": "An archive of 0day.today exploits",
-    "forks_count": 35,
+    "forks_count": 36,
     "html_url": "https://github.com/vulncheck-oss/0day.today.archive",
     "keywords": [
         "0day exploit",
@@ -152,8 +152,8 @@
     "repo_name": "0day.today.archive",
     "repo_owner": "vulncheck-oss",
     "repotime": "2025-07-25, 09:47:56",
-    "stargazers_count": 167,
-    "watchers_count": 167
+    "stargazers_count": 170,
+    "watchers_count": 170
 }
 {
     "commits_count": 87,
@@ -779,7 +779,7 @@
     "watchers_count": 1139
 }
 {
-    "commits_count": 136,
+    "commits_count": 137,
     "date_started": "2021-02-23",
     "date_updated": "2025-07-08",
     "description": "Repository for information about 0-days exploited in-the-wild.",
@@ -793,8 +793,8 @@
     "repo_name": "0days-in-the-wild",
     "repo_owner": "googleprojectzero",
     "repotime": "2025-07-08, 11:51:33",
-    "stargazers_count": 830,
-    "watchers_count": 830
+    "stargazers_count": 829,
+    "watchers_count": 829
 }
 {
     "commits_count": 13,
@@ -965,6 +965,6 @@
     "repo_name": "CVE-2025-32463",
     "repo_owner": "kh4sh3i",
     "repotime": "2025-07-02, 12:04:43",
-    "stargazers_count": 168,
-    "watchers_count": 168
+    "stargazers_count": 171,
+    "watchers_count": 171
 }

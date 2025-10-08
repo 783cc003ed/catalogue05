@@ -1,24 +1,41 @@
 {
-    "commits_count": 2039,
-    "date_started": "2020-04-12",
-    "date_updated": "2025-09-18",
-    "description": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
-    "forks_count": 490,
-    "html_url": "https://github.com/hahwul/dalfox",
+    "commits_count": 169,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-09-22",
+    "description": "STRIDE stands for Spoofing, Tampering, Repudiation, Information disclosure, Denial of service and Elevation of privilege, developed by Loren Kohnfelder and Praerit Garg in 1999 to identify potential vulnerabilities and threats to company products",
+    "forks_count": 0,
+    "html_url": "https://github.com/canstralian/STRIDE-GPT-RAG",
     "keywords": [
-        "xss"
+        "spoofing vulnerability"
     ],
-    "language": "Go",
-    "repo_name": "dalfox",
-    "repo_owner": "hahwul",
-    "repotime": "2025-09-18, 07:56:34",
-    "stargazers_count": 4533,
-    "watchers_count": 4533
+    "language": "Python",
+    "repo_name": "STRIDE-GPT-RAG",
+    "repo_owner": "canstralian",
+    "repotime": "2025-09-22, 15:13:53",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
-    "commits_count": 2205,
+    "commits_count": 36,
+    "date_started": "2025-08-07",
+    "date_updated": "2025-09-21",
+    "description": "Webpage for Bueler's course in introductory real analysis (MATH 401) at UAF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bueler/real",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "real",
+    "repo_owner": "bueler",
+    "repotime": "2025-09-21, 19:26:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2206,
     "date_started": "2019-09-10",
-    "date_updated": "2025-09-17",
+    "date_updated": "2025-09-22",
     "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
     "forks_count": 296,
     "html_url": "https://github.com/TongchengOpenSource/smart-doc",
@@ -28,14 +45,31 @@
     "language": "Java",
     "repo_name": "smart-doc",
     "repo_owner": "TongchengOpenSource",
-    "repotime": "2025-09-17, 11:55:29",
+    "repotime": "2025-09-22, 10:29:15",
     "stargazers_count": 1572,
     "watchers_count": 1572
 }
 {
-    "commits_count": 1309,
+    "commits_count": 2041,
+    "date_started": "2020-04-12",
+    "date_updated": "2025-09-21",
+    "description": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
+    "forks_count": 494,
+    "html_url": "https://github.com/hahwul/dalfox",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Go",
+    "repo_name": "dalfox",
+    "repo_owner": "hahwul",
+    "repotime": "2025-09-21, 01:34:30",
+    "stargazers_count": 4548,
+    "watchers_count": 4548
+}
+{
+    "commits_count": 1311,
     "date_started": "2022-03-19",
-    "date_updated": "2025-09-17",
+    "date_updated": "2025-09-19",
     "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
     "forks_count": 122,
     "html_url": "https://github.com/GhostTroops/TOP",
@@ -47,7 +81,7 @@
     "language": "Shell",
     "repo_name": "TOP",
     "repo_owner": "GhostTroops",
-    "repotime": "2025-09-17, 01:07:22",
+    "repotime": "2025-09-19, 01:09:26",
     "stargazers_count": 704,
     "watchers_count": 704
 }
@@ -73,7 +107,7 @@
     "date_started": "2009-12-19",
     "date_updated": "2025-09-16",
     "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2255,
+    "forks_count": 2254,
     "html_url": "https://github.com/jhy/jsoup",
     "keywords": [
         "xss"
@@ -82,15 +116,15 @@
     "repo_name": "jsoup",
     "repo_owner": "jhy",
     "repotime": "2025-09-16, 12:19:11",
-    "stargazers_count": 11243,
-    "watchers_count": 11243
+    "stargazers_count": 11244,
+    "watchers_count": 11244
 }
 {
     "commits_count": 10456,
     "date_started": "2012-06-26",
     "date_updated": "2025-09-15",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6043,
+    "forks_count": 6048,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -99,15 +133,15 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-09-15, 00:03:04",
-    "stargazers_count": 35308,
-    "watchers_count": 35308
+    "stargazers_count": 35341,
+    "watchers_count": 35341
 }
 {
     "commits_count": 141,
     "date_started": "2019-04-19",
     "date_updated": "2025-09-14",
     "description": "Top disclosed reports from HackerOne",
-    "forks_count": 871,
+    "forks_count": 872,
     "html_url": "https://github.com/reddelexc/hackerone-reports",
     "keywords": [
         "xxe",
@@ -117,8 +151,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-09-14, 21:12:20",
-    "stargazers_count": 4847,
-    "watchers_count": 4847
+    "stargazers_count": 4856,
+    "watchers_count": 4856
 }
 {
     "commits_count": 13,

@@ -1,0 +1,144 @@
+{
+    "commits_count": 7,
+    "date_started": "2018-10-23",
+    "date_updated": "2020-08-31",
+    "description": "CVE-2018-7600 POC (Drupal RCE)",
+    "forks_count": 7,
+    "html_url": "https://github.com/r3dxpl0it/CVE-2018-7600",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-7600",
+    "repo_owner": "r3dxpl0it",
+    "repotime": "2020-08-31, 16:52:13",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-07-18",
+    "date_updated": "2020-08-30",
+    "description": "These are certain exploits I have taken from exploitdb and tried to recreate it on my own in lieu of OSCE pre-prep",
+    "forks_count": 1,
+    "html_url": "https://github.com/ironspideytrip/OSCE-Prep-Zero-day-practice",
+    "keywords": [
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "OSCE-Prep-Zero-day-practice",
+    "repo_owner": "ironspideytrip",
+    "repotime": "2020-08-30, 13:40:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-08-17",
+    "date_updated": "2020-08-30",
+    "description": "[CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE)",
+    "forks_count": 1,
+    "html_url": "https://github.com/murataydemir/CVE-2020-0688",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-0688",
+    "repo_owner": "murataydemir",
+    "repotime": "2020-08-30, 00:00:56",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-08-17",
+    "date_updated": "2020-08-18",
+    "description": "A small project to bypass UAC in windows 10/8/7 using dll injection technique",
+    "forks_count": 21,
+    "html_url": "https://github.com/shubham0d/UAC-bypass-using-dll-injection",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "UAC-bypass-using-dll-injection",
+    "repo_owner": "shubham0d",
+    "repotime": "2020-08-18, 01:35:11",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-08-11",
+    "date_updated": "2020-08-11",
+    "description": "CVE-2020-1337 a bypass of (PrintDemon) CVE-2020-1048’s patch",
+    "forks_count": 2,
+    "html_url": "https://github.com/VoidSec/CVE-2020-1337",
+    "keywords": [
+        "0day exploit",
+        "Windows 0day poc",
+        "0day poc",
+        "Windows 0day exploit",
+        "Windows 0day"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-1337",
+    "repo_owner": "VoidSec",
+    "repotime": "2020-08-11, 19:23:03",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-08-07",
+    "date_updated": "2020-08-07",
+    "description": "public 0day exploit dev",
+    "forks_count": 0,
+    "html_url": "https://github.com/kernelzeroday/0day-dev",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "C",
+    "repo_name": "0day-dev",
+    "repo_owner": "kernelzeroday",
+    "repotime": "2020-08-07, 21:19:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-08-05",
+    "date_updated": "2020-08-06",
+    "description": "POC Selenium grid RCE using chrome webdriver.",
+    "forks_count": 1,
+    "html_url": "https://github.com/grines/selenium-grid-rce",
+    "keywords": [
+        "Chrome rce",
+        "Chrome rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "selenium-grid-rce",
+    "repo_owner": "grines",
+    "repotime": "2020-08-06, 23:00:39",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 10,
+    "date_started": "2020-08-04",
+    "date_updated": "2020-08-04",
+    "description": "ActiveMediaServer.exe in ACTi NVR3 Standard Server 3.0.12.42 allows remote unauthenticated attackers to trigger a buffer overflow and application termination via a malformed payload.",
+    "forks_count": 0,
+    "html_url": "https://github.com/megamagnus/cve-2020-15956",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2020-15956",
+    "repo_owner": "megamagnus",
+    "repotime": "2020-08-04, 08:50:12",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

@@ -1,0 +1,86 @@
+{
+    "commits_count": 10457,
+    "date_started": "2012-06-26",
+    "date_updated": "2025-10-07",
+    "description": "Automatic SQL injection and database takeover tool",
+    "forks_count": 6065,
+    "html_url": "https://github.com/sqlmapproject/sqlmap",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmap",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2025-10-07, 10:48:16",
+    "stargazers_count": 35459,
+    "watchers_count": 35459
+}
+{
+    "commits_count": 2209,
+    "date_started": "2019-09-10",
+    "date_updated": "2025-10-06",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 295,
+    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "TongchengOpenSource",
+    "repotime": "2025-10-06, 10:33:05",
+    "stargazers_count": 1578,
+    "watchers_count": 1578
+}
+{
+    "commits_count": 14,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-10-05",
+    "description": "Collection of Hack The Box writeups, covering various challenges including Active Directory, web exploitation, and privilege escalation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Chw41/HackTheBox",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "PHP",
+    "repo_name": "HackTheBox",
+    "repo_owner": "Chw41",
+    "repotime": "2025-10-05, 17:32:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 171,
+    "date_started": "2025-08-01",
+    "date_updated": "2025-10-03",
+    "description": "GarudRecon automates domain recon with top open-source tools to discover assets, enumerate subdomains, and detect XSS, SQLi, LFI, RCE &amp;amp; more.",
+    "forks_count": 32,
+    "html_url": "https://github.com/rix4uni/GarudRecon",
+    "keywords": [
+        "rce vulnerability",
+        "lfi"
+    ],
+    "language": "Shell",
+    "repo_name": "GarudRecon",
+    "repo_owner": "rix4uni",
+    "repotime": "2025-10-03, 16:58:26",
+    "stargazers_count": 153,
+    "watchers_count": 153
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-10-01",
+    "date_updated": "2025-10-01",
+    "description": "A Python-based Multiple Choice Quiz on Nutrition with 20 questions. The quiz covers food groups, vitamins, minerals, dietary diseases, digestion, BMI, and probiotics. Users can answer MCQs, get a score with percentage, and review wrong answers with correct answers at the end. Includes input validation to avoid wrong key entries.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Zarra29/Nutrition-Questionnaire",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "Python",
+    "repo_name": "Nutrition-Questionnaire",
+    "repo_owner": "Zarra29",
+    "repotime": "2025-10-01, 19:18:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -1,0 +1,425 @@
+{
+    "commits_count": 6,
+    "date_started": "2025-08-31",
+    "date_updated": "2025-08-31",
+    "description": "Remediation of Microsoft Teams RCE vulnerability (Plugin ID: 250276, Aug 2025) with before/after evidence.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kamgreen50/STIG-Teams-RCE-Aug2025",
+    "keywords": [
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "STIG-Teams-RCE-Aug2025",
+    "repo_owner": "Kamgreen50",
+    "repotime": "2025-08-31, 13:11:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2025-08-27",
+    "date_updated": "2025-08-31",
+    "description": "This project provides a comprehensive security monitoring system designed to detect unknown threats and suspicious activities in real-time. The system combines rule-based detection with statistical analysis to identify potential security breaches before they cause significant damage.",
+    "forks_count": 0,
+    "html_url": "https://github.com/musoniisaac/Zero-Day_Detector",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "Zero-Day_Detector",
+    "repo_owner": "musoniisaac",
+    "repotime": "2025-08-31, 18:53:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1405,
+    "date_started": "2020-06-02",
+    "date_updated": "2025-08-31",
+    "description": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
+    "forks_count": 220,
+    "html_url": "https://github.com/hadashiA/VContainer",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "VContainer",
+    "repo_owner": "hadashiA",
+    "repotime": "2025-08-31, 17:10:20",
+    "stargazers_count": 2532,
+    "watchers_count": 2532
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-08-30",
+    "date_updated": "2025-08-29",
+    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
+    "forks_count": 0,
+    "html_url": "https://github.com/5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": null,
+    "repo_name": "glass-cage-i18-2025-24085-and-cve-2025-24201",
+    "repo_owner": "5ky9uy",
+    "repotime": "2025-08-29, 20:20:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 176,
+    "date_started": "2019-10-02",
+    "date_updated": "2025-08-28",
+    "description": "This repository contains all the XSS cheatsheet data to allow contributions from the community.",
+    "forks_count": 87,
+    "html_url": "https://github.com/PortSwigger/xss-cheatsheet-data",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "xss-cheatsheet-data",
+    "repo_owner": "PortSwigger",
+    "repotime": "2025-08-28, 15:59:41",
+    "stargazers_count": 442,
+    "watchers_count": 442
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-08-28",
+    "date_updated": "2025-08-28",
+    "description": "Proof of concept written in Python targeting memory overflow vulnerability leading to remote code execution in CVE-2025-7775",
+    "forks_count": 0,
+    "html_url": "https://github.com/mezo0x4/CVE-2025-7775",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-7775",
+    "repo_owner": "mezo0x4",
+    "repotime": "2025-08-28, 08:51:06",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-08-26",
+    "date_updated": "2025-08-26",
+    "description": "Exodus Fake Balance - educational security tool for demonstrating wallet vulnerabilities. Learn about balance spoofing techniques and protect yourself from crypto scams.",
+    "forks_count": 8,
+    "html_url": "https://github.com/Angelagoedhart598/Exodus-Fake-Balance-New",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Exodus-Fake-Balance-New",
+    "repo_owner": "Angelagoedhart598",
+    "repotime": "2025-08-26, 18:12:19",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-08-26",
+    "date_updated": "2025-08-25",
+    "description": "Esta es una herramienta de línea de comandos escrita en Python para inyectar payloads de XXE (XML External Entity) en archivos .xlsx. Su propósito es facilitar la experimentación y la demostración de vulnerabilidades XXE en entornos controlados de pentesting y laboratorios de seguridad. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/arthusu/xxe_injector_xlsx",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "xxe_injector_xlsx",
+    "repo_owner": "arthusu",
+    "repotime": "2025-08-25, 22:07:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-08-17",
+    "date_updated": "2025-08-25",
+    "description": "mchammer: a proof-of-concept for synthesizing hardware machine check exceptions (MCE) to explore processor exploitation, MCA analysis, and privilege escalation. 🔨",
+    "forks_count": 0,
+    "html_url": "https://github.com/M-c-tech-dev/mchammer",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "mchammer",
+    "repo_owner": "M-c-tech-dev",
+    "repotime": "2025-08-25, 23:32:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 42625,
+    "date_started": "2025-08-24",
+    "date_updated": "2025-08-24",
+    "description": "Modified GLIBC to protect Use after free vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/Md-Monowarul-Amin/Glbc-Modified",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "Makefile",
+    "repo_name": "Glbc-Modified",
+    "repo_owner": "Md-Monowarul-Amin",
+    "repotime": "2025-08-24, 21:45:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-08-24",
+    "date_updated": "2025-08-24",
+    "description": "A practical walkthrough for exploiting a known vulnerability in the Easy File Sharing Web Server 7.2 to gain a remote Meterpreter session on a Windows 7 target. This lab is designed for penetration testing practice and education in a controlled environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/asdfrlife/Easy-File-Sharing-7.2-Exploit-Walkthrough",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Easy-File-Sharing-7.2-Exploit-Walkthrough",
+    "repo_owner": "asdfrlife",
+    "repotime": "2025-08-24, 13:23:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 54,
+    "date_started": "2025-01-06",
+    "date_updated": "2025-08-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/federico-zanca/KernelExploit-UAF-to-OOB",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "C",
+    "repo_name": "KernelExploit-UAF-to-OOB",
+    "repo_owner": "federico-zanca",
+    "repotime": "2025-08-24, 00:19:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-06-03",
+    "date_updated": "2025-08-21",
+    "description": "Collection of shellcode injection and execution techniques",
+    "forks_count": 7,
+    "html_url": "https://github.com/11philip22/code-Injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "code-Injection",
+    "repo_owner": "11philip22",
+    "repotime": "2025-08-21, 11:26:48",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 25,
+    "date_started": "2025-08-11",
+    "date_updated": "2025-08-20",
+    "description": "A Neovim plugin that detects memory leaks in C code using AI and clang-tidy. Automatically runs analysis on save and displays concise, AI-generated summaries as inline virtual text diagnostics.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tgben/cleakr",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Lua",
+    "repo_name": "cleakr",
+    "repo_owner": "tgben",
+    "repotime": "2025-08-20, 15:11:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 232,
+    "date_started": "2018-12-19",
+    "date_updated": "2025-08-20",
+    "description": "TypeScript clients for databases that prevent SQL Injection",
+    "forks_count": 46,
+    "html_url": "https://github.com/ForbesLindesay/atdatabases",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "TypeScript",
+    "repo_name": "atdatabases",
+    "repo_owner": "ForbesLindesay",
+    "repotime": "2025-08-20, 11:11:16",
+    "stargazers_count": 627,
+    "watchers_count": 627
+}
+{
+    "commits_count": 140,
+    "date_started": "2025-05-17",
+    "date_updated": "2025-08-19",
+    "description": "A collection of detailed, hands-on write-ups for Hack The Box (HTB) machines that I’ve rooted. Each write-up is a real-world walkthrough of how I approached, enumerated, exploited, and escalated privileges on vulnerable boxes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Raihan93-coder/HTB-writeups",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "HTB-writeups",
+    "repo_owner": "Raihan93-coder",
+    "repotime": "2025-08-19, 19:51:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-08-19",
+    "date_updated": "2025-08-19",
+    "description": "A responsive, offline-friendly EV Battery Management System (BMS) Simulator built with HTML, CSS, and vanilla JavaScript. Simulates driving and charging profiles, displays live telemetry (SoC, SoH, voltage, current, power, temperature, range), supports fault injection, and generates real-time charts with CSV export for analysis",
+    "forks_count": 0,
+    "html_url": "https://github.com/AfiaRishta/ev-bms-simulator",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "ev-bms-simulator",
+    "repo_owner": "AfiaRishta",
+    "repotime": "2025-08-19, 20:58:43",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 121,
+    "date_started": "2024-11-30",
+    "date_updated": "2025-08-18",
+    "description": "Server with vless+reality on board for my friends to bypass internet censorship ",
+    "forks_count": 0,
+    "html_url": "https://github.com/ed-asriyan/rkn-server-deploy",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Jinja",
+    "repo_name": "rkn-server-deploy",
+    "repo_owner": "ed-asriyan",
+    "repotime": "2025-08-18, 13:32:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 65,
+    "date_started": "2025-08-16",
+    "date_updated": "2025-08-16",
+    "description": "A Cyberpunk Hacking &amp;amp; SaaS Strategy Game. ZeroDay Syndicate is a cyberpunk management &amp;amp; hacking sim.   You buy servers, run SaaS businesses, discover Zero-Day Exploits (ZDEs), and wage digital warfare against AI competitors (or other players). ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Razsk/ZeroDay-Syndicate",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "ZeroDay-Syndicate",
+    "repo_owner": "Razsk",
+    "repotime": "2025-08-16, 21:23:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2025-08-14",
+    "date_updated": "2025-08-15",
+    "description": "TCP/IP hijack using PCAP and LIBNET library for capturing and injection TCP/IP packages - This code simply spoof victim ip anddress , and send TCP/IP packet to DST using RST flag , so Victim mashine loose access to the internet , Fundamental of how to fully hijack a session , Use it ethically",
+    "forks_count": 0,
+    "html_url": "https://github.com/Amir-hrn/TCP-IP-Hijack-via-RST-signal-",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "C",
+    "repo_name": "TCP-IP-Hijack-via-RST-signal-",
+    "repo_owner": "Amir-hrn",
+    "repotime": "2025-08-15, 14:08:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1404,
+    "date_started": "2016-11-14",
+    "date_updated": "2025-08-14",
+    "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (&amp;quot;transparent&amp;quot;) encryption. SQL, NoSQL.",
+    "forks_count": 132,
+    "html_url": "https://github.com/cossacklabs/acra",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "acra",
+    "repo_owner": "cossacklabs",
+    "repotime": "2025-08-14, 18:32:28",
+    "stargazers_count": 1431,
+    "watchers_count": 1431
+}
+{
+    "commits_count": 684,
+    "date_started": "2017-03-06",
+    "date_updated": "2025-08-12",
+    "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
+    "forks_count": 371,
+    "html_url": "https://github.com/ssl/ezXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "ezXSS",
+    "repo_owner": "ssl",
+    "repotime": "2025-08-12, 15:38:16",
+    "stargazers_count": 2131,
+    "watchers_count": 2131
+}
+{
+    "commits_count": 28,
+    "date_started": "2025-04-15",
+    "date_updated": "2025-08-11",
+    "description": "Respostas dos exercícios da disciplina de LPED",
+    "forks_count": 0,
+    "html_url": "https://github.com/cabarros3/respostas-lped",
+    "keywords": [
+        "lpe dos"
+    ],
+    "language": "TypeScript",
+    "repo_name": "respostas-lped",
+    "repo_owner": "cabarros3",
+    "repotime": "2025-08-11, 10:50:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 68,
+    "date_started": "2025-07-23",
+    "date_updated": "2025-08-06",
+    "description": "Multi-agent LLM ensemble for automated zero-day vulnerability detection.   Thompson Sampling optimization, 21+ evidence sources, 5 specialized   agents.",
+    "forks_count": 1,
+    "html_url": "https://github.com/lodetomasi/zero-day-llm-ensemble",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "zero-day-llm-ensemble",
+    "repo_owner": "lodetomasi",
+    "repotime": "2025-08-06, 08:47:04",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 37,
+    "date_started": "2025-08-02",
+    "date_updated": "2025-08-02",
+    "description": "A curated collection of binary exploitation techniques with PoC exploits. Covers stack-based ROP chains, ASLR bypass methods, and heap exploits. Clean, educational, and real-world focused.",
+    "forks_count": 0,
+    "html_url": "https://github.com/r4xis/exploit-techniques-poc-archive",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": "Python",
+    "repo_name": "exploit-techniques-poc-archive",
+    "repo_owner": "r4xis",
+    "repotime": "2025-08-02, 17:52:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

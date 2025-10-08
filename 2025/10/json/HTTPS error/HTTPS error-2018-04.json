@@ -1,0 +1,172 @@
+{
+    "commits_count": 15,
+    "date_started": "2017-09-01",
+    "date_updated": "2018-04-29",
+    "description": "dork scanner with Sqli and Lfi testing",
+    "forks_count": 12,
+    "html_url": "https://github.com/nycto-hackerone/nycto-dork",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "nycto-dork",
+    "repo_owner": "nycto-hackerone",
+    "repotime": "2018-04-29, 22:49:17",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 10,
+    "date_started": "2018-04-27",
+    "date_updated": "2018-04-28",
+    "description": " Inject a .NET assembly into a native process using the CLR Hosting API",
+    "forks_count": 5,
+    "html_url": "https://github.com/Vacko/Managed-code-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "Managed-code-injection",
+    "repo_owner": "Vacko",
+    "repotime": "2018-04-28, 15:09:22",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 17,
+    "date_started": "2018-04-24",
+    "date_updated": "2018-04-25",
+    "description": "CVE-2018-6574 POC : golang 'go get' remote command execution during source code build",
+    "forks_count": 13,
+    "html_url": "https://github.com/neargle/Go-Get-RCE-CVE-2018-6574-POC",
+    "keywords": [
+        "rce poc",
+        "remote code execution poc"
+    ],
+    "language": "C",
+    "repo_name": "Go-Get-RCE-CVE-2018-6574-POC",
+    "repo_owner": "neargle",
+    "repotime": "2018-04-25, 00:32:22",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 272,
+    "date_started": "2015-03-07",
+    "date_updated": "2018-04-20",
+    "description": "PowerForensics provides an all in one platform for live disk forensic analysis",
+    "forks_count": 282,
+    "html_url": "https://github.com/Invoke-IR/PowerForensics",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "C#",
+    "repo_name": "PowerForensics",
+    "repo_owner": "Invoke-IR",
+    "repotime": "2018-04-20, 03:34:59",
+    "stargazers_count": 1418,
+    "watchers_count": 1418
+}
+{
+    "commits_count": 79,
+    "date_started": "2012-07-24",
+    "date_updated": "2018-04-17",
+    "description": "An automatic XSS discovery tool",
+    "forks_count": 119,
+    "html_url": "https://github.com/gbrindisi/xsssniper",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "xsssniper",
+    "repo_owner": "gbrindisi",
+    "repotime": "2018-04-17, 10:12:36",
+    "stargazers_count": 402,
+    "watchers_count": 402
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-04-13",
+    "date_updated": "2018-04-13",
+    "description": "LFI scanner tool used at PentestCloud.io",
+    "forks_count": 7,
+    "html_url": "https://github.com/clicknull/LFI-scanner",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "LFI-scanner",
+    "repo_owner": "clicknull",
+    "repotime": "2018-04-13, 17:27:16",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 85,
+    "date_started": "2017-06-09",
+    "date_updated": "2018-04-08",
+    "description": "Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner ",
+    "forks_count": 401,
+    "html_url": "https://github.com/D35m0nd142/LFISuite",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "LFISuite",
+    "repo_owner": "D35m0nd142",
+    "repotime": "2018-04-08, 12:30:09",
+    "stargazers_count": 1870,
+    "watchers_count": 1870
+}
+{
+    "commits_count": 21,
+    "date_started": "2018-04-03",
+    "date_updated": "2018-04-06",
+    "description": "Should work from Windows 7 to Latest Windows 10 FCU",
+    "forks_count": 7,
+    "html_url": "https://github.com/websecnl/UAC-Bypass-Exploit",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "UAC-Bypass-Exploit",
+    "repo_owner": "websecnl",
+    "repotime": "2018-04-06, 14:57:15",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 10,
+    "date_started": "2017-05-31",
+    "date_updated": "2018-04-05",
+    "description": "A script to randomize Cobalt Strike Malleable C2 profiles and reduce the chances of flagging signature-based detection controls",
+    "forks_count": 87,
+    "html_url": "https://github.com/bluscreenofjeff/Malleable-C2-Randomizer",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "Malleable-C2-Randomizer",
+    "repo_owner": "bluscreenofjeff",
+    "repotime": "2018-04-05, 18:56:25",
+    "stargazers_count": 447,
+    "watchers_count": 447
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-11-07",
+    "date_updated": "2018-04-01",
+    "description": "Remote Code Execution exploiter",
+    "forks_count": 6,
+    "html_url": "https://github.com/websecnl/RCE_Universal_Exploiter",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "RCE_Universal_Exploiter",
+    "repo_owner": "websecnl",
+    "repotime": "2018-04-01, 12:14:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

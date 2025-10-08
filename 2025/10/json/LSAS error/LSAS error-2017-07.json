@@ -1,0 +1,69 @@
+{
+    "commits_count": 25,
+    "date_started": "2017-06-15",
+    "date_updated": "2017-07-26",
+    "description": "Java REST application to test hard coded passwords and code vulnerability scanning",
+    "forks_count": 1,
+    "html_url": "https://github.com/pasodoff/bad-apple",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Java",
+    "repo_name": "bad-apple",
+    "repo_owner": "pasodoff",
+    "repotime": "2017-07-26, 15:18:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2015-11-18",
+    "date_updated": "2017-07-17",
+    "description": "Powershell to CodeExecution and ProcessInjection",
+    "forks_count": 23,
+    "html_url": "https://github.com/3gstudent/Code-Execution-and-Process-Injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Code-Execution-and-Process-Injection",
+    "repo_owner": "3gstudent",
+    "repotime": "2017-07-17, 17:40:17",
+    "stargazers_count": 64,
+    "watchers_count": 64
+}
+{
+    "commits_count": 69,
+    "date_started": "2021-05-16",
+    "date_updated": "2017-07-07",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/pravinsrc/Exploite-kernel-address-leaks",
+    "keywords": [
+        "address leak exploit"
+    ],
+    "language": "C++",
+    "repo_name": "Exploite-kernel-address-leaks",
+    "repo_owner": "pravinsrc",
+    "repotime": "2017-07-07, 11:05:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 69,
+    "date_started": "2017-01-30",
+    "date_updated": "2017-07-07",
+    "description": "Examples of leaking Kernel Mode information from User Mode on Windows",
+    "forks_count": 161,
+    "html_url": "https://github.com/sam-b/windows_kernel_address_leaks",
+    "keywords": [
+        "Win address leak",
+        "Windows address leak"
+    ],
+    "language": "C++",
+    "repo_name": "windows_kernel_address_leaks",
+    "repo_owner": "sam-b",
+    "repotime": "2017-07-07, 11:05:33",
+    "stargazers_count": 620,
+    "watchers_count": 620
+}

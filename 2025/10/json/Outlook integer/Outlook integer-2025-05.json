@@ -1,0 +1,51 @@
+{
+    "commits_count": 1,
+    "date_started": "2025-05-13",
+    "date_updated": "2025-05-13",
+    "description": "This program ensures the user inputs valid integers or floating-point numbers. It checks for invalid characters, multiple decimal points, and improper placement of signs. The program keeps prompting the user until a valid input is entered, ensuring the correct format is maintained for both integer and floating-point values.",
+    "forks_count": 0,
+    "html_url": "https://github.com/FotisDev/InputValidationProgram2",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "C",
+    "repo_name": "InputValidationProgram2",
+    "repo_owner": "FotisDev",
+    "repotime": "2025-05-13, 20:50:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 88,
+    "date_started": "2025-01-27",
+    "date_updated": "2025-05-09",
+    "description": "All in one AI and Rust based CyberSecurity tool to protect Windows and Linux OS systems from Zero Day threats ",
+    "forks_count": 0,
+    "html_url": "https://github.com/mayd01/DillonAIPolyGlotDefender",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": "Rust",
+    "repo_name": "DillonAIPolyGlotDefender",
+    "repo_owner": "mayd01",
+    "repotime": "2025-05-09, 13:17:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1550,
+    "date_started": "2012-07-18",
+    "date_updated": "2025-05-09",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 436,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2025-05-09, 01:37:35",
+    "stargazers_count": 1688,
+    "watchers_count": 1688
+}

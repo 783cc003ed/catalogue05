@@ -1,0 +1,172 @@
+{
+    "commits_count": 3,
+    "date_started": "2025-05-31",
+    "date_updated": "2025-05-31",
+    "description": "Remote Code Execution via Use-After-Free in JScript.dll (CVE-2025-30397)",
+    "forks_count": 14,
+    "html_url": "https://github.com/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-",
+    "keywords": [
+        "Windows use after free",
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-",
+    "repo_owner": "mbanyamer",
+    "repotime": "2025-05-31, 15:23:53",
+    "stargazers_count": 63,
+    "watchers_count": 63
+}
+{
+    "commits_count": 68,
+    "date_started": "2025-04-14",
+    "date_updated": "2025-05-28",
+    "description": "A collection of labs, tools, and study materials for OSCP exam preparation. Includes practice environments, scripts, and resources for enumeration, exploitation, and privilege escalation to help master penetration testing skills.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xD13/OSCP-Prep-Guide",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "OSCP-Prep-Guide",
+    "repo_owner": "0xD13",
+    "repotime": "2025-05-28, 09:20:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-26",
+    "date_updated": "2025-05-26",
+    "description": "Reverse engineered a C-based authentication program and used GDB, cyclic patterns, and return address control to bypass login and execute shellcode. Analysed stack canaries and ASLR protections.",
+    "forks_count": 0,
+    "html_url": "https://github.com/saminyasirkhan/Buffer-Overflow",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": null,
+    "repo_name": "Buffer-Overflow",
+    "repo_owner": "saminyasirkhan",
+    "repotime": "2025-05-26, 23:18:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-05-20",
+    "date_updated": "2025-05-21",
+    "description": "Memory leak Exploitation using GNU debugger",
+    "forks_count": 0,
+    "html_url": "https://github.com/KDShetty11/Buffer-overflow-assessments-with-GDB",
+    "keywords": [
+        "memory leak exploit"
+    ],
+    "language": null,
+    "repo_name": "Buffer-overflow-assessments-with-GDB",
+    "repo_owner": "KDShetty11",
+    "repotime": "2025-05-21, 18:36:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-22",
+    "date_updated": "2025-05-19",
+    "description": "Public disclosure of CVE-2025-31200 – Zero-click RCE in iOS 18.X via AudioConverterService and malicious audio file.",
+    "forks_count": 8,
+    "html_url": "https://github.com/serundengsapi/CVE-2025-31200-iOS-AudioConverter-RCE",
+    "keywords": [
+        "rce disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-31200-iOS-AudioConverter-RCE",
+    "repo_owner": "serundengsapi",
+    "repotime": "2025-05-19, 11:30:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-05-14",
+    "date_updated": "2025-05-15",
+    "description": "CVE-2025-32756 — Fortinet FortiVoice Unauthenticated RCE (PoC)",
+    "forks_count": 1,
+    "html_url": "https://github.com/m4s1um/CVE-2025-32756-RCE-PoC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-32756-RCE-PoC",
+    "repo_owner": "m4s1um",
+    "repotime": "2025-05-15, 02:51:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 88,
+    "date_started": "2025-01-27",
+    "date_updated": "2025-05-09",
+    "description": "All in one AI and Rust based CyberSecurity tool to protect Windows and Linux OS systems from Zero Day threats ",
+    "forks_count": 0,
+    "html_url": "https://github.com/mayd01/DillonAIPolyGlotDefender",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": "Rust",
+    "repo_name": "DillonAIPolyGlotDefender",
+    "repo_owner": "mayd01",
+    "repotime": "2025-05-09, 13:17:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-05-07",
+    "date_updated": "2025-05-06",
+    "description": "Used SEED Labs to bypass ASLR and craft exploits targeting vulnerable binaries in a sandboxed lab.",
+    "forks_count": 0,
+    "html_url": "https://github.com/eamanor8/buffer-overflow",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": "C",
+    "repo_name": "buffer-overflow",
+    "repo_owner": "eamanor8",
+    "repotime": "2025-05-06, 22:42:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-05-01",
+    "date_updated": "2025-05-03",
+    "description": "A lightweight Linux memory analysis tool to inspect heap, stack, buffers, detect memory leaks, and assist in fuzzing C/C++ applications.",
+    "forks_count": 0,
+    "html_url": "https://github.com/nikhilkumar0102/linux-memory-analyzer",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Python",
+    "repo_name": "linux-memory-analyzer",
+    "repo_owner": "nikhilkumar0102",
+    "repotime": "2025-05-03, 12:06:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-02",
+    "date_updated": "2025-05-02",
+    "description": "This isn't mine, credit to Mark Russinovich. NotMyFault is a free tool to crash, hang, and cause kernel memory leaks to learn how to diagnose different device and hardware problems on Windows systems.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Neruvy/NotMyFault",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": null,
+    "repo_name": "NotMyFault",
+    "repo_owner": "Neruvy",
+    "repotime": "2025-05-02, 16:49:26",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

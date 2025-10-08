@@ -1,0 +1,175 @@
+{
+    "commits_count": 4,
+    "date_started": "2017-12-26",
+    "date_updated": "2017-12-26",
+    "description": "A python RCE exploit on QNAP-QTS ",
+    "forks_count": 9,
+    "html_url": "https://github.com/0xneox/QNAP-QTS-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "QNAP-QTS-RCE",
+    "repo_owner": "0xneox",
+    "repotime": "2017-12-26, 15:27:38",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 313,
+    "date_started": "2015-10-02",
+    "date_updated": "2017-12-22",
+    "description": "SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.",
+    "forks_count": 74,
+    "html_url": "https://github.com/bcoles/ssrf_proxy",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Ruby",
+    "repo_name": "ssrf_proxy",
+    "repo_owner": "bcoles",
+    "repotime": "2017-12-22, 12:56:31",
+    "stargazers_count": 474,
+    "watchers_count": 474
+}
+{
+    "commits_count": 9,
+    "date_started": "2016-08-25",
+    "date_updated": "2017-12-20",
+    "description": "A tool to exploit imagetragick vulnerability to gain remote code execution ",
+    "forks_count": 9,
+    "html_url": "https://github.com/vishwaraj101/imagetragick",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "imagetragick",
+    "repo_owner": "vishwaraj101",
+    "repotime": "2017-12-20, 15:33:18",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 66,
+    "date_started": "2017-11-16",
+    "date_updated": "2017-12-19",
+    "description": "This project houses all of the jquery written on top of an award application (our General Operating Support grant application) hosted by FluidReview. While FluidReview is a great drag-and-drop application builder, it lacks some out-of-the-box customization. The platform allows the builder to drop in a javascript box. The javascript box only applies to that application page (so, if a form has multiple pages, you'll need each page to have the javascript box dropped in). More about the javascript box here: https://fluidreview.zendesk.com/hc/en-us/articles/115002494634-JavaScript-Question. This project includes edited how a table appears (a 3D Matrix question in FluidReview), adding in custom validation on form inputs (for phone numbers, currency, registered Missouri Business number, etc.), and adding in calculations in the 990 worksheet table. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/avattt/fluidreview-jquery",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "fluidreview-jquery",
+    "repo_owner": "avattt",
+    "repotime": "2017-12-19, 13:54:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-05-03",
+    "date_updated": "2017-12-19",
+    "description": "A set of tutorials about code injection for Windows.",
+    "forks_count": 72,
+    "html_url": "https://github.com/peperunas/injectopi",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "injectopi",
+    "repo_owner": "peperunas",
+    "repotime": "2017-12-19, 17:06:15",
+    "stargazers_count": 312,
+    "watchers_count": 312
+}
+{
+    "commits_count": 5,
+    "date_started": "2015-05-12",
+    "date_updated": "2017-12-18",
+    "description": "Win32k LPE vulnerability used in APT attack",
+    "forks_count": 176,
+    "html_url": "https://github.com/hfiref0x/CVE-2015-1701",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2015-1701",
+    "repo_owner": "hfiref0x",
+    "repotime": "2017-12-18, 21:11:23",
+    "stargazers_count": 289,
+    "watchers_count": 289
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-12-19",
+    "date_updated": "2017-12-15",
+    "description": "CVE-2017-15944 Palo Alto Networks firewalls remote root code execution POC",
+    "forks_count": 6,
+    "html_url": "https://github.com/xxnbyy/CVE-2017-15944-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-15944-POC",
+    "repo_owner": "xxnbyy",
+    "repotime": "2017-12-15, 10:57:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2017-12-14",
+    "date_updated": "2017-12-14",
+    "description": "My final submission - with working hard coded login , sanitized inputs ,hashed passwords and fully working crud.",
+    "forks_count": 0,
+    "html_url": "https://github.com/JamesFinglas/B00094138---JamesFinglas---Project-Submission",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "PHP",
+    "repo_name": "B00094138---JamesFinglas---Project-Submission",
+    "repo_owner": "JamesFinglas",
+    "repotime": "2017-12-14, 09:49:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2017-12-08",
+    "date_updated": "2017-12-09",
+    "description": "CVE-2018-4343: Proof-of-concept for a use-after-free in the GSSCred daemon on macOS and iOS.",
+    "forks_count": 2,
+    "html_url": "https://github.com/bazad/gsscred-move-uaf",
+    "keywords": [
+        "uaf proof of concept",
+        "use after free proof of concept"
+    ],
+    "language": "C",
+    "repo_name": "gsscred-move-uaf",
+    "repo_owner": "bazad",
+    "repotime": "2017-12-09, 15:23:33",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 2,
+    "date_started": "2017-11-21",
+    "date_updated": "2017-12-06",
+    "description": "Dependency Injection Code from Visual Studio Toolbox Webcast",
+    "forks_count": 16,
+    "html_url": "https://github.com/miguelcastro67/DI-Webcast",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PowerShell",
+    "repo_name": "DI-Webcast",
+    "repo_owner": "miguelcastro67",
+    "repotime": "2017-12-06, 19:19:43",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}

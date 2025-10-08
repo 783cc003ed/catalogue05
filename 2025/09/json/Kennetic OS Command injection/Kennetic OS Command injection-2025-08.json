@@ -12,8 +12,8 @@
     "repo_name": "VContainer",
     "repo_owner": "hadashiA",
     "repotime": "2025-08-31, 17:10:20",
-    "stargazers_count": 2482,
-    "watchers_count": 2482
+    "stargazers_count": 2485,
+    "watchers_count": 2485
 }
 {
     "commits_count": 17,
@@ -203,40 +203,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 13,
-    "date_started": "2025-08-23",
-    "date_updated": "2025-08-24",
-    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
-    "forks_count": 1,
-    "html_url": "https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
-    "keywords": [
-        "sandbox escape exploit"
-    ],
-    "language": null,
-    "repo_name": "Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
-    "repo_owner": "JGoyd",
-    "repotime": "2025-08-24, 18:10:43",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
-    "commits_count": 99,
-    "date_started": "2025-08-24",
-    "date_updated": "2025-08-24",
-    "description": "Research project: Ensemble Deep Learning vs Traditional Signature-Based Methods for Zero-Day Malware Detection: A Comparative Analysis Using Behavioral Feature Extraction",
-    "forks_count": 0,
-    "html_url": "https://github.com/prashaant1926/ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "TeX",
-    "repo_name": "ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa",
-    "repo_owner": "prashaant1926",
-    "repotime": "2025-08-24, 10:24:48",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 42625,
     "date_started": "2025-08-24",
     "date_updated": "2025-08-24",
@@ -267,8 +233,8 @@
     "repo_name": "Advanced-Web-Application-Firewall",
     "repo_owner": "keusuanl-sec",
     "repotime": "2025-08-22, 17:15:31",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 19,
@@ -318,8 +284,8 @@
     "repo_name": "XSS",
     "repo_owner": "ShadowByte1",
     "repotime": "2025-08-20, 09:34:59",
-    "stargazers_count": 118,
-    "watchers_count": 118
+    "stargazers_count": 120,
+    "watchers_count": 120
 }
 {
     "commits_count": 140,
@@ -428,7 +394,7 @@
     "date_started": "2022-07-04",
     "date_updated": "2025-08-14",
     "description": "<no description>",
-    "forks_count": 98,
+    "forks_count": 99,
     "html_url": "https://github.com/Edr4/XSS-Bypass-Filters",
     "keywords": [
         "xss"
@@ -437,8 +403,8 @@
     "repo_name": "XSS-Bypass-Filters",
     "repo_owner": "Edr4",
     "repotime": "2025-08-14, 14:10:06",
-    "stargazers_count": 564,
-    "watchers_count": 564
+    "stargazers_count": 565,
+    "watchers_count": 565
 }
 {
     "commits_count": 15,

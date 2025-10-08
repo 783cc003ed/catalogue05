@@ -1,0 +1,124 @@
+{
+    "commits_count": 9,
+    "date_started": "2022-06-28",
+    "date_updated": "2022-06-29",
+    "description": "An exploitable pool corruption vulnerability exists in the 0x8200E804 IOCTL handler functionality of WIBU-SYSTEMS WibuKey.sys Version 6.40 (Build 2400). A specially crafted IRP request can cause a buffer overflow, resulting in kernel memory corruption and, potentially, privilege escalation. An attacker can send an IRP request to trigger this vulnerability.",
+    "forks_count": 0,
+    "html_url": "https://github.com/expFlash/CVE-2018-3990",
+    "keywords": [
+        "corruption overflow exploitation",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "corruption overflow vulnerability",
+        "corruption overflow exploit",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2018-3990",
+    "repo_owner": "expFlash",
+    "repotime": "2022-06-29, 06:53:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 62,
+    "date_started": "2022-06-27",
+    "date_updated": "2022-06-27",
+    "description": "Unicode visual spoofing demo program showcasing the vulnerability and a patch.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rohankhayech/UnicodeVisualSpoofing",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "UnicodeVisualSpoofing",
+    "repo_owner": "rohankhayech",
+    "repotime": "2022-06-27, 23:33:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-06-17",
+    "date_updated": "2022-06-26",
+    "description": "Integer overflow in KmxSbx.sys 6.2.0.22 in CA Internet Security Suite Plus 2010 allows local users to cause a denial of service (pool corruption) and execute arbitrary code via crafted arguments to the 0x88000080 IOCTL, which triggers a buffer overflow.",
+    "forks_count": 1,
+    "html_url": "https://github.com/expFlash/CVE-2010-4502",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2010-4502",
+    "repo_owner": "expFlash",
+    "repotime": "2022-06-26, 07:38:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-06-14",
+    "date_updated": "2022-06-22",
+    "description": "created a form with proper validation.You can add a user name and age if the input field is wrong then it's display the proper error message.",
+    "forks_count": 0,
+    "html_url": "https://github.com/impruthvi/React-Form",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "React-Form",
+    "repo_owner": "impruthvi",
+    "repotime": "2022-06-22, 21:29:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-06-19",
+    "date_updated": "2022-06-19",
+    "description": "Windows 0day for disabling Buffer Overflow attack prevention, changing ease of access program, and more!",
+    "forks_count": 0,
+    "html_url": "https://github.com/CL3U/surge-genesis",
+    "keywords": [
+        "Windows 0day"
+    ],
+    "language": null,
+    "repo_name": "surge-genesis",
+    "repo_owner": "CL3U",
+    "repotime": "2022-06-19, 12:51:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 124,
+    "date_started": "2022-04-19",
+    "date_updated": "2022-06-14",
+    "description": "🚀 一款为了学习go而诞生的漏洞利用工具",
+    "forks_count": 53,
+    "html_url": "https://github.com/SummerSec/SpringExploit",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Go",
+    "repo_name": "SpringExploit",
+    "repo_owner": "SummerSec",
+    "repotime": "2022-06-14, 12:28:15",
+    "stargazers_count": 449,
+    "watchers_count": 449
+}
+{
+    "commits_count": 41,
+    "date_started": "2020-12-12",
+    "date_updated": "2022-06-06",
+    "description": "GUI SQL Injection scannig tool",
+    "forks_count": 12,
+    "html_url": "https://github.com/tariqhawis/injectbot",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "injectbot",
+    "repo_owner": "tariqhawis",
+    "repotime": "2022-06-06, 06:46:45",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}

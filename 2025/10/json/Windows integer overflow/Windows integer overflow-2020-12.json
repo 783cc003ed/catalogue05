@@ -1,0 +1,87 @@
+{
+    "commits_count": 18,
+    "date_started": "2020-10-24",
+    "date_updated": "2020-12-28",
+    "description": "A vuln existss in Tenda AC6 router which allows an attacker to launch a telnet session with root access.",
+    "forks_count": 1,
+    "html_url": "https://github.com/cecada/Tenda-AC6-Root-Acces",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Tenda-AC6-Root-Acces",
+    "repo_owner": "cecada",
+    "repotime": "2020-12-28, 23:41:59",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-12-24",
+    "date_updated": "2020-12-24",
+    "description": "A simple script to bypass UAC in windows 10.",
+    "forks_count": 7,
+    "html_url": "https://github.com/Windows10-AdminHack/Admin-Hack-for-Windows",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Batchfile",
+    "repo_name": "Admin-Hack-for-Windows",
+    "repo_owner": "Windows10-AdminHack",
+    "repotime": "2020-12-24, 15:53:53",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-08-22",
+    "date_updated": "2020-12-13",
+    "description": "A password generator app that prompts questions for the user thus a random password specific to the user can be created. The app is responsive and can be used on the go for any device. The app is also very simple and small that gives a sense of security(coming from a small time coder) versus a huge program that has many vulnerabilities and hard to read.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MrDawit/Password-Generator",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Password-Generator",
+    "repo_owner": "MrDawit",
+    "repotime": "2020-12-13, 23:17:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 34,
+    "date_started": "2019-03-02",
+    "date_updated": "2020-12-13",
+    "description": "Remote Command Execution as SYSTEM on Windows IoT Core (releases available for Python2.7 &amp;amp; Python3)",
+    "forks_count": 90,
+    "html_url": "https://github.com/SafeBreach-Labs/SirepRAT",
+    "keywords": [
+        "Windows rce",
+        "rce exploit",
+        "Windows rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "SirepRAT",
+    "repo_owner": "SafeBreach-Labs",
+    "repotime": "2020-12-13, 11:52:54",
+    "stargazers_count": 384,
+    "watchers_count": 384
+}
+{
+    "commits_count": 19,
+    "date_started": "2019-11-28",
+    "date_updated": "2020-12-03",
+    "description": "here's a tonne of old code, the most recent stuff is python_projects, the code used during my masters project is in Rcode. I've tried very hard to not leak any sensitive information like phone numbers, emails,addresses,usernames passwords etc.. and have replaced all the occurrences of these with XXXXXX. If you see any contact me via linkedin",
+    "forks_count": 0,
+    "html_url": "https://github.com/JordanBarton/carrot47",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "carrot47",
+    "repo_owner": "JordanBarton",
+    "repotime": "2020-12-03, 15:00:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -1,0 +1,247 @@
+{
+    "commits_count": 1026,
+    "date_started": "2023-05-31",
+    "date_updated": "2025-07-30",
+    "description": "Top-level repository for LFI: Practical, Efficient, and Secure Software-based Sandboxing",
+    "forks_count": 11,
+    "html_url": "https://github.com/lfi-project/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Shell",
+    "repo_name": "lfi",
+    "repo_owner": "lfi-project",
+    "repotime": "2025-07-30, 13:52:26",
+    "stargazers_count": 90,
+    "watchers_count": 90
+}
+{
+    "commits_count": 16,
+    "date_started": "2021-09-04",
+    "date_updated": "2025-07-29",
+    "description": "A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder.  To get started, simply fork this repo.  CONTRIBUTING See ways of contributing to this repo. You can contribute solutions (will be published in this repo) to existing problems, add new projects, or remove existing ones. Make sure you follow all instructions properly.  Solutions You can find implementations of these projects in many other languages by other users in this repo.  Credits  Problems are motivated by the ones shared at:  Martyr2’s Mega Project List Rosetta Code Table of Contents Numbers Classic Algorithms Graph Data Structures Text Networking Classes Threading Web Files Databases Graphics and Multimedia Security Numbers Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.  Find e to the Nth Dig...",
+    "forks_count": 40,
+    "html_url": "https://github.com/ManojKumarPatnaik/Major-project-list",
+    "keywords": [
+        "Windows zero-day analysis",
+        "zero-day analysis",
+        "path traversal attack",
+        "Windows zero-day",
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Major-project-list",
+    "repo_owner": "ManojKumarPatnaik",
+    "repotime": "2025-07-29, 15:52:11",
+    "stargazers_count": 190,
+    "watchers_count": 190
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-05-04",
+    "date_updated": "2025-07-22",
+    "description": "Server-Side Request Forgery Testing Utility",
+    "forks_count": 0,
+    "html_url": "https://github.com/TheOSuite/oSSRF",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "oSSRF",
+    "repo_owner": "TheOSuite",
+    "repotime": "2025-07-22, 09:29:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-03-05",
+    "date_updated": "2025-07-19",
+    "description": "A **Command-Line Web Vulnerability Scanner** built in Python to scan websites for **SQL Injection, XSS, Directory Traversal**, and **Subdomain Enumeration** with **Tor &amp;amp; Proxy support** for anonymous scanning. The tool also generates an **HTML report** with the results.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Arya182-ui/Web_Venerability_Scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Web_Venerability_Scanner",
+    "repo_owner": "Arya182-ui",
+    "repotime": "2025-07-19, 14:00:40",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-04",
+    "date_updated": "2025-07-15",
+    "description": "Includes Glibc Heap Explanation, Heap Exploitation, Use after free vulnerability, Buffer Overflow etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Md-Monowarul-Amin/SoftwareSecurity",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "C",
+    "repo_name": "SoftwareSecurity",
+    "repo_owner": "Md-Monowarul-Amin",
+    "repotime": "2025-07-15, 20:01:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 229,
+    "date_started": "2013-08-03",
+    "date_updated": "2025-07-14",
+    "description": "A drop-in replacement for PHP's default session handler which stores session data in a MySQL database, providing better performance, better security and protection against session fixation and session hijacking",
+    "forks_count": 84,
+    "html_url": "https://github.com/stefangabos/Zebra_Session",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "Zebra_Session",
+    "repo_owner": "stefangabos",
+    "repotime": "2025-07-14, 23:42:30",
+    "stargazers_count": 177,
+    "watchers_count": 177
+}
+{
+    "commits_count": 78,
+    "date_started": "2025-03-08",
+    "date_updated": "2025-07-13",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/PICT-Cyber-Cell/AI-Based-Zero-Day-Vulnerability-Detection-System",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "AI-Based-Zero-Day-Vulnerability-Detection-System",
+    "repo_owner": "PICT-Cyber-Cell",
+    "repotime": "2025-07-13, 10:19:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2024-11-14",
+    "date_updated": "2025-07-09",
+    "description": "Complete list of LPE exploits for Windows (starting from 2023)",
+    "forks_count": 107,
+    "html_url": "https://github.com/MzHmO/Exploit-Street",
+    "keywords": [
+        "Windows lpe",
+        "lpe exploit",
+        "lpe exploitation",
+        "Windows lpe exploit",
+        "Windows lpe exploitation"
+    ],
+    "language": "C",
+    "repo_name": "Exploit-Street",
+    "repo_owner": "MzHmO",
+    "repotime": "2025-07-09, 01:39:58",
+    "stargazers_count": 805,
+    "watchers_count": 805
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-07-08",
+    "description": "Windows 7 RCE via SMBv1 buffer overflow in srv.sys",
+    "forks_count": 0,
+    "html_url": "https://github.com/thinken-cyber/Metasploit-Rat",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Shell",
+    "repo_name": "Metasploit-Rat",
+    "repo_owner": "thinken-cyber",
+    "repotime": "2025-07-08, 23:28:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 137,
+    "date_started": "2021-02-23",
+    "date_updated": "2025-07-08",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 83,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2025-07-08, 11:51:33",
+    "stargazers_count": 834,
+    "watchers_count": 834
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-07-01",
+    "date_updated": "2025-07-08",
+    "description": "Last project of 32 bit binary exploitation. There is now security to avoid exploitation but the goal is to bypass them in order to escalate privilege.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vicente118/Override",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Override",
+    "repo_owner": "Vicente118",
+    "repotime": "2025-07-08, 02:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2025-06-29",
+    "date_updated": "2025-07-07",
+    "description": "A simple script to protect Windows from attacks like SMB RCE ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mr-DS-ML-85/Harden-Windows",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Harden-Windows",
+    "repo_owner": "Mr-DS-ML-85",
+    "repotime": "2025-07-07, 15:43:51",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 26,
+    "date_started": "2025-06-28",
+    "date_updated": "2025-07-03",
+    "description": "Deep-dive into C-family memory vulnerabilities — stack overflow, heap corruption, format strings, and more.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ngvtdanhh/certificate-vuln1001-opensecuritytraining2",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": null,
+    "repo_name": "certificate-vuln1001-opensecuritytraining2",
+    "repo_owner": "ngvtdanhh",
+    "repotime": "2025-07-03, 22:04:21",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-07-02",
+    "date_updated": "2025-07-02",
+    "description": "This repository contains a Proof of Concept (PoC) exploit for the **CVE-2025-47175** vulnerability found in Microsoft PowerPoint.   The vulnerability is a Use-After-Free (UAF) bug that allows an attacker to execute arbitrary code by tricking a user into opening a specially crafted PPTX file.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mbanyamer/mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE",
+    "keywords": [
+        "Microsoft rce"
+    ],
+    "language": "Python",
+    "repo_name": "mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE",
+    "repo_owner": "mbanyamer",
+    "repotime": "2025-07-02, 15:19:49",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}

@@ -111,28 +111,6 @@ Ubiquiti Networks has issued an urgent security advisory (Bulletin 046) warning 
 ---
 
 # GitHub search -> Ubiquiti poc RCE
-# lab-cve-2020-0610
-
-https://github.com/Riocipta75/lab-cve-2020-0610
-<blockquote>
-🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>Riocipta75</code></td>
-    <td>Language: <code>PowerShell</code></td>
-    <td>Started: <code>2025-09-04 13:21:35+00:00</code></td>
-    <td>Latest: <code>2025-09-18 16:16:35+08:00</code></td></tr>
-<tr><td>Commits: <code>10</code></td>
-    <td>Stargazers: <code>0</code></td>
-    <td>Watchers: <code>0</code></td>
-    <td>Forks: <code>0</code></td></tr>
-</table>
-Keywords: Windows rce, Windows rce vulnerability
-
----
-
-# GitHub search -> Ubiquiti poc RCE
 # lab-cve-2025-3515
 
 https://github.com/MrSoules/lab-cve-2025-3515
@@ -144,13 +122,79 @@ https://github.com/MrSoules/lab-cve-2025-3515
 <tr><td>Owner: <code>MrSoules</code></td>
     <td>Language: <code>Shell</code></td>
     <td>Started: <code>2025-09-04 20:50:19+00:00</code></td>
-    <td>Latest: <code>2025-09-18 03:13:39-05:00</code></td></tr>
+    <td>Latest: <code>2025-09-22 01:42:23-05:00</code></td></tr>
 <tr><td>Commits: <code>5</code></td>
     <td>Stargazers: <code>0</code></td>
     <td>Watchers: <code>0</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: unrestricted file upload
+
+---
+
+# GitHub search -> Ubiquiti poc RCE
+# Announcement-board-dayasri
+
+https://github.com/Dayasri19/Announcement-board-dayasri
+<blockquote>
+This project demonstrates a stored Cross-Site Scripting (XSS) vulnerability in a Flask-based announcement board. The main goal is educational: to show how unsanitized HTML input can lead to client-side code execution and data theft (simulated admin cookie/flag access).
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Dayasri19</code></td>
+    <td>Language: <code>Python</code></td>
+    <td>Started: <code>2025-09-20 18:26:37+00:00</code></td>
+    <td>Latest: <code>2025-09-22 10:58:09+05:30</code></td></tr>
+<tr><td>Commits: <code>13</code></td>
+    <td>Stargazers: <code>0</code></td>
+    <td>Watchers: <code>0</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: cross-side-scripting
+
+---
+
+# GitHub search -> Ubiquiti poc RCE
+# CVE-2025-32463_chwoot
+
+https://github.com/ashardev002/CVE-2025-32463_chwoot
+<blockquote>
+🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>ashardev002</code></td>
+    <td>Language: <code>Shell</code></td>
+    <td>Started: <code>2025-09-20 00:42:07+00:00</code></td>
+    <td>Latest: <code>2025-09-22 09:51:38+05:30</code></td></tr>
+<tr><td>Commits: <code>14</code></td>
+    <td>Stargazers: <code>0</code></td>
+    <td>Watchers: <code>0</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: lpe poc
+
+---
+
+# GitHub search -> Ubiquiti poc RCE
+# 2025hvv
+
+https://github.com/Soham-id/2025hvv
+<blockquote>
+🛡️ Exploit Akamai's RepositoryService XXE vulnerability (CVE-2025-49493) with this testbed, aiding in secure coding practices and vulnerability assessments.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Soham-id</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2025-09-20 01:50:18+00:00</code></td>
+    <td>Latest: <code>2025-09-21 21:21:08-07:00</code></td></tr>
+<tr><td>Commits: <code>11</code></td>
+    <td>Stargazers: <code>0</code></td>
+    <td>Watchers: <code>0</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: 0day vulnerability
 
 ---
 
@@ -166,13 +210,35 @@ https://github.com/sureshkumarsat/CVE-2025-31258-PoC
 <tr><td>Owner: <code>sureshkumarsat</code></td>
     <td>Language: <code>Jupyter Notebook</code></td>
     <td>Started: <code>2020-06-23 15:20:11+00:00</code></td>
-    <td>Latest: <code>2025-09-18 11:18:37+05:30</code></td></tr>
+    <td>Latest: <code>2025-09-22 09:46:25+05:30</code></td></tr>
 <tr><td>Commits: <code>13</code></td>
     <td>Stargazers: <code>0</code></td>
     <td>Watchers: <code>0</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: sandbox escape exploit, sandbox escape poc
+
+---
+
+# GitHub search -> Ubiquiti poc RCE
+# lab-cve-2020-0610
+
+https://github.com/Riocipta75/lab-cve-2020-0610
+<blockquote>
+🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Riocipta75</code></td>
+    <td>Language: <code>PowerShell</code></td>
+    <td>Started: <code>2025-09-04 13:21:35+00:00</code></td>
+    <td>Latest: <code>2025-09-22 12:09:45+08:00</code></td></tr>
+<tr><td>Commits: <code>10</code></td>
+    <td>Stargazers: <code>0</code></td>
+    <td>Watchers: <code>0</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: Windows rce, Windows rce vulnerability
 
 ---
 
@@ -188,7 +254,7 @@ https://github.com/BODE987/CVE-2025-31258-PoC
 <tr><td>Owner: <code>BODE987</code></td>
     <td>Language: <code>Objective-C</code></td>
     <td>Started: <code>2025-05-15 00:55:10+00:00</code></td>
-    <td>Latest: <code>2025-09-18 07:14:01+02:00</code></td></tr>
+    <td>Latest: <code>2025-09-22 05:38:48+02:00</code></td></tr>
 <tr><td>Commits: <code>3</code></td>
     <td>Stargazers: <code>2</code></td>
     <td>Watchers: <code>2</code></td>
@@ -199,46 +265,46 @@ Keywords: sandbox escape vulnerability, sandbox escape exploit, sandbox escape p
 ---
 
 # GitHub search -> Ubiquiti poc RCE
-# dalfox
+# Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201
 
-https://github.com/hahwul/dalfox
+https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201
 <blockquote>
-🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
+Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.
 </blockquote>
 
 <table><tr>
-<tr><td>Owner: <code>hahwul</code></td>
-    <td>Language: <code>Go</code></td>
-    <td>Started: <code>2020-04-12 07:04:10+00:00</code></td>
-    <td>Latest: <code>2025-09-18 07:56:34+09:00</code></td></tr>
-<tr><td>Commits: <code>2039</code></td>
-    <td>Stargazers: <code>4533</code></td>
-    <td>Watchers: <code>4533</code></td>
-    <td>Forks: <code>490</code></td></tr>
+<tr><td>Owner: <code>JGoyd</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2025-08-23 05:08:06+00:00</code></td>
+    <td>Latest: <code>2025-09-21 17:08:34-04:00</code></td></tr>
+<tr><td>Commits: <code>14</code></td>
+    <td>Stargazers: <code>3</code></td>
+    <td>Watchers: <code>3</code></td>
+    <td>Forks: <code>3</code></td></tr>
 </table>
-Keywords: xss
+Keywords: sandbox escape exploit
 
 ---
 
 # GitHub search -> Ubiquiti poc RCE
-# Gamal
+# pentest-machine-writeups
 
-https://github.com/Fadavvi/Gamal
+https://github.com/francescolonardo/pentest-machine-writeups
 <blockquote>
-A tiny flask app for helping red-teamers, purple teamers, and pentesters in delivery, data exfiltration, and some attacks (SSRF, XXE, XSS, Session Hijacking, Session Riding).
+Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.
 </blockquote>
 
 <table><tr>
-<tr><td>Owner: <code>Fadavvi</code></td>
-    <td>Language: <code>Python</code></td>
-    <td>Started: <code>2020-12-09 07:23:14+00:00</code></td>
-    <td>Latest: <code>2025-09-17 12:02:18+00:00</code></td></tr>
-<tr><td>Commits: <code>25</code></td>
-    <td>Stargazers: <code>8</code></td>
-    <td>Watchers: <code>8</code></td>
+<tr><td>Owner: <code>francescolonardo</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2024-09-27 09:16:40+00:00</code></td>
+    <td>Latest: <code>2025-09-21 15:40:41+02:00</code></td></tr>
+<tr><td>Commits: <code>612</code></td>
+    <td>Stargazers: <code>3</code></td>
+    <td>Watchers: <code>3</code></td>
     <td>Forks: <code>1</code></td></tr>
 </table>
-Keywords: session hijacking
+Keywords: escalation of privileges exploit, escalation of privileges exploitation
 
 ---
 
@@ -254,13 +320,189 @@ https://github.com/Nish344/CTF-walkthroughs
 <tr><td>Owner: <code>Nish344</code></td>
     <td>Language: <code>None</code></td>
     <td>Started: <code>2025-08-10 17:35:52+00:00</code></td>
-    <td>Latest: <code>2025-09-17 11:29:13+00:00</code></td></tr>
-<tr><td>Commits: <code>155</code></td>
+    <td>Latest: <code>2025-09-21 13:03:42+00:00</code></td></tr>
+<tr><td>Commits: <code>167</code></td>
     <td>Stargazers: <code>2</code></td>
     <td>Watchers: <code>2</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: escalation of privileges exploit
+
+---
+
+# GitHub search -> Ubiquiti poc RCE
+# ZeroDayEDT
+
+https://github.com/danielvilaca/ZeroDayEDT
+<blockquote>
+Repository Showcasing Practical/Hands-On Zero-Day Exploit Development and Techniques
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>danielvilaca</code></td>
+    <td>Language: <code>Python</code></td>
+    <td>Started: <code>2024-10-15 21:23:38+00:00</code></td>
+    <td>Latest: <code>2025-09-20 23:11:45+01:00</code></td></tr>
+<tr><td>Commits: <code>49</code></td>
+    <td>Stargazers: <code>0</code></td>
+    <td>Watchers: <code>0</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: zero-day exploit, zero-day exploitation
+
+---
+
+# GitHub search -> Ubiquiti poc RCE
+# dalfox
+
+https://github.com/hahwul/dalfox
+<blockquote>
+🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>hahwul</code></td>
+    <td>Language: <code>Go</code></td>
+    <td>Started: <code>2020-04-12 07:04:10+00:00</code></td>
+    <td>Latest: <code>2025-09-21 01:34:30+09:00</code></td></tr>
+<tr><td>Commits: <code>2041</code></td>
+    <td>Stargazers: <code>4548</code></td>
+    <td>Watchers: <code>4548</code></td>
+    <td>Forks: <code>494</code></td></tr>
+</table>
+Keywords: xss
+
+---
+
+# GitHub search -> Ubiquiti poc RCE
+# CVE-2025-10585-The-Chrome-V8-Zero-Day
+
+https://github.com/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day
+<blockquote>
+Google patched CVE-2025-10585, a Chrome V8 zero-day under active exploitation — here’s what it is, why it matters, and how to stay safe.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>AdityaBhatt3010</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2025-09-19 19:53:28+00:00</code></td>
+    <td>Latest: <code>2025-09-20 01:34:47+05:30</code></td></tr>
+<tr><td>Commits: <code>3</code></td>
+    <td>Stargazers: <code>1</code></td>
+    <td>Watchers: <code>1</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: Chrome zero-day
+
+---
+
+# GitHub search -> Ubiquiti poc RCE
+# CodeAlpha_SecureCodeReview
+
+https://github.com/sahilbagde6/CodeAlpha_SecureCodeReview
+<blockquote>
+Identify flaws (like SQL injection, hardcoded passwords, lack of input validation).
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>sahilbagde6</code></td>
+    <td>Language: <code>Python</code></td>
+    <td>Started: <code>2025-09-19 14:36:06+00:00</code></td>
+    <td>Latest: <code>2025-09-19 20:31:04+05:30</code></td></tr>
+<tr><td>Commits: <code>4</code></td>
+    <td>Stargazers: <code>0</code></td>
+    <td>Watchers: <code>0</code></td>
+    <td>Forks: <code>0</code></td></tr>
+</table>
+Keywords: lack of input validation
+
+---
+
+# GitHub search -> Ubiquiti poc RCE
+# Gamal
+
+https://github.com/Fadavvi/Gamal
+<blockquote>
+A tiny flask app for helping red-teamers, purple teamers, and pentesters in delivery, data exfiltration, and some attacks (SSRF, XXE, XSS, Session Hijacking, Session Riding).
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Fadavvi</code></td>
+    <td>Language: <code>Python</code></td>
+    <td>Started: <code>2020-12-09 07:23:14+00:00</code></td>
+    <td>Latest: <code>2025-09-19 14:53:09+02:00</code></td></tr>
+<tr><td>Commits: <code>26</code></td>
+    <td>Stargazers: <code>8</code></td>
+    <td>Watchers: <code>8</code></td>
+    <td>Forks: <code>1</code></td></tr>
+</table>
+Keywords: session hijacking
+
+---
+
+# GitHub search -> Ubiquiti poc RCE
+# TOP
+
+https://github.com/GhostTroops/TOP
+<blockquote>
+TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>GhostTroops</code></td>
+    <td>Language: <code>Shell</code></td>
+    <td>Started: <code>2022-03-19 01:54:15+00:00</code></td>
+    <td>Latest: <code>2025-09-19 01:09:26+00:00</code></td></tr>
+<tr><td>Commits: <code>1311</code></td>
+    <td>Stargazers: <code>704</code></td>
+    <td>Watchers: <code>704</code></td>
+    <td>Forks: <code>122</code></td></tr>
+</table>
+Keywords: rce exploit, rce poc, rce vulnerability
+
+---
+
+# GitHub search -> Ubiquiti poc RCE
+# fuelcms-rce
+
+https://github.com/noraj/fuelcms-rce
+<blockquote>
+Fuel CMS 1.4 - Remote Code Execution
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>noraj</code></td>
+    <td>Language: <code>Ruby</code></td>
+    <td>Started: <code>2020-11-14 21:25:12+00:00</code></td>
+    <td>Latest: <code>2025-09-18 22:49:41+02:00</code></td></tr>
+<tr><td>Commits: <code>6</code></td>
+    <td>Stargazers: <code>7</code></td>
+    <td>Watchers: <code>7</code></td>
+    <td>Forks: <code>3</code></td></tr>
+</table>
+Keywords: remote code execution exploit, remote code execution poc
+
+---
+
+# GitHub search -> Ubiquiti poc RCE
+# cloudgoat
+
+https://github.com/RhinoSecurityLabs/cloudgoat
+<blockquote>
+CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>RhinoSecurityLabs</code></td>
+    <td>Language: <code>Python</code></td>
+    <td>Started: <code>2018-07-17 00:21:08+00:00</code></td>
+    <td>Latest: <code>2025-09-18 09:44:41-05:00</code></td></tr>
+<tr><td>Commits: <code>745</code></td>
+    <td>Stargazers: <code>3335</code></td>
+    <td>Watchers: <code>3335</code></td>
+    <td>Forks: <code>699</code></td></tr>
+</table>
+Keywords: by_owner
 
 ---
 
@@ -283,28 +525,6 @@ This repository contains a Proof of Concept (PoC) for CVE-2024-28397, a vulnerab
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: rce proof of concept
-
----
-
-# GitHub search -> Ubiquiti poc RCE
-# TOP
-
-https://github.com/GhostTroops/TOP
-<blockquote>
-TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>GhostTroops</code></td>
-    <td>Language: <code>Shell</code></td>
-    <td>Started: <code>2022-03-19 01:54:15+00:00</code></td>
-    <td>Latest: <code>2025-09-17 01:07:22+00:00</code></td></tr>
-<tr><td>Commits: <code>1309</code></td>
-    <td>Stargazers: <code>704</code></td>
-    <td>Watchers: <code>704</code></td>
-    <td>Forks: <code>122</code></td></tr>
-</table>
-Keywords: rce exploit, rce poc, rce vulnerability
 
 ---
 
@@ -551,28 +771,6 @@ Keywords: directory traversal vulnerability
 ---
 
 # GitHub search -> Ubiquiti poc RCE
-# pentest-machine-writeups
-
-https://github.com/francescolonardo/pentest-machine-writeups
-<blockquote>
-Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>francescolonardo</code></td>
-    <td>Language: <code>None</code></td>
-    <td>Started: <code>2024-09-27 09:16:40+00:00</code></td>
-    <td>Latest: <code>2025-09-07 18:27:47+02:00</code></td></tr>
-<tr><td>Commits: <code>608</code></td>
-    <td>Stargazers: <code>3</code></td>
-    <td>Watchers: <code>3</code></td>
-    <td>Forks: <code>1</code></td></tr>
-</table>
-Keywords: escalation of privileges exploit, escalation of privileges exploitation
-
----
-
-# GitHub search -> Ubiquiti poc RCE
 # CVE-2025-32433-Erlang-OTP-SSH-Unauthenticated-RCE
 
 https://github.com/dollarboysushil/CVE-2025-32433-Erlang-OTP-SSH-Unauthenticated-RCE
@@ -718,9 +916,9 @@ https://github.com/Mr-xn/Penetration_Testing_POC
     <td>Started: <code>2019-07-24 03:37:55+00:00</code></td>
     <td>Latest: <code>2025-09-04 22:16:07+08:00</code></td></tr>
 <tr><td>Commits: <code>1802</code></td>
-    <td>Stargazers: <code>7069</code></td>
-    <td>Watchers: <code>7069</code></td>
-    <td>Forks: <code>2017</code></td></tr>
+    <td>Stargazers: <code>7071</code></td>
+    <td>Watchers: <code>7071</code></td>
+    <td>Forks: <code>2016</code></td></tr>
 </table>
 Keywords: rce poc, rce exploit
 
@@ -921,28 +1119,6 @@ An engaging walkthrough on uncovering, patching, and securing the WinRAR CVE-202
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: Win zero-day
-
----
-
-# GitHub search -> Ubiquiti poc RCE
-# Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201
-
-https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201
-<blockquote>
-Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>JGoyd</code></td>
-    <td>Language: <code>None</code></td>
-    <td>Started: <code>2025-08-23 05:08:06+00:00</code></td>
-    <td>Latest: <code>2025-08-24 18:10:43-04:00</code></td></tr>
-<tr><td>Commits: <code>13</code></td>
-    <td>Stargazers: <code>3</code></td>
-    <td>Watchers: <code>3</code></td>
-    <td>Forks: <code>1</code></td></tr>
-</table>
-Keywords: sandbox escape exploit
 
 ---
 
@@ -1224,9 +1400,9 @@ POC for CVE-2025-50154, a zero day vulnerability on windows file explorer disclo
     <td>Started: <code>2025-08-13 08:16:29+00:00</code></td>
     <td>Latest: <code>2025-08-19 12:07:20+03:00</code></td></tr>
 <tr><td>Commits: <code>7</code></td>
-    <td>Stargazers: <code>29</code></td>
-    <td>Watchers: <code>29</code></td>
-    <td>Forks: <code>8</code></td></tr>
+    <td>Stargazers: <code>30</code></td>
+    <td>Watchers: <code>30</code></td>
+    <td>Forks: <code>9</code></td></tr>
 </table>
 Keywords: Windows zero-day poc, Windows zero-day, zero-day poc
 
@@ -1928,8 +2104,8 @@ Top-level repository for LFI: Practical, Efficient, and Secure Software-based Sa
     <td>Started: <code>2023-05-31 02:24:53+00:00</code></td>
     <td>Latest: <code>2025-07-30 13:52:26-07:00</code></td></tr>
 <tr><td>Commits: <code>1026</code></td>
-    <td>Stargazers: <code>87</code></td>
-    <td>Watchers: <code>87</code></td>
+    <td>Stargazers: <code>88</code></td>
+    <td>Watchers: <code>88</code></td>
     <td>Forks: <code>11</code></td></tr>
 </table>
 Keywords: lfi
@@ -2016,9 +2192,9 @@ Unauthenticated Python PoC for CVE-2025-20281 RCE against ISE ERS API
     <td>Started: <code>2025-06-27 21:07:27+00:00</code></td>
     <td>Latest: <code>2025-07-28 09:43:35-07:00</code></td></tr>
 <tr><td>Commits: <code>5</code></td>
-    <td>Stargazers: <code>16</code></td>
-    <td>Watchers: <code>16</code></td>
-    <td>Forks: <code>5</code></td></tr>
+    <td>Stargazers: <code>17</code></td>
+    <td>Watchers: <code>17</code></td>
+    <td>Forks: <code>7</code></td></tr>
 </table>
 Keywords: unauthenticated rce
 
@@ -2104,9 +2280,9 @@ An archive of 0day.today exploits
     <td>Started: <code>2025-07-25 13:29:27+00:00</code></td>
     <td>Latest: <code>2025-07-25 09:47:56-04:00</code></td></tr>
 <tr><td>Commits: <code>5</code></td>
-    <td>Stargazers: <code>167</code></td>
-    <td>Watchers: <code>167</code></td>
-    <td>Forks: <code>35</code></td></tr>
+    <td>Stargazers: <code>170</code></td>
+    <td>Watchers: <code>170</code></td>
+    <td>Forks: <code>36</code></td></tr>
 </table>
 Keywords: 0day exploit, 0day exploitation
 
@@ -2917,9 +3093,9 @@ Repository for information about 0-days exploited in-the-wild.
     <td>Language: <code>HTML</code></td>
     <td>Started: <code>2021-02-23 15:16:11+00:00</code></td>
     <td>Latest: <code>2025-07-08 11:51:33+02:00</code></td></tr>
-<tr><td>Commits: <code>136</code></td>
-    <td>Stargazers: <code>830</code></td>
-    <td>Watchers: <code>830</code></td>
+<tr><td>Commits: <code>137</code></td>
+    <td>Stargazers: <code>829</code></td>
+    <td>Watchers: <code>829</code></td>
     <td>Forks: <code>83</code></td></tr>
 </table>
 Keywords: 0day exploitation, 0day exploit
@@ -3138,8 +3314,8 @@ Local Privilege Escalation to Root via Sudo chroot in Linux
     <td>Started: <code>2025-07-02 07:20:20+00:00</code></td>
     <td>Latest: <code>2025-07-02 12:04:43+04:00</code></td></tr>
 <tr><td>Commits: <code>12</code></td>
-    <td>Stargazers: <code>168</code></td>
-    <td>Watchers: <code>168</code></td>
+    <td>Stargazers: <code>171</code></td>
+    <td>Watchers: <code>171</code></td>
     <td>Forks: <code>18</code></td></tr>
 </table>
 Keywords: lpe exploit, lpe poc
@@ -3341,28 +3517,6 @@ This is a proof-of-concept Metasploit module exploit for CVE-2015-1578, a buffer
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: Windows remote code execution exploit, remote code execution proof of concept
-
----
-
-# GitHub search -> Ubiquiti poc RCE
-# cloudgoat
-
-https://github.com/RhinoSecurityLabs/cloudgoat
-<blockquote>
-CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>RhinoSecurityLabs</code></td>
-    <td>Language: <code>Python</code></td>
-    <td>Started: <code>2018-07-17 00:21:08+00:00</code></td>
-    <td>Latest: <code>2025-06-20 08:19:51-05:00</code></td></tr>
-<tr><td>Commits: <code>743</code></td>
-    <td>Stargazers: <code>3331</code></td>
-    <td>Watchers: <code>3331</code></td>
-    <td>Forks: <code>701</code></td></tr>
-</table>
-Keywords: by_owner
 
 ---
 
@@ -3688,8 +3842,8 @@ Proof of Concept demonstrating Remote Code Execution through insecure deserializ
     <td>Started: <code>2025-06-06 06:31:13+00:00</code></td>
     <td>Latest: <code>2025-06-06 04:40:23-03:00</code></td></tr>
 <tr><td>Commits: <code>2</code></td>
-    <td>Stargazers: <code>72</code></td>
-    <td>Watchers: <code>72</code></td>
+    <td>Stargazers: <code>73</code></td>
+    <td>Watchers: <code>73</code></td>
     <td>Forks: <code>15</code></td></tr>
 </table>
 Keywords: remote code execution proof of concept, remote code execution exploit
@@ -3864,8 +4018,8 @@ APT38 Tactic PoC for Stealing 0days from security researchers
     <td>Started: <code>2021-09-09 23:52:33+00:00</code></td>
     <td>Latest: <code>2025-05-30 17:52:14+01:00</code></td></tr>
 <tr><td>Commits: <code>19</code></td>
-    <td>Stargazers: <code>318</code></td>
-    <td>Watchers: <code>318</code></td>
+    <td>Stargazers: <code>319</code></td>
+    <td>Watchers: <code>319</code></td>
     <td>Forks: <code>45</code></td></tr>
 </table>
 Keywords: rce poc, 0day poc
@@ -4326,8 +4480,8 @@ Python package dependency confusion  vulnerability POC. Impact this vulnerabilit
     <td>Started: <code>2023-05-24 07:05:09+00:00</code></td>
     <td>Latest: <code>2025-04-29 17:49:00+05:30</code></td></tr>
 <tr><td>Commits: <code>29</code></td>
-    <td>Stargazers: <code>10</code></td>
-    <td>Watchers: <code>10</code></td>
+    <td>Stargazers: <code>11</code></td>
+    <td>Watchers: <code>11</code></td>
     <td>Forks: <code>2</code></td></tr>
 </table>
 Keywords: remote code execution poc, remote code execution vulnerability
@@ -4502,9 +4656,9 @@ Most advanced XSS scanner.
     <td>Started: <code>2017-06-26 07:24:44+00:00</code></td>
     <td>Latest: <code>2025-04-26 14:17:06+05:30</code></td></tr>
 <tr><td>Commits: <code>478</code></td>
-    <td>Stargazers: <code>14311</code></td>
-    <td>Watchers: <code>14311</code></td>
-    <td>Forks: <code>2010</code></td></tr>
+    <td>Stargazers: <code>14319</code></td>
+    <td>Watchers: <code>14319</code></td>
+    <td>Forks: <code>2012</code></td></tr>
 </table>
 Keywords: xss
 
@@ -4665,28 +4819,6 @@ Keywords: rce exploit, rce poc, xxe
 ---
 
 # GitHub search -> Ubiquiti poc RCE
-# ZeroDayEDT
-
-https://github.com/danielvilaca/ZeroDayEDT
-<blockquote>
-Repository Showcasing Practical/Hands-On Zero-Day Exploit Development and Techniques
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>danielvilaca</code></td>
-    <td>Language: <code>Python</code></td>
-    <td>Started: <code>2024-10-15 21:23:38+00:00</code></td>
-    <td>Latest: <code>2025-04-20 22:41:29+01:00</code></td></tr>
-<tr><td>Commits: <code>48</code></td>
-    <td>Stargazers: <code>0</code></td>
-    <td>Watchers: <code>0</code></td>
-    <td>Forks: <code>0</code></td></tr>
-</table>
-Keywords: zero-day exploit, zero-day exploitation
-
----
-
-# GitHub search -> Ubiquiti poc RCE
 # Dirty-Pipe
 
 https://github.com/byteReaper77/Dirty-Pipe
@@ -4788,8 +4920,8 @@ LPE: BackupOperator to Domain Admin Active Directory Proof of Concept
     <td>Started: <code>2025-04-17 13:15:29+00:00</code></td>
     <td>Latest: <code>2025-04-17 10:25:41-03:00</code></td></tr>
 <tr><td>Commits: <code>4</code></td>
-    <td>Stargazers: <code>1</code></td>
-    <td>Watchers: <code>1</code></td>
+    <td>Stargazers: <code>2</code></td>
+    <td>Watchers: <code>2</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: lpe poc
@@ -5514,8 +5646,8 @@ his repository contains an automated Proof of Concept (PoC) script for exploitin
     <td>Started: <code>2025-03-14 07:36:58+00:00</code></td>
     <td>Latest: <code>2025-03-14 10:57:27+03:00</code></td></tr>
 <tr><td>Commits: <code>5</code></td>
-    <td>Stargazers: <code>160</code></td>
-    <td>Watchers: <code>160</code></td>
+    <td>Stargazers: <code>161</code></td>
+    <td>Watchers: <code>161</code></td>
     <td>Forks: <code>39</code></td></tr>
 </table>
 Keywords: remote code execution exploitation, rce proof of concept, remote code execution proof of concept, remote code execution exploit, remote code execution poc, rce vulnerability
@@ -6240,8 +6372,8 @@ K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/
     <td>Started: <code>2019-02-23 14:04:52+00:00</code></td>
     <td>Latest: <code>2025-01-25 14:32:49+08:00</code></td></tr>
 <tr><td>Commits: <code>441</code></td>
-    <td>Stargazers: <code>6062</code></td>
-    <td>Watchers: <code>6062</code></td>
+    <td>Stargazers: <code>6065</code></td>
+    <td>Watchers: <code>6065</code></td>
     <td>Forks: <code>2072</code></td></tr>
 </table>
 Keywords: 0day poc, 0day exploitation, 0day exploit, lpe exploit, rce exploit, lpe poc, lpe exploitation
@@ -6614,9 +6746,9 @@ A critical vulnerability, CVE-2024-53677, has been identified in the popular Apa
     <td>Started: <code>2024-12-13 17:42:55+00:00</code></td>
     <td>Latest: <code>2024-12-20 18:05:15+08:00</code></td></tr>
 <tr><td>Commits: <code>32</code></td>
-    <td>Stargazers: <code>92</code></td>
-    <td>Watchers: <code>92</code></td>
-    <td>Forks: <code>31</code></td></tr>
+    <td>Stargazers: <code>93</code></td>
+    <td>Watchers: <code>93</code></td>
+    <td>Forks: <code>32</code></td></tr>
 </table>
 Keywords: path traversal attack
 
@@ -6702,8 +6834,8 @@ LFITester is a Python3 program that automates the detection and exploitation of 
     <td>Started: <code>2021-05-08 13:19:49+00:00</code></td>
     <td>Latest: <code>2024-12-16 05:31:04-05:00</code></td></tr>
 <tr><td>Commits: <code>254</code></td>
-    <td>Stargazers: <code>109</code></td>
-    <td>Watchers: <code>109</code></td>
+    <td>Stargazers: <code>108</code></td>
+    <td>Watchers: <code>108</code></td>
     <td>Forks: <code>26</code></td></tr>
 </table>
 Keywords: lfi, local file inclusion
@@ -6856,8 +6988,8 @@ A collection of tiny XSS Payloads that can be used in different contexts. https:
     <td>Started: <code>2020-07-09 21:45:19+00:00</code></td>
     <td>Latest: <code>2024-11-29 23:58:22+00:00</code></td></tr>
 <tr><td>Commits: <code>43</code></td>
-    <td>Stargazers: <code>2199</code></td>
-    <td>Watchers: <code>2199</code></td>
+    <td>Stargazers: <code>2200</code></td>
+    <td>Watchers: <code>2200</code></td>
     <td>Forks: <code>216</code></td></tr>
 </table>
 Keywords: xss
@@ -7714,9 +7846,9 @@ hack tools
     <td>Started: <code>2017-04-30 10:59:56+00:00</code></td>
     <td>Latest: <code>2024-09-23 23:27:19+02:00</code></td></tr>
 <tr><td>Commits: <code>302</code></td>
-    <td>Stargazers: <code>1140</code></td>
-    <td>Watchers: <code>1140</code></td>
-    <td>Forks: <code>495</code></td></tr>
+    <td>Stargazers: <code>1142</code></td>
+    <td>Watchers: <code>1142</code></td>
+    <td>Forks: <code>496</code></td></tr>
 </table>
 Keywords: 0day exploit, 0day vulnerability
 
@@ -7780,8 +7912,8 @@ Cross Site &amp;quot;Scripter&amp;quot; (aka XSSer) is an automatic -framework- 
     <td>Started: <code>2012-12-15 21:59:53+00:00</code></td>
     <td>Latest: <code>2024-09-17 09:58:12+02:00</code></td></tr>
 <tr><td>Commits: <code>64</code></td>
-    <td>Stargazers: <code>1359</code></td>
-    <td>Watchers: <code>1359</code></td>
+    <td>Stargazers: <code>1360</code></td>
+    <td>Watchers: <code>1360</code></td>
     <td>Forks: <code>252</code></td></tr>
 </table>
 Keywords: xss
@@ -9056,8 +9188,8 @@ A tool for embedding XXE/XML exploits into different filetypes
     <td>Started: <code>2015-03-06 20:30:49+00:00</code></td>
     <td>Latest: <code>2024-07-10 21:54:08-04:00</code></td></tr>
 <tr><td>Commits: <code>109</code></td>
-    <td>Stargazers: <code>1107</code></td>
-    <td>Watchers: <code>1107</code></td>
+    <td>Stargazers: <code>1108</code></td>
+    <td>Watchers: <code>1108</code></td>
     <td>Forks: <code>235</code></td></tr>
 </table>
 Keywords: xxe
@@ -9078,8 +9210,8 @@ Notes about attacking Jenkins servers
     <td>Started: <code>2018-07-18 14:24:27+00:00</code></td>
     <td>Latest: <code>2024-07-10 13:18:30+02:00</code></td></tr>
 <tr><td>Commits: <code>62</code></td>
-    <td>Stargazers: <code>2077</code></td>
-    <td>Watchers: <code>2077</code></td>
+    <td>Stargazers: <code>2079</code></td>
+    <td>Watchers: <code>2079</code></td>
     <td>Forks: <code>333</code></td></tr>
 </table>
 Keywords: rce exploit
@@ -9320,8 +9452,8 @@ Local File Inclusion Enumeration (PoC)
     <td>Started: <code>2022-07-09 15:50:59+00:00</code></td>
     <td>Latest: <code>2024-07-02 18:04:19-04:00</code></td></tr>
 <tr><td>Commits: <code>102</code></td>
-    <td>Stargazers: <code>60</code></td>
-    <td>Watchers: <code>60</code></td>
+    <td>Stargazers: <code>59</code></td>
+    <td>Watchers: <code>59</code></td>
     <td>Forks: <code>1</code></td></tr>
 </table>
 Keywords: local file inclusion, lfi
@@ -9386,8 +9518,8 @@ Java web common vulnerabilities and security code which is base on springboot an
     <td>Started: <code>2017-12-26 06:54:35+00:00</code></td>
     <td>Latest: <code>2024-06-28 09:52:04+08:00</code></td></tr>
 <tr><td>Commits: <code>162</code></td>
-    <td>Stargazers: <code>2590</code></td>
-    <td>Watchers: <code>2590</code></td>
+    <td>Stargazers: <code>2592</code></td>
+    <td>Watchers: <code>2592</code></td>
     <td>Forks: <code>706</code></td></tr>
 </table>
 Keywords: rce vulnerability, xxe, ssrf
@@ -9870,9 +10002,9 @@ PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC
     <td>Started: <code>2024-06-07 09:52:54+00:00</code></td>
     <td>Latest: <code>2024-06-07 05:53:14-04:00</code></td></tr>
 <tr><td>Commits: <code>2</code></td>
-    <td>Stargazers: <code>295</code></td>
-    <td>Watchers: <code>295</code></td>
-    <td>Forks: <code>62</code></td></tr>
+    <td>Stargazers: <code>296</code></td>
+    <td>Watchers: <code>296</code></td>
+    <td>Forks: <code>61</code></td></tr>
 </table>
 Keywords: remote code execution poc, code injection
 
@@ -11498,8 +11630,8 @@ Unauthenticated Remote Code Execution – Bricks &amp;lt;= 1.9.6
     <td>Started: <code>2024-02-20 20:16:09+00:00</code></td>
     <td>Latest: <code>2024-02-25 22:50:06+01:00</code></td></tr>
 <tr><td>Commits: <code>15</code></td>
-    <td>Stargazers: <code>173</code></td>
-    <td>Watchers: <code>173</code></td>
+    <td>Stargazers: <code>174</code></td>
+    <td>Watchers: <code>174</code></td>
     <td>Forks: <code>36</code></td></tr>
 </table>
 Keywords: unauthenticated remote code execution
@@ -11674,9 +11806,9 @@ Microsoft-Outlook-Remote-Code-Execution-Vulnerability
     <td>Started: <code>2024-02-16 15:17:59+00:00</code></td>
     <td>Latest: <code>2024-02-19 21:00:35+01:00</code></td></tr>
 <tr><td>Commits: <code>9</code></td>
-    <td>Stargazers: <code>735</code></td>
-    <td>Watchers: <code>735</code></td>
-    <td>Forks: <code>159</code></td></tr>
+    <td>Stargazers: <code>736</code></td>
+    <td>Watchers: <code>736</code></td>
+    <td>Forks: <code>160</code></td></tr>
 </table>
 Keywords: Microsoft remote code execution, Microsoft remote code execution vulnerability, remote code execution vulnerability
 
@@ -12224,8 +12356,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5871</code></td>
-    <td>Watchers: <code>5871</code></td>
+    <td>Stargazers: <code>5872</code></td>
+    <td>Watchers: <code>5872</code></td>
     <td>Forks: <code>703</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -12400,8 +12532,8 @@ The exploit samples database is a repository for **RCE** (remote code execution)
     <td>Started: <code>2018-02-13 11:23:40+00:00</code></td>
     <td>Latest: <code>2023-12-11 17:30:33-05:00</code></td></tr>
 <tr><td>Commits: <code>28</code></td>
-    <td>Stargazers: <code>743</code></td>
-    <td>Watchers: <code>743</code></td>
+    <td>Stargazers: <code>744</code></td>
+    <td>Watchers: <code>744</code></td>
     <td>Forks: <code>178</code></td></tr>
 </table>
 Keywords: Windows rce exploitation, Windows remote code execution, Win rce, Win rce proof of concept, remote code execution exploit, remote code execution exploitation, rce exploit, Windows remote code execution exploit, Win remote code execution exploit, Windows rce, Win remote code execution, Win rce exploitation, Windows rce exploit, remote code execution proof of concept, Windows remote code execution proof of concept, rce exploitation, Win remote code execution exploitation, Windows rce proof of concept, Win remote code execution proof of concept, Win rce exploit, Windows remote code execution exploitation, rce proof of concept
@@ -12488,8 +12620,8 @@ CVE-2023-38831 winrar exploit generator
     <td>Started: <code>2023-08-25 09:44:08+00:00</code></td>
     <td>Latest: <code>2023-11-26 14:46:44+08:00</code></td></tr>
 <tr><td>Commits: <code>10</code></td>
-    <td>Stargazers: <code>786</code></td>
-    <td>Watchers: <code>786</code></td>
+    <td>Stargazers: <code>787</code></td>
+    <td>Watchers: <code>787</code></td>
     <td>Forks: <code>138</code></td></tr>
 </table>
 Keywords: Win 0day, 0day exploit, Win 0day exploit, Win 0day exploitation, 0day exploitation
@@ -13148,8 +13280,8 @@ LPE exploit for CVE-2023-36802
     <td>Started: <code>2023-10-09 17:32:15+00:00</code></td>
     <td>Latest: <code>2023-10-10 13:44:05-04:00</code></td></tr>
 <tr><td>Commits: <code>2</code></td>
-    <td>Stargazers: <code>163</code></td>
-    <td>Watchers: <code>163</code></td>
+    <td>Stargazers: <code>164</code></td>
+    <td>Watchers: <code>164</code></td>
     <td>Forks: <code>39</code></td></tr>
 </table>
 Keywords: Win lpe exploitation, Win lpe, Windows lpe exploitation, lpe exploit, lpe exploitation, Windows lpe exploit, Windows lpe, Win lpe exploit
@@ -13698,9 +13830,9 @@ This Lab contain the sample codes which are vulnerable to Server-Side Request Fo
     <td>Started: <code>2019-09-22 14:09:41+00:00</code></td>
     <td>Latest: <code>2023-08-21 22:32:38+05:30</code></td></tr>
 <tr><td>Commits: <code>86</code></td>
-    <td>Stargazers: <code>736</code></td>
-    <td>Watchers: <code>736</code></td>
-    <td>Forks: <code>200</code></td></tr>
+    <td>Stargazers: <code>738</code></td>
+    <td>Watchers: <code>738</code></td>
+    <td>Forks: <code>199</code></td></tr>
 </table>
 Keywords: server side request forgery, ssrf
 
@@ -14094,8 +14226,8 @@ https://github.com/chompie1337/SIGRed_RCE_PoC
     <td>Started: <code>2021-02-27 20:31:39+00:00</code></td>
     <td>Latest: <code>2023-07-10 12:18:54-04:00</code></td></tr>
 <tr><td>Commits: <code>13</code></td>
-    <td>Stargazers: <code>266</code></td>
-    <td>Watchers: <code>266</code></td>
+    <td>Stargazers: <code>267</code></td>
+    <td>Watchers: <code>267</code></td>
     <td>Forks: <code>64</code></td></tr>
 </table>
 Keywords: rce poc
@@ -15326,8 +15458,8 @@ This novel way of using NtQueueApcThreadEx by abusing the ApcRoutine and SystemA
     <td>Started: <code>2023-02-19 23:06:44+00:00</code></td>
     <td>Latest: <code>2023-04-29 15:50:52+01:00</code></td></tr>
 <tr><td>Commits: <code>24</code></td>
-    <td>Stargazers: <code>253</code></td>
-    <td>Watchers: <code>253</code></td>
+    <td>Stargazers: <code>254</code></td>
+    <td>Watchers: <code>254</code></td>
     <td>Forks: <code>33</code></td></tr>
 </table>
 Keywords: code injection
@@ -15392,8 +15524,8 @@ XSS payloads designed to turn alert(1) into P1
     <td>Started: <code>2019-05-19 13:57:39+00:00</code></td>
     <td>Latest: <code>2023-04-24 22:13:58+01:00</code></td></tr>
 <tr><td>Commits: <code>29</code></td>
-    <td>Stargazers: <code>1377</code></td>
-    <td>Watchers: <code>1377</code></td>
+    <td>Stargazers: <code>1376</code></td>
+    <td>Watchers: <code>1376</code></td>
     <td>Forks: <code>223</code></td></tr>
 </table>
 Keywords: xss
@@ -15568,8 +15700,8 @@ Local File Inclusion To Remote Command Execution (PoC)
     <td>Started: <code>2022-07-09 00:17:42+00:00</code></td>
     <td>Latest: <code>2023-04-09 21:28:24-04:00</code></td></tr>
 <tr><td>Commits: <code>29</code></td>
-    <td>Stargazers: <code>51</code></td>
-    <td>Watchers: <code>51</code></td>
+    <td>Stargazers: <code>50</code></td>
+    <td>Watchers: <code>50</code></td>
     <td>Forks: <code>4</code></td></tr>
 </table>
 Keywords: local file inclusion, lfi
@@ -16514,8 +16646,8 @@ bXSS is a utility which can be used by bug hunters and organizations to identify
     <td>Started: <code>2017-12-13 23:49:38+00:00</code></td>
     <td>Latest: <code>2023-01-17 16:45:07-08:00</code></td></tr>
 <tr><td>Commits: <code>170</code></td>
-    <td>Stargazers: <code>548</code></td>
-    <td>Watchers: <code>548</code></td>
+    <td>Stargazers: <code>547</code></td>
+    <td>Watchers: <code>547</code></td>
     <td>Forks: <code>65</code></td></tr>
 </table>
 Keywords: xss
@@ -16932,8 +17064,8 @@ A POC for the new injection technique, abusing windows fork API to evade EDRs. h
     <td>Started: <code>2022-11-24 10:54:00+00:00</code></td>
     <td>Latest: <code>2022-12-08 02:18:38+02:00</code></td></tr>
 <tr><td>Commits: <code>3</code></td>
-    <td>Stargazers: <code>656</code></td>
-    <td>Watchers: <code>656</code></td>
+    <td>Stargazers: <code>657</code></td>
+    <td>Watchers: <code>657</code></td>
     <td>Forks: <code>88</code></td></tr>
 </table>
 Keywords: code injection
@@ -19836,8 +19968,8 @@ A cheat sheet that contains advanced queries for SQL Injection of all types.
     <td>Started: <code>2020-10-23 18:14:47+00:00</code></td>
     <td>Latest: <code>2022-09-04 17:36:34+02:00</code></td></tr>
 <tr><td>Commits: <code>110</code></td>
-    <td>Stargazers: <code>3051</code></td>
-    <td>Watchers: <code>3051</code></td>
+    <td>Stargazers: <code>3050</code></td>
+    <td>Watchers: <code>3050</code></td>
     <td>Forks: <code>687</code></td></tr>
 </table>
 Keywords: sql injection
@@ -23224,8 +23356,8 @@ An exhaustive list of all the possible ways you can chain your Blind SSRF vulner
     <td>Started: <code>2021-01-14 21:20:41+00:00</code></td>
     <td>Latest: <code>2021-12-31 11:08:33+11:00</code></td></tr>
 <tr><td>Commits: <code>12</code></td>
-    <td>Stargazers: <code>899</code></td>
-    <td>Watchers: <code>899</code></td>
+    <td>Stargazers: <code>900</code></td>
+    <td>Watchers: <code>900</code></td>
     <td>Forks: <code>117</code></td></tr>
 </table>
 Keywords: ssrf
@@ -24003,28 +24135,6 @@ Keywords: Windows escalation of privileges exploit, escalation of privileges poc
 ---
 
 # GitHub search -> Ubiquiti poc RCE
-# fuelcms-rce
-
-https://github.com/noraj/fuelcms-rce
-<blockquote>
-Fuel CMS 1.4 - Remote Code Execution
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>noraj</code></td>
-    <td>Language: <code>Ruby</code></td>
-    <td>Started: <code>2020-11-14 21:25:12+00:00</code></td>
-    <td>Latest: <code>2021-11-13 16:41:28+01:00</code></td></tr>
-<tr><td>Commits: <code>5</code></td>
-    <td>Stargazers: <code>7</code></td>
-    <td>Watchers: <code>7</code></td>
-    <td>Forks: <code>4</code></td></tr>
-</table>
-Keywords: remote code execution exploit, remote code execution poc
-
----
-
-# GitHub search -> Ubiquiti poc RCE
 # JavaCodeAudit
 
 https://github.com/cn-panda/JavaCodeAudit
@@ -24676,8 +24786,8 @@ PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CV
     <td>Started: <code>2021-07-03 15:15:12+00:00</code></td>
     <td>Latest: <code>2021-09-13 22:12:16+10:00</code></td></tr>
 <tr><td>Commits: <code>9</code></td>
-    <td>Stargazers: <code>154</code></td>
-    <td>Watchers: <code>154</code></td>
+    <td>Stargazers: <code>155</code></td>
+    <td>Watchers: <code>155</code></td>
     <td>Forks: <code>40</code></td></tr>
 </table>
 Keywords: Windows rce exploitation, Windows lpe exploit, Windows rce, Windows lpe, Windows lpe vulnerability, Windows rce exploit, lpe vulnerability, rce exploitation, Windows rce proof of concept, Windows lpe exploitation, lpe exploit, rce proof of concept, rce vulnerability, lpe proof of concept, Windows lpe proof of concept, Windows rce vulnerability, lpe exploitation, rce exploit
@@ -24984,8 +25094,8 @@ Web-Security-Learning
     <td>Started: <code>2017-08-19 02:17:42+00:00</code></td>
     <td>Latest: <code>2021-07-22 12:56:40+08:00</code></td></tr>
 <tr><td>Commits: <code>71</code></td>
-    <td>Stargazers: <code>4261</code></td>
-    <td>Watchers: <code>4261</code></td>
+    <td>Stargazers: <code>4264</code></td>
+    <td>Watchers: <code>4264</code></td>
     <td>Forks: <code>1015</code></td></tr>
 </table>
 Keywords: xss
@@ -25336,8 +25446,8 @@ Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered 
     <td>Started: <code>2021-05-16 16:15:56+00:00</code></td>
     <td>Latest: <code>2021-05-21 16:58:22-07:00</code></td></tr>
 <tr><td>Commits: <code>11</code></td>
-    <td>Stargazers: <code>829</code></td>
-    <td>Watchers: <code>829</code></td>
+    <td>Stargazers: <code>830</code></td>
+    <td>Watchers: <code>830</code></td>
     <td>Forks: <code>139</code></td></tr>
 </table>
 Keywords: use after free proof of concept
@@ -26018,9 +26128,9 @@ Electron JS Browser To Find XSS Vulnerabilities Automatically
     <td>Started: <code>2021-01-26 17:29:21+00:00</code></td>
     <td>Latest: <code>2021-02-15 23:07:57+03:00</code></td></tr>
 <tr><td>Commits: <code>15</code></td>
-    <td>Stargazers: <code>712</code></td>
-    <td>Watchers: <code>712</code></td>
-    <td>Forks: <code>122</code></td></tr>
+    <td>Stargazers: <code>729</code></td>
+    <td>Watchers: <code>729</code></td>
+    <td>Forks: <code>125</code></td></tr>
 </table>
 Keywords: xss
 
@@ -26458,8 +26568,8 @@ Jailbreak for iOS 13.7 and earlier
     <td>Started: <code>2020-11-19 18:37:01+00:00</code></td>
     <td>Latest: <code>2020-11-20 10:32:38+02:00</code></td></tr>
 <tr><td>Commits: <code>7</code></td>
-    <td>Stargazers: <code>225</code></td>
-    <td>Watchers: <code>225</code></td>
+    <td>Stargazers: <code>228</code></td>
+    <td>Watchers: <code>228</code></td>
     <td>Forks: <code>36</code></td></tr>
 </table>
 Keywords: lpe poc
@@ -26678,8 +26788,8 @@ This is a collection of writeups, cheatsheets, videos, books related to SSRF in 
     <td>Started: <code>2019-08-28 21:41:30+00:00</code></td>
     <td>Latest: <code>2020-09-28 10:13:19-04:00</code></td></tr>
 <tr><td>Commits: <code>37</code></td>
-    <td>Stargazers: <code>1324</code></td>
-    <td>Watchers: <code>1324</code></td>
+    <td>Stargazers: <code>1323</code></td>
+    <td>Watchers: <code>1323</code></td>
     <td>Forks: <code>236</code></td></tr>
 </table>
 Keywords: ssrf
@@ -27162,8 +27272,8 @@ https://github.com/chompie1337/SMBGhost_RCE_PoC
     <td>Started: <code>2020-06-02 00:14:47+00:00</code></td>
     <td>Latest: <code>2020-07-02 13:49:21-05:00</code></td></tr>
 <tr><td>Commits: <code>12</code></td>
-    <td>Stargazers: <code>1359</code></td>
-    <td>Watchers: <code>1359</code></td>
+    <td>Stargazers: <code>1362</code></td>
+    <td>Watchers: <code>1362</code></td>
     <td>Forks: <code>349</code></td></tr>
 </table>
 Keywords: rce poc
@@ -27668,9 +27778,9 @@ Miscellaneous exploit code
     <td>Started: <code>2015-03-05 11:15:07+00:00</code></td>
     <td>Latest: <code>2020-05-07 21:20:14+02:00</code></td></tr>
 <tr><td>Commits: <code>159</code></td>
-    <td>Stargazers: <code>1557</code></td>
-    <td>Watchers: <code>1557</code></td>
-    <td>Forks: <code>585</code></td></tr>
+    <td>Stargazers: <code>1558</code></td>
+    <td>Watchers: <code>1558</code></td>
+    <td>Forks: <code>584</code></td></tr>
 </table>
 Keywords: Windows rce exploitation, rce poc, Windows rce poc, rce exploit, Windows rce, Windows rce exploit, rce exploitation
 

@@ -1,0 +1,402 @@
+{
+    "commits_count": 25,
+    "date_started": "2024-05-03",
+    "date_updated": "2025-09-30",
+    "description": "&amp;quot;AMSI WRITE RAID&amp;quot; Vulnerability that leads to an effective AMSI BYPASS",
+    "forks_count": 52,
+    "html_url": "https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "AMSI-WRITE-RAID-BYPASS",
+    "repo_owner": "V-i-x-x",
+    "repotime": "2025-09-30, 11:17:59",
+    "stargazers_count": 299,
+    "watchers_count": 299
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-06-27",
+    "date_updated": "2025-09-30",
+    "description": "Exploit Proof of concept for privilege escalation on windows mountmgr.sys driver. Reverse Engineering the Windows Kernel",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xIcarus/ioctl-mountmgr-poc",
+    "keywords": [
+        "Windows escalation of privileges",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "ioctl-mountmgr-poc",
+    "repo_owner": "0xIcarus",
+    "repotime": "2025-09-30, 11:39:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 632,
+    "date_started": "2024-09-27",
+    "date_updated": "2025-09-29",
+    "description": "Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.",
+    "forks_count": 1,
+    "html_url": "https://github.com/francescolonardo/pentest-machine-writeups",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "pentest-machine-writeups",
+    "repo_owner": "francescolonardo",
+    "repotime": "2025-09-29, 18:53:56",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 69,
+    "date_started": "2023-09-25",
+    "date_updated": "2025-09-28",
+    "description": "Dedicated library for runtime code patching, injection and some useful memory utilities. works for both Android and Linux",
+    "forks_count": 37,
+    "html_url": "https://github.com/MJx0/KittyMemoryEx",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "KittyMemoryEx",
+    "repo_owner": "MJx0",
+    "repotime": "2025-09-28, 02:09:41",
+    "stargazers_count": 134,
+    "watchers_count": 134
+}
+{
+    "commits_count": 113,
+    "date_started": "2025-08-15",
+    "date_updated": "2025-09-25",
+    "description": "My code and notes for &amp;quot;From Day Zero to Zero Day&amp;quot;, a book on vulnerability research by Eugene Lim.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xdea/from-day-zero-to-zero-day",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "from-day-zero-to-zero-day",
+    "repo_owner": "0xdea",
+    "repotime": "2025-09-25, 07:39:46",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 172,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-09-22",
+    "description": "STRIDE stands for Spoofing, Tampering, Repudiation, Information disclosure, Denial of service and Elevation of privilege, developed by Loren Kohnfelder and Praerit Garg in 1999 to identify potential vulnerabilities and threats to company products",
+    "forks_count": 0,
+    "html_url": "https://github.com/canstralian/STRIDE-GPT-RAG",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "STRIDE-GPT-RAG",
+    "repo_owner": "canstralian",
+    "repotime": "2025-09-22, 20:36:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-09-21",
+    "date_updated": "2025-09-22",
+    "description": "CVE-2020-0796 (SMBGhost) is a critical RCE vulnerability in Windows 10 SMBv3 protocol. It allows attackers to execute code remotely via crafted SMB packets, making it wormable. Affects Windows 10 v1903/v1909 and Server 2019. Exploit targets srv2.sys via buffer overflow",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jagadeesh7532/-CVE-2020-0796-SMBGhost-Windows-10-SMBv3-Remote-Code-Execution-Vulnerability",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "-CVE-2020-0796-SMBGhost-Windows-10-SMBv3-Remote-Code-Execution-Vulnerability",
+    "repo_owner": "Jagadeesh7532",
+    "repotime": "2025-09-22, 00:27:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-09-21",
+    "date_updated": "2025-09-21",
+    "description": "Designed as a Swiss Army knife for security researchers and penetration testers, CHEF enables aggressive fuzzing of various network protocols to uncover vulnerabilities, such as stack buffer overflows and zero-day exploits, in a controlled and authorized environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ChillHackLab/CHEF",
+    "keywords": [
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CHEF",
+    "repo_owner": "ChillHackLab",
+    "repotime": "2025-09-21, 20:11:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 49,
+    "date_started": "2024-10-15",
+    "date_updated": "2025-09-20",
+    "description": "Repository Showcasing Practical/Hands-On Zero-Day Exploit Development and Techniques",
+    "forks_count": 0,
+    "html_url": "https://github.com/danielvilaca/ZeroDayEDT",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroDayEDT",
+    "repo_owner": "danielvilaca",
+    "repotime": "2025-09-20, 23:11:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 368,
+    "date_started": "2019-08-21",
+    "date_updated": "2025-09-20",
+    "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
+    "forks_count": 293,
+    "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+    "keywords": [
+        "xml external entity",
+        "session attack",
+        "zero-day dos",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "session vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Nginx-Lua-Anti-DDoS",
+    "repo_owner": "C0nw0nk",
+    "repotime": "2025-09-20, 12:44:03",
+    "stargazers_count": 1364,
+    "watchers_count": 1364
+}
+{
+    "commits_count": 102,
+    "date_started": "2025-08-24",
+    "date_updated": "2025-09-18",
+    "description": "Research project: Ensemble Deep Learning vs Traditional Signature-Based Methods for Zero-Day Malware Detection: A Comparative Analysis Using Behavioral Feature Extraction",
+    "forks_count": 0,
+    "html_url": "https://github.com/prashaant1926/ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa",
+    "repo_owner": "prashaant1926",
+    "repotime": "2025-09-18, 23:33:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 225,
+    "date_started": "2024-05-30",
+    "date_updated": "2025-09-16",
+    "description": "Fourth evolution of Code Injection for Xcode",
+    "forks_count": 9,
+    "html_url": "https://github.com/johnno1962/InjectionNext",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "InjectionNext",
+    "repo_owner": "johnno1962",
+    "repotime": "2025-09-16, 21:11:34",
+    "stargazers_count": 225,
+    "watchers_count": 225
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-09-16",
+    "date_updated": "2025-09-16",
+    "description": "A critical RCE vulnerability in Windows TCP/IP stack (CVE-2025-26686) leaves sensitive memory unlocked, allowing remote attackers to hijack systems. Exploitable over the network, it risks full compromise. Patch now",
+    "forks_count": 0,
+    "html_url": "https://github.com/mrk336/CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates",
+    "repo_owner": "mrk336",
+    "repotime": "2025-09-16, 05:22:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 141,
+    "date_started": "2019-04-19",
+    "date_updated": "2025-09-14",
+    "description": "Top disclosed reports from HackerOne",
+    "forks_count": 876,
+    "html_url": "https://github.com/reddelexc/hackerone-reports",
+    "keywords": [
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "hackerone-reports",
+    "repo_owner": "reddelexc",
+    "repotime": "2025-09-14, 21:12:20",
+    "stargazers_count": 4886,
+    "watchers_count": 4886
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-09-07",
+    "date_updated": "2025-09-13",
+    "description": "Enhanced C-based User Login System featuring secure sign-up, login, password encryption, and recovery. Includes an IQ game module with Easy, Medium, and Hard challenges. Practiced C structures, string handling, and validation while gamifying the user experience. Full code on GitHub.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tamimalmahi/User-Login-IQ-Game-System",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "C",
+    "repo_name": "User-Login-IQ-Game-System",
+    "repo_owner": "tamimalmahi",
+    "repotime": "2025-09-13, 16:36:18",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 295,
+    "date_started": "2020-12-17",
+    "date_updated": "2025-09-12",
+    "description": "🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration.",
+    "forks_count": 2,
+    "html_url": "https://github.com/TomerAberbach/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "TypeScript",
+    "repo_name": "lfi",
+    "repo_owner": "TomerAberbach",
+    "repotime": "2025-09-12, 18:48:38",
+    "stargazers_count": 347,
+    "watchers_count": 347
+}
+{
+    "commits_count": 38,
+    "date_started": "2024-10-27",
+    "date_updated": "2025-09-09",
+    "description": "Web Browsers address bar spoofing vulnerabilities",
+    "forks_count": 1,
+    "html_url": "https://github.com/RenwaX23/Address_Bar_Spoofing",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "Address_Bar_Spoofing",
+    "repo_owner": "RenwaX23",
+    "repotime": "2025-09-09, 00:31:22",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-09-08",
+    "date_updated": "2025-09-09",
+    "description": "A Web Application Vulnerability Scanner is an automated tool designed to identify security vulnerabilities in web applications. These tools typically simulate attacks to detect issues such as Cross-Site Scripting (XSS), SQL Injection, Command Injection, Path Traversal, and insecure server configurations.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jamila5398/Web-Application-Vulnerability-Scanner",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Web-Application-Vulnerability-Scanner",
+    "repo_owner": "Jamila5398",
+    "repotime": "2025-09-09, 01:52:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2025-07-15",
+    "date_updated": "2025-09-08",
+    "description": " A collection of ethical hacking CTF walkthroughs covering privilege escalation, web exploitation, and enumeration techniques. For learning, documentation, and community contribution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Basit2002/CTF-Writeups",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CTF-Writeups",
+    "repo_owner": "Basit2002",
+    "repotime": "2025-09-08, 20:34:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1802,
+    "date_started": "2019-07-24",
+    "date_updated": "2025-09-04",
+    "description": "渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
+    "forks_count": 2017,
+    "html_url": "https://github.com/Mr-xn/Penetration_Testing_POC",
+    "keywords": [
+        "rce poc",
+        "rce exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "Penetration_Testing_POC",
+    "repo_owner": "Mr-xn",
+    "repotime": "2025-09-04, 22:16:07",
+    "stargazers_count": 7082,
+    "watchers_count": 7082
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-08-30",
+    "date_updated": "2025-09-03",
+    "description": "A research-focused archive of publicly disclosed Apple products zero-day vulnerabilities. This project summarizes CVEs, disclosure timelines, vendor advisories, and defensive mitigations. ⚠️ No exploit code included — educational and defensive use only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/giriaryan694-a11y/exposed-apple-zero-days",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "exposed-apple-zero-days",
+    "repo_owner": "giriaryan694-a11y",
+    "repotime": "2025-09-03, 21:13:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-08-28",
+    "date_updated": "2025-09-03",
+    "description": "A research-focused archive of publicly disclosed Windows zero-day vulnerabilities.  This project summarizes CVEs, disclosure timelines, vendor advisories, and defensive mitigations.  ⚠️ No exploit code included — educational and defensive use only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/giriaryan694-a11y/exposed-win-zero-days",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": "HTML",
+    "repo_name": "exposed-win-zero-days",
+    "repo_owner": "giriaryan694-a11y",
+    "repotime": "2025-09-03, 20:48:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-09-03",
+    "date_updated": "2025-09-03",
+    "description": "This repository provides a modified version of the original CVE-2017-6074 exploit (use-after-free in the Linux kernel DCCP subsystem), designed only to demonstrate Denial of Service (DoS) impact. An authenticated local user can trigger a kernel panic, causing a total loss of system availability.",
+    "forks_count": 0,
+    "html_url": "https://github.com/34zY/CVE-2017-6074-DOS",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2017-6074-DOS",
+    "repo_owner": "34zY",
+    "repotime": "2025-09-03, 15:38:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

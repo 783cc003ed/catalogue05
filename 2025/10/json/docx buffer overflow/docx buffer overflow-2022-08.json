@@ -1,0 +1,89 @@
+{
+    "commits_count": 15,
+    "date_started": "2022-01-28",
+    "date_updated": "2022-08-29",
+    "description": "Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126.",
+    "forks_count": 7,
+    "html_url": "https://github.com/tremwil/ds3-nrssr-rce",
+    "keywords": [
+        "rce proof of concept",
+        "rce exploit"
+    ],
+    "language": "C++",
+    "repo_name": "ds3-nrssr-rce",
+    "repo_owner": "tremwil",
+    "repotime": "2022-08-29, 22:11:05",
+    "stargazers_count": 157,
+    "watchers_count": 157
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-08-29",
+    "date_updated": "2022-08-29",
+    "description": "A PoC for adding NtContinue to CFG allowed list in order to make Ekko work in a CFG protected process",
+    "forks_count": 20,
+    "html_url": "https://github.com/Crypt0s/Ekko_CFG_Bypass",
+    "keywords": [
+        "cfg bypass"
+    ],
+    "language": "C",
+    "repo_name": "Ekko_CFG_Bypass",
+    "repo_owner": "Crypt0s",
+    "repotime": "2022-08-29, 13:23:35",
+    "stargazers_count": 106,
+    "watchers_count": 106
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-04-12",
+    "date_updated": "2022-08-25",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/KenionX/Winui3MemoryLeak",
+    "keywords": [
+        "Win memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "Winui3MemoryLeak",
+    "repo_owner": "KenionX",
+    "repotime": "2022-08-25, 15:35:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 43,
+    "date_started": "2022-05-14",
+    "date_updated": "2022-08-04",
+    "description": "Zero-day exploit and malware protection",
+    "forks_count": 0,
+    "html_url": "https://github.com/R46narok/Apollo",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "C#",
+    "repo_name": "Apollo",
+    "repo_owner": "R46narok",
+    "repotime": "2022-08-04, 17:39:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-06-03",
+    "date_updated": "2022-08-03",
+    "description": "All about CVE-2022-30190, aka follina, that is a RCE vulnerability that affects Microsoft Support Diagnostic Tools (MSDT) on Office apps such as Word. This is a very simple POC, feel free to check the sources below for more threat intelligence.",
+    "forks_count": 5,
+    "html_url": "https://github.com/Noxtal/follina",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Microsoft rce",
+        "Microsoft rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "follina",
+    "repo_owner": "Noxtal",
+    "repotime": "2022-08-03, 23:47:25",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}

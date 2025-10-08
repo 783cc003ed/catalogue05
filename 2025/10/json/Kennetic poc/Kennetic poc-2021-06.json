@@ -1,0 +1,168 @@
+{
+    "commits_count": 59,
+    "date_started": "2015-07-06",
+    "date_updated": "2021-06-30",
+    "description": "Proof of Concept",
+    "forks_count": 121,
+    "html_url": "https://github.com/hackedteam/poc-x",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Ruby",
+    "repo_name": "poc-x",
+    "repo_owner": "hackedteam",
+    "repotime": "2021-06-30, 07:22:03",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-06-21",
+    "date_updated": "2021-06-28",
+    "description": "A Proof Of Concept that shows a Remote Code Execution vulnerability in the terrain scripts of Scrap Mechanic",
+    "forks_count": 0,
+    "html_url": "https://github.com/TechnologicNick/Scrap-Mechanic-Terrain-RCE-POC",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce proof of concept"
+    ],
+    "language": "Lua",
+    "repo_name": "Scrap-Mechanic-Terrain-RCE-POC",
+    "repo_owner": "TechnologicNick",
+    "repotime": "2021-06-28, 20:30:19",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 16,
+    "date_started": "2021-05-31",
+    "date_updated": "2021-06-27",
+    "description": "An Attack Tool for TCP Session Hijacking",
+    "forks_count": 6,
+    "html_url": "https://github.com/zeyu2001/Phijack",
+    "keywords": [
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "Phijack",
+    "repo_owner": "zeyu2001",
+    "repotime": "2021-06-27, 21:09:50",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-06-26",
+    "date_updated": "2021-06-25",
+    "description": "A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution.",
+    "forks_count": 19,
+    "html_url": "https://github.com/dorkerdevil/CVE-2021-27850_POC",
+    "keywords": [
+        "remote code execution proof of concept",
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-27850_POC",
+    "repo_owner": "dorkerdevil",
+    "repotime": "2021-06-25, 10:22:58",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-07-16",
+    "date_updated": "2021-06-24",
+    "description": "OpenEMR &amp;lt;= 5.0.1 - (Authenticated) Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/noraj/OpenEMR-RCE",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "OpenEMR-RCE",
+    "repo_owner": "noraj",
+    "repotime": "2021-06-24, 14:16:17",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-06-03",
+    "date_updated": "2021-06-07",
+    "description": "stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system",
+    "forks_count": 3,
+    "html_url": "https://github.com/mathisvickie/CVE-2021-27965",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges poc",
+        "Windows escalation of privileges",
+        "escalation of privileges proof of concept",
+        "Windows escalation of privileges proof of concept",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2021-27965",
+    "repo_owner": "mathisvickie",
+    "repotime": "2021-06-07, 15:46:21",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-06-06",
+    "date_updated": "2021-06-06",
+    "description": "Apache/Alibaba Dubbo &amp;lt;= 2.7.3 PoC Code for CVE-2021-25641 RCE via Deserialization of Untrusted Data; Affects Versions &amp;lt;= 2.7.6 With Different Gadgets",
+    "forks_count": 13,
+    "html_url": "https://github.com/Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept",
+    "keywords": [
+        "rce proof of concept",
+        "deserialization of untrusted data"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2021-25641-Proof-of-Concept",
+    "repo_owner": "Dor-Tumarkin",
+    "repotime": "2021-06-06, 11:41:19",
+    "stargazers_count": 52,
+    "watchers_count": 52
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-05-22",
+    "date_updated": "2021-06-02",
+    "description": "PoC of how to exploit a RCE vulnerability of the example DAGs in Apache Airflow &amp;lt;1.10.11 ",
+    "forks_count": 3,
+    "html_url": "https://github.com/pberba/CVE-2020-11978",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-11978",
+    "repo_owner": "pberba",
+    "repotime": "2021-06-02, 02:15:53",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-05-31",
+    "date_updated": "2021-06-01",
+    "description": "PoC for CVE-2021-28476 a guest-to-host &amp;quot;Hyper-V Remote Code Execution Vulnerability&amp;quot; in vmswitch.sys.",
+    "forks_count": 37,
+    "html_url": "https://github.com/0vercl0k/CVE-2021-28476",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2021-28476",
+    "repo_owner": "0vercl0k",
+    "repotime": "2021-06-01, 08:08:12",
+    "stargazers_count": 226,
+    "watchers_count": 226
+}

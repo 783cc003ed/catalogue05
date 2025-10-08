@@ -54,7 +54,7 @@
     "date_started": "2023-02-16",
     "date_updated": "2024-11-28",
     "description": "SQLMutant is a powerful SQL injection testing tool that includes both passive and active reconnaissance processes for any given domain. It filters URLs to identify those with parameters susceptible to SQL injection formats and then performs injection attacks. These attacks include pattern matching, error analysis, and timing attacks.",
-    "forks_count": 36,
+    "forks_count": 37,
     "html_url": "https://github.com/blackhatethicalhacking/SQLMutant",
     "keywords": [
         "sql injection"
@@ -63,8 +63,8 @@
     "repo_name": "SQLMutant",
     "repo_owner": "blackhatethicalhacking",
     "repotime": "2024-11-28, 22:06:35",
-    "stargazers_count": 152,
-    "watchers_count": 152
+    "stargazers_count": 154,
+    "watchers_count": 154
 }
 {
     "commits_count": 3,
@@ -281,7 +281,7 @@
     "date_started": "2024-11-07",
     "date_updated": "2024-11-14",
     "description": "Fortinet Fortimanager Unauthenticated Remote Code Execution AKA FortiJump CVE-2024-47575",
-    "forks_count": 29,
+    "forks_count": 28,
     "html_url": "https://github.com/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575",
     "keywords": [
         "remote code execution exploit",
@@ -291,8 +291,8 @@
     "repo_name": "Fortijump-Exploit-CVE-2024-47575",
     "repo_owner": "watchtowrlabs",
     "repotime": "2024-11-14, 16:25:52",
-    "stargazers_count": 89,
-    "watchers_count": 89
+    "stargazers_count": 90,
+    "watchers_count": 90
 }
 {
     "commits_count": 28,

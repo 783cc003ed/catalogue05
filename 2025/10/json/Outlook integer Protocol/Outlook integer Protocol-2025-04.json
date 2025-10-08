@@ -1,0 +1,88 @@
+{
+    "commits_count": 4,
+    "date_started": "2025-04-25",
+    "date_updated": "2025-04-25",
+    "description": "get Sales data from CSV file and inject in db",
+    "forks_count": 0,
+    "html_url": "https://github.com/vimalAdithan/Data-Injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Data-Injection",
+    "repo_owner": "vimalAdithan",
+    "repotime": "2025-04-25, 21:45:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 253,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-04-21",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 120,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-04-21, 11:07:40",
+    "stargazers_count": 401,
+    "watchers_count": 401
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-04-16",
+    "date_updated": "2025-04-21",
+    "description": "This repository demonstrates a security vulnerability in MCP (Model Context Protocol ) servers that allows for remote code execution and data exfiltration through tool poisoning.",
+    "forks_count": 2,
+    "html_url": "https://github.com/Repello-AI/mcp-exploit-demo",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "mcp-exploit-demo",
+    "repo_owner": "Repello-AI",
+    "repotime": "2025-04-21, 18:08:32",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 73,
+    "date_started": "2025-02-07",
+    "date_updated": "2025-04-05",
+    "description": "Zerodayf is an advanced code analysis platform that leverages artificial intelligence &amp;amp; SAST to identify vulnerabilities within source code. ",
+    "forks_count": 5,
+    "html_url": "https://github.com/0xHamy/zerodayf",
+    "keywords": [
+        "0day vulnerability",
+        "0day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "zerodayf",
+    "repo_owner": "0xHamy",
+    "repotime": "2025-04-05, 09:35:56",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 245,
+    "date_started": "2020-04-14",
+    "date_updated": "2025-04-03",
+    "description": "Pathfinder is a plugin for mapping network vulnerabilities, scanned by CALDERA or imported by a supported network scanner, and translating those scans into adversaries for network traversal.",
+    "forks_count": 23,
+    "html_url": "https://github.com/center-for-threat-informed-defense/caldera_pathfinder",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "caldera_pathfinder",
+    "repo_owner": "center-for-threat-informed-defense",
+    "repotime": "2025-04-03, 08:25:51",
+    "stargazers_count": 126,
+    "watchers_count": 126
+}

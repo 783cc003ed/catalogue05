@@ -1,0 +1,157 @@
+{
+    "commits_count": 25,
+    "date_started": "2024-05-03",
+    "date_updated": "2025-09-30",
+    "description": "&amp;quot;AMSI WRITE RAID&amp;quot; Vulnerability that leads to an effective AMSI BYPASS",
+    "forks_count": 52,
+    "html_url": "https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "AMSI-WRITE-RAID-BYPASS",
+    "repo_owner": "V-i-x-x",
+    "repotime": "2025-09-30, 11:17:59",
+    "stargazers_count": 299,
+    "watchers_count": 299
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-06-27",
+    "date_updated": "2025-09-30",
+    "description": "Exploit Proof of concept for privilege escalation on windows mountmgr.sys driver. Reverse Engineering the Windows Kernel",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xIcarus/ioctl-mountmgr-poc",
+    "keywords": [
+        "Windows escalation of privileges",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "ioctl-mountmgr-poc",
+    "repo_owner": "0xIcarus",
+    "repotime": "2025-09-30, 11:39:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 113,
+    "date_started": "2025-08-15",
+    "date_updated": "2025-09-25",
+    "description": "My code and notes for &amp;quot;From Day Zero to Zero Day&amp;quot;, a book on vulnerability research by Eugene Lim.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xdea/from-day-zero-to-zero-day",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "from-day-zero-to-zero-day",
+    "repo_owner": "0xdea",
+    "repotime": "2025-09-25, 07:39:46",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 721,
+    "date_started": "2022-04-19",
+    "date_updated": "2025-09-22",
+    "description": "Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.",
+    "forks_count": 41,
+    "html_url": "https://github.com/Ostorlab/KEV",
+    "keywords": [
+        "0day vulnerability",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "KEV",
+    "repo_owner": "Ostorlab",
+    "repotime": "2025-09-22, 18:03:42",
+    "stargazers_count": 587,
+    "watchers_count": 587
+}
+{
+    "commits_count": 172,
+    "date_started": "2025-02-02",
+    "date_updated": "2025-09-22",
+    "description": "STRIDE stands for Spoofing, Tampering, Repudiation, Information disclosure, Denial of service and Elevation of privilege, developed by Loren Kohnfelder and Praerit Garg in 1999 to identify potential vulnerabilities and threats to company products",
+    "forks_count": 0,
+    "html_url": "https://github.com/canstralian/STRIDE-GPT-RAG",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "STRIDE-GPT-RAG",
+    "repo_owner": "canstralian",
+    "repotime": "2025-09-22, 20:36:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 225,
+    "date_started": "2024-05-30",
+    "date_updated": "2025-09-16",
+    "description": "Fourth evolution of Code Injection for Xcode",
+    "forks_count": 9,
+    "html_url": "https://github.com/johnno1962/InjectionNext",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "InjectionNext",
+    "repo_owner": "johnno1962",
+    "repotime": "2025-09-16, 21:11:34",
+    "stargazers_count": 225,
+    "watchers_count": 225
+}
+{
+    "commits_count": 141,
+    "date_started": "2019-04-19",
+    "date_updated": "2025-09-14",
+    "description": "Top disclosed reports from HackerOne",
+    "forks_count": 876,
+    "html_url": "https://github.com/reddelexc/hackerone-reports",
+    "keywords": [
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "hackerone-reports",
+    "repo_owner": "reddelexc",
+    "repotime": "2025-09-14, 21:12:20",
+    "stargazers_count": 4886,
+    "watchers_count": 4886
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-06-30",
+    "date_updated": "2025-09-14",
+    "description": "This is a simple and benign Go script that red teamers can drop and attempt execution to test RCE on Windows/Linux machines",
+    "forks_count": 0,
+    "html_url": "https://github.com/maverick-doan/rce-checker",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Go",
+    "repo_name": "rce-checker",
+    "repo_owner": "maverick-doan",
+    "repotime": "2025-09-14, 13:19:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 295,
+    "date_started": "2020-12-17",
+    "date_updated": "2025-09-12",
+    "description": "🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration.",
+    "forks_count": 2,
+    "html_url": "https://github.com/TomerAberbach/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "TypeScript",
+    "repo_name": "lfi",
+    "repo_owner": "TomerAberbach",
+    "repotime": "2025-09-12, 18:48:38",
+    "stargazers_count": 347,
+    "watchers_count": 347
+}

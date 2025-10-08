@@ -1,0 +1,36 @@
+{
+    "commits_count": 4,
+    "date_started": "2023-07-21",
+    "date_updated": "2023-08-23",
+    "description": "RCE exploit for CVE-2023-3519",
+    "forks_count": 43,
+    "html_url": "https://github.com/BishopFox/CVE-2023-3519",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-3519",
+    "repo_owner": "BishopFox",
+    "repotime": "2023-08-23, 09:27:28",
+    "stargazers_count": 226,
+    "watchers_count": 226
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-08-09",
+    "date_updated": "2023-08-11",
+    "description": "WPS-Office 1-Click RCE exp 202308091546",
+    "forks_count": 45,
+    "html_url": "https://github.com/b2git/WPS-0DAY-20230809",
+    "keywords": [
+        "rce vulnerability",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "WPS-0DAY-20230809",
+    "repo_owner": "b2git",
+    "repotime": "2023-08-11, 21:34:35",
+    "stargazers_count": 143,
+    "watchers_count": 143
+}

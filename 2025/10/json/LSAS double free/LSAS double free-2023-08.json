@@ -1,0 +1,227 @@
+{
+    "commits_count": 24,
+    "date_started": "2023-08-28",
+    "date_updated": "2023-08-31",
+    "description": "Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.",
+    "forks_count": 6,
+    "html_url": "https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831_ReverseShell_Winrar-RCE",
+    "repo_owner": "Maalfer",
+    "repotime": "2023-08-31, 09:40:12",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 47,
+    "date_started": "2022-03-20",
+    "date_updated": "2023-08-30",
+    "description": "Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin，online https://51pwn.com",
+    "forks_count": 27,
+    "html_url": "https://github.com/GhostTroops/go4Hacker",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Go",
+    "repo_name": "go4Hacker",
+    "repo_owner": "GhostTroops",
+    "repotime": "2023-08-30, 16:43:21",
+    "stargazers_count": 147,
+    "watchers_count": 147
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-08-27",
+    "date_updated": "2023-08-28",
+    "description": "An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23",
+    "forks_count": 18,
+    "html_url": "https://github.com/ignis-sec/CVE-2023-38831-RaRCE",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831-RaRCE",
+    "repo_owner": "ignis-sec",
+    "repotime": "2023-08-28, 01:17:56",
+    "stargazers_count": 115,
+    "watchers_count": 115
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-21",
+    "date_updated": "2023-08-23",
+    "description": "RCE exploit for CVE-2023-3519",
+    "forks_count": 43,
+    "html_url": "https://github.com/BishopFox/CVE-2023-3519",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-3519",
+    "repo_owner": "BishopFox",
+    "repotime": "2023-08-23, 09:27:28",
+    "stargazers_count": 226,
+    "watchers_count": 226
+}
+{
+    "commits_count": 323,
+    "date_started": "2009-09-17",
+    "date_updated": "2023-08-22",
+    "description": "bobby-tables.com, the site for preventing SQL injections",
+    "forks_count": 85,
+    "html_url": "https://github.com/petdance/bobby-tables",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Perl",
+    "repo_name": "bobby-tables",
+    "repo_owner": "petdance",
+    "repotime": "2023-08-22, 21:04:46",
+    "stargazers_count": 255,
+    "watchers_count": 255
+}
+{
+    "commits_count": 33,
+    "date_started": "2023-08-22",
+    "date_updated": "2023-08-22",
+    "description": "API hooking and code injection made easy!",
+    "forks_count": 4,
+    "html_url": "https://github.com/anvilsecure/nosymonkey",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "nosymonkey",
+    "repo_owner": "anvilsecure",
+    "repotime": "2023-08-22, 14:45:23",
+    "stargazers_count": 39,
+    "watchers_count": 39
+}
+{
+    "commits_count": 86,
+    "date_started": "2019-09-22",
+    "date_updated": "2023-08-21",
+    "description": "This Lab contain the sample codes which are vulnerable to Server-Side Request Forgery attack",
+    "forks_count": 199,
+    "html_url": "https://github.com/incredibleindishell/SSRF_Vulnerable_Lab",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "PHP",
+    "repo_name": "SSRF_Vulnerable_Lab",
+    "repo_owner": "incredibleindishell",
+    "repotime": "2023-08-21, 22:32:38",
+    "stargazers_count": 740,
+    "watchers_count": 740
+}
+{
+    "commits_count": 40,
+    "date_started": "2022-07-11",
+    "date_updated": "2023-08-17",
+    "description": "Pghostile is a tool to automate the exploitation of PostgreSQL® specific vulnerabilities that could lead to privilege escalation. It can be used to identify security issues in PostgreSQL extensions, to test system hardening and for security research in general.",
+    "forks_count": 2,
+    "html_url": "https://github.com/Aiven-Open/pghostile",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": "Python",
+    "repo_name": "pghostile",
+    "repo_owner": "Aiven-Open",
+    "repotime": "2023-08-17, 11:21:11",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-08-12",
+    "date_updated": "2023-08-12",
+    "description": "Clean zip file directory traversal vulnerabilities.",
+    "forks_count": 1,
+    "html_url": "https://github.com/madler/zipclean",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "zipclean",
+    "repo_owner": "madler",
+    "repotime": "2023-08-12, 08:26:17",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-08-09",
+    "date_updated": "2023-08-11",
+    "description": "WPS-Office 1-Click RCE exp 202308091546",
+    "forks_count": 45,
+    "html_url": "https://github.com/b2git/WPS-0DAY-20230809",
+    "keywords": [
+        "rce vulnerability",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "WPS-0DAY-20230809",
+    "repo_owner": "b2git",
+    "repotime": "2023-08-11, 21:34:35",
+    "stargazers_count": 143,
+    "watchers_count": 143
+}
+{
+    "commits_count": 25,
+    "date_started": "2022-08-18",
+    "date_updated": "2023-08-09",
+    "description": "Hijack the Web session using QRPhishing",
+    "forks_count": 2,
+    "html_url": "https://github.com/chitranjan-gupta/QRPhishing",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "JavaScript",
+    "repo_name": "QRPhishing",
+    "repo_owner": "chitranjan-gupta",
+    "repotime": "2023-08-09, 19:35:32",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 34,
+    "date_started": "2023-07-10",
+    "date_updated": "2023-08-04",
+    "description": "Flight recorder Analysis: Contains 5 applications comprising of Latency, HotMethods detection, Memory leak etc.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AndreTh0mas/Java-Flight-Recorder-Showcase",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Java",
+    "repo_name": "Java-Flight-Recorder-Showcase",
+    "repo_owner": "AndreTh0mas",
+    "repotime": "2023-08-04, 16:27:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-12-11",
+    "date_updated": "2023-08-02",
+    "description": "Remote command execution vulnerability scanner for Log4j.",
+    "forks_count": 55,
+    "html_url": "https://github.com/adilsoybali/Log4j-RCE-Scanner",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "Log4j-RCE-Scanner",
+    "repo_owner": "adilsoybali",
+    "repotime": "2023-08-02, 01:05:20",
+    "stargazers_count": 254,
+    "watchers_count": 254
+}

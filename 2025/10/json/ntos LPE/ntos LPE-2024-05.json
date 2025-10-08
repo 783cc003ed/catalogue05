@@ -1,0 +1,17 @@
+{
+    "commits_count": 36,
+    "date_started": "2018-07-27",
+    "date_updated": "2024-05-17",
+    "description": "Decorate the ruby CSV library to sanitize output CSV against CSV injection attacks.",
+    "forks_count": 13,
+    "html_url": "https://github.com/zvory/csv-safe",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Ruby",
+    "repo_name": "csv-safe",
+    "repo_owner": "zvory",
+    "repotime": "2024-05-17, 21:54:25",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}

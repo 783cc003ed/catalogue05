@@ -252,7 +252,7 @@
     "date_started": "2016-06-16",
     "date_updated": "2022-07-14",
     "description": "🇺🇦 Windows driver with usermode interface which can hide processes, file-system and registry objects, protect processes and etc",
-    "forks_count": 500,
+    "forks_count": 501,
     "html_url": "https://github.com/JKornev/hidden",
     "keywords": [
         "Windows rce"
@@ -261,8 +261,8 @@
     "repo_name": "hidden",
     "repo_owner": "JKornev",
     "repotime": "2022-07-14, 00:48:44",
-    "stargazers_count": 1938,
-    "watchers_count": 1938
+    "stargazers_count": 1954,
+    "watchers_count": 1954
 }
 {
     "commits_count": 1,
@@ -355,7 +355,7 @@
     "date_started": "2018-08-11",
     "date_updated": "2022-07-11",
     "description": "This tool generates gopher link for exploiting SSRF and gaining RCE in various servers",
-    "forks_count": 396,
+    "forks_count": 395,
     "html_url": "https://github.com/tarunkant/Gopherus",
     "keywords": [
         "rce exploit",
@@ -366,8 +366,8 @@
     "repo_name": "Gopherus",
     "repo_owner": "tarunkant",
     "repotime": "2022-07-11, 17:41:56",
-    "stargazers_count": 3193,
-    "watchers_count": 3193
+    "stargazers_count": 3197,
+    "watchers_count": 3197
 }
 {
     "commits_count": 24,

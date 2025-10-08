@@ -1,0 +1,208 @@
+{
+    "commits_count": 144,
+    "date_started": "2022-05-31",
+    "date_updated": "2023-02-26",
+    "description": "【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。",
+    "forks_count": 186,
+    "html_url": "https://github.com/W01fh4cker/Serein",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Serein",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2023-02-26, 22:06:05",
+    "stargazers_count": 1219,
+    "watchers_count": 1219
+}
+{
+    "commits_count": 31,
+    "date_started": "2022-05-30",
+    "date_updated": "2023-02-24",
+    "description": "POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes",
+    "forks_count": 254,
+    "html_url": "https://github.com/chvancooten/follina.py",
+    "keywords": [
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Smarty",
+    "repo_name": "follina.py",
+    "repo_owner": "chvancooten",
+    "repotime": "2023-02-24, 17:08:08",
+    "stargazers_count": 1145,
+    "watchers_count": 1145
+}
+{
+    "commits_count": 127,
+    "date_started": "2018-08-22",
+    "date_updated": "2023-02-19",
+    "description": "VR Man-in-the-Room Attack and Command &amp;amp; Control Server Proof of Concept — Bigscreen",
+    "forks_count": 1,
+    "html_url": "https://github.com/mvondracek/VR-MitR-C2-Bigscreen",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "VR-MitR-C2-Bigscreen",
+    "repo_owner": "mvondracek",
+    "repotime": "2023-02-19, 23:43:42",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-10-10",
+    "date_updated": "2023-02-18",
+    "description": "XXRF Shots - Useful for testing SSRF vulnerability",
+    "forks_count": 29,
+    "html_url": "https://github.com/samhaxr/XXRF-Shots",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "JavaScript",
+    "repo_name": "XXRF-Shots",
+    "repo_owner": "samhaxr",
+    "repotime": "2023-02-18, 00:49:06",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-11-21",
+    "date_updated": "2023-02-17",
+    "description": "HTTPS Proxy (tunneling). HTTPS Proxy man-in-the-middle (with certificate spoofing and URL logging).",
+    "forks_count": 0,
+    "html_url": "https://github.com/JusticeProject/HTTPS-Proxy-Logger",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "Go",
+    "repo_name": "HTTPS-Proxy-Logger",
+    "repo_owner": "JusticeProject",
+    "repotime": "2023-02-17, 17:40:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 39,
+    "date_started": "2018-12-08",
+    "date_updated": "2023-02-15",
+    "description": "一个经典的XSS渗透管理平台",
+    "forks_count": 197,
+    "html_url": "https://github.com/78778443/xssplatform",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "xssplatform",
+    "repo_owner": "78778443",
+    "repotime": "2023-02-15, 10:31:09",
+    "stargazers_count": 726,
+    "watchers_count": 726
+}
+{
+    "commits_count": 15,
+    "date_started": "2023-02-12",
+    "date_updated": "2023-02-14",
+    "description": "A setup to practice DAST using C++ with VsCode on Windows. allows testing, debugging, and memory leaks detection.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AlexGoldovsky/windows-vscode-cpp-dast",
+    "keywords": [
+        "Win memory leak",
+        "Windows memory leak"
+    ],
+    "language": "C++",
+    "repo_name": "windows-vscode-cpp-dast",
+    "repo_owner": "AlexGoldovsky",
+    "repotime": "2023-02-14, 02:10:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-02-13",
+    "date_updated": "2023-02-13",
+    "description": "Use-after free vulnerability exists in Screen Creator Advance 2 Ver.0.1.1.4 Build01 and earlier due to lack of error handling process even when an error was detected. Having a user of Screen Creator Advance 2 to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution. CVE project by @Sn0wAlice",
+    "forks_count": 0,
+    "html_url": "https://github.com/Live-Hack-CVE/CVE-2023-22360",
+    "keywords": [
+        "use after free disclosure"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-22360",
+    "repo_owner": "Live-Hack-CVE",
+    "repotime": "2023-02-13, 14:42:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 714,
+    "date_started": "2018-04-08",
+    "date_updated": "2023-02-13",
+    "description": "UAC bypass, Elevate, Persistence methods",
+    "forks_count": 388,
+    "html_url": "https://github.com/rootm0s/WinPwnage",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "WinPwnage",
+    "repo_owner": "rootm0s",
+    "repotime": "2023-02-13, 10:43:12",
+    "stargazers_count": 2706,
+    "watchers_count": 2706
+}
+{
+    "commits_count": 21,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-02-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/brancobruyneel/jest-memory-leak-poc",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "TypeScript",
+    "repo_name": "jest-memory-leak-poc",
+    "repo_owner": "brancobruyneel",
+    "repotime": "2023-02-09, 10:26:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2020-01-29",
+    "date_updated": "2023-02-08",
+    "description": "LFI to RCE via phpinfo() assistance or via controlled log file",
+    "forks_count": 12,
+    "html_url": "https://github.com/roughiz/lfito_rce",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfito_rce",
+    "repo_owner": "roughiz",
+    "repotime": "2023-02-08, 19:37:59",
+    "stargazers_count": 70,
+    "watchers_count": 70
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-01-27",
+    "date_updated": "2023-02-04",
+    "description": "LPE PoC of a user-after-free vulnerability in the Linux netfilter subsystem.",
+    "forks_count": 1,
+    "html_url": "https://github.com/ysanatomic/CVE-2022-32250-LPE",
+    "keywords": [
+        "lpe poc",
+        "lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2022-32250-LPE",
+    "repo_owner": "ysanatomic",
+    "repotime": "2023-02-04, 18:27:19",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}

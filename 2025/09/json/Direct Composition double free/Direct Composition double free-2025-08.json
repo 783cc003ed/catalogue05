@@ -20,7 +20,7 @@
     "date_started": "2020-06-02",
     "date_updated": "2025-08-31",
     "description": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
-    "forks_count": 218,
+    "forks_count": 219,
     "html_url": "https://github.com/hadashiA/VContainer",
     "keywords": [
         "code injection"
@@ -29,8 +29,8 @@
     "repo_name": "VContainer",
     "repo_owner": "hadashiA",
     "repotime": "2025-08-31, 17:10:20",
-    "stargazers_count": 2482,
-    "watchers_count": 2482
+    "stargazers_count": 2492,
+    "watchers_count": 2492
 }
 {
     "commits_count": 13,
@@ -150,23 +150,6 @@
     "repotime": "2025-08-25, 17:47:36",
     "stargazers_count": 1960,
     "watchers_count": 1960
-}
-{
-    "commits_count": 13,
-    "date_started": "2025-08-23",
-    "date_updated": "2025-08-24",
-    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
-    "forks_count": 1,
-    "html_url": "https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
-    "keywords": [
-        "sandbox escape exploit"
-    ],
-    "language": null,
-    "repo_name": "Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
-    "repo_owner": "JGoyd",
-    "repotime": "2025-08-24, 18:10:43",
-    "stargazers_count": 3,
-    "watchers_count": 3
 }
 {
     "commits_count": 42625,
@@ -472,8 +455,8 @@
     "repo_name": "acra",
     "repo_owner": "cossacklabs",
     "repotime": "2025-08-14, 18:32:28",
-    "stargazers_count": 1428,
-    "watchers_count": 1428
+    "stargazers_count": 1429,
+    "watchers_count": 1429
 }
 {
     "commits_count": 6,
@@ -517,7 +500,7 @@
     "date_started": "2017-03-06",
     "date_updated": "2025-08-12",
     "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
-    "forks_count": 367,
+    "forks_count": 370,
     "html_url": "https://github.com/ssl/ezXSS",
     "keywords": [
         "xss"
@@ -526,8 +509,8 @@
     "repo_name": "ezXSS",
     "repo_owner": "ssl",
     "repotime": "2025-08-12, 15:38:16",
-    "stargazers_count": 2119,
-    "watchers_count": 2119
+    "stargazers_count": 2123,
+    "watchers_count": 2123
 }
 {
     "commits_count": 15,
@@ -621,7 +604,7 @@
     "date_started": "2016-07-11",
     "date_updated": "2025-08-07",
     "description": " QRLJacking or Quick Response Code Login Jacking is a simple-but-nasty attack vector affecting all the applications that relays on “Login with QR code” feature as a secure way to login into accounts which aims for hijacking users session by attackers.",
-    "forks_count": 648,
+    "forks_count": 650,
     "html_url": "https://github.com/OWASP/QRLJacking",
     "keywords": [
         "session hijacking attack",
@@ -632,8 +615,8 @@
     "repo_name": "QRLJacking",
     "repo_owner": "OWASP",
     "repotime": "2025-08-07, 15:07:19",
-    "stargazers_count": 1441,
-    "watchers_count": 1441
+    "stargazers_count": 1442,
+    "watchers_count": 1442
 }
 {
     "commits_count": 10,
@@ -819,8 +802,8 @@
     "repo_name": "one_gadget",
     "repo_owner": "david942j",
     "repotime": "2025-08-01, 09:37:24",
-    "stargazers_count": 2226,
-    "watchers_count": 2226
+    "stargazers_count": 2228,
+    "watchers_count": 2228
 }
 {
     "commits_count": 79,

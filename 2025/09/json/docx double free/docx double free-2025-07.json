@@ -12,8 +12,8 @@
     "repo_name": "lfi",
     "repo_owner": "lfi-project",
     "repotime": "2025-07-30, 13:52:26",
-    "stargazers_count": 87,
-    "watchers_count": 87
+    "stargazers_count": 88,
+    "watchers_count": 88
 }
 {
     "commits_count": 9,
@@ -280,6 +280,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 235,
+    "date_started": "2024-06-11",
+    "date_updated": "2025-07-21",
+    "description": "Addressing data leakage in a deep-learning model for predicting small molecule substrates of enzymes",
+    "forks_count": 0,
+    "html_url": "https://github.com/kalininalab/ESP_Leak_Analysis",
+    "keywords": [
+        "address leak analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "ESP_Leak_Analysis",
+    "repo_owner": "kalininalab",
+    "repotime": "2025-07-21, 15:48:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 25,
     "date_started": "2025-06-25",
     "date_updated": "2025-07-21",
@@ -352,7 +369,7 @@
     "date_started": "2024-09-06",
     "date_updated": "2025-07-18",
     "description": "Automation tool to testing and confirm the xss vulnerability.",
-    "forks_count": 52,
+    "forks_count": 53,
     "html_url": "https://github.com/iamunixtz/LazyXss",
     "keywords": [
         "xss"
@@ -361,8 +378,8 @@
     "repo_name": "LazyXss",
     "repo_owner": "iamunixtz",
     "repotime": "2025-07-18, 06:49:37",
-    "stargazers_count": 288,
-    "watchers_count": 288
+    "stargazers_count": 291,
+    "watchers_count": 291
 }
 {
     "commits_count": 32,
@@ -783,7 +800,7 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 136,
+    "commits_count": 137,
     "date_started": "2021-02-23",
     "date_updated": "2025-07-08",
     "description": "Repository for information about 0-days exploited in-the-wild.",
@@ -797,8 +814,8 @@
     "repo_name": "0days-in-the-wild",
     "repo_owner": "googleprojectzero",
     "repotime": "2025-07-08, 11:51:33",
-    "stargazers_count": 830,
-    "watchers_count": 830
+    "stargazers_count": 829,
+    "watchers_count": 829
 }
 {
     "commits_count": 9,
@@ -850,8 +867,8 @@
     "repo_name": "MemorySnitcher",
     "repo_owner": "ricardojoserf",
     "repotime": "2025-07-07, 14:14:30",
-    "stargazers_count": 37,
-    "watchers_count": 37
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 33,

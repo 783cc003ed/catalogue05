@@ -1,0 +1,53 @@
+{
+    "commits_count": 3,
+    "date_started": "2015-05-20",
+    "date_updated": "2015-05-20",
+    "description": "Increases prevention from popular attacks like session hijacking or session fixation. Data is encrypted via mcrypt using algorithm MCRYPT_RIJNDAEL_256.",
+    "forks_count": 0,
+    "html_url": "https://github.com/theowni/encryptedSession-PHP",
+    "keywords": [
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "encryptedSession-PHP",
+    "repo_owner": "theowni",
+    "repotime": "2015-05-20, 02:06:28",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 8,
+    "date_started": "2017-09-28",
+    "date_updated": "2015-05-13",
+    "description": "Easily define in-memory enums, structs, and Win32 functions in PowerShell",
+    "forks_count": 0,
+    "html_url": "https://github.com/HarmJoy/PSReflect",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "PowerShell",
+    "repo_name": "PSReflect",
+    "repo_owner": "HarmJoy",
+    "repotime": "2015-05-13, 18:38:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2014-12-13",
+    "date_updated": "2015-05-11",
+    "description": "Fully functional Windows UAC bypass for Hak5 USB rubber ducky.",
+    "forks_count": 8,
+    "html_url": "https://github.com/JPaulMora/BypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": null,
+    "repo_name": "BypassUAC",
+    "repo_owner": "JPaulMora",
+    "repotime": "2015-05-11, 11:44:49",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}

@@ -1,0 +1,35 @@
+{
+    "commits_count": 54,
+    "date_started": "2025-01-06",
+    "date_updated": "2025-08-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/federico-zanca/KernelExploit-UAF-to-OOB",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "C",
+    "repo_name": "KernelExploit-UAF-to-OOB",
+    "repo_owner": "federico-zanca",
+    "repotime": "2025-08-24, 00:19:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-07-09",
+    "date_updated": "2025-08-05",
+    "description": "LPE / RCE Exploits for various vulnerable &amp;quot;Bloatware&amp;quot; products",
+    "forks_count": 5,
+    "html_url": "https://github.com/sensepost/bloatware-pwn",
+    "keywords": [
+        "by_owner",
+        "lpe exploit"
+    ],
+    "language": "C#",
+    "repo_name": "bloatware-pwn",
+    "repo_owner": "sensepost",
+    "repotime": "2025-08-05, 14:33:07",
+    "stargazers_count": 71,
+    "watchers_count": 71
+}

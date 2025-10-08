@@ -1868,8 +1868,8 @@ LPE: BackupOperator to Domain Admin Active Directory Proof of Concept
     <td>Started: <code>2025-04-17 13:15:29+00:00</code></td>
     <td>Latest: <code>2025-04-17 10:25:41-03:00</code></td></tr>
 <tr><td>Commits: <code>4</code></td>
-    <td>Stargazers: <code>1</code></td>
-    <td>Watchers: <code>1</code></td>
+    <td>Stargazers: <code>2</code></td>
+    <td>Watchers: <code>2</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: lpe poc
@@ -2066,8 +2066,8 @@ LPE exploit for CVE-2023-36802
     <td>Started: <code>2023-10-09 17:32:15+00:00</code></td>
     <td>Latest: <code>2023-10-10 13:44:05-04:00</code></td></tr>
 <tr><td>Commits: <code>2</code></td>
-    <td>Stargazers: <code>163</code></td>
-    <td>Watchers: <code>163</code></td>
+    <td>Stargazers: <code>164</code></td>
+    <td>Watchers: <code>164</code></td>
     <td>Forks: <code>39</code></td></tr>
 </table>
 Keywords: Win lpe exploitation, Win lpe, Windows lpe exploitation, lpe exploit, lpe exploitation, Windows lpe exploit, Windows lpe, Win lpe exploit
@@ -4318,8 +4318,8 @@ LPE: BackupOperator to Domain Admin Active Directory Proof of Concept
     <td>Started: <code>2025-04-17 13:15:29+00:00</code></td>
     <td>Latest: <code>2025-04-17 10:25:41-03:00</code></td></tr>
 <tr><td>Commits: <code>4</code></td>
-    <td>Stargazers: <code>1</code></td>
-    <td>Watchers: <code>1</code></td>
+    <td>Stargazers: <code>2</code></td>
+    <td>Watchers: <code>2</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: lpe poc
@@ -4516,8 +4516,8 @@ LPE exploit for CVE-2023-36802
     <td>Started: <code>2023-10-09 17:32:15+00:00</code></td>
     <td>Latest: <code>2023-10-10 13:44:05-04:00</code></td></tr>
 <tr><td>Commits: <code>2</code></td>
-    <td>Stargazers: <code>163</code></td>
-    <td>Watchers: <code>163</code></td>
+    <td>Stargazers: <code>164</code></td>
+    <td>Watchers: <code>164</code></td>
     <td>Forks: <code>39</code></td></tr>
 </table>
 Keywords: Win lpe exploitation, Win lpe, Windows lpe exploitation, lpe exploit, lpe exploitation, Windows lpe exploit, Windows lpe, Win lpe exploit

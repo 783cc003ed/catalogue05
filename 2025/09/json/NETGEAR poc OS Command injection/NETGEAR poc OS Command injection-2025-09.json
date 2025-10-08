@@ -1,7 +1,127 @@
 {
-    "commits_count": 352,
+    "commits_count": 20,
+    "date_started": "2025-08-04",
+    "date_updated": "2025-09-22",
+    "description": "Modular Python framework for dynamic node health scoring and probabilistic fault injection in fog networks. Models fog node integrity in smart agriculture using real-time metrics, EMA thresholding, and health classification. Features fault injection, adaptive scoring, simulation control, and live visualization. Exports logs in JSON/CSV for analysis",
+    "forks_count": 0,
+    "html_url": "https://github.com/imosudi/dynamic-node-health-simulation",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "dynamic-node-health-simulation",
+    "repo_owner": "imosudi",
+    "repotime": "2025-09-22, 08:06:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2206,
+    "date_started": "2019-09-10",
+    "date_updated": "2025-09-22",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 296,
+    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "TongchengOpenSource",
+    "repotime": "2025-09-22, 10:29:15",
+    "stargazers_count": 1572,
+    "watchers_count": 1572
+}
+{
+    "commits_count": 14,
+    "date_started": "2025-08-23",
+    "date_updated": "2025-09-21",
+    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
+    "forks_count": 3,
+    "html_url": "https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": null,
+    "repo_name": "Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
+    "repo_owner": "JGoyd",
+    "repotime": "2025-09-21, 17:08:34",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 612,
+    "date_started": "2024-09-27",
+    "date_updated": "2025-09-21",
+    "description": "Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.",
+    "forks_count": 1,
+    "html_url": "https://github.com/francescolonardo/pentest-machine-writeups",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "pentest-machine-writeups",
+    "repo_owner": "francescolonardo",
+    "repotime": "2025-09-21, 15:40:41",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 167,
+    "date_started": "2025-08-10",
+    "date_updated": "2025-09-21",
+    "description": "🔐 Cybersecurity Lab Reports &amp;amp; CTF Write-ups – Reconnaissance, exploitation, privilege escalation, and mitigation strategies 🛠️ | My curated archive of hacking challenges, vulnerability assessments, and hands-on security research 📂",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nish344/CTF-walkthroughs",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CTF-walkthroughs",
+    "repo_owner": "Nish344",
+    "repotime": "2025-09-21, 13:03:42",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 136,
+    "date_started": "2022-07-27",
+    "date_updated": "2025-09-21",
+    "description": "Simple python script supported with BurpBouty profile that helps you to detect SQL injection &amp;quot;Error based&amp;quot; by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.",
+    "forks_count": 113,
+    "html_url": "https://github.com/eslam3kl/SQLiDetector",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Clojure",
+    "repo_name": "SQLiDetector",
+    "repo_owner": "eslam3kl",
+    "repotime": "2025-09-21, 02:39:01",
+    "stargazers_count": 622,
+    "watchers_count": 622
+}
+{
+    "commits_count": 2041,
+    "date_started": "2020-04-12",
+    "date_updated": "2025-09-21",
+    "description": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
+    "forks_count": 494,
+    "html_url": "https://github.com/hahwul/dalfox",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Go",
+    "repo_name": "dalfox",
+    "repo_owner": "hahwul",
+    "repotime": "2025-09-21, 01:34:30",
+    "stargazers_count": 4548,
+    "watchers_count": 4548
+}
+{
+    "commits_count": 368,
     "date_started": "2019-08-21",
-    "date_updated": "2025-09-18",
+    "date_updated": "2025-09-20",
     "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
     "forks_count": 294,
     "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
@@ -17,43 +137,147 @@
     "language": "Lua",
     "repo_name": "Nginx-Lua-Anti-DDoS",
     "repo_owner": "C0nw0nk",
-    "repotime": "2025-09-18, 08:10:51",
+    "repotime": "2025-09-20, 12:44:03",
     "stargazers_count": 1361,
     "watchers_count": 1361
 }
 {
-    "commits_count": 2039,
-    "date_started": "2020-04-12",
-    "date_updated": "2025-09-18",
-    "description": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
-    "forks_count": 490,
-    "html_url": "https://github.com/hahwul/dalfox",
+    "commits_count": 4,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-09-20",
+    "description": "Test your web hacking skills on a simulated bookstore website! Explore multiple pages with realistic-looking content while uncovering hidden vulnerabilities including SQL Injection, XXE (XML External Entity), and IDOR (Insecure Direct Object References). Discover hidden flags by exploiting these vulnerabilities safely in a CTF environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/oraj25/-BookTryHackMe",
     "keywords": [
-        "xss"
+        "xml external entity"
     ],
-    "language": "Go",
-    "repo_name": "dalfox",
-    "repo_owner": "hahwul",
-    "repotime": "2025-09-18, 07:56:34",
-    "stargazers_count": 4533,
-    "watchers_count": 4533
+    "language": "HTML",
+    "repo_name": "-BookTryHackMe",
+    "repo_owner": "oraj25",
+    "repotime": "2025-09-20, 13:57:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
-    "commits_count": 155,
-    "date_started": "2025-08-10",
-    "date_updated": "2025-09-17",
-    "description": "🔐 Cybersecurity Lab Reports &amp;amp; CTF Write-ups – Reconnaissance, exploitation, privilege escalation, and mitigation strategies 🛠️ | My curated archive of hacking challenges, vulnerability assessments, and hands-on security research 📂",
+    "commits_count": 4,
+    "date_started": "2025-09-19",
+    "date_updated": "2025-09-19",
+    "description": "Identify flaws (like SQL injection, hardcoded passwords, lack of input validation).",
     "forks_count": 0,
-    "html_url": "https://github.com/Nish344/CTF-walkthroughs",
+    "html_url": "https://github.com/sahilbagde6/CodeAlpha_SecureCodeReview",
     "keywords": [
-        "escalation of privileges exploit"
+        "lack of input validation"
     ],
-    "language": null,
-    "repo_name": "CTF-walkthroughs",
-    "repo_owner": "Nish344",
-    "repotime": "2025-09-17, 11:29:13",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "language": "Python",
+    "repo_name": "CodeAlpha_SecureCodeReview",
+    "repo_owner": "sahilbagde6",
+    "repotime": "2025-09-19, 20:31:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-09-19",
+    "date_updated": "2025-09-19",
+    "description": "Test your web hacking skills on a simulated bookstore website! Explore multiple pages with realistic-looking content while uncovering hidden vulnerabilities including SQL Injection, XXE (XML External Entity), and IDOR (Insecure Direct Object References). Discover hidden flags by exploiting these vulnerabilities safely in a CTF environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/oraj25/The-BookStore-TryHackMe-CTF-",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "HTML",
+    "repo_name": "The-BookStore-TryHackMe-CTF-",
+    "repo_owner": "oraj25",
+    "repotime": "2025-09-19, 18:52:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 102,
+    "date_started": "2025-08-24",
+    "date_updated": "2025-09-18",
+    "description": "Research project: Ensemble Deep Learning vs Traditional Signature-Based Methods for Zero-Day Malware Detection: A Comparative Analysis Using Behavioral Feature Extraction",
+    "forks_count": 0,
+    "html_url": "https://github.com/prashaant1926/ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa",
+    "repo_owner": "prashaant1926",
+    "repotime": "2025-09-18, 23:33:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1311,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-09-19",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 122,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-09-19, 01:09:26",
+    "stargazers_count": 704,
+    "watchers_count": 704
+}
+{
+    "commits_count": 745,
+    "date_started": "2018-07-17",
+    "date_updated": "2025-09-18",
+    "description": "CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool",
+    "forks_count": 699,
+    "html_url": "https://github.com/RhinoSecurityLabs/cloudgoat",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "cloudgoat",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2025-09-18, 09:44:41",
+    "stargazers_count": 3335,
+    "watchers_count": 3335
+}
+{
+    "commits_count": 29,
+    "date_started": "2025-04-04",
+    "date_updated": "2025-09-18",
+    "description": "Just a simple userscript to bypass the soft paywall on gocomics.com, and removes the adspaces as well.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Idiot-01/Gocomics-Depaywall",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Gocomics-Depaywall",
+    "repo_owner": "Idiot-01",
+    "repotime": "2025-09-18, 19:44:32",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 128,
+    "date_started": "2025-08-01",
+    "date_updated": "2025-09-17",
+    "description": "An automated recon tool for asset discovery and vulnerability scanning using open-source tools. Supports XSS, SQLi, LFI, RCE, IIS, Open Redirect, Swagger UI, .git exposures and more.",
+    "forks_count": 24,
+    "html_url": "https://github.com/rix4uni/GarudRecon",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "GarudRecon",
+    "repo_owner": "rix4uni",
+    "repotime": "2025-09-17, 22:00:52",
+    "stargazers_count": 119,
+    "watchers_count": 119
 }
 {
     "commits_count": 3,
@@ -73,59 +297,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 125,
-    "date_started": "2025-08-01",
-    "date_updated": "2025-09-17",
-    "description": "An automated recon tool for asset discovery and vulnerability scanning using open-source tools. Supports XSS, SQLi, LFI, RCE, IIS, Open Redirect, Swagger UI, .git exposures and more.",
-    "forks_count": 23,
-    "html_url": "https://github.com/rix4uni/GarudRecon",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "GarudRecon",
-    "repo_owner": "rix4uni",
-    "repotime": "2025-09-17, 10:59:14",
-    "stargazers_count": 116,
-    "watchers_count": 116
-}
-{
-    "commits_count": 2205,
-    "date_started": "2019-09-10",
-    "date_updated": "2025-09-17",
-    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
-    "forks_count": 296,
-    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "smart-doc",
-    "repo_owner": "TongchengOpenSource",
-    "repotime": "2025-09-17, 11:55:29",
-    "stargazers_count": 1572,
-    "watchers_count": 1572
-}
-{
-    "commits_count": 1309,
-    "date_started": "2022-03-19",
-    "date_updated": "2025-09-17",
-    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-    "forks_count": 122,
-    "html_url": "https://github.com/GhostTroops/TOP",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "TOP",
-    "repo_owner": "GhostTroops",
-    "repotime": "2025-09-17, 01:07:22",
-    "stargazers_count": 704,
-    "watchers_count": 704
-}
-{
     "commits_count": 215,
     "date_started": "2024-05-30",
     "date_updated": "2025-09-16",
@@ -139,8 +310,8 @@
     "repo_name": "InjectionNext",
     "repo_owner": "johnno1962",
     "repotime": "2025-09-16, 21:11:34",
-    "stargazers_count": 217,
-    "watchers_count": 217
+    "stargazers_count": 218,
+    "watchers_count": 218
 }
 {
     "commits_count": 105,
@@ -233,7 +404,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2025-09-15",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6043,
+    "forks_count": 6048,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -242,15 +413,15 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-09-15, 00:03:04",
-    "stargazers_count": 35308,
-    "watchers_count": 35308
+    "stargazers_count": 35341,
+    "watchers_count": 35341
 }
 {
     "commits_count": 141,
     "date_started": "2019-04-19",
     "date_updated": "2025-09-14",
     "description": "Top disclosed reports from HackerOne",
-    "forks_count": 871,
+    "forks_count": 872,
     "html_url": "https://github.com/reddelexc/hackerone-reports",
     "keywords": [
         "xxe",
@@ -260,25 +431,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-09-14, 21:12:20",
-    "stargazers_count": 4847,
-    "watchers_count": 4847
-}
-{
-    "commits_count": 135,
-    "date_started": "2022-07-27",
-    "date_updated": "2025-09-14",
-    "description": "Simple python script supported with BurpBouty profile that helps you to detect SQL injection &amp;quot;Error based&amp;quot; by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.",
-    "forks_count": 112,
-    "html_url": "https://github.com/eslam3kl/SQLiDetector",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Clojure",
-    "repo_name": "SQLiDetector",
-    "repo_owner": "eslam3kl",
-    "repotime": "2025-09-14, 02:25:48",
-    "stargazers_count": 621,
-    "watchers_count": 621
+    "stargazers_count": 4856,
+    "watchers_count": 4856
 }
 {
     "commits_count": 17,
@@ -294,23 +448,6 @@
     "repo_name": "CVE-portfolio",
     "repo_owner": "hansmach1ne",
     "repotime": "2025-09-13, 02:36:54",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 13,
-    "date_started": "2025-08-04",
-    "date_updated": "2025-09-12",
-    "description": "Modular Python framework for dynamic node health scoring and probabilistic fault injection in fog networks. Models fog node integrity in smart agriculture using real-time metrics, EMA thresholding, and health classification. Features fault injection, adaptive scoring, simulation control, and live visualization. Exports logs in JSON/CSV for analysis",
-    "forks_count": 0,
-    "html_url": "https://github.com/imosudi/dynamic-node-health-simulation",
-    "keywords": [
-        "csv injection"
-    ],
-    "language": "Python",
-    "repo_name": "dynamic-node-health-simulation",
-    "repo_owner": "imosudi",
-    "repotime": "2025-09-12, 13:20:19",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -381,8 +518,8 @@
     "repo_name": "KittyMemoryEx",
     "repo_owner": "MJx0",
     "repotime": "2025-09-10, 22:23:01",
-    "stargazers_count": 131,
-    "watchers_count": 131
+    "stargazers_count": 132,
+    "watchers_count": 132
 }
 {
     "commits_count": 7,
@@ -504,24 +641,6 @@
     "watchers_count": 218
 }
 {
-    "commits_count": 608,
-    "date_started": "2024-09-27",
-    "date_updated": "2025-09-07",
-    "description": "Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.",
-    "forks_count": 1,
-    "html_url": "https://github.com/francescolonardo/pentest-machine-writeups",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation"
-    ],
-    "language": null,
-    "repo_name": "pentest-machine-writeups",
-    "repo_owner": "francescolonardo",
-    "repotime": "2025-09-07, 18:27:47",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
     "commits_count": 42,
     "date_started": "2025-08-23",
     "date_updated": "2025-09-06",
@@ -543,7 +662,7 @@
     "date_started": "2024-09-13",
     "date_updated": "2025-09-05",
     "description": "best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect",
-    "forks_count": 292,
+    "forks_count": 297,
     "html_url": "https://github.com/coffinxp/loxs",
     "keywords": [
         "lfi",
@@ -553,15 +672,15 @@
     "repo_name": "loxs",
     "repo_owner": "coffinxp",
     "repotime": "2025-09-05, 14:11:21",
-    "stargazers_count": 1313,
-    "watchers_count": 1313
+    "stargazers_count": 1319,
+    "watchers_count": 1319
 }
 {
     "commits_count": 1802,
     "date_started": "2019-07-24",
     "date_updated": "2025-09-04",
     "description": "渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
-    "forks_count": 2017,
+    "forks_count": 2016,
     "html_url": "https://github.com/Mr-xn/Penetration_Testing_POC",
     "keywords": [
         "rce poc",
@@ -571,8 +690,8 @@
     "repo_name": "Penetration_Testing_POC",
     "repo_owner": "Mr-xn",
     "repotime": "2025-09-04, 22:16:07",
-    "stargazers_count": 7069,
-    "watchers_count": 7069
+    "stargazers_count": 7071,
+    "watchers_count": 7071
 }
 {
     "commits_count": 120,
@@ -588,8 +707,8 @@
     "repo_name": "SSRFmap",
     "repo_owner": "swisskyrepo",
     "repotime": "2025-09-04, 03:44:11",
-    "stargazers_count": 3333,
-    "watchers_count": 3333
+    "stargazers_count": 3337,
+    "watchers_count": 3337
 }
 {
     "commits_count": 7,

@@ -1,24 +1,7 @@
 {
-    "commits_count": 125,
-    "date_started": "2025-08-01",
-    "date_updated": "2025-09-17",
-    "description": "An automated recon tool for asset discovery and vulnerability scanning using open-source tools. Supports XSS, SQLi, LFI, RCE, IIS, Open Redirect, Swagger UI, .git exposures and more.",
-    "forks_count": 23,
-    "html_url": "https://github.com/rix4uni/GarudRecon",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "GarudRecon",
-    "repo_owner": "rix4uni",
-    "repotime": "2025-09-17, 10:59:14",
-    "stargazers_count": 116,
-    "watchers_count": 116
-}
-{
-    "commits_count": 2205,
+    "commits_count": 2206,
     "date_started": "2019-09-10",
-    "date_updated": "2025-09-17",
+    "date_updated": "2025-09-22",
     "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
     "forks_count": 296,
     "html_url": "https://github.com/TongchengOpenSource/smart-doc",
@@ -28,16 +11,51 @@
     "language": "Java",
     "repo_name": "smart-doc",
     "repo_owner": "TongchengOpenSource",
-    "repotime": "2025-09-17, 11:55:29",
+    "repotime": "2025-09-22, 10:29:15",
     "stargazers_count": 1572,
     "watchers_count": 1572
+}
+{
+    "commits_count": 612,
+    "date_started": "2024-09-27",
+    "date_updated": "2025-09-21",
+    "description": "Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.",
+    "forks_count": 1,
+    "html_url": "https://github.com/francescolonardo/pentest-machine-writeups",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "pentest-machine-writeups",
+    "repo_owner": "francescolonardo",
+    "repotime": "2025-09-21, 15:40:41",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 128,
+    "date_started": "2025-08-01",
+    "date_updated": "2025-09-17",
+    "description": "An automated recon tool for asset discovery and vulnerability scanning using open-source tools. Supports XSS, SQLi, LFI, RCE, IIS, Open Redirect, Swagger UI, .git exposures and more.",
+    "forks_count": 24,
+    "html_url": "https://github.com/rix4uni/GarudRecon",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "GarudRecon",
+    "repo_owner": "rix4uni",
+    "repotime": "2025-09-17, 22:00:52",
+    "stargazers_count": 119,
+    "watchers_count": 119
 }
 {
     "commits_count": 10456,
     "date_started": "2012-06-26",
     "date_updated": "2025-09-15",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6043,
+    "forks_count": 6048,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -46,8 +64,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-09-15, 00:03:04",
-    "stargazers_count": 35308,
-    "watchers_count": 35308
+    "stargazers_count": 35341,
+    "watchers_count": 35341
 }
 {
     "commits_count": 38,
@@ -97,24 +115,6 @@
     "repo_name": "HackTheBox",
     "repo_owner": "Chw41",
     "repotime": "2025-09-09, 03:07:06",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 608,
-    "date_started": "2024-09-27",
-    "date_updated": "2025-09-07",
-    "description": "Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.",
-    "forks_count": 1,
-    "html_url": "https://github.com/francescolonardo/pentest-machine-writeups",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation"
-    ],
-    "language": null,
-    "repo_name": "pentest-machine-writeups",
-    "repo_owner": "francescolonardo",
-    "repotime": "2025-09-07, 18:27:47",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 1,
+    "watchers_count": 1
 }

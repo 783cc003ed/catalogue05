@@ -20,7 +20,7 @@
     "date_started": "2020-06-02",
     "date_updated": "2025-08-31",
     "description": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
-    "forks_count": 218,
+    "forks_count": 219,
     "html_url": "https://github.com/hadashiA/VContainer",
     "keywords": [
         "code injection"
@@ -29,8 +29,8 @@
     "repo_name": "VContainer",
     "repo_owner": "hadashiA",
     "repotime": "2025-08-31, 17:10:20",
-    "stargazers_count": 2482,
-    "watchers_count": 2482
+    "stargazers_count": 2492,
+    "watchers_count": 2492
 }
 {
     "commits_count": 13,
@@ -84,23 +84,6 @@
     "watchers_count": 1960
 }
 {
-    "commits_count": 13,
-    "date_started": "2025-08-23",
-    "date_updated": "2025-08-24",
-    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
-    "forks_count": 1,
-    "html_url": "https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
-    "keywords": [
-        "sandbox escape exploit"
-    ],
-    "language": null,
-    "repo_name": "Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
-    "repo_owner": "JGoyd",
-    "repotime": "2025-08-24, 18:10:43",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
     "commits_count": 5,
     "date_started": "2025-05-17",
     "date_updated": "2025-08-24",
@@ -117,23 +100,6 @@
     "repotime": "2025-08-24, 15:52:32",
     "stargazers_count": 2,
     "watchers_count": 2
-}
-{
-    "commits_count": 99,
-    "date_started": "2025-08-24",
-    "date_updated": "2025-08-24",
-    "description": "Research project: Ensemble Deep Learning vs Traditional Signature-Based Methods for Zero-Day Malware Detection: A Comparative Analysis Using Behavioral Feature Extraction",
-    "forks_count": 0,
-    "html_url": "https://github.com/prashaant1926/ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "TeX",
-    "repo_name": "ensemble-deep-learning-vs-traditional-signature-based-methods-for-zero-day-malware-detection-a-compa",
-    "repo_owner": "prashaant1926",
-    "repotime": "2025-08-24, 10:24:48",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 42625,
@@ -285,8 +251,8 @@
     "repo_name": "acra",
     "repo_owner": "cossacklabs",
     "repotime": "2025-08-14, 18:32:28",
-    "stargazers_count": 1428,
-    "watchers_count": 1428
+    "stargazers_count": 1429,
+    "watchers_count": 1429
 }
 {
     "commits_count": 68,

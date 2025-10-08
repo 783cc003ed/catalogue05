@@ -1,0 +1,187 @@
+{
+    "commits_count": 7,
+    "date_started": "2025-05-28",
+    "date_updated": "2025-05-28",
+    "description": "This tool is a Windows batch/python script designed to automate the extraction, sorting, and clean-up of Scene releases, especially for 0day and eBook packs plus more!",
+    "forks_count": 0,
+    "html_url": "https://github.com/qu0tex/Scene-Release-Organiser-NFO-Downloader",
+    "keywords": [
+        "Windows 0day"
+    ],
+    "language": "Python",
+    "repo_name": "Scene-Release-Organiser-NFO-Downloader",
+    "repo_owner": "qu0tex",
+    "repotime": "2025-05-28, 12:33:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-05-28",
+    "date_updated": "2025-05-28",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/gongjae/Windows-3rd-party-Zero-day-BugHunting",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": null,
+    "repo_name": "Windows-3rd-party-Zero-day-BugHunting",
+    "repo_owner": "gongjae",
+    "repotime": "2025-05-28, 15:33:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-02-24",
+    "date_updated": "2025-05-25",
+    "description": "PPT教程",
+    "forks_count": 53,
+    "html_url": "https://github.com/k8gege/PPT",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "PPT",
+    "repo_owner": "k8gege",
+    "repotime": "2025-05-25, 06:38:22",
+    "stargazers_count": 58,
+    "watchers_count": 58
+}
+{
+    "commits_count": 26,
+    "date_started": "2025-01-06",
+    "date_updated": "2025-05-23",
+    "description": "Exploiter X is a powerful web vulnerability scanner designed to automate the detection of various security flaws in web applications. It can identify vulnerabilities like SQL Injection, XSS, CSRF, Directory Traversal, and more. Simple to use, it helps secure web applications by identifying potential weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ajay-Bommidi/Exploiter-X",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Exploiter-X",
+    "repo_owner": "Ajay-Bommidi",
+    "repotime": "2025-05-23, 14:07:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-14",
+    "date_updated": "2025-05-14",
+    "description": "This repository focuses on network security analysis, using Wireshark to capture and analyze traffic for detecting MITM attacks, ARP Spoofing, and HTTP anomalies. It uses Python’s PyShark library to automate packet analysis, helping detect malicious activities and improve network security by uncovering vulnerabilities and monitoring performance.z",
+    "forks_count": 0,
+    "html_url": "https://github.com/NurayShiraliyeva24/Wireshark-Analysis",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Wireshark-Analysis",
+    "repo_owner": "NurayShiraliyeva24",
+    "repotime": "2025-05-14, 09:45:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-12",
+    "date_updated": "2025-05-12",
+    "description": "Responding to Zero-Day Vulnerability &amp;amp; Ransomware Attack",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jamescybertest/Responding-to-Zero-Day-Vulnerability-and-Ransomware-Attack",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Responding-to-Zero-Day-Vulnerability-and-Ransomware-Attack",
+    "repo_owner": "Jamescybertest",
+    "repotime": "2025-05-12, 13:54:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 88,
+    "date_started": "2025-01-27",
+    "date_updated": "2025-05-09",
+    "description": "All in one AI and Rust based CyberSecurity tool to protect Windows and Linux OS systems from Zero Day threats ",
+    "forks_count": 0,
+    "html_url": "https://github.com/mayd01/DillonAIPolyGlotDefender",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": "Rust",
+    "repo_name": "DillonAIPolyGlotDefender",
+    "repo_owner": "mayd01",
+    "repotime": "2025-05-09, 13:17:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1550,
+    "date_started": "2012-07-18",
+    "date_updated": "2025-05-09",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 436,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2025-05-09, 01:37:35",
+    "stargazers_count": 1688,
+    "watchers_count": 1688
+}
+{
+    "commits_count": 16,
+    "date_started": "2025-05-06",
+    "date_updated": "2025-05-05",
+    "description": "Simulated a PowerShell-based Remote Code Execution (RCE) attack and built a custom detection pipeline using Microsoft Defender for Endpoint (MDE) and Kusto Query Language (KQL). Demonstrated real-time alerting, automated VM isolation, and post-breach forensic analysis aligned with MITRE ATT&amp;amp;CK.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xAll3nC/Remote-Code-Execution-Detection-via-MDE",
+    "keywords": [
+        "Microsoft rce analysis"
+    ],
+    "language": null,
+    "repo_name": "Remote-Code-Execution-Detection-via-MDE",
+    "repo_owner": "0xAll3nC",
+    "repotime": "2025-05-05, 23:04:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2025-05-03",
+    "date_updated": "2025-05-04",
+    "description": "Local File Inclusion Finder Tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/dg0mezm/path-finder",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "path-finder",
+    "repo_owner": "dg0mezm",
+    "repotime": "2025-05-04, 18:57:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 207,
+    "date_started": "2013-03-06",
+    "date_updated": "2025-05-01",
+    "description": "Panoptic is an open source penetration testing tool that automates the process of search and retrieval of content for common log and config files through path traversal vulnerabilities.",
+    "forks_count": 75,
+    "html_url": "https://github.com/lightos/Panoptic",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Panoptic",
+    "repo_owner": "lightos",
+    "repotime": "2025-05-01, 01:06:17",
+    "stargazers_count": 316,
+    "watchers_count": 316
+}

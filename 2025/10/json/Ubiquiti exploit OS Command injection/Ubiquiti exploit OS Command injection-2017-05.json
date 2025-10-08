@@ -1,0 +1,51 @@
+{
+    "commits_count": 11,
+    "date_started": "2017-05-31",
+    "date_updated": "2017-05-31",
+    "description": "An interactive OOB XXE data exfiltration tool",
+    "forks_count": 14,
+    "html_url": "https://github.com/ropnop/xxetimes",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "xxetimes",
+    "repo_owner": "ropnop",
+    "repotime": "2017-05-31, 18:28:15",
+    "stargazers_count": 90,
+    "watchers_count": 90
+}
+{
+    "commits_count": 422,
+    "date_started": "2013-10-10",
+    "date_updated": "2017-05-16",
+    "description": "GreenSQL is an Open Source database firewall used to protect databases from SQL injection attacks.",
+    "forks_count": 50,
+    "html_url": "https://github.com/larskanis/greensql-fw",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "C++",
+    "repo_name": "greensql-fw",
+    "repo_owner": "larskanis",
+    "repotime": "2017-05-16, 15:54:52",
+    "stargazers_count": 73,
+    "watchers_count": 73
+}
+{
+    "commits_count": 11,
+    "date_started": "2017-04-24",
+    "date_updated": "2017-05-13",
+    "description": "A server vulnerable to XXE that can be used to test payloads using the xxer tool.",
+    "forks_count": 3,
+    "html_url": "https://github.com/TheTwitchy/vulnd_xxe",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "vulnd_xxe",
+    "repo_owner": "TheTwitchy",
+    "repotime": "2017-05-13, 11:29:21",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}

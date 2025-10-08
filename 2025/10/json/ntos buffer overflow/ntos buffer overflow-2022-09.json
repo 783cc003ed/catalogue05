@@ -1,0 +1,85 @@
+{
+    "commits_count": 144,
+    "date_started": "2019-07-12",
+    "date_updated": "2022-09-27",
+    "description": "🔱 Powerfull XSS Scanning and Parameter analysis tool&amp;amp;gem",
+    "forks_count": 239,
+    "html_url": "https://github.com/hahwul/XSpear",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Ruby",
+    "repo_name": "XSpear",
+    "repo_owner": "hahwul",
+    "repotime": "2022-09-27, 22:47:33",
+    "stargazers_count": 1303,
+    "watchers_count": 1303
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-05-24",
+    "date_updated": "2022-09-15",
+    "description": "Windows Local Privilege Escalation via CdpSvc service (Writeable SYSTEM path Dll Hijacking)",
+    "forks_count": 48,
+    "html_url": "https://github.com/sailay1996/CdpSvcLPE",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "C++",
+    "repo_name": "CdpSvcLPE",
+    "repo_owner": "sailay1996",
+    "repotime": "2022-09-15, 09:27:41",
+    "stargazers_count": 254,
+    "watchers_count": 254
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-02-03",
+    "date_updated": "2022-09-13",
+    "description": "For defense or attack session",
+    "forks_count": 0,
+    "html_url": "https://github.com/BarrierAntho/42_Defender_Get_Next_Line",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Shell",
+    "repo_name": "42_Defender_Get_Next_Line",
+    "repo_owner": "BarrierAntho",
+    "repotime": "2022-09-13, 21:48:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 110,
+    "date_started": "2020-10-23",
+    "date_updated": "2022-09-04",
+    "description": "A cheat sheet that contains advanced queries for SQL Injection of all types.",
+    "forks_count": 690,
+    "html_url": "https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "Advanced-SQL-Injection-Cheatsheet",
+    "repo_owner": "kleiton0x00",
+    "repotime": "2022-09-04, 17:36:34",
+    "stargazers_count": 3054,
+    "watchers_count": 3054
+}
+{
+    "commits_count": 14,
+    "date_started": "2022-07-01",
+    "date_updated": "2022-09-01",
+    "description": "Chegou a hora de pegar todo o conhecimento adquirido nos módulos anteriores e aplicar em um projeto real! Neste módulo, construímos um projeto que se integra com a API desenvolvida no Módulo 4 utilizando um Client HTTP que construímos do zero utilizando a fetch API do próprio JavaScript. Além disso, trabalhamos com validação de formulários, controlled e uncontrolled components, Modais, Portais, entramos à fundo no que é CORS, tratamentos de erros do JavaScript e da API, analisamos o código fonte do React para entender o funcionamento dos Hooks, abordamos patterns como Service e EventEmitter, dicas de UI/UX e prevenção de Memory Leaks, animações e muito mais! E claro: usando apenas os pacotes necessários, aqui fazemos tudo na mão!",
+    "forks_count": 0,
+    "html_url": "https://github.com/andreattamatheus/my-contacts-frontend",
+    "keywords": [
+        "memory leak dos"
+    ],
+    "language": "JavaScript",
+    "repo_name": "my-contacts-frontend",
+    "repo_owner": "andreattamatheus",
+    "repotime": "2022-09-01, 14:28:57",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

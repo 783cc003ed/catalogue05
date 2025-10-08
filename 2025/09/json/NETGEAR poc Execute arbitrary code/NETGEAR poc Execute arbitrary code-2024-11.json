@@ -46,8 +46,8 @@
     "repo_name": "Tiny-XSS-Payloads",
     "repo_owner": "terjanq",
     "repotime": "2024-11-29, 23:58:22",
-    "stargazers_count": 2199,
-    "watchers_count": 2199
+    "stargazers_count": 2200,
+    "watchers_count": 2200
 }
 {
     "commits_count": 5,
@@ -105,7 +105,7 @@
     "date_started": "2023-02-16",
     "date_updated": "2024-11-28",
     "description": "SQLMutant is a powerful SQL injection testing tool that includes both passive and active reconnaissance processes for any given domain. It filters URLs to identify those with parameters susceptible to SQL injection formats and then performs injection attacks. These attacks include pattern matching, error analysis, and timing attacks.",
-    "forks_count": 36,
+    "forks_count": 37,
     "html_url": "https://github.com/blackhatethicalhacking/SQLMutant",
     "keywords": [
         "sql injection"
@@ -114,8 +114,8 @@
     "repo_name": "SQLMutant",
     "repo_owner": "blackhatethicalhacking",
     "repotime": "2024-11-28, 22:06:35",
-    "stargazers_count": 152,
-    "watchers_count": 152
+    "stargazers_count": 155,
+    "watchers_count": 155
 }
 {
     "commits_count": 3,
@@ -446,7 +446,7 @@
     "date_started": "2016-07-14",
     "date_updated": "2024-11-21",
     "description": "<no description>",
-    "forks_count": 14,
+    "forks_count": 15,
     "html_url": "https://github.com/Invoke-IR/PowerForensicsPortable",
     "keywords": [
         "by_owner"
@@ -455,8 +455,8 @@
     "repo_name": "PowerForensicsPortable",
     "repo_owner": "Invoke-IR",
     "repotime": "2024-11-21, 08:48:49",
-    "stargazers_count": 32,
-    "watchers_count": 32
+    "stargazers_count": 33,
+    "watchers_count": 33
 }
 {
     "commits_count": 41,
@@ -672,7 +672,7 @@
     "date_started": "2024-11-07",
     "date_updated": "2024-11-14",
     "description": "Fortinet Fortimanager Unauthenticated Remote Code Execution AKA FortiJump CVE-2024-47575",
-    "forks_count": 29,
+    "forks_count": 28,
     "html_url": "https://github.com/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575",
     "keywords": [
         "remote code execution exploit",
@@ -682,8 +682,8 @@
     "repo_name": "Fortijump-Exploit-CVE-2024-47575",
     "repo_owner": "watchtowrlabs",
     "repotime": "2024-11-14, 16:25:52",
-    "stargazers_count": 89,
-    "watchers_count": 89
+    "stargazers_count": 90,
+    "watchers_count": 90
 }
 {
     "commits_count": 7,

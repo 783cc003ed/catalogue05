@@ -1,0 +1,137 @@
+{
+    "commits_count": 135,
+    "date_started": "2018-06-26",
+    "date_updated": "2021-04-27",
+    "description": " DNS Rebinding Exploitation Framework ",
+    "forks_count": 72,
+    "html_url": "https://github.com/FSecureLABS/dref",
+    "keywords": [
+        "exploitation",
+        "by_owner"
+    ],
+    "language": "JavaScript",
+    "repo_name": "dref",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2021-04-27, 18:33:04",
+    "stargazers_count": 492,
+    "watchers_count": 492
+}
+{
+    "commits_count": 24,
+    "date_started": "2021-03-10",
+    "date_updated": "2021-04-22",
+    "description": "The idea for this project is to create a multi-threaded python server that will generate HTML reports on what exploits can be run against what host. First, the user will create a new session with the host and give the host an IP. Based on whether or not that IP can be scanned passively (if it exists in Shodan/Censys) it will ask the user if this is owned or allowed infrastructure to scan. If the user consents, the server will scan the host with Nmap and determine what versions the host is running and if their services are vulnerable. If the user does not approve the server will not scan the host. If the given host has already been scanned by Censys/Shodan then those results will be fed into the server via API's. The server/script will then determine if the vulnerability has a given exploit, which it will then display to the user along with the ports in a report that is in HTML format.",
+    "forks_count": 2,
+    "html_url": "https://github.com/ZimSec/SPYthon",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "SPYthon",
+    "repo_owner": "ZimSec",
+    "repotime": "2021-04-22, 23:37:55",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-08-17",
+    "date_updated": "2021-04-17",
+    "description": "A resource for thread hijacking and manual mapping code, that works with MEM_MAPPED &amp;amp; MEM_IMAGE.",
+    "forks_count": 11,
+    "html_url": "https://github.com/lennyRBLX/injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "injection",
+    "repo_owner": "lennyRBLX",
+    "repotime": "2021-04-17, 14:23:41",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-05-23",
+    "date_updated": "2021-04-16",
+    "description": "<no description>",
+    "forks_count": 27,
+    "html_url": "https://github.com/3gstudent/Use-COM-objects-to-bypass-UAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Use-COM-objects-to-bypass-UAC",
+    "repo_owner": "3gstudent",
+    "repotime": "2021-04-16, 15:37:43",
+    "stargazers_count": 92,
+    "watchers_count": 92
+}
+{
+    "commits_count": 21,
+    "date_started": "2019-09-17",
+    "date_updated": "2021-04-15",
+    "description": "app vulnerable to SQL injection as a demo for database course",
+    "forks_count": 46,
+    "html_url": "https://github.com/jmedina2930/sql-injection-lab",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sql-injection-lab",
+    "repo_owner": "jmedina2930",
+    "repotime": "2021-04-15, 07:40:29",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-04-12",
+    "date_updated": "2021-04-12",
+    "description": "A single file drop-in memory leak tracking solution for C++ on Windows",
+    "forks_count": 1,
+    "html_url": "https://github.com/BoyC/MemLeakTracker",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C++",
+    "repo_name": "MemLeakTracker",
+    "repo_owner": "BoyC",
+    "repotime": "2021-04-12, 22:16:49",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-04-12",
+    "date_updated": "2021-04-12",
+    "description": "A xinput1_3.dll ROP chain to bypass DEP.",
+    "forks_count": 3,
+    "html_url": "https://github.com/PixelRick/xinput1_3_dep_bypass_poc",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C++",
+    "repo_name": "xinput1_3_dep_bypass_poc",
+    "repo_owner": "PixelRick",
+    "repotime": "2021-04-12, 13:23:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 83,
+    "date_started": "2019-10-30",
+    "date_updated": "2021-04-01",
+    "description": "Chrome Extension for detect Memory Leak &amp;amp; Memory Anomalies ",
+    "forks_count": 0,
+    "html_url": "https://github.com/mojila/memory-leak-detector",
+    "keywords": [
+        "Chrome memory leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "memory-leak-detector",
+    "repo_owner": "mojila",
+    "repotime": "2021-04-01, 11:25:20",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

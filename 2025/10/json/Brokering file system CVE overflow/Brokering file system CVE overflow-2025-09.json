@@ -1,0 +1,386 @@
+{
+    "commits_count": 25,
+    "date_started": "2024-05-03",
+    "date_updated": "2025-09-30",
+    "description": "&amp;quot;AMSI WRITE RAID&amp;quot; Vulnerability that leads to an effective AMSI BYPASS",
+    "forks_count": 52,
+    "html_url": "https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "AMSI-WRITE-RAID-BYPASS",
+    "repo_owner": "V-i-x-x",
+    "repotime": "2025-09-30, 11:17:59",
+    "stargazers_count": 299,
+    "watchers_count": 299
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-06-27",
+    "date_updated": "2025-09-30",
+    "description": "Exploit Proof of concept for privilege escalation on windows mountmgr.sys driver. Reverse Engineering the Windows Kernel",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xIcarus/ioctl-mountmgr-poc",
+    "keywords": [
+        "Windows escalation of privileges",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "ioctl-mountmgr-poc",
+    "repo_owner": "0xIcarus",
+    "repotime": "2025-09-30, 11:39:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 113,
+    "date_started": "2025-08-15",
+    "date_updated": "2025-09-25",
+    "description": "My code and notes for &amp;quot;From Day Zero to Zero Day&amp;quot;, a book on vulnerability research by Eugene Lim.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xdea/from-day-zero-to-zero-day",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "from-day-zero-to-zero-day",
+    "repo_owner": "0xdea",
+    "repotime": "2025-09-25, 07:39:46",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 30,
+    "date_started": "2023-11-19",
+    "date_updated": "2025-09-24",
+    "description": "xxe漏洞靶场",
+    "forks_count": 0,
+    "html_url": "https://github.com/mcc0624/XXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "CSS",
+    "repo_name": "XXE",
+    "repo_owner": "mcc0624",
+    "repotime": "2025-09-24, 21:35:58",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 721,
+    "date_started": "2022-04-19",
+    "date_updated": "2025-09-22",
+    "description": "Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.",
+    "forks_count": 41,
+    "html_url": "https://github.com/Ostorlab/KEV",
+    "keywords": [
+        "0day vulnerability",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "KEV",
+    "repo_owner": "Ostorlab",
+    "repotime": "2025-09-22, 18:03:42",
+    "stargazers_count": 587,
+    "watchers_count": 587
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-09-21",
+    "date_updated": "2025-09-22",
+    "description": "CVE-2020-0796 (SMBGhost) is a critical RCE vulnerability in Windows 10 SMBv3 protocol. It allows attackers to execute code remotely via crafted SMB packets, making it wormable. Affects Windows 10 v1903/v1909 and Server 2019. Exploit targets srv2.sys via buffer overflow",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jagadeesh7532/-CVE-2020-0796-SMBGhost-Windows-10-SMBv3-Remote-Code-Execution-Vulnerability",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "-CVE-2020-0796-SMBGhost-Windows-10-SMBv3-Remote-Code-Execution-Vulnerability",
+    "repo_owner": "Jagadeesh7532",
+    "repotime": "2025-09-22, 00:27:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-09-21",
+    "date_updated": "2025-09-21",
+    "description": "Designed as a Swiss Army knife for security researchers and penetration testers, CHEF enables aggressive fuzzing of various network protocols to uncover vulnerabilities, such as stack buffer overflows and zero-day exploits, in a controlled and authorized environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ChillHackLab/CHEF",
+    "keywords": [
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CHEF",
+    "repo_owner": "ChillHackLab",
+    "repotime": "2025-09-21, 20:11:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 49,
+    "date_started": "2024-10-15",
+    "date_updated": "2025-09-20",
+    "description": "Repository Showcasing Practical/Hands-On Zero-Day Exploit Development and Techniques",
+    "forks_count": 0,
+    "html_url": "https://github.com/danielvilaca/ZeroDayEDT",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroDayEDT",
+    "repo_owner": "danielvilaca",
+    "repotime": "2025-09-20, 23:11:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 368,
+    "date_started": "2019-08-21",
+    "date_updated": "2025-09-20",
+    "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
+    "forks_count": 293,
+    "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+    "keywords": [
+        "xml external entity",
+        "session attack",
+        "zero-day dos",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "session vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Nginx-Lua-Anti-DDoS",
+    "repo_owner": "C0nw0nk",
+    "repotime": "2025-09-20, 12:44:03",
+    "stargazers_count": 1364,
+    "watchers_count": 1364
+}
+{
+    "commits_count": 29,
+    "date_started": "2025-04-04",
+    "date_updated": "2025-09-18",
+    "description": "Just a simple userscript to bypass the soft paywall on gocomics.com, and removes the adspaces as well.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Idiot-01/Gocomics-Depaywall",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Gocomics-Depaywall",
+    "repo_owner": "Idiot-01",
+    "repotime": "2025-09-18, 19:44:32",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 21,
+    "date_started": "2025-09-14",
+    "date_updated": "2025-09-17",
+    "description": "Platform for triage and tracking remediation of zero day vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/faz00li/zero-day",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "zero-day",
+    "repo_owner": "faz00li",
+    "repotime": "2025-09-17, 01:06:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 141,
+    "date_started": "2019-04-19",
+    "date_updated": "2025-09-14",
+    "description": "Top disclosed reports from HackerOne",
+    "forks_count": 876,
+    "html_url": "https://github.com/reddelexc/hackerone-reports",
+    "keywords": [
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "hackerone-reports",
+    "repo_owner": "reddelexc",
+    "repotime": "2025-09-14, 21:12:20",
+    "stargazers_count": 4886,
+    "watchers_count": 4886
+}
+{
+    "commits_count": 295,
+    "date_started": "2020-12-17",
+    "date_updated": "2025-09-12",
+    "description": "🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration.",
+    "forks_count": 2,
+    "html_url": "https://github.com/TomerAberbach/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "TypeScript",
+    "repo_name": "lfi",
+    "repo_owner": "TomerAberbach",
+    "repotime": "2025-09-12, 18:48:38",
+    "stargazers_count": 347,
+    "watchers_count": 347
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-09-09",
+    "date_updated": "2025-09-09",
+    "description": "A lightweight chaos engineering demo with Docker Compose: Nginx → Flask → Redis stack with automated fault injection, recovery measurement, and CSV reporting + web visualization.",
+    "forks_count": 0,
+    "html_url": "https://github.com/shri-124/docker-chaos-lite",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "docker-chaos-lite",
+    "repo_owner": "shri-124",
+    "repotime": "2025-09-09, 19:55:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 38,
+    "date_started": "2024-10-27",
+    "date_updated": "2025-09-09",
+    "description": "Web Browsers address bar spoofing vulnerabilities",
+    "forks_count": 1,
+    "html_url": "https://github.com/RenwaX23/Address_Bar_Spoofing",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "Address_Bar_Spoofing",
+    "repo_owner": "RenwaX23",
+    "repotime": "2025-09-09, 00:31:22",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 20,
+    "date_started": "2025-07-15",
+    "date_updated": "2025-09-08",
+    "description": " A collection of ethical hacking CTF walkthroughs covering privilege escalation, web exploitation, and enumeration techniques. For learning, documentation, and community contribution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Basit2002/CTF-Writeups",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CTF-Writeups",
+    "repo_owner": "Basit2002",
+    "repotime": "2025-09-08, 20:34:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-09-08",
+    "date_updated": "2025-09-08",
+    "description": "Proof of Concept showing how browser autofill can leak hidden personal data (address, phone, etc.) even when only Name and Email fields are visible.",
+    "forks_count": 0,
+    "html_url": "https://github.com/appuachu/browser-autofill-leak-poc",
+    "keywords": [
+        "address leak poc"
+    ],
+    "language": "HTML",
+    "repo_name": "browser-autofill-leak-poc",
+    "repo_owner": "appuachu",
+    "repotime": "2025-09-08, 11:32:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1802,
+    "date_started": "2019-07-24",
+    "date_updated": "2025-09-04",
+    "description": "渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
+    "forks_count": 2017,
+    "html_url": "https://github.com/Mr-xn/Penetration_Testing_POC",
+    "keywords": [
+        "rce poc",
+        "rce exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "Penetration_Testing_POC",
+    "repo_owner": "Mr-xn",
+    "repotime": "2025-09-04, 22:16:07",
+    "stargazers_count": 7082,
+    "watchers_count": 7082
+}
+{
+    "commits_count": 120,
+    "date_started": "2018-10-15",
+    "date_updated": "2025-09-04",
+    "description": "Automatic SSRF fuzzer and exploitation tool",
+    "forks_count": 554,
+    "html_url": "https://github.com/swisskyrepo/SSRFmap",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRFmap",
+    "repo_owner": "swisskyrepo",
+    "repotime": "2025-09-04, 03:44:11",
+    "stargazers_count": 3349,
+    "watchers_count": 3349
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-08-30",
+    "date_updated": "2025-09-03",
+    "description": "A research-focused archive of publicly disclosed Apple products zero-day vulnerabilities. This project summarizes CVEs, disclosure timelines, vendor advisories, and defensive mitigations. ⚠️ No exploit code included — educational and defensive use only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/giriaryan694-a11y/exposed-apple-zero-days",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "exposed-apple-zero-days",
+    "repo_owner": "giriaryan694-a11y",
+    "repotime": "2025-09-03, 21:13:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-08-28",
+    "date_updated": "2025-09-03",
+    "description": "A research-focused archive of publicly disclosed Windows zero-day vulnerabilities.  This project summarizes CVEs, disclosure timelines, vendor advisories, and defensive mitigations.  ⚠️ No exploit code included — educational and defensive use only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/giriaryan694-a11y/exposed-win-zero-days",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": "HTML",
+    "repo_name": "exposed-win-zero-days",
+    "repo_owner": "giriaryan694-a11y",
+    "repotime": "2025-09-03, 20:48:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-09-01",
+    "date_updated": "2025-09-01",
+    "description": "Windows Flask Remote Command Execution Demo",
+    "forks_count": 1,
+    "html_url": "https://github.com/ClumsyLulz/Flask_RCE_Demo",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "Flask_RCE_Demo",
+    "repo_owner": "ClumsyLulz",
+    "repotime": "2025-09-01, 15:23:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

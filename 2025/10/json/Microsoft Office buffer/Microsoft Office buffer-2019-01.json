@@ -1,0 +1,34 @@
+{
+    "commits_count": 14,
+    "date_started": "2014-02-04",
+    "date_updated": "2019-01-17",
+    "description": "Injection of managed code into non-managed Windows applications",
+    "forks_count": 9,
+    "html_url": "https://github.com/sunsided/native-dotnet-code-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "native-dotnet-code-injection",
+    "repo_owner": "sunsided",
+    "repotime": "2019-01-17, 20:28:39",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-01-14",
+    "date_updated": "2019-01-14",
+    "description": "Targets Sign Up feature of a vulnerable service, collects existing user account email addresses, bypasses google Captcha when session cookie is loaded into",
+    "forks_count": 0,
+    "html_url": "https://github.com/drberecz/Harvey---email-harvest-bot",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Harvey---email-harvest-bot",
+    "repo_owner": "drberecz",
+    "repotime": "2019-01-14, 08:20:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

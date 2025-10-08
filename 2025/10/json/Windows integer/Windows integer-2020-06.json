@@ -1,0 +1,36 @@
+{
+    "commits_count": 5,
+    "date_started": "2020-04-20",
+    "date_updated": "2020-06-29",
+    "description": "CVE-2020-0796 Remote Code Execution POC",
+    "forks_count": 174,
+    "html_url": "https://github.com/jamf/CVE-2020-0796-RCE-POC",
+    "keywords": [
+        "rce poc",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-0796-RCE-POC",
+    "repo_owner": "jamf",
+    "repotime": "2020-06-29, 12:38:12",
+    "stargazers_count": 567,
+    "watchers_count": 567
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-06-10",
+    "date_updated": "2020-06-10",
+    "description": "Got a path/directory traversal or file disclosure vulnerability on a Linux-server and need to know some interesting files to hunt for? I’ve got you covered Know any more good files to look for? Let me know!",
+    "forks_count": 0,
+    "html_url": "https://github.com/stephyards/Path-Traversal-Cheat-Sheet-Linux",
+    "keywords": [
+        "path traversal vulnerability",
+        "directory traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Path-Traversal-Cheat-Sheet-Linux",
+    "repo_owner": "stephyards",
+    "repotime": "2020-06-10, 03:52:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

@@ -1,0 +1,174 @@
+{
+    "commits_count": 15,
+    "date_started": "2021-04-23",
+    "date_updated": "2021-10-28",
+    "description": "Objective of this assignment was to find vulnerabilities in a website by using common attack techniques: SQL Injection, XSS and Session Hijacking and Fixation. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/tschecurity/Unit-9-Website-Application-Security-Pentest",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking attack",
+        "session attack",
+        "session hijacking vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Unit-9-Website-Application-Security-Pentest",
+    "repo_owner": "tschecurity",
+    "repotime": "2021-10-28, 19:59:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-10-29",
+    "date_updated": "2021-10-28",
+    "description": "A PoC exploit written in Python to demonstrate the impact of an SQL Injection attack within the open-source web application “Online Motorcycle (Bike) Rental System 1.0”",
+    "forks_count": 0,
+    "html_url": "https://github.com/DoctorZorka/-Online-Motorcycle-Bike-Rental-System-1.0---Blind-Time-Based-SQL-Injection-Unauthenticated-",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "-Online-Motorcycle-Bike-Rental-System-1.0---Blind-Time-Based-SQL-Injection-Unauthenticated-",
+    "repo_owner": "DoctorZorka",
+    "repotime": "2021-10-28, 18:20:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 55,
+    "date_started": "2020-01-02",
+    "date_updated": "2021-10-28",
+    "description": "A very insecure web shop to demonstrate and make aware of XSS, SQLi and Session Hijacking attacks and how to protect against them.",
+    "forks_count": 0,
+    "html_url": "https://github.com/melanievogel/web-security",
+    "keywords": [
+        "session hijacking attack",
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "web-security",
+    "repo_owner": "melanievogel",
+    "repotime": "2021-10-28, 16:06:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-25",
+    "date_updated": "2021-10-25",
+    "description": "PoC for the CVE-2021-20837 : RCE in MovableType",
+    "forks_count": 12,
+    "html_url": "https://github.com/ghost-nemesis/cve-2021-20837-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "cve-2021-20837-poc",
+    "repo_owner": "ghost-nemesis",
+    "repotime": "2021-10-25, 20:34:54",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-10-22",
+    "date_updated": "2021-10-22",
+    "description": "PoC for CVE-2021-2471 - XXE in MySQL Connector/J",
+    "forks_count": 3,
+    "html_url": "https://github.com/DrunkenShells/CVE-2021-2471",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2021-2471",
+    "repo_owner": "DrunkenShells",
+    "repotime": "2021-10-22, 21:21:39",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 206,
+    "date_started": "2017-02-01",
+    "date_updated": "2021-10-20",
+    "description": "Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.",
+    "forks_count": 87,
+    "html_url": "https://github.com/tijme/angularjs-csti-scanner",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "Python",
+    "repo_name": "angularjs-csti-scanner",
+    "repo_owner": "tijme",
+    "repotime": "2021-10-20, 17:19:50",
+    "stargazers_count": 317,
+    "watchers_count": 317
+}
+{
+    "commits_count": 77,
+    "date_started": "2020-03-18",
+    "date_updated": "2021-10-16",
+    "description": "public sample web CTF, in this CTF you will face with web vulnerabilities from the concepts of : authentication, access control, session management,  input handling - XSS &amp;amp; SQL injection and certificates",
+    "forks_count": 1,
+    "html_url": "https://github.com/oririnat/sample-web-CTF",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "sample-web-CTF",
+    "repo_owner": "oririnat",
+    "repotime": "2021-10-16, 19:54:40",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 20,
+    "date_started": "2016-10-26",
+    "date_updated": "2021-10-13",
+    "description": "Automated Python Code Injection Tool",
+    "forks_count": 23,
+    "html_url": "https://github.com/sethsec/PyCodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "PyCodeInjection",
+    "repo_owner": "sethsec",
+    "repotime": "2021-10-13, 14:37:25",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-09-27",
+    "date_updated": "2021-10-08",
+    "description": "XML external entity injection",
+    "forks_count": 0,
+    "html_url": "https://github.com/NayanDZ/XXE",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XXE",
+    "repo_owner": "NayanDZ",
+    "repotime": "2021-10-08, 10:23:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 22,
+    "date_started": "2018-09-21",
+    "date_updated": "2021-10-06",
+    "description": "Sample code for Dependency Injection Principles, Practices, and Patterns",
+    "forks_count": 61,
+    "html_url": "https://github.com/DependencyInjection-2nd-edition/codesamples",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "codesamples",
+    "repo_owner": "DependencyInjection-2nd-edition",
+    "repotime": "2021-10-06, 22:15:45",
+    "stargazers_count": 161,
+    "watchers_count": 161
+}

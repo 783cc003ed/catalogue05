@@ -1,0 +1,85 @@
+{
+    "commits_count": 9,
+    "date_started": "2015-08-03",
+    "date_updated": "2017-03-31",
+    "description": "[DEPRECATED]A novel SQL injection detection engine built on top of SQL tokenizing and syntax analysis.",
+    "forks_count": 84,
+    "html_url": "https://github.com/chaitin/sqlchop",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sqlchop",
+    "repo_owner": "chaitin",
+    "repotime": "2017-03-31, 18:14:49",
+    "stargazers_count": 252,
+    "watchers_count": 252
+}
+{
+    "commits_count": 5,
+    "date_started": "2017-03-17",
+    "date_updated": "2017-03-18",
+    "description": "Abusing Self-XSS and Clickjacking to trigger XSS",
+    "forks_count": 34,
+    "html_url": "https://github.com/dxa4481/XSSJacking",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "XSSJacking",
+    "repo_owner": "dxa4481",
+    "repotime": "2017-03-18, 09:14:27",
+    "stargazers_count": 136,
+    "watchers_count": 136
+}
+{
+    "commits_count": 235,
+    "date_started": "2012-10-31",
+    "date_updated": "2017-03-13",
+    "description": "Dynamic Code Injection Tool for Objective-C",
+    "forks_count": 122,
+    "html_url": "https://github.com/DyCI/dyci-main",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "dyci-main",
+    "repo_owner": "DyCI",
+    "repotime": "2017-03-13, 22:48:27",
+    "stargazers_count": 1117,
+    "watchers_count": 1117
+}
+{
+    "commits_count": 19,
+    "date_started": "2020-05-27",
+    "date_updated": "2017-03-06",
+    "description": "Notes and materials for Code Automation session at 2017 MEOPAR UQAR Winter School in Marine Environmental Prediction",
+    "forks_count": 0,
+    "html_url": "https://github.com/douglatornell/UQAR-Winter-School",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "UQAR-Winter-School",
+    "repo_owner": "douglatornell",
+    "repotime": "2017-03-06, 20:36:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 50,
+    "date_started": "2016-05-30",
+    "date_updated": "2017-03-04",
+    "description": "&amp;quot;Repeater&amp;quot; style XSS post-exploitation tool for mass browser control. Primarily a PoC to show why HttpOnly flag isn't a complete protection against session hijacking via XSS",
+    "forks_count": 48,
+    "html_url": "https://github.com/Danladi/HttpPwnly",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "HTML",
+    "repo_name": "HttpPwnly",
+    "repo_owner": "Danladi",
+    "repotime": "2017-03-04, 20:54:55",
+    "stargazers_count": 137,
+    "watchers_count": 137
+}

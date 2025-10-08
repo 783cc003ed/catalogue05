@@ -1,0 +1,53 @@
+{
+    "commits_count": 55,
+    "date_started": "2025-05-22",
+    "date_updated": "2025-09-26",
+    "description": "In this course, master Hydra cybersecurity attack techniques through hands-on labs covering session restoration, SSL attacks, brute-force, and multi-target attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/labex-labs/hydra-cybersecurity-attack-labs",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "hydra-cybersecurity-attack-labs",
+    "repo_owner": "labex-labs",
+    "repotime": "2025-09-26, 11:05:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 43,
+    "date_started": "2024-11-01",
+    "date_updated": "2025-09-26",
+    "description": "In this course, you will learn about the most common web vulnerabilities and how to exploit them. You will learn about SQL Injection, File Inclusion, Cross-Site Scripting (XSS), File Upload, Command Injection, and Directory Traversal vulnerabilities. You will also learn how to exploit these vulnerabilities using various techniques and tools.",
+    "forks_count": 0,
+    "html_url": "https://github.com/labex-labs/web-vulnerability-mastery",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "web-vulnerability-mastery",
+    "repo_owner": "labex-labs",
+    "repotime": "2025-09-26, 10:51:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-07-04",
+    "date_updated": "2025-09-10",
+    "description": "Local privilege escalation vulnerability CVE-2025-32463 in Sudo allows users to gain root access. Discover details and solutions on GitHub! 🐙✨",
+    "forks_count": 1,
+    "html_url": "https://github.com/SkylerMC/CVE-2025-32463",
+    "keywords": [
+        "lpe exploit",
+        "lpe poc",
+        "lpe vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463",
+    "repo_owner": "SkylerMC",
+    "repotime": "2025-09-10, 10:23:49",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

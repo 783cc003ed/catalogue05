@@ -1,0 +1,70 @@
+{
+    "commits_count": 4,
+    "date_started": "2025-04-30",
+    "date_updated": "2025-04-30",
+    "description": "Windows kernel library for direct process notification registration, bypassing PatchGuard detection",
+    "forks_count": 0,
+    "html_url": "https://github.com/izcarti/ShadowCallback",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "ShadowCallback",
+    "repo_owner": "izcarti",
+    "repotime": "2025-04-30, 17:20:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 253,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-04-21",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 120,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-04-21, 11:07:40",
+    "stargazers_count": 401,
+    "watchers_count": 401
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-20",
+    "date_updated": "2025-04-20",
+    "description": "Various techniques used to bypass SMEP in the Windows Kernel.",
+    "forks_count": 6,
+    "html_url": "https://github.com/r0keb/Smep-Bypass",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Smep-Bypass",
+    "repo_owner": "r0keb",
+    "repotime": "2025-04-20, 20:42:37",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-03-29",
+    "date_updated": "2025-04-17",
+    "description": "Kairos is a next-generation, red-team-oriented Windows kernel defense neutralization framework. It combines traditional runtime patching with UEFI persistence, hypervisor-level surveillance, and Secure Kernel deception.",
+    "forks_count": 1,
+    "html_url": "https://github.com/sondernextdoor/Kairos",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "Kairos",
+    "repo_owner": "sondernextdoor",
+    "repotime": "2025-04-17, 21:42:05",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}

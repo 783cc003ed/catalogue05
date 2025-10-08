@@ -1,0 +1,36 @@
+{
+    "commits_count": 2,
+    "date_started": "2024-07-29",
+    "date_updated": "2024-07-29",
+    "description": "Windows AppLocker Driver (appid.sys) LPE",
+    "forks_count": 14,
+    "html_url": "https://github.com/Crowdfense/CVE-2024-21338",
+    "keywords": [
+        "Windows lpe",
+        "lpe exploit",
+        "Windows lpe exploit"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2024-21338",
+    "repo_owner": "Crowdfense",
+    "repotime": "2024-07-29, 17:29:59",
+    "stargazers_count": 66,
+    "watchers_count": 66
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-01-20",
+    "date_updated": "2024-07-10",
+    "description": "HEVD Exploit: ArbitraryWrite on Windows 10 22H2 - Bypassing KVA Shadow and SMEP via PML4 Entry Manipulation",
+    "forks_count": 7,
+    "html_url": "https://github.com/ommadawn46/HEVD-Exploit-Win10-22H2-KVAS",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HEVD-Exploit-Win10-22H2-KVAS",
+    "repo_owner": "ommadawn46",
+    "repotime": "2024-07-10, 09:52:46",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}

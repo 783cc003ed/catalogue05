@@ -1,0 +1,243 @@
+{
+    "commits_count": 13,
+    "date_started": "2022-07-26",
+    "date_updated": "2022-07-30",
+    "description": "Zentao v16.5 SQL Injection POC",
+    "forks_count": 18,
+    "html_url": "https://github.com/z92g/ZentaoSqli",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "ZentaoSqli",
+    "repo_owner": "z92g",
+    "repotime": "2022-07-30, 16:43:22",
+    "stargazers_count": 75,
+    "watchers_count": 75
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-07-28",
+    "date_updated": "2022-07-30",
+    "description": "WordPress WP_Query SQL Injection POC",
+    "forks_count": 10,
+    "html_url": "https://github.com/z92g/CVE-2022-21661",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2022-21661",
+    "repo_owner": "z92g",
+    "repotime": "2022-07-30, 16:19:24",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-07-26",
+    "date_updated": "2022-07-26",
+    "description": "Total 28 vulnerabilities, found on given web application SQL injection - 2 Reflected and Stored Cross Site Scripting - 3 Insecure Direct Object Reference - 4 Rate Limiting Issues - 2 Insecure File Uploads - 1 Client Side filter bypass - 1 Server Misconfigurations - 1 Components with known vulnerabilities - 2 Weak Passwords - 2 Default files and pages - 3 File inclusion vulnerabilities - 1 PII Leakage - 1 Open Redirection - 1 Bruteforce Exploitation - 1 Command Execution Vulnerability - 1 Forced Browsing flaws - 1 Cross-Site Request Forgery",
+    "forks_count": 0,
+    "html_url": "https://github.com/hritikbhamare/Vulnerability-Assessment-and-Penetration-Testing",
+    "keywords": [
+        "server side request forgery",
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "Vulnerability-Assessment-and-Penetration-Testing",
+    "repo_owner": "hritikbhamare",
+    "repotime": "2022-07-26, 18:58:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-06-07",
+    "date_updated": "2022-07-24",
+    "description": "Exploit for CVE-2022-26134: Confluence Pre-Auth Remote Code Execution via OGNL Injection   ",
+    "forks_count": 3,
+    "html_url": "https://github.com/whokilleddb/CVE-2022-26134-Confluence-RCE",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26134-Confluence-RCE",
+    "repo_owner": "whokilleddb",
+    "repotime": "2022-07-24, 07:12:44",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-07-28",
+    "date_updated": "2022-07-20",
+    "description": "Automated SQL Injection tool",
+    "forks_count": 13,
+    "html_url": "https://github.com/rezaJOY/Havij",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "Havij",
+    "repo_owner": "rezaJOY",
+    "repotime": "2022-07-20, 23:32:52",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 16,
+    "date_started": "2020-01-16",
+    "date_updated": "2022-07-17",
+    "description": "Bypass WAF SQL Injection SQLMAP",
+    "forks_count": 64,
+    "html_url": "https://github.com/gagaltotal/Bypass-WAF-SQLMAP",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "Bypass-WAF-SQLMAP",
+    "repo_owner": "gagaltotal",
+    "repotime": "2022-07-17, 06:34:06",
+    "stargazers_count": 195,
+    "watchers_count": 195
+}
+{
+    "commits_count": 436,
+    "date_started": "2017-03-09",
+    "date_updated": "2022-07-14",
+    "description": "for mass exploiting",
+    "forks_count": 155,
+    "html_url": "https://github.com/jm33-m0/mec",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "mec",
+    "repo_owner": "jm33-m0",
+    "repotime": "2022-07-14, 22:35:25",
+    "stargazers_count": 607,
+    "watchers_count": 607
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-07-14",
+    "date_updated": "2022-07-14",
+    "description": "A simple python script to detect host header injections for both HTTP/HTTPS hostnames from a csv database.",
+    "forks_count": 0,
+    "html_url": "https://github.com/DHIRAL2908/Host-header-injection-checker",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "Host-header-injection-checker",
+    "repo_owner": "DHIRAL2908",
+    "repotime": "2022-07-14, 19:07:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-07-13",
+    "date_updated": "2022-07-13",
+    "description": "spring data mongodb remote code execution | cve-2022-22980 poc",
+    "forks_count": 1,
+    "html_url": "https://github.com/Vulnmachines/Spring_cve-2022-22980",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "Spring_cve-2022-22980",
+    "repo_owner": "Vulnmachines",
+    "repotime": "2022-07-13, 19:43:51",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-07-13",
+    "date_updated": "2022-07-13",
+    "description": "Privesc &amp;quot;Done Right&amp;quot; is the collection of my personal notes of Windows/Linux Privilege Escalation techniques",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dirac231/PrivescDR",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "PrivescDR",
+    "repo_owner": "Dirac231",
+    "repotime": "2022-07-13, 15:07:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 33,
+    "date_started": "2018-08-11",
+    "date_updated": "2022-07-11",
+    "description": "This tool generates gopher link for exploiting SSRF and gaining RCE in various servers",
+    "forks_count": 395,
+    "html_url": "https://github.com/tarunkant/Gopherus",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Gopherus",
+    "repo_owner": "tarunkant",
+    "repotime": "2022-07-11, 17:41:56",
+    "stargazers_count": 3206,
+    "watchers_count": 3206
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "PoC's for the Wavlink D4G SOHO Router",
+    "forks_count": 0,
+    "html_url": "https://github.com/Xenios91/Wavlink-DG4-ZeroDays",
+    "keywords": [
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Wavlink-DG4-ZeroDays",
+    "repo_owner": "Xenios91",
+    "repotime": "2022-07-10, 00:48:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-04-06",
+    "date_updated": "2022-07-06",
+    "description": "Navigate CMS &amp;lt;= 2.9.4 - Server-Side Request Forgery (Authenticated)",
+    "forks_count": 3,
+    "html_url": "https://github.com/cheshireca7/CVE-2022-28117",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-28117",
+    "repo_owner": "cheshireca7",
+    "repotime": "2022-07-06, 13:16:53",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-07-05",
+    "date_updated": "2022-07-05",
+    "description": "Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE).",
+    "forks_count": 2,
+    "html_url": "https://github.com/Debajyoti0-0/CVE-2022-26134",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "Debajyoti0-0",
+    "repotime": "2022-07-05, 15:10:39",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

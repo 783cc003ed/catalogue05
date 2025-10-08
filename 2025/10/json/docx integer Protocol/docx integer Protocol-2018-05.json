@@ -1,0 +1,69 @@
+{
+    "commits_count": 49,
+    "date_started": "2016-04-13",
+    "date_updated": "2018-05-30",
+    "description": "Aggressor scripts for use with Cobalt Strike 3.0+",
+    "forks_count": 164,
+    "html_url": "https://github.com/bluscreenofjeff/AggressorScripts",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": null,
+    "repo_name": "AggressorScripts",
+    "repo_owner": "bluscreenofjeff",
+    "repotime": "2018-05-30, 15:20:21",
+    "stargazers_count": 837,
+    "watchers_count": 837
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-05-15",
+    "date_updated": "2018-05-25",
+    "description": "Exploit for Mass Remote Code Execution on GPON home routers (CVE-2018-10562) obtained from Shodan.",
+    "forks_count": 11,
+    "html_url": "https://github.com/649/Pingpon-Exploit",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Pingpon-Exploit",
+    "repo_owner": "649",
+    "repotime": "2018-05-25, 23:44:16",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 9,
+    "date_started": "2018-04-30",
+    "date_updated": "2018-05-18",
+    "description": "Simple XXE test suite generated specifically for SAML interfaces",
+    "forks_count": 9,
+    "html_url": "https://github.com/RUB-NDS/SAML-XXE-Test",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "SAML-XXE-Test",
+    "repo_owner": "RUB-NDS",
+    "repotime": "2018-05-18, 15:26:51",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 12,
+    "date_started": "2018-04-18",
+    "date_updated": "2018-05-18",
+    "description": "Zend 2/3 Module that sanitises requests and inputs against XSS (Cross-Site Scripting), CSRF (Cross-Site Request Forgery), RFI (Remote File Inclusion), LFI (Local File Inclusion), SQLi (SQL Injection) and more...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mecanik/SanitiserX",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "SanitiserX",
+    "repo_owner": "Mecanik",
+    "repotime": "2018-05-18, 14:15:06",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}

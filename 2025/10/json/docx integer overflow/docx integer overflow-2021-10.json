@@ -1,0 +1,41 @@
+{
+    "commits_count": 11,
+    "date_started": "2021-10-28",
+    "date_updated": "2021-10-31",
+    "description": "An attempt to reproduce Microsoft MSHTML Remote Code Execution (RCE) Vulnerability and using Metasploit Framework.",
+    "forks_count": 1,
+    "html_url": "https://github.com/kagura-maru/CVE-2021-40444-POC",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft rce",
+        "Microsoft rce poc",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution poc",
+        "remote code execution poc",
+        "Microsoft remote code execution",
+        "Microsoft rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-40444-POC",
+    "repo_owner": "kagura-maru",
+    "repotime": "2021-10-31, 16:15:00",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-07-26",
+    "date_updated": "2021-10-04",
+    "description": "<no description>",
+    "forks_count": 12,
+    "html_url": "https://github.com/saaramar/IOMobileFrameBuffer_LPE_POC",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "IOMobileFrameBuffer_LPE_POC",
+    "repo_owner": "saaramar",
+    "repotime": "2021-10-04, 12:30:26",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}

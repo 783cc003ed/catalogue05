@@ -1,0 +1,191 @@
+{
+    "commits_count": 115,
+    "date_started": "2014-01-11",
+    "date_updated": "2022-02-24",
+    "description": "This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.",
+    "forks_count": 158,
+    "html_url": "https://github.com/NetSPI/xssValidator",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "xssValidator",
+    "repo_owner": "NetSPI",
+    "repotime": "2022-02-24, 15:00:10",
+    "stargazers_count": 416,
+    "watchers_count": 416
+}
+{
+    "commits_count": 90,
+    "date_started": "2014-03-28",
+    "date_updated": "2022-02-23",
+    "description": "HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors",
+    "forks_count": 419,
+    "html_url": "https://github.com/cure53/H5SC",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "H5SC",
+    "repo_owner": "cure53",
+    "repotime": "2022-02-23, 17:46:18",
+    "stargazers_count": 2887,
+    "watchers_count": 2887
+}
+{
+    "commits_count": 23,
+    "date_started": "2022-02-14",
+    "date_updated": "2022-02-21",
+    "description": " An ongoing &amp;amp; curated collection of awesome web vulnerability - Server-side request forgery software practices and remediation, libraries and frameworks, best guidelines and technical resources about SSRF",
+    "forks_count": 4,
+    "html_url": "https://github.com/paulveillard/cybersecurity-ssrf",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "cybersecurity-ssrf",
+    "repo_owner": "paulveillard",
+    "repotime": "2022-02-21, 20:07:57",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-02-21",
+    "date_updated": "2022-02-21",
+    "description": "An overview about XML external entity injection and some common examples, explain how to find and exploit various kinds of XXE injection, and summarize how to prevent XXE injection attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ousbaailyas/XML_External_Entity_XXE_injection",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XML_External_Entity_XXE_injection",
+    "repo_owner": "ousbaailyas",
+    "repotime": "2022-02-21, 15:55:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2016-01-06",
+    "date_updated": "2022-02-14",
+    "description": "<no description>",
+    "forks_count": 50,
+    "html_url": "https://github.com/claraj/sql_injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sql_injection",
+    "repo_owner": "claraj",
+    "repotime": "2022-02-14, 15:56:20",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 233,
+    "date_started": "2019-06-12",
+    "date_updated": "2022-02-14",
+    "description": "a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and techniques of an advanced adversary in a network.",
+    "forks_count": 121,
+    "html_url": "https://github.com/zux0x3a/0xsp-Mongoose",
+    "keywords": [
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges"
+    ],
+    "language": "Pascal",
+    "repo_name": "0xsp-Mongoose",
+    "repo_owner": "zux0x3a",
+    "repotime": "2022-02-14, 11:04:23",
+    "stargazers_count": 537,
+    "watchers_count": 537
+}
+{
+    "commits_count": 34,
+    "date_started": "2019-01-18",
+    "date_updated": "2022-02-13",
+    "description": "Public Disclosures",
+    "forks_count": 19,
+    "html_url": "https://github.com/DrunkenShells/Disclosures",
+    "keywords": [
+        "0day disclosure"
+    ],
+    "language": "HTML",
+    "repo_name": "Disclosures",
+    "repo_owner": "DrunkenShells",
+    "repotime": "2022-02-13, 23:59:47",
+    "stargazers_count": 91,
+    "watchers_count": 91
+}
+{
+    "commits_count": 12,
+    "date_started": "2019-09-04",
+    "date_updated": "2022-02-10",
+    "description": "Exploit for the Post-Auth RCE vulnerability in Pulse Secure Connect",
+    "forks_count": 35,
+    "html_url": "https://github.com/0xDezzy/CVE-2019-11539",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-11539",
+    "repo_owner": "0xDezzy",
+    "repotime": "2022-02-10, 18:00:44",
+    "stargazers_count": 132,
+    "watchers_count": 132
+}
+{
+    "commits_count": 723,
+    "date_started": "2016-07-06",
+    "date_updated": "2022-02-06",
+    "description": "Server-Side Template Injection and Code Injection Detection and Exploitation Tool",
+    "forks_count": 690,
+    "html_url": "https://github.com/epinna/tplmap",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "tplmap",
+    "repo_owner": "epinna",
+    "repotime": "2022-02-06, 15:13:15",
+    "stargazers_count": 4035,
+    "watchers_count": 4035
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-12-19",
+    "date_updated": "2022-02-04",
+    "description": "A Basic Java Application Vulnerable to the Log4Shell RCE",
+    "forks_count": 35,
+    "html_url": "https://github.com/tothi/log4shell-vulnerable-app",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "log4shell-vulnerable-app",
+    "repo_owner": "tothi",
+    "repotime": "2022-02-04, 23:37:25",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-02-03",
+    "date_updated": "2022-02-03",
+    "description": "It is a Ethical Hacking Training Project done on a E-Commerce Website which is basically an Internshala Hacking Web Application. Here I have used different tools like Burp Suite to find out the possible Vulnerabilities present in the Web Application and also mentioned ways for the patch. The most critical vulnerabilities found are SQL Injection, CSRF, Remote file inclusion, Cross Side Scripting. etc. I have also attached with it the Proof Of Concept for each Vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Arnab14999/Ethical-Hacking-Training-Project",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "HTML",
+    "repo_name": "Ethical-Hacking-Training-Project",
+    "repo_owner": "Arnab14999",
+    "repotime": "2022-02-03, 23:01:51",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

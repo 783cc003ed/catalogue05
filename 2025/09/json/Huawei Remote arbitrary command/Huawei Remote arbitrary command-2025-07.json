@@ -232,7 +232,7 @@
     "date_started": "2025-06-27",
     "date_updated": "2025-07-28",
     "description": "Unauthenticated Python PoC for CVE-2025-20281 RCE against ISE ERS API",
-    "forks_count": 5,
+    "forks_count": 7,
     "html_url": "https://github.com/abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE",
     "keywords": [
         "unauthenticated rce"
@@ -241,8 +241,8 @@
     "repo_name": "CVE-2025-20281-2-Cisco-ISE-RCE",
     "repo_owner": "abrewer251",
     "repotime": "2025-07-28, 09:43:35",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 5,
@@ -762,7 +762,7 @@
     "date_started": "2024-09-06",
     "date_updated": "2025-07-18",
     "description": "Automation tool to testing and confirm the xss vulnerability.",
-    "forks_count": 52,
+    "forks_count": 53,
     "html_url": "https://github.com/iamunixtz/LazyXss",
     "keywords": [
         "xss"
@@ -771,8 +771,8 @@
     "repo_name": "LazyXss",
     "repo_owner": "iamunixtz",
     "repotime": "2025-07-18, 06:49:37",
-    "stargazers_count": 288,
-    "watchers_count": 288
+    "stargazers_count": 291,
+    "watchers_count": 291
 }
 {
     "commits_count": 3,
@@ -1263,7 +1263,7 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 136,
+    "commits_count": 137,
     "date_started": "2021-02-23",
     "date_updated": "2025-07-08",
     "description": "Repository for information about 0-days exploited in-the-wild.",
@@ -1277,8 +1277,8 @@
     "repo_name": "0days-in-the-wild",
     "repo_owner": "googleprojectzero",
     "repotime": "2025-07-08, 11:51:33",
-    "stargazers_count": 830,
-    "watchers_count": 830
+    "stargazers_count": 829,
+    "watchers_count": 829
 }
 {
     "commits_count": 5,
@@ -1312,8 +1312,8 @@
     "repo_name": "MemorySnitcher",
     "repo_owner": "ricardojoserf",
     "repotime": "2025-07-07, 14:14:30",
-    "stargazers_count": 37,
-    "watchers_count": 37
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 2,
