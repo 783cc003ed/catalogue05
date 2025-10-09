@@ -102,3 +102,107 @@
     "stargazers_count": 37,
     "watchers_count": 37
 }
+{
+    "commits_count": 43,
+    "date_started": "2021-02-11",
+    "date_updated": "2022-03-30",
+    "description": "👻 [PoC] TyranoScript 5.13b - Arbitrary Code Execution (0day)",
+    "forks_count": 0,
+    "html_url": "https://github.com/satoki/tyranoscript_vulnerability",
+    "keywords": [
+        "0day exploit",
+        "0day poc",
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "tyranoscript_vulnerability",
+    "repo_owner": "satoki",
+    "repotime": "2022-03-30, 16:41:55",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-03-26",
+    "date_updated": "2022-03-26",
+    "description": "Detected web vulnerabilities such as Broken Authentication,SQL injection,XML External Entity using Burpsuite, kali Linux OS, OWASP-BWA,Wappalyzer",
+    "forks_count": 0,
+    "html_url": "https://github.com/Raveendar23/Web-Pen-testing",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "Web-Pen-testing",
+    "repo_owner": "Raveendar23",
+    "repotime": "2022-03-26, 16:53:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-12-10",
+    "date_updated": "2022-03-18",
+    "description": "log4j2 rce、poc",
+    "forks_count": 41,
+    "html_url": "https://github.com/dbgee/log4j2_rce",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "log4j2_rce",
+    "repo_owner": "dbgee",
+    "repotime": "2022-03-18, 15:27:13",
+    "stargazers_count": 101,
+    "watchers_count": 101
+}
+{
+    "commits_count": 48,
+    "date_started": "2021-10-13",
+    "date_updated": "2022-03-12",
+    "description": "Implementation of several code injection techniques.",
+    "forks_count": 7,
+    "html_url": "https://github.com/Fahersto/code_injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "code_injection",
+    "repo_owner": "Fahersto",
+    "repotime": "2022-03-12, 14:42:46",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 12,
+    "date_started": "2017-11-19",
+    "date_updated": "2022-03-07",
+    "description": "CVE-2017-8917 - SQL injection Vulnerability Exploit in Joomla  3.7.0 ",
+    "forks_count": 26,
+    "html_url": "https://github.com/stefanlucas/Exploit-Joomla",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "Exploit-Joomla",
+    "repo_owner": "stefanlucas",
+    "repotime": "2022-03-07, 12:04:07",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-03",
+    "date_updated": "2022-03-04",
+    "description": "Spring Cloud Gateway &amp;lt; 3.0.7 &amp;amp; &amp;lt; 3.1.1 Code Injection (RCE)",
+    "forks_count": 14,
+    "html_url": "https://github.com/crowsec-edtech/CVE-2022-22947",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-22947",
+    "repo_owner": "crowsec-edtech",
+    "repotime": "2022-03-04, 18:10:41",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}

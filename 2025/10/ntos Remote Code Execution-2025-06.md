@@ -320,9 +320,9 @@ Automatic SQL injection and database takeover tool
     <td>Started: <code>2012-06-26 09:52:15+00:00</code></td>
     <td>Latest: <code>2025-10-07 10:48:16+02:00</code></td></tr>
 <tr><td>Commits: <code>10457</code></td>
-    <td>Stargazers: <code>35459</code></td>
-    <td>Watchers: <code>35459</code></td>
-    <td>Forks: <code>6065</code></td></tr>
+    <td>Stargazers: <code>35464</code></td>
+    <td>Watchers: <code>35464</code></td>
+    <td>Forks: <code>6066</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -804,8 +804,8 @@ HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux
     <td>Started: <code>2015-05-28 08:24:56+00:00</code></td>
     <td>Latest: <code>2025-02-24 17:49:16+05:30</code></td></tr>
 <tr><td>Commits: <code>176</code></td>
-    <td>Stargazers: <code>2829</code></td>
-    <td>Watchers: <code>2829</code></td>
+    <td>Stargazers: <code>2830</code></td>
+    <td>Watchers: <code>2830</code></td>
     <td>Forks: <code>567</code></td></tr>
 </table>
 Keywords: vulnerability, Windows uaf vulnerability, uaf exploitation, Windows uaf exploitation, uaf vulnerability, Windows uaf
@@ -1156,8 +1156,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5878</code></td>
-    <td>Watchers: <code>5878</code></td>
+    <td>Stargazers: <code>5881</code></td>
+    <td>Watchers: <code>5881</code></td>
     <td>Forks: <code>705</code></td></tr>
 </table>
 Keywords: 0day poc

@@ -488,6 +488,496 @@ Learn about the stack-based buffer overflow vulnerability affecting the TP-Link 
 
 ---
 
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-26`
+
+* https://nvd.nist.gov/vuln/detail/CVE-2024-54887
+
+<blockquote>
+ NvdCve202454887
+</blockquote>
+<blockquote>
+Information Technology Laboratory National Vulnerability DatabaseVulnerabilities
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-26`
+
+* https://blog.viettelcybersecurity.com/1day-to-0day-on-tl-link-tl-wr841n/
+
+<blockquote>
+ 1dayto0dayCVE202230024onTPLinkTLWR841N
+</blockquote>
+<blockquote>
+The vulnerability on TP-LINK's router device with model number TL-WR841N V10 is assigned ID CVE-2020-8423. The vulnerability allows an authenticated attacker to remotely execute arbitrary code on the device by sending a GET request to the wifi network configuration.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-25`
+
+* https://www.cvedetails.com/cve/CVE-2024-5242/
+
+<blockquote>
+ CVE20245242TPLinkOmadaER605StackbasedBufferOverflowRemote
+</blockquote>
+<blockquote>
+TP-Link Omada ER605 Stack-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Omada ER605 routers. Authentication is not required to exploit this vulnerability.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-25`
+
+* https://www.zerodayinitiative.com/advisories/ZDI-24-502/
+
+<blockquote>
+ ZDI24502ZeroDayInitiative
+</blockquote>
+<blockquote>
+TP-Link: AFFECTED PRODUCTS: Omada ER605: VULNERABILITY DETAILS: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Omada ER605 routers. Authentication is not required to exploit this vulnerability. However, devices are vulnerable only if configured to use the Comexe DDNS service.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-23`
+
+* https://securityvulnerability.io/vulnerability/CVE-2025-40634
+
+<blockquote>
+ StackbasedBufferOverflowinTPLinkArcherAX50Router
+</blockquote>
+<blockquote>
+What is CVE-2025-40634? CVE-2025-40634 is a critical vulnerability affecting the TP-Link Archer AX50 router, specifically related to a stack-based buffer overflow within the 'conn-indicator' binary that operates with root privileges. This vulnerability allows malicious actors to execute arbitrary code on the device, which can be exploited over both Local Area Network (LAN) and Wide Area ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-23`
+
+* https://www.tenable.com/cve/CVE-2024-5227
+
+<blockquote>
+ CVE20245227Tenable
+</blockquote>
+<blockquote>
+TP-Link Omada ER605 PPTP VPN username Command Injection Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Omada ER605 routers. Authentication is not required to exploit this vulnerability. However, devices are only vulnerable if configured to use a PPTP VPN with LDAP authentication. The ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-23`
+
+* https://blog.viettelcybersecurity.com/tp-link-tl-wr940n-httpd-httprpmfs-stack-based-buffer-overflow-remote-code-execution-vulnerability/
+
+<blockquote>
+ TPLinkTLWR940NAnalysisofa1dayCVE202224355BufferOverflow
+</blockquote>
+<blockquote>
+About the bug CVE-2022-24355 allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link TL-WR940N routers. Authentication is not required to exploit this vulnerability.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-23`
+
+* https://www.zerodayinitiative.com/advisories/ZDI-24-085/
+
+<blockquote>
+ ZDI24085ZeroDayInitiative
+</blockquote>
+<blockquote>
+February 5th, 2024 (Pwn2Own) TP-Link Omada ER605 DHCPv6 Client Options Stack-based Buffer Overflow Remote Code Execution Vulnerability ZDI-24-085 ZDI-CAN-22420
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-23`
+
+* https://www.tp-link.com/us/support/faq/4415/
+
+<blockquote>
+ StatementoncrosssitescriptingXSSvulnerabilityonTPLinkWR841N
+</blockquote>
+<blockquote>
+A stored cross-site scripting (XSS) vulnerability in the upnp.htm page of the web Interface in TP-Link WR841N v14/v14.6/v14.8 &lt;&#61; Build 241230 Rel. 50788n allows remote attackers to inject arbitrary JavaScript code via the port mapping description.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-23`
+
+* https://nvd.nist.gov/vuln/detail/CVE-2024-5227
+
+<blockquote>
+ NvdCve20245227
+</blockquote>
+<blockquote>
+Information Technology Laboratory National Vulnerability DatabaseVulnerabilities
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-23`
+
+* https://www.cvedetails.com/cve/CVE-2024-5243/
+
+<blockquote>
+ CVE20245243TPLinkOmadaER605BufferOverflowRemoteCode
+</blockquote>
+<blockquote>
+TP-Link Omada ER605 Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Omada ER605 routers.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-23`
+
+* https://gbhackers.com/poc-exploit-released-for-tp-link-code-execution-vulnerability/
+
+<blockquote>
+ PoCExploitreleasedforTPLinkCodeExecutionGBHackers
+</blockquote>
+<blockquote>
+A researcher has successfully identified a critical vulnerability in the TP-Link TL-WR940N router. gbhackers. Wednesday, May 28, 2025 ... This vulnerability, which has been documented as CVE-2024-54887, allows for potential arbitrary remote code execution (RCE) through stack buffer overflow exploitation. ... How to Build and Run a Security ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-21`
+
+* https://www.tenable.com/cve/CVE-2024-5228
+
+<blockquote>
+ CVE20245228Tenable
+</blockquote>
+<blockquote>
+TP-Link Omada ER605 Comexe DDNS Response Handling Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Omada ER605 routers. Authentication is not required to exploit this vulnerability. However, devices are vulnerable only if configured to use the Comexe DDNS service.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-21`
+
+* https://dec-solutions.com/cve-2024-53375-tp-link-router-rce-vulnerability/
+
+<blockquote>
+ CVE202453375TPLinkRouterRCEVulnerability
+</blockquote>
+<blockquote>
+CVE-2024-53375 exposes a critical vulnerability affecting TP-Link Archer, Deco, and Tapo routers. Specifically, this issue allows for remote code execution (RCE ... As a result, malicious actors could exploit this flaw to execute arbitrary code on affected devices. Users might not be aware of these potential risks, making it crucial to address ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-21`
+
+* https://securityvulnerability.io/vulnerability/CVE-2024-54887
+
+<blockquote>
+ BufferOverflowinTPLinkRoutersAllowingCodeExecution
+</blockquote>
+<blockquote>
+Explore CVE-2024-54887, a vulnerability in TP-Link devices allowing code execution via buffer overflow in specific firmware versions. ... This manipulation can allow an attacker to execute arbitrary code, which, if successful, grants full control over the device. The vulnerable firmware versions encompass 3.16.9 and earlier, meaning that ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-20`
+
+* https://cybersecuritynews.com/hackers-exploiting-tp-link/
+
+<blockquote>
+ HackersExploitingTPLinkArcherCommandInjectionVulnerability
+</blockquote>
+<blockquote>
+Vulnerability Proof-Of-Concept. TP-Link disclosed and patched the Vulnerability in March 2023. It allows unauthenticated attackers to execute arbitrary commands on the affected devices.. This flaw can be exploited to gain control over the routers, potentially leading to data breaches, network infiltration, and malware deployment.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-20`
+
+* https://securityboulevard.com/2024/06/tp-link-archer-vulnerable-to-remote-code-execution/
+
+<blockquote>
+ TPLinkArcherVulnerabletoRemoteCodeExecution
+</blockquote>
+<blockquote>
+By crafting and sending specific requests to these ports, malicious actors can inject commands containing shell meta-characters, enabling them to execute arbitrary code on the device remotely. To address this critical security issue, TP-Link has released a patch in firmware version 1_1.1.7 on May 24, 2024.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-20`
+
+* https://www.tenable.com/cve/CVE-2024-5242
+
+<blockquote>
+ CVE20245242Tenable
+</blockquote>
+<blockquote>
+TP-Link Omada ER605 Stack-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Omada ER605 routers. Authentication is not required to exploit this vulnerability. However, devices are vulnerable only if configured to use the Comexe DDNS service.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-20`
+
+* https://www.zerodayinitiative.com/advisories/ZDI-24-086/
+
+<blockquote>
+ ZDI24086ZeroDayInitiative
+</blockquote>
+<blockquote>
+TP-Link Omada ER605 Access Control Command Injection Remote Code Execution Vulnerability ZDI-24-086 ZDI-CAN-22227. CVE ID: CVE-2024-1180: ... This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Omada ER605. Authentication is required to exploit this vulnerability.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-20`
+
+* https://medium.com/aardvark-infinity/cve-2024-21827-arbitrary-command-execution-vulnerability-in-tp-link-er7206-9f5c9f7b788a
+
+<blockquote>
+ CVE202421827ArbitraryCommandExecutionVulnerabilityinTpLink
+</blockquote>
+<blockquote>
+CVE-2024-21827 is a critical vulnerability found in the Tp-Link ER7206 Omada Gigabit VPN Router, specifically in the cli_server debug functionality of version 1.4.1 Build 20240117 Rel.57421.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-20`
+
+* https://www.tenable.com/cve/CVE-2024-5227
+
+<blockquote>
+ CVE20245227Tenable
+</blockquote>
+<blockquote>
+TP-Link Omada ER605 PPTP VPN username Command Injection Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Omada ER605 routers. Authentication is not required to exploit this vulnerability. However, devices are only vulnerable if configured to use a PPTP VPN with LDAP authentication.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-20`
+
+* https://nvd.nist.gov/vuln/detail/CVE-2024-5227
+
+<blockquote>
+ Cve20245227Nvd
+</blockquote>
+<blockquote>
+TP-Link Omada ER605 PPTP VPN username Command Injection Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Omada ER605 routers. Authentication is not required to exploit this vulnerability. However, devices are only vulnerable if configured to ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-19`
+
+* https://nvd.nist.gov/vuln/detail/CVE-2024-5243
+
+<blockquote>
+ Cve20245243Nvd
+</blockquote>
+<blockquote>
+TP-Link Omada ER605 Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Omada ER605 routers. Authentication is not required to exploit this vulnerability. However, devices are vulnerable only if configured to use the Comexe DDNS ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-19`
+
+* https://www.zerodayinitiative.com/advisories/ZDI-23-451/
+
+<blockquote>
+ ZDI23451ZeroDayInitiative
+</blockquote>
+<blockquote>
+The issue results from the lack of proper validation of a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to execute arbitrary code in the context of root. ADDITIONAL DETAILS: TP-Link has issued an update to correct this vulnerability. More details can be found at:
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-19`
+
+* https://feedly.com/cve/CVE-2025-40634
+
+<blockquote>
+ CVE202540634ExploitsSeverityFeedly
+</blockquote>
+<blockquote>
+Stack-based buffer overflow vulnerability in the 'conn-indicator' binary running as root on the TP-Link Archer AX50 router, in firmware versions prior to 1.0.15 build 241203 rel61480. This vulnerability allows an attacker to execute arbitrary code on the device over LAN and WAN networks.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-19`
+
+* https://blog.viettelcybersecurity.com/1day-to-0day-on-tl-link-tl-wr841n/
+
+<blockquote>
+ 1dayto0dayCVE202230024onTPLinkTLWR841NBlogofViettel
+</blockquote>
+<blockquote>
+The vulnerability on TP-LINK's router device with model number TL-WR841N V10 is assigned ID CVE-2020-8423. The vulnerability allows an authenticated attacker to remotely execute arbitrary code on the device by sending a GET request to the wifi network configuration. Firmware Firmware version: 3.16.9 Build 150310
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-19`
+
+* https://cvefeed.io/vuln/detail/CVE-2025-40634
+
+<blockquote>
+ CVE202540634TPLinkArcherAX50RouterStackbasedBufferOverflow
+</blockquote>
+<blockquote>
+Stack-based buffer overflow vulnerability in the 'conn-indicator' binary running as root on the TP-Link Archer AX50 router, in firmware versions prior to 1.0.15 build 241203 rel61480. This vulnerability allows an attacker to execute arbitrary code on the device over LAN and WAN networks.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-19`
+
+* https://www.zerodayinitiative.com/advisories/ZDI-24-085/
+
+<blockquote>
+ ZDI24085ZeroDayInitiative
+</blockquote>
+<blockquote>
+TP-Link: AFFECTED PRODUCTS: Omada ER605: VULNERABILITY DETAILS: This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Omada ER605 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the handling of DHCP options.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-19`
+
+* https://community.tp-link.com/en/home/forum/topic/712956
+
+<blockquote>
+ ER605RoutersecurityvulnerabilitiesBusinessCommunity
+</blockquote>
+<blockquote>
+The TP-Link Omada ER605 v1 router has recently come under scrutiny due to several critical security vulnerabilities, primarily affecting its VPN, DHCP, and DDNS configurations. ... This vulnerability allows attackers to execute arbitrary commands remotely if the router is configured with a PPTP VPN and LDAP authentication. This flaw stems from ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-19`
+
+* https://www.cvedetails.com/cve/CVE-2024-5243/
+
+<blockquote>
+ CVE20245243TPLinkOmadaER605BufferOverflowRemoteCode
+</blockquote>
+<blockquote>
+TP-Link Omada ER605 Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Omada ER605 routers. Authentication is not required to exploit this vulnerability.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-19`
+
+* https://nvd.nist.gov/vuln/detail/CVE-2024-1180
+
+<blockquote>
+ Cve20241180Nvd
+</blockquote>
+<blockquote>
+TP-Link Omada ER605 Access Control Command Injection Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Omada ER605. Authentication is required to exploit this vulnerability. The specific issue exists within the handling of the name field in ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-19`
+
+* https://www.hendryadrian.com/poc-exploit-for-tp-link-router-vulnerability-reveals-remote-code-execution-risks/
+
+<blockquote>
+ PoCExploitforTPLinkRouterVulnerabilityRevealsRemoteCode
+</blockquote>
+<blockquote>
+Summary:. Security researcher Joward has identified a critical buffer overflow vulnerability, CVE-2024-54887, in TP-Link TL-WR940N routers, which could allow attackers to execute arbitrary code. The vulnerability arises from improper validation of DNS server configuration parameters, specifically dnsserver1 and dnsserver2. Joward's Proof of Concept (PoC) exploit demonstrates the potential ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-19`
+
+* https://www.redpacketsecurity.com/tp-link-omada-er605-code-execution-cve-2024-1180/
+
+<blockquote>
+ TPLinkOmadaER605codeexecutionCVE20241180
+</blockquote>
+<blockquote>
+TP-Link Omada ER605 could allow a remote authenticated attacker to execute arbitrary code on the system, caused by a flaw in the handling of the name field in the access control user interface. By sending a specially crafted request, an attacker could exploit this vulnerability to execute arbitrary code on the system.
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-19`
+
+* https://www.tp-link.com/us/support/faq/4415/
+
+<blockquote>
+ StatementoncrosssitescriptingXSSvulnerabilityonTPLinkWR841N
+</blockquote>
+<blockquote>
+Statement on cross-site scripting (XSS) vulnerability on TP-Link WR841N (CVE-2025-25427) ... of the web Interface in TP-Link WR841N v14/v14.6/v14.8 &lt;&#61; Build 241230 Rel. 50788n allows remote attackers to inject arbitrary JavaScript code via the port mapping description. ... This XSS can be used to execute arbitrary JavaScript code and steal the ...
+</blockquote>
+
+---
+
+## DuckDuckgo search -> TP-Link Execute arbitrary code
+`2025-06-19`
+
+* https://securityvulnerability.io/vulnerability/CVE-2025-40634
+
+<blockquote>
+ StackbasedBufferOverflowinTPLinkArcherAX50Router
+</blockquote>
+<blockquote>
+Learn about the stack-based buffer overflow vulnerability affecting the TP-Link Archer AX50 router, and how it can be exploited by attackers. ... This vulnerability allows malicious actors to execute arbitrary code on the device, which can be exploited over both Local Area Network (LAN) and Wide Area Network (WAN) connections. ...
+</blockquote>
+
+---
+
 # GitHub search -> TP-Link Execute arbitrary code
 # MortenSchenkb
 
@@ -507,6 +997,28 @@ Control Flow Guard bypass using LoadLibrary and IsBadCodePtr
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: control flow guard bypass
+
+---
+
+# GitHub search -> TP-Link Execute arbitrary code
+# KEV
+
+https://github.com/Ostorlab/KEV
+<blockquote>
+Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Ostorlab</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2022-04-19 08:58:42+00:00</code></td>
+    <td>Latest: <code>2025-10-08 09:52:14+01:00</code></td></tr>
+<tr><td>Commits: <code>726</code></td>
+    <td>Stargazers: <code>588</code></td>
+    <td>Watchers: <code>588</code></td>
+    <td>Forks: <code>42</code></td></tr>
+</table>
+Keywords: 0day vulnerability, 0day exploitation, 0day exploit
 
 ---
 
@@ -722,9 +1234,9 @@ Automatic SQL injection and database takeover tool
     <td>Started: <code>2012-06-26 09:52:15+00:00</code></td>
     <td>Latest: <code>2025-10-07 10:48:16+02:00</code></td></tr>
 <tr><td>Commits: <code>10457</code></td>
-    <td>Stargazers: <code>35459</code></td>
-    <td>Watchers: <code>35459</code></td>
-    <td>Forks: <code>6065</code></td></tr>
+    <td>Stargazers: <code>35464</code></td>
+    <td>Watchers: <code>35464</code></td>
+    <td>Forks: <code>6066</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -1096,8 +1608,8 @@ A tool designed to exploit a privilege escalation vulnerability in the sudo prog
     <td>Started: <code>2018-12-07 21:08:02+00:00</code></td>
     <td>Latest: <code>2025-10-03 12:13:04+02:00</code></td></tr>
 <tr><td>Commits: <code>561</code></td>
-    <td>Stargazers: <code>2372</code></td>
-    <td>Watchers: <code>2372</code></td>
+    <td>Stargazers: <code>2373</code></td>
+    <td>Watchers: <code>2373</code></td>
     <td>Forks: <code>260</code></td></tr>
 </table>
 Keywords: escalation of privileges exploit, escalation of privileges vulnerability, escalation of privileges exploitation
@@ -1206,8 +1718,8 @@ Command line tool to edit resources of exe
     <td>Started: <code>2013-11-05 11:13:21+00:00</code></td>
     <td>Latest: <code>2025-10-01 22:11:46-07:00</code></td></tr>
 <tr><td>Commits: <code>197</code></td>
-    <td>Stargazers: <code>1959</code></td>
-    <td>Watchers: <code>1959</code></td>
+    <td>Stargazers: <code>1960</code></td>
+    <td>Watchers: <code>1960</code></td>
     <td>Forks: <code>207</code></td></tr>
 </table>
 Keywords: Windows rce
@@ -1448,8 +1960,8 @@ https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS
     <td>Started: <code>2024-05-03 21:27:59+00:00</code></td>
     <td>Latest: <code>2025-09-30 11:17:59+03:00</code></td></tr>
 <tr><td>Commits: <code>25</code></td>
-    <td>Stargazers: <code>299</code></td>
-    <td>Watchers: <code>299</code></td>
+    <td>Stargazers: <code>300</code></td>
+    <td>Watchers: <code>300</code></td>
     <td>Forks: <code>52</code></td></tr>
 </table>
 Keywords: 0day vulnerability
@@ -2003,28 +2515,6 @@ Comprehensive Godot testing framework with multi-dimensional validation. Feature
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: memory leak analysis
-
----
-
-# GitHub search -> TP-Link Execute arbitrary code
-# KEV
-
-https://github.com/Ostorlab/KEV
-<blockquote>
-Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>Ostorlab</code></td>
-    <td>Language: <code>None</code></td>
-    <td>Started: <code>2022-04-19 08:58:42+00:00</code></td>
-    <td>Latest: <code>2025-09-22 18:03:42+01:00</code></td></tr>
-<tr><td>Commits: <code>721</code></td>
-    <td>Stargazers: <code>587</code></td>
-    <td>Watchers: <code>587</code></td>
-    <td>Forks: <code>41</code></td></tr>
-</table>
-Keywords: 0day vulnerability, 0day exploitation, 0day exploit
 
 ---
 
@@ -3714,8 +4204,8 @@ This repository provides a modified version of the original CVE-2017-6074 exploi
     <td>Started: <code>2025-09-03 11:21:28+00:00</code></td>
     <td>Latest: <code>2025-09-03 15:38:29+02:00</code></td></tr>
 <tr><td>Commits: <code>5</code></td>
-    <td>Stargazers: <code>0</code></td>
-    <td>Watchers: <code>0</code></td>
+    <td>Stargazers: <code>1</code></td>
+    <td>Watchers: <code>1</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: use after free exploit
@@ -4550,9 +5040,9 @@ TypeScript clients for databases that prevent SQL Injection
     <td>Started: <code>2018-12-19 16:31:39+00:00</code></td>
     <td>Latest: <code>2025-08-20 11:11:16+01:00</code></td></tr>
 <tr><td>Commits: <code>232</code></td>
-    <td>Stargazers: <code>627</code></td>
-    <td>Watchers: <code>627</code></td>
-    <td>Forks: <code>46</code></td></tr>
+    <td>Stargazers: <code>628</code></td>
+    <td>Watchers: <code>628</code></td>
+    <td>Forks: <code>48</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -5452,9 +5942,9 @@ https://github.com/OWASP/QRLJacking
     <td>Started: <code>2016-07-11 23:00:06+00:00</code></td>
     <td>Latest: <code>2025-08-07 15:07:19-06:00</code></td></tr>
 <tr><td>Commits: <code>222</code></td>
-    <td>Stargazers: <code>1444</code></td>
-    <td>Watchers: <code>1444</code></td>
-    <td>Forks: <code>652</code></td></tr>
+    <td>Stargazers: <code>1445</code></td>
+    <td>Watchers: <code>1445</code></td>
+    <td>Forks: <code>653</code></td></tr>
 </table>
 Keywords: session hijacking attack, session attack, session hijacking
 
@@ -6134,8 +6624,8 @@ The best tool for finding one gadget RCE in libc.so.6
     <td>Started: <code>2017-02-07 08:03:34+00:00</code></td>
     <td>Latest: <code>2025-08-01 09:37:24+08:00</code></td></tr>
 <tr><td>Commits: <code>320</code></td>
-    <td>Stargazers: <code>2236</code></td>
-    <td>Watchers: <code>2236</code></td>
+    <td>Stargazers: <code>2237</code></td>
+    <td>Watchers: <code>2237</code></td>
     <td>Forks: <code>145</code></td></tr>
 </table>
 Keywords: rce exploit
@@ -15308,8 +15798,8 @@ HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux
     <td>Started: <code>2015-05-28 08:24:56+00:00</code></td>
     <td>Latest: <code>2025-02-24 17:49:16+05:30</code></td></tr>
 <tr><td>Commits: <code>176</code></td>
-    <td>Stargazers: <code>2829</code></td>
-    <td>Watchers: <code>2829</code></td>
+    <td>Stargazers: <code>2830</code></td>
+    <td>Watchers: <code>2830</code></td>
     <td>Forks: <code>567</code></td></tr>
 </table>
 Keywords: vulnerability, Windows uaf vulnerability, uaf exploitation, Windows uaf exploitation, uaf vulnerability, Windows uaf
@@ -30554,8 +31044,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5878</code></td>
-    <td>Watchers: <code>5878</code></td>
+    <td>Stargazers: <code>5881</code></td>
+    <td>Watchers: <code>5881</code></td>
     <td>Forks: <code>705</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -31082,8 +31572,8 @@ OWASP Joomla Vulnerability Scanner Project https://www.secologist.com/
     <td>Started: <code>2016-09-01 09:06:17+00:00</code></td>
     <td>Latest: <code>2023-11-30 08:32:25+01:00</code></td></tr>
 <tr><td>Commits: <code>84</code></td>
-    <td>Stargazers: <code>1142</code></td>
-    <td>Watchers: <code>1142</code></td>
+    <td>Stargazers: <code>1143</code></td>
+    <td>Watchers: <code>1143</code></td>
     <td>Forks: <code>247</code></td></tr>
 </table>
 Keywords: 0day exploit, 0day vulnerability
@@ -32842,8 +33332,8 @@ https://github.com/voku/anti-xss
     <td>Started: <code>2015-03-12 19:45:11+00:00</code></td>
     <td>Latest: <code>2023-09-04 17:36:40+02:00</code></td></tr>
 <tr><td>Commits: <code>588</code></td>
-    <td>Stargazers: <code>698</code></td>
-    <td>Watchers: <code>698</code></td>
+    <td>Stargazers: <code>699</code></td>
+    <td>Watchers: <code>699</code></td>
     <td>Forks: <code>109</code></td></tr>
 </table>
 Keywords: xss
@@ -35746,8 +36236,8 @@ https://github.com/payloadbox/ssti-payloads
     <td>Started: <code>2020-06-27 08:43:13+00:00</code></td>
     <td>Latest: <code>2023-04-28 23:48:39+03:00</code></td></tr>
 <tr><td>Commits: <code>20</code></td>
-    <td>Stargazers: <code>705</code></td>
-    <td>Watchers: <code>705</code></td>
+    <td>Stargazers: <code>708</code></td>
+    <td>Watchers: <code>708</code></td>
     <td>Forks: <code>152</code></td></tr>
 </table>
 Keywords: code injection
@@ -49804,8 +50294,8 @@ https://github.com/payloadbox/xss-payload-list
     <td>Started: <code>2018-04-23 06:09:29+00:00</code></td>
     <td>Latest: <code>2022-10-29 12:49:04+03:00</code></td></tr>
 <tr><td>Commits: <code>51</code></td>
-    <td>Stargazers: <code>7585</code></td>
-    <td>Watchers: <code>7585</code></td>
+    <td>Stargazers: <code>7589</code></td>
+    <td>Watchers: <code>7589</code></td>
     <td>Forks: <code>1865</code></td></tr>
 </table>
 Keywords: xss
@@ -50816,8 +51306,8 @@ https://github.com/hahwul/XSpear
     <td>Started: <code>2019-07-12 14:46:28+00:00</code></td>
     <td>Latest: <code>2022-09-27 22:47:33+09:00</code></td></tr>
 <tr><td>Commits: <code>144</code></td>
-    <td>Stargazers: <code>1303</code></td>
-    <td>Watchers: <code>1303</code></td>
+    <td>Stargazers: <code>1305</code></td>
+    <td>Watchers: <code>1305</code></td>
     <td>Forks: <code>239</code></td></tr>
 </table>
 Keywords: xss
@@ -54534,9 +55024,9 @@ XSS spider - 66/66 wavsep XSS detected
     <td>Started: <code>2014-06-23 11:20:23+00:00</code></td>
     <td>Latest: <code>2022-04-25 12:15:45-04:00</code></td></tr>
 <tr><td>Commits: <code>153</code></td>
-    <td>Stargazers: <code>1722</code></td>
-    <td>Watchers: <code>1722</code></td>
-    <td>Forks: <code>446</code></td></tr>
+    <td>Stargazers: <code>1723</code></td>
+    <td>Watchers: <code>1723</code></td>
+    <td>Forks: <code>445</code></td></tr>
 </table>
 Keywords: xss
 
@@ -56910,8 +57400,8 @@ Server-Side Template Injection and Code Injection Detection and Exploitation Too
     <td>Started: <code>2016-07-06 20:33:18+00:00</code></td>
     <td>Latest: <code>2022-02-06 15:13:15+00:00</code></td></tr>
 <tr><td>Commits: <code>723</code></td>
-    <td>Stargazers: <code>4035</code></td>
-    <td>Watchers: <code>4035</code></td>
+    <td>Stargazers: <code>4037</code></td>
+    <td>Watchers: <code>4037</code></td>
     <td>Forks: <code>690</code></td></tr>
 </table>
 Keywords: code injection
@@ -57614,8 +58104,8 @@ An exhaustive list of all the possible ways you can chain your Blind SSRF vulner
     <td>Started: <code>2021-01-14 21:20:41+00:00</code></td>
     <td>Latest: <code>2021-12-31 11:08:33+11:00</code></td></tr>
 <tr><td>Commits: <code>12</code></td>
-    <td>Stargazers: <code>908</code></td>
-    <td>Watchers: <code>908</code></td>
+    <td>Stargazers: <code>909</code></td>
+    <td>Watchers: <code>909</code></td>
     <td>Forks: <code>117</code></td></tr>
 </table>
 Keywords: ssrf
@@ -58054,8 +58544,8 @@ CVE-2021-40444
     <td>Started: <code>2021-12-19 08:16:07+00:00</code></td>
     <td>Latest: <code>2021-12-19 09:27:33+01:00</code></td></tr>
 <tr><td>Commits: <code>2</code></td>
-    <td>Stargazers: <code>65</code></td>
-    <td>Watchers: <code>65</code></td>
+    <td>Stargazers: <code>66</code></td>
+    <td>Watchers: <code>66</code></td>
     <td>Forks: <code>24</code></td></tr>
 </table>
 Keywords: Microsoft remote code execution exploit, remote code execution exploit, Microsoft remote code execution
@@ -62654,7 +63144,7 @@ https://github.com/payloadbox/rfi-lfi-payload-list
 <tr><td>Commits: <code>13</code></td>
     <td>Stargazers: <code>614</code></td>
     <td>Watchers: <code>614</code></td>
-    <td>Forks: <code>207</code></td></tr>
+    <td>Forks: <code>208</code></td></tr>
 </table>
 Keywords: lfi
 
@@ -62674,9 +63164,9 @@ https://github.com/payloadbox/sql-injection-payload-list
     <td>Started: <code>2019-10-30 05:03:57+00:00</code></td>
     <td>Latest: <code>2021-06-09 20:45:57+03:00</code></td></tr>
 <tr><td>Commits: <code>16</code></td>
-    <td>Stargazers: <code>5882</code></td>
-    <td>Watchers: <code>5882</code></td>
-    <td>Forks: <code>1349</code></td></tr>
+    <td>Stargazers: <code>5883</code></td>
+    <td>Watchers: <code>5883</code></td>
+    <td>Forks: <code>1347</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -65358,9 +65848,9 @@ What is JavaScript and what does it do?   Before you start learning something ne
     <td>Started: <code>2021-01-03 00:17:37+00:00</code></td>
     <td>Latest: <code>2021-01-10 13:19:14+05:30</code></td></tr>
 <tr><td>Commits: <code>221</code></td>
-    <td>Stargazers: <code>60</code></td>
-    <td>Watchers: <code>60</code></td>
-    <td>Forks: <code>23</code></td></tr>
+    <td>Stargazers: <code>61</code></td>
+    <td>Watchers: <code>61</code></td>
+    <td>Forks: <code>22</code></td></tr>
 </table>
 Keywords: Windows use after free
 
@@ -66854,8 +67344,8 @@ This is a collection of writeups, cheatsheets, videos, books related to SSRF in 
     <td>Started: <code>2019-08-28 21:41:30+00:00</code></td>
     <td>Latest: <code>2020-09-28 10:13:19-04:00</code></td></tr>
 <tr><td>Commits: <code>37</code></td>
-    <td>Stargazers: <code>1327</code></td>
-    <td>Watchers: <code>1327</code></td>
+    <td>Stargazers: <code>1328</code></td>
+    <td>Watchers: <code>1328</code></td>
     <td>Forks: <code>236</code></td></tr>
 </table>
 Keywords: ssrf
@@ -70968,9 +71458,9 @@ W3C Strategic Highlights  September 2019  This report was prepared for the Septe
     <td>Started: <code>2019-10-28 21:50:26+00:00</code></td>
     <td>Latest: <code>2019-10-28 21:51:19+00:00</code></td></tr>
 <tr><td>Commits: <code>2</code></td>
-    <td>Stargazers: <code>116</code></td>
-    <td>Watchers: <code>116</code></td>
-    <td>Forks: <code>42</code></td></tr>
+    <td>Stargazers: <code>117</code></td>
+    <td>Watchers: <code>117</code></td>
+    <td>Forks: <code>41</code></td></tr>
 </table>
 Keywords: Chrome remote code execution exploitation, Chrome use after free exploitation, lack of input validation, use after free analysis, Microsoft remote code execution analysis, remote code execution analysis, Chrome use after free analysis, Chrome remote code execution, Microsoft use after free exploitation, use after free exploitation, Chrome use after free exploit, Microsoft use after free exploit, Microsoft use after free analysis, Microsoft remote code execution exploit, Microsoft remote code execution, Microsoft use after free, Microsoft remote code execution exploitation, Chrome remote code execution analysis, Chrome remote code execution exploit, Chrome use after free, use after free exploit
 
@@ -78668,8 +79158,8 @@ Examples of leaking Kernel Mode information from User Mode on Windows
     <td>Started: <code>2017-01-30 23:06:11+00:00</code></td>
     <td>Latest: <code>2017-07-07 11:05:33+01:00</code></td></tr>
 <tr><td>Commits: <code>69</code></td>
-    <td>Stargazers: <code>620</code></td>
-    <td>Watchers: <code>620</code></td>
+    <td>Stargazers: <code>621</code></td>
+    <td>Watchers: <code>621</code></td>
     <td>Forks: <code>161</code></td></tr>
 </table>
 Keywords: Win address leak, Windows address leak

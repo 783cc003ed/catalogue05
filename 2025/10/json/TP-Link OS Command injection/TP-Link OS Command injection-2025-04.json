@@ -515,3 +515,520 @@
     "stargazers_count": 2,
     "watchers_count": 2
 }
+{
+    "commits_count": 15,
+    "date_started": "2025-04-18",
+    "date_updated": "2025-04-29",
+    "description": "Proof of concept attack chain for SSRF to Redis RCE on a vulnerable Laravel PHP app.",
+    "forks_count": 1,
+    "html_url": "https://github.com/pythagoras-19/htb-screencrack-solution",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Blade",
+    "repo_name": "htb-screencrack-solution",
+    "repo_owner": "pythagoras-19",
+    "repotime": "2025-04-29, 16:32:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2025-04-29",
+    "date_updated": "2025-04-29",
+    "description": "Proof of concept attack chain for SSRF to Redis RCE on a vulnerable Laravel PHP app.",
+    "forks_count": 0,
+    "html_url": "https://github.com/NPNG22/htb-screencrack-solution",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Blade",
+    "repo_name": "htb-screencrack-solution",
+    "repo_owner": "NPNG22",
+    "repotime": "2025-04-29, 12:58:16",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-04-29",
+    "date_updated": "2025-04-29",
+    "description": "A python script that takes a URL as an input and searches for all the parameters and tests them against LFI payloads. Then, returns the response to the user on terminal.",
+    "forks_count": 0,
+    "html_url": "https://github.com/REVEAL1001/Local-File-Inclusion-Automation",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Local-File-Inclusion-Automation",
+    "repo_owner": "REVEAL1001",
+    "repotime": "2025-04-29, 19:07:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-04-28",
+    "date_updated": "2025-04-28",
+    "description": "A lightweight Python tool that scans for SQLi, XSS, directory traversal &amp;amp; sensitive file exposure. Helps developers/researchers identify web app vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mangesh-Bhattacharya/web-vuln-scan",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "web-vuln-scan",
+    "repo_owner": "Mangesh-Bhattacharya",
+    "repotime": "2025-04-28, 17:43:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-04-27",
+    "date_updated": "2025-04-28",
+    "description": "WebVax is a browser extension designed to detect and mitigate common client-side web vulnerabilities, including Cross-Site Scripting (XSS), SQL Injection, and Open Redirects.",
+    "forks_count": 0,
+    "html_url": "https://github.com/vishnusaipriya7/Web_Vax",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Web_Vax",
+    "repo_owner": "vishnusaipriya7",
+    "repotime": "2025-04-28, 02:18:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-27",
+    "date_updated": "2025-04-27",
+    "description": "This repository contains a proof-of-concept exploit script for CVE-2025-32432, a pre-authentication Remote Code Execution (RCE) vulnerability affecting CraftCMS versions 4.x and 5.x. The vulnerability exists in the asset transform generation feature of CraftCMS.",
+    "forks_count": 3,
+    "html_url": "https://github.com/Sachinart/CVE-2025-32432",
+    "keywords": [
+        "rce proof of concept",
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-32432",
+    "repo_owner": "Sachinart",
+    "repotime": "2025-04-27, 14:35:54",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-26",
+    "date_updated": "2025-04-26",
+    "description": "TP-Link Archer AX21 Command Injection Exploit (CVE-2023-1389)  This script exploits a command injection vulnerability in TP-Link Archer AX21 routers through the unvalidated 'country' parameter in the web interface. It allows unauthenticated attackers to execute arbitrary commands with root privileges.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ibrahimsql/CVE2023-1389",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE2023-1389",
+    "repo_owner": "ibrahimsql",
+    "repotime": "2025-04-26, 13:20:49",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 478,
+    "date_started": "2017-06-26",
+    "date_updated": "2025-04-26",
+    "description": "Most advanced XSS scanner.",
+    "forks_count": 2017,
+    "html_url": "https://github.com/s0md3v/XSStrike",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSStrike",
+    "repo_owner": "s0md3v",
+    "repotime": "2025-04-26, 14:17:06",
+    "stargazers_count": 14358,
+    "watchers_count": 14358
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-06-08",
+    "date_updated": "2025-04-26",
+    "description": "PHP RCE PoC for CVE-2024-4577 written in bash, go, python and a nuclei template",
+    "forks_count": 12,
+    "html_url": "https://github.com/ZephrFish/CVE-2024-4577-PHP-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2024-4577-PHP-RCE",
+    "repo_owner": "ZephrFish",
+    "repotime": "2025-04-26, 07:33:07",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 4,
+    "date_started": "2016-07-29",
+    "date_updated": "2025-04-26",
+    "description": "A list of various ways of injecting payloads for CSV Injection",
+    "forks_count": 5,
+    "html_url": "https://github.com/ZephrFish/CSVInjectionPayloads",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CSVInjectionPayloads",
+    "repo_owner": "ZephrFish",
+    "repotime": "2025-04-26, 07:32:53",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 13,
+    "date_started": "2024-05-06",
+    "date_updated": "2025-04-25",
+    "description": "LINKSYS AC1900 EA7500v3 IGD UPnP Stack Buffer Overflow Remote Code Execution Vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/dest-3/CVE-2023-46012",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46012",
+    "repo_owner": "dest-3",
+    "repotime": "2025-04-25, 17:16:15",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-25",
+    "date_updated": "2025-04-25",
+    "description": "get Sales data from CSV file and inject in db",
+    "forks_count": 0,
+    "html_url": "https://github.com/vimalAdithan/Data-Injection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Data-Injection",
+    "repo_owner": "vimalAdithan",
+    "repotime": "2025-04-25, 21:45:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-04-23",
+    "date_updated": "2025-04-23",
+    "description": "The goal of this project was to perform a practical penetration test of a web server running Joomla CMS version 3.7.0. The main objective was to gain initial access, escalate privileges to root, and capture the required flags using Joomla vulnerabilities and system misconfigurations.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArtemCyberLab/Project-Pentest-of-a-Web-Server-on-Joomla-CMS",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Project-Pentest-of-a-Web-Server-on-Joomla-CMS",
+    "repo_owner": "ArtemCyberLab",
+    "repotime": "2025-04-23, 20:31:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-23",
+    "date_updated": "2025-04-23",
+    "description": "Critical client-side vulnerability: full credit card data, password, and ID stored in plaintext in sessionStorage.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pkieszek/credit-card-leak-web-storage",
+    "keywords": [
+        "password plaintext storage"
+    ],
+    "language": null,
+    "repo_name": "credit-card-leak-web-storage",
+    "repo_owner": "pkieszek",
+    "repotime": "2025-04-23, 13:09:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 253,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-04-21",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 120,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-04-21, 11:07:40",
+    "stargazers_count": 401,
+    "watchers_count": 401
+}
+{
+    "commits_count": 717,
+    "date_started": "2025-04-05",
+    "date_updated": "2025-04-18",
+    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kaorast/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "keywords": [
+        "Windows remote code execution exploit",
+        "Windows remote code execution"
+    ],
+    "language": "C++",
+    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "repo_owner": "Kaorast",
+    "repotime": "2025-04-18, 06:48:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-03-29",
+    "date_updated": "2025-04-17",
+    "description": "Kairos is a next-generation, red-team-oriented Windows kernel defense neutralization framework. It combines traditional runtime patching with UEFI persistence, hypervisor-level surveillance, and Secure Kernel deception.",
+    "forks_count": 1,
+    "html_url": "https://github.com/sondernextdoor/Kairos",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "Kairos",
+    "repo_owner": "sondernextdoor",
+    "repotime": "2025-04-17, 21:42:05",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-27",
+    "date_updated": "2025-04-16",
+    "description": " Explorative Intel Gathering of EternalBlue (MS17-010) simulating exploit via Metasploit, engaging privilege escalation, and mitigation analysis. VM-VirtualBox, Windows, Event Viewer.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MichaelColburn/externalblue_exploit_exploratory_sim",
+    "keywords": [
+        "escalation of privileges exploit",
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "externalblue_exploit_exploratory_sim",
+    "repo_owner": "MichaelColburn",
+    "repotime": "2025-04-16, 17:02:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-04-16",
+    "date_updated": "2025-04-16",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/VladAndreiToma/AutomaticBot_ForCSV_PreLearn_DataInjection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "AutomaticBot_ForCSV_PreLearn_DataInjection",
+    "repo_owner": "VladAndreiToma",
+    "repotime": "2025-04-16, 22:20:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2024-11-22",
+    "date_updated": "2025-04-16",
+    "description": "This project will focus on the implementation and configuration of AWS WAF to detect and block common web application vulnerabilities such as SQL injection, Cross-Site Scripting (XSS), and Server-Side Request Forgery (SSRF) attacks. Additionally, the project will explore integration of other AWS services such as CloudWatch.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Iremidee/Project2_Leveraging_AWS_WAF_to_detect_and_block_web_application_vulnerabilities",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "Project2_Leveraging_AWS_WAF_to_detect_and_block_web_application_vulnerabilities",
+    "repo_owner": "Iremidee",
+    "repotime": "2025-04-16, 16:16:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-04-13",
+    "description": "Reconnaissance, exploitation, virtual machines, TOR, I2P, ethical hacking, penetration testing, vulnerability assessment, network monitoring, social engineering, malware analysis, reverse engineering, red teaming, cryptography, forensics, risk analysis, OSINT, buffer overflow, privilege escalation, exploit development, SQL injection, DNS spoofing",
+    "forks_count": 0,
+    "html_url": "https://github.com/aouab-benssiba/ethical_cybersec_research",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "ethical_cybersec_research",
+    "repo_owner": "aouab-benssiba",
+    "repotime": "2025-04-13, 04:38:03",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-04-10",
+    "date_updated": "2025-04-10",
+    "description": "CVE-2019-15107-Scanner is a Python-based scanner that detects vulnerable Webmin (1.890 - 1.920) servers affected by CVE-2019-15107, an unauthenticated remote code execution (RCE) vulnerability in the /password_change.cgi endpoint.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mattb709/CVE-2019-15107-Scanner",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-15107-Scanner",
+    "repo_owner": "Mattb709",
+    "repotime": "2025-04-10, 17:04:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-04-06",
+    "date_updated": "2025-04-10",
+    "description": "Code snippets to reproduce MCP tool poisoning attacks.",
+    "forks_count": 17,
+    "html_url": "https://github.com/invariantlabs-ai/mcp-injection-experiments",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "mcp-injection-experiments",
+    "repo_owner": "invariantlabs-ai",
+    "repotime": "2025-04-10, 23:37:39",
+    "stargazers_count": 182,
+    "watchers_count": 182
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-04-07",
+    "date_updated": "2025-04-06",
+    "description": "A command-line tool that scans source code for hardcoded secrets, API keys, passwords, and other sen",
+    "forks_count": 0,
+    "html_url": "https://github.com/ShadowStrikeHQ/cvs-hardcodedsecretdetector",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "cvs-hardcodedsecretdetector",
+    "repo_owner": "ShadowStrikeHQ",
+    "repotime": "2025-04-06, 23:27:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 73,
+    "date_started": "2025-02-07",
+    "date_updated": "2025-04-05",
+    "description": "Zerodayf is an advanced code analysis platform that leverages artificial intelligence &amp;amp; SAST to identify vulnerabilities within source code. ",
+    "forks_count": 5,
+    "html_url": "https://github.com/0xHamy/zerodayf",
+    "keywords": [
+        "0day vulnerability",
+        "0day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "zerodayf",
+    "repo_owner": "0xHamy",
+    "repotime": "2025-04-05, 09:35:56",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-03-15",
+    "date_updated": "2025-04-04",
+    "description": "Deliberately vulnerable Flask app for ethical hacking practice  includes SQLi, XSS, CSRF, and weak session flaws.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sachinskyte/zomato-victim",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "zomato-victim",
+    "repo_owner": "sachinskyte",
+    "repotime": "2025-04-04, 17:59:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-08",
+    "date_updated": "2025-04-04",
+    "description": "AI-Powered GPT Web Vulnerability Scanner Detects security flaws (directory traversal, command injection) through context-aware payloads and GPT-assisted analysis, prioritizing ethical scanning with rate-limiting and safe testing protocols.",
+    "forks_count": 1,
+    "html_url": "https://github.com/RicheByte/PentestGPT",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PentestGPT",
+    "repo_owner": "RicheByte",
+    "repotime": "2025-04-04, 00:22:53",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 29,
+    "date_started": "2025-04-03",
+    "date_updated": "2025-04-03",
+    "description": "🔍 BeEF Browser Exploitation – Ethical Hacking Demonstrates browser exploitation using BeEF to hook and control vulnerable browsers. Includes session hijacking, keylogging, phishing, and Metasploit integration.  ⚠️ For educational purposes only.  🔹 Tools: BeEF, Metasploit, Bettercap 🔹 Techniques: MITM, payload execution, social engineering",
+    "forks_count": 1,
+    "html_url": "https://github.com/PaarthAsri/beef-exploitation",
+    "keywords": [
+        "session hijacking vulnerability",
+        "session vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "beef-exploitation",
+    "repo_owner": "PaarthAsri",
+    "repotime": "2025-04-03, 10:45:48",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-03-23",
+    "date_updated": "2025-04-01",
+    "description": "An advanced red team exploitation framework featuring payload generation, direct syscall injection, protocol fuzzing, and memory manipulation. Built for real operators.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Aviral2642/ZeroDayForge",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroDayForge",
+    "repo_owner": "Aviral2642",
+    "repotime": "2025-04-01, 21:06:46",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-06-03",
+    "date_updated": "2025-04-01",
+    "description": "Script to slope-correct values of CH4 and CO2 measured via MGGA. Gas concentration is measured via injection loop and MGGA; either low change from baseline (~15ppb) or too low in general (&amp;lt; atmospheric levels, eqeal to &amp;lt; 1.9ppm) needs to be slope-corrected. Samples processed in parallel. Input files: sample-period-times.csv, mgga-time-ch4-co2.csv.",
+    "forks_count": 1,
+    "html_url": "https://github.com/veverusha/mgga-postanalysis",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "R",
+    "repo_name": "mgga-postanalysis",
+    "repo_owner": "veverusha",
+    "repotime": "2025-04-01, 11:54:25",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}

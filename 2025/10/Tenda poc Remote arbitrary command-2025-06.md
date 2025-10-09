@@ -203,6 +203,28 @@ Keywords: control flow guard bypass
 ---
 
 # GitHub search -> Tenda poc Remote arbitrary command
+# KEV
+
+https://github.com/Ostorlab/KEV
+<blockquote>
+Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Ostorlab</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2022-04-19 08:58:42+00:00</code></td>
+    <td>Latest: <code>2025-10-08 09:52:14+01:00</code></td></tr>
+<tr><td>Commits: <code>726</code></td>
+    <td>Stargazers: <code>588</code></td>
+    <td>Watchers: <code>588</code></td>
+    <td>Forks: <code>42</code></td></tr>
+</table>
+Keywords: 0day vulnerability, 0day exploitation, 0day exploit
+
+---
+
+# GitHub search -> Tenda poc Remote arbitrary command
 # TOP
 
 https://github.com/GhostTroops/TOP
@@ -348,9 +370,9 @@ Automatic SQL injection and database takeover tool
     <td>Started: <code>2012-06-26 09:52:15+00:00</code></td>
     <td>Latest: <code>2025-10-07 10:48:16+02:00</code></td></tr>
 <tr><td>Commits: <code>10457</code></td>
-    <td>Stargazers: <code>35459</code></td>
-    <td>Watchers: <code>35459</code></td>
-    <td>Forks: <code>6065</code></td></tr>
+    <td>Stargazers: <code>35464</code></td>
+    <td>Watchers: <code>35464</code></td>
+    <td>Forks: <code>6066</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -722,8 +744,8 @@ A tool designed to exploit a privilege escalation vulnerability in the sudo prog
     <td>Started: <code>2018-12-07 21:08:02+00:00</code></td>
     <td>Latest: <code>2025-10-03 12:13:04+02:00</code></td></tr>
 <tr><td>Commits: <code>561</code></td>
-    <td>Stargazers: <code>2372</code></td>
-    <td>Watchers: <code>2372</code></td>
+    <td>Stargazers: <code>2373</code></td>
+    <td>Watchers: <code>2373</code></td>
     <td>Forks: <code>260</code></td></tr>
 </table>
 Keywords: escalation of privileges exploit, escalation of privileges vulnerability, escalation of privileges exploitation
@@ -832,8 +854,8 @@ Command line tool to edit resources of exe
     <td>Started: <code>2013-11-05 11:13:21+00:00</code></td>
     <td>Latest: <code>2025-10-01 22:11:46-07:00</code></td></tr>
 <tr><td>Commits: <code>197</code></td>
-    <td>Stargazers: <code>1959</code></td>
-    <td>Watchers: <code>1959</code></td>
+    <td>Stargazers: <code>1960</code></td>
+    <td>Watchers: <code>1960</code></td>
     <td>Forks: <code>207</code></td></tr>
 </table>
 Keywords: Windows rce
@@ -942,8 +964,8 @@ https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS
     <td>Started: <code>2024-05-03 21:27:59+00:00</code></td>
     <td>Latest: <code>2025-09-30 11:17:59+03:00</code></td></tr>
 <tr><td>Commits: <code>25</code></td>
-    <td>Stargazers: <code>299</code></td>
-    <td>Watchers: <code>299</code></td>
+    <td>Stargazers: <code>300</code></td>
+    <td>Watchers: <code>300</code></td>
     <td>Forks: <code>52</code></td></tr>
 </table>
 Keywords: 0day vulnerability
@@ -1365,28 +1387,6 @@ Comprehensive Godot testing framework with multi-dimensional validation. Feature
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: memory leak analysis
-
----
-
-# GitHub search -> Tenda poc Remote arbitrary command
-# KEV
-
-https://github.com/Ostorlab/KEV
-<blockquote>
-Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>Ostorlab</code></td>
-    <td>Language: <code>None</code></td>
-    <td>Started: <code>2022-04-19 08:58:42+00:00</code></td>
-    <td>Latest: <code>2025-09-22 18:03:42+01:00</code></td></tr>
-<tr><td>Commits: <code>721</code></td>
-    <td>Stargazers: <code>587</code></td>
-    <td>Watchers: <code>587</code></td>
-    <td>Forks: <code>41</code></td></tr>
-</table>
-Keywords: 0day vulnerability, 0day exploitation, 0day exploit
 
 ---
 
@@ -2812,9 +2812,9 @@ TypeScript clients for databases that prevent SQL Injection
     <td>Started: <code>2018-12-19 16:31:39+00:00</code></td>
     <td>Latest: <code>2025-08-20 11:11:16+01:00</code></td></tr>
 <tr><td>Commits: <code>232</code></td>
-    <td>Stargazers: <code>627</code></td>
-    <td>Watchers: <code>627</code></td>
-    <td>Forks: <code>46</code></td></tr>
+    <td>Stargazers: <code>628</code></td>
+    <td>Watchers: <code>628</code></td>
+    <td>Forks: <code>48</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -3450,9 +3450,9 @@ https://github.com/OWASP/QRLJacking
     <td>Started: <code>2016-07-11 23:00:06+00:00</code></td>
     <td>Latest: <code>2025-08-07 15:07:19-06:00</code></td></tr>
 <tr><td>Commits: <code>222</code></td>
-    <td>Stargazers: <code>1444</code></td>
-    <td>Watchers: <code>1444</code></td>
-    <td>Forks: <code>652</code></td></tr>
+    <td>Stargazers: <code>1445</code></td>
+    <td>Watchers: <code>1445</code></td>
+    <td>Forks: <code>653</code></td></tr>
 </table>
 Keywords: session hijacking attack, session attack, session hijacking
 
@@ -3868,8 +3868,8 @@ The best tool for finding one gadget RCE in libc.so.6
     <td>Started: <code>2017-02-07 08:03:34+00:00</code></td>
     <td>Latest: <code>2025-08-01 09:37:24+08:00</code></td></tr>
 <tr><td>Commits: <code>320</code></td>
-    <td>Stargazers: <code>2236</code></td>
-    <td>Watchers: <code>2236</code></td>
+    <td>Stargazers: <code>2237</code></td>
+    <td>Watchers: <code>2237</code></td>
     <td>Forks: <code>145</code></td></tr>
 </table>
 Keywords: rce exploit
@@ -10072,8 +10072,8 @@ HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux
     <td>Started: <code>2015-05-28 08:24:56+00:00</code></td>
     <td>Latest: <code>2025-02-24 17:49:16+05:30</code></td></tr>
 <tr><td>Commits: <code>176</code></td>
-    <td>Stargazers: <code>2829</code></td>
-    <td>Watchers: <code>2829</code></td>
+    <td>Stargazers: <code>2830</code></td>
+    <td>Watchers: <code>2830</code></td>
     <td>Forks: <code>567</code></td></tr>
 </table>
 Keywords: vulnerability, Windows uaf vulnerability, uaf exploitation, Windows uaf exploitation, uaf vulnerability, Windows uaf
@@ -18850,8 +18850,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5878</code></td>
-    <td>Watchers: <code>5878</code></td>
+    <td>Stargazers: <code>5881</code></td>
+    <td>Watchers: <code>5881</code></td>
     <td>Forks: <code>705</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -19158,8 +19158,8 @@ OWASP Joomla Vulnerability Scanner Project https://www.secologist.com/
     <td>Started: <code>2016-09-01 09:06:17+00:00</code></td>
     <td>Latest: <code>2023-11-30 08:32:25+01:00</code></td></tr>
 <tr><td>Commits: <code>84</code></td>
-    <td>Stargazers: <code>1142</code></td>
-    <td>Watchers: <code>1142</code></td>
+    <td>Stargazers: <code>1143</code></td>
+    <td>Watchers: <code>1143</code></td>
     <td>Forks: <code>247</code></td></tr>
 </table>
 Keywords: 0day exploit, 0day vulnerability
@@ -19928,8 +19928,8 @@ https://github.com/voku/anti-xss
     <td>Started: <code>2015-03-12 19:45:11+00:00</code></td>
     <td>Latest: <code>2023-09-04 17:36:40+02:00</code></td></tr>
 <tr><td>Commits: <code>588</code></td>
-    <td>Stargazers: <code>698</code></td>
-    <td>Watchers: <code>698</code></td>
+    <td>Stargazers: <code>699</code></td>
+    <td>Watchers: <code>699</code></td>
     <td>Forks: <code>109</code></td></tr>
 </table>
 Keywords: xss
@@ -21446,8 +21446,8 @@ https://github.com/payloadbox/ssti-payloads
     <td>Started: <code>2020-06-27 08:43:13+00:00</code></td>
     <td>Latest: <code>2023-04-28 23:48:39+03:00</code></td></tr>
 <tr><td>Commits: <code>20</code></td>
-    <td>Stargazers: <code>705</code></td>
-    <td>Watchers: <code>705</code></td>
+    <td>Stargazers: <code>708</code></td>
+    <td>Watchers: <code>708</code></td>
     <td>Forks: <code>152</code></td></tr>
 </table>
 Keywords: code injection
@@ -24878,8 +24878,8 @@ https://github.com/hahwul/XSpear
     <td>Started: <code>2019-07-12 14:46:28+00:00</code></td>
     <td>Latest: <code>2022-09-27 22:47:33+09:00</code></td></tr>
 <tr><td>Commits: <code>144</code></td>
-    <td>Stargazers: <code>1303</code></td>
-    <td>Watchers: <code>1303</code></td>
+    <td>Stargazers: <code>1305</code></td>
+    <td>Watchers: <code>1305</code></td>
     <td>Forks: <code>239</code></td></tr>
 </table>
 Keywords: xss
@@ -27078,9 +27078,9 @@ XSS spider - 66/66 wavsep XSS detected
     <td>Started: <code>2014-06-23 11:20:23+00:00</code></td>
     <td>Latest: <code>2022-04-25 12:15:45-04:00</code></td></tr>
 <tr><td>Commits: <code>153</code></td>
-    <td>Stargazers: <code>1722</code></td>
-    <td>Watchers: <code>1722</code></td>
-    <td>Forks: <code>446</code></td></tr>
+    <td>Stargazers: <code>1723</code></td>
+    <td>Watchers: <code>1723</code></td>
+    <td>Forks: <code>445</code></td></tr>
 </table>
 Keywords: xss
 
@@ -27870,8 +27870,8 @@ A fast DOM based XSS vulnerability scanner with simplicity.
     <td>Started: <code>2020-04-11 15:45:46+00:00</code></td>
     <td>Latest: <code>2022-03-02 22:50:42+07:00</code></td></tr>
 <tr><td>Commits: <code>32</code></td>
-    <td>Stargazers: <code>822</code></td>
-    <td>Watchers: <code>822</code></td>
+    <td>Stargazers: <code>823</code></td>
+    <td>Watchers: <code>823</code></td>
     <td>Forks: <code>112</code></td></tr>
 </table>
 Keywords: xss
@@ -28222,8 +28222,8 @@ Server-Side Template Injection and Code Injection Detection and Exploitation Too
     <td>Started: <code>2016-07-06 20:33:18+00:00</code></td>
     <td>Latest: <code>2022-02-06 15:13:15+00:00</code></td></tr>
 <tr><td>Commits: <code>723</code></td>
-    <td>Stargazers: <code>4035</code></td>
-    <td>Watchers: <code>4035</code></td>
+    <td>Stargazers: <code>4037</code></td>
+    <td>Watchers: <code>4037</code></td>
     <td>Forks: <code>690</code></td></tr>
 </table>
 Keywords: code injection
@@ -28596,8 +28596,8 @@ An exhaustive list of all the possible ways you can chain your Blind SSRF vulner
     <td>Started: <code>2021-01-14 21:20:41+00:00</code></td>
     <td>Latest: <code>2021-12-31 11:08:33+11:00</code></td></tr>
 <tr><td>Commits: <code>12</code></td>
-    <td>Stargazers: <code>908</code></td>
-    <td>Watchers: <code>908</code></td>
+    <td>Stargazers: <code>909</code></td>
+    <td>Watchers: <code>909</code></td>
     <td>Forks: <code>117</code></td></tr>
 </table>
 Keywords: ssrf
@@ -30996,7 +30996,7 @@ https://github.com/payloadbox/rfi-lfi-payload-list
 <tr><td>Commits: <code>13</code></td>
     <td>Stargazers: <code>614</code></td>
     <td>Watchers: <code>614</code></td>
-    <td>Forks: <code>207</code></td></tr>
+    <td>Forks: <code>208</code></td></tr>
 </table>
 Keywords: lfi
 
@@ -31016,9 +31016,9 @@ https://github.com/payloadbox/sql-injection-payload-list
     <td>Started: <code>2019-10-30 05:03:57+00:00</code></td>
     <td>Latest: <code>2021-06-09 20:45:57+03:00</code></td></tr>
 <tr><td>Commits: <code>16</code></td>
-    <td>Stargazers: <code>5882</code></td>
-    <td>Watchers: <code>5882</code></td>
-    <td>Forks: <code>1349</code></td></tr>
+    <td>Stargazers: <code>5883</code></td>
+    <td>Watchers: <code>5883</code></td>
+    <td>Forks: <code>1347</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -39464,8 +39464,8 @@ Examples of leaking Kernel Mode information from User Mode on Windows
     <td>Started: <code>2017-01-30 23:06:11+00:00</code></td>
     <td>Latest: <code>2017-07-07 11:05:33+01:00</code></td></tr>
 <tr><td>Commits: <code>69</code></td>
-    <td>Stargazers: <code>620</code></td>
-    <td>Watchers: <code>620</code></td>
+    <td>Stargazers: <code>621</code></td>
+    <td>Watchers: <code>621</code></td>
     <td>Forks: <code>161</code></td></tr>
 </table>
 Keywords: Win address leak, Windows address leak

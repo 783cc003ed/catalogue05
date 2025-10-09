@@ -52,3 +52,57 @@
     "stargazers_count": 88,
     "watchers_count": 88
 }
+{
+    "commits_count": 71,
+    "date_started": "2013-08-14",
+    "date_updated": "2020-06-22",
+    "description": "Screencast code, script and rainbows behind &amp;quot;Dependency Injection and the art of services and containers&amp;quot;",
+    "forks_count": 7,
+    "html_url": "https://github.com/knpuniversity/dependency-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PHP",
+    "repo_name": "dependency-injection",
+    "repo_owner": "knpuniversity",
+    "repotime": "2020-06-22, 14:28:31",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-03-07",
+    "date_updated": "2020-06-16",
+    "description": "Spring Boot Actuator (jolokia) XXE/RCE",
+    "forks_count": 57,
+    "html_url": "https://github.com/mpgn/Spring-Boot-Actuator-Exploit",
+    "keywords": [
+        "rce exploit",
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "Spring-Boot-Actuator-Exploit",
+    "repo_owner": "mpgn",
+    "repotime": "2020-06-16, 23:24:05",
+    "stargazers_count": 322,
+    "watchers_count": 322
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-06-01",
+    "date_updated": "2020-06-02",
+    "description": "PoC exploit for VMware Cloud Director RCE (CVE-2020-3956)",
+    "forks_count": 31,
+    "html_url": "https://github.com/aaronsvk/CVE-2020-3956",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-3956",
+    "repo_owner": "aaronsvk",
+    "repotime": "2020-06-02, 10:30:22",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}

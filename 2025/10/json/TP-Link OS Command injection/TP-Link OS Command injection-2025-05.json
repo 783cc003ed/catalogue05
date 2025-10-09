@@ -616,3 +616,621 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 154,
+    "date_started": "2025-01-26",
+    "date_updated": "2025-05-31",
+    "description": "all my zero days exploits",
+    "forks_count": 3,
+    "html_url": "https://github.com/shiky8/zero_days",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "zero_days",
+    "repo_owner": "shiky8",
+    "repotime": "2025-05-31, 23:56:16",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-05-29",
+    "date_updated": "2025-05-30",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/levanacohen/csv-injection-cloudtrail-attack",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Go",
+    "repo_name": "csv-injection-cloudtrail-attack",
+    "repo_owner": "levanacohen",
+    "repotime": "2025-05-30, 02:16:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2024-08-06",
+    "date_updated": "2025-05-28",
+    "description": "Logsign Unified SecOps Platform Exploit Proof of Concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/sevbandonmez/Logsign-RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Ruby",
+    "repo_name": "Logsign-RCE",
+    "repo_owner": "sevbandonmez",
+    "repotime": "2025-05-28, 15:57:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 68,
+    "date_started": "2025-04-14",
+    "date_updated": "2025-05-28",
+    "description": "A collection of labs, tools, and study materials for OSCP exam preparation. Includes practice environments, scripts, and resources for enumeration, exploitation, and privilege escalation to help master penetration testing skills.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xD13/OSCP-Prep-Guide",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "OSCP-Prep-Guide",
+    "repo_owner": "0xD13",
+    "repotime": "2025-05-28, 09:20:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 29,
+    "date_started": "2020-04-27",
+    "date_updated": "2025-05-27",
+    "description": "Websites Vulnerability Scanner ",
+    "forks_count": 14,
+    "html_url": "https://github.com/Err0r-ICA/SCANter",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "SCANter",
+    "repo_owner": "Err0r-ICA",
+    "repotime": "2025-05-27, 03:05:00",
+    "stargazers_count": 72,
+    "watchers_count": 72
+}
+{
+    "commits_count": 26,
+    "date_started": "2025-01-06",
+    "date_updated": "2025-05-23",
+    "description": "Exploiter X is a powerful web vulnerability scanner designed to automate the detection of various security flaws in web applications. It can identify vulnerabilities like SQL Injection, XSS, CSRF, Directory Traversal, and more. Simple to use, it helps secure web applications by identifying potential weaknesses.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ajay-Bommidi/Exploiter-X",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Exploiter-X",
+    "repo_owner": "Ajay-Bommidi",
+    "repotime": "2025-05-23, 14:07:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 28,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-05-22",
+    "description": "Welcome to the official community of ZAPISEC – a cutting-edge SaaS-based Generative AI–powered Application Firewall and API Security Platform. ZAPISEC is engineered to secure modern web applications against evolving threats like bot attacks, API abuse, zero-day exploits, and DDoS.",
+    "forks_count": 0,
+    "html_url": "https://github.com/spartancyberultron/zapisec-community",
+    "keywords": [
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "zapisec-community",
+    "repo_owner": "spartancyberultron",
+    "repotime": "2025-05-22, 19:56:26",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-05-22",
+    "description": "A Python-based tool for detecting and visualizing web attacks like brute force, SQLi, XSS, and path traversal. It supports synthetic log generation and real-time detection with basic visualizations. Rule-based logic and limited format support make it ideal for learning or small projects, but not for production use.",
+    "forks_count": 0,
+    "html_url": "https://github.com/secjoseph/web-log-analyzer",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "web-log-analyzer",
+    "repo_owner": "secjoseph",
+    "repotime": "2025-05-22, 00:21:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-05-22",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/puneetkeshri95/zero-day-exploit",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "zero-day-exploit",
+    "repo_owner": "puneetkeshri95",
+    "repotime": "2025-05-22, 00:49:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-05-20",
+    "date_updated": "2025-05-20",
+    "description": "A secure expense tracker built with Django. Visualizes user-generated financial data with charts and dashboards. Hardened against injection and data exposure. Includes CSV export, optional mock encryption, and audit checklist for sensitive data handling.",
+    "forks_count": 0,
+    "html_url": "https://github.com/wehr-to/django-expense-tracker-secured",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "django-expense-tracker-secured",
+    "repo_owner": "wehr-to",
+    "repotime": "2025-05-20, 23:17:00",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-12",
+    "date_updated": "2025-05-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/breatheco-de/capture-flag-local-file-inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "capture-flag-local-file-inclusion",
+    "repo_owner": "breatheco-de",
+    "repotime": "2025-05-19, 16:07:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-05-28",
+    "date_updated": "2025-05-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/davidalvk/capture-flag-local-file-inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "capture-flag-local-file-inclusion",
+    "repo_owner": "davidalvk",
+    "repotime": "2025-05-19, 16:07:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-18",
+    "date_updated": "2025-05-18",
+    "description": "This exam evaluated our ability to develop, test, and integrate advanced Java applications, focusing  on working with CSV data, dependency injection, JPA, REST, and optimization. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/victor-alago/Java_Microservices_Finals",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Java",
+    "repo_name": "Java_Microservices_Finals",
+    "repo_owner": "victor-alago",
+    "repotime": "2025-05-18, 17:42:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-16",
+    "date_updated": "2025-05-17",
+    "description": "Professional VAPT report identifying and analyzing security vulnerabilities in web applications, including SQL Injection, XSS, and Session Management flaws. Includes CVSS-based risk classification and mitigation strategies.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sajithkumars-0/VAPT-report",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "VAPT-report",
+    "repo_owner": "sajithkumars-0",
+    "repotime": "2025-05-17, 02:40:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-06-03",
+    "date_updated": "2025-05-15",
+    "description": "A repository containing exploit code / zero-day research I've worked on. ",
+    "forks_count": 2,
+    "html_url": "https://github.com/kwburns/CVE",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE",
+    "repo_owner": "kwburns",
+    "repotime": "2025-05-15, 12:40:28",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 41,
+    "date_started": "2025-04-07",
+    "date_updated": "2025-05-15",
+    "description": "The aim of this assignment is for your group to code a secure and usable web-based blog system that mitigates, at a minimum, the five most common security vulnerabilities of account enumeration, session hijacking, SQL injection, cross-site scripting and cross- site request forgery",
+    "forks_count": 0,
+    "html_url": "https://github.com/D2cxld/Secure-Development-Project",
+    "keywords": [
+        "session hijacking vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Secure-Development-Project",
+    "repo_owner": "D2cxld",
+    "repotime": "2025-05-15, 14:12:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-05-15",
+    "description": "It is a basic Vulnerabilty Scanner which scans websites for SQL,XSS,Path traversal etc",
+    "forks_count": 0,
+    "html_url": "https://github.com/NealParmar/Web_Vulnerability_Scanner",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Web_Vulnerability_Scanner",
+    "repo_owner": "NealParmar",
+    "repotime": "2025-05-15, 14:46:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 34,
+    "date_started": "2019-01-29",
+    "date_updated": "2025-05-14",
+    "description": "The Serverless Blind XSS App",
+    "forks_count": 135,
+    "html_url": "https://github.com/mazen160/xless",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xless",
+    "repo_owner": "mazen160",
+    "repotime": "2025-05-14, 00:05:40",
+    "stargazers_count": 339,
+    "watchers_count": 339
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-05-14",
+    "date_updated": "2025-05-14",
+    "description": "SIA Multi is a no-code desktop app designed to streamline stock image creation by automating prompt generation in bulk from structured CSV inputs.  It is a variant of the Stock Idea Assistant (SIA) with support for multi-line prompt injection, allowing users to batch-generate diverse AI prompts based on CSV task rows",
+    "forks_count": 0,
+    "html_url": "https://github.com/MLT-solutions/SIA2-Multi",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "SIA2-Multi",
+    "repo_owner": "MLT-solutions",
+    "repotime": "2025-05-14, 13:15:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2025-05-10",
+    "date_updated": "2025-05-13",
+    "description": "Gitlab XSS &amp;amp; CSP Bypass on Commit Page - ATO - POC Code - Bug Bounty",
+    "forks_count": 0,
+    "html_url": "https://github.com/justas-b1/gitlab-xss",
+    "keywords": [
+        "zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "gitlab-xss",
+    "repo_owner": "justas-b1",
+    "repotime": "2025-05-13, 14:43:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 66,
+    "date_started": "2023-10-09",
+    "date_updated": "2025-05-12",
+    "description": "Proof of Concept for RCE and information leakage on vulnerable AXIS Network Cameras",
+    "forks_count": 0,
+    "html_url": "https://github.com/mascencerro/axis-rce",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "axis-rce",
+    "repo_owner": "mascencerro",
+    "repotime": "2025-05-12, 17:49:42",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-10",
+    "date_updated": "2025-05-10",
+    "description": "Penetration testing of a vulnerable Linux-based Publisher VM using Nmap, OpenVAS, SPIP RCE, and privilege escalation techniques with tools like Burp Suite, Hydra, and Metasploit.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kaif9711/Comprehensive-Penetration-Testing-on-Publisher-Linux-System-",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Comprehensive-Penetration-Testing-on-Publisher-Linux-System-",
+    "repo_owner": "kaif9711",
+    "repotime": "2025-05-10, 18:40:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-10",
+    "date_updated": "2025-05-10",
+    "description": "This case study analyzed a stealthy host-based compromise in which the attacker exploited the trusted Windows binary mshta.exe to execute a remotely hosted, obfuscated JavaScript payload. The attacker’s strategy was notable not for brute force or privilege escalation, but for quiet persistence and clever abuse of native system behavior.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Compcode1/ioc3-obfuscated-script-mshta",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "ioc3-obfuscated-script-mshta",
+    "repo_owner": "Compcode1",
+    "repotime": "2025-05-10, 11:35:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 63,
+    "date_started": "2017-07-23",
+    "date_updated": "2025-05-10",
+    "description": "A ruby gem for defending against Server Side Request Forgery (SSRF) attacks",
+    "forks_count": 32,
+    "html_url": "https://github.com/arkadiyt/ssrf_filter",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Ruby",
+    "repo_name": "ssrf_filter",
+    "repo_owner": "arkadiyt",
+    "repotime": "2025-05-10, 11:14:56",
+    "stargazers_count": 89,
+    "watchers_count": 89
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-08",
+    "date_updated": "2025-05-09",
+    "description": "A proof-of-concept for the CVE-2021-25646, which allows for Command Injection",
+    "forks_count": 0,
+    "html_url": "https://github.com/tiemio/RCE-PoC-CVE-2021-25646",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Go",
+    "repo_name": "RCE-PoC-CVE-2021-25646",
+    "repo_owner": "tiemio",
+    "repotime": "2025-05-09, 09:19:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1550,
+    "date_started": "2012-07-18",
+    "date_updated": "2025-05-09",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 436,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2025-05-09, 01:37:35",
+    "stargazers_count": 1688,
+    "watchers_count": 1688
+}
+{
+    "commits_count": 16,
+    "date_started": "2025-05-07",
+    "date_updated": "2025-05-08",
+    "description": "The goal of this project was to complete the TryHackMe CTF room &amp;quot;What's Your Name?&amp;quot;. The main objective was to identify an XSS vulnerability and use it to hijack the moderator's session cookie in order to access restricted sections of the website and retrieve both flags.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArtemCyberLab/Project-What-s-Your-Name-XSS-and-Session-Hijacking",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Project-What-s-Your-Name-XSS-and-Session-Hijacking",
+    "repo_owner": "ArtemCyberLab",
+    "repotime": "2025-05-08, 18:16:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-04-20",
+    "date_updated": "2025-05-07",
+    "description": "The goal of this project is to perform a penetration test on a vulnerable Windows system, leveraging Jenkins vulnerabilities for initial access and then escalating privileges to SYSTEM level. The ultimate aim is to retrieve the root.txt flag as proof of successful exploitation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArtemCyberLab/Project-Penetration-Testing-Based-on-Jenkins-Vulnerabilities",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "Project-Penetration-Testing-Based-on-Jenkins-Vulnerabilities",
+    "repo_owner": "ArtemCyberLab",
+    "repotime": "2025-05-07, 20:34:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-05-07",
+    "date_updated": "2025-05-07",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/tkeyz1/PICOCTF-Challenge-2021-Remote-Code-Execution-Vulnerability-on-windows-in-2021.",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": null,
+    "repo_name": "PICOCTF-Challenge-2021-Remote-Code-Execution-Vulnerability-on-windows-in-2021.",
+    "repo_owner": "tkeyz1",
+    "repotime": "2025-05-07, 22:07:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 55,
+    "date_started": "2024-05-14",
+    "date_updated": "2025-05-05",
+    "description": "WordPress Auto Admin Account Creation and Reverse Shell cve-2024-27956 automates the process of creating a new administrator account in a WordPress site and executing a reverse shell on the target server. It utilizes the wp-automatic plugin's CSV injection vulnerability to execute SQL queries",
+    "forks_count": 28,
+    "html_url": "https://github.com/AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956",
+    "keywords": [
+        "Windows rce",
+        "csv injection",
+        "Windows rce vulnerability",
+        "Windows rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956",
+    "repo_owner": "AiGptCode",
+    "repotime": "2025-05-05, 17:16:21",
+    "stargazers_count": 110,
+    "watchers_count": 110
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-05-03",
+    "date_updated": "2025-05-03",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/TalhaKircili/CSV-Injection-PoC",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CSV-Injection-PoC",
+    "repo_owner": "TalhaKircili",
+    "repotime": "2025-05-03, 15:10:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 42,
+    "date_started": "2025-03-04",
+    "date_updated": "2025-05-03",
+    "description": "A collection of concise notes for the Hack The Box Certified Penetration Testing Specialist (HTB CPTS) exam. Covers enumeration, exploitation, web attacks, privilege escalation, Active Directory, and post-exploitation. Includes essential commands and a cheat sheet for quick reference.",
+    "forks_count": 1,
+    "html_url": "https://github.com/ShortGiant13/HTB-CPTS-Notes",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "HTB-CPTS-Notes",
+    "repo_owner": "ShortGiant13",
+    "repotime": "2025-05-03, 17:25:46",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 35,
+    "date_started": "2025-05-01",
+    "date_updated": "2025-05-02",
+    "description": "An Advanced Web Application Firewall that protects against threats like SQL injection and XSS by filtering HTTP traffic. It combines signature-based detection and machine learning-based anomaly detection to identify obfuscated, zero-day, and unknown attacks through behavioral analysis.",
+    "forks_count": 5,
+    "html_url": "https://github.com/Piyush-2975/Advanced-WAF-WAFinity",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "Advanced-WAF-WAFinity",
+    "repo_owner": "Piyush-2975",
+    "repotime": "2025-05-02, 17:12:56",
+    "stargazers_count": 34,
+    "watchers_count": 34
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-05-01",
+    "date_updated": "2025-05-01",
+    "description": "XML External Entity Injec",
+    "forks_count": 0,
+    "html_url": "https://github.com/M4rgs/xxe-injection",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "xxe-injection",
+    "repo_owner": "M4rgs",
+    "repotime": "2025-05-01, 05:06:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-04-30",
+    "date_updated": "2025-05-01",
+    "description": "&amp;quot;A Python-based network packet sniffer with GUI, injection, anomaly detection, and export tools.&amp;quot;  &amp;quot;Real-time packet sniffer with PyQt5 GUI, injection, traffic graphs, and export formats (YAML/CSV).&amp;quot;  &amp;quot;Network analysis and injection tool with PyQt GUI, live traffic graphs, and export support.&amp;quot;",
+    "forks_count": 1,
+    "html_url": "https://github.com/Aditya1534/pyqt-network-sniffer",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "pyqt-network-sniffer",
+    "repo_owner": "Aditya1534",
+    "repotime": "2025-05-01, 02:37:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-04-30",
+    "date_updated": "2025-05-01",
+    "description": "Stock Market App is a modern Android app built with MVI architecture, using Retrofit for API calls, Room for local caching, OpenCSV for CSV parsing, and Hilt (Dagger) for dependency injection. It shows a list of stocks and detailed info with clean, cryptic-themed UI.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Siddhanth0/StockMarketApp",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "StockMarketApp",
+    "repo_owner": "Siddhanth0",
+    "repotime": "2025-05-01, 02:14:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

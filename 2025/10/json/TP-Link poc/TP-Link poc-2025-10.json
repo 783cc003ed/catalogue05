@@ -1,4 +1,23 @@
 {
+    "commits_count": 726,
+    "date_started": "2022-04-19",
+    "date_updated": "2025-10-08",
+    "description": "Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.",
+    "forks_count": 42,
+    "html_url": "https://github.com/Ostorlab/KEV",
+    "keywords": [
+        "0day vulnerability",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "KEV",
+    "repo_owner": "Ostorlab",
+    "repotime": "2025-10-08, 09:52:14",
+    "stargazers_count": 588,
+    "watchers_count": 588
+}
+{
     "commits_count": 1330,
     "date_started": "2022-03-19",
     "date_updated": "2025-10-08",
@@ -172,8 +191,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-10-07, 10:48:16",
-    "stargazers_count": 35459,
-    "watchers_count": 35459
+    "stargazers_count": 35463,
+    "watchers_count": 35463
 }
 {
     "commits_count": 3,
@@ -297,8 +316,363 @@
     "repo_name": "SUDO_KILLER",
     "repo_owner": "TH3xACE",
     "repotime": "2025-10-03, 12:13:04",
-    "stargazers_count": 2372,
-    "watchers_count": 2372
+    "stargazers_count": 2373,
+    "watchers_count": 2373
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-10-01",
+    "date_updated": "2025-10-01",
+    "description": "PoC exploit for SyncBreeze 10.0.28 buffer overflow vulnerability, demonstrating DEP bypass using WriteProcessMemory (WPM)",
+    "forks_count": 0,
+    "html_url": "https://github.com/thekeym4ker/SyncBreeze-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Python",
+    "repo_name": "SyncBreeze-DEP-Bypass",
+    "repo_owner": "thekeym4ker",
+    "repotime": "2025-10-01, 19:18:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2096,
+    "date_started": "2020-04-12",
+    "date_updated": "2025-10-01",
+    "description": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
+    "forks_count": 500,
+    "html_url": "https://github.com/hahwul/dalfox",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Go",
+    "repo_name": "dalfox",
+    "repo_owner": "hahwul",
+    "repotime": "2025-10-01, 16:53:30",
+    "stargazers_count": 4588,
+    "watchers_count": 4588
+}
+{
+    "commits_count": 726,
+    "date_started": "2022-04-19",
+    "date_updated": "2025-10-08",
+    "description": "Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.",
+    "forks_count": 42,
+    "html_url": "https://github.com/Ostorlab/KEV",
+    "keywords": [
+        "0day vulnerability",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "KEV",
+    "repo_owner": "Ostorlab",
+    "repotime": "2025-10-08, 09:52:14",
+    "stargazers_count": 588,
+    "watchers_count": 588
+}
+{
+    "commits_count": 1330,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-10-08",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 122,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-10-08, 01:08:13",
+    "stargazers_count": 705,
+    "watchers_count": 705
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-10-07",
+    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
+    "keywords": [
+        "lpe poc",
+        "escalation of privileges poc"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463_chwoot",
+    "repo_owner": "ashardev002",
+    "repotime": "2025-10-07, 20:13:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 126,
+    "date_started": "2025-05-24",
+    "date_updated": "2025-10-07",
+    "description": "WebKit Heap Use-After-Free Proof-of-Concept (PoC) https://dark-life944.github.io/poc/",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dark-life944/poc",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "poc",
+    "repo_owner": "Dark-life944",
+    "repotime": "2025-10-07, 13:15:37",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-09-26",
+    "date_updated": "2025-10-07",
+    "description": "🛠️ Reproduce and validate CVE-2025-3515 by setting up a Dockerized WordPress lab for testing unrestricted file uploads in a vulnerable plugin.",
+    "forks_count": 0,
+    "html_url": "https://github.com/robertskimengote/lab-cve-2025-3515",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Shell",
+    "repo_name": "lab-cve-2025-3515",
+    "repo_owner": "robertskimengote",
+    "repotime": "2025-10-07, 17:33:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 39,
+    "date_started": "2025-06-14",
+    "date_updated": "2025-10-07",
+    "description": "🛠️ Exploit Microsoft SharePoint WebPart Injection vulnerabilities for .NET deserialization and remote code execution using ToolPane.aspx.",
+    "forks_count": 0,
+    "html_url": "https://github.com/yashz0007/CVE-2025-53770-Exploit",
+    "keywords": [
+        "Microsoft remote code execution exploit",
+        "Microsoft remote code execution",
+        "Microsoft remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-53770-Exploit",
+    "repo_owner": "yashz0007",
+    "repotime": "2025-10-07, 14:59:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2025-05-27",
+    "date_updated": "2025-10-07",
+    "description": "🛠️ Explore the CVE-2025-5777 memory leak vulnerability in Citrix NetScaler, illustrating the risks of uninitialized memory in parsing malformed POST data.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Lakiya673/CVE-2025-5777",
+    "keywords": [
+        "memory leak exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-5777",
+    "repo_owner": "Lakiya673",
+    "repotime": "2025-10-07, 14:58:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-06-23",
+    "date_updated": "2025-10-07",
+    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "sureshkumarsat",
+    "repotime": "2025-10-07, 14:53:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-10-07",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-10-07, 17:15:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-10-07",
+    "description": "🛠️ Reproduce and validate CVE-2025-3515 in a Dockerized WordPress lab to test unrestricted file uploads via the Contact Form 7 plugin.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MrSoules/lab-cve-2025-3515",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Shell",
+    "repo_name": "lab-cve-2025-3515",
+    "repo_owner": "MrSoules",
+    "repotime": "2025-10-07, 04:13:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10457,
+    "date_started": "2012-06-26",
+    "date_updated": "2025-10-07",
+    "description": "Automatic SQL injection and database takeover tool",
+    "forks_count": 6066,
+    "html_url": "https://github.com/sqlmapproject/sqlmap",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmap",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2025-10-07, 10:48:16",
+    "stargazers_count": 35464,
+    "watchers_count": 35464
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-10-07",
+    "description": "1day practice - Escape macOS sandbox (partial) using RemoteViewServices",
+    "forks_count": 1,
+    "html_url": "https://github.com/BODE987/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape vulnerability",
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Objective-C",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "BODE987",
+    "repotime": "2025-10-07, 10:43:25",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 11,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-10-06",
+    "description": "🛡️ Exploit Akamai's RepositoryService XXE vulnerability (CVE-2025-49493) with this testbed, aiding in secure coding practices and vulnerability assessments.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Soham-id/2025hvv",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "2025hvv",
+    "repo_owner": "Soham-id",
+    "repotime": "2025-10-06, 20:14:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2025-05-17",
+    "date_updated": "2025-10-06",
+    "description": "CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by a malicious audio file via iMessage/SMS. Exploitation bypassed Blastdoor, enabled kernel escalation (CVE-2025-31201), and allowed token theft until patched in iOS 18.4.1 (Apr 16, 2025).",
+    "forks_count": 1,
+    "html_url": "https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
+    "keywords": [
+        "rce disclosure",
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
+    "repo_owner": "JGoyd",
+    "repotime": "2025-10-06, 14:31:05",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 180,
+    "date_started": "2025-08-10",
+    "date_updated": "2025-10-06",
+    "description": "🔐 Cybersecurity Lab Reports &amp;amp; CTF Write-ups – Reconnaissance, exploitation, privilege escalation, and mitigation strategies 🛠️ | My curated archive of hacking challenges, vulnerability assessments, and hands-on security research 📂",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nish344/CTF-walkthroughs",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CTF-walkthroughs",
+    "repo_owner": "Nish344",
+    "repotime": "2025-10-06, 15:45:31",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-10-06",
+    "date_updated": "2025-10-06",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/anmol5936/Proof-of-Concept--PoC---CWE-918-Server-Side-Request-Forgery--SSRF--in-jackson-databind",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Java",
+    "repo_name": "Proof-of-Concept--PoC---CWE-918-Server-Side-Request-Forgery--SSRF--in-jackson-databind",
+    "repo_owner": "anmol5936",
+    "repotime": "2025-10-06, 16:27:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2025-08-23",
+    "date_updated": "2025-10-05",
+    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
+    "forks_count": 4,
+    "html_url": "https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": null,
+    "repo_name": "Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
+    "repo_owner": "JGoyd",
+    "repotime": "2025-10-05, 12:49:47",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 561,
+    "date_started": "2018-12-07",
+    "date_updated": "2025-10-03",
+    "description": "A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.",
+    "forks_count": 260,
+    "html_url": "https://github.com/TH3xACE/SUDO_KILLER",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploitation"
+    ],
+    "language": "Shell",
+    "repo_name": "SUDO_KILLER",
+    "repo_owner": "TH3xACE",
+    "repotime": "2025-10-03, 12:13:04",
+    "stargazers_count": 2373,
+    "watchers_count": 2373
 }
 {
     "commits_count": 4,

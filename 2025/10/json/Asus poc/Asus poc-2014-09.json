@@ -15,3 +15,20 @@
     "stargazers_count": 87,
     "watchers_count": 87
 }
+{
+    "commits_count": 4,
+    "date_started": "2014-09-29",
+    "date_updated": "2014-09-30",
+    "description": "Spoofs a DHCP server and exploits all clients vulnerable to the 'ShellShock' bug",
+    "forks_count": 28,
+    "html_url": "https://github.com/byt3bl33d3r/DHCPShock",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "DHCPShock",
+    "repo_owner": "byt3bl33d3r",
+    "repotime": "2014-09-30, 22:48:08",
+    "stargazers_count": 87,
+    "watchers_count": 87
+}

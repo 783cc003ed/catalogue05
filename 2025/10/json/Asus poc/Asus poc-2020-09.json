@@ -12,8 +12,149 @@
     "repo_name": "AllThingsSSRF",
     "repo_owner": "jdonsec",
     "repotime": "2020-09-28, 10:13:19",
-    "stargazers_count": 1327,
-    "watchers_count": 1327
+    "stargazers_count": 1328,
+    "watchers_count": 1328
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-09-27",
+    "date_updated": "2020-09-27",
+    "description": "Proof-of-Concept for a Session Replay Attack",
+    "forks_count": 0,
+    "html_url": "https://github.com/websecnl/Session_Replay_Attack",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Session_Replay_Attack",
+    "repo_owner": "websecnl",
+    "repotime": "2020-09-27, 14:56:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2018-08-24",
+    "date_updated": "2020-09-21",
+    "description": "Simple poc of CVE-2018-8414 Windows Package Setting RCE Vulnerability",
+    "forks_count": 4,
+    "html_url": "https://github.com/whereisr0da/CVE-2018-8414-POC",
+    "keywords": [
+        "Windows rce",
+        "Windows rce poc",
+        "Windows rce vulnerability",
+        "rce vulnerability",
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-8414-POC",
+    "repo_owner": "whereisr0da",
+    "repotime": "2020-09-21, 17:58:39",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-09-11",
+    "date_updated": "2020-09-11",
+    "description": "通达OA RCE",
+    "forks_count": 7,
+    "html_url": "https://github.com/wikiZ/tongda-exp-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "tongda-exp-poc",
+    "repo_owner": "wikiZ",
+    "repotime": "2020-09-11, 22:54:21",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 15,
+    "date_started": "2019-03-14",
+    "date_updated": "2020-09-07",
+    "description": "SAP Gateway RCE exploits",
+    "forks_count": 44,
+    "html_url": "https://github.com/chipik/SAP_GW_RCE_exploit",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "SAP_GW_RCE_exploit",
+    "repo_owner": "chipik",
+    "repotime": "2020-09-07, 16:46:03",
+    "stargazers_count": 156,
+    "watchers_count": 156
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-08-06",
+    "date_updated": "2020-09-07",
+    "description": "Yaws web server XML external entity injection POC ",
+    "forks_count": 1,
+    "html_url": "https://github.com/vulnbe/poc-yaws-dav-xxe",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "poc-yaws-dav-xxe",
+    "repo_owner": "vulnbe",
+    "repotime": "2020-09-07, 00:17:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-08-29",
+    "date_updated": "2020-09-05",
+    "description": "Tool to test for existence of CVE-2020-8218",
+    "forks_count": 13,
+    "html_url": "https://github.com/withdk/pulse-gosecure-rce-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "pulse-gosecure-rce-poc",
+    "repo_owner": "withdk",
+    "repotime": "2020-09-05, 11:35:23",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-09-02",
+    "date_updated": "2020-09-02",
+    "description": "This repo describe how to exploit unrestricted file upload vulnerability on SiteMagic CMS 4.4.2",
+    "forks_count": 0,
+    "html_url": "https://github.com/V1n1v131r4/Unrestricted-File-Upload-on-SiteMagic-CMS-4.4.2",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Unrestricted-File-Upload-on-SiteMagic-CMS-4.4.2",
+    "repo_owner": "V1n1v131r4",
+    "repotime": "2020-09-02, 16:32:45",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 37,
+    "date_started": "2019-08-28",
+    "date_updated": "2020-09-28",
+    "description": "This is a collection of writeups, cheatsheets, videos, books related to SSRF in one single location",
+    "forks_count": 236,
+    "html_url": "https://github.com/jdonsec/AllThingsSSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "AllThingsSSRF",
+    "repo_owner": "jdonsec",
+    "repotime": "2020-09-28, 10:13:19",
+    "stargazers_count": 1328,
+    "watchers_count": 1328
 }
 {
     "commits_count": 2,

@@ -168,3 +168,173 @@
     "stargazers_count": 43,
     "watchers_count": 43
 }
+{
+    "commits_count": 7,
+    "date_started": "2018-03-12",
+    "date_updated": "2018-10-29",
+    "description": "CSV injection Sanitizer written in Go",
+    "forks_count": 1,
+    "html_url": "https://github.com/joanbono/GOCiS",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Go",
+    "repo_name": "GOCiS",
+    "repo_owner": "joanbono",
+    "repotime": "2018-10-29, 17:05:08",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-10-25",
+    "date_updated": "2018-10-25",
+    "description": "<no description>",
+    "forks_count": 37,
+    "html_url": "https://github.com/hackping/XXEpayload",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "XXEpayload",
+    "repo_owner": "hackping",
+    "repotime": "2018-10-25, 11:03:02",
+    "stargazers_count": 85,
+    "watchers_count": 85
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-02-21",
+    "date_updated": "2018-10-23",
+    "description": "PoC for detecting and dumping code injection (built and extended on UnRunPE)",
+    "forks_count": 23,
+    "html_url": "https://github.com/NtRaiseHardError/Dreadnought",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "Dreadnought",
+    "repo_owner": "NtRaiseHardError",
+    "repotime": "2018-10-23, 11:03:36",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-02-21",
+    "date_updated": "2018-10-23",
+    "description": "PoC for detecting and dumping process hollowing code injection",
+    "forks_count": 27,
+    "html_url": "https://github.com/NtRaiseHardError/UnRunPE",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "UnRunPE",
+    "repo_owner": "NtRaiseHardError",
+    "repotime": "2018-10-23, 11:03:09",
+    "stargazers_count": 52,
+    "watchers_count": 52
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-10-16",
+    "date_updated": "2018-10-16",
+    "description": "XML External Entity Injection（XXE）",
+    "forks_count": 0,
+    "html_url": "https://github.com/fancwei/xxe",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Java",
+    "repo_name": "xxe",
+    "repo_owner": "fancwei",
+    "repotime": "2018-10-16, 19:41:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-10-15",
+    "date_updated": "2018-10-16",
+    "description": "XXE injection (file disclosure) exploit for Apache OFBiz &amp;lt; 16.11.04",
+    "forks_count": 5,
+    "html_url": "https://github.com/jamieparfet/Apache-OFBiz-XXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "Apache-OFBiz-XXE",
+    "repo_owner": "jamieparfet",
+    "repotime": "2018-10-16, 08:58:39",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 132,
+    "date_started": "2012-03-05",
+    "date_updated": "2018-10-12",
+    "description": "Chrome extension Exploitation Framework",
+    "forks_count": 106,
+    "html_url": "https://github.com/koto/xsschef",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xsschef",
+    "repo_owner": "koto",
+    "repotime": "2018-10-12, 21:57:14",
+    "stargazers_count": 573,
+    "watchers_count": 573
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-03-01",
+    "date_updated": "2018-10-06",
+    "description": "Kong plugin for detection of SQL injections and XSS code",
+    "forks_count": 9,
+    "html_url": "https://github.com/ror6ax/kong_injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Lua",
+    "repo_name": "kong_injection",
+    "repo_owner": "ror6ax",
+    "repotime": "2018-10-06, 20:07:47",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 25,
+    "date_started": "2017-12-14",
+    "date_updated": "2018-10-05",
+    "description": "Simple SQL injection filter that attempts to detect malicious SQL strings from a pre-defined dataset.  Note this tool does not carry out sanitisation of input, where input is transformed into something that conforms to a specification.  Check out the README for more.",
+    "forks_count": 8,
+    "html_url": "https://github.com/stu17682/sql-injection-filter",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "sql-injection-filter",
+    "repo_owner": "stu17682",
+    "repotime": "2018-10-05, 12:25:38",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 13,
+    "date_started": "2017-10-06",
+    "date_updated": "2018-10-02",
+    "description": "Code injection by hijacking threads in Windows 32-bit applications",
+    "forks_count": 14,
+    "html_url": "https://github.com/johnsonjason/Remote-Thread-Executor",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "Remote-Thread-Executor",
+    "repo_owner": "johnsonjason",
+    "repotime": "2018-10-02, 20:18:44",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}

@@ -125,6 +125,28 @@ In March 2024, a critical zero-click vulnerability identified as CVE-2024-20017 
 ---
 
 # GitHub search -> NETGEAR poc zero-click
+# KEV
+
+https://github.com/Ostorlab/KEV
+<blockquote>
+Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Ostorlab</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2022-04-19 08:58:42+00:00</code></td>
+    <td>Latest: <code>2025-10-08 09:52:14+01:00</code></td></tr>
+<tr><td>Commits: <code>726</code></td>
+    <td>Stargazers: <code>588</code></td>
+    <td>Watchers: <code>588</code></td>
+    <td>Forks: <code>42</code></td></tr>
+</table>
+Keywords: 0day vulnerability, 0day exploitation, 0day exploit
+
+---
+
+# GitHub search -> NETGEAR poc zero-click
 # TOP
 
 https://github.com/GhostTroops/TOP
@@ -468,8 +490,8 @@ A tool designed to exploit a privilege escalation vulnerability in the sudo prog
     <td>Started: <code>2018-12-07 21:08:02+00:00</code></td>
     <td>Latest: <code>2025-10-03 12:13:04+02:00</code></td></tr>
 <tr><td>Commits: <code>561</code></td>
-    <td>Stargazers: <code>2372</code></td>
-    <td>Watchers: <code>2372</code></td>
+    <td>Stargazers: <code>2373</code></td>
+    <td>Watchers: <code>2373</code></td>
     <td>Forks: <code>260</code></td></tr>
 </table>
 Keywords: escalation of privileges exploit, escalation of privileges vulnerability, escalation of privileges exploitation
@@ -534,8 +556,8 @@ https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS
     <td>Started: <code>2024-05-03 21:27:59+00:00</code></td>
     <td>Latest: <code>2025-09-30 11:17:59+03:00</code></td></tr>
 <tr><td>Commits: <code>25</code></td>
-    <td>Stargazers: <code>299</code></td>
-    <td>Watchers: <code>299</code></td>
+    <td>Stargazers: <code>300</code></td>
+    <td>Watchers: <code>300</code></td>
     <td>Forks: <code>52</code></td></tr>
 </table>
 Keywords: 0day vulnerability
@@ -741,28 +763,6 @@ Keywords: zero-day poc, zero-day analysis
 ---
 
 # GitHub search -> NETGEAR poc zero-click
-# KEV
-
-https://github.com/Ostorlab/KEV
-<blockquote>
-Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>Ostorlab</code></td>
-    <td>Language: <code>None</code></td>
-    <td>Started: <code>2022-04-19 08:58:42+00:00</code></td>
-    <td>Latest: <code>2025-09-22 18:03:42+01:00</code></td></tr>
-<tr><td>Commits: <code>721</code></td>
-    <td>Stargazers: <code>587</code></td>
-    <td>Watchers: <code>587</code></td>
-    <td>Forks: <code>41</code></td></tr>
-</table>
-Keywords: 0day vulnerability, 0day exploitation, 0day exploit
-
----
-
-# GitHub search -> NETGEAR poc zero-click
 # Announcement-board-dayasri
 
 https://github.com/Dayasri19/Announcement-board-dayasri
@@ -930,9 +930,9 @@ CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS d
     <td>Started: <code>2018-07-17 00:21:08+00:00</code></td>
     <td>Latest: <code>2025-09-18 09:44:41-05:00</code></td></tr>
 <tr><td>Commits: <code>745</code></td>
-    <td>Stargazers: <code>3347</code></td>
-    <td>Watchers: <code>3347</code></td>
-    <td>Forks: <code>699</code></td></tr>
+    <td>Stargazers: <code>3348</code></td>
+    <td>Watchers: <code>3348</code></td>
+    <td>Forks: <code>702</code></td></tr>
 </table>
 Keywords: by_owner
 
@@ -1370,8 +1370,8 @@ This repository provides a modified version of the original CVE-2017-6074 exploi
     <td>Started: <code>2025-09-03 11:21:28+00:00</code></td>
     <td>Latest: <code>2025-09-03 15:38:29+02:00</code></td></tr>
 <tr><td>Commits: <code>5</code></td>
-    <td>Stargazers: <code>0</code></td>
-    <td>Watchers: <code>0</code></td>
+    <td>Stargazers: <code>1</code></td>
+    <td>Watchers: <code>1</code></td>
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: use after free exploit
@@ -12480,8 +12480,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5878</code></td>
-    <td>Watchers: <code>5878</code></td>
+    <td>Stargazers: <code>5881</code></td>
+    <td>Watchers: <code>5881</code></td>
     <td>Forks: <code>705</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -13690,8 +13690,8 @@ https://github.com/voku/anti-xss
     <td>Started: <code>2015-03-12 19:45:11+00:00</code></td>
     <td>Latest: <code>2023-09-04 17:36:40+02:00</code></td></tr>
 <tr><td>Commits: <code>588</code></td>
-    <td>Stargazers: <code>698</code></td>
-    <td>Watchers: <code>698</code></td>
+    <td>Stargazers: <code>699</code></td>
+    <td>Watchers: <code>699</code></td>
     <td>Forks: <code>109</code></td></tr>
 </table>
 Keywords: xss
@@ -23282,8 +23282,8 @@ An exhaustive list of all the possible ways you can chain your Blind SSRF vulner
     <td>Started: <code>2021-01-14 21:20:41+00:00</code></td>
     <td>Latest: <code>2021-12-31 11:08:33+11:00</code></td></tr>
 <tr><td>Commits: <code>12</code></td>
-    <td>Stargazers: <code>908</code></td>
-    <td>Watchers: <code>908</code></td>
+    <td>Stargazers: <code>909</code></td>
+    <td>Watchers: <code>909</code></td>
     <td>Forks: <code>117</code></td></tr>
 </table>
 Keywords: ssrf
@@ -26516,8 +26516,8 @@ This is a collection of writeups, cheatsheets, videos, books related to SSRF in 
     <td>Started: <code>2019-08-28 21:41:30+00:00</code></td>
     <td>Latest: <code>2020-09-28 10:13:19-04:00</code></td></tr>
 <tr><td>Commits: <code>37</code></td>
-    <td>Stargazers: <code>1327</code></td>
-    <td>Watchers: <code>1327</code></td>
+    <td>Stargazers: <code>1328</code></td>
+    <td>Watchers: <code>1328</code></td>
     <td>Forks: <code>236</code></td></tr>
 </table>
 Keywords: ssrf

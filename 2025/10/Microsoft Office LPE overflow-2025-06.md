@@ -413,6 +413,28 @@ Keywords: control flow guard bypass
 ---
 
 # GitHub search -> Microsoft Office LPE overflow
+# KEV
+
+https://github.com/Ostorlab/KEV
+<blockquote>
+Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Ostorlab</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2022-04-19 08:58:42+00:00</code></td>
+    <td>Latest: <code>2025-10-08 09:52:14+01:00</code></td></tr>
+<tr><td>Commits: <code>726</code></td>
+    <td>Stargazers: <code>588</code></td>
+    <td>Watchers: <code>588</code></td>
+    <td>Forks: <code>42</code></td></tr>
+</table>
+Keywords: 0day vulnerability, 0day exploitation, 0day exploit
+
+---
+
+# GitHub search -> Microsoft Office LPE overflow
 # TOP
 
 https://github.com/GhostTroops/TOP
@@ -470,9 +492,9 @@ Automatic SQL injection and database takeover tool
     <td>Started: <code>2012-06-26 09:52:15+00:00</code></td>
     <td>Latest: <code>2025-10-07 10:48:16+02:00</code></td></tr>
 <tr><td>Commits: <code>10457</code></td>
-    <td>Stargazers: <code>35459</code></td>
-    <td>Watchers: <code>35459</code></td>
-    <td>Forks: <code>6065</code></td></tr>
+    <td>Stargazers: <code>35464</code></td>
+    <td>Watchers: <code>35464</code></td>
+    <td>Forks: <code>6066</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -624,8 +646,8 @@ https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS
     <td>Started: <code>2024-05-03 21:27:59+00:00</code></td>
     <td>Latest: <code>2025-09-30 11:17:59+03:00</code></td></tr>
 <tr><td>Commits: <code>25</code></td>
-    <td>Stargazers: <code>299</code></td>
-    <td>Watchers: <code>299</code></td>
+    <td>Stargazers: <code>300</code></td>
+    <td>Watchers: <code>300</code></td>
     <td>Forks: <code>52</code></td></tr>
 </table>
 Keywords: 0day vulnerability
@@ -695,28 +717,6 @@ xxe漏洞靶场
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: xxe
-
----
-
-# GitHub search -> Microsoft Office LPE overflow
-# KEV
-
-https://github.com/Ostorlab/KEV
-<blockquote>
-Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>Ostorlab</code></td>
-    <td>Language: <code>None</code></td>
-    <td>Started: <code>2022-04-19 08:58:42+00:00</code></td>
-    <td>Latest: <code>2025-09-22 18:03:42+01:00</code></td></tr>
-<tr><td>Commits: <code>721</code></td>
-    <td>Stargazers: <code>587</code></td>
-    <td>Watchers: <code>587</code></td>
-    <td>Forks: <code>41</code></td></tr>
-</table>
-Keywords: 0day vulnerability, 0day exploitation, 0day exploit
 
 ---
 
@@ -1284,9 +1284,9 @@ TypeScript clients for databases that prevent SQL Injection
     <td>Started: <code>2018-12-19 16:31:39+00:00</code></td>
     <td>Latest: <code>2025-08-20 11:11:16+01:00</code></td></tr>
 <tr><td>Commits: <code>232</code></td>
-    <td>Stargazers: <code>627</code></td>
-    <td>Watchers: <code>627</code></td>
-    <td>Forks: <code>46</code></td></tr>
+    <td>Stargazers: <code>628</code></td>
+    <td>Watchers: <code>628</code></td>
+    <td>Forks: <code>48</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -2978,8 +2978,8 @@ HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux
     <td>Started: <code>2015-05-28 08:24:56+00:00</code></td>
     <td>Latest: <code>2025-02-24 17:49:16+05:30</code></td></tr>
 <tr><td>Commits: <code>176</code></td>
-    <td>Stargazers: <code>2829</code></td>
-    <td>Watchers: <code>2829</code></td>
+    <td>Stargazers: <code>2830</code></td>
+    <td>Watchers: <code>2830</code></td>
     <td>Forks: <code>567</code></td></tr>
 </table>
 Keywords: vulnerability, Windows uaf vulnerability, uaf exploitation, Windows uaf exploitation, uaf vulnerability, Windows uaf
@@ -4958,8 +4958,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5878</code></td>
-    <td>Watchers: <code>5878</code></td>
+    <td>Stargazers: <code>5881</code></td>
+    <td>Watchers: <code>5881</code></td>
     <td>Forks: <code>705</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -7818,8 +7818,8 @@ https://github.com/firesunCN/BlueLotus_XSSReceiver
     <td>Started: <code>2015-10-12 06:37:45+00:00</code></td>
     <td>Latest: <code>2022-05-24 00:13:20+08:00</code></td></tr>
 <tr><td>Commits: <code>46</code></td>
-    <td>Stargazers: <code>1600</code></td>
-    <td>Watchers: <code>1600</code></td>
+    <td>Stargazers: <code>1601</code></td>
+    <td>Watchers: <code>1601</code></td>
     <td>Forks: <code>988</code></td></tr>
 </table>
 Keywords: xss
@@ -8896,9 +8896,9 @@ What is JavaScript and what does it do?   Before you start learning something ne
     <td>Started: <code>2021-01-03 00:17:37+00:00</code></td>
     <td>Latest: <code>2021-01-10 13:19:14+05:30</code></td></tr>
 <tr><td>Commits: <code>221</code></td>
-    <td>Stargazers: <code>60</code></td>
-    <td>Watchers: <code>60</code></td>
-    <td>Forks: <code>23</code></td></tr>
+    <td>Stargazers: <code>61</code></td>
+    <td>Watchers: <code>61</code></td>
+    <td>Forks: <code>22</code></td></tr>
 </table>
 Keywords: Windows use after free
 
@@ -11541,6 +11541,28 @@ Keywords: control flow guard bypass
 ---
 
 # GitHub search -> Microsoft Office LPE overflow
+# KEV
+
+https://github.com/Ostorlab/KEV
+<blockquote>
+Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
+</blockquote>
+
+<table><tr>
+<tr><td>Owner: <code>Ostorlab</code></td>
+    <td>Language: <code>None</code></td>
+    <td>Started: <code>2022-04-19 08:58:42+00:00</code></td>
+    <td>Latest: <code>2025-10-08 09:52:14+01:00</code></td></tr>
+<tr><td>Commits: <code>726</code></td>
+    <td>Stargazers: <code>588</code></td>
+    <td>Watchers: <code>588</code></td>
+    <td>Forks: <code>42</code></td></tr>
+</table>
+Keywords: 0day vulnerability, 0day exploitation, 0day exploit
+
+---
+
+# GitHub search -> Microsoft Office LPE overflow
 # TOP
 
 https://github.com/GhostTroops/TOP
@@ -11598,9 +11620,9 @@ Automatic SQL injection and database takeover tool
     <td>Started: <code>2012-06-26 09:52:15+00:00</code></td>
     <td>Latest: <code>2025-10-07 10:48:16+02:00</code></td></tr>
 <tr><td>Commits: <code>10457</code></td>
-    <td>Stargazers: <code>35459</code></td>
-    <td>Watchers: <code>35459</code></td>
-    <td>Forks: <code>6065</code></td></tr>
+    <td>Stargazers: <code>35464</code></td>
+    <td>Watchers: <code>35464</code></td>
+    <td>Forks: <code>6066</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -11752,8 +11774,8 @@ https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS
     <td>Started: <code>2024-05-03 21:27:59+00:00</code></td>
     <td>Latest: <code>2025-09-30 11:17:59+03:00</code></td></tr>
 <tr><td>Commits: <code>25</code></td>
-    <td>Stargazers: <code>299</code></td>
-    <td>Watchers: <code>299</code></td>
+    <td>Stargazers: <code>300</code></td>
+    <td>Watchers: <code>300</code></td>
     <td>Forks: <code>52</code></td></tr>
 </table>
 Keywords: 0day vulnerability
@@ -11823,28 +11845,6 @@ xxe漏洞靶场
     <td>Forks: <code>0</code></td></tr>
 </table>
 Keywords: xxe
-
----
-
-# GitHub search -> Microsoft Office LPE overflow
-# KEV
-
-https://github.com/Ostorlab/KEV
-<blockquote>
-Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
-</blockquote>
-
-<table><tr>
-<tr><td>Owner: <code>Ostorlab</code></td>
-    <td>Language: <code>None</code></td>
-    <td>Started: <code>2022-04-19 08:58:42+00:00</code></td>
-    <td>Latest: <code>2025-09-22 18:03:42+01:00</code></td></tr>
-<tr><td>Commits: <code>721</code></td>
-    <td>Stargazers: <code>587</code></td>
-    <td>Watchers: <code>587</code></td>
-    <td>Forks: <code>41</code></td></tr>
-</table>
-Keywords: 0day vulnerability, 0day exploitation, 0day exploit
 
 ---
 
@@ -12412,9 +12412,9 @@ TypeScript clients for databases that prevent SQL Injection
     <td>Started: <code>2018-12-19 16:31:39+00:00</code></td>
     <td>Latest: <code>2025-08-20 11:11:16+01:00</code></td></tr>
 <tr><td>Commits: <code>232</code></td>
-    <td>Stargazers: <code>627</code></td>
-    <td>Watchers: <code>627</code></td>
-    <td>Forks: <code>46</code></td></tr>
+    <td>Stargazers: <code>628</code></td>
+    <td>Watchers: <code>628</code></td>
+    <td>Forks: <code>48</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -14106,8 +14106,8 @@ HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux
     <td>Started: <code>2015-05-28 08:24:56+00:00</code></td>
     <td>Latest: <code>2025-02-24 17:49:16+05:30</code></td></tr>
 <tr><td>Commits: <code>176</code></td>
-    <td>Stargazers: <code>2829</code></td>
-    <td>Watchers: <code>2829</code></td>
+    <td>Stargazers: <code>2830</code></td>
+    <td>Watchers: <code>2830</code></td>
     <td>Forks: <code>567</code></td></tr>
 </table>
 Keywords: vulnerability, Windows uaf vulnerability, uaf exploitation, Windows uaf exploitation, uaf vulnerability, Windows uaf
@@ -16086,8 +16086,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5878</code></td>
-    <td>Watchers: <code>5878</code></td>
+    <td>Stargazers: <code>5881</code></td>
+    <td>Watchers: <code>5881</code></td>
     <td>Forks: <code>705</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -18946,8 +18946,8 @@ https://github.com/firesunCN/BlueLotus_XSSReceiver
     <td>Started: <code>2015-10-12 06:37:45+00:00</code></td>
     <td>Latest: <code>2022-05-24 00:13:20+08:00</code></td></tr>
 <tr><td>Commits: <code>46</code></td>
-    <td>Stargazers: <code>1600</code></td>
-    <td>Watchers: <code>1600</code></td>
+    <td>Stargazers: <code>1601</code></td>
+    <td>Watchers: <code>1601</code></td>
     <td>Forks: <code>988</code></td></tr>
 </table>
 Keywords: xss
@@ -20024,9 +20024,9 @@ What is JavaScript and what does it do?   Before you start learning something ne
     <td>Started: <code>2021-01-03 00:17:37+00:00</code></td>
     <td>Latest: <code>2021-01-10 13:19:14+05:30</code></td></tr>
 <tr><td>Commits: <code>221</code></td>
-    <td>Stargazers: <code>60</code></td>
-    <td>Watchers: <code>60</code></td>
-    <td>Forks: <code>23</code></td></tr>
+    <td>Stargazers: <code>61</code></td>
+    <td>Watchers: <code>61</code></td>
+    <td>Forks: <code>22</code></td></tr>
 </table>
 Keywords: Windows use after free
 

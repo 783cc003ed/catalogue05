@@ -896,9 +896,9 @@ TypeScript clients for databases that prevent SQL Injection
     <td>Started: <code>2018-12-19 16:31:39+00:00</code></td>
     <td>Latest: <code>2025-08-20 11:11:16+01:00</code></td></tr>
 <tr><td>Commits: <code>232</code></td>
-    <td>Stargazers: <code>627</code></td>
-    <td>Watchers: <code>627</code></td>
-    <td>Forks: <code>46</code></td></tr>
+    <td>Stargazers: <code>628</code></td>
+    <td>Watchers: <code>628</code></td>
+    <td>Forks: <code>48</code></td></tr>
 </table>
 Keywords: sql injection
 
@@ -1072,9 +1072,9 @@ https://github.com/OWASP/QRLJacking
     <td>Started: <code>2016-07-11 23:00:06+00:00</code></td>
     <td>Latest: <code>2025-08-07 15:07:19-06:00</code></td></tr>
 <tr><td>Commits: <code>222</code></td>
-    <td>Stargazers: <code>1444</code></td>
-    <td>Watchers: <code>1444</code></td>
-    <td>Forks: <code>652</code></td></tr>
+    <td>Stargazers: <code>1445</code></td>
+    <td>Watchers: <code>1445</code></td>
+    <td>Forks: <code>653</code></td></tr>
 </table>
 Keywords: session hijacking attack, session attack, session hijacking
 
@@ -1864,8 +1864,8 @@ HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux
     <td>Started: <code>2015-05-28 08:24:56+00:00</code></td>
     <td>Latest: <code>2025-02-24 17:49:16+05:30</code></td></tr>
 <tr><td>Commits: <code>176</code></td>
-    <td>Stargazers: <code>2829</code></td>
-    <td>Watchers: <code>2829</code></td>
+    <td>Stargazers: <code>2830</code></td>
+    <td>Watchers: <code>2830</code></td>
     <td>Forks: <code>567</code></td></tr>
 </table>
 Keywords: vulnerability, Windows uaf vulnerability, uaf exploitation, Windows uaf exploitation, uaf vulnerability, Windows uaf
@@ -2700,8 +2700,8 @@ Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password cra
     <td>Started: <code>2022-06-20 03:11:08+00:00</code></td>
     <td>Latest: <code>2023-12-21 22:03:12+08:00</code></td></tr>
 <tr><td>Commits: <code>1152</code></td>
-    <td>Stargazers: <code>5878</code></td>
-    <td>Watchers: <code>5878</code></td>
+    <td>Stargazers: <code>5881</code></td>
+    <td>Watchers: <code>5881</code></td>
     <td>Forks: <code>705</code></td></tr>
 </table>
 Keywords: 0day poc
@@ -4658,8 +4658,8 @@ https://github.com/hahwul/XSpear
     <td>Started: <code>2019-07-12 14:46:28+00:00</code></td>
     <td>Latest: <code>2022-09-27 22:47:33+09:00</code></td></tr>
 <tr><td>Commits: <code>144</code></td>
-    <td>Stargazers: <code>1303</code></td>
-    <td>Watchers: <code>1303</code></td>
+    <td>Stargazers: <code>1305</code></td>
+    <td>Watchers: <code>1305</code></td>
     <td>Forks: <code>239</code></td></tr>
 </table>
 Keywords: xss
@@ -4988,9 +4988,9 @@ XSS spider - 66/66 wavsep XSS detected
     <td>Started: <code>2014-06-23 11:20:23+00:00</code></td>
     <td>Latest: <code>2022-04-25 12:15:45-04:00</code></td></tr>
 <tr><td>Commits: <code>153</code></td>
-    <td>Stargazers: <code>1722</code></td>
-    <td>Watchers: <code>1722</code></td>
-    <td>Forks: <code>446</code></td></tr>
+    <td>Stargazers: <code>1723</code></td>
+    <td>Watchers: <code>1723</code></td>
+    <td>Forks: <code>445</code></td></tr>
 </table>
 Keywords: xss
 
@@ -6968,8 +6968,8 @@ Examples of leaking Kernel Mode information from User Mode on Windows
     <td>Started: <code>2017-01-30 23:06:11+00:00</code></td>
     <td>Latest: <code>2017-07-07 11:05:33+01:00</code></td></tr>
 <tr><td>Commits: <code>69</code></td>
-    <td>Stargazers: <code>620</code></td>
-    <td>Watchers: <code>620</code></td>
+    <td>Stargazers: <code>621</code></td>
+    <td>Watchers: <code>621</code></td>
     <td>Forks: <code>161</code></td></tr>
 </table>
 Keywords: Win address leak, Windows address leak

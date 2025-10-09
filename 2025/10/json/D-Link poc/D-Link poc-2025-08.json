@@ -790,3 +790,795 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 13,
+    "date_started": "2025-08-30",
+    "date_updated": "2025-08-29",
+    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
+    "forks_count": 0,
+    "html_url": "https://github.com/5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": null,
+    "repo_name": "glass-cage-i18-2025-24085-and-cve-2025-24201",
+    "repo_owner": "5ky9uy",
+    "repotime": "2025-08-29, 20:20:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 176,
+    "date_started": "2019-10-02",
+    "date_updated": "2025-08-28",
+    "description": "This repository contains all the XSS cheatsheet data to allow contributions from the community.",
+    "forks_count": 87,
+    "html_url": "https://github.com/PortSwigger/xss-cheatsheet-data",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "xss-cheatsheet-data",
+    "repo_owner": "PortSwigger",
+    "repotime": "2025-08-28, 15:59:41",
+    "stargazers_count": 442,
+    "watchers_count": 442
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-08-27",
+    "date_updated": "2025-08-27",
+    "description": "This repository contains a Proof of Concept (PoC) for a CSV Injection (Formula Injection) vulnerability affecting applications built with the Instant Developer Foundation framework (versions prior to 25.0).",
+    "forks_count": 0,
+    "html_url": "https://github.com/valeriocassoni/CSV-Injection-in-Instant-Developer-Foundation-25.0-PoC",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CSV-Injection-in-Instant-Developer-Foundation-25.0-PoC",
+    "repo_owner": "valeriocassoni",
+    "repotime": "2025-08-27, 12:16:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-08-26",
+    "date_updated": "2025-08-27",
+    "description": "Overview of XXE (XML External Entity) vulnerabilities in .NET Framework and safe XML parsing examples in C&amp;&#35;35; and VB.NET.",
+    "forks_count": 0,
+    "html_url": "https://github.com/InfoSec-Crow/XmlLoader_Check",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Visual Basic .NET",
+    "repo_name": "XmlLoader_Check",
+    "repo_owner": "InfoSec-Crow",
+    "repotime": "2025-08-27, 08:13:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-08-26",
+    "date_updated": "2025-08-27",
+    "description": "An engaging walkthrough on uncovering, patching, and securing the WinRAR CVE-2025-8088 with a hands-on hacker’s twist.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal",
+    "keywords": [
+        "Win zero-day"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal",
+    "repo_owner": "AdityaBhatt3010",
+    "repotime": "2025-08-27, 02:24:49",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-08-24",
+    "date_updated": "2025-08-24",
+    "description": "PoC showing Linux privilege escalation via sudo Terraform. By abusing provider_installation dev_overrides and TF_CLI_CONFIG_FILE, a malicious provider script runs as root, allowing creation of a SUID root shell.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dollarboysushil/Privilege-Escalation-PoC-Terraform-sudo-Exploit",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Privilege-Escalation-PoC-Terraform-sudo-Exploit",
+    "repo_owner": "dollarboysushil",
+    "repotime": "2025-08-24, 16:37:19",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 54,
+    "date_started": "2025-01-06",
+    "date_updated": "2025-08-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/federico-zanca/KernelExploit-UAF-to-OOB",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "C",
+    "repo_name": "KernelExploit-UAF-to-OOB",
+    "repo_owner": "federico-zanca",
+    "repotime": "2025-08-24, 00:19:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-07-06",
+    "date_updated": "2025-08-23",
+    "description": "Proof of Concept for CVE-2025-32463 Local privilege escalation exploit targeting sudo -R on vulnerable Linux systems. For educational and authorized security testing only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/FreeDurok/CVE-2025-32463-PoC",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463-PoC",
+    "repo_owner": "FreeDurok",
+    "repotime": "2025-08-23, 15:48:58",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 32,
+    "date_started": "2024-06-17",
+    "date_updated": "2025-08-23",
+    "description": "Drone Swarmer is an ESP8266 device based on RemoteIDSpoofer that spoofs &amp;quot;ghost&amp;quot; drones by exploiting an Open Drone ID vulnerability using Wi-Fi beacon broadcasts 📡  🛜",
+    "forks_count": 8,
+    "html_url": "https://github.com/ANG13T/drone-swarmer",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "drone-swarmer",
+    "repo_owner": "ANG13T",
+    "repotime": "2025-08-23, 03:41:34",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-08-22",
+    "date_updated": "2025-08-22",
+    "description": "NiteeshPujari/CVE-2024-37054, This repository contains a Proof of Concept (PoC) a critical deserialization vulnerability in MLflow that allows for Remote Code Execution (RCE). ",
+    "forks_count": 0,
+    "html_url": "https://github.com/NiteeshPujari/CVE-2024-37054-MLflow-RCE",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-37054-MLflow-RCE",
+    "repo_owner": "NiteeshPujari",
+    "repotime": "2025-08-22, 18:26:43",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-11-22",
+    "date_updated": "2025-08-22",
+    "description": "Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp;amp; Remote Code Execution PoC (CVE-2021-41773 &amp;amp; CVE-2021-42013)",
+    "forks_count": 0,
+    "html_url": "https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution",
+    "repo_owner": "blackn0te",
+    "repotime": "2025-08-22, 18:05:43",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-08-30",
+    "date_updated": "2025-08-22",
+    "description": "Zero-day in AppleMediaServices: Bag fetch failure disables Mescal/Absinthe signing. Requests to Apple services proceed unsigned, exposing downgrade, replay, and bypass risk. Includes analysis, log evidence, and PoC attack logic.",
+    "forks_count": 0,
+    "html_url": "https://github.com/5ky9uy/ams-failopen",
+    "keywords": [
+        "zero-day poc"
+    ],
+    "language": null,
+    "repo_name": "ams-failopen",
+    "repo_owner": "5ky9uy",
+    "repotime": "2025-08-22, 01:56:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-08-04",
+    "date_updated": "2025-08-22",
+    "description": "PoC for CVE-2025-24893: XWiki' Remote Code Execution exploit for versions prior to 15.10.11, 16.4.1 and 16.5.0RC1.",
+    "forks_count": 2,
+    "html_url": "https://github.com/gunzf0x/CVE-2025-24893",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-24893",
+    "repo_owner": "gunzf0x",
+    "repotime": "2025-08-22, 01:33:35",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-08-20",
+    "date_updated": "2025-08-20",
+    "description": "This repository showcases a fully self-developed Proof-of-Concept (PoC) for CVE-2018-7600, widely known as Drupalgeddon 2. This critical vulnerability in Drupal 7 and 8 core enables remote code execution (RCE), and the PoC demonstrates its exploitation in a clear and educational manner.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SyedGhufranRaza/CVE-2018-7600-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-7600-Remote-Code-Execution",
+    "repo_owner": "SyedGhufranRaza",
+    "repotime": "2025-08-20, 23:13:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 140,
+    "date_started": "2025-05-17",
+    "date_updated": "2025-08-19",
+    "description": "A collection of detailed, hands-on write-ups for Hack The Box (HTB) machines that I’ve rooted. Each write-up is a real-world walkthrough of how I approached, enumerated, exploited, and escalated privileges on vulnerable boxes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Raihan93-coder/HTB-writeups",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "HTB-writeups",
+    "repo_owner": "Raihan93-coder",
+    "repotime": "2025-08-19, 19:51:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-08-13",
+    "date_updated": "2025-08-19",
+    "description": "POC for CVE-2025-50154, a zero day vulnerability on windows file explorer disclosing NTLMv2-SSP without user interaction. It is a bypass for the CVE-2025-24054 Security Patch",
+    "forks_count": 10,
+    "html_url": "https://github.com/rubenformation/CVE-2025-50154",
+    "keywords": [
+        "Windows zero-day poc",
+        "Windows zero-day",
+        "zero-day poc"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2025-50154",
+    "repo_owner": "rubenformation",
+    "repotime": "2025-08-19, 12:07:20",
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-08-14",
+    "date_updated": "2025-08-19",
+    "description": "Advanced WinRAR Path Traversal Exploit Tool for CVE-2025-8088",
+    "forks_count": 12,
+    "html_url": "https://github.com/onlytoxi/CVE-2025-8088-Winrar-Tool",
+    "keywords": [
+        "Win zero-day",
+        "Win zero-day poc",
+        "zero-day exploit",
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-8088-Winrar-Tool",
+    "repo_owner": "onlytoxi",
+    "repotime": "2025-08-19, 00:16:44",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 111,
+    "date_started": "2022-01-23",
+    "date_updated": "2025-08-18",
+    "description": "Weaponizing WaybackUrls for Recon, BugBounties , OSINT, Sensitive Endpoints and what not",
+    "forks_count": 70,
+    "html_url": "https://github.com/anmolksachan/TheTimeMachine",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "TheTimeMachine",
+    "repo_owner": "anmolksachan",
+    "repotime": "2025-08-18, 11:28:09",
+    "stargazers_count": 462,
+    "watchers_count": 462
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-08-17",
+    "date_updated": "2025-08-17",
+    "description": "Proof-of-Concept for CVE-2025-8088 vulnerability in WinRAR (path traversal via ADS)",
+    "forks_count": 1,
+    "html_url": "https://github.com/pexlexity/WinRAR-CVE-2025-8088-Path-Traversal-PoC",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "WinRAR-CVE-2025-8088-Path-Traversal-PoC",
+    "repo_owner": "pexlexity",
+    "repotime": "2025-08-17, 12:00:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 19,
+    "date_started": "2025-08-16",
+    "date_updated": "2025-08-17",
+    "description": "CVE-2025-6934 is a critical vulnerability in the WordPress Opal Estate Pro plugin (&amp;lt;= 1.7.5) that allows unauthenticated attackers to create new administrator accounts through the plugin’s insecure AJAX registration process.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xgh057r3c0n/CVE-2025-6934",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-6934",
+    "repo_owner": "0xgh057r3c0n",
+    "repotime": "2025-08-17, 06:17:26",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-08-15",
+    "date_updated": "2025-08-15",
+    "description": "sap netweaver 0day poc by shinyhunters (scattered lapsus$ hunters) affecting all 7.x CVE-2025-31324",
+    "forks_count": 0,
+    "html_url": "https://github.com/antichainalysis/sap-netweaver-0day-CVE-2025-31324",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "sap-netweaver-0day-CVE-2025-31324",
+    "repo_owner": "antichainalysis",
+    "repotime": "2025-08-15, 15:54:13",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-08-13",
+    "date_updated": "2025-08-14",
+    "description": "CVE-2025-32433 PoC: Unauthenticated Remote Code Execution (RCE) in Erlang/OTP SSH. A proof-of-concept exploit for CVE-2025-32433",
+    "forks_count": 1,
+    "html_url": "https://github.com/NiteeshPujari/CVE-2025-32433-PoC",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-32433-PoC",
+    "repo_owner": "NiteeshPujari",
+    "repotime": "2025-08-14, 13:13:35",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-06-02",
+    "date_updated": "2025-08-13",
+    "description": "PPress-CMS session forgery + SSTI vulnerability leads to remote command execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/quarter77/PPress-CMS-session-forgery-SSTI-vulnerability-leads-to-remote-command-execution",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "PPress-CMS-session-forgery-SSTI-vulnerability-leads-to-remote-command-execution",
+    "repo_owner": "quarter77",
+    "repotime": "2025-08-13, 09:10:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-08-12",
+    "date_updated": "2025-08-12",
+    "description": "CVE-2024-47533 is a critical authentication bypass vulnerability in Cobbler (versions 3.0.0 to before 3.2.3 and 3.3.7) allowing unauthenticated remote code execution via the XMLRPC interface.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dollarboysushil/CVE-2024-47533-Cobbler-XMLRPC-Authentication-Bypass-RCE-Exploit-POC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-47533-Cobbler-XMLRPC-Authentication-Bypass-RCE-Exploit-POC",
+    "repo_owner": "dollarboysushil",
+    "repotime": "2025-08-12, 19:38:21",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-08-12",
+    "date_updated": "2025-08-12",
+    "description": "WinRAR 0day CVE-2025-8088 PoC RAR Archive",
+    "forks_count": 11,
+    "html_url": "https://github.com/knight0x07/WinRAR-CVE-2025-8088-PoC-RAR",
+    "keywords": [
+        "Win 0day",
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "WinRAR-CVE-2025-8088-PoC-RAR",
+    "repo_owner": "knight0x07",
+    "repotime": "2025-08-12, 06:25:25",
+    "stargazers_count": 41,
+    "watchers_count": 41
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-08-11",
+    "date_updated": "2025-08-11",
+    "description": "Update the old POC of CVE-2025-5777 Citrix NetScaler Memory leak",
+    "forks_count": 1,
+    "html_url": "https://github.com/rootxsushant/Citrix-NetScaler-Memory-Leak-CVE-2025-5777",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "Python",
+    "repo_name": "Citrix-NetScaler-Memory-Leak-CVE-2025-5777",
+    "repo_owner": "rootxsushant",
+    "repotime": "2025-08-11, 21:23:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-08-09",
+    "date_updated": "2025-08-10",
+    "description": "CVE-2021-30809 UAF use-after-free PoC",
+    "forks_count": 0,
+    "html_url": "https://github.com/seregonwar/CVE-2021-30809-UAF",
+    "keywords": [
+        "uaf poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-30809-UAF",
+    "repo_owner": "seregonwar",
+    "repotime": "2025-08-10, 15:33:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 40,
+    "date_started": "2015-10-18",
+    "date_updated": "2025-08-10",
+    "description": "Wordpress XMLRPC System Multicall Brute Force Exploit (0day)  by 1N3 @ CrowdShield",
+    "forks_count": 198,
+    "html_url": "https://github.com/1N3/Wordpress-XMLRPC-Brute-Force-Exploit",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "Wordpress-XMLRPC-Brute-Force-Exploit",
+    "repo_owner": "1N3",
+    "repotime": "2025-08-10, 06:11:57",
+    "stargazers_count": 479,
+    "watchers_count": 479
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-08-10",
+    "date_updated": "2025-08-10",
+    "description": "Proof-of-Concept (POC) Python project demonstrating socket-based remote command execution, file transfer,webcam, screenshot, keylogger and automation in a safe, lab-only environment. Includes client/server examples, code explanations, and setup guides for learning network programming and remote administration concepts.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rageXpriyam/RAT-using-python",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "RAT-using-python",
+    "repo_owner": "rageXpriyam",
+    "repotime": "2025-08-10, 11:57:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-08-08",
+    "date_updated": "2025-08-08",
+    "description": "XWiki 15.10.11, 16.4.1 and 16.5.0RC1 Unauthenticated Remote code execution POC",
+    "forks_count": 0,
+    "html_url": "https://github.com/alaxar/CVE-2025-24893",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-24893",
+    "repo_owner": "alaxar",
+    "repotime": "2025-08-08, 23:19:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-08-08",
+    "date_updated": "2025-08-09",
+    "description": "This repository contains a completely original and self-developed Proof-of-Concept (PoC) for CVE-2018-7600, also known as Drupalgeddon 2 — a critical remote code execution vulnerability affecting Drupal 7 and 8 core versions.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rajaabdullahnasir/CVE-2018-7600-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-7600-Remote-Code-Execution",
+    "repo_owner": "rajaabdullahnasir",
+    "repotime": "2025-08-09, 00:43:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-08-05",
+    "date_updated": "2025-08-07",
+    "description": " Proof-of-Concept exploit for CVE-2025-24893, an unauthenticated Remote Code Execution (RCE) vulnerability in XWiki. Exploits a template injection flaw in the SolrSearch endpoint via Groovy script execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/investigato/cve-2025-24893-poc",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Rust",
+    "repo_name": "cve-2025-24893-poc",
+    "repo_owner": "investigato",
+    "repotime": "2025-08-07, 12:32:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-08-07",
+    "date_updated": "2025-08-07",
+    "description": "CVE-2025-24893 is a critical unauthenticated remote code execution (RCE) vulnerability in XWiki, a popular open-source enterprise wiki platform.",
+    "forks_count": 0,
+    "html_url": "https://github.com/IIIeJlyXaKapToIIIKu/CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch",
+    "repo_owner": "IIIeJlyXaKapToIIIKu",
+    "repotime": "2025-08-07, 14:19:41",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-08-23",
+    "date_updated": "2025-08-07",
+    "description": "A Poc on blocking Procmon from monitoring network events",
+    "forks_count": 14,
+    "html_url": "https://github.com/NUL0x4C/EtwSessionHijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C++",
+    "repo_name": "EtwSessionHijacking",
+    "repo_owner": "NUL0x4C",
+    "repotime": "2025-08-07, 11:33:48",
+    "stargazers_count": 107,
+    "watchers_count": 107
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-07-04",
+    "date_updated": "2025-08-07",
+    "description": "🛡️ Proof of Concept (PoC) for CVE-2025-32463 — Local privilege escalation in sudo (versions 1.9.14 to 1.9.17). This exploit abuses the --chroot option and a malicious nsswitch.conf to execute arbitrary code as root. ⚠️ For educational and authorized testing only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/cyberpoul/CVE-2025-32463-POC",
+    "keywords": [
+        "escalation of privileges poc"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463-POC",
+    "repo_owner": "cyberpoul",
+    "repotime": "2025-08-07, 06:01:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-08-05",
+    "date_updated": "2025-08-06",
+    "description": "CVE-2024-32019 is a high-severity local privilege escalation vulnerability in Netdata (versions &amp;gt;= 1.44.0-60 &amp;lt; 1.45.3), caused by insecure use of the PATH variable in the ndsudo SUID binary, allowing attackers to execute arbitrary commands as root.",
+    "forks_count": 1,
+    "html_url": "https://github.com/dollarboysushil/CVE-2024-32019-Netdata-ndsudo-PATH-Vulnerability-Privilege-Escalation",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-32019-Netdata-ndsudo-PATH-Vulnerability-Privilege-Escalation",
+    "repo_owner": "dollarboysushil",
+    "repotime": "2025-08-06, 21:11:11",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 68,
+    "date_started": "2025-07-23",
+    "date_updated": "2025-08-06",
+    "description": "Multi-agent LLM ensemble for automated zero-day vulnerability detection.   Thompson Sampling optimization, 21+ evidence sources, 5 specialized   agents.",
+    "forks_count": 1,
+    "html_url": "https://github.com/lodetomasi/zero-day-llm-ensemble",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "zero-day-llm-ensemble",
+    "repo_owner": "lodetomasi",
+    "repotime": "2025-08-06, 08:47:04",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-07-09",
+    "date_updated": "2025-08-05",
+    "description": "LPE / RCE Exploits for various vulnerable &amp;quot;Bloatware&amp;quot; products",
+    "forks_count": 5,
+    "html_url": "https://github.com/sensepost/bloatware-pwn",
+    "keywords": [
+        "by_owner",
+        "lpe exploit"
+    ],
+    "language": "C#",
+    "repo_name": "bloatware-pwn",
+    "repo_owner": "sensepost",
+    "repotime": "2025-08-05, 14:33:07",
+    "stargazers_count": 71,
+    "watchers_count": 71
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-08-05",
+    "date_updated": "2025-08-05",
+    "description": "Questo script è un proof of concept (PoC) che dimostra una tecnica di privilege escalation (Elevazione di privilegi) sfruttando una vulnerabilità teorica di sudo (es. CVE-2025-32463). Il PoC forza sudo a caricare una libreria .so manipolata sfruttando la funzionalità -R (chroot) e la configurazione personalizzata di NSS (nsswitch.conf).",
+    "forks_count": 0,
+    "html_url": "https://github.com/aldoClau98/CVE-2025-32463",
+    "keywords": [
+        "escalation of privileges poc"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463",
+    "repo_owner": "aldoClau98",
+    "repotime": "2025-08-05, 17:42:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-07-31",
+    "date_updated": "2025-08-05",
+    "description": "Stored XSS in a CMS platform leads to remote code execution (CVE-2025-50754)",
+    "forks_count": 0,
+    "html_url": "https://github.com/furk4nyildiz/CVE-2025-50754-PoC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-50754-PoC",
+    "repo_owner": "furk4nyildiz",
+    "repotime": "2025-08-05, 07:05:27",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-08-04",
+    "date_updated": "2025-08-04",
+    "description": "CVE-2025-24893 is a critical unauthenticated remote code execution vulnerability in XWiki (versions &amp;lt; 15.10.11, 16.4.1, 16.5.0RC1) caused by improper handling of Groovy expressions in the SolrSearch macro.",
+    "forks_count": 1,
+    "html_url": "https://github.com/dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC",
+    "repo_owner": "dollarboysushil",
+    "repotime": "2025-08-04, 22:38:27",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-07-22",
+    "date_updated": "2025-08-04",
+    "description": "Unauthenticated Remote Code Execution via unsafe deserialization in Microsoft SharePoint Server (CVE-2025-53770)",
+    "forks_count": 1,
+    "html_url": "https://github.com/MuhammadWaseem29/CVE-2025-53770",
+    "keywords": [
+        "Microsoft remote code execution",
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-53770",
+    "repo_owner": "MuhammadWaseem29",
+    "repotime": "2025-08-04, 18:03:00",
+    "stargazers_count": 50,
+    "watchers_count": 50
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-07-13",
+    "date_updated": "2025-08-03",
+    "description": "Malicious-ONNX is a proof-of-concept (PoC) demonstrating how ONNX model files can be weaponized using metadata-based payload injection. The attack leverages the metadata_props field to embed an obfuscated Python-based script, enabling remote code execution (RCE) and data exfiltration upon model loading.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Michael-Obs66/RCE-Via-Metadata-ONNX-Model",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "RCE-Via-Metadata-ONNX-Model",
+    "repo_owner": "Michael-Obs66",
+    "repotime": "2025-08-03, 11:26:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-08-03",
+    "date_updated": "2025-08-03",
+    "description": "Tribell Edge Sandbox Escape - PoCs of Edge's legacy vulnerabilities BadgeUpdateManager / TileFlyoutUpdateManager / ToastNotificationManager to exploit cross-boundary XmlDocument sharing and escape Edge’s LPAC sandbox (CVE-2019-0555). ",
+    "forks_count": 2,
+    "html_url": "https://github.com/kai6u/TriBell_Edge_SandBox_Escape",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "TriBell_Edge_SandBox_Escape",
+    "repo_owner": "kai6u",
+    "repotime": "2025-08-03, 12:19:13",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 37,
+    "date_started": "2025-08-02",
+    "date_updated": "2025-08-02",
+    "description": "A curated collection of binary exploitation techniques with PoC exploits. Covers stack-based ROP chains, ASLR bypass methods, and heap exploits. Clean, educational, and real-world focused.",
+    "forks_count": 0,
+    "html_url": "https://github.com/r4xis/exploit-techniques-poc-archive",
+    "keywords": [
+        "aslr bypass exploit"
+    ],
+    "language": "Python",
+    "repo_name": "exploit-techniques-poc-archive",
+    "repo_owner": "r4xis",
+    "repotime": "2025-08-02, 17:52:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-08-02",
+    "date_updated": "2025-08-02",
+    "description": "A critical vulnerability in Microsoft SharePoint Server allows unauthenticated remote code execution via deserialization of untrusted data. Microsoft is aware of active exploitation; apply CVE mitigations immediately. Severity: Critical.",
+    "forks_count": 0,
+    "html_url": "https://github.com/harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC",
+    "keywords": [
+        "Microsoft rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-53770-SharePoint-Deserialization-RCE-PoC",
+    "repo_owner": "harryhaxor",
+    "repotime": "2025-08-02, 01:11:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

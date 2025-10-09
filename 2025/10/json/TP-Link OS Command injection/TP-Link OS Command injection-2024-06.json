@@ -226,3 +226,231 @@
     "stargazers_count": 361,
     "watchers_count": 361
 }
+{
+    "commits_count": 4,
+    "date_started": "2024-06-29",
+    "date_updated": "2024-06-29",
+    "description": "Conducted a security audit on a banking platform, identifying critical vulnerabilities like CSRF, SQL injection, and session hijacking.",
+    "forks_count": 0,
+    "html_url": "https://github.com/manan3008/Penetration-Testing-Project",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Penetration-Testing-Project",
+    "repo_owner": "manan3008",
+    "repotime": "2024-06-29, 15:18:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 162,
+    "date_started": "2017-12-26",
+    "date_updated": "2024-06-28",
+    "description": "Java web common vulnerabilities and security code which is base on springboot and spring security",
+    "forks_count": 707,
+    "html_url": "https://github.com/JoyChou93/java-sec-code",
+    "keywords": [
+        "rce vulnerability",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "java-sec-code",
+    "repo_owner": "JoyChou93",
+    "repotime": "2024-06-28, 09:52:04",
+    "stargazers_count": 2594,
+    "watchers_count": 2594
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-06-26",
+    "date_updated": "2024-06-26",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Redfox-Secuirty/Understanding-XML-External-Entity-Injection-XXE-Attacks",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "Understanding-XML-External-Entity-Injection-XXE-Attacks",
+    "repo_owner": "Redfox-Secuirty",
+    "repotime": "2024-06-26, 14:30:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-06-26",
+    "date_updated": "2024-06-26",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/HPT-Intern-Task-Submission/Server-side-Request-Forgery",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "Server-side-Request-Forgery",
+    "repo_owner": "HPT-Intern-Task-Submission",
+    "repotime": "2024-06-26, 08:52:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-06-18",
+    "date_updated": "2024-06-18",
+    "description": "Pentesting labs curated by Web Security Academy by PortSwigger. Labs range from SQL injection, Cross-site scripting (XSS), Cross site request forgery, Server side request forgery, XML external entity injection, and  Directory Traversal",
+    "forks_count": 0,
+    "html_url": "https://github.com/shannongrey/Web-Security-Academy-Labs",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "Web-Security-Academy-Labs",
+    "repo_owner": "shannongrey",
+    "repotime": "2024-06-18, 13:40:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-06-12",
+    "date_updated": "2024-06-12",
+    "description": "Ivanti EPM SQL Injection Remote Code Execution Vulnerability",
+    "forks_count": 6,
+    "html_url": "https://github.com/horizon3ai/CVE-2024-29824",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-29824",
+    "repo_owner": "horizon3ai",
+    "repotime": "2024-06-12, 10:03:56",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 17,
+    "date_started": "2022-07-10",
+    "date_updated": "2024-06-10",
+    "description": "We use kali linux and ubuntu to configure a vulnerable version of a minecraft server running log4j. We then use tools like nmap, metasploit, meterpreter, mimicatz, etc to enumerate and exploit the target and perform privilege escalation for our Fullstack Academy Cyber Bootcamp 2022.",
+    "forks_count": 0,
+    "html_url": "https://github.com/JacobAragon1/Log4j-minecraft-exploit",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Log4j-minecraft-exploit",
+    "repo_owner": "JacobAragon1",
+    "repotime": "2024-06-10, 17:27:33",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-06-09",
+    "date_updated": "2024-06-10",
+    "description": "A PoC exploit for CVE-2024-4577 - PHP CGI Argument Injection Remote Code Execution (RCE)",
+    "forks_count": 2,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-4577-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-06-10, 07:12:44",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-06-08",
+    "date_updated": "2024-06-08",
+    "description": "Proof Of Concept RCE exploit for critical vulnerability in PHP &amp;lt;8.2.15 (Windows), allowing attackers to execute arbitrary commands.",
+    "forks_count": 0,
+    "html_url": "https://github.com/manuelinfosec/CVE-2024-4577",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-4577",
+    "repo_owner": "manuelinfosec",
+    "repotime": "2024-06-08, 06:50:10",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-06-07",
+    "date_updated": "2024-06-07",
+    "description": "PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC",
+    "forks_count": 61,
+    "html_url": "https://github.com/watchtowrlabs/CVE-2024-4577",
+    "keywords": [
+        "remote code execution poc",
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-4577",
+    "repo_owner": "watchtowrlabs",
+    "repotime": "2024-06-07, 05:53:14",
+    "stargazers_count": 296,
+    "watchers_count": 296
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-06-07",
+    "date_updated": "2024-06-07",
+    "description": "PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC",
+    "forks_count": 3,
+    "html_url": "https://github.com/Junp0/CVE-2024-4577",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-4577",
+    "repo_owner": "Junp0",
+    "repotime": "2024-06-07, 17:40:00",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-06-03",
+    "date_updated": "2024-06-03",
+    "description": "Apache HugeGraph Server Unauthenticated RCE - CVE-2024-27348 Proof of concept Exploit  ",
+    "forks_count": 8,
+    "html_url": "https://github.com/kljunowsky/CVE-2024-27348",
+    "keywords": [
+        "unauthenticated rce",
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-27348",
+    "repo_owner": "kljunowsky",
+    "repotime": "2024-06-03, 21:20:10",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 37,
+    "date_started": "2024-05-05",
+    "date_updated": "2024-06-02",
+    "description": "Official Kali Linux tool to check all urls of a domain for SQL injections :)",
+    "forks_count": 49,
+    "html_url": "https://github.com/malvads/sqlmc",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmc",
+    "repo_owner": "malvads",
+    "repotime": "2024-06-02, 23:35:23",
+    "stargazers_count": 361,
+    "watchers_count": 361
+}
