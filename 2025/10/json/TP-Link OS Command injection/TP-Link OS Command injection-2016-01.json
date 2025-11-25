@@ -32,37 +32,3 @@
     "stargazers_count": 133,
     "watchers_count": 133
 }
-{
-    "commits_count": 5,
-    "date_started": "2016-01-26",
-    "date_updated": "2016-01-26",
-    "description": "<no description>",
-    "forks_count": 39,
-    "html_url": "https://github.com/diegslva/BypassUAC",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "C",
-    "repo_name": "BypassUAC",
-    "repo_owner": "diegslva",
-    "repotime": "2016-01-26, 15:30:03",
-    "stargazers_count": 20,
-    "watchers_count": 20
-}
-{
-    "commits_count": 5,
-    "date_started": "2015-03-17",
-    "date_updated": "2016-01-23",
-    "description": "A small python script to check for Cross-Site Tracing (XST)",
-    "forks_count": 59,
-    "html_url": "https://github.com/1N3/XSSTracer",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Python",
-    "repo_name": "XSSTracer",
-    "repo_owner": "1N3",
-    "repotime": "2016-01-23, 11:28:19",
-    "stargazers_count": 133,
-    "watchers_count": 133
-}

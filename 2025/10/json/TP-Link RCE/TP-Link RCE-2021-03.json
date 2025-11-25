@@ -20,25 +20,3 @@
     "stargazers_count": 8,
     "watchers_count": 8
 }
-{
-    "commits_count": 4,
-    "date_started": "2021-03-14",
-    "date_updated": "2021-03-15",
-    "description": "RCE exploit for ProxyLogon vulnerability in Microsoft Exchange",
-    "forks_count": 8,
-    "html_url": "https://github.com/mil1200/ProxyLogon-CVE-2021-26855",
-    "keywords": [
-        "Microsoft rce vulnerability",
-        "Microsoft rce",
-        "Microsoft rce exploit",
-        "rce exploitation",
-        "rce vulnerability",
-        "Microsoft rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "ProxyLogon-CVE-2021-26855",
-    "repo_owner": "mil1200",
-    "repotime": "2021-03-15, 00:03:12",
-    "stargazers_count": 8,
-    "watchers_count": 8
-}

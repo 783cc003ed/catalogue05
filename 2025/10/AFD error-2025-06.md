@@ -4024,8 +4024,8 @@ The best tool for finding one gadget RCE in libc.so.6
     <td>Started: <code>2017-02-07 08:03:34+00:00</code></td>
     <td>Latest: <code>2025-08-01 09:37:24+08:00</code></td></tr>
 <tr><td>Commits: <code>320</code></td>
-    <td>Stargazers: <code>2237</code></td>
-    <td>Watchers: <code>2237</code></td>
+    <td>Stargazers: <code>2238</code></td>
+    <td>Watchers: <code>2238</code></td>
     <td>Forks: <code>145</code></td></tr>
 </table>
 Keywords: rce exploit

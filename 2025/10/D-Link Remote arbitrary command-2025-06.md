@@ -1824,9 +1824,9 @@ CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS d
     <td>Started: <code>2018-07-17 00:21:08+00:00</code></td>
     <td>Latest: <code>2025-09-18 09:44:41-05:00</code></td></tr>
 <tr><td>Commits: <code>745</code></td>
-    <td>Stargazers: <code>3347</code></td>
-    <td>Watchers: <code>3347</code></td>
-    <td>Forks: <code>699</code></td></tr>
+    <td>Stargazers: <code>3348</code></td>
+    <td>Watchers: <code>3348</code></td>
+    <td>Forks: <code>702</code></td></tr>
 </table>
 Keywords: by_owner
 

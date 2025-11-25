@@ -15,20 +15,3 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
-{
-    "commits_count": 6,
-    "date_started": "2025-07-13",
-    "date_updated": "2025-08-03",
-    "description": "Malicious-ONNX is a proof-of-concept (PoC) demonstrating how ONNX model files can be weaponized using metadata-based payload injection. The attack leverages the metadata_props field to embed an obfuscated Python-based script, enabling remote code execution (RCE) and data exfiltration upon model loading.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Michael-Obs66/RCE-Via-Metadata-ONNX-Model",
-    "keywords": [
-        "rce proof of concept"
-    ],
-    "language": "Python",
-    "repo_name": "RCE-Via-Metadata-ONNX-Model",
-    "repo_owner": "Michael-Obs66",
-    "repotime": "2025-08-03, 11:26:34",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}

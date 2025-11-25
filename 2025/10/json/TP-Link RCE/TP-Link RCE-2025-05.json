@@ -15,20 +15,3 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
-{
-    "commits_count": 5,
-    "date_started": "2025-05-08",
-    "date_updated": "2025-05-09",
-    "description": "A proof-of-concept for the CVE-2021-25646, which allows for Command Injection",
-    "forks_count": 0,
-    "html_url": "https://github.com/tiemio/RCE-PoC-CVE-2021-25646",
-    "keywords": [
-        "rce proof of concept"
-    ],
-    "language": "Go",
-    "repo_name": "RCE-PoC-CVE-2021-25646",
-    "repo_owner": "tiemio",
-    "repotime": "2025-05-09, 09:19:22",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}

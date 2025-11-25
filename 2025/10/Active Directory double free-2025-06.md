@@ -298,10 +298,10 @@ TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things
 <tr><td>Owner: <code>GhostTroops</code></td>
     <td>Language: <code>Shell</code></td>
     <td>Started: <code>2022-03-19 01:54:15+00:00</code></td>
-    <td>Latest: <code>2025-10-08 01:08:13+00:00</code></td></tr>
-<tr><td>Commits: <code>1330</code></td>
-    <td>Stargazers: <code>705</code></td>
-    <td>Watchers: <code>705</code></td>
+    <td>Latest: <code>2025-10-09 01:09:05+00:00</code></td></tr>
+<tr><td>Commits: <code>1331</code></td>
+    <td>Stargazers: <code>704</code></td>
+    <td>Watchers: <code>704</code></td>
     <td>Forks: <code>122</code></td></tr>
 </table>
 Keywords: rce exploit, rce poc, rce vulnerability
@@ -3028,8 +3028,8 @@ The best tool for finding one gadget RCE in libc.so.6
     <td>Started: <code>2017-02-07 08:03:34+00:00</code></td>
     <td>Latest: <code>2025-08-01 09:37:24+08:00</code></td></tr>
 <tr><td>Commits: <code>320</code></td>
-    <td>Stargazers: <code>2237</code></td>
-    <td>Watchers: <code>2237</code></td>
+    <td>Stargazers: <code>2238</code></td>
+    <td>Watchers: <code>2238</code></td>
     <td>Forks: <code>145</code></td></tr>
 </table>
 Keywords: rce exploit
